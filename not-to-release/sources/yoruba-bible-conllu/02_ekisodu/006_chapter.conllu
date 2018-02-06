@@ -1,0 +1,881 @@
+# source = Bibeli Mimọ, Ékísódù, Chapter 6
+# newdoc id = EXOD_6
+# sent_id = EXOD_6.1
+# text = Nígbà náà ní Olúwa sọ fún Mósè pé, “Ní ìsin yìí, ìwọ yóò rí ohun tí èmi yóò ṣe sí Fáráò pẹ̀lú ọwọ́ agbára ńlá mi ni yóò fi jẹ́ kí wọn lọ; pẹ̀lú ọwọ́ agbára ńlá mi, òun yóò lé wọn jáde kúró ní orílẹ̀ èdè rẹ̀.”
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=EXOD_6.1
+2	náà	náà	X	_	_	0	_	_	Ref=EXOD_6.1
+3	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.1
+4	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.1
+5	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.1
+6	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.1
+7	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.1
+8	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.1|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.1
+10	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.1|SpaceAfter=No
+11	Ní	ní	X	_	_	0	_	_	Ref=EXOD_6.1
+12	ìsin	ìsin	X	_	_	0	_	_	Ref=EXOD_6.1
+13	yìí	yìí	X	_	_	0	_	_	Ref=EXOD_6.1|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.1
+15	ìwọ	ìwọ	X	_	_	0	_	_	Ref=EXOD_6.1
+16	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.1
+17	rí	rí	X	_	_	0	_	_	Ref=EXOD_6.1
+18	ohun	ohun	X	_	_	0	_	_	Ref=EXOD_6.1
+19	tí	tí	X	_	_	0	_	_	Ref=EXOD_6.1
+20	èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.1
+21	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.1
+22	ṣe	ṣe	X	_	_	0	_	_	Ref=EXOD_6.1
+23	sí	sí	X	_	_	0	_	_	Ref=EXOD_6.1
+24	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=EXOD_6.1
+25	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EXOD_6.1
+26	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=EXOD_6.1
+27	agbára	agbára	X	_	_	0	_	_	Ref=EXOD_6.1
+28	ńlá	ńlá	X	_	_	0	_	_	Ref=EXOD_6.1
+29	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.1
+30	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.1
+31	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.1
+32	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.1
+33	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EXOD_6.1
+34	kí	kí	X	_	_	0	_	_	Ref=EXOD_6.1
+35	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.1
+36	lọ	lọ	X	_	_	0	_	_	Ref=EXOD_6.1|SpaceAfter=No
+37	;	;	PUNCT	_	_	0	punct	_	Ref=EXOD_6.1
+38	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EXOD_6.1
+39	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=EXOD_6.1
+40	agbára	agbára	X	_	_	0	_	_	Ref=EXOD_6.1
+41	ńlá	ńlá	X	_	_	0	_	_	Ref=EXOD_6.1
+42	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.1|SpaceAfter=No
+43	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.1
+44	òun	òun	X	_	_	0	_	_	Ref=EXOD_6.1
+45	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.1
+46	lé	lé	X	_	_	0	_	_	Ref=EXOD_6.1
+47	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.1
+48	jáde	jáde	X	_	_	0	_	_	Ref=EXOD_6.1
+49	kúró	kúró	X	_	_	0	_	_	Ref=EXOD_6.1
+50	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.1
+51	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=EXOD_6.1
+52	èdè	èdè	X	_	_	0	_	_	Ref=EXOD_6.1
+53	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EXOD_6.1|SpaceAfter=No
+54	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.1|SpaceAfter=No
+55	”	”	PUNCT	_	_	0	punct	_	Ref=EXOD_6.1
+
+# sent_id = EXOD_6.2
+# text = Ọlọ́run sì tún sọ fún Mósè pé, “Èmi ni Olúwa .
+1	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EXOD_6.2
+2	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.2
+3	tún	tún	X	_	_	0	_	_	Ref=EXOD_6.2
+4	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.2
+5	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.2
+6	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.2
+7	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.2|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.2
+9	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.2|SpaceAfter=No
+10	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.2
+11	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.2
+12	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.2
+13	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.2
+
+# sent_id = EXOD_6.3
+# text = Mo fi ara hàn Ábúráhámù, Ísáákì àti Jákọ́bù bí Ọlọ́run alágbára (Ẹ́lísàdáì) ṣùgbọ́n nípa orúkọ mi Olúwa , Èmi kò fi ara mi hàn wọ́n.
+1	Mo	mo	X	_	_	0	_	_	Ref=EXOD_6.3
+2	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.3
+3	ara	ara	X	_	_	0	_	_	Ref=EXOD_6.3
+4	hàn	hàn	X	_	_	0	_	_	Ref=EXOD_6.3
+5	Ábúráhámù	Ábúráhámù	PROPN	_	_	0	_	_	Ref=EXOD_6.3|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.3
+7	Ísáákì	Ísáákì	PROPN	_	_	0	_	_	Ref=EXOD_6.3
+8	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.3
+9	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=EXOD_6.3
+10	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.3
+11	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EXOD_6.3
+12	alágbára	alágbára	X	_	_	0	_	_	Ref=EXOD_6.3
+13	(	(	PUNCT	_	_	0	punct	_	Ref=EXOD_6.3|SpaceAfter=No
+14	Ẹ́lísàdáì	Ẹ́lísàdáì	PROPN	_	_	0	_	_	Ref=EXOD_6.3|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=EXOD_6.3
+16	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=EXOD_6.3
+17	nípa	nípa	X	_	_	0	_	_	Ref=EXOD_6.3
+18	orúkọ	orúkọ	X	_	_	0	_	_	Ref=EXOD_6.3
+19	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.3
+20	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.3
+21	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.3
+22	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.3
+23	kò	kò	X	_	_	0	_	_	Ref=EXOD_6.3
+24	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.3
+25	ara	ara	X	_	_	0	_	_	Ref=EXOD_6.3
+26	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.3
+27	hàn	hàn	X	_	_	0	_	_	Ref=EXOD_6.3
+28	wọ́n	wọ́n	X	_	_	0	_	_	Ref=EXOD_6.3|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.3
+
+# sent_id = EXOD_6.4
+# text = Èmí sì tún fi idi májẹ̀mu mi múlẹ̀ pẹ̀lú wọn láti fún wọn ní ilẹ̀ Kénánì, ilẹ̀ tí wọn gbé gẹ́gẹ́ bí àjòjì.
+1	Èmí	èmí	X	_	_	0	_	_	Ref=EXOD_6.4
+2	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.4
+3	tún	tún	X	_	_	0	_	_	Ref=EXOD_6.4
+4	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.4
+5	idi	idi	X	_	_	0	_	_	Ref=EXOD_6.4
+6	májẹ̀mu	májẹ̀mu	X	_	_	0	_	_	Ref=EXOD_6.4
+7	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.4
+8	múlẹ̀	múlẹ̀	X	_	_	0	_	_	Ref=EXOD_6.4
+9	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EXOD_6.4
+10	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.4
+11	láti	láti	X	_	_	0	_	_	Ref=EXOD_6.4
+12	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.4
+13	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.4
+14	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.4
+15	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=EXOD_6.4
+16	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=EXOD_6.4|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.4
+18	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=EXOD_6.4
+19	tí	tí	X	_	_	0	_	_	Ref=EXOD_6.4
+20	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.4
+21	gbé	gbé	X	_	_	0	_	_	Ref=EXOD_6.4
+22	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EXOD_6.4
+23	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.4
+24	àjòjì	àjòjì	X	_	_	0	_	_	Ref=EXOD_6.4|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.4
+
+# sent_id = EXOD_6.5
+# text = Èmi sì ti tún gbọ́ kíkùn àwọn ọmọ Ísírẹ́lì àwọn tí àwọn ará Éjíbítì mú gẹ́gẹ́ bí ẹrú, àti pé èmi sì ti rántí májẹ̀mu mi.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.5
+2	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.5
+3	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.5
+4	tún	tún	X	_	_	0	_	_	Ref=EXOD_6.5
+5	gbọ́	gbọ́	X	_	_	0	_	_	Ref=EXOD_6.5
+6	kíkùn	kíkùn	X	_	_	0	_	_	Ref=EXOD_6.5
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.5
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.5
+9	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.5
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.5
+11	tí	tí	X	_	_	0	_	_	Ref=EXOD_6.5
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.5
+13	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.5
+14	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.5
+15	mú	mú	X	_	_	0	_	_	Ref=EXOD_6.5
+16	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EXOD_6.5
+17	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.5
+18	ẹrú	ẹrú	X	_	_	0	_	_	Ref=EXOD_6.5|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.5
+20	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.5
+21	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.5
+22	èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.5
+23	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.5
+24	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.5
+25	rántí	rántí	X	_	_	0	_	_	Ref=EXOD_6.5
+26	májẹ̀mu	májẹ̀mu	X	_	_	0	_	_	Ref=EXOD_6.5
+27	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.5|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.5
+
+# sent_id = EXOD_6.6
+# text = “Sọ fún àwọn ará ilé Ísírẹ́lì: ‘Èmi ni Olúwa , Èmi yóò sọ yín di òmìnira kúró nínú àjàgà àwọn ará Éjíbítì. Èmi yóò sì gbà yín sílẹ̀ kúró ní oko ẹrú wọn. Èmi yóò dá a yín sílẹ̀ pẹ̀lú apá nínà (àwọn iṣẹ́ ìyanu) àti pẹ̀lú ìdájọ́ ńlá.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6|SpaceAfter=No
+2	Sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.6
+3	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.6
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.6
+5	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.6
+6	ilé	ilé	X	_	_	0	_	_	Ref=EXOD_6.6
+7	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.6|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6
+9	‘	‘	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6|SpaceAfter=No
+10	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.6
+11	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.6
+12	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.6
+13	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6
+14	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.6
+15	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.6
+16	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.6
+17	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.6
+18	di	di	X	_	_	0	_	_	Ref=EXOD_6.6
+19	òmìnira	òmìnira	X	_	_	0	_	_	Ref=EXOD_6.6
+20	kúró	kúró	X	_	_	0	_	_	Ref=EXOD_6.6
+21	nínú	nínú	X	_	_	0	_	_	Ref=EXOD_6.6
+22	àjàgà	àjàgà	X	_	_	0	_	_	Ref=EXOD_6.6
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.6
+24	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.6
+25	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.6|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6
+27	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.6
+28	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.6
+29	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.6
+30	gbà	gbà	X	_	_	0	_	_	Ref=EXOD_6.6
+31	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.6
+32	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=EXOD_6.6
+33	kúró	kúró	X	_	_	0	_	_	Ref=EXOD_6.6
+34	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.6
+35	oko	oko	X	_	_	0	_	_	Ref=EXOD_6.6
+36	ẹrú	ẹrú	X	_	_	0	_	_	Ref=EXOD_6.6
+37	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.6|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6
+39	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.6
+40	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.6
+41	dá	dá	X	_	_	0	_	_	Ref=EXOD_6.6
+42	a	a	X	_	_	0	_	_	Ref=EXOD_6.6
+43	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.6
+44	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=EXOD_6.6
+45	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EXOD_6.6
+46	apá	apá	X	_	_	0	_	_	Ref=EXOD_6.6
+47	nínà	nínà	X	_	_	0	_	_	Ref=EXOD_6.6
+48	(	(	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6|SpaceAfter=No
+49	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.6
+50	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=EXOD_6.6
+51	ìyanu	ìyanu	X	_	_	0	_	_	Ref=EXOD_6.6|SpaceAfter=No
+52	)	)	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6
+53	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.6
+54	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EXOD_6.6
+55	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=EXOD_6.6
+56	ńlá	ńlá	X	_	_	0	_	_	Ref=EXOD_6.6|SpaceAfter=No
+57	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.6
+
+# sent_id = EXOD_6.7
+# text = Èmi yóò mú un yín bí ènìyàn mi, èmi yóò sì jẹ̀ Ọlọ́run yín. Nígbà náà ni ẹ̀yin yóò mọ̀ pé, èmi ni Olúwa Ọlọ́run yín, ẹni tí ó mú un yín jáde kúró nínú àjàgà àwọn ará Íjíbítí.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.7
+2	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.7
+3	mú	mú	X	_	_	0	_	_	Ref=EXOD_6.7
+4	un	un	X	_	_	0	_	_	Ref=EXOD_6.7
+5	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.7
+6	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.7
+7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=EXOD_6.7
+8	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.7|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.7
+10	èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.7
+11	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.7
+12	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.7
+13	jẹ̀	jẹ̀	X	_	_	0	_	_	Ref=EXOD_6.7
+14	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EXOD_6.7
+15	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.7|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.7
+17	Nígbà	nígbà	X	_	_	0	_	_	Ref=EXOD_6.7
+18	náà	náà	X	_	_	0	_	_	Ref=EXOD_6.7
+19	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.7
+20	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=EXOD_6.7
+21	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.7
+22	mọ̀	mọ̀	X	_	_	0	_	_	Ref=EXOD_6.7
+23	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.7|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.7
+25	èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.7
+26	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.7
+27	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.7
+28	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EXOD_6.7
+29	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.7|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.7
+31	ẹni	ẹni	X	_	_	0	_	_	Ref=EXOD_6.7
+32	tí	tí	X	_	_	0	_	_	Ref=EXOD_6.7
+33	ó	ó	X	_	_	0	_	_	Ref=EXOD_6.7
+34	mú	mú	X	_	_	0	_	_	Ref=EXOD_6.7
+35	un	un	X	_	_	0	_	_	Ref=EXOD_6.7
+36	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.7
+37	jáde	jáde	X	_	_	0	_	_	Ref=EXOD_6.7
+38	kúró	kúró	X	_	_	0	_	_	Ref=EXOD_6.7
+39	nínú	nínú	X	_	_	0	_	_	Ref=EXOD_6.7
+40	àjàgà	àjàgà	X	_	_	0	_	_	Ref=EXOD_6.7
+41	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.7
+42	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.7
+43	Íjíbítí	Íjíbítí	PROPN	_	_	0	_	_	Ref=EXOD_6.7|SpaceAfter=No
+44	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.7
+
+# sent_id = EXOD_6.8
+# text = Èmi yóò mú un yín wá ilẹ̀ náà ti èmi ti búra pẹ̀lú ìgbọ́wọ́sókè láti fi fún Ábúráhámù. Ísáákì àti Jákọ́bù. Èmi yóò fi fún un yín bí ohun ìní, èmi ni Olúwa .’ ”
+1	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.8
+2	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.8
+3	mú	mú	X	_	_	0	_	_	Ref=EXOD_6.8
+4	un	un	X	_	_	0	_	_	Ref=EXOD_6.8
+5	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.8
+6	wá	wá	X	_	_	0	_	_	Ref=EXOD_6.8
+7	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=EXOD_6.8
+8	náà	náà	X	_	_	0	_	_	Ref=EXOD_6.8
+9	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.8
+10	èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.8
+11	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.8
+12	búra	búra	X	_	_	0	_	_	Ref=EXOD_6.8
+13	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EXOD_6.8
+14	ìgbọ́wọ́sókè	ìgbọ́wọ́sókè	X	_	_	0	_	_	Ref=EXOD_6.8
+15	láti	láti	X	_	_	0	_	_	Ref=EXOD_6.8
+16	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.8
+17	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.8
+18	Ábúráhámù	Ábúráhámù	PROPN	_	_	0	_	_	Ref=EXOD_6.8|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.8
+20	Ísáákì	Ísáákì	PROPN	_	_	0	_	_	Ref=EXOD_6.8
+21	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.8
+22	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=EXOD_6.8|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.8
+24	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.8
+25	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.8
+26	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.8
+27	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.8
+28	un	un	X	_	_	0	_	_	Ref=EXOD_6.8
+29	yín	yín	X	_	_	0	_	_	Ref=EXOD_6.8
+30	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.8
+31	ohun	ohun	X	_	_	0	_	_	Ref=EXOD_6.8
+32	ìní	ìní	X	_	_	0	_	_	Ref=EXOD_6.8|SpaceAfter=No
+33	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.8
+34	èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.8
+35	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.8
+36	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.8
+37	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.8|SpaceAfter=No
+38	’	’	PUNCT	_	_	0	punct	_	Ref=EXOD_6.8
+39	”	”	PUNCT	_	_	0	punct	_	Ref=EXOD_6.8
+
+# sent_id = EXOD_6.9
+# text = Mósè sì sọ èyí fún àwọn ará Ísírẹ́lì, ṣùgbọ́n wọn kò fi etí sílẹ̀ sí Mósè nítorí ọkàn wọn tó rẹ̀wẹ̀sì àti nítorí ìgbékùn búburú bí ohun tí ó ti kọ́ sọ kó wọn sí ní oko ẹrú wọn.
+1	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.9
+2	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.9
+3	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.9
+4	èyí	èyí	X	_	_	0	_	_	Ref=EXOD_6.9
+5	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.9
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.9
+7	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.9
+8	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.9|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.9
+10	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=EXOD_6.9
+11	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.9
+12	kò	kò	X	_	_	0	_	_	Ref=EXOD_6.9
+13	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.9
+14	etí	etí	X	_	_	0	_	_	Ref=EXOD_6.9
+15	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=EXOD_6.9
+16	sí	sí	X	_	_	0	_	_	Ref=EXOD_6.9
+17	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.9
+18	nítorí	nítorí	X	_	_	0	_	_	Ref=EXOD_6.9
+19	ọkàn	ọkàn	X	_	_	0	_	_	Ref=EXOD_6.9
+20	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.9
+21	tó	tó	X	_	_	0	_	_	Ref=EXOD_6.9
+22	rẹ̀wẹ̀sì	rẹ̀wẹ̀sì	X	_	_	0	_	_	Ref=EXOD_6.9
+23	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.9
+24	nítorí	nítorí	X	_	_	0	_	_	Ref=EXOD_6.9
+25	ìgbékùn	ìgbékùn	X	_	_	0	_	_	Ref=EXOD_6.9
+26	búburú	búburú	X	_	_	0	_	_	Ref=EXOD_6.9
+27	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.9
+28	ohun	ohun	X	_	_	0	_	_	Ref=EXOD_6.9
+29	tí	tí	X	_	_	0	_	_	Ref=EXOD_6.9
+30	ó	ó	X	_	_	0	_	_	Ref=EXOD_6.9
+31	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.9
+32	kọ́	kọ́	X	_	_	0	_	_	Ref=EXOD_6.9
+33	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.9
+34	kó	kó	X	_	_	0	_	_	Ref=EXOD_6.9
+35	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.9
+36	sí	sí	X	_	_	0	_	_	Ref=EXOD_6.9
+37	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.9
+38	oko	oko	X	_	_	0	_	_	Ref=EXOD_6.9
+39	ẹrú	ẹrú	X	_	_	0	_	_	Ref=EXOD_6.9
+40	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.9|SpaceAfter=No
+41	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.9
+
+# sent_id = EXOD_6.10
+# text = Nígbà náà ni Olúwa sọ fún Mósè.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=EXOD_6.10
+2	náà	náà	X	_	_	0	_	_	Ref=EXOD_6.10
+3	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.10
+4	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.10
+5	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.10
+6	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.10
+7	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.10|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.10
+
+# sent_id = EXOD_6.11
+# text = “Lọ, sọ fún Fáráò ọba Éjíbítì pé kí ó jẹ́ kí àwọn ará Ísírẹ́lì lọ kúró ní orílẹ̀ èdè rẹ̀.”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.11|SpaceAfter=No
+2	Lọ	lọ	X	_	_	0	_	_	Ref=EXOD_6.11|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.11
+4	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.11
+5	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.11
+6	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=EXOD_6.11
+7	ọba	ọba	X	_	_	0	_	_	Ref=EXOD_6.11
+8	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.11
+9	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.11
+10	kí	kí	X	_	_	0	_	_	Ref=EXOD_6.11
+11	ó	ó	X	_	_	0	_	_	Ref=EXOD_6.11
+12	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EXOD_6.11
+13	kí	kí	X	_	_	0	_	_	Ref=EXOD_6.11
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.11
+15	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.11
+16	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.11
+17	lọ	lọ	X	_	_	0	_	_	Ref=EXOD_6.11
+18	kúró	kúró	X	_	_	0	_	_	Ref=EXOD_6.11
+19	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.11
+20	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=EXOD_6.11
+21	èdè	èdè	X	_	_	0	_	_	Ref=EXOD_6.11
+22	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EXOD_6.11|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.11|SpaceAfter=No
+24	”	”	PUNCT	_	_	0	punct	_	Ref=EXOD_6.11
+
+# sent_id = EXOD_6.12
+# text = Ṣùgbọ́n Mósè sọ fún Olúwa pé, “Nígbà ti àwọn ará Ísírẹ́lì tó jẹ́ ènìyàn mi kó fetí sí ọ̀rọ̀ mi, báwo ni Fáráò yóò se fetí sí ọ̀rọ̀ mi, nígbà ti mo jẹ́ akólòlò?”
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=EXOD_6.12
+2	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.12
+3	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.12
+4	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.12
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.12
+6	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.12|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.12
+8	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.12|SpaceAfter=No
+9	Nígbà	nígbà	X	_	_	0	_	_	Ref=EXOD_6.12
+10	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.12
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.12
+12	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.12
+13	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.12
+14	tó	tó	X	_	_	0	_	_	Ref=EXOD_6.12
+15	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EXOD_6.12
+16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=EXOD_6.12
+17	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.12
+18	kó	kó	X	_	_	0	_	_	Ref=EXOD_6.12
+19	fetí	fetí	X	_	_	0	_	_	Ref=EXOD_6.12
+20	sí	sí	X	_	_	0	_	_	Ref=EXOD_6.12
+21	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=EXOD_6.12
+22	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.12|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.12
+24	báwo	báwo	X	_	_	0	_	_	Ref=EXOD_6.12
+25	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.12
+26	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=EXOD_6.12
+27	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.12
+28	se	se	X	_	_	0	_	_	Ref=EXOD_6.12
+29	fetí	fetí	X	_	_	0	_	_	Ref=EXOD_6.12
+30	sí	sí	X	_	_	0	_	_	Ref=EXOD_6.12
+31	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=EXOD_6.12
+32	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.12|SpaceAfter=No
+33	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.12
+34	nígbà	nígbà	X	_	_	0	_	_	Ref=EXOD_6.12
+35	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.12
+36	mo	mo	X	_	_	0	_	_	Ref=EXOD_6.12
+37	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EXOD_6.12
+38	akólòlò	akólòlò	X	_	_	0	_	_	Ref=EXOD_6.12|SpaceAfter=No
+39	?	?	PUNCT	_	_	0	punct	_	Ref=EXOD_6.12|SpaceAfter=No
+40	”	”	PUNCT	_	_	0	punct	_	Ref=EXOD_6.12
+
+# sent_id = EXOD_6.13
+# text = Olúwa bá ìran Mósè àti Árònì sọ̀rọ̀ nípa àwọn ará Ísírẹ́lì àti Fáráò ọba Íjibítì, ó pàṣẹ fún wọn pé kí wọn kó àwọn Ísírẹ́lì jáde kúrò ni ilẹ̀ Éjíbítì.
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.13
+2	bá	bá	X	_	_	0	_	_	Ref=EXOD_6.13
+3	ìran	ìran	X	_	_	0	_	_	Ref=EXOD_6.13
+4	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.13
+5	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.13
+6	Árònì	Árònì	PROPN	_	_	0	_	_	Ref=EXOD_6.13
+7	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=EXOD_6.13
+8	nípa	nípa	X	_	_	0	_	_	Ref=EXOD_6.13
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.13
+10	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.13
+11	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.13
+12	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.13
+13	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=EXOD_6.13
+14	ọba	ọba	X	_	_	0	_	_	Ref=EXOD_6.13
+15	Íjibítì	Íjibítì	PROPN	_	_	0	_	_	Ref=EXOD_6.13|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.13
+17	ó	ó	X	_	_	0	_	_	Ref=EXOD_6.13
+18	pàṣẹ	pàṣẹ	X	_	_	0	_	_	Ref=EXOD_6.13
+19	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.13
+20	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.13
+21	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.13
+22	kí	kí	X	_	_	0	_	_	Ref=EXOD_6.13
+23	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.13
+24	kó	kó	X	_	_	0	_	_	Ref=EXOD_6.13
+25	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.13
+26	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.13
+27	jáde	jáde	X	_	_	0	_	_	Ref=EXOD_6.13
+28	kúrò	kúrò	X	_	_	0	_	_	Ref=EXOD_6.13
+29	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.13
+30	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=EXOD_6.13
+31	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.13|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.13
+
+# sent_id = EXOD_6.14
+# text = Wọ̀nyí ni olórí ìran wọn: Àwọn ọmọ Rúbẹ́nì àkọ́bí Ísírẹ́lì ni Hánókù, Pálù, Hésúrónì àti Kámì. Àwọn wọ̀nyí ni ìdílé Rúbẹ́nì.
+1	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=EXOD_6.14
+2	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.14
+3	olórí	olórí	X	_	_	0	_	_	Ref=EXOD_6.14
+4	ìran	ìran	X	_	_	0	_	_	Ref=EXOD_6.14
+5	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.14|SpaceAfter=No
+6	:	:	PUNCT	_	_	0	punct	_	Ref=EXOD_6.14
+7	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.14
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.14
+9	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=EXOD_6.14
+10	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=EXOD_6.14
+11	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.14
+12	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.14
+13	Hánókù	Hánókù	PROPN	_	_	0	_	_	Ref=EXOD_6.14|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.14
+15	Pálù	Pálù	PROPN	_	_	0	_	_	Ref=EXOD_6.14|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.14
+17	Hésúrónì	Hésúrónì	PROPN	_	_	0	_	_	Ref=EXOD_6.14
+18	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.14
+19	Kámì	Kámì	PROPN	_	_	0	_	_	Ref=EXOD_6.14|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.14
+21	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.14
+22	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=EXOD_6.14
+23	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.14
+24	ìdílé	ìdílé	X	_	_	0	_	_	Ref=EXOD_6.14
+25	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=EXOD_6.14|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.14
+
+# sent_id = EXOD_6.15
+# text = Àwọn ọmọ Ṣímóní ní Jémúẹ́lì, Jámì, Óhádì, Jákínì, Ṣóhárì àti Ṣọ́ọ̀lù ọmọ obìnrin Kénánì. Àwọn wọ̀nyí ni ìran Símónì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.15
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.15
+3	Ṣímóní	Ṣímóní	PROPN	_	_	0	_	_	Ref=EXOD_6.15
+4	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.15
+5	Jémúẹ́lì	Jémúẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.15|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.15
+7	Jámì	Jámì	PROPN	_	_	0	_	_	Ref=EXOD_6.15|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.15
+9	Óhádì	Óhádì	PROPN	_	_	0	_	_	Ref=EXOD_6.15|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.15
+11	Jákínì	Jákínì	PROPN	_	_	0	_	_	Ref=EXOD_6.15|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.15
+13	Ṣóhárì	Ṣóhárì	PROPN	_	_	0	_	_	Ref=EXOD_6.15
+14	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.15
+15	Ṣọ́ọ̀lù	Ṣọ́ọ̀lù	PROPN	_	_	0	_	_	Ref=EXOD_6.15
+16	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.15
+17	obìnrin	obìnrin	X	_	_	0	_	_	Ref=EXOD_6.15
+18	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=EXOD_6.15|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.15
+20	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.15
+21	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=EXOD_6.15
+22	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.15
+23	ìran	ìran	X	_	_	0	_	_	Ref=EXOD_6.15
+24	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=EXOD_6.15|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.15
+
+# sent_id = EXOD_6.16
+# text = Ìwọ̀nyí ni orúkọ àwọn ọmọ Léfì gẹ́gẹ́ bí àkọsílẹ̀ wọn: Gésónì, Kóhábì àti Mérárì: Léfì lo ẹ̀tàndínlógóje (137) ọdún láyé.
+1	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=EXOD_6.16
+2	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.16
+3	orúkọ	orúkọ	X	_	_	0	_	_	Ref=EXOD_6.16
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.16
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.16
+6	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=EXOD_6.16
+7	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EXOD_6.16
+8	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.16
+9	àkọsílẹ̀	àkọsílẹ̀	X	_	_	0	_	_	Ref=EXOD_6.16
+10	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.16|SpaceAfter=No
+11	:	:	PUNCT	_	_	0	punct	_	Ref=EXOD_6.16
+12	Gésónì	Gésónì	PROPN	_	_	0	_	_	Ref=EXOD_6.16|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.16
+14	Kóhábì	Kóhábì	PROPN	_	_	0	_	_	Ref=EXOD_6.16
+15	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.16
+16	Mérárì	Mérárì	PROPN	_	_	0	_	_	Ref=EXOD_6.16|SpaceAfter=No
+17	:	:	PUNCT	_	_	0	punct	_	Ref=EXOD_6.16
+18	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=EXOD_6.16
+19	lo	lo	X	_	_	0	_	_	Ref=EXOD_6.16
+20	ẹ̀tàndínlógóje	ẹ̀tàndínlógóje	X	_	_	0	_	_	Ref=EXOD_6.16
+21	(	(	PUNCT	_	_	0	punct	_	Ref=EXOD_6.16|SpaceAfter=No
+22	137	137	X	_	_	0	_	_	Ref=EXOD_6.16|SpaceAfter=No
+23	)	)	PUNCT	_	_	0	punct	_	Ref=EXOD_6.16
+24	ọdún	ọdún	X	_	_	0	_	_	Ref=EXOD_6.16
+25	láyé	láyé	X	_	_	0	_	_	Ref=EXOD_6.16|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.16
+
+# sent_id = EXOD_6.17
+# text = Àwọn ọmọ Gésónì ni ìran wọn ni Líbínì àti Ṣímẹ́lì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.17
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.17
+3	Gésónì	Gésónì	PROPN	_	_	0	_	_	Ref=EXOD_6.17
+4	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.17
+5	ìran	ìran	X	_	_	0	_	_	Ref=EXOD_6.17
+6	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.17
+7	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.17
+8	Líbínì	Líbínì	PROPN	_	_	0	_	_	Ref=EXOD_6.17
+9	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.17
+10	Ṣímẹ́lì	Ṣímẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.17|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.17
+
+# sent_id = EXOD_6.18
+# text = Àwọn ọmọ Kóhátì ni Ámírámù, Ísárì, Hébírónì àti Yúsíélì. Kóhátì lo ẹ̀tàléláádóje (133) ọdún láyé.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.18
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.18
+3	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=EXOD_6.18
+4	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.18
+5	Ámírámù	Ámírámù	PROPN	_	_	0	_	_	Ref=EXOD_6.18|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.18
+7	Ísárì	Ísárì	PROPN	_	_	0	_	_	Ref=EXOD_6.18|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.18
+9	Hébírónì	Hébírónì	PROPN	_	_	0	_	_	Ref=EXOD_6.18
+10	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.18
+11	Yúsíélì	Yúsíélì	PROPN	_	_	0	_	_	Ref=EXOD_6.18|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.18
+13	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=EXOD_6.18
+14	lo	lo	X	_	_	0	_	_	Ref=EXOD_6.18
+15	ẹ̀tàléláádóje	ẹ̀tàléláádóje	X	_	_	0	_	_	Ref=EXOD_6.18
+16	(	(	PUNCT	_	_	0	punct	_	Ref=EXOD_6.18|SpaceAfter=No
+17	133	133	X	_	_	0	_	_	Ref=EXOD_6.18|SpaceAfter=No
+18	)	)	PUNCT	_	_	0	punct	_	Ref=EXOD_6.18
+19	ọdún	ọdún	X	_	_	0	_	_	Ref=EXOD_6.18
+20	láyé	láyé	X	_	_	0	_	_	Ref=EXOD_6.18|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.18
+
+# sent_id = EXOD_6.19
+# text = Àwọn ọmọ Mérárì ni Máhílì àti Músíhì. Ìwọ̀nyí ni ìran Léfì gẹ́gẹ́ bí àkọsílẹ̀ wọn.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.19
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.19
+3	Mérárì	Mérárì	PROPN	_	_	0	_	_	Ref=EXOD_6.19
+4	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.19
+5	Máhílì	Máhílì	PROPN	_	_	0	_	_	Ref=EXOD_6.19
+6	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.19
+7	Músíhì	Músíhì	PROPN	_	_	0	_	_	Ref=EXOD_6.19|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.19
+9	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=EXOD_6.19
+10	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.19
+11	ìran	ìran	X	_	_	0	_	_	Ref=EXOD_6.19
+12	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=EXOD_6.19
+13	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EXOD_6.19
+14	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.19
+15	àkọsílẹ̀	àkọsílẹ̀	X	_	_	0	_	_	Ref=EXOD_6.19
+16	wọn	wọn	X	_	_	0	_	_	Ref=EXOD_6.19|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.19
+
+# sent_id = EXOD_6.20
+# text = Ámírámù sì fẹ́ Jókébédì arákùnrin baba rẹ̀ ní ìyàwó. Jókébédì sì bí Árónì àti Mósè fún un. Ámírámù lo ẹ̀tàdínlógóje (137) ọdún láyé.
+1	Ámírámù	Ámírámù	PROPN	_	_	0	_	_	Ref=EXOD_6.20
+2	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.20
+3	fẹ́	fẹ́	X	_	_	0	_	_	Ref=EXOD_6.20
+4	Jókébédì	Jókébédì	PROPN	_	_	0	_	_	Ref=EXOD_6.20
+5	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=EXOD_6.20
+6	baba	baba	X	_	_	0	_	_	Ref=EXOD_6.20
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EXOD_6.20
+8	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.20
+9	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=EXOD_6.20|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.20
+11	Jókébédì	Jókébédì	PROPN	_	_	0	_	_	Ref=EXOD_6.20
+12	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.20
+13	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.20
+14	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=EXOD_6.20
+15	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.20
+16	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.20
+17	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.20
+18	un	un	X	_	_	0	_	_	Ref=EXOD_6.20|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.20
+20	Ámírámù	Ámírámù	PROPN	_	_	0	_	_	Ref=EXOD_6.20
+21	lo	lo	X	_	_	0	_	_	Ref=EXOD_6.20
+22	ẹ̀tàdínlógóje	ẹ̀tàdínlógóje	X	_	_	0	_	_	Ref=EXOD_6.20
+23	(	(	PUNCT	_	_	0	punct	_	Ref=EXOD_6.20|SpaceAfter=No
+24	137	137	X	_	_	0	_	_	Ref=EXOD_6.20|SpaceAfter=No
+25	)	)	PUNCT	_	_	0	punct	_	Ref=EXOD_6.20
+26	ọdún	ọdún	X	_	_	0	_	_	Ref=EXOD_6.20
+27	láyé	láyé	X	_	_	0	_	_	Ref=EXOD_6.20|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.20
+
+# sent_id = EXOD_6.21
+# text = Àwọn ọmọ Ísárì ni Kórà, Nẹ́fẹ́fì àti Ṣíkírì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.21
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.21
+3	Ísárì	Ísárì	PROPN	_	_	0	_	_	Ref=EXOD_6.21
+4	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.21
+5	Kórà	kórà	X	_	_	0	_	_	Ref=EXOD_6.21|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.21
+7	Nẹ́fẹ́fì	Nẹ́fẹ́fì	PROPN	_	_	0	_	_	Ref=EXOD_6.21
+8	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.21
+9	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=EXOD_6.21|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.21
+
+# sent_id = EXOD_6.22
+# text = Àwọn ọmọ Yúṣíélì ni Míṣíháẹlì, Élíṣáfánì àti Ṣítíhírí.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.22
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.22
+3	Yúṣíélì	Yúṣíélì	PROPN	_	_	0	_	_	Ref=EXOD_6.22
+4	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.22
+5	Míṣíháẹlì	Míṣíháẹlì	PROPN	_	_	0	_	_	Ref=EXOD_6.22|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.22
+7	Élíṣáfánì	Élíṣáfánì	PROPN	_	_	0	_	_	Ref=EXOD_6.22
+8	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.22
+9	Ṣítíhírí	Ṣítíhírí	PROPN	_	_	0	_	_	Ref=EXOD_6.22|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.22
+
+# sent_id = EXOD_6.23
+# text = Árónì fẹ́ Élíṣahẹ́ba ọmọbìnrin Ámínádábù tí í ṣe arábìnrin Náhísíhónì, ó sì bí Nádábù, Ábíhù, Élíásárì àti Ítamárì.
+1	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=EXOD_6.23
+2	fẹ́	fẹ́	X	_	_	0	_	_	Ref=EXOD_6.23
+3	Élíṣahẹ́ba	Élíṣahẹ́ba	PROPN	_	_	0	_	_	Ref=EXOD_6.23
+4	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=EXOD_6.23
+5	Ámínádábù	Ámínádábù	PROPN	_	_	0	_	_	Ref=EXOD_6.23
+6	tí	tí	X	_	_	0	_	_	Ref=EXOD_6.23
+7	í	í	X	_	_	0	_	_	Ref=EXOD_6.23
+8	ṣe	ṣe	X	_	_	0	_	_	Ref=EXOD_6.23
+9	arábìnrin	arábìnrin	X	_	_	0	_	_	Ref=EXOD_6.23
+10	Náhísíhónì	Náhísíhónì	PROPN	_	_	0	_	_	Ref=EXOD_6.23|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.23
+12	ó	ó	X	_	_	0	_	_	Ref=EXOD_6.23
+13	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.23
+14	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.23
+15	Nádábù	Nádábù	PROPN	_	_	0	_	_	Ref=EXOD_6.23|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.23
+17	Ábíhù	Ábíhù	PROPN	_	_	0	_	_	Ref=EXOD_6.23|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.23
+19	Élíásárì	Élíásárì	PROPN	_	_	0	_	_	Ref=EXOD_6.23
+20	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.23
+21	Ítamárì	Ítamárì	PROPN	_	_	0	_	_	Ref=EXOD_6.23|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.23
+
+# sent_id = EXOD_6.24
+# text = Àwọn ọmọ Kórà ni Ásírì, Élíkánà àti Ábíásáfù, ìwọ̀nyí ni ìran Kórà.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.24
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.24
+3	Kórà	kórà	X	_	_	0	_	_	Ref=EXOD_6.24
+4	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.24
+5	Ásírì	Ásírì	PROPN	_	_	0	_	_	Ref=EXOD_6.24|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.24
+7	Élíkánà	Élíkánà	PROPN	_	_	0	_	_	Ref=EXOD_6.24
+8	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.24
+9	Ábíásáfù	Ábíásáfù	PROPN	_	_	0	_	_	Ref=EXOD_6.24|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.24
+11	ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=EXOD_6.24
+12	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.24
+13	ìran	ìran	X	_	_	0	_	_	Ref=EXOD_6.24
+14	Kórà	kórà	X	_	_	0	_	_	Ref=EXOD_6.24|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.24
+
+# sent_id = EXOD_6.25
+# text = Élíásárì ọmọ Árónì fẹ́ ọ̀kan lára àwọn ọmọbìnrin Pútíẹ́lì ní ìyàwó, ó sì bí Fínéhásì fún un. Ìwọ̀nyí ni olórí àwọn Léfì ni ìdílé ìdílé.
+1	Élíásárì	Élíásárì	PROPN	_	_	0	_	_	Ref=EXOD_6.25
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=EXOD_6.25
+3	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=EXOD_6.25
+4	fẹ́	fẹ́	X	_	_	0	_	_	Ref=EXOD_6.25
+5	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=EXOD_6.25
+6	lára	lára	X	_	_	0	_	_	Ref=EXOD_6.25
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.25
+8	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=EXOD_6.25
+9	Pútíẹ́lì	Pútíẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.25
+10	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.25
+11	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=EXOD_6.25|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.25
+13	ó	ó	X	_	_	0	_	_	Ref=EXOD_6.25
+14	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.25
+15	bí	bí	X	_	_	0	_	_	Ref=EXOD_6.25
+16	Fínéhásì	Fínéhásì	PROPN	_	_	0	_	_	Ref=EXOD_6.25
+17	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.25
+18	un	un	X	_	_	0	_	_	Ref=EXOD_6.25|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.25
+20	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=EXOD_6.25
+21	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.25
+22	olórí	olórí	X	_	_	0	_	_	Ref=EXOD_6.25
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.25
+24	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=EXOD_6.25
+25	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.25
+26	ìdílé	ìdílé	X	_	_	0	_	_	Ref=EXOD_6.25
+27	ìdílé	ìdílé	X	_	_	0	_	_	Ref=EXOD_6.25|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.25
+
+# sent_id = EXOD_6.26
+# text = Árónì àti Mósè yìí kan náà ni Olúwa sọ fún pé, “Ẹ kó àwọn ará Ísírẹ́lì jáde kúrò ni ilẹ̀ Éjíbítì ní ìsọ̀rí ìsọ̀rí.”
+1	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=EXOD_6.26
+2	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.26
+3	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.26
+4	yìí	yìí	X	_	_	0	_	_	Ref=EXOD_6.26
+5	kan	kan	X	_	_	0	_	_	Ref=EXOD_6.26
+6	náà	náà	X	_	_	0	_	_	Ref=EXOD_6.26
+7	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.26
+8	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.26
+9	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.26
+10	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.26
+11	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.26|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.26
+13	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.26|SpaceAfter=No
+14	Ẹ	ẹ	X	_	_	0	_	_	Ref=EXOD_6.26
+15	kó	kó	X	_	_	0	_	_	Ref=EXOD_6.26
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.26
+17	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.26
+18	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.26
+19	jáde	jáde	X	_	_	0	_	_	Ref=EXOD_6.26
+20	kúrò	kúrò	X	_	_	0	_	_	Ref=EXOD_6.26
+21	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.26
+22	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=EXOD_6.26
+23	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.26
+24	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.26
+25	ìsọ̀rí	ìsọ̀rí	X	_	_	0	_	_	Ref=EXOD_6.26
+26	ìsọ̀rí	ìsọ̀rí	X	_	_	0	_	_	Ref=EXOD_6.26|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.26|SpaceAfter=No
+28	”	”	PUNCT	_	_	0	punct	_	Ref=EXOD_6.26
+
+# sent_id = EXOD_6.27
+# text = Àwọn ni ó bá Fáráò ọba Éjíbítì sọ̀rọ̀ nípa kíkó àwọn ará Ísírẹ́lì jáde kúrò ni Éjíbítì, àní Mósè àti Árónì yìí kan náà ni.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.27
+2	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.27
+3	ó	ó	X	_	_	0	_	_	Ref=EXOD_6.27
+4	bá	bá	X	_	_	0	_	_	Ref=EXOD_6.27
+5	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=EXOD_6.27
+6	ọba	ọba	X	_	_	0	_	_	Ref=EXOD_6.27
+7	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.27
+8	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=EXOD_6.27
+9	nípa	nípa	X	_	_	0	_	_	Ref=EXOD_6.27
+10	kíkó	kíkó	X	_	_	0	_	_	Ref=EXOD_6.27
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=EXOD_6.27
+12	ará	ará	X	_	_	0	_	_	Ref=EXOD_6.27
+13	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=EXOD_6.27
+14	jáde	jáde	X	_	_	0	_	_	Ref=EXOD_6.27
+15	kúrò	kúrò	X	_	_	0	_	_	Ref=EXOD_6.27
+16	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.27
+17	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.27|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.27
+19	àní	àní	X	_	_	0	_	_	Ref=EXOD_6.27
+20	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.27
+21	àti	àti	X	_	_	0	_	_	Ref=EXOD_6.27
+22	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=EXOD_6.27
+23	yìí	yìí	X	_	_	0	_	_	Ref=EXOD_6.27
+24	kan	kan	X	_	_	0	_	_	Ref=EXOD_6.27
+25	náà	náà	X	_	_	0	_	_	Ref=EXOD_6.27
+26	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.27|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.27
+
+# sent_id = EXOD_6.28
+# text = Nígbà tí Olúwa bá Mósè sọ̀rọ̀ ni Éjíbítì,
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=EXOD_6.28
+2	tí	tí	X	_	_	0	_	_	Ref=EXOD_6.28
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.28
+4	bá	bá	X	_	_	0	_	_	Ref=EXOD_6.28
+5	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.28
+6	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=EXOD_6.28
+7	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.28
+8	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.28|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.28
+
+# sent_id = EXOD_6.29
+# text = Ó ni “Èmi ni Olúwa . Sọ ohun gbogbo ti mo ti sọ fún ọ fún Fáráò ọba Éjíbítì.”
+1	Ó	ó	X	_	_	0	_	_	Ref=EXOD_6.29
+2	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.29
+3	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.29|SpaceAfter=No
+4	Èmi	èmi	X	_	_	0	_	_	Ref=EXOD_6.29
+5	ni	ni	X	_	_	0	_	_	Ref=EXOD_6.29
+6	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.29
+7	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.29
+8	Sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.29
+9	ohun	ohun	X	_	_	0	_	_	Ref=EXOD_6.29
+10	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EXOD_6.29
+11	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.29
+12	mo	mo	X	_	_	0	_	_	Ref=EXOD_6.29
+13	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.29
+14	sọ	sọ	X	_	_	0	_	_	Ref=EXOD_6.29
+15	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.29
+16	ọ	ọ	X	_	_	0	_	_	Ref=EXOD_6.29
+17	fún	fún	X	_	_	0	_	_	Ref=EXOD_6.29
+18	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=EXOD_6.29
+19	ọba	ọba	X	_	_	0	_	_	Ref=EXOD_6.29
+20	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=EXOD_6.29|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=EXOD_6.29|SpaceAfter=No
+22	”	”	PUNCT	_	_	0	punct	_	Ref=EXOD_6.29
+
+# sent_id = EXOD_6.30
+# text = Ṣùgbọ́n Mósè sì wí ní iwájú Olúwa pé, “Níwọ̀n ìgbà ti mo jẹ́ akólòlò, ọ̀nà dà ti Fáráò yóò ṣe fi etí sí mi?”
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=EXOD_6.30
+2	Mósè	mósè	X	_	_	0	_	_	Ref=EXOD_6.30
+3	sì	sì	X	_	_	0	_	_	Ref=EXOD_6.30
+4	wí	wí	X	_	_	0	_	_	Ref=EXOD_6.30
+5	ní	ní	X	_	_	0	_	_	Ref=EXOD_6.30
+6	iwájú	iwájú	X	_	_	0	_	_	Ref=EXOD_6.30
+7	Olúwa	olúwa	X	_	_	0	_	_	Ref=EXOD_6.30
+8	pé	pé	X	_	_	0	_	_	Ref=EXOD_6.30|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.30
+10	“	“	PUNCT	_	_	0	punct	_	Ref=EXOD_6.30|SpaceAfter=No
+11	Níwọ̀n	níwọ̀n	X	_	_	0	_	_	Ref=EXOD_6.30
+12	ìgbà	ìgbà	X	_	_	0	_	_	Ref=EXOD_6.30
+13	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.30
+14	mo	mo	X	_	_	0	_	_	Ref=EXOD_6.30
+15	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EXOD_6.30
+16	akólòlò	akólòlò	X	_	_	0	_	_	Ref=EXOD_6.30|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=EXOD_6.30
+18	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=EXOD_6.30
+19	dà	dà	X	_	_	0	_	_	Ref=EXOD_6.30
+20	ti	ti	X	_	_	0	_	_	Ref=EXOD_6.30
+21	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=EXOD_6.30
+22	yóò	yóò	X	_	_	0	_	_	Ref=EXOD_6.30
+23	ṣe	ṣe	X	_	_	0	_	_	Ref=EXOD_6.30
+24	fi	fi	X	_	_	0	_	_	Ref=EXOD_6.30
+25	etí	etí	X	_	_	0	_	_	Ref=EXOD_6.30
+26	sí	sí	X	_	_	0	_	_	Ref=EXOD_6.30
+27	mi	mi	X	_	_	0	_	_	Ref=EXOD_6.30|SpaceAfter=No
+28	?	?	PUNCT	_	_	0	punct	_	Ref=EXOD_6.30|SpaceAfter=No
+29	”	”	PUNCT	_	_	0	punct	_	Ref=EXOD_6.30
+

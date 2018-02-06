@@ -1,0 +1,999 @@
+# source = Bibeli Mimọ, Jóṣúà, Chapter 13
+# newdoc id = JOSH_13
+# sent_id = JOSH_13.1
+# text = Nígbà tí Jóṣúà sì darúgbó tí ọjọ́ orí rẹ̀ sì pọ̀ jọjọ, Olúwa sọ fún un pé, “Ìwọ ti darúgbó púpọ̀, bẹ́ẹ̀ ni ilẹ̀ sì kù lọ́pọ̀lọpọ̀ fún yín láti gbà.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_13.1
+2	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.1
+3	Jóṣúà	Jóṣúà	PROPN	_	_	0	_	_	Ref=JOSH_13.1
+4	sì	sì	X	_	_	0	_	_	Ref=JOSH_13.1
+5	darúgbó	darúgbó	X	_	_	0	_	_	Ref=JOSH_13.1
+6	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.1
+7	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=JOSH_13.1
+8	orí	orí	X	_	_	0	_	_	Ref=JOSH_13.1
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_13.1
+10	sì	sì	X	_	_	0	_	_	Ref=JOSH_13.1
+11	pọ̀	pọ̀	X	_	_	0	_	_	Ref=JOSH_13.1
+12	jọjọ	jọjọ	X	_	_	0	_	_	Ref=JOSH_13.1|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.1
+14	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_13.1
+15	sọ	sọ	X	_	_	0	_	_	Ref=JOSH_13.1
+16	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.1
+17	un	un	X	_	_	0	_	_	Ref=JOSH_13.1
+18	pé	pé	X	_	_	0	_	_	Ref=JOSH_13.1|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.1
+20	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_13.1|SpaceAfter=No
+21	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOSH_13.1
+22	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.1
+23	darúgbó	darúgbó	X	_	_	0	_	_	Ref=JOSH_13.1
+24	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=JOSH_13.1|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.1
+26	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=JOSH_13.1
+27	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.1
+28	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.1
+29	sì	sì	X	_	_	0	_	_	Ref=JOSH_13.1
+30	kù	kù	X	_	_	0	_	_	Ref=JOSH_13.1
+31	lọ́pọ̀lọpọ̀	lọ́pọ̀lọpọ̀	X	_	_	0	_	_	Ref=JOSH_13.1
+32	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.1
+33	yín	yín	X	_	_	0	_	_	Ref=JOSH_13.1
+34	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.1
+35	gbà	gbà	X	_	_	0	_	_	Ref=JOSH_13.1|SpaceAfter=No
+36	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.1
+
+# sent_id = JOSH_13.2
+# text = “Èyí ni ilẹ̀ tí ó kù: gbogbo àwọn agbègbè àwọn Fílístínì, àti ti ara Gésúrì:
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_13.2|SpaceAfter=No
+2	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.2
+3	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.2
+4	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.2
+5	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.2
+6	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.2
+7	kù	kù	X	_	_	0	_	_	Ref=JOSH_13.2|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_13.2
+9	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.2
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.2
+11	agbègbè	agbègbè	X	_	_	0	_	_	Ref=JOSH_13.2
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.2
+13	Fílístínì	Fílístínì	PROPN	_	_	0	_	_	Ref=JOSH_13.2|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.2
+15	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.2
+16	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.2
+17	ara	ara	X	_	_	0	_	_	Ref=JOSH_13.2
+18	Gésúrì	Gésúrì	PROPN	_	_	0	_	_	Ref=JOSH_13.2|SpaceAfter=No
+19	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_13.2
+
+# sent_id = JOSH_13.3
+# text = láti odò Ṣíhónì ní ìlà oòrùn Éjíbítì sí agbégbé Ékírónì ìhà àríwá, gbogbo rẹ̀ ni a kà kún Kénánì (agbégbé ìjòyè Fílístínì márùnún ní Gásà, Ásídódù, Áṣíkélónì, Gátì àti Ékírónì ti àwọn ará Áfítì):
+1	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.3
+2	odò	odò	X	_	_	0	_	_	Ref=JOSH_13.3
+3	Ṣíhónì	Ṣíhónì	PROPN	_	_	0	_	_	Ref=JOSH_13.3
+4	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.3
+5	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_13.3
+6	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_13.3
+7	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=JOSH_13.3
+8	sí	sí	X	_	_	0	_	_	Ref=JOSH_13.3
+9	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.3
+10	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_13.3
+11	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_13.3
+12	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_13.3|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.3
+14	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.3
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_13.3
+16	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.3
+17	a	a	X	_	_	0	_	_	Ref=JOSH_13.3
+18	kà	kà	X	_	_	0	_	_	Ref=JOSH_13.3
+19	kún	kún	X	_	_	0	_	_	Ref=JOSH_13.3
+20	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=JOSH_13.3
+21	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_13.3|SpaceAfter=No
+22	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.3
+23	ìjòyè	ìjòyè	X	_	_	0	_	_	Ref=JOSH_13.3
+24	Fílístínì	Fílístínì	PROPN	_	_	0	_	_	Ref=JOSH_13.3
+25	márùnún	márùnún	X	_	_	0	_	_	Ref=JOSH_13.3
+26	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.3
+27	Gásà	Gásà	PROPN	_	_	0	_	_	Ref=JOSH_13.3|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.3
+29	Ásídódù	Ásídódù	PROPN	_	_	0	_	_	Ref=JOSH_13.3|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.3
+31	Áṣíkélónì	Áṣíkélónì	PROPN	_	_	0	_	_	Ref=JOSH_13.3|SpaceAfter=No
+32	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.3
+33	Gátì	Gátì	PROPN	_	_	0	_	_	Ref=JOSH_13.3
+34	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.3
+35	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_13.3
+36	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.3
+37	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.3
+38	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.3
+39	Áfítì	Áfítì	PROPN	_	_	0	_	_	Ref=JOSH_13.3|SpaceAfter=No
+40	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_13.3|SpaceAfter=No
+41	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_13.3
+
+# sent_id = JOSH_13.4
+# text = láti gúsù, gbogbo ilẹ̀ àwọn ará Kénánì, láti Árà ti àwọn ará Sídónì títí ó fi dé Áfékì, agbègbè àwọn ará Ámórì,
+1	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.4
+2	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_13.4|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.4
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.4
+5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.4
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.4
+7	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.4
+8	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=JOSH_13.4|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.4
+10	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.4
+11	Árà	Árà	PROPN	_	_	0	_	_	Ref=JOSH_13.4
+12	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.4
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.4
+14	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.4
+15	Sídónì	Sídónì	PROPN	_	_	0	_	_	Ref=JOSH_13.4
+16	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.4
+17	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.4
+18	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.4
+19	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.4
+20	Áfékì	Áfékì	PROPN	_	_	0	_	_	Ref=JOSH_13.4|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.4
+22	agbègbè	agbègbè	X	_	_	0	_	_	Ref=JOSH_13.4
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.4
+24	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.4
+25	Ámórì	Ámórì	PROPN	_	_	0	_	_	Ref=JOSH_13.4|SpaceAfter=No
+26	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.4
+
+# sent_id = JOSH_13.5
+# text = Àti ilẹ̀ àwọn ara Gíbálì, àti gbogbo àwọn Lẹ́bánónì dé ìlà-oòrùn, láti Baalì-Gádì ní ìṣàlẹ̀ Okè Hámónì dé Lebo-Hámátì.
+1	Àti	àti	X	_	_	0	_	_	Ref=JOSH_13.5
+2	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.5
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.5
+4	ara	ara	X	_	_	0	_	_	Ref=JOSH_13.5
+5	Gíbálì	Gíbálì	PROPN	_	_	0	_	_	Ref=JOSH_13.5|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.5
+7	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.5
+8	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.5
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.5
+10	Lẹ́bánónì	Lẹ́bánónì	PROPN	_	_	0	_	_	Ref=JOSH_13.5
+11	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.5
+12	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_13.5|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.5|SpaceAfter=No
+14	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_13.5|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.5
+16	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.5
+17	Baalì	Baalì	PROPN	_	_	0	_	_	Ref=JOSH_13.5|SpaceAfter=No
+18	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.5|SpaceAfter=No
+19	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_13.5
+20	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.5
+21	ìṣàlẹ̀	ìṣàlẹ̀	X	_	_	0	_	_	Ref=JOSH_13.5
+22	Okè	okè	X	_	_	0	_	_	Ref=JOSH_13.5
+23	Hámónì	Hámónì	PROPN	_	_	0	_	_	Ref=JOSH_13.5
+24	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.5
+25	Lebo	Lebo	PROPN	_	_	0	_	_	Ref=JOSH_13.5|SpaceAfter=No
+26	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.5|SpaceAfter=No
+27	Hámátì	Hámátì	PROPN	_	_	0	_	_	Ref=JOSH_13.5|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.5
+
+# sent_id = JOSH_13.6
+# text = “Ní ti gbogbo àwọn olùgbé agbégbé òkè, láti Lẹ́bánónì sí Mísiréífótì-Máímù, àní, gbogbo àwọn ará Sídónì, èmi fúnra mi ní yóò lé wọn jáde ní iwájú àwọn ará Ísírẹ́lì. Kí o ri dájú pé o pín ilẹ̀ yí fún Ísírẹ́lì ní ilẹ̀ ìní, gẹ́gẹ́ bí mo ṣe fi àṣẹ fún ọ,
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6|SpaceAfter=No
+2	Ní	ní	X	_	_	0	_	_	Ref=JOSH_13.6
+3	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.6
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.6
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.6
+6	olùgbé	olùgbé	X	_	_	0	_	_	Ref=JOSH_13.6
+7	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.6
+8	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6
+10	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.6
+11	Lẹ́bánónì	Lẹ́bánónì	PROPN	_	_	0	_	_	Ref=JOSH_13.6
+12	sí	sí	X	_	_	0	_	_	Ref=JOSH_13.6
+13	Mísiréífótì	Mísiréífótì	PROPN	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+14	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6|SpaceAfter=No
+15	Máímù	Máímù	PROPN	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6
+17	àní	àní	X	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6
+19	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.6
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.6
+21	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.6
+22	Sídónì	Sídónì	PROPN	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6
+24	èmi	èmi	X	_	_	0	_	_	Ref=JOSH_13.6
+25	fúnra	fúnra	X	_	_	0	_	_	Ref=JOSH_13.6
+26	mi	mi	X	_	_	0	_	_	Ref=JOSH_13.6
+27	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.6
+28	yóò	yóò	X	_	_	0	_	_	Ref=JOSH_13.6
+29	lé	lé	X	_	_	0	_	_	Ref=JOSH_13.6
+30	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.6
+31	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_13.6
+32	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.6
+33	iwájú	iwájú	X	_	_	0	_	_	Ref=JOSH_13.6
+34	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.6
+35	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.6
+36	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6
+38	Kí	kí	X	_	_	0	_	_	Ref=JOSH_13.6
+39	o	o	X	_	_	0	_	_	Ref=JOSH_13.6
+40	ri	ri	X	_	_	0	_	_	Ref=JOSH_13.6
+41	dájú	dájú	X	_	_	0	_	_	Ref=JOSH_13.6
+42	pé	pé	X	_	_	0	_	_	Ref=JOSH_13.6
+43	o	o	X	_	_	0	_	_	Ref=JOSH_13.6
+44	pín	pín	X	_	_	0	_	_	Ref=JOSH_13.6
+45	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.6
+46	yí	yí	X	_	_	0	_	_	Ref=JOSH_13.6
+47	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.6
+48	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_13.6
+49	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.6
+50	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.6
+51	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+52	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6
+53	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_13.6
+54	bí	bí	X	_	_	0	_	_	Ref=JOSH_13.6
+55	mo	mo	X	_	_	0	_	_	Ref=JOSH_13.6
+56	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_13.6
+57	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.6
+58	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=JOSH_13.6
+59	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.6
+60	ọ	ọ	X	_	_	0	_	_	Ref=JOSH_13.6|SpaceAfter=No
+61	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.6
+
+# sent_id = JOSH_13.7
+# text = pín ilẹ̀ yìí ní ilẹ̀-ìní fún àwọn ẹ̀yà mẹ́sàn án àti ìdajì ẹ̀yà Mànásè.”
+1	pín	pín	X	_	_	0	_	_	Ref=JOSH_13.7
+2	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.7
+3	yìí	yìí	X	_	_	0	_	_	Ref=JOSH_13.7
+4	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.7
+5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.7|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.7|SpaceAfter=No
+7	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_13.7
+8	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.7
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.7
+10	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.7
+11	mẹ́sàn	mẹ́sàn	X	_	_	0	_	_	Ref=JOSH_13.7
+12	án	án	X	_	_	0	_	_	Ref=JOSH_13.7
+13	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.7
+14	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_13.7
+15	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.7
+16	Mànásè	Mànásè	PROPN	_	_	0	_	_	Ref=JOSH_13.7|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.7|SpaceAfter=No
+18	”	”	PUNCT	_	_	0	punct	_	Ref=JOSH_13.7
+
+# sent_id = JOSH_13.8
+# text = Àwọn ìdajì ẹ̀yà Mánásè tí ó kù, àti àwọn Rúbẹ́nì àti àwọn Gádì ti gba ilẹ̀ ìní, tí Mósè ti fún wọn ní ìhà ìlà-oòrùn Jọ́dánì bí Mósè ìránṣẹ́ Olúwa ti fi fún wọn.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.8
+2	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_13.8
+3	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.8
+4	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=JOSH_13.8
+5	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.8
+6	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.8
+7	kù	kù	X	_	_	0	_	_	Ref=JOSH_13.8|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.8
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.8
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.8
+11	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_13.8
+12	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.8
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.8
+14	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_13.8
+15	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.8
+16	gba	gba	X	_	_	0	_	_	Ref=JOSH_13.8
+17	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.8
+18	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_13.8|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.8
+20	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.8
+21	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.8
+22	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.8
+23	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.8
+24	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.8
+25	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.8
+26	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_13.8
+27	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_13.8|SpaceAfter=No
+28	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.8|SpaceAfter=No
+29	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_13.8
+30	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_13.8
+31	bí	bí	X	_	_	0	_	_	Ref=JOSH_13.8
+32	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.8
+33	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=JOSH_13.8
+34	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_13.8
+35	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.8
+36	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.8
+37	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.8
+38	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.8|SpaceAfter=No
+39	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.8
+
+# sent_id = JOSH_13.9
+# text = Ó sì lọ títí láti Áreórì tí ń bẹ létí Ánónì-Gógì, àti láti ìlú náà tí ń bẹ ní àárin Gógì, àti pẹ̀lú gbogbo pẹ̀tẹ́lẹ̀ Médébà títí dé Díbónì.
+1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_13.9
+2	sì	sì	X	_	_	0	_	_	Ref=JOSH_13.9
+3	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_13.9
+4	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.9
+5	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.9
+6	Áreórì	Áreórì	PROPN	_	_	0	_	_	Ref=JOSH_13.9
+7	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.9
+8	ń	ń	X	_	_	0	_	_	Ref=JOSH_13.9
+9	bẹ	bẹ	X	_	_	0	_	_	Ref=JOSH_13.9
+10	létí	létí	X	_	_	0	_	_	Ref=JOSH_13.9
+11	Ánónì	Ánónì	PROPN	_	_	0	_	_	Ref=JOSH_13.9|SpaceAfter=No
+12	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.9|SpaceAfter=No
+13	Gógì	Gógì	PROPN	_	_	0	_	_	Ref=JOSH_13.9|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.9
+15	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.9
+16	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.9
+17	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.9
+18	náà	náà	X	_	_	0	_	_	Ref=JOSH_13.9
+19	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.9
+20	ń	ń	X	_	_	0	_	_	Ref=JOSH_13.9
+21	bẹ	bẹ	X	_	_	0	_	_	Ref=JOSH_13.9
+22	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.9
+23	àárin	àárin	X	_	_	0	_	_	Ref=JOSH_13.9
+24	Gógì	Gógì	PROPN	_	_	0	_	_	Ref=JOSH_13.9|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.9
+26	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.9
+27	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_13.9
+28	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.9
+29	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=JOSH_13.9
+30	Médébà	Médébà	PROPN	_	_	0	_	_	Ref=JOSH_13.9
+31	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.9
+32	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.9
+33	Díbónì	Díbónì	PROPN	_	_	0	_	_	Ref=JOSH_13.9|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.9
+
+# sent_id = JOSH_13.10
+# text = Gbogbo ìlú Síhónì ọba àwọn Ámórì, tí ó ṣe àkóso ní Hésíbónì, títí dé ààlà àwọn ará Ámónì.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.10
+2	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.10
+3	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_13.10
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_13.10
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.10
+6	Ámórì	Ámórì	PROPN	_	_	0	_	_	Ref=JOSH_13.10|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.10
+8	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.10
+9	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.10
+10	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_13.10
+11	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_13.10
+12	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.10
+13	Hésíbónì	Hésíbónì	PROPN	_	_	0	_	_	Ref=JOSH_13.10|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.10
+15	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.10
+16	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.10
+17	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_13.10
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.10
+19	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.10
+20	Ámónì	Ámónì	PROPN	_	_	0	_	_	Ref=JOSH_13.10|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.10
+
+# sent_id = JOSH_13.11
+# text = Àti Gílíádì, ní agbégbé àwọn ènìyàn Gésúrì àti Máákà, gbogbo Okè Hámónì àti gbogbo Básánì títí dé Sálẹ́kà,
+1	Àti	àti	X	_	_	0	_	_	Ref=JOSH_13.11
+2	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=JOSH_13.11|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.11
+4	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.11
+5	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.11
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.11
+7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_13.11
+8	Gésúrì	Gésúrì	PROPN	_	_	0	_	_	Ref=JOSH_13.11
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.11
+10	Máákà	Máákà	PROPN	_	_	0	_	_	Ref=JOSH_13.11|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.11
+12	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.11
+13	Okè	okè	X	_	_	0	_	_	Ref=JOSH_13.11
+14	Hámónì	Hámónì	PROPN	_	_	0	_	_	Ref=JOSH_13.11
+15	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.11
+16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.11
+17	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_13.11
+18	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.11
+19	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.11
+20	Sálẹ́kà	Sálẹ́kà	PROPN	_	_	0	_	_	Ref=JOSH_13.11|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.11
+
+# sent_id = JOSH_13.12
+# text = Ìyẹn, gbogbo ilẹ̀ ọba Ógù ní Básánì, tí ó jọba ní Áṣítarótù àti Édérì, ẹni tí ó kù nínú àwọn Réfáítì ìyókù. Mósè ti ṣẹ́gun wọn, ó sì ti gba ilẹ̀ wọn.
+1	Ìyẹn	ìyẹn	X	_	_	0	_	_	Ref=JOSH_13.12|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.12
+3	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.12
+4	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.12
+5	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_13.12
+6	Ógù	ógù	X	_	_	0	_	_	Ref=JOSH_13.12
+7	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.12
+8	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_13.12|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.12
+10	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.12
+11	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.12
+12	jọba	jọba	X	_	_	0	_	_	Ref=JOSH_13.12
+13	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.12
+14	Áṣítarótù	Áṣítarótù	PROPN	_	_	0	_	_	Ref=JOSH_13.12
+15	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.12
+16	Édérì	Édérì	PROPN	_	_	0	_	_	Ref=JOSH_13.12|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.12
+18	ẹni	ẹni	X	_	_	0	_	_	Ref=JOSH_13.12
+19	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.12
+20	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.12
+21	kù	kù	X	_	_	0	_	_	Ref=JOSH_13.12
+22	nínú	nínú	X	_	_	0	_	_	Ref=JOSH_13.12
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.12
+24	Réfáítì	Réfáítì	PROPN	_	_	0	_	_	Ref=JOSH_13.12
+25	ìyókù	ìyókù	X	_	_	0	_	_	Ref=JOSH_13.12|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.12
+27	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.12
+28	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.12
+29	ṣẹ́gun	ṣẹ́gun	X	_	_	0	_	_	Ref=JOSH_13.12
+30	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.12|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.12
+32	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.12
+33	sì	sì	X	_	_	0	_	_	Ref=JOSH_13.12
+34	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.12
+35	gba	gba	X	_	_	0	_	_	Ref=JOSH_13.12
+36	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.12
+37	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.12|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.12
+
+# sent_id = JOSH_13.13
+# text = Ṣùgbọ́n àwọn ará Ísírẹ́lì kò lé àwọn ará Géṣúrì àti Máákà jáde, bẹ́ẹ̀ ni wọ́n ń gbé ní àárin àwọn ará Ísírẹ́lì títí di òní yìí.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOSH_13.13
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.13
+3	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.13
+4	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_13.13
+5	kò	kò	X	_	_	0	_	_	Ref=JOSH_13.13
+6	lé	lé	X	_	_	0	_	_	Ref=JOSH_13.13
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.13
+8	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.13
+9	Géṣúrì	Géṣúrì	PROPN	_	_	0	_	_	Ref=JOSH_13.13
+10	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.13
+11	Máákà	Máákà	PROPN	_	_	0	_	_	Ref=JOSH_13.13
+12	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_13.13|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.13
+14	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=JOSH_13.13
+15	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.13
+16	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOSH_13.13
+17	ń	ń	X	_	_	0	_	_	Ref=JOSH_13.13
+18	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_13.13
+19	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.13
+20	àárin	àárin	X	_	_	0	_	_	Ref=JOSH_13.13
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.13
+22	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.13
+23	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_13.13
+24	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.13
+25	di	di	X	_	_	0	_	_	Ref=JOSH_13.13
+26	òní	òní	X	_	_	0	_	_	Ref=JOSH_13.13
+27	yìí	yìí	X	_	_	0	_	_	Ref=JOSH_13.13|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.13
+
+# sent_id = JOSH_13.14
+# text = Ṣùgbọ́n àwọn ẹ̀yà Léfì ni kò fi ogún kankan fún, níwọ̀n ìgbà tí ó ti jẹ́ pé ọrẹ àfinásun sí Olúwa Ọlọ́run Ísírẹ́lì ni ogún tiwọn, gẹ́gẹ́ bí o ti ṣèlérí fún wọn.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOSH_13.14
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.14
+3	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.14
+4	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=JOSH_13.14
+5	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.14
+6	kò	kò	X	_	_	0	_	_	Ref=JOSH_13.14
+7	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.14
+8	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_13.14
+9	kankan	kankan	X	_	_	0	_	_	Ref=JOSH_13.14
+10	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.14|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.14
+12	níwọ̀n	níwọ̀n	X	_	_	0	_	_	Ref=JOSH_13.14
+13	ìgbà	ìgbà	X	_	_	0	_	_	Ref=JOSH_13.14
+14	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.14
+15	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.14
+16	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.14
+17	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_13.14
+18	pé	pé	X	_	_	0	_	_	Ref=JOSH_13.14
+19	ọrẹ	ọrẹ	X	_	_	0	_	_	Ref=JOSH_13.14
+20	àfinásun	àfinásun	X	_	_	0	_	_	Ref=JOSH_13.14
+21	sí	sí	X	_	_	0	_	_	Ref=JOSH_13.14
+22	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_13.14
+23	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOSH_13.14
+24	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_13.14
+25	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.14
+26	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_13.14
+27	tiwọn	tiwọn	X	_	_	0	_	_	Ref=JOSH_13.14|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.14
+29	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_13.14
+30	bí	bí	X	_	_	0	_	_	Ref=JOSH_13.14
+31	o	o	X	_	_	0	_	_	Ref=JOSH_13.14
+32	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.14
+33	ṣèlérí	ṣèlérí	X	_	_	0	_	_	Ref=JOSH_13.14
+34	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.14
+35	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.14|SpaceAfter=No
+36	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.14
+
+# sent_id = JOSH_13.15
+# text = Èyí ni Mósè fi fún ẹ̀yà Rúbẹ́nì ni agbo ilé sí agbo ilé:
+1	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.15
+2	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.15
+3	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.15
+4	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.15
+5	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.15
+6	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.15
+7	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_13.15
+8	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.15
+9	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.15
+10	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.15
+11	sí	sí	X	_	_	0	_	_	Ref=JOSH_13.15
+12	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.15
+13	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.15|SpaceAfter=No
+14	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_13.15
+
+# sent_id = JOSH_13.16
+# text = Láti agbégbé Áréórì ní etí Ánónì Jọ́ọ́jì àti láti ìlú tí ń bẹ láàrin Jọ́ọ́jì, àti gbogbo pẹ̀tẹ́lẹ̀ ní ìkọjá Médébà
+1	Láti	láti	X	_	_	0	_	_	Ref=JOSH_13.16
+2	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.16
+3	Áréórì	Áréórì	PROPN	_	_	0	_	_	Ref=JOSH_13.16
+4	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.16
+5	etí	etí	X	_	_	0	_	_	Ref=JOSH_13.16
+6	Ánónì	Ánónì	PROPN	_	_	0	_	_	Ref=JOSH_13.16
+7	Jọ́ọ́jì	Jọ́ọ́jì	PROPN	_	_	0	_	_	Ref=JOSH_13.16
+8	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.16
+9	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.16
+10	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.16
+11	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.16
+12	ń	ń	X	_	_	0	_	_	Ref=JOSH_13.16
+13	bẹ	bẹ	X	_	_	0	_	_	Ref=JOSH_13.16
+14	láàrin	láàrin	X	_	_	0	_	_	Ref=JOSH_13.16
+15	Jọ́ọ́jì	Jọ́ọ́jì	PROPN	_	_	0	_	_	Ref=JOSH_13.16|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.16
+17	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.16
+18	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.16
+19	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=JOSH_13.16
+20	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.16
+21	ìkọjá	ìkọjá	X	_	_	0	_	_	Ref=JOSH_13.16
+22	Médébà	Médébà	PROPN	_	_	0	_	_	Ref=JOSH_13.16
+
+# sent_id = JOSH_13.17
+# text = sí Héṣibónì àti gbogbo ìlú rẹ̀ ní pẹ̀tẹ́lẹ̀, pẹ̀lú Débónì, Bámótì, Báálì, Bẹti-Báálì Míónì,
+1	sí	sí	X	_	_	0	_	_	Ref=JOSH_13.17
+2	Héṣibónì	Héṣibónì	PROPN	_	_	0	_	_	Ref=JOSH_13.17
+3	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.17
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.17
+5	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.17
+6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_13.17
+7	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.17
+8	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=JOSH_13.17|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.17
+10	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_13.17
+11	Débónì	Débónì	PROPN	_	_	0	_	_	Ref=JOSH_13.17|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.17
+13	Bámótì	Bámótì	PROPN	_	_	0	_	_	Ref=JOSH_13.17|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.17
+15	Báálì	báálì	X	_	_	0	_	_	Ref=JOSH_13.17|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.17
+17	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_13.17|SpaceAfter=No
+18	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.17|SpaceAfter=No
+19	Báálì	báálì	X	_	_	0	_	_	Ref=JOSH_13.17
+20	Míónì	Míónì	PROPN	_	_	0	_	_	Ref=JOSH_13.17|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.17
+
+# sent_id = JOSH_13.18
+# text = Jáhásì, Kédẹ́mótì, Méfáátì,
+1	Jáhásì	Jáhásì	PROPN	_	_	0	_	_	Ref=JOSH_13.18|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.18
+3	Kédẹ́mótì	Kédẹ́mótì	PROPN	_	_	0	_	_	Ref=JOSH_13.18|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.18
+5	Méfáátì	Méfáátì	PROPN	_	_	0	_	_	Ref=JOSH_13.18|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.18
+
+# sent_id = JOSH_13.19
+# text = Kíríátaímù, Síbímà, Sẹrétì Sháárì lórí òkè ní àfonífojì.
+1	Kíríátaímù	Kíríátaímù	PROPN	_	_	0	_	_	Ref=JOSH_13.19|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.19
+3	Síbímà	Síbímà	PROPN	_	_	0	_	_	Ref=JOSH_13.19|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.19
+5	Sẹrétì	Sẹrétì	PROPN	_	_	0	_	_	Ref=JOSH_13.19
+6	Sháárì	Sháárì	PROPN	_	_	0	_	_	Ref=JOSH_13.19
+7	lórí	lórí	X	_	_	0	_	_	Ref=JOSH_13.19
+8	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_13.19
+9	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.19
+10	àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_13.19|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.19
+
+# sent_id = JOSH_13.20
+# text = Bẹti-Péórì, gẹ̀rẹ́gẹ̀rẹ́ Písígà, àti Bẹti-Jésímátì
+1	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_13.20|SpaceAfter=No
+2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.20|SpaceAfter=No
+3	Péórì	Péórì	PROPN	_	_	0	_	_	Ref=JOSH_13.20|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.20
+5	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_13.20
+6	Písígà	Písígà	PROPN	_	_	0	_	_	Ref=JOSH_13.20|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.20
+8	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.20
+9	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_13.20|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.20|SpaceAfter=No
+11	Jésímátì	Jésímátì	PROPN	_	_	0	_	_	Ref=JOSH_13.20
+
+# sent_id = JOSH_13.21
+# text = gbogbo ìlú tí ó wà ní pẹ̀tẹ́lẹ̀e àti gbogbo agbégbé Síhónì ọba Ámórì, tí ó ṣe àkóso Héṣíbónì. Mósè sì ti sẹ́gun rẹ̀ àti àwọn ọmọ ìjòyè Mídíánì, Éfì, Rékémì, Súrì, Húrì àti Rébà, àwọn ọmọ ọba pàmọ̀pọ̀ pẹ̀lú Síhónì tí ó gbé ilẹ̀ náà.
+1	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.21
+2	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.21
+3	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.21
+4	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.21
+5	wà	wà	X	_	_	0	_	_	Ref=JOSH_13.21
+6	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.21
+7	pẹ̀tẹ́lẹ̀e	pẹ̀tẹ́lẹ̀e	X	_	_	0	_	_	Ref=JOSH_13.21
+8	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.21
+9	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.21
+10	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.21
+11	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_13.21
+12	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_13.21
+13	Ámórì	Ámórì	PROPN	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+15	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.21
+16	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.21
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_13.21
+18	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_13.21
+19	Héṣíbónì	Héṣíbónì	PROPN	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+21	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.21
+22	sì	sì	X	_	_	0	_	_	Ref=JOSH_13.21
+23	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.21
+24	sẹ́gun	sẹ́gun	X	_	_	0	_	_	Ref=JOSH_13.21
+25	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_13.21
+26	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.21
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.21
+28	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.21
+29	ìjòyè	ìjòyè	X	_	_	0	_	_	Ref=JOSH_13.21
+30	Mídíánì	Mídíánì	PROPN	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+32	Éfì	Éfì	PROPN	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+33	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+34	Rékémì	Rékémì	PROPN	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+35	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+36	Súrì	Súrì	PROPN	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+37	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+38	Húrì	Húrì	PROPN	_	_	0	_	_	Ref=JOSH_13.21
+39	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.21
+40	Rébà	Rébà	PROPN	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+41	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+42	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.21
+43	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.21
+44	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_13.21
+45	pàmọ̀pọ̀	pàmọ̀pọ̀	X	_	_	0	_	_	Ref=JOSH_13.21
+46	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_13.21
+47	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_13.21
+48	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.21
+49	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.21
+50	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_13.21
+51	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.21
+52	náà	náà	X	_	_	0	_	_	Ref=JOSH_13.21|SpaceAfter=No
+53	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.21
+
+# sent_id = JOSH_13.22
+# text = Ní àfikún àwọn tí a pa ní ogun, àwọn ọmọ Ísírẹ́lì fi idà pa Bálámù ọmọ Béórì alásọtẹ́lẹ̀.
+1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_13.22
+2	àfikún	àfikún	X	_	_	0	_	_	Ref=JOSH_13.22
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.22
+4	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.22
+5	a	a	X	_	_	0	_	_	Ref=JOSH_13.22
+6	pa	pa	X	_	_	0	_	_	Ref=JOSH_13.22
+7	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.22
+8	ogun	ogun	X	_	_	0	_	_	Ref=JOSH_13.22|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.22
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.22
+11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.22
+12	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_13.22
+13	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.22
+14	idà	idà	X	_	_	0	_	_	Ref=JOSH_13.22
+15	pa	pa	X	_	_	0	_	_	Ref=JOSH_13.22
+16	Bálámù	Bálámù	PROPN	_	_	0	_	_	Ref=JOSH_13.22
+17	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.22
+18	Béórì	Béórì	PROPN	_	_	0	_	_	Ref=JOSH_13.22
+19	alásọtẹ́lẹ̀	alásọtẹ́lẹ̀	X	_	_	0	_	_	Ref=JOSH_13.22|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.22
+
+# sent_id = JOSH_13.23
+# text = Ààlà àwọn ọmọ Rúbẹ́nì ni etí odò Jọ́dánì. Àwọn ìlú wọ̀nyí àti abúlé rẹ̀ ni ilẹ̀ ìní àwọn ọmọ Rúbẹ́nì ní agbo ilé ní agbo ilé.
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_13.23
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.23
+3	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.23
+4	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_13.23
+5	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.23
+6	etí	etí	X	_	_	0	_	_	Ref=JOSH_13.23
+7	odò	odò	X	_	_	0	_	_	Ref=JOSH_13.23
+8	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_13.23|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.23
+10	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.23
+11	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.23
+12	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=JOSH_13.23
+13	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.23
+14	abúlé	abúlé	X	_	_	0	_	_	Ref=JOSH_13.23
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_13.23
+16	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.23
+17	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.23
+18	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_13.23
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.23
+20	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.23
+21	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_13.23
+22	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.23
+23	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.23
+24	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.23
+25	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.23
+26	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.23
+27	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.23|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.23
+
+# sent_id = JOSH_13.24
+# text = Èyí ni ohun tí Mósè ti fi fún ẹ̀yà Gádì, ní agbo ilé ní agbo ilé:
+1	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.24
+2	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.24
+3	ohun	ohun	X	_	_	0	_	_	Ref=JOSH_13.24
+4	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.24
+5	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.24
+6	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.24
+7	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.24
+8	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.24
+9	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.24
+10	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_13.24|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.24
+12	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.24
+13	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.24
+14	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.24
+15	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.24
+16	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.24
+17	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.24|SpaceAfter=No
+18	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_13.24
+
+# sent_id = JOSH_13.25
+# text = Agbègbè ìlú Jásérì, gbogbo ìlú Gílíádì àti ìdajì orílẹ̀ èdè àwọn ọmọ ará Ámónì títí dé Áróérì ní ẹ̀bá Rábà;
+1	Agbègbè	agbègbè	X	_	_	0	_	_	Ref=JOSH_13.25
+2	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.25
+3	Jásérì	Jásérì	PROPN	_	_	0	_	_	Ref=JOSH_13.25|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.25
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.25
+6	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.25
+7	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=JOSH_13.25
+8	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.25
+9	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_13.25
+10	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=JOSH_13.25
+11	èdè	èdè	X	_	_	0	_	_	Ref=JOSH_13.25
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.25
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.25
+14	ará	ará	X	_	_	0	_	_	Ref=JOSH_13.25
+15	Ámónì	Ámónì	PROPN	_	_	0	_	_	Ref=JOSH_13.25
+16	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.25
+17	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.25
+18	Áróérì	Áróérì	PROPN	_	_	0	_	_	Ref=JOSH_13.25
+19	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.25
+20	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=JOSH_13.25
+21	Rábà	Rábà	PROPN	_	_	0	_	_	Ref=JOSH_13.25|SpaceAfter=No
+22	;	;	PUNCT	_	_	0	punct	_	Ref=JOSH_13.25
+
+# sent_id = JOSH_13.26
+# text = àti láti Hésíbónì lọ sí Ramati-Mísífà àti Bétónímù, àti láti Móhánáimù sí agbégbé ìlú Débírì,
+1	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.26
+2	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.26
+3	Hésíbónì	Hésíbónì	PROPN	_	_	0	_	_	Ref=JOSH_13.26
+4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_13.26
+5	sí	sí	X	_	_	0	_	_	Ref=JOSH_13.26
+6	Ramati	Ramati	PROPN	_	_	0	_	_	Ref=JOSH_13.26|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.26|SpaceAfter=No
+8	Mísífà	Mísífà	PROPN	_	_	0	_	_	Ref=JOSH_13.26
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.26
+10	Bétónímù	Bétónímù	PROPN	_	_	0	_	_	Ref=JOSH_13.26|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.26
+12	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.26
+13	láti	láti	X	_	_	0	_	_	Ref=JOSH_13.26
+14	Móhánáimù	Móhánáimù	PROPN	_	_	0	_	_	Ref=JOSH_13.26
+15	sí	sí	X	_	_	0	_	_	Ref=JOSH_13.26
+16	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.26
+17	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.26
+18	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_13.26|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.26
+
+# sent_id = JOSH_13.27
+# text = àti ní àfonífojì Bẹti-Hárámù, Bẹti-Nímírà, Súkótìọ àti Sáfónì pẹ̀lú ìyókù agbégbé ilẹ̀ Síhónì ọba Héṣíbónì (ní ìhà ìlà oòrùn Jọ́dánì, agbégbé rẹ̀ títí dé òpin Òkun Kínẹ́rítì).
+1	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.27
+2	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.27
+3	àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_13.27
+4	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_13.27|SpaceAfter=No
+5	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27|SpaceAfter=No
+6	Hárámù	Hárámù	PROPN	_	_	0	_	_	Ref=JOSH_13.27|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27
+8	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_13.27|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27|SpaceAfter=No
+10	Nímírà	Nímírà	PROPN	_	_	0	_	_	Ref=JOSH_13.27|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27
+12	Súkótìọ	Súkótìọ	PROPN	_	_	0	_	_	Ref=JOSH_13.27
+13	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.27
+14	Sáfónì	Sáfónì	PROPN	_	_	0	_	_	Ref=JOSH_13.27
+15	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_13.27
+16	ìyókù	ìyókù	X	_	_	0	_	_	Ref=JOSH_13.27
+17	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.27
+18	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.27
+19	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_13.27
+20	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_13.27
+21	Héṣíbónì	Héṣíbónì	PROPN	_	_	0	_	_	Ref=JOSH_13.27
+22	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27|SpaceAfter=No
+23	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.27
+24	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_13.27
+25	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_13.27
+26	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_13.27
+27	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_13.27|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27
+29	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.27
+30	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_13.27
+31	títí	títí	X	_	_	0	_	_	Ref=JOSH_13.27
+32	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.27
+33	òpin	òpin	X	_	_	0	_	_	Ref=JOSH_13.27
+34	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_13.27
+35	Kínẹ́rítì	Kínẹ́rítì	PROPN	_	_	0	_	_	Ref=JOSH_13.27|SpaceAfter=No
+36	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.27
+
+# sent_id = JOSH_13.28
+# text = Àwọn ìlú wọ̀nyí àti abúlé rẹ̀ jẹ́ ogún àwọn ọmọ Gádì, ní agbo ilé ní agbo ilé.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.28
+2	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.28
+3	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=JOSH_13.28
+4	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.28
+5	abúlé	abúlé	X	_	_	0	_	_	Ref=JOSH_13.28
+6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_13.28
+7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_13.28
+8	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_13.28
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.28
+10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.28
+11	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_13.28|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.28
+13	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.28
+14	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.28
+15	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.28
+16	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.28
+17	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.28
+18	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.28|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.28
+
+# sent_id = JOSH_13.29
+# text = Èyí ni ohun tí Mósè ti fi fún ìdajì ẹ̀yà Mánásè, èyí ni pé, fún ìdajì ìdílé irú ọmọ Mánásè, ní agbo ilé ní agbo ilé:
+1	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.29
+2	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.29
+3	ohun	ohun	X	_	_	0	_	_	Ref=JOSH_13.29
+4	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.29
+5	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.29
+6	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.29
+7	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.29
+8	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.29
+9	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_13.29
+10	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.29
+11	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=JOSH_13.29|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.29
+13	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.29
+14	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.29
+15	pé	pé	X	_	_	0	_	_	Ref=JOSH_13.29|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.29
+17	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.29
+18	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_13.29
+19	ìdílé	ìdílé	X	_	_	0	_	_	Ref=JOSH_13.29
+20	irú	irú	X	_	_	0	_	_	Ref=JOSH_13.29
+21	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.29
+22	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=JOSH_13.29|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.29
+24	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.29
+25	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.29
+26	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.29
+27	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.29
+28	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.29
+29	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.29|SpaceAfter=No
+30	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_13.29
+
+# sent_id = JOSH_13.30
+# text = Ilẹ̀ náà fẹ̀ dé Máháníámù àti gbogbo Básánì, gbogbo agbégbé ilẹ̀ Ógù ọba Básánì, èyí tí í se ibùgbé Jáírì ní Básánì, ọgọ́ta ìlú,
+1	Ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.30
+2	náà	náà	X	_	_	0	_	_	Ref=JOSH_13.30
+3	fẹ̀	fẹ̀	X	_	_	0	_	_	Ref=JOSH_13.30
+4	dé	dé	X	_	_	0	_	_	Ref=JOSH_13.30
+5	Máháníámù	Máháníámù	PROPN	_	_	0	_	_	Ref=JOSH_13.30
+6	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.30
+7	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.30
+8	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_13.30|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.30
+10	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_13.30
+11	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_13.30
+12	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_13.30
+13	Ógù	ógù	X	_	_	0	_	_	Ref=JOSH_13.30
+14	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_13.30
+15	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_13.30|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.30
+17	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.30
+18	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.30
+19	í	í	X	_	_	0	_	_	Ref=JOSH_13.30
+20	se	se	X	_	_	0	_	_	Ref=JOSH_13.30
+21	ibùgbé	ibùgbé	X	_	_	0	_	_	Ref=JOSH_13.30
+22	Jáírì	Jáírì	PROPN	_	_	0	_	_	Ref=JOSH_13.30
+23	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.30
+24	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_13.30|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.30
+26	ọgọ́ta	ọgọ́ta	X	_	_	0	_	_	Ref=JOSH_13.30
+27	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.30|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.30
+
+# sent_id = JOSH_13.31
+# text = ìdajì Gílíádì, àti Ásítarótù àti Édírérì (àwọn ìlú ọba Ógù ní Básánì). Èyí ni fún irú àwọn ọmọ Mákírì ọmọ Mánásè fún ààbọ̀ àwọn ọmọ Mákírì, ní agbo ilé ní agbo ilé.
+1	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_13.31
+2	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=JOSH_13.31|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.31
+4	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.31
+5	Ásítarótù	Ásítarótù	PROPN	_	_	0	_	_	Ref=JOSH_13.31
+6	àti	àti	X	_	_	0	_	_	Ref=JOSH_13.31
+7	Édírérì	Édírérì	PROPN	_	_	0	_	_	Ref=JOSH_13.31
+8	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_13.31|SpaceAfter=No
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.31
+10	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_13.31
+11	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_13.31
+12	Ógù	ógù	X	_	_	0	_	_	Ref=JOSH_13.31
+13	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.31
+14	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_13.31|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_13.31|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.31
+17	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.31
+18	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.31
+19	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.31
+20	irú	irú	X	_	_	0	_	_	Ref=JOSH_13.31
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.31
+22	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.31
+23	Mákírì	Mákírì	PROPN	_	_	0	_	_	Ref=JOSH_13.31
+24	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.31
+25	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=JOSH_13.31
+26	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.31
+27	ààbọ̀	ààbọ̀	X	_	_	0	_	_	Ref=JOSH_13.31
+28	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_13.31
+29	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_13.31
+30	Mákírì	Mákírì	PROPN	_	_	0	_	_	Ref=JOSH_13.31|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.31
+32	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.31
+33	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.31
+34	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.31
+35	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.31
+36	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_13.31
+37	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_13.31|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.31
+
+# sent_id = JOSH_13.32
+# text = Èyí ni ogún tí Mósè fi fún wọn nígbà tí ó wà ní pẹ̀tẹ́lẹ̀ Móábù ní ìhà kéjì Jọ́dánì ní ìlà-oòrùn Jẹ́ríkò.
+1	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_13.32
+2	ni	ni	X	_	_	0	_	_	Ref=JOSH_13.32
+3	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_13.32
+4	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.32
+5	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.32
+6	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.32
+7	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.32
+8	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.32
+9	nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_13.32
+10	tí	tí	X	_	_	0	_	_	Ref=JOSH_13.32
+11	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.32
+12	wà	wà	X	_	_	0	_	_	Ref=JOSH_13.32
+13	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.32
+14	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=JOSH_13.32
+15	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=JOSH_13.32
+16	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.32
+17	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_13.32
+18	kéjì	kéjì	X	_	_	0	_	_	Ref=JOSH_13.32
+19	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_13.32
+20	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.32
+21	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_13.32|SpaceAfter=No
+22	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_13.32|SpaceAfter=No
+23	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_13.32
+24	Jẹ́ríkò	Jẹ́ríkò	PROPN	_	_	0	_	_	Ref=JOSH_13.32|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.32
+
+# sent_id = JOSH_13.33
+# text = Ṣùgbọ́n fún ẹ̀yà Léfì, Mósè kò fi ogún fún un; Olúwa , Ọlọ́run Ísírẹ́lì, ní ogún wọn, gẹ́gẹ́ bí ó ti ṣe ìlérí fún wọn.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOSH_13.33
+2	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.33
+3	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_13.33
+4	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=JOSH_13.33|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.33
+6	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_13.33
+7	kò	kò	X	_	_	0	_	_	Ref=JOSH_13.33
+8	fi	fi	X	_	_	0	_	_	Ref=JOSH_13.33
+9	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_13.33
+10	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.33
+11	un	un	X	_	_	0	_	_	Ref=JOSH_13.33|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=JOSH_13.33
+13	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_13.33
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.33
+15	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOSH_13.33
+16	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_13.33|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.33
+18	ní	ní	X	_	_	0	_	_	Ref=JOSH_13.33
+19	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_13.33
+20	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.33|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_13.33
+22	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_13.33
+23	bí	bí	X	_	_	0	_	_	Ref=JOSH_13.33
+24	ó	ó	X	_	_	0	_	_	Ref=JOSH_13.33
+25	ti	ti	X	_	_	0	_	_	Ref=JOSH_13.33
+26	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_13.33
+27	ìlérí	ìlérí	X	_	_	0	_	_	Ref=JOSH_13.33
+28	fún	fún	X	_	_	0	_	_	Ref=JOSH_13.33
+29	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_13.33|SpaceAfter=No
+30	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_13.33
+

@@ -1,0 +1,829 @@
+# source = Bibeli Mimọ, Jẹ́nẹ́sísì, Chapter 5
+# newdoc id = GEN_5
+# sent_id = GEN_5.1
+# text = Èyí ni àkọsílẹ̀ ìran Ádámù. Nígbà tí Ọlọ́run dá ènìyàn, ó dá a ní àwòrán Ọlọ́run.
+1	Èyí	èyí	X	_	_	0	_	_	Ref=GEN_5.1
+2	ni	ni	X	_	_	0	_	_	Ref=GEN_5.1
+3	àkọsílẹ̀	àkọsílẹ̀	X	_	_	0	_	_	Ref=GEN_5.1
+4	ìran	ìran	X	_	_	0	_	_	Ref=GEN_5.1
+5	Ádámù	Ádámù	PROPN	_	_	0	_	_	Ref=GEN_5.1|SpaceAfter=No
+6	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.1
+7	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.1
+8	tí	tí	X	_	_	0	_	_	Ref=GEN_5.1
+9	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=GEN_5.1
+10	dá	dá	X	_	_	0	_	_	Ref=GEN_5.1
+11	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=GEN_5.1|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.1
+13	ó	ó	X	_	_	0	_	_	Ref=GEN_5.1
+14	dá	dá	X	_	_	0	_	_	Ref=GEN_5.1
+15	a	a	X	_	_	0	_	_	Ref=GEN_5.1
+16	ní	ní	X	_	_	0	_	_	Ref=GEN_5.1
+17	àwòrán	àwòrán	X	_	_	0	_	_	Ref=GEN_5.1
+18	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=GEN_5.1|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.1
+
+# sent_id = GEN_5.2
+# text = Ó dá wọn ní akọ àti abo, ó sì súre fún wọn. Nígbà tí ó dá wọn tan ó pè wọ́n ní “ènìyàn.”
+1	Ó	ó	X	_	_	0	_	_	Ref=GEN_5.2
+2	dá	dá	X	_	_	0	_	_	Ref=GEN_5.2
+3	wọn	wọn	X	_	_	0	_	_	Ref=GEN_5.2
+4	ní	ní	X	_	_	0	_	_	Ref=GEN_5.2
+5	akọ	akọ	X	_	_	0	_	_	Ref=GEN_5.2
+6	àti	àti	X	_	_	0	_	_	Ref=GEN_5.2
+7	abo	abo	X	_	_	0	_	_	Ref=GEN_5.2|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.2
+9	ó	ó	X	_	_	0	_	_	Ref=GEN_5.2
+10	sì	sì	X	_	_	0	_	_	Ref=GEN_5.2
+11	súre	súre	X	_	_	0	_	_	Ref=GEN_5.2
+12	fún	fún	X	_	_	0	_	_	Ref=GEN_5.2
+13	wọn	wọn	X	_	_	0	_	_	Ref=GEN_5.2|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.2
+15	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.2
+16	tí	tí	X	_	_	0	_	_	Ref=GEN_5.2
+17	ó	ó	X	_	_	0	_	_	Ref=GEN_5.2
+18	dá	dá	X	_	_	0	_	_	Ref=GEN_5.2
+19	wọn	wọn	X	_	_	0	_	_	Ref=GEN_5.2
+20	tan	tan	X	_	_	0	_	_	Ref=GEN_5.2
+21	ó	ó	X	_	_	0	_	_	Ref=GEN_5.2
+22	pè	pè	X	_	_	0	_	_	Ref=GEN_5.2
+23	wọ́n	wọ́n	X	_	_	0	_	_	Ref=GEN_5.2
+24	ní	ní	X	_	_	0	_	_	Ref=GEN_5.2
+25	“	“	PUNCT	_	_	0	punct	_	Ref=GEN_5.2|SpaceAfter=No
+26	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=GEN_5.2|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.2|SpaceAfter=No
+28	”	”	PUNCT	_	_	0	punct	_	Ref=GEN_5.2
+
+# sent_id = GEN_5.3
+# text = Nígbà tí Ádámù di ẹni Àádóje ọdún (130), ó bí ọmọkùnrin kan tí ó jọ ọ́, tí ó jẹ́ àwòrán ara rẹ̀, ó sì pe orúkọ rẹ̀ ní Ṣétì.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.3
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.3
+3	Ádámù	Ádámù	PROPN	_	_	0	_	_	Ref=GEN_5.3
+4	di	di	X	_	_	0	_	_	Ref=GEN_5.3
+5	ẹni	ẹni	X	_	_	0	_	_	Ref=GEN_5.3
+6	Àádóje	àádóje	X	_	_	0	_	_	Ref=GEN_5.3
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.3
+8	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.3|SpaceAfter=No
+9	130	130	X	_	_	0	_	_	Ref=GEN_5.3|SpaceAfter=No
+10	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.3|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.3
+12	ó	ó	X	_	_	0	_	_	Ref=GEN_5.3
+13	bí	bí	X	_	_	0	_	_	Ref=GEN_5.3
+14	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.3
+15	kan	kan	X	_	_	0	_	_	Ref=GEN_5.3
+16	tí	tí	X	_	_	0	_	_	Ref=GEN_5.3
+17	ó	ó	X	_	_	0	_	_	Ref=GEN_5.3
+18	jọ	jọ	X	_	_	0	_	_	Ref=GEN_5.3
+19	ọ́	ọ́	X	_	_	0	_	_	Ref=GEN_5.3|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.3
+21	tí	tí	X	_	_	0	_	_	Ref=GEN_5.3
+22	ó	ó	X	_	_	0	_	_	Ref=GEN_5.3
+23	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.3
+24	àwòrán	àwòrán	X	_	_	0	_	_	Ref=GEN_5.3
+25	ara	ara	X	_	_	0	_	_	Ref=GEN_5.3
+26	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=GEN_5.3|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.3
+28	ó	ó	X	_	_	0	_	_	Ref=GEN_5.3
+29	sì	sì	X	_	_	0	_	_	Ref=GEN_5.3
+30	pe	pe	X	_	_	0	_	_	Ref=GEN_5.3
+31	orúkọ	orúkọ	X	_	_	0	_	_	Ref=GEN_5.3
+32	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=GEN_5.3
+33	ní	ní	X	_	_	0	_	_	Ref=GEN_5.3
+34	Ṣétì	Ṣétì	PROPN	_	_	0	_	_	Ref=GEN_5.3|SpaceAfter=No
+35	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.3
+
+# sent_id = GEN_5.4
+# text = Lẹ́yìn ìgbà tí ó bí Ṣétì, ó tún wà láàyè fún ẹgbẹ̀rin ọdún (800), ó sì bí àwọn ọmọkùnrin àti ọmọbìnrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.4
+2	ìgbà	ìgbà	X	_	_	0	_	_	Ref=GEN_5.4
+3	tí	tí	X	_	_	0	_	_	Ref=GEN_5.4
+4	ó	ó	X	_	_	0	_	_	Ref=GEN_5.4
+5	bí	bí	X	_	_	0	_	_	Ref=GEN_5.4
+6	Ṣétì	Ṣétì	PROPN	_	_	0	_	_	Ref=GEN_5.4|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.4
+8	ó	ó	X	_	_	0	_	_	Ref=GEN_5.4
+9	tún	tún	X	_	_	0	_	_	Ref=GEN_5.4
+10	wà	wà	X	_	_	0	_	_	Ref=GEN_5.4
+11	láàyè	láàyè	X	_	_	0	_	_	Ref=GEN_5.4
+12	fún	fún	X	_	_	0	_	_	Ref=GEN_5.4
+13	ẹgbẹ̀rin	ẹgbẹ̀rin	X	_	_	0	_	_	Ref=GEN_5.4
+14	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.4
+15	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.4|SpaceAfter=No
+16	800	800	X	_	_	0	_	_	Ref=GEN_5.4|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.4|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.4
+19	ó	ó	X	_	_	0	_	_	Ref=GEN_5.4
+20	sì	sì	X	_	_	0	_	_	Ref=GEN_5.4
+21	bí	bí	X	_	_	0	_	_	Ref=GEN_5.4
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.4
+23	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.4
+24	àti	àti	X	_	_	0	_	_	Ref=GEN_5.4
+25	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=GEN_5.4|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.4
+
+# sent_id = GEN_5.5
+# text = Àpapọ̀ ọdún tí Ádámù gbé ní orí ilẹ̀ jẹ́ ẹ̀ẹ́dẹ́gbẹ̀rún-ọdún-ó-lé-ọgbọ̀n (930), ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.5
+2	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.5
+3	tí	tí	X	_	_	0	_	_	Ref=GEN_5.5
+4	Ádámù	Ádámù	PROPN	_	_	0	_	_	Ref=GEN_5.5
+5	gbé	gbé	X	_	_	0	_	_	Ref=GEN_5.5
+6	ní	ní	X	_	_	0	_	_	Ref=GEN_5.5
+7	orí	orí	X	_	_	0	_	_	Ref=GEN_5.5
+8	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=GEN_5.5
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.5
+10	ẹ̀ẹ́dẹ́gbẹ̀rún	ẹ̀ẹ́dẹ́gbẹ̀rún	X	_	_	0	_	_	Ref=GEN_5.5|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.5|SpaceAfter=No
+12	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.5|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.5|SpaceAfter=No
+14	ó	ó	X	_	_	0	_	_	Ref=GEN_5.5|SpaceAfter=No
+15	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.5|SpaceAfter=No
+16	lé	lé	X	_	_	0	_	_	Ref=GEN_5.5|SpaceAfter=No
+17	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.5|SpaceAfter=No
+18	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=GEN_5.5
+19	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.5|SpaceAfter=No
+20	930	930	X	_	_	0	_	_	Ref=GEN_5.5|SpaceAfter=No
+21	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.5|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.5
+23	ó	ó	X	_	_	0	_	_	Ref=GEN_5.5
+24	sì	sì	X	_	_	0	_	_	Ref=GEN_5.5
+25	kú	kú	X	_	_	0	_	_	Ref=GEN_5.5|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.5
+
+# sent_id = GEN_5.6
+# text = Nígbà tí Ṣétì pé àrùnlélọ́gọ́rùn ún ọdún (105), ó bí Énọ́sì.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.6
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.6
+3	Ṣétì	Ṣétì	PROPN	_	_	0	_	_	Ref=GEN_5.6
+4	pé	pé	X	_	_	0	_	_	Ref=GEN_5.6
+5	àrùnlélọ́gọ́rùn	àrùnlélọ́gọ́rùn	X	_	_	0	_	_	Ref=GEN_5.6
+6	ún	ún	X	_	_	0	_	_	Ref=GEN_5.6
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.6
+8	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.6|SpaceAfter=No
+9	105	105	X	_	_	0	_	_	Ref=GEN_5.6|SpaceAfter=No
+10	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.6|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.6
+12	ó	ó	X	_	_	0	_	_	Ref=GEN_5.6
+13	bí	bí	X	_	_	0	_	_	Ref=GEN_5.6
+14	Énọ́sì	Énọ́sì	PROPN	_	_	0	_	_	Ref=GEN_5.6|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.6
+
+# sent_id = GEN_5.7
+# text = Lẹ́yìn ìgbà tí ó bí Énọ́sì, ó sì gbé fún ẹgbẹ̀rin-ó-lé-méje ọdún (807), ó sì bí àwọn; ọmọkùnrin àti ọmọbìnrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.7
+2	ìgbà	ìgbà	X	_	_	0	_	_	Ref=GEN_5.7
+3	tí	tí	X	_	_	0	_	_	Ref=GEN_5.7
+4	ó	ó	X	_	_	0	_	_	Ref=GEN_5.7
+5	bí	bí	X	_	_	0	_	_	Ref=GEN_5.7
+6	Énọ́sì	Énọ́sì	PROPN	_	_	0	_	_	Ref=GEN_5.7|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.7
+8	ó	ó	X	_	_	0	_	_	Ref=GEN_5.7
+9	sì	sì	X	_	_	0	_	_	Ref=GEN_5.7
+10	gbé	gbé	X	_	_	0	_	_	Ref=GEN_5.7
+11	fún	fún	X	_	_	0	_	_	Ref=GEN_5.7
+12	ẹgbẹ̀rin	ẹgbẹ̀rin	X	_	_	0	_	_	Ref=GEN_5.7|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.7|SpaceAfter=No
+14	ó	ó	X	_	_	0	_	_	Ref=GEN_5.7|SpaceAfter=No
+15	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.7|SpaceAfter=No
+16	lé	lé	X	_	_	0	_	_	Ref=GEN_5.7|SpaceAfter=No
+17	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.7|SpaceAfter=No
+18	méje	méje	X	_	_	0	_	_	Ref=GEN_5.7
+19	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.7
+20	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.7|SpaceAfter=No
+21	807	807	X	_	_	0	_	_	Ref=GEN_5.7|SpaceAfter=No
+22	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.7|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.7
+24	ó	ó	X	_	_	0	_	_	Ref=GEN_5.7
+25	sì	sì	X	_	_	0	_	_	Ref=GEN_5.7
+26	bí	bí	X	_	_	0	_	_	Ref=GEN_5.7
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.7|SpaceAfter=No
+28	;	;	PUNCT	_	_	0	punct	_	Ref=GEN_5.7
+29	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.7
+30	àti	àti	X	_	_	0	_	_	Ref=GEN_5.7
+31	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=GEN_5.7|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.7
+
+# sent_id = GEN_5.8
+# text = Àpapọ̀ ọdún Ṣẹ́tì sì jẹ́ ẹ̀ẹ́dẹ́gbẹ̀rún-ọdún-ó-lé-méjìlá (912), ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.8
+2	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.8
+3	Ṣẹ́tì	Ṣẹ́tì	PROPN	_	_	0	_	_	Ref=GEN_5.8
+4	sì	sì	X	_	_	0	_	_	Ref=GEN_5.8
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.8
+6	ẹ̀ẹ́dẹ́gbẹ̀rún	ẹ̀ẹ́dẹ́gbẹ̀rún	X	_	_	0	_	_	Ref=GEN_5.8|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.8|SpaceAfter=No
+8	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.8|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.8|SpaceAfter=No
+10	ó	ó	X	_	_	0	_	_	Ref=GEN_5.8|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.8|SpaceAfter=No
+12	lé	lé	X	_	_	0	_	_	Ref=GEN_5.8|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.8|SpaceAfter=No
+14	méjìlá	méjìlá	X	_	_	0	_	_	Ref=GEN_5.8
+15	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.8|SpaceAfter=No
+16	912	912	X	_	_	0	_	_	Ref=GEN_5.8|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.8|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.8
+19	ó	ó	X	_	_	0	_	_	Ref=GEN_5.8
+20	sì	sì	X	_	_	0	_	_	Ref=GEN_5.8
+21	kú	kú	X	_	_	0	_	_	Ref=GEN_5.8|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.8
+
+# sent_id = GEN_5.9
+# text = Nígbà tí Énọ́sì di ẹni àádọ́rùn-ún ọdún (90) ni ó bí Kénánì.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.9
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.9
+3	Énọ́sì	Énọ́sì	PROPN	_	_	0	_	_	Ref=GEN_5.9
+4	di	di	X	_	_	0	_	_	Ref=GEN_5.9
+5	ẹni	ẹni	X	_	_	0	_	_	Ref=GEN_5.9
+6	àádọ́rùn	àádọ́rùn	X	_	_	0	_	_	Ref=GEN_5.9|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.9|SpaceAfter=No
+8	ún	ún	X	_	_	0	_	_	Ref=GEN_5.9
+9	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.9
+10	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.9|SpaceAfter=No
+11	90	90	X	_	_	0	_	_	Ref=GEN_5.9|SpaceAfter=No
+12	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.9
+13	ni	ni	X	_	_	0	_	_	Ref=GEN_5.9
+14	ó	ó	X	_	_	0	_	_	Ref=GEN_5.9
+15	bí	bí	X	_	_	0	_	_	Ref=GEN_5.9
+16	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=GEN_5.9|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.9
+
+# sent_id = GEN_5.10
+# text = Lẹ́yìn tí ó bí Kénánì, ó wà láàyè fún ẹgbẹ̀rin-ọdún-ó-lé-mẹ́ẹ̀dógún (815), ó sì bí àwọn ọkùnrin àti obìnrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.10
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.10
+3	ó	ó	X	_	_	0	_	_	Ref=GEN_5.10
+4	bí	bí	X	_	_	0	_	_	Ref=GEN_5.10
+5	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=GEN_5.10|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.10
+7	ó	ó	X	_	_	0	_	_	Ref=GEN_5.10
+8	wà	wà	X	_	_	0	_	_	Ref=GEN_5.10
+9	láàyè	láàyè	X	_	_	0	_	_	Ref=GEN_5.10
+10	fún	fún	X	_	_	0	_	_	Ref=GEN_5.10
+11	ẹgbẹ̀rin	ẹgbẹ̀rin	X	_	_	0	_	_	Ref=GEN_5.10|SpaceAfter=No
+12	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.10|SpaceAfter=No
+13	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.10|SpaceAfter=No
+14	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.10|SpaceAfter=No
+15	ó	ó	X	_	_	0	_	_	Ref=GEN_5.10|SpaceAfter=No
+16	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.10|SpaceAfter=No
+17	lé	lé	X	_	_	0	_	_	Ref=GEN_5.10|SpaceAfter=No
+18	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.10|SpaceAfter=No
+19	mẹ́ẹ̀dógún	mẹ́ẹ̀dógún	X	_	_	0	_	_	Ref=GEN_5.10
+20	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.10|SpaceAfter=No
+21	815	815	X	_	_	0	_	_	Ref=GEN_5.10|SpaceAfter=No
+22	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.10|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.10
+24	ó	ó	X	_	_	0	_	_	Ref=GEN_5.10
+25	sì	sì	X	_	_	0	_	_	Ref=GEN_5.10
+26	bí	bí	X	_	_	0	_	_	Ref=GEN_5.10
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.10
+28	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=GEN_5.10
+29	àti	àti	X	_	_	0	_	_	Ref=GEN_5.10
+30	obìnrin	obìnrin	X	_	_	0	_	_	Ref=GEN_5.10|SpaceAfter=No
+31	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.10
+
+# sent_id = GEN_5.11
+# text = Àpapọ̀ ọdún Énọ́sì jẹ́ ẹ̀ẹ́dẹ́gbẹ̀rún-ọdún-ó-lé-márùn-ún (905), ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.11
+2	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.11
+3	Énọ́sì	Énọ́sì	PROPN	_	_	0	_	_	Ref=GEN_5.11
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.11
+5	ẹ̀ẹ́dẹ́gbẹ̀rún	ẹ̀ẹ́dẹ́gbẹ̀rún	X	_	_	0	_	_	Ref=GEN_5.11|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.11|SpaceAfter=No
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.11|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.11|SpaceAfter=No
+9	ó	ó	X	_	_	0	_	_	Ref=GEN_5.11|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.11|SpaceAfter=No
+11	lé	lé	X	_	_	0	_	_	Ref=GEN_5.11|SpaceAfter=No
+12	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.11|SpaceAfter=No
+13	márùn	márùn	X	_	_	0	_	_	Ref=GEN_5.11|SpaceAfter=No
+14	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.11|SpaceAfter=No
+15	ún	ún	X	_	_	0	_	_	Ref=GEN_5.11
+16	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.11|SpaceAfter=No
+17	905	905	X	_	_	0	_	_	Ref=GEN_5.11|SpaceAfter=No
+18	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.11|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.11
+20	ó	ó	X	_	_	0	_	_	Ref=GEN_5.11
+21	sì	sì	X	_	_	0	_	_	Ref=GEN_5.11
+22	kú	kú	X	_	_	0	_	_	Ref=GEN_5.11|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.11
+
+# sent_id = GEN_5.12
+# text = Nígbà tí Kénánì di àádọ́rin ọdún (70) ni ó bí Máhálálélì:
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.12
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.12
+3	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=GEN_5.12
+4	di	di	X	_	_	0	_	_	Ref=GEN_5.12
+5	àádọ́rin	àádọ́rin	X	_	_	0	_	_	Ref=GEN_5.12
+6	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.12
+7	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.12|SpaceAfter=No
+8	70	70	X	_	_	0	_	_	Ref=GEN_5.12|SpaceAfter=No
+9	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.12
+10	ni	ni	X	_	_	0	_	_	Ref=GEN_5.12
+11	ó	ó	X	_	_	0	_	_	Ref=GEN_5.12
+12	bí	bí	X	_	_	0	_	_	Ref=GEN_5.12
+13	Máhálálélì	Máhálálélì	PROPN	_	_	0	_	_	Ref=GEN_5.12|SpaceAfter=No
+14	:	:	PUNCT	_	_	0	punct	_	Ref=GEN_5.12
+
+# sent_id = GEN_5.13
+# text = Lẹ́yìn tí ó bí Máhálálélì, ó wà láàyè fún òjìlélẹ́gbẹ̀rín ọdún (840), ó sì bí àwọn ọmọkùnrin àti ọmọbínrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.13
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.13
+3	ó	ó	X	_	_	0	_	_	Ref=GEN_5.13
+4	bí	bí	X	_	_	0	_	_	Ref=GEN_5.13
+5	Máhálálélì	Máhálálélì	PROPN	_	_	0	_	_	Ref=GEN_5.13|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.13
+7	ó	ó	X	_	_	0	_	_	Ref=GEN_5.13
+8	wà	wà	X	_	_	0	_	_	Ref=GEN_5.13
+9	láàyè	láàyè	X	_	_	0	_	_	Ref=GEN_5.13
+10	fún	fún	X	_	_	0	_	_	Ref=GEN_5.13
+11	òjìlélẹ́gbẹ̀rín	òjìlélẹ́gbẹ̀rín	X	_	_	0	_	_	Ref=GEN_5.13
+12	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.13
+13	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.13|SpaceAfter=No
+14	840	840	X	_	_	0	_	_	Ref=GEN_5.13|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.13|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.13
+17	ó	ó	X	_	_	0	_	_	Ref=GEN_5.13
+18	sì	sì	X	_	_	0	_	_	Ref=GEN_5.13
+19	bí	bí	X	_	_	0	_	_	Ref=GEN_5.13
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.13
+21	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.13
+22	àti	àti	X	_	_	0	_	_	Ref=GEN_5.13
+23	ọmọbínrin	ọmọbínrin	X	_	_	0	_	_	Ref=GEN_5.13|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.13
+
+# sent_id = GEN_5.14
+# text = Àpapọ̀ ọjọ́ rẹ̀ jẹ́ ẹ̀ẹ́dẹ́gbẹ̀rún-ó-lé-mẹ́wàá ọdún (910), ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.14
+2	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=GEN_5.14
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=GEN_5.14
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.14
+5	ẹ̀ẹ́dẹ́gbẹ̀rún	ẹ̀ẹ́dẹ́gbẹ̀rún	X	_	_	0	_	_	Ref=GEN_5.14|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.14|SpaceAfter=No
+7	ó	ó	X	_	_	0	_	_	Ref=GEN_5.14|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.14|SpaceAfter=No
+9	lé	lé	X	_	_	0	_	_	Ref=GEN_5.14|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.14|SpaceAfter=No
+11	mẹ́wàá	mẹ́wàá	X	_	_	0	_	_	Ref=GEN_5.14
+12	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.14
+13	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.14|SpaceAfter=No
+14	910	910	X	_	_	0	_	_	Ref=GEN_5.14|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.14|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.14
+17	ó	ó	X	_	_	0	_	_	Ref=GEN_5.14
+18	sì	sì	X	_	_	0	_	_	Ref=GEN_5.14
+19	kú	kú	X	_	_	0	_	_	Ref=GEN_5.14|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.14
+
+# sent_id = GEN_5.15
+# text = Nígbà tí Máhálálélì pé ọmọ àrúnlélọ́gọ́ta ọdún (65) ni ó bí Járédì.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.15
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.15
+3	Máhálálélì	Máhálálélì	PROPN	_	_	0	_	_	Ref=GEN_5.15
+4	pé	pé	X	_	_	0	_	_	Ref=GEN_5.15
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=GEN_5.15
+6	àrúnlélọ́gọ́ta	àrúnlélọ́gọ́ta	X	_	_	0	_	_	Ref=GEN_5.15
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.15
+8	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.15|SpaceAfter=No
+9	65	65	X	_	_	0	_	_	Ref=GEN_5.15|SpaceAfter=No
+10	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.15
+11	ni	ni	X	_	_	0	_	_	Ref=GEN_5.15
+12	ó	ó	X	_	_	0	_	_	Ref=GEN_5.15
+13	bí	bí	X	_	_	0	_	_	Ref=GEN_5.15
+14	Járédì	Járédì	PROPN	_	_	0	_	_	Ref=GEN_5.15|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.15
+
+# sent_id = GEN_5.16
+# text = Máhálálélì sì gbé fún ẹgbẹ̀rin-ó-lé-ọgbọ̀n ọdún (830) lẹ́yìn ìgbà tí ó bí Járédì, ó sì bí àwọn ọmọkùnrin àti ọmọbìnrin.
+1	Máhálálélì	Máhálálélì	PROPN	_	_	0	_	_	Ref=GEN_5.16
+2	sì	sì	X	_	_	0	_	_	Ref=GEN_5.16
+3	gbé	gbé	X	_	_	0	_	_	Ref=GEN_5.16
+4	fún	fún	X	_	_	0	_	_	Ref=GEN_5.16
+5	ẹgbẹ̀rin	ẹgbẹ̀rin	X	_	_	0	_	_	Ref=GEN_5.16|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.16|SpaceAfter=No
+7	ó	ó	X	_	_	0	_	_	Ref=GEN_5.16|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.16|SpaceAfter=No
+9	lé	lé	X	_	_	0	_	_	Ref=GEN_5.16|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.16|SpaceAfter=No
+11	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=GEN_5.16
+12	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.16
+13	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.16|SpaceAfter=No
+14	830	830	X	_	_	0	_	_	Ref=GEN_5.16|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.16
+16	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.16
+17	ìgbà	ìgbà	X	_	_	0	_	_	Ref=GEN_5.16
+18	tí	tí	X	_	_	0	_	_	Ref=GEN_5.16
+19	ó	ó	X	_	_	0	_	_	Ref=GEN_5.16
+20	bí	bí	X	_	_	0	_	_	Ref=GEN_5.16
+21	Járédì	Járédì	PROPN	_	_	0	_	_	Ref=GEN_5.16|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.16
+23	ó	ó	X	_	_	0	_	_	Ref=GEN_5.16
+24	sì	sì	X	_	_	0	_	_	Ref=GEN_5.16
+25	bí	bí	X	_	_	0	_	_	Ref=GEN_5.16
+26	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.16
+27	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.16
+28	àti	àti	X	_	_	0	_	_	Ref=GEN_5.16
+29	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=GEN_5.16|SpaceAfter=No
+30	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.16
+
+# sent_id = GEN_5.17
+# text = Àpapọ̀ iye ọdún rẹ̀ jẹ́ ẹ̀ẹ́dẹ̀gbẹ̀rún-ọdún-ó-dín-márùn-ún (895), ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.17
+2	iye	iye	X	_	_	0	_	_	Ref=GEN_5.17
+3	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.17
+4	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=GEN_5.17
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.17
+6	ẹ̀ẹ́dẹ̀gbẹ̀rún	ẹ̀ẹ́dẹ̀gbẹ̀rún	X	_	_	0	_	_	Ref=GEN_5.17|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.17|SpaceAfter=No
+8	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.17|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.17|SpaceAfter=No
+10	ó	ó	X	_	_	0	_	_	Ref=GEN_5.17|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.17|SpaceAfter=No
+12	dín	dín	X	_	_	0	_	_	Ref=GEN_5.17|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.17|SpaceAfter=No
+14	márùn	márùn	X	_	_	0	_	_	Ref=GEN_5.17|SpaceAfter=No
+15	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.17|SpaceAfter=No
+16	ún	ún	X	_	_	0	_	_	Ref=GEN_5.17
+17	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.17|SpaceAfter=No
+18	895	895	X	_	_	0	_	_	Ref=GEN_5.17|SpaceAfter=No
+19	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.17|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.17
+21	ó	ó	X	_	_	0	_	_	Ref=GEN_5.17
+22	sì	sì	X	_	_	0	_	_	Ref=GEN_5.17
+23	kú	kú	X	_	_	0	_	_	Ref=GEN_5.17|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.17
+
+# sent_id = GEN_5.18
+# text = Nígbà tí Járédì pé ọmọ ọgọ́jọ-ó-lé-méjì ọdún (162) ni ó bí Énọ́kù.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.18
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.18
+3	Járédì	Járédì	PROPN	_	_	0	_	_	Ref=GEN_5.18
+4	pé	pé	X	_	_	0	_	_	Ref=GEN_5.18
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=GEN_5.18
+6	ọgọ́jọ	ọgọ́jọ	X	_	_	0	_	_	Ref=GEN_5.18|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.18|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=GEN_5.18|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.18|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=GEN_5.18|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.18|SpaceAfter=No
+12	méjì	méjì	X	_	_	0	_	_	Ref=GEN_5.18
+13	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.18
+14	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.18|SpaceAfter=No
+15	162	162	X	_	_	0	_	_	Ref=GEN_5.18|SpaceAfter=No
+16	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.18
+17	ni	ni	X	_	_	0	_	_	Ref=GEN_5.18
+18	ó	ó	X	_	_	0	_	_	Ref=GEN_5.18
+19	bí	bí	X	_	_	0	_	_	Ref=GEN_5.18
+20	Énọ́kù	Énọ́kù	PROPN	_	_	0	_	_	Ref=GEN_5.18|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.18
+
+# sent_id = GEN_5.19
+# text = Lẹ́yìn èyí, ó wà láàyè fún ẹgbẹ̀rin ọdún (800) ó sì bí àwọn ọmọkúnrin àti ọmọbìnrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.19
+2	èyí	èyí	X	_	_	0	_	_	Ref=GEN_5.19|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.19
+4	ó	ó	X	_	_	0	_	_	Ref=GEN_5.19
+5	wà	wà	X	_	_	0	_	_	Ref=GEN_5.19
+6	láàyè	láàyè	X	_	_	0	_	_	Ref=GEN_5.19
+7	fún	fún	X	_	_	0	_	_	Ref=GEN_5.19
+8	ẹgbẹ̀rin	ẹgbẹ̀rin	X	_	_	0	_	_	Ref=GEN_5.19
+9	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.19
+10	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.19|SpaceAfter=No
+11	800	800	X	_	_	0	_	_	Ref=GEN_5.19|SpaceAfter=No
+12	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.19
+13	ó	ó	X	_	_	0	_	_	Ref=GEN_5.19
+14	sì	sì	X	_	_	0	_	_	Ref=GEN_5.19
+15	bí	bí	X	_	_	0	_	_	Ref=GEN_5.19
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.19
+17	ọmọkúnrin	ọmọkúnrin	X	_	_	0	_	_	Ref=GEN_5.19
+18	àti	àti	X	_	_	0	_	_	Ref=GEN_5.19
+19	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=GEN_5.19|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.19
+
+# sent_id = GEN_5.20
+# text = Àpapọ̀ ọdún rẹ̀ sì jẹ́ ẹgbẹ̀rún-dín-méjìdínlógójì (962); ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.20
+2	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.20
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=GEN_5.20
+4	sì	sì	X	_	_	0	_	_	Ref=GEN_5.20
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.20
+6	ẹgbẹ̀rún	ẹgbẹ̀rún	X	_	_	0	_	_	Ref=GEN_5.20|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.20|SpaceAfter=No
+8	dín	dín	X	_	_	0	_	_	Ref=GEN_5.20|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.20|SpaceAfter=No
+10	méjìdínlógójì	méjìdínlógójì	X	_	_	0	_	_	Ref=GEN_5.20
+11	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.20|SpaceAfter=No
+12	962	962	X	_	_	0	_	_	Ref=GEN_5.20|SpaceAfter=No
+13	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.20|SpaceAfter=No
+14	;	;	PUNCT	_	_	0	punct	_	Ref=GEN_5.20
+15	ó	ó	X	_	_	0	_	_	Ref=GEN_5.20
+16	sì	sì	X	_	_	0	_	_	Ref=GEN_5.20
+17	kú	kú	X	_	_	0	_	_	Ref=GEN_5.20|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.20
+
+# sent_id = GEN_5.21
+# text = Nígbà tí Énọ́kù pé ọmọ ọgọ́ta-ó-lé-márùn ọdún (65) ni ó bí Mètúsẹ́là.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.21
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.21
+3	Énọ́kù	Énọ́kù	PROPN	_	_	0	_	_	Ref=GEN_5.21
+4	pé	pé	X	_	_	0	_	_	Ref=GEN_5.21
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=GEN_5.21
+6	ọgọ́ta	ọgọ́ta	X	_	_	0	_	_	Ref=GEN_5.21|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.21|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=GEN_5.21|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.21|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=GEN_5.21|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.21|SpaceAfter=No
+12	márùn	márùn	X	_	_	0	_	_	Ref=GEN_5.21
+13	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.21
+14	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.21|SpaceAfter=No
+15	65	65	X	_	_	0	_	_	Ref=GEN_5.21|SpaceAfter=No
+16	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.21
+17	ni	ni	X	_	_	0	_	_	Ref=GEN_5.21
+18	ó	ó	X	_	_	0	_	_	Ref=GEN_5.21
+19	bí	bí	X	_	_	0	_	_	Ref=GEN_5.21
+20	Mètúsẹ́là	Mètúsẹ́là	PROPN	_	_	0	_	_	Ref=GEN_5.21|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.21
+
+# sent_id = GEN_5.22
+# text = Lẹ́yìn tí ó bí Mètúsẹ́là, Énọ́kù sì bá Ọlọ́run rìn ní ọ̀ọ́dúnrún ọdún (300), ó sì bí àwọn ọmọkùnrin àti ọmọbìnrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.22
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.22
+3	ó	ó	X	_	_	0	_	_	Ref=GEN_5.22
+4	bí	bí	X	_	_	0	_	_	Ref=GEN_5.22
+5	Mètúsẹ́là	Mètúsẹ́là	PROPN	_	_	0	_	_	Ref=GEN_5.22|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.22
+7	Énọ́kù	Énọ́kù	PROPN	_	_	0	_	_	Ref=GEN_5.22
+8	sì	sì	X	_	_	0	_	_	Ref=GEN_5.22
+9	bá	bá	X	_	_	0	_	_	Ref=GEN_5.22
+10	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=GEN_5.22
+11	rìn	rìn	X	_	_	0	_	_	Ref=GEN_5.22
+12	ní	ní	X	_	_	0	_	_	Ref=GEN_5.22
+13	ọ̀ọ́dúnrún	ọ̀ọ́dúnrún	X	_	_	0	_	_	Ref=GEN_5.22
+14	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.22
+15	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.22|SpaceAfter=No
+16	300	300	X	_	_	0	_	_	Ref=GEN_5.22|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.22|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.22
+19	ó	ó	X	_	_	0	_	_	Ref=GEN_5.22
+20	sì	sì	X	_	_	0	_	_	Ref=GEN_5.22
+21	bí	bí	X	_	_	0	_	_	Ref=GEN_5.22
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.22
+23	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.22
+24	àti	àti	X	_	_	0	_	_	Ref=GEN_5.22
+25	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=GEN_5.22|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.22
+
+# sent_id = GEN_5.23
+# text = Àpapọ̀ ọjọ́ Énọ́kù sì jẹ́ irínwó-dín-márùndínlógójì-ọdún (365).
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.23
+2	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=GEN_5.23
+3	Énọ́kù	Énọ́kù	PROPN	_	_	0	_	_	Ref=GEN_5.23
+4	sì	sì	X	_	_	0	_	_	Ref=GEN_5.23
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.23
+6	irínwó	irínwó	X	_	_	0	_	_	Ref=GEN_5.23|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.23|SpaceAfter=No
+8	dín	dín	X	_	_	0	_	_	Ref=GEN_5.23|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.23|SpaceAfter=No
+10	márùndínlógójì	márùndínlógójì	X	_	_	0	_	_	Ref=GEN_5.23|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.23|SpaceAfter=No
+12	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.23
+13	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.23|SpaceAfter=No
+14	365	365	X	_	_	0	_	_	Ref=GEN_5.23|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.23|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.23
+
+# sent_id = GEN_5.24
+# text = Énọ́kù bá Ọlọ́run rìn: a kò sì rí i mọ́ nítorí Ọlọ́run mú un lọ.
+1	Énọ́kù	Énọ́kù	PROPN	_	_	0	_	_	Ref=GEN_5.24
+2	bá	bá	X	_	_	0	_	_	Ref=GEN_5.24
+3	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=GEN_5.24
+4	rìn	rìn	X	_	_	0	_	_	Ref=GEN_5.24|SpaceAfter=No
+5	:	:	PUNCT	_	_	0	punct	_	Ref=GEN_5.24
+6	a	a	X	_	_	0	_	_	Ref=GEN_5.24
+7	kò	kò	X	_	_	0	_	_	Ref=GEN_5.24
+8	sì	sì	X	_	_	0	_	_	Ref=GEN_5.24
+9	rí	rí	X	_	_	0	_	_	Ref=GEN_5.24
+10	i	i	X	_	_	0	_	_	Ref=GEN_5.24
+11	mọ́	mọ́	X	_	_	0	_	_	Ref=GEN_5.24
+12	nítorí	nítorí	X	_	_	0	_	_	Ref=GEN_5.24
+13	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=GEN_5.24
+14	mú	mú	X	_	_	0	_	_	Ref=GEN_5.24
+15	un	un	X	_	_	0	_	_	Ref=GEN_5.24
+16	lọ	lọ	X	_	_	0	_	_	Ref=GEN_5.24|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.24
+
+# sent_id = GEN_5.25
+# text = Nígbà tí Mètúsẹ́là pé igba-ó-dín-mẹ́talá ọdún (187) ní o bí Lámékì.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.25
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.25
+3	Mètúsẹ́là	Mètúsẹ́là	PROPN	_	_	0	_	_	Ref=GEN_5.25
+4	pé	pé	X	_	_	0	_	_	Ref=GEN_5.25
+5	igba	igba	X	_	_	0	_	_	Ref=GEN_5.25|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.25|SpaceAfter=No
+7	ó	ó	X	_	_	0	_	_	Ref=GEN_5.25|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.25|SpaceAfter=No
+9	dín	dín	X	_	_	0	_	_	Ref=GEN_5.25|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.25|SpaceAfter=No
+11	mẹ́talá	mẹ́talá	X	_	_	0	_	_	Ref=GEN_5.25
+12	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.25
+13	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.25|SpaceAfter=No
+14	187	187	X	_	_	0	_	_	Ref=GEN_5.25|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.25
+16	ní	ní	X	_	_	0	_	_	Ref=GEN_5.25
+17	o	o	X	_	_	0	_	_	Ref=GEN_5.25
+18	bí	bí	X	_	_	0	_	_	Ref=GEN_5.25
+19	Lámékì	Lámékì	PROPN	_	_	0	_	_	Ref=GEN_5.25|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.25
+
+# sent_id = GEN_5.26
+# text = Lẹ́yìn èyí ó wà láàyè fún ẹgbẹ̀rin-dín-méjìdínlógún ọdún (782), ó sì bí àwọn ọmọkùnrin àti ọmọbìnrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.26
+2	èyí	èyí	X	_	_	0	_	_	Ref=GEN_5.26
+3	ó	ó	X	_	_	0	_	_	Ref=GEN_5.26
+4	wà	wà	X	_	_	0	_	_	Ref=GEN_5.26
+5	láàyè	láàyè	X	_	_	0	_	_	Ref=GEN_5.26
+6	fún	fún	X	_	_	0	_	_	Ref=GEN_5.26
+7	ẹgbẹ̀rin	ẹgbẹ̀rin	X	_	_	0	_	_	Ref=GEN_5.26|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.26|SpaceAfter=No
+9	dín	dín	X	_	_	0	_	_	Ref=GEN_5.26|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.26|SpaceAfter=No
+11	méjìdínlógún	méjìdínlógún	X	_	_	0	_	_	Ref=GEN_5.26
+12	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.26
+13	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.26|SpaceAfter=No
+14	782	782	X	_	_	0	_	_	Ref=GEN_5.26|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.26|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.26
+17	ó	ó	X	_	_	0	_	_	Ref=GEN_5.26
+18	sì	sì	X	_	_	0	_	_	Ref=GEN_5.26
+19	bí	bí	X	_	_	0	_	_	Ref=GEN_5.26
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.26
+21	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.26
+22	àti	àti	X	_	_	0	_	_	Ref=GEN_5.26
+23	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=GEN_5.26|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.26
+
+# sent_id = GEN_5.27
+# text = Àpapọ̀ ọdún Mètúsẹ́là jẹ́ ẹgbẹ̀rún-ọdún-ó-dín-mọ́kànlélọ́gbọ̀n (969), ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.27
+2	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.27
+3	Mètúsẹ́là	Mètúsẹ́là	PROPN	_	_	0	_	_	Ref=GEN_5.27
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.27
+5	ẹgbẹ̀rún	ẹgbẹ̀rún	X	_	_	0	_	_	Ref=GEN_5.27|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.27|SpaceAfter=No
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.27|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.27|SpaceAfter=No
+9	ó	ó	X	_	_	0	_	_	Ref=GEN_5.27|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.27|SpaceAfter=No
+11	dín	dín	X	_	_	0	_	_	Ref=GEN_5.27|SpaceAfter=No
+12	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.27|SpaceAfter=No
+13	mọ́kànlélọ́gbọ̀n	mọ́kànlélọ́gbọ̀n	X	_	_	0	_	_	Ref=GEN_5.27
+14	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.27|SpaceAfter=No
+15	969	969	X	_	_	0	_	_	Ref=GEN_5.27|SpaceAfter=No
+16	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.27|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.27
+18	ó	ó	X	_	_	0	_	_	Ref=GEN_5.27
+19	sì	sì	X	_	_	0	_	_	Ref=GEN_5.27
+20	kú	kú	X	_	_	0	_	_	Ref=GEN_5.27|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.27
+
+# sent_id = GEN_5.28
+# text = Nígbà tí Lámékì pé ọdún méjìlélọ́gọ́sàn án (182) ni ó bí ọmọkùnrin kan.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=GEN_5.28
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.28
+3	Lámékì	Lámékì	PROPN	_	_	0	_	_	Ref=GEN_5.28
+4	pé	pé	X	_	_	0	_	_	Ref=GEN_5.28
+5	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.28
+6	méjìlélọ́gọ́sàn	méjìlélọ́gọ́sàn	X	_	_	0	_	_	Ref=GEN_5.28
+7	án	án	X	_	_	0	_	_	Ref=GEN_5.28
+8	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.28|SpaceAfter=No
+9	182	182	X	_	_	0	_	_	Ref=GEN_5.28|SpaceAfter=No
+10	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.28
+11	ni	ni	X	_	_	0	_	_	Ref=GEN_5.28
+12	ó	ó	X	_	_	0	_	_	Ref=GEN_5.28
+13	bí	bí	X	_	_	0	_	_	Ref=GEN_5.28
+14	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.28
+15	kan	kan	X	_	_	0	_	_	Ref=GEN_5.28|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.28
+
+# sent_id = GEN_5.29
+# text = Ó sì pe orúkọ rẹ̀ ní Nóà, ó sì wí pé, “Eléyìí ni yóò tù wá nínú ni iṣẹ́ àti làálàá ọwọ́ wa, nítorí ilẹ̀ tí Ọlọ́run ti fi gégùn-ún.”
+1	Ó	ó	X	_	_	0	_	_	Ref=GEN_5.29
+2	sì	sì	X	_	_	0	_	_	Ref=GEN_5.29
+3	pe	pe	X	_	_	0	_	_	Ref=GEN_5.29
+4	orúkọ	orúkọ	X	_	_	0	_	_	Ref=GEN_5.29
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=GEN_5.29
+6	ní	ní	X	_	_	0	_	_	Ref=GEN_5.29
+7	Nóà	Nóà	PROPN	_	_	0	_	_	Ref=GEN_5.29|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.29
+9	ó	ó	X	_	_	0	_	_	Ref=GEN_5.29
+10	sì	sì	X	_	_	0	_	_	Ref=GEN_5.29
+11	wí	wí	X	_	_	0	_	_	Ref=GEN_5.29
+12	pé	pé	X	_	_	0	_	_	Ref=GEN_5.29|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.29
+14	“	“	PUNCT	_	_	0	punct	_	Ref=GEN_5.29|SpaceAfter=No
+15	Eléyìí	eléyìí	X	_	_	0	_	_	Ref=GEN_5.29
+16	ni	ni	X	_	_	0	_	_	Ref=GEN_5.29
+17	yóò	yóò	X	_	_	0	_	_	Ref=GEN_5.29
+18	tù	tù	X	_	_	0	_	_	Ref=GEN_5.29
+19	wá	wá	X	_	_	0	_	_	Ref=GEN_5.29
+20	nínú	nínú	X	_	_	0	_	_	Ref=GEN_5.29
+21	ni	ni	X	_	_	0	_	_	Ref=GEN_5.29
+22	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=GEN_5.29
+23	àti	àti	X	_	_	0	_	_	Ref=GEN_5.29
+24	làálàá	làálàá	X	_	_	0	_	_	Ref=GEN_5.29
+25	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=GEN_5.29
+26	wa	wa	X	_	_	0	_	_	Ref=GEN_5.29|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.29
+28	nítorí	nítorí	X	_	_	0	_	_	Ref=GEN_5.29
+29	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=GEN_5.29
+30	tí	tí	X	_	_	0	_	_	Ref=GEN_5.29
+31	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=GEN_5.29
+32	ti	ti	X	_	_	0	_	_	Ref=GEN_5.29
+33	fi	fi	X	_	_	0	_	_	Ref=GEN_5.29
+34	gégùn	gégùn	X	_	_	0	_	_	Ref=GEN_5.29|SpaceAfter=No
+35	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.29|SpaceAfter=No
+36	ún	ún	X	_	_	0	_	_	Ref=GEN_5.29|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.29|SpaceAfter=No
+38	”	”	PUNCT	_	_	0	punct	_	Ref=GEN_5.29
+
+# sent_id = GEN_5.30
+# text = Lẹ́yìn tí ó bí Nóà, Lámékì gbé fún ẹgbẹ̀ta-ó-dín-márùn-ún ọdún (595), ó sì bí àwọn ọmọkùnrin àti ọmọbìnrin.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.30
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.30
+3	ó	ó	X	_	_	0	_	_	Ref=GEN_5.30
+4	bí	bí	X	_	_	0	_	_	Ref=GEN_5.30
+5	Nóà	Nóà	PROPN	_	_	0	_	_	Ref=GEN_5.30|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.30
+7	Lámékì	Lámékì	PROPN	_	_	0	_	_	Ref=GEN_5.30
+8	gbé	gbé	X	_	_	0	_	_	Ref=GEN_5.30
+9	fún	fún	X	_	_	0	_	_	Ref=GEN_5.30
+10	ẹgbẹ̀ta	ẹgbẹ̀ta	X	_	_	0	_	_	Ref=GEN_5.30|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.30|SpaceAfter=No
+12	ó	ó	X	_	_	0	_	_	Ref=GEN_5.30|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.30|SpaceAfter=No
+14	dín	dín	X	_	_	0	_	_	Ref=GEN_5.30|SpaceAfter=No
+15	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.30|SpaceAfter=No
+16	márùn	márùn	X	_	_	0	_	_	Ref=GEN_5.30|SpaceAfter=No
+17	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.30|SpaceAfter=No
+18	ún	ún	X	_	_	0	_	_	Ref=GEN_5.30
+19	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.30
+20	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.30|SpaceAfter=No
+21	595	595	X	_	_	0	_	_	Ref=GEN_5.30|SpaceAfter=No
+22	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.30|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.30
+24	ó	ó	X	_	_	0	_	_	Ref=GEN_5.30
+25	sì	sì	X	_	_	0	_	_	Ref=GEN_5.30
+26	bí	bí	X	_	_	0	_	_	Ref=GEN_5.30
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=GEN_5.30
+28	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=GEN_5.30
+29	àti	àti	X	_	_	0	_	_	Ref=GEN_5.30
+30	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=GEN_5.30|SpaceAfter=No
+31	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.30
+
+# sent_id = GEN_5.31
+# text = Àpapọ̀ ọdún rẹ̀ sì jẹ́ ẹgbẹ̀rin-ọdún-ó-dín-mẹ́talélógún (777), ó sì kú.
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=GEN_5.31
+2	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.31
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=GEN_5.31
+4	sì	sì	X	_	_	0	_	_	Ref=GEN_5.31
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=GEN_5.31
+6	ẹgbẹ̀rin	ẹgbẹ̀rin	X	_	_	0	_	_	Ref=GEN_5.31|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.31|SpaceAfter=No
+8	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.31|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.31|SpaceAfter=No
+10	ó	ó	X	_	_	0	_	_	Ref=GEN_5.31|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.31|SpaceAfter=No
+12	dín	dín	X	_	_	0	_	_	Ref=GEN_5.31|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=GEN_5.31|SpaceAfter=No
+14	mẹ́talélógún	mẹ́talélógún	X	_	_	0	_	_	Ref=GEN_5.31
+15	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.31|SpaceAfter=No
+16	777	777	X	_	_	0	_	_	Ref=GEN_5.31|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.31|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.31
+19	ó	ó	X	_	_	0	_	_	Ref=GEN_5.31
+20	sì	sì	X	_	_	0	_	_	Ref=GEN_5.31
+21	kú	kú	X	_	_	0	_	_	Ref=GEN_5.31|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.31
+
+# sent_id = GEN_5.32
+# text = Lẹ́yìn tí Nóà pé ọmọ ẹ̀ẹ́dẹ́gbẹ̀ta ọdún (500) ni ó bí Ṣémù, Ámù àti Jáfétì.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=GEN_5.32
+2	tí	tí	X	_	_	0	_	_	Ref=GEN_5.32
+3	Nóà	Nóà	PROPN	_	_	0	_	_	Ref=GEN_5.32
+4	pé	pé	X	_	_	0	_	_	Ref=GEN_5.32
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=GEN_5.32
+6	ẹ̀ẹ́dẹ́gbẹ̀ta	ẹ̀ẹ́dẹ́gbẹ̀ta	X	_	_	0	_	_	Ref=GEN_5.32
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=GEN_5.32
+8	(	(	PUNCT	_	_	0	punct	_	Ref=GEN_5.32|SpaceAfter=No
+9	500	500	X	_	_	0	_	_	Ref=GEN_5.32|SpaceAfter=No
+10	)	)	PUNCT	_	_	0	punct	_	Ref=GEN_5.32
+11	ni	ni	X	_	_	0	_	_	Ref=GEN_5.32
+12	ó	ó	X	_	_	0	_	_	Ref=GEN_5.32
+13	bí	bí	X	_	_	0	_	_	Ref=GEN_5.32
+14	Ṣémù	Ṣémù	PROPN	_	_	0	_	_	Ref=GEN_5.32|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=GEN_5.32
+16	Ámù	Ámù	PROPN	_	_	0	_	_	Ref=GEN_5.32
+17	àti	àti	X	_	_	0	_	_	Ref=GEN_5.32
+18	Jáfétì	Jáfétì	PROPN	_	_	0	_	_	Ref=GEN_5.32|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=GEN_5.32
+

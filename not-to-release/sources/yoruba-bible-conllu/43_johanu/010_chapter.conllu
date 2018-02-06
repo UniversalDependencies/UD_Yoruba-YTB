@@ -1,0 +1,1218 @@
+# source = Bibeli Mimọ, Jòhánù, Chapter 10
+# newdoc id = JOHN_10
+# sent_id = JOHN_10.1
+# text = “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Ẹni tí kò bá gba ẹnu ọ̀nà wọ inú agbo àgùntàn, ṣùgbọ́n tí ó bá gba ibòmíràn gun òkè, Òun náà ni olè àti ọlọ́sà.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.1|SpaceAfter=No
+2	Lóòótọ́	lóòótọ́	X	_	_	0	_	_	Ref=JOHN_10.1|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.1
+4	lóòótọ́	lóòótọ́	X	_	_	0	_	_	Ref=JOHN_10.1
+5	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.1
+6	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.1
+7	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.1
+8	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.1
+9	yín	yín	X	_	_	0	_	_	Ref=JOHN_10.1|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.1
+11	Ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.1
+12	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.1
+13	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.1
+14	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.1
+15	gba	gba	X	_	_	0	_	_	Ref=JOHN_10.1
+16	ẹnu	ẹnu	X	_	_	0	_	_	Ref=JOHN_10.1
+17	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOHN_10.1
+18	wọ	wọ	X	_	_	0	_	_	Ref=JOHN_10.1
+19	inú	inú	X	_	_	0	_	_	Ref=JOHN_10.1
+20	agbo	agbo	X	_	_	0	_	_	Ref=JOHN_10.1
+21	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.1|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.1
+23	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.1
+24	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.1
+25	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.1
+26	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.1
+27	gba	gba	X	_	_	0	_	_	Ref=JOHN_10.1
+28	ibòmíràn	ibòmíràn	X	_	_	0	_	_	Ref=JOHN_10.1
+29	gun	gun	X	_	_	0	_	_	Ref=JOHN_10.1
+30	òkè	òkè	X	_	_	0	_	_	Ref=JOHN_10.1|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.1
+32	Òun	òun	X	_	_	0	_	_	Ref=JOHN_10.1
+33	náà	náà	X	_	_	0	_	_	Ref=JOHN_10.1
+34	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.1
+35	olè	olè	X	_	_	0	_	_	Ref=JOHN_10.1
+36	àti	àti	X	_	_	0	_	_	Ref=JOHN_10.1
+37	ọlọ́sà	ọlọ́sà	X	_	_	0	_	_	Ref=JOHN_10.1|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.1
+
+# sent_id = JOHN_10.2
+# text = Ṣùgbọ́n ẹni tí ó bá ti ẹnu-ọ̀nà wọlé, Òun ni olùṣọ́ àwọn àgùntàn.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.2
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.2
+3	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.2
+4	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.2
+5	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.2
+6	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.2
+7	ẹnu	ẹnu	X	_	_	0	_	_	Ref=JOHN_10.2|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=JOHN_10.2|SpaceAfter=No
+9	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOHN_10.2
+10	wọlé	wọlé	X	_	_	0	_	_	Ref=JOHN_10.2|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.2
+12	Òun	òun	X	_	_	0	_	_	Ref=JOHN_10.2
+13	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.2
+14	olùṣọ́	olùṣọ́	X	_	_	0	_	_	Ref=JOHN_10.2
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.2
+16	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.2|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.2
+
+# sent_id = JOHN_10.3
+# text = Òun ni osọ́nà yóò ṣílẹ̀kùn fún; àwọn àgùntàn gbọ́ ohùn rẹ̀: ó sì pe àwọn àgùntàn tirẹ̀ lórúkọ, ó sì se amọ̀nà wọn jáde.
+1	Òun	òun	X	_	_	0	_	_	Ref=JOHN_10.3
+2	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.3
+3	osọ́nà	osọ́nà	X	_	_	0	_	_	Ref=JOHN_10.3
+4	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.3
+5	ṣílẹ̀kùn	ṣílẹ̀kùn	X	_	_	0	_	_	Ref=JOHN_10.3
+6	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.3|SpaceAfter=No
+7	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.3
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.3
+9	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.3
+10	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOHN_10.3
+11	ohùn	ohùn	X	_	_	0	_	_	Ref=JOHN_10.3
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.3|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.3
+14	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.3
+15	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.3
+16	pe	pe	X	_	_	0	_	_	Ref=JOHN_10.3
+17	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.3
+18	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.3
+19	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=JOHN_10.3
+20	lórúkọ	lórúkọ	X	_	_	0	_	_	Ref=JOHN_10.3|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.3
+22	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.3
+23	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.3
+24	se	se	X	_	_	0	_	_	Ref=JOHN_10.3
+25	amọ̀nà	amọ̀nà	X	_	_	0	_	_	Ref=JOHN_10.3
+26	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.3
+27	jáde	jáde	X	_	_	0	_	_	Ref=JOHN_10.3|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.3
+
+# sent_id = JOHN_10.4
+# text = Nígbà tí ó bá sì ti mú àwọn àgùntàn tirẹ̀ jáde, yóò ṣíwájú wọn, àwọn àgùntàn yóò sì máa tọ̀ ọ́ lẹ́yìn: nítorí tí wọ́n mọ ohùn rẹ̀.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOHN_10.4
+2	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.4
+3	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.4
+4	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.4
+5	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.4
+6	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.4
+7	mú	mú	X	_	_	0	_	_	Ref=JOHN_10.4
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.4
+9	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.4
+10	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=JOHN_10.4
+11	jáde	jáde	X	_	_	0	_	_	Ref=JOHN_10.4|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.4
+13	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.4
+14	ṣíwájú	ṣíwájú	X	_	_	0	_	_	Ref=JOHN_10.4
+15	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.4|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.4
+17	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.4
+18	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.4
+19	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.4
+20	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.4
+21	máa	máa	X	_	_	0	_	_	Ref=JOHN_10.4
+22	tọ̀	tọ̀	X	_	_	0	_	_	Ref=JOHN_10.4
+23	ọ́	ọ́	X	_	_	0	_	_	Ref=JOHN_10.4
+24	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=JOHN_10.4|SpaceAfter=No
+25	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.4
+26	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.4
+27	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.4
+28	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.4
+29	mọ	mọ	X	_	_	0	_	_	Ref=JOHN_10.4
+30	ohùn	ohùn	X	_	_	0	_	_	Ref=JOHN_10.4
+31	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.4|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.4
+
+# sent_id = JOHN_10.5
+# text = Wọn kò jẹ́ tọ àlejò lẹ́yìn, ṣùgbọ́n wọn a sá kúrò lọ́dọ̀ rẹ̀: nítorí tí wọn kò mọ ohùn àlejò.”
+1	Wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.5
+2	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.5
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOHN_10.5
+4	tọ	tọ	X	_	_	0	_	_	Ref=JOHN_10.5
+5	àlejò	àlejò	X	_	_	0	_	_	Ref=JOHN_10.5
+6	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=JOHN_10.5|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.5
+8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.5
+9	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.5
+10	a	a	X	_	_	0	_	_	Ref=JOHN_10.5
+11	sá	sá	X	_	_	0	_	_	Ref=JOHN_10.5
+12	kúrò	kúrò	X	_	_	0	_	_	Ref=JOHN_10.5
+13	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=JOHN_10.5
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.5|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.5
+16	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.5
+17	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.5
+18	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.5
+19	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.5
+20	mọ	mọ	X	_	_	0	_	_	Ref=JOHN_10.5
+21	ohùn	ohùn	X	_	_	0	_	_	Ref=JOHN_10.5
+22	àlejò	àlejò	X	_	_	0	_	_	Ref=JOHN_10.5|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.5|SpaceAfter=No
+24	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.5
+
+# sent_id = JOHN_10.6
+# text = Òwe yìí ni Jésù pa fún wọn: ṣùgbọ́n òye ohun tí nǹkan wọ̀nyí jẹ́ tí ó ń sọ fún wọn kò yé wọn.
+1	Òwe	òwe	X	_	_	0	_	_	Ref=JOHN_10.6
+2	yìí	yìí	X	_	_	0	_	_	Ref=JOHN_10.6
+3	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.6
+4	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=JOHN_10.6
+5	pa	pa	X	_	_	0	_	_	Ref=JOHN_10.6
+6	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.6
+7	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.6|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.6
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.6
+10	òye	òye	X	_	_	0	_	_	Ref=JOHN_10.6
+11	ohun	ohun	X	_	_	0	_	_	Ref=JOHN_10.6
+12	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.6
+13	nǹkan	nǹkan	X	_	_	0	_	_	Ref=JOHN_10.6
+14	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=JOHN_10.6
+15	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOHN_10.6
+16	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.6
+17	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.6
+18	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.6
+19	sọ	sọ	X	_	_	0	_	_	Ref=JOHN_10.6
+20	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.6
+21	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.6
+22	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.6
+23	yé	yé	X	_	_	0	_	_	Ref=JOHN_10.6
+24	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.6|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.6
+
+# sent_id = JOHN_10.7
+# text = Nítorí náà Jésù tún wí fún wọn pé, “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Èmi ni ìlẹ̀kùn àwọn àgùntàn.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.7
+2	náà	náà	X	_	_	0	_	_	Ref=JOHN_10.7
+3	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=JOHN_10.7
+4	tún	tún	X	_	_	0	_	_	Ref=JOHN_10.7
+5	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.7
+6	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.7
+7	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.7
+8	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.7|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.7
+10	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.7|SpaceAfter=No
+11	Lóòótọ́	lóòótọ́	X	_	_	0	_	_	Ref=JOHN_10.7|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.7
+13	lóòótọ́	lóòótọ́	X	_	_	0	_	_	Ref=JOHN_10.7
+14	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.7
+15	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.7
+16	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.7
+17	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.7
+18	yín	yín	X	_	_	0	_	_	Ref=JOHN_10.7|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.7
+20	Èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.7
+21	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.7
+22	ìlẹ̀kùn	ìlẹ̀kùn	X	_	_	0	_	_	Ref=JOHN_10.7
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.7
+24	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.7|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.7
+
+# sent_id = JOHN_10.8
+# text = Olè àti ọlọ́sà ni gbogbo àwọn tí ó ti wà ṣáájú mi: ṣùgbọ́n àwọn àgùntàn kò gbọ́ ti wọn.
+1	Olè	olè	X	_	_	0	_	_	Ref=JOHN_10.8
+2	àti	àti	X	_	_	0	_	_	Ref=JOHN_10.8
+3	ọlọ́sà	ọlọ́sà	X	_	_	0	_	_	Ref=JOHN_10.8
+4	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.8
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOHN_10.8
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.8
+7	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.8
+8	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.8
+9	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.8
+10	wà	wà	X	_	_	0	_	_	Ref=JOHN_10.8
+11	ṣáájú	ṣáájú	X	_	_	0	_	_	Ref=JOHN_10.8
+12	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.8|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.8
+14	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.8
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.8
+16	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.8
+17	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.8
+18	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOHN_10.8
+19	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.8
+20	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.8|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.8
+
+# sent_id = JOHN_10.9
+# text = Èmi ni ìlẹ̀kùn: bí ẹnìkan bá bá ọ̀dọ̀ mi wọlé, Òun ni a ó gbà là, yóò wọlé, yóò sì jáde, yóò sì rí koríko.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.9
+2	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.9
+3	ìlẹ̀kùn	ìlẹ̀kùn	X	_	_	0	_	_	Ref=JOHN_10.9|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.9
+5	bí	bí	X	_	_	0	_	_	Ref=JOHN_10.9
+6	ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=JOHN_10.9
+7	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.9
+8	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.9
+9	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=JOHN_10.9
+10	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.9
+11	wọlé	wọlé	X	_	_	0	_	_	Ref=JOHN_10.9|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.9
+13	Òun	òun	X	_	_	0	_	_	Ref=JOHN_10.9
+14	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.9
+15	a	a	X	_	_	0	_	_	Ref=JOHN_10.9
+16	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.9
+17	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.9
+18	là	là	X	_	_	0	_	_	Ref=JOHN_10.9|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.9
+20	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.9
+21	wọlé	wọlé	X	_	_	0	_	_	Ref=JOHN_10.9|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.9
+23	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.9
+24	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.9
+25	jáde	jáde	X	_	_	0	_	_	Ref=JOHN_10.9|SpaceAfter=No
+26	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.9
+27	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.9
+28	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.9
+29	rí	rí	X	_	_	0	_	_	Ref=JOHN_10.9
+30	koríko	koríko	X	_	_	0	_	_	Ref=JOHN_10.9|SpaceAfter=No
+31	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.9
+
+# sent_id = JOHN_10.10
+# text = Olè kì í wá bí kò ṣe láti jalè, láti pa, àti láti parun: èmi wá kí wọn lè ní ìyè, àní kí wọn lè ní i lọ́pọ̀lọpọ̀.
+1	Olè	olè	X	_	_	0	_	_	Ref=JOHN_10.10
+2	kì	kì	X	_	_	0	_	_	Ref=JOHN_10.10
+3	í	í	X	_	_	0	_	_	Ref=JOHN_10.10
+4	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.10
+5	bí	bí	X	_	_	0	_	_	Ref=JOHN_10.10
+6	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.10
+7	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.10
+8	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.10
+9	jalè	jalè	X	_	_	0	_	_	Ref=JOHN_10.10|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.10
+11	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.10
+12	pa	pa	X	_	_	0	_	_	Ref=JOHN_10.10|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.10
+14	àti	àti	X	_	_	0	_	_	Ref=JOHN_10.10
+15	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.10
+16	parun	parun	X	_	_	0	_	_	Ref=JOHN_10.10|SpaceAfter=No
+17	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.10
+18	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.10
+19	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.10
+20	kí	kí	X	_	_	0	_	_	Ref=JOHN_10.10
+21	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.10
+22	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.10
+23	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.10
+24	ìyè	ìyè	X	_	_	0	_	_	Ref=JOHN_10.10|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.10
+26	àní	àní	X	_	_	0	_	_	Ref=JOHN_10.10
+27	kí	kí	X	_	_	0	_	_	Ref=JOHN_10.10
+28	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.10
+29	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.10
+30	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.10
+31	i	i	X	_	_	0	_	_	Ref=JOHN_10.10
+32	lọ́pọ̀lọpọ̀	lọ́pọ̀lọpọ̀	X	_	_	0	_	_	Ref=JOHN_10.10|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.10
+
+# sent_id = JOHN_10.11
+# text = “Èmi ni olùṣọ́ àgùntàn rere: olùṣọ́-àgùntàn rere fi ọkàn rẹ̀ lélẹ̀ nítorí àwọn àgùntàn.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.11|SpaceAfter=No
+2	Èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.11
+3	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.11
+4	olùṣọ́	olùṣọ́	X	_	_	0	_	_	Ref=JOHN_10.11
+5	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.11
+6	rere	rere	X	_	_	0	_	_	Ref=JOHN_10.11|SpaceAfter=No
+7	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.11
+8	olùṣọ́	olùṣọ́	X	_	_	0	_	_	Ref=JOHN_10.11|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=JOHN_10.11|SpaceAfter=No
+10	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.11
+11	rere	rere	X	_	_	0	_	_	Ref=JOHN_10.11
+12	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.11
+13	ọkàn	ọkàn	X	_	_	0	_	_	Ref=JOHN_10.11
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.11
+15	lélẹ̀	lélẹ̀	X	_	_	0	_	_	Ref=JOHN_10.11
+16	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.11
+17	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.11
+18	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.11|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.11
+
+# sent_id = JOHN_10.12
+# text = Ṣùgbọ́n alágbàṣe, tí kì í ṣe olùṣọ́ àgùntàn, ẹni tí àwọn àgùntàn kì í ṣe tirẹ̀, ó rí ìkokò ń bọ̀, ó sì fi àgùntàn sílẹ̀, ó sì fọ́n wọn ká kiri.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.12
+2	alágbàṣe	alágbàṣe	X	_	_	0	_	_	Ref=JOHN_10.12|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.12
+4	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.12
+5	kì	kì	X	_	_	0	_	_	Ref=JOHN_10.12
+6	í	í	X	_	_	0	_	_	Ref=JOHN_10.12
+7	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.12
+8	olùṣọ́	olùṣọ́	X	_	_	0	_	_	Ref=JOHN_10.12
+9	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.12|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.12
+11	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.12
+12	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.12
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.12
+14	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.12
+15	kì	kì	X	_	_	0	_	_	Ref=JOHN_10.12
+16	í	í	X	_	_	0	_	_	Ref=JOHN_10.12
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.12
+18	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=JOHN_10.12|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.12
+20	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.12
+21	rí	rí	X	_	_	0	_	_	Ref=JOHN_10.12
+22	ìkokò	ìkokò	X	_	_	0	_	_	Ref=JOHN_10.12
+23	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.12
+24	bọ̀	bọ̀	X	_	_	0	_	_	Ref=JOHN_10.12|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.12
+26	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.12
+27	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.12
+28	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.12
+29	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.12
+30	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=JOHN_10.12|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.12
+32	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.12
+33	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.12
+34	fọ́n	fọ́n	X	_	_	0	_	_	Ref=JOHN_10.12
+35	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.12
+36	ká	ká	X	_	_	0	_	_	Ref=JOHN_10.12
+37	kiri	kiri	X	_	_	0	_	_	Ref=JOHN_10.12|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.12
+
+# sent_id = JOHN_10.13
+# text = Òun sá lọ nítorí tí ó jẹ́ alágbàṣe, kò sì náání àwọn àgùntàn.
+1	Òun	òun	X	_	_	0	_	_	Ref=JOHN_10.13
+2	sá	sá	X	_	_	0	_	_	Ref=JOHN_10.13
+3	lọ	lọ	X	_	_	0	_	_	Ref=JOHN_10.13
+4	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.13
+5	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.13
+6	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.13
+7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOHN_10.13
+8	alágbàṣe	alágbàṣe	X	_	_	0	_	_	Ref=JOHN_10.13|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.13
+10	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.13
+11	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.13
+12	náání	náání	X	_	_	0	_	_	Ref=JOHN_10.13
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.13
+14	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.13|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.13
+
+# sent_id = JOHN_10.14
+# text = “Èmi ni olùsọ́-àgùntàn rere, mo sì mọ àwọn tèmi, àwọn tèmi sì mọ̀ mí.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.14|SpaceAfter=No
+2	Èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.14
+3	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.14
+4	olùsọ́	olùsọ́	X	_	_	0	_	_	Ref=JOHN_10.14|SpaceAfter=No
+5	-	-	PUNCT	_	_	0	punct	_	Ref=JOHN_10.14|SpaceAfter=No
+6	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.14
+7	rere	rere	X	_	_	0	_	_	Ref=JOHN_10.14|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.14
+9	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.14
+10	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.14
+11	mọ	mọ	X	_	_	0	_	_	Ref=JOHN_10.14
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.14
+13	tèmi	tèmi	X	_	_	0	_	_	Ref=JOHN_10.14|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.14
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.14
+16	tèmi	tèmi	X	_	_	0	_	_	Ref=JOHN_10.14
+17	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.14
+18	mọ̀	mọ̀	X	_	_	0	_	_	Ref=JOHN_10.14
+19	mí	mí	X	_	_	0	_	_	Ref=JOHN_10.14|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.14
+
+# sent_id = JOHN_10.15
+# text = Gẹ́gẹ́ bí Baba ti mọ̀ mí, tí èmi sì mọ Baba; mo sì fi ọkàn mi lélẹ̀ nítorí àwọn àgùntàn.
+1	Gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOHN_10.15
+2	bí	bí	X	_	_	0	_	_	Ref=JOHN_10.15
+3	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.15
+4	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.15
+5	mọ̀	mọ̀	X	_	_	0	_	_	Ref=JOHN_10.15
+6	mí	mí	X	_	_	0	_	_	Ref=JOHN_10.15|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.15
+8	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.15
+9	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.15
+10	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.15
+11	mọ	mọ	X	_	_	0	_	_	Ref=JOHN_10.15
+12	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.15|SpaceAfter=No
+13	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.15
+14	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.15
+15	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.15
+16	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.15
+17	ọkàn	ọkàn	X	_	_	0	_	_	Ref=JOHN_10.15
+18	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.15
+19	lélẹ̀	lélẹ̀	X	_	_	0	_	_	Ref=JOHN_10.15
+20	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.15
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.15
+22	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.15|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.15
+
+# sent_id = JOHN_10.16
+# text = Èmi sì ní àwọn àgùntàn mìíràn, tí kì í ṣe agbo yìí: àwọn ni èmi yóò mú wá pẹ̀lú, wọn ó sì gbọ́ ohùn mi; wọn ó sì jẹ́ agbo kan, olùsọ́-àgùntàn kan.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.16
+2	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.16
+3	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.16
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.16
+5	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.16
+6	mìíràn	mìíràn	X	_	_	0	_	_	Ref=JOHN_10.16|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.16
+8	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.16
+9	kì	kì	X	_	_	0	_	_	Ref=JOHN_10.16
+10	í	í	X	_	_	0	_	_	Ref=JOHN_10.16
+11	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.16
+12	agbo	agbo	X	_	_	0	_	_	Ref=JOHN_10.16
+13	yìí	yìí	X	_	_	0	_	_	Ref=JOHN_10.16|SpaceAfter=No
+14	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.16
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.16
+16	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.16
+17	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.16
+18	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.16
+19	mú	mú	X	_	_	0	_	_	Ref=JOHN_10.16
+20	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.16
+21	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOHN_10.16|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.16
+23	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.16
+24	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.16
+25	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.16
+26	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOHN_10.16
+27	ohùn	ohùn	X	_	_	0	_	_	Ref=JOHN_10.16
+28	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.16|SpaceAfter=No
+29	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.16
+30	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.16
+31	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.16
+32	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.16
+33	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOHN_10.16
+34	agbo	agbo	X	_	_	0	_	_	Ref=JOHN_10.16
+35	kan	kan	X	_	_	0	_	_	Ref=JOHN_10.16|SpaceAfter=No
+36	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.16
+37	olùsọ́	olùsọ́	X	_	_	0	_	_	Ref=JOHN_10.16|SpaceAfter=No
+38	-	-	PUNCT	_	_	0	punct	_	Ref=JOHN_10.16|SpaceAfter=No
+39	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.16
+40	kan	kan	X	_	_	0	_	_	Ref=JOHN_10.16|SpaceAfter=No
+41	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.16
+
+# sent_id = JOHN_10.17
+# text = Nítorí náà ni Baba mi ṣe fẹ́ràn mi, nítorí tí mo fi ẹ̀mí mi lélẹ̀, kí èmi lè tún gbà á.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.17
+2	náà	náà	X	_	_	0	_	_	Ref=JOHN_10.17
+3	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.17
+4	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.17
+5	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.17
+6	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.17
+7	fẹ́ràn	fẹ́ràn	X	_	_	0	_	_	Ref=JOHN_10.17
+8	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.17|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.17
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.17
+11	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.17
+12	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.17
+13	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.17
+14	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=JOHN_10.17
+15	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.17
+16	lélẹ̀	lélẹ̀	X	_	_	0	_	_	Ref=JOHN_10.17|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.17
+18	kí	kí	X	_	_	0	_	_	Ref=JOHN_10.17
+19	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.17
+20	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.17
+21	tún	tún	X	_	_	0	_	_	Ref=JOHN_10.17
+22	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.17
+23	á	á	X	_	_	0	_	_	Ref=JOHN_10.17|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.17
+
+# sent_id = JOHN_10.18
+# text = Ẹnìkan kò gbà á lọ́wọ́ mi, ṣùgbọ́n mo fi í lélẹ̀, mo sì lágbára láti tún gbà á. Àṣẹ yìí ni mo ti gbà wá láti ọ̀dọ̀ Baba mi.”
+1	Ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=JOHN_10.18
+2	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.18
+3	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.18
+4	á	á	X	_	_	0	_	_	Ref=JOHN_10.18
+5	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=JOHN_10.18
+6	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.18|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.18
+8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.18
+9	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.18
+10	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.18
+11	í	í	X	_	_	0	_	_	Ref=JOHN_10.18
+12	lélẹ̀	lélẹ̀	X	_	_	0	_	_	Ref=JOHN_10.18|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.18
+14	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.18
+15	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.18
+16	lágbára	lágbára	X	_	_	0	_	_	Ref=JOHN_10.18
+17	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.18
+18	tún	tún	X	_	_	0	_	_	Ref=JOHN_10.18
+19	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.18
+20	á	á	X	_	_	0	_	_	Ref=JOHN_10.18|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.18
+22	Àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=JOHN_10.18
+23	yìí	yìí	X	_	_	0	_	_	Ref=JOHN_10.18
+24	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.18
+25	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.18
+26	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.18
+27	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.18
+28	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.18
+29	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.18
+30	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=JOHN_10.18
+31	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.18
+32	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.18|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.18|SpaceAfter=No
+34	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.18
+
+# sent_id = JOHN_10.19
+# text = Nítorí náà ìyapa tún wà láàrin àwọn Júù nítorí ọ̀rọ̀ wọ̀nyí.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.19
+2	náà	náà	X	_	_	0	_	_	Ref=JOHN_10.19
+3	ìyapa	ìyapa	X	_	_	0	_	_	Ref=JOHN_10.19
+4	tún	tún	X	_	_	0	_	_	Ref=JOHN_10.19
+5	wà	wà	X	_	_	0	_	_	Ref=JOHN_10.19
+6	láàrin	láàrin	X	_	_	0	_	_	Ref=JOHN_10.19
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.19
+8	Júù	Júù	PROPN	_	_	0	_	_	Ref=JOHN_10.19
+9	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.19
+10	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=JOHN_10.19
+11	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=JOHN_10.19|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.19
+
+# sent_id = JOHN_10.20
+# text = Ọ̀pọ̀ nínú wọn sì wí pé, “Ó ní ẹ̀mí èṣù, orí rẹ̀ sì dàrú; èéṣe tí ẹ̀yin fi ń gbọ́rọ̀ rẹ̀?”
+1	Ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=JOHN_10.20
+2	nínú	nínú	X	_	_	0	_	_	Ref=JOHN_10.20
+3	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.20
+4	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.20
+5	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.20
+6	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.20|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.20
+8	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.20|SpaceAfter=No
+9	Ó	ó	X	_	_	0	_	_	Ref=JOHN_10.20
+10	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.20
+11	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=JOHN_10.20
+12	èṣù	èṣù	X	_	_	0	_	_	Ref=JOHN_10.20|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.20
+14	orí	orí	X	_	_	0	_	_	Ref=JOHN_10.20
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.20
+16	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.20
+17	dàrú	dàrú	X	_	_	0	_	_	Ref=JOHN_10.20|SpaceAfter=No
+18	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.20
+19	èéṣe	èéṣe	X	_	_	0	_	_	Ref=JOHN_10.20
+20	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.20
+21	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.20
+22	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.20
+23	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.20
+24	gbọ́rọ̀	gbọ́rọ̀	X	_	_	0	_	_	Ref=JOHN_10.20
+25	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.20|SpaceAfter=No
+26	?	?	PUNCT	_	_	0	punct	_	Ref=JOHN_10.20|SpaceAfter=No
+27	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.20
+
+# sent_id = JOHN_10.21
+# text = Àwọn mìíràn wí pé, “Ìwọ̀nyí kì í ṣe ọ̀rọ̀ ẹni tí ó ní ẹ̀mí èṣù. Ẹ̀mi èṣù lè la ojú àwọn afọ́jú bí?”
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.21
+2	mìíràn	mìíràn	X	_	_	0	_	_	Ref=JOHN_10.21
+3	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.21
+4	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.21|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.21
+6	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.21|SpaceAfter=No
+7	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=JOHN_10.21
+8	kì	kì	X	_	_	0	_	_	Ref=JOHN_10.21
+9	í	í	X	_	_	0	_	_	Ref=JOHN_10.21
+10	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.21
+11	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=JOHN_10.21
+12	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.21
+13	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.21
+14	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.21
+15	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.21
+16	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=JOHN_10.21
+17	èṣù	èṣù	X	_	_	0	_	_	Ref=JOHN_10.21|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.21
+19	Ẹ̀mi	ẹ̀mi	X	_	_	0	_	_	Ref=JOHN_10.21
+20	èṣù	èṣù	X	_	_	0	_	_	Ref=JOHN_10.21
+21	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.21
+22	la	la	X	_	_	0	_	_	Ref=JOHN_10.21
+23	ojú	ojú	X	_	_	0	_	_	Ref=JOHN_10.21
+24	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.21
+25	afọ́jú	afọ́jú	X	_	_	0	_	_	Ref=JOHN_10.21
+26	bí	bí	X	_	_	0	_	_	Ref=JOHN_10.21|SpaceAfter=No
+27	?	?	PUNCT	_	_	0	punct	_	Ref=JOHN_10.21|SpaceAfter=No
+28	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.21
+
+# sent_id = JOHN_10.22
+# text = Ó sì jẹ́ àjọ̀dún ìyàsímímọ́ ní Jérúsálẹ́mù, ìgbà òtútù ni.
+1	Ó	ó	X	_	_	0	_	_	Ref=JOHN_10.22
+2	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.22
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOHN_10.22
+4	àjọ̀dún	àjọ̀dún	X	_	_	0	_	_	Ref=JOHN_10.22
+5	ìyàsímímọ́	ìyàsímímọ́	X	_	_	0	_	_	Ref=JOHN_10.22
+6	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.22
+7	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=JOHN_10.22|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.22
+9	ìgbà	ìgbà	X	_	_	0	_	_	Ref=JOHN_10.22
+10	òtútù	òtútù	X	_	_	0	_	_	Ref=JOHN_10.22
+11	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.22|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.22
+
+# sent_id = JOHN_10.23
+# text = Jésù sì ń rìn ní tẹ́mpílì, ní ìloro Sólómónì,
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=JOHN_10.23
+2	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.23
+3	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.23
+4	rìn	rìn	X	_	_	0	_	_	Ref=JOHN_10.23
+5	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.23
+6	tẹ́mpílì	tẹ́mpílì	X	_	_	0	_	_	Ref=JOHN_10.23|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.23
+8	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.23
+9	ìloro	ìloro	X	_	_	0	_	_	Ref=JOHN_10.23
+10	Sólómónì	Sólómónì	PROPN	_	_	0	_	_	Ref=JOHN_10.23|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.23
+
+# sent_id = JOHN_10.24
+# text = Nítorí náà àwọn Júù wá dúró yí i ká, wọ́n sì wí fún un pé, “Ìwọ ó ti mú wa ṣe iyèméjì pẹ́ tó? Bí ìwọ bá ni Kírísítì náà, wí fún wa gbangba.”
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.24
+2	náà	náà	X	_	_	0	_	_	Ref=JOHN_10.24
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.24
+4	Júù	Júù	PROPN	_	_	0	_	_	Ref=JOHN_10.24
+5	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.24
+6	dúró	dúró	X	_	_	0	_	_	Ref=JOHN_10.24
+7	yí	yí	X	_	_	0	_	_	Ref=JOHN_10.24
+8	i	i	X	_	_	0	_	_	Ref=JOHN_10.24
+9	ká	ká	X	_	_	0	_	_	Ref=JOHN_10.24|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.24
+11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.24
+12	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.24
+13	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.24
+14	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.24
+15	un	un	X	_	_	0	_	_	Ref=JOHN_10.24
+16	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.24|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.24
+18	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.24|SpaceAfter=No
+19	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOHN_10.24
+20	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.24
+21	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.24
+22	mú	mú	X	_	_	0	_	_	Ref=JOHN_10.24
+23	wa	wa	X	_	_	0	_	_	Ref=JOHN_10.24
+24	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.24
+25	iyèméjì	iyèméjì	X	_	_	0	_	_	Ref=JOHN_10.24
+26	pẹ́	pẹ́	X	_	_	0	_	_	Ref=JOHN_10.24
+27	tó	tó	X	_	_	0	_	_	Ref=JOHN_10.24|SpaceAfter=No
+28	?	?	PUNCT	_	_	0	punct	_	Ref=JOHN_10.24
+29	Bí	bí	X	_	_	0	_	_	Ref=JOHN_10.24
+30	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOHN_10.24
+31	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.24
+32	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.24
+33	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=JOHN_10.24
+34	náà	náà	X	_	_	0	_	_	Ref=JOHN_10.24|SpaceAfter=No
+35	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.24
+36	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.24
+37	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.24
+38	wa	wa	X	_	_	0	_	_	Ref=JOHN_10.24
+39	gbangba	gbangba	X	_	_	0	_	_	Ref=JOHN_10.24|SpaceAfter=No
+40	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.24|SpaceAfter=No
+41	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.24
+
+# sent_id = JOHN_10.25
+# text = Jésù dá wọn lóhùn pé, “Èmi ti wí fún yín, ẹ̀yin kò sì gbàgbọ́; iṣẹ́ tí èmi ń ṣe lórúkọ Baba mi, àwọn ni ó ń jẹ́rìí mi.
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=JOHN_10.25
+2	dá	dá	X	_	_	0	_	_	Ref=JOHN_10.25
+3	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.25
+4	lóhùn	lóhùn	X	_	_	0	_	_	Ref=JOHN_10.25
+5	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.25|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.25
+7	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.25|SpaceAfter=No
+8	Èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.25
+9	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.25
+10	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.25
+11	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.25
+12	yín	yín	X	_	_	0	_	_	Ref=JOHN_10.25|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.25
+14	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.25
+15	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.25
+16	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.25
+17	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=JOHN_10.25|SpaceAfter=No
+18	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.25
+19	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=JOHN_10.25
+20	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.25
+21	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.25
+22	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.25
+23	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.25
+24	lórúkọ	lórúkọ	X	_	_	0	_	_	Ref=JOHN_10.25
+25	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.25
+26	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.25|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.25
+28	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.25
+29	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.25
+30	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.25
+31	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.25
+32	jẹ́rìí	jẹ́rìí	X	_	_	0	_	_	Ref=JOHN_10.25
+33	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.25|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.25
+
+# sent_id = JOHN_10.26
+# text = Ṣùgbọ́n ẹ̀yin kò gbàgbọ́, nítorí ẹ̀yin kò sí nínú àwọn àgùntàn mi, gẹ́gẹ́ bí mo tí wí fún yín.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.26
+2	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.26
+3	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.26
+4	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=JOHN_10.26|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.26
+6	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.26
+7	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.26
+8	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.26
+9	sí	sí	X	_	_	0	_	_	Ref=JOHN_10.26
+10	nínú	nínú	X	_	_	0	_	_	Ref=JOHN_10.26
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.26
+12	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.26
+13	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.26|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.26
+15	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOHN_10.26
+16	bí	bí	X	_	_	0	_	_	Ref=JOHN_10.26
+17	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.26
+18	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.26
+19	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.26
+20	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.26
+21	yín	yín	X	_	_	0	_	_	Ref=JOHN_10.26|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.26
+
+# sent_id = JOHN_10.27
+# text = Àwọn àgùntàn mi ń gbọ́ ohùn mi, èmi sì mọ̀ wọ́n, wọn a sì máa tọ̀ mí lẹ́yìn:
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.27
+2	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=JOHN_10.27
+3	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.27
+4	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.27
+5	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOHN_10.27
+6	ohùn	ohùn	X	_	_	0	_	_	Ref=JOHN_10.27
+7	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.27|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.27
+9	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.27
+10	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.27
+11	mọ̀	mọ̀	X	_	_	0	_	_	Ref=JOHN_10.27
+12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.27|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.27
+14	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.27
+15	a	a	X	_	_	0	_	_	Ref=JOHN_10.27
+16	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.27
+17	máa	máa	X	_	_	0	_	_	Ref=JOHN_10.27
+18	tọ̀	tọ̀	X	_	_	0	_	_	Ref=JOHN_10.27
+19	mí	mí	X	_	_	0	_	_	Ref=JOHN_10.27
+20	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=JOHN_10.27|SpaceAfter=No
+21	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.27
+
+# sent_id = JOHN_10.28
+# text = Èmi sì fún wọn ní ìyè àìnípẹ̀kun; wọn kì yóò sì ṣègbé láéláé, kò sí ẹni tí ó lè já wọn gbà kúrò lọ́wọ́ mi.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.28
+2	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.28
+3	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.28
+4	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.28
+5	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.28
+6	ìyè	ìyè	X	_	_	0	_	_	Ref=JOHN_10.28
+7	àìnípẹ̀kun	àìnípẹ̀kun	X	_	_	0	_	_	Ref=JOHN_10.28|SpaceAfter=No
+8	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.28
+9	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.28
+10	kì	kì	X	_	_	0	_	_	Ref=JOHN_10.28
+11	yóò	yóò	X	_	_	0	_	_	Ref=JOHN_10.28
+12	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.28
+13	ṣègbé	ṣègbé	X	_	_	0	_	_	Ref=JOHN_10.28
+14	láéláé	láéláé	X	_	_	0	_	_	Ref=JOHN_10.28|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.28
+16	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.28
+17	sí	sí	X	_	_	0	_	_	Ref=JOHN_10.28
+18	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.28
+19	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.28
+20	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.28
+21	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.28
+22	já	já	X	_	_	0	_	_	Ref=JOHN_10.28
+23	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.28
+24	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.28
+25	kúrò	kúrò	X	_	_	0	_	_	Ref=JOHN_10.28
+26	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=JOHN_10.28
+27	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.28|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.28
+
+# sent_id = JOHN_10.29
+# text = Baba mi, ẹni tí ó fi wọ́n fún mi pọ̀ ju gbogbo wọn lọ; kò sì sí ẹni tí ó lè já wọn gbà kúrò lọ́wọ́ Baba mi.
+1	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.29
+2	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.29|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.29
+4	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.29
+5	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.29
+6	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.29
+7	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.29
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.29
+9	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.29
+10	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.29
+11	pọ̀	pọ̀	X	_	_	0	_	_	Ref=JOHN_10.29
+12	ju	ju	X	_	_	0	_	_	Ref=JOHN_10.29
+13	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOHN_10.29
+14	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.29
+15	lọ	lọ	X	_	_	0	_	_	Ref=JOHN_10.29|SpaceAfter=No
+16	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.29
+17	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.29
+18	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.29
+19	sí	sí	X	_	_	0	_	_	Ref=JOHN_10.29
+20	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.29
+21	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.29
+22	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.29
+23	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.29
+24	já	já	X	_	_	0	_	_	Ref=JOHN_10.29
+25	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.29
+26	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.29
+27	kúrò	kúrò	X	_	_	0	_	_	Ref=JOHN_10.29
+28	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=JOHN_10.29
+29	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.29
+30	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.29|SpaceAfter=No
+31	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.29
+
+# sent_id = JOHN_10.30
+# text = Ọ̀kan ni èmi àti Baba mi.”
+1	Ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOHN_10.30
+2	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.30
+3	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.30
+4	àti	àti	X	_	_	0	_	_	Ref=JOHN_10.30
+5	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.30
+6	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.30|SpaceAfter=No
+7	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.30|SpaceAfter=No
+8	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.30
+
+# sent_id = JOHN_10.31
+# text = Àwọn Júù sì tún he òkúta, láti sọ lù ú.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.31
+2	Júù	Júù	PROPN	_	_	0	_	_	Ref=JOHN_10.31
+3	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.31
+4	tún	tún	X	_	_	0	_	_	Ref=JOHN_10.31
+5	he	he	X	_	_	0	_	_	Ref=JOHN_10.31
+6	òkúta	òkúta	X	_	_	0	_	_	Ref=JOHN_10.31|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.31
+8	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.31
+9	sọ	sọ	X	_	_	0	_	_	Ref=JOHN_10.31
+10	lù	lù	X	_	_	0	_	_	Ref=JOHN_10.31
+11	ú	ú	X	_	_	0	_	_	Ref=JOHN_10.31|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.31
+
+# sent_id = JOHN_10.32
+# text = Jésù dá wọn lóhùn pé, “Ọ̀pọ̀lọpọ̀ iṣẹ́ rere ni mo fi hàn yín láti ọ̀dọ̀ Baba mi wá; nítorí èwo nínú iṣẹ́ wọ̀nyí ni ẹ̀yin ṣe sọ mí ní òkúta?”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=JOHN_10.32
+2	dá	dá	X	_	_	0	_	_	Ref=JOHN_10.32
+3	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.32
+4	lóhùn	lóhùn	X	_	_	0	_	_	Ref=JOHN_10.32
+5	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.32|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.32
+7	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.32|SpaceAfter=No
+8	Ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	X	_	_	0	_	_	Ref=JOHN_10.32
+9	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=JOHN_10.32
+10	rere	rere	X	_	_	0	_	_	Ref=JOHN_10.32
+11	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.32
+12	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.32
+13	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.32
+14	hàn	hàn	X	_	_	0	_	_	Ref=JOHN_10.32
+15	yín	yín	X	_	_	0	_	_	Ref=JOHN_10.32
+16	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.32
+17	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=JOHN_10.32
+18	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.32
+19	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.32
+20	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.32|SpaceAfter=No
+21	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.32
+22	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.32
+23	èwo	èwo	X	_	_	0	_	_	Ref=JOHN_10.32
+24	nínú	nínú	X	_	_	0	_	_	Ref=JOHN_10.32
+25	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=JOHN_10.32
+26	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=JOHN_10.32
+27	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.32
+28	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.32
+29	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.32
+30	sọ	sọ	X	_	_	0	_	_	Ref=JOHN_10.32
+31	mí	mí	X	_	_	0	_	_	Ref=JOHN_10.32
+32	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.32
+33	òkúta	òkúta	X	_	_	0	_	_	Ref=JOHN_10.32|SpaceAfter=No
+34	?	?	PUNCT	_	_	0	punct	_	Ref=JOHN_10.32|SpaceAfter=No
+35	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.32
+
+# sent_id = JOHN_10.33
+# text = Àwọn Júù sì dá a lóhùn pé, “Àwa kò sọ ọ́ lókúta nítorí iṣẹ́ rere, ṣùgbọ́n nítorí ọ̀rọ̀-ọ̀dì: àti nítorí ìwọ tí í ṣe ènìyàn ń fi ara rẹ ṣe Ọlọ́run.”
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.33
+2	Júù	Júù	PROPN	_	_	0	_	_	Ref=JOHN_10.33
+3	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.33
+4	dá	dá	X	_	_	0	_	_	Ref=JOHN_10.33
+5	a	a	X	_	_	0	_	_	Ref=JOHN_10.33
+6	lóhùn	lóhùn	X	_	_	0	_	_	Ref=JOHN_10.33
+7	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.33|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.33
+9	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.33|SpaceAfter=No
+10	Àwa	àwa	X	_	_	0	_	_	Ref=JOHN_10.33
+11	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.33
+12	sọ	sọ	X	_	_	0	_	_	Ref=JOHN_10.33
+13	ọ́	ọ́	X	_	_	0	_	_	Ref=JOHN_10.33
+14	lókúta	lókúta	X	_	_	0	_	_	Ref=JOHN_10.33
+15	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.33
+16	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=JOHN_10.33
+17	rere	rere	X	_	_	0	_	_	Ref=JOHN_10.33|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.33
+19	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.33
+20	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.33
+21	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=JOHN_10.33|SpaceAfter=No
+22	-	-	PUNCT	_	_	0	punct	_	Ref=JOHN_10.33|SpaceAfter=No
+23	ọ̀dì	ọ̀dì	X	_	_	0	_	_	Ref=JOHN_10.33|SpaceAfter=No
+24	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.33
+25	àti	àti	X	_	_	0	_	_	Ref=JOHN_10.33
+26	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.33
+27	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOHN_10.33
+28	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.33
+29	í	í	X	_	_	0	_	_	Ref=JOHN_10.33
+30	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.33
+31	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOHN_10.33
+32	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.33
+33	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.33
+34	ara	ara	X	_	_	0	_	_	Ref=JOHN_10.33
+35	rẹ	rẹ	X	_	_	0	_	_	Ref=JOHN_10.33
+36	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.33
+37	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOHN_10.33|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.33|SpaceAfter=No
+39	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.33
+
+# sent_id = JOHN_10.34
+# text = Jésù dá wọn lóhùn pé, “A kò ha tí kọ ọ́ nínú òfin yín pé, ‘Mo ti wí pé, Ọlọ́run ni ẹ̀yin jẹ́’?
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=JOHN_10.34
+2	dá	dá	X	_	_	0	_	_	Ref=JOHN_10.34
+3	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.34
+4	lóhùn	lóhùn	X	_	_	0	_	_	Ref=JOHN_10.34
+5	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.34|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.34
+7	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.34|SpaceAfter=No
+8	A	a	X	_	_	0	_	_	Ref=JOHN_10.34
+9	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.34
+10	ha	ha	X	_	_	0	_	_	Ref=JOHN_10.34
+11	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.34
+12	kọ	kọ	X	_	_	0	_	_	Ref=JOHN_10.34
+13	ọ́	ọ́	X	_	_	0	_	_	Ref=JOHN_10.34
+14	nínú	nínú	X	_	_	0	_	_	Ref=JOHN_10.34
+15	òfin	òfin	X	_	_	0	_	_	Ref=JOHN_10.34
+16	yín	yín	X	_	_	0	_	_	Ref=JOHN_10.34
+17	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.34|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.34
+19	‘	‘	PUNCT	_	_	0	punct	_	Ref=JOHN_10.34|SpaceAfter=No
+20	Mo	mo	X	_	_	0	_	_	Ref=JOHN_10.34
+21	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.34
+22	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.34
+23	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.34|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.34
+25	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOHN_10.34
+26	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.34
+27	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.34
+28	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOHN_10.34|SpaceAfter=No
+29	’	’	PUNCT	_	_	0	punct	_	Ref=JOHN_10.34|SpaceAfter=No
+30	?	?	PUNCT	_	_	0	punct	_	Ref=JOHN_10.34
+
+# sent_id = JOHN_10.35
+# text = Bí ó bá pè wọ́n ní Ọlọ́run, àwọn ẹni tí a fi ọ̀rọ̀ Ọlọ́run fún, a kò sì lè ba ìwé-mímọ́ jẹ́,
+1	Bí	bí	X	_	_	0	_	_	Ref=JOHN_10.35
+2	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.35
+3	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.35
+4	pè	pè	X	_	_	0	_	_	Ref=JOHN_10.35
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.35
+6	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.35
+7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOHN_10.35|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.35
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.35
+10	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.35
+11	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.35
+12	a	a	X	_	_	0	_	_	Ref=JOHN_10.35
+13	fi	fi	X	_	_	0	_	_	Ref=JOHN_10.35
+14	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=JOHN_10.35
+15	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOHN_10.35
+16	fún	fún	X	_	_	0	_	_	Ref=JOHN_10.35|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.35
+18	a	a	X	_	_	0	_	_	Ref=JOHN_10.35
+19	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.35
+20	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.35
+21	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.35
+22	ba	ba	X	_	_	0	_	_	Ref=JOHN_10.35
+23	ìwé	ìwé	X	_	_	0	_	_	Ref=JOHN_10.35|SpaceAfter=No
+24	-	-	PUNCT	_	_	0	punct	_	Ref=JOHN_10.35|SpaceAfter=No
+25	mímọ́	mímọ́	X	_	_	0	_	_	Ref=JOHN_10.35
+26	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOHN_10.35|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.35
+
+# sent_id = JOHN_10.36
+# text = Ẹ̀yin ha ń wí ní ti ẹni tí Baba yà sí mímọ́, tí ó sì rán sí ayé pé: Ìwọ ń sọ̀rọ̀ òdì, nítorí tí mo wí pé, ‘Ọmọ Ọlọ́run ni mí.’
+1	Ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.36
+2	ha	ha	X	_	_	0	_	_	Ref=JOHN_10.36
+3	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.36
+4	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.36
+5	ní	ní	X	_	_	0	_	_	Ref=JOHN_10.36
+6	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.36
+7	ẹni	ẹni	X	_	_	0	_	_	Ref=JOHN_10.36
+8	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.36
+9	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.36
+10	yà	yà	X	_	_	0	_	_	Ref=JOHN_10.36
+11	sí	sí	X	_	_	0	_	_	Ref=JOHN_10.36
+12	mímọ́	mímọ́	X	_	_	0	_	_	Ref=JOHN_10.36|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.36
+14	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.36
+15	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.36
+16	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.36
+17	rán	rán	X	_	_	0	_	_	Ref=JOHN_10.36
+18	sí	sí	X	_	_	0	_	_	Ref=JOHN_10.36
+19	ayé	ayé	X	_	_	0	_	_	Ref=JOHN_10.36
+20	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.36|SpaceAfter=No
+21	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.36
+22	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOHN_10.36
+23	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.36
+24	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=JOHN_10.36
+25	òdì	òdì	X	_	_	0	_	_	Ref=JOHN_10.36|SpaceAfter=No
+26	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.36
+27	nítorí	nítorí	X	_	_	0	_	_	Ref=JOHN_10.36
+28	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.36
+29	mo	mo	X	_	_	0	_	_	Ref=JOHN_10.36
+30	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.36
+31	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.36|SpaceAfter=No
+32	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.36
+33	‘	‘	PUNCT	_	_	0	punct	_	Ref=JOHN_10.36|SpaceAfter=No
+34	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOHN_10.36
+35	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOHN_10.36
+36	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.36
+37	mí	mí	X	_	_	0	_	_	Ref=JOHN_10.36|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.36|SpaceAfter=No
+39	’	’	PUNCT	_	_	0	punct	_	Ref=JOHN_10.36
+
+# sent_id = JOHN_10.37
+# text = Bí èmi kò bá ṣe iṣẹ́ Baba mi, ẹ má ṣe gbà mí gbọ́.
+1	Bí	bí	X	_	_	0	_	_	Ref=JOHN_10.37
+2	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.37
+3	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.37
+4	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.37
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.37
+6	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=JOHN_10.37
+7	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.37
+8	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.37|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.37
+10	ẹ	ẹ	X	_	_	0	_	_	Ref=JOHN_10.37
+11	má	má	X	_	_	0	_	_	Ref=JOHN_10.37
+12	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.37
+13	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.37
+14	mí	mí	X	_	_	0	_	_	Ref=JOHN_10.37
+15	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOHN_10.37|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.37
+
+# sent_id = JOHN_10.38
+# text = Ṣùgbọ́n bí èmi bá ṣe wọ́n, bí ẹ̀yin kò tilẹ̀ gbà mí gbọ́, ẹ gbà iṣẹ́ náà gbọ́: kí ẹ̀yin baà lè mọ̀, kí ó sì lè yé yín pé, Baba wà nínú mi, èmi sì wà nínú rẹ̀.”
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.38
+2	bí	bí	X	_	_	0	_	_	Ref=JOHN_10.38
+3	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.38
+4	bá	bá	X	_	_	0	_	_	Ref=JOHN_10.38
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.38
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.38|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38
+8	bí	bí	X	_	_	0	_	_	Ref=JOHN_10.38
+9	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.38
+10	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.38
+11	tilẹ̀	tilẹ̀	X	_	_	0	_	_	Ref=JOHN_10.38
+12	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.38
+13	mí	mí	X	_	_	0	_	_	Ref=JOHN_10.38
+14	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOHN_10.38|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38
+16	ẹ	ẹ	X	_	_	0	_	_	Ref=JOHN_10.38
+17	gbà	gbà	X	_	_	0	_	_	Ref=JOHN_10.38
+18	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=JOHN_10.38
+19	náà	náà	X	_	_	0	_	_	Ref=JOHN_10.38
+20	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOHN_10.38|SpaceAfter=No
+21	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38
+22	kí	kí	X	_	_	0	_	_	Ref=JOHN_10.38
+23	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=JOHN_10.38
+24	baà	baà	X	_	_	0	_	_	Ref=JOHN_10.38
+25	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.38
+26	mọ̀	mọ̀	X	_	_	0	_	_	Ref=JOHN_10.38|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38
+28	kí	kí	X	_	_	0	_	_	Ref=JOHN_10.38
+29	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.38
+30	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.38
+31	lè	lè	X	_	_	0	_	_	Ref=JOHN_10.38
+32	yé	yé	X	_	_	0	_	_	Ref=JOHN_10.38
+33	yín	yín	X	_	_	0	_	_	Ref=JOHN_10.38
+34	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.38|SpaceAfter=No
+35	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38
+36	Baba	baba	X	_	_	0	_	_	Ref=JOHN_10.38
+37	wà	wà	X	_	_	0	_	_	Ref=JOHN_10.38
+38	nínú	nínú	X	_	_	0	_	_	Ref=JOHN_10.38
+39	mi	mi	X	_	_	0	_	_	Ref=JOHN_10.38|SpaceAfter=No
+40	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38
+41	èmi	èmi	X	_	_	0	_	_	Ref=JOHN_10.38
+42	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.38
+43	wà	wà	X	_	_	0	_	_	Ref=JOHN_10.38
+44	nínú	nínú	X	_	_	0	_	_	Ref=JOHN_10.38
+45	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.38|SpaceAfter=No
+46	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38|SpaceAfter=No
+47	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.38
+
+# sent_id = JOHN_10.39
+# text = Wọ́n sì tún ń wá ọ̀nà láti mú un: ó sì bọ́ lọ́wọ́ wọn.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.39
+2	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.39
+3	tún	tún	X	_	_	0	_	_	Ref=JOHN_10.39
+4	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.39
+5	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.39
+6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOHN_10.39
+7	láti	láti	X	_	_	0	_	_	Ref=JOHN_10.39
+8	mú	mú	X	_	_	0	_	_	Ref=JOHN_10.39
+9	un	un	X	_	_	0	_	_	Ref=JOHN_10.39|SpaceAfter=No
+10	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.39
+11	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.39
+12	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.39
+13	bọ́	bọ́	X	_	_	0	_	_	Ref=JOHN_10.39
+14	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=JOHN_10.39
+15	wọn	wọn	X	_	_	0	_	_	Ref=JOHN_10.39|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.39
+
+# sent_id = JOHN_10.40
+# text = Ó sì tún kọjá lọ sí apá kéjì Jodánì sí ibi tí Jòhánù ti kọ́kọ́ ń bamítísì; níbẹ̀ ni ó sì jókòó.
+1	Ó	ó	X	_	_	0	_	_	Ref=JOHN_10.40
+2	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.40
+3	tún	tún	X	_	_	0	_	_	Ref=JOHN_10.40
+4	kọjá	kọjá	X	_	_	0	_	_	Ref=JOHN_10.40
+5	lọ	lọ	X	_	_	0	_	_	Ref=JOHN_10.40
+6	sí	sí	X	_	_	0	_	_	Ref=JOHN_10.40
+7	apá	apá	X	_	_	0	_	_	Ref=JOHN_10.40
+8	kéjì	kéjì	X	_	_	0	_	_	Ref=JOHN_10.40
+9	Jodánì	Jodánì	PROPN	_	_	0	_	_	Ref=JOHN_10.40
+10	sí	sí	X	_	_	0	_	_	Ref=JOHN_10.40
+11	ibi	ibi	X	_	_	0	_	_	Ref=JOHN_10.40
+12	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.40
+13	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=JOHN_10.40
+14	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.40
+15	kọ́kọ́	kọ́kọ́	X	_	_	0	_	_	Ref=JOHN_10.40
+16	ń	ń	X	_	_	0	_	_	Ref=JOHN_10.40
+17	bamítísì	bamítísì	X	_	_	0	_	_	Ref=JOHN_10.40|SpaceAfter=No
+18	;	;	PUNCT	_	_	0	punct	_	Ref=JOHN_10.40
+19	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=JOHN_10.40
+20	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.40
+21	ó	ó	X	_	_	0	_	_	Ref=JOHN_10.40
+22	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.40
+23	jókòó	jókòó	X	_	_	0	_	_	Ref=JOHN_10.40|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.40
+
+# sent_id = JOHN_10.41
+# text = Àwọn ènìyàn púpọ̀ sì wá sọ́dọ̀ rẹ̀, wọ́n sì wí pé, “Jòhánù kò ṣe iṣẹ́ àmì kan: Ṣùgbọ́n òtítọ́ ni ohun gbogbo tí Jòhánù sọ nípa ti ọkùnrin yìí.”
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.41
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOHN_10.41
+3	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=JOHN_10.41
+4	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.41
+5	wá	wá	X	_	_	0	_	_	Ref=JOHN_10.41
+6	sọ́dọ̀	sọ́dọ̀	X	_	_	0	_	_	Ref=JOHN_10.41
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOHN_10.41|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.41
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOHN_10.41
+10	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.41
+11	wí	wí	X	_	_	0	_	_	Ref=JOHN_10.41
+12	pé	pé	X	_	_	0	_	_	Ref=JOHN_10.41|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOHN_10.41
+14	“	“	PUNCT	_	_	0	punct	_	Ref=JOHN_10.41|SpaceAfter=No
+15	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=JOHN_10.41
+16	kò	kò	X	_	_	0	_	_	Ref=JOHN_10.41
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=JOHN_10.41
+18	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=JOHN_10.41
+19	àmì	àmì	X	_	_	0	_	_	Ref=JOHN_10.41
+20	kan	kan	X	_	_	0	_	_	Ref=JOHN_10.41|SpaceAfter=No
+21	:	:	PUNCT	_	_	0	punct	_	Ref=JOHN_10.41
+22	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOHN_10.41
+23	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=JOHN_10.41
+24	ni	ni	X	_	_	0	_	_	Ref=JOHN_10.41
+25	ohun	ohun	X	_	_	0	_	_	Ref=JOHN_10.41
+26	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOHN_10.41
+27	tí	tí	X	_	_	0	_	_	Ref=JOHN_10.41
+28	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=JOHN_10.41
+29	sọ	sọ	X	_	_	0	_	_	Ref=JOHN_10.41
+30	nípa	nípa	X	_	_	0	_	_	Ref=JOHN_10.41
+31	ti	ti	X	_	_	0	_	_	Ref=JOHN_10.41
+32	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=JOHN_10.41
+33	yìí	yìí	X	_	_	0	_	_	Ref=JOHN_10.41|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.41|SpaceAfter=No
+35	”	”	PUNCT	_	_	0	punct	_	Ref=JOHN_10.41
+
+# sent_id = JOHN_10.42
+# text = Àwọn ènìyàn púpọ̀ níbẹ̀ sì gbàágbọ́.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOHN_10.42
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOHN_10.42
+3	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=JOHN_10.42
+4	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=JOHN_10.42
+5	sì	sì	X	_	_	0	_	_	Ref=JOHN_10.42
+6	gbàágbọ́	gbàágbọ́	X	_	_	0	_	_	Ref=JOHN_10.42|SpaceAfter=No
+7	.	.	PUNCT	_	_	0	punct	_	Ref=JOHN_10.42
+

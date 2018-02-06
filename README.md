@@ -1,6 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 
 # Introduction
 

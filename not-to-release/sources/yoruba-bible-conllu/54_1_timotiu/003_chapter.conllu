@@ -1,0 +1,493 @@
+# source = Bibeli Mimọ, 1 Tímótíù, Chapter 3
+# newdoc id = 1TIM_3
+# sent_id = 1TIM_3.1
+# text = Òtítọ́ ni ọ̀rọ̀ náà, bí ẹnìkan bá fẹ́ ipò Bíṣọ́ọ̀bù, iṣẹ́ rere ni ó ń fẹ́,
+1	Òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=1TIM_3.1
+2	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.1
+3	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=1TIM_3.1
+4	náà	náà	X	_	_	0	_	_	Ref=1TIM_3.1|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.1
+6	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.1
+7	ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=1TIM_3.1
+8	bá	bá	X	_	_	0	_	_	Ref=1TIM_3.1
+9	fẹ́	fẹ́	X	_	_	0	_	_	Ref=1TIM_3.1
+10	ipò	ipò	X	_	_	0	_	_	Ref=1TIM_3.1
+11	Bíṣọ́ọ̀bù	bíṣọ́ọ̀bù	X	_	_	0	_	_	Ref=1TIM_3.1|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.1
+13	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=1TIM_3.1
+14	rere	rere	X	_	_	0	_	_	Ref=1TIM_3.1
+15	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.1
+16	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.1
+17	ń	ń	X	_	_	0	_	_	Ref=1TIM_3.1
+18	fẹ́	fẹ́	X	_	_	0	_	_	Ref=1TIM_3.1|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.1
+
+# sent_id = 1TIM_3.2
+# text = Ǹjẹ́ Bíṣọ́ọ̀bù yẹ kí ó jẹ́ aláìlẹ́gàn, ọkọ aya kan, olùsọ̀ràn, aláìrékọjá, oníwà yíyẹ, olùfẹ́ àlejò ṣíṣe, ẹni tí ó lè ṣe olùkọ́.
+1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=1TIM_3.2
+2	Bíṣọ́ọ̀bù	bíṣọ́ọ̀bù	X	_	_	0	_	_	Ref=1TIM_3.2
+3	yẹ	yẹ	X	_	_	0	_	_	Ref=1TIM_3.2
+4	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.2
+5	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.2
+6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.2
+7	aláìlẹ́gàn	aláìlẹ́gàn	X	_	_	0	_	_	Ref=1TIM_3.2|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.2
+9	ọkọ	ọkọ	X	_	_	0	_	_	Ref=1TIM_3.2
+10	aya	aya	X	_	_	0	_	_	Ref=1TIM_3.2
+11	kan	kan	X	_	_	0	_	_	Ref=1TIM_3.2|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.2
+13	olùsọ̀ràn	olùsọ̀ràn	X	_	_	0	_	_	Ref=1TIM_3.2|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.2
+15	aláìrékọjá	aláìrékọjá	X	_	_	0	_	_	Ref=1TIM_3.2|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.2
+17	oníwà	oníwà	X	_	_	0	_	_	Ref=1TIM_3.2
+18	yíyẹ	yíyẹ	X	_	_	0	_	_	Ref=1TIM_3.2|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.2
+20	olùfẹ́	olùfẹ́	X	_	_	0	_	_	Ref=1TIM_3.2
+21	àlejò	àlejò	X	_	_	0	_	_	Ref=1TIM_3.2
+22	ṣíṣe	ṣíṣe	X	_	_	0	_	_	Ref=1TIM_3.2|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.2
+24	ẹni	ẹni	X	_	_	0	_	_	Ref=1TIM_3.2
+25	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.2
+26	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.2
+27	lè	lè	X	_	_	0	_	_	Ref=1TIM_3.2
+28	ṣe	ṣe	X	_	_	0	_	_	Ref=1TIM_3.2
+29	olùkọ́	olùkọ́	X	_	_	0	_	_	Ref=1TIM_3.2|SpaceAfter=No
+30	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.2
+
+# sent_id = 1TIM_3.3
+# text = Kí ó má jẹ́ ọ̀mùtí, tàbí alu-ni, tàbí olójúkòkòrò, bí kò ṣe onísùúrù, kí ó má jẹ́ oníjà, tàbí olùfẹ́ owó.
+1	Kí	kí	X	_	_	0	_	_	Ref=1TIM_3.3
+2	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.3
+3	má	má	X	_	_	0	_	_	Ref=1TIM_3.3
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.3
+5	ọ̀mùtí	ọ̀mùtí	X	_	_	0	_	_	Ref=1TIM_3.3|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.3
+7	tàbí	tàbí	X	_	_	0	_	_	Ref=1TIM_3.3
+8	alu	alu	X	_	_	0	_	_	Ref=1TIM_3.3|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=1TIM_3.3|SpaceAfter=No
+10	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.3|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.3
+12	tàbí	tàbí	X	_	_	0	_	_	Ref=1TIM_3.3
+13	olójúkòkòrò	olójúkòkòrò	X	_	_	0	_	_	Ref=1TIM_3.3|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.3
+15	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.3
+16	kò	kò	X	_	_	0	_	_	Ref=1TIM_3.3
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=1TIM_3.3
+18	onísùúrù	onísùúrù	X	_	_	0	_	_	Ref=1TIM_3.3|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.3
+20	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.3
+21	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.3
+22	má	má	X	_	_	0	_	_	Ref=1TIM_3.3
+23	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.3
+24	oníjà	oníjà	X	_	_	0	_	_	Ref=1TIM_3.3|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.3
+26	tàbí	tàbí	X	_	_	0	_	_	Ref=1TIM_3.3
+27	olùfẹ́	olùfẹ́	X	_	_	0	_	_	Ref=1TIM_3.3
+28	owó	owó	X	_	_	0	_	_	Ref=1TIM_3.3|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.3
+
+# sent_id = 1TIM_3.4
+# text = Ẹni tí ó káwọ́ ilé ara rẹ̀ gírígírí, tí ó mú àwọn ọmọ rẹ̀ tẹríba pẹ̀lú ìwà àgbà gbogbo;
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=1TIM_3.4
+2	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.4
+3	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.4
+4	káwọ́	káwọ́	X	_	_	0	_	_	Ref=1TIM_3.4
+5	ilé	ilé	X	_	_	0	_	_	Ref=1TIM_3.4
+6	ara	ara	X	_	_	0	_	_	Ref=1TIM_3.4
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1TIM_3.4
+8	gírígírí	gírígírí	X	_	_	0	_	_	Ref=1TIM_3.4|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.4
+10	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.4
+11	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.4
+12	mú	mú	X	_	_	0	_	_	Ref=1TIM_3.4
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.4
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1TIM_3.4
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1TIM_3.4
+16	tẹríba	tẹríba	X	_	_	0	_	_	Ref=1TIM_3.4
+17	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1TIM_3.4
+18	ìwà	ìwà	X	_	_	0	_	_	Ref=1TIM_3.4
+19	àgbà	àgbà	X	_	_	0	_	_	Ref=1TIM_3.4
+20	gbogbo	gbogbo	X	_	_	0	_	_	Ref=1TIM_3.4|SpaceAfter=No
+21	;	;	PUNCT	_	_	0	punct	_	Ref=1TIM_3.4
+
+# sent_id = 1TIM_3.5
+# text = Ṣùgbọ́n bí ènìyàn kò bá mọ̀ bí a ti ń ṣe ìkáwọ́ ilé ara rẹ̀, òun ó há ti ṣe lè tọ́jú ìjọ Ọlọ́run?
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=1TIM_3.5
+2	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.5
+3	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=1TIM_3.5
+4	kò	kò	X	_	_	0	_	_	Ref=1TIM_3.5
+5	bá	bá	X	_	_	0	_	_	Ref=1TIM_3.5
+6	mọ̀	mọ̀	X	_	_	0	_	_	Ref=1TIM_3.5
+7	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.5
+8	a	a	X	_	_	0	_	_	Ref=1TIM_3.5
+9	ti	ti	X	_	_	0	_	_	Ref=1TIM_3.5
+10	ń	ń	X	_	_	0	_	_	Ref=1TIM_3.5
+11	ṣe	ṣe	X	_	_	0	_	_	Ref=1TIM_3.5
+12	ìkáwọ́	ìkáwọ́	X	_	_	0	_	_	Ref=1TIM_3.5
+13	ilé	ilé	X	_	_	0	_	_	Ref=1TIM_3.5
+14	ara	ara	X	_	_	0	_	_	Ref=1TIM_3.5
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1TIM_3.5|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.5
+17	òun	òun	X	_	_	0	_	_	Ref=1TIM_3.5
+18	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.5
+19	há	há	X	_	_	0	_	_	Ref=1TIM_3.5
+20	ti	ti	X	_	_	0	_	_	Ref=1TIM_3.5
+21	ṣe	ṣe	X	_	_	0	_	_	Ref=1TIM_3.5
+22	lè	lè	X	_	_	0	_	_	Ref=1TIM_3.5
+23	tọ́jú	tọ́jú	X	_	_	0	_	_	Ref=1TIM_3.5
+24	ìjọ	ìjọ	X	_	_	0	_	_	Ref=1TIM_3.5
+25	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=1TIM_3.5|SpaceAfter=No
+26	?	?	PUNCT	_	_	0	punct	_	Ref=1TIM_3.5
+
+# sent_id = 1TIM_3.6
+# text = Kí ó má jẹ́ ẹni titun ti ó ṣẹ̀ṣẹ̀ gbàgbọ́, kí ó má baà gbéraga, a sì ṣubú sínú ẹ̀bi Èsù.
+1	Kí	kí	X	_	_	0	_	_	Ref=1TIM_3.6
+2	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.6
+3	má	má	X	_	_	0	_	_	Ref=1TIM_3.6
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.6
+5	ẹni	ẹni	X	_	_	0	_	_	Ref=1TIM_3.6
+6	titun	titun	X	_	_	0	_	_	Ref=1TIM_3.6
+7	ti	ti	X	_	_	0	_	_	Ref=1TIM_3.6
+8	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.6
+9	ṣẹ̀ṣẹ̀	ṣẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=1TIM_3.6
+10	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=1TIM_3.6|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.6
+12	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.6
+13	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.6
+14	má	má	X	_	_	0	_	_	Ref=1TIM_3.6
+15	baà	baà	X	_	_	0	_	_	Ref=1TIM_3.6
+16	gbéraga	gbéraga	X	_	_	0	_	_	Ref=1TIM_3.6|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.6
+18	a	a	X	_	_	0	_	_	Ref=1TIM_3.6
+19	sì	sì	X	_	_	0	_	_	Ref=1TIM_3.6
+20	ṣubú	ṣubú	X	_	_	0	_	_	Ref=1TIM_3.6
+21	sínú	sínú	X	_	_	0	_	_	Ref=1TIM_3.6
+22	ẹ̀bi	ẹ̀bi	X	_	_	0	_	_	Ref=1TIM_3.6
+23	Èsù	èsù	X	_	_	0	_	_	Ref=1TIM_3.6|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.6
+
+# sent_id = 1TIM_3.7
+# text = Ó sì yẹ kí ó ni ẹ̀rí rere pẹ̀lú lọ́dọ̀ àwọn tí ń bẹ lóde; kí ó má baà bọ́ sínú ẹ̀gàn àti sínú ìdẹ́kun Èṣù.
+1	Ó	ó	X	_	_	0	_	_	Ref=1TIM_3.7
+2	sì	sì	X	_	_	0	_	_	Ref=1TIM_3.7
+3	yẹ	yẹ	X	_	_	0	_	_	Ref=1TIM_3.7
+4	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.7
+5	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.7
+6	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.7
+7	ẹ̀rí	ẹ̀rí	X	_	_	0	_	_	Ref=1TIM_3.7
+8	rere	rere	X	_	_	0	_	_	Ref=1TIM_3.7
+9	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1TIM_3.7
+10	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=1TIM_3.7
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.7
+12	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.7
+13	ń	ń	X	_	_	0	_	_	Ref=1TIM_3.7
+14	bẹ	bẹ	X	_	_	0	_	_	Ref=1TIM_3.7
+15	lóde	lóde	X	_	_	0	_	_	Ref=1TIM_3.7|SpaceAfter=No
+16	;	;	PUNCT	_	_	0	punct	_	Ref=1TIM_3.7
+17	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.7
+18	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.7
+19	má	má	X	_	_	0	_	_	Ref=1TIM_3.7
+20	baà	baà	X	_	_	0	_	_	Ref=1TIM_3.7
+21	bọ́	bọ́	X	_	_	0	_	_	Ref=1TIM_3.7
+22	sínú	sínú	X	_	_	0	_	_	Ref=1TIM_3.7
+23	ẹ̀gàn	ẹ̀gàn	X	_	_	0	_	_	Ref=1TIM_3.7
+24	àti	àti	X	_	_	0	_	_	Ref=1TIM_3.7
+25	sínú	sínú	X	_	_	0	_	_	Ref=1TIM_3.7
+26	ìdẹ́kun	ìdẹ́kun	X	_	_	0	_	_	Ref=1TIM_3.7
+27	Èṣù	èṣù	X	_	_	0	_	_	Ref=1TIM_3.7|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.7
+
+# sent_id = 1TIM_3.8
+# text = Bẹ́ẹ̀ gẹ́gẹ́ ni ó yẹ fún àwọn Díákónì láti ní ìwà àgbà, kí wọ́n máa jẹ́ ẹlẹ́nu méjì, kí wọ́n máa fi ara wọn fún wáìnì púpọ̀, kí wọ́n má jẹ́ olójúkòkòrò.
+1	Bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=1TIM_3.8
+2	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=1TIM_3.8
+3	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.8
+4	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.8
+5	yẹ	yẹ	X	_	_	0	_	_	Ref=1TIM_3.8
+6	fún	fún	X	_	_	0	_	_	Ref=1TIM_3.8
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.8
+8	Díákónì	díákónì	X	_	_	0	_	_	Ref=1TIM_3.8
+9	láti	láti	X	_	_	0	_	_	Ref=1TIM_3.8
+10	ní	ní	X	_	_	0	_	_	Ref=1TIM_3.8
+11	ìwà	ìwà	X	_	_	0	_	_	Ref=1TIM_3.8
+12	àgbà	àgbà	X	_	_	0	_	_	Ref=1TIM_3.8|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.8
+14	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.8
+15	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1TIM_3.8
+16	máa	máa	X	_	_	0	_	_	Ref=1TIM_3.8
+17	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.8
+18	ẹlẹ́nu	ẹlẹ́nu	X	_	_	0	_	_	Ref=1TIM_3.8
+19	méjì	méjì	X	_	_	0	_	_	Ref=1TIM_3.8|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.8
+21	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.8
+22	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1TIM_3.8
+23	máa	máa	X	_	_	0	_	_	Ref=1TIM_3.8
+24	fi	fi	X	_	_	0	_	_	Ref=1TIM_3.8
+25	ara	ara	X	_	_	0	_	_	Ref=1TIM_3.8
+26	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.8
+27	fún	fún	X	_	_	0	_	_	Ref=1TIM_3.8
+28	wáìnì	wáìnì	X	_	_	0	_	_	Ref=1TIM_3.8
+29	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=1TIM_3.8|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.8
+31	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.8
+32	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1TIM_3.8
+33	má	má	X	_	_	0	_	_	Ref=1TIM_3.8
+34	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.8
+35	olójúkòkòrò	olójúkòkòrò	X	_	_	0	_	_	Ref=1TIM_3.8|SpaceAfter=No
+36	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.8
+
+# sent_id = 1TIM_3.9
+# text = Kí wọn máa di ohun ìjìnlẹ̀ ìgbàgbọ́ mú pẹ̀lú ọkàn funfun.
+1	Kí	kí	X	_	_	0	_	_	Ref=1TIM_3.9
+2	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.9
+3	máa	máa	X	_	_	0	_	_	Ref=1TIM_3.9
+4	di	di	X	_	_	0	_	_	Ref=1TIM_3.9
+5	ohun	ohun	X	_	_	0	_	_	Ref=1TIM_3.9
+6	ìjìnlẹ̀	ìjìnlẹ̀	X	_	_	0	_	_	Ref=1TIM_3.9
+7	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=1TIM_3.9
+8	mú	mú	X	_	_	0	_	_	Ref=1TIM_3.9
+9	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1TIM_3.9
+10	ọkàn	ọkàn	X	_	_	0	_	_	Ref=1TIM_3.9
+11	funfun	funfun	X	_	_	0	_	_	Ref=1TIM_3.9|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.9
+
+# sent_id = 1TIM_3.10
+# text = Kí a kọ́kọ̀ wádìí àwọn wọ̀nyí dájú pẹ̀lú; nígbà náà ni kí a jẹ́ kí wọn ó ṣiṣẹ́ díákónì, bí wọn bá jẹ́ aláìlẹ́gàn.
+1	Kí	kí	X	_	_	0	_	_	Ref=1TIM_3.10
+2	a	a	X	_	_	0	_	_	Ref=1TIM_3.10
+3	kọ́kọ̀	kọ́kọ̀	X	_	_	0	_	_	Ref=1TIM_3.10
+4	wádìí	wádìí	X	_	_	0	_	_	Ref=1TIM_3.10
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.10
+6	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1TIM_3.10
+7	dájú	dájú	X	_	_	0	_	_	Ref=1TIM_3.10
+8	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1TIM_3.10|SpaceAfter=No
+9	;	;	PUNCT	_	_	0	punct	_	Ref=1TIM_3.10
+10	nígbà	nígbà	X	_	_	0	_	_	Ref=1TIM_3.10
+11	náà	náà	X	_	_	0	_	_	Ref=1TIM_3.10
+12	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.10
+13	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.10
+14	a	a	X	_	_	0	_	_	Ref=1TIM_3.10
+15	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.10
+16	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.10
+17	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.10
+18	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.10
+19	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=1TIM_3.10
+20	díákónì	díákónì	X	_	_	0	_	_	Ref=1TIM_3.10|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.10
+22	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.10
+23	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.10
+24	bá	bá	X	_	_	0	_	_	Ref=1TIM_3.10
+25	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.10
+26	aláìlẹ́gàn	aláìlẹ́gàn	X	_	_	0	_	_	Ref=1TIM_3.10|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.10
+
+# sent_id = 1TIM_3.11
+# text = Bẹ́ẹ̀ gẹ́gẹ́ ni ó yẹ fún àwọn obìnrin láti ni ìwá àgbà, kí wọn má jẹ́ asọ̀rọ̀-ẹni-lẹ́yìn bí kò ṣe aláìrékọjá, olóòótọ́ ní ohun gbogbo.
+1	Bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=1TIM_3.11
+2	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=1TIM_3.11
+3	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.11
+4	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.11
+5	yẹ	yẹ	X	_	_	0	_	_	Ref=1TIM_3.11
+6	fún	fún	X	_	_	0	_	_	Ref=1TIM_3.11
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.11
+8	obìnrin	obìnrin	X	_	_	0	_	_	Ref=1TIM_3.11
+9	láti	láti	X	_	_	0	_	_	Ref=1TIM_3.11
+10	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.11
+11	ìwá	ìwá	X	_	_	0	_	_	Ref=1TIM_3.11
+12	àgbà	àgbà	X	_	_	0	_	_	Ref=1TIM_3.11|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.11
+14	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.11
+15	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.11
+16	má	má	X	_	_	0	_	_	Ref=1TIM_3.11
+17	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.11
+18	asọ̀rọ̀	asọ̀rọ̀	X	_	_	0	_	_	Ref=1TIM_3.11|SpaceAfter=No
+19	-	-	PUNCT	_	_	0	punct	_	Ref=1TIM_3.11|SpaceAfter=No
+20	ẹni	ẹni	X	_	_	0	_	_	Ref=1TIM_3.11|SpaceAfter=No
+21	-	-	PUNCT	_	_	0	punct	_	Ref=1TIM_3.11|SpaceAfter=No
+22	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=1TIM_3.11
+23	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.11
+24	kò	kò	X	_	_	0	_	_	Ref=1TIM_3.11
+25	ṣe	ṣe	X	_	_	0	_	_	Ref=1TIM_3.11
+26	aláìrékọjá	aláìrékọjá	X	_	_	0	_	_	Ref=1TIM_3.11|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.11
+28	olóòótọ́	olóòótọ́	X	_	_	0	_	_	Ref=1TIM_3.11
+29	ní	ní	X	_	_	0	_	_	Ref=1TIM_3.11
+30	ohun	ohun	X	_	_	0	_	_	Ref=1TIM_3.11
+31	gbogbo	gbogbo	X	_	_	0	_	_	Ref=1TIM_3.11|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.11
+
+# sent_id = 1TIM_3.12
+# text = Kí àwọn díákónì jẹ́ ọkọ obìnrin kan, kí wọn káwọ́ àwọn ọmọ àti ilé ara wọn dáradára.
+1	Kí	kí	X	_	_	0	_	_	Ref=1TIM_3.12
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.12
+3	díákónì	díákónì	X	_	_	0	_	_	Ref=1TIM_3.12
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1TIM_3.12
+5	ọkọ	ọkọ	X	_	_	0	_	_	Ref=1TIM_3.12
+6	obìnrin	obìnrin	X	_	_	0	_	_	Ref=1TIM_3.12
+7	kan	kan	X	_	_	0	_	_	Ref=1TIM_3.12|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.12
+9	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.12
+10	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.12
+11	káwọ́	káwọ́	X	_	_	0	_	_	Ref=1TIM_3.12
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.12
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1TIM_3.12
+14	àti	àti	X	_	_	0	_	_	Ref=1TIM_3.12
+15	ilé	ilé	X	_	_	0	_	_	Ref=1TIM_3.12
+16	ara	ara	X	_	_	0	_	_	Ref=1TIM_3.12
+17	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.12
+18	dáradára	dáradára	X	_	_	0	_	_	Ref=1TIM_3.12|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.12
+
+# sent_id = 1TIM_3.13
+# text = Nítorí àwọn tí ó lo ipò díákónì dáradára ra ipò rere fún ara wọn, àti ìgboyà púpọ̀ nínú ìgbàgbọ́ tí ń bẹ nínú Kírísítì Jésù.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=1TIM_3.13
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.13
+3	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.13
+4	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.13
+5	lo	lo	X	_	_	0	_	_	Ref=1TIM_3.13
+6	ipò	ipò	X	_	_	0	_	_	Ref=1TIM_3.13
+7	díákónì	díákónì	X	_	_	0	_	_	Ref=1TIM_3.13
+8	dáradára	dáradára	X	_	_	0	_	_	Ref=1TIM_3.13
+9	ra	ra	X	_	_	0	_	_	Ref=1TIM_3.13
+10	ipò	ipò	X	_	_	0	_	_	Ref=1TIM_3.13
+11	rere	rere	X	_	_	0	_	_	Ref=1TIM_3.13
+12	fún	fún	X	_	_	0	_	_	Ref=1TIM_3.13
+13	ara	ara	X	_	_	0	_	_	Ref=1TIM_3.13
+14	wọn	wọn	X	_	_	0	_	_	Ref=1TIM_3.13|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.13
+16	àti	àti	X	_	_	0	_	_	Ref=1TIM_3.13
+17	ìgboyà	ìgboyà	X	_	_	0	_	_	Ref=1TIM_3.13
+18	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=1TIM_3.13
+19	nínú	nínú	X	_	_	0	_	_	Ref=1TIM_3.13
+20	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=1TIM_3.13
+21	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.13
+22	ń	ń	X	_	_	0	_	_	Ref=1TIM_3.13
+23	bẹ	bẹ	X	_	_	0	_	_	Ref=1TIM_3.13
+24	nínú	nínú	X	_	_	0	_	_	Ref=1TIM_3.13
+25	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=1TIM_3.13
+26	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=1TIM_3.13|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.13
+
+# sent_id = 1TIM_3.14
+# text = Ìwé nǹkan wọ̀nyí ni mo kọ sí ọ, mo sì ń réti àti tọ̀ ọ́ wá ní lọ́ọ́lọ́ọ́.
+1	Ìwé	ìwé	X	_	_	0	_	_	Ref=1TIM_3.14
+2	nǹkan	nǹkan	X	_	_	0	_	_	Ref=1TIM_3.14
+3	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1TIM_3.14
+4	ni	ni	X	_	_	0	_	_	Ref=1TIM_3.14
+5	mo	mo	X	_	_	0	_	_	Ref=1TIM_3.14
+6	kọ	kọ	X	_	_	0	_	_	Ref=1TIM_3.14
+7	sí	sí	X	_	_	0	_	_	Ref=1TIM_3.14
+8	ọ	ọ	X	_	_	0	_	_	Ref=1TIM_3.14|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.14
+10	mo	mo	X	_	_	0	_	_	Ref=1TIM_3.14
+11	sì	sì	X	_	_	0	_	_	Ref=1TIM_3.14
+12	ń	ń	X	_	_	0	_	_	Ref=1TIM_3.14
+13	réti	réti	X	_	_	0	_	_	Ref=1TIM_3.14
+14	àti	àti	X	_	_	0	_	_	Ref=1TIM_3.14
+15	tọ̀	tọ̀	X	_	_	0	_	_	Ref=1TIM_3.14
+16	ọ́	ọ́	X	_	_	0	_	_	Ref=1TIM_3.14
+17	wá	wá	X	_	_	0	_	_	Ref=1TIM_3.14
+18	ní	ní	X	_	_	0	_	_	Ref=1TIM_3.14
+19	lọ́ọ́lọ́ọ́	lọ́ọ́lọ́ọ́	X	_	_	0	_	_	Ref=1TIM_3.14|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.14
+
+# sent_id = 1TIM_3.15
+# text = Ṣùgbọ́n bí mo bá pẹ́, kí ìwọ lè mọ̀ bí ó ti yẹ fún àwọn ènìyàn láti máa hùwà nínú ilé Ọlọ́run, tì í ṣe ìjọ Ọlọ́run, alààyè, ọ̀wọ́n àti ìpìlẹ̀ òtítọ́.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=1TIM_3.15
+2	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.15
+3	mo	mo	X	_	_	0	_	_	Ref=1TIM_3.15
+4	bá	bá	X	_	_	0	_	_	Ref=1TIM_3.15
+5	pẹ́	pẹ́	X	_	_	0	_	_	Ref=1TIM_3.15|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.15
+7	kí	kí	X	_	_	0	_	_	Ref=1TIM_3.15
+8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=1TIM_3.15
+9	lè	lè	X	_	_	0	_	_	Ref=1TIM_3.15
+10	mọ̀	mọ̀	X	_	_	0	_	_	Ref=1TIM_3.15
+11	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.15
+12	ó	ó	X	_	_	0	_	_	Ref=1TIM_3.15
+13	ti	ti	X	_	_	0	_	_	Ref=1TIM_3.15
+14	yẹ	yẹ	X	_	_	0	_	_	Ref=1TIM_3.15
+15	fún	fún	X	_	_	0	_	_	Ref=1TIM_3.15
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.15
+17	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=1TIM_3.15
+18	láti	láti	X	_	_	0	_	_	Ref=1TIM_3.15
+19	máa	máa	X	_	_	0	_	_	Ref=1TIM_3.15
+20	hùwà	hùwà	X	_	_	0	_	_	Ref=1TIM_3.15
+21	nínú	nínú	X	_	_	0	_	_	Ref=1TIM_3.15
+22	ilé	ilé	X	_	_	0	_	_	Ref=1TIM_3.15
+23	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=1TIM_3.15|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.15
+25	tì	tì	X	_	_	0	_	_	Ref=1TIM_3.15
+26	í	í	X	_	_	0	_	_	Ref=1TIM_3.15
+27	ṣe	ṣe	X	_	_	0	_	_	Ref=1TIM_3.15
+28	ìjọ	ìjọ	X	_	_	0	_	_	Ref=1TIM_3.15
+29	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=1TIM_3.15|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.15
+31	alààyè	alààyè	X	_	_	0	_	_	Ref=1TIM_3.15|SpaceAfter=No
+32	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.15
+33	ọ̀wọ́n	ọ̀wọ́n	X	_	_	0	_	_	Ref=1TIM_3.15
+34	àti	àti	X	_	_	0	_	_	Ref=1TIM_3.15
+35	ìpìlẹ̀	ìpìlẹ̀	X	_	_	0	_	_	Ref=1TIM_3.15
+36	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=1TIM_3.15|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.15
+
+# sent_id = 1TIM_3.16
+# text = Láìṣiyè méjì, títóbi ní ohun ìjìnlẹ̀ ìwà-bí-Ọlọ́run: ẹni tí a fi hàn nínú ara, tí a dáláre nínú Ẹ̀mí, ti àwọn ańgẹ́lì rí, tí a wàásù rẹ̀ láàrin àwọn orílẹ̀-èdè, tí a gbàgbọ́ nínú ayé, tí a sì gbà sókè sínú ògo.
+1	Láìṣiyè	láìṣiyè	X	_	_	0	_	_	Ref=1TIM_3.16
+2	méjì	méjì	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+4	títóbi	títóbi	X	_	_	0	_	_	Ref=1TIM_3.16
+5	ní	ní	X	_	_	0	_	_	Ref=1TIM_3.16
+6	ohun	ohun	X	_	_	0	_	_	Ref=1TIM_3.16
+7	ìjìnlẹ̀	ìjìnlẹ̀	X	_	_	0	_	_	Ref=1TIM_3.16
+8	ìwà	ìwà	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16|SpaceAfter=No
+10	bí	bí	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16|SpaceAfter=No
+12	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+14	ẹni	ẹni	X	_	_	0	_	_	Ref=1TIM_3.16
+15	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.16
+16	a	a	X	_	_	0	_	_	Ref=1TIM_3.16
+17	fi	fi	X	_	_	0	_	_	Ref=1TIM_3.16
+18	hàn	hàn	X	_	_	0	_	_	Ref=1TIM_3.16
+19	nínú	nínú	X	_	_	0	_	_	Ref=1TIM_3.16
+20	ara	ara	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+22	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.16
+23	a	a	X	_	_	0	_	_	Ref=1TIM_3.16
+24	dáláre	dáláre	X	_	_	0	_	_	Ref=1TIM_3.16
+25	nínú	nínú	X	_	_	0	_	_	Ref=1TIM_3.16
+26	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+28	ti	ti	X	_	_	0	_	_	Ref=1TIM_3.16
+29	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.16
+30	ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=1TIM_3.16
+31	rí	rí	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+32	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+33	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.16
+34	a	a	X	_	_	0	_	_	Ref=1TIM_3.16
+35	wàásù	wàásù	X	_	_	0	_	_	Ref=1TIM_3.16
+36	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1TIM_3.16
+37	láàrin	láàrin	X	_	_	0	_	_	Ref=1TIM_3.16
+38	àwọn	àwọn	X	_	_	0	_	_	Ref=1TIM_3.16
+39	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+40	-	-	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16|SpaceAfter=No
+41	èdè	èdè	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+42	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+43	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.16
+44	a	a	X	_	_	0	_	_	Ref=1TIM_3.16
+45	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=1TIM_3.16
+46	nínú	nínú	X	_	_	0	_	_	Ref=1TIM_3.16
+47	ayé	ayé	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+48	,	,	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+49	tí	tí	X	_	_	0	_	_	Ref=1TIM_3.16
+50	a	a	X	_	_	0	_	_	Ref=1TIM_3.16
+51	sì	sì	X	_	_	0	_	_	Ref=1TIM_3.16
+52	gbà	gbà	X	_	_	0	_	_	Ref=1TIM_3.16
+53	sókè	sókè	X	_	_	0	_	_	Ref=1TIM_3.16
+54	sínú	sínú	X	_	_	0	_	_	Ref=1TIM_3.16
+55	ògo	ògo	X	_	_	0	_	_	Ref=1TIM_3.16|SpaceAfter=No
+56	.	.	PUNCT	_	_	0	punct	_	Ref=1TIM_3.16
+

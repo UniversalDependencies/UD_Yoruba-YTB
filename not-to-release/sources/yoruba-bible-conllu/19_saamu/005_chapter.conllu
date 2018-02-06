@@ -1,0 +1,335 @@
+# source = Bibeli Mimọ, Sáàmù, Chapter 5
+# newdoc id = PS_5
+# sent_id = PS_5.1
+# text = Fi etí sí ọ̀rọ̀ mi, Olúwa , kíyèsí àròyé mi.
+1	Fi	fi	X	_	_	0	_	_	Ref=PS_5.1
+2	etí	etí	X	_	_	0	_	_	Ref=PS_5.1
+3	sí	sí	X	_	_	0	_	_	Ref=PS_5.1
+4	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_5.1
+5	mi	mi	X	_	_	0	_	_	Ref=PS_5.1|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.1
+7	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_5.1
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.1
+9	kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=PS_5.1
+10	àròyé	àròyé	X	_	_	0	_	_	Ref=PS_5.1
+11	mi	mi	X	_	_	0	_	_	Ref=PS_5.1|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.1
+
+# sent_id = PS_5.2
+# text = Fi etí sílẹ̀ sí igbe mi fún ìrànlọ́wọ́, ọba mi àti Ọlọ́run mi, nítorí ìwọ ni mo gba àdúrà sí.
+1	Fi	fi	X	_	_	0	_	_	Ref=PS_5.2
+2	etí	etí	X	_	_	0	_	_	Ref=PS_5.2
+3	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=PS_5.2
+4	sí	sí	X	_	_	0	_	_	Ref=PS_5.2
+5	igbe	igbe	X	_	_	0	_	_	Ref=PS_5.2
+6	mi	mi	X	_	_	0	_	_	Ref=PS_5.2
+7	fún	fún	X	_	_	0	_	_	Ref=PS_5.2
+8	ìrànlọ́wọ́	ìrànlọ́wọ́	X	_	_	0	_	_	Ref=PS_5.2|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.2
+10	ọba	ọba	X	_	_	0	_	_	Ref=PS_5.2
+11	mi	mi	X	_	_	0	_	_	Ref=PS_5.2
+12	àti	àti	X	_	_	0	_	_	Ref=PS_5.2
+13	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_5.2
+14	mi	mi	X	_	_	0	_	_	Ref=PS_5.2|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.2
+16	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_5.2
+17	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_5.2
+18	ni	ni	X	_	_	0	_	_	Ref=PS_5.2
+19	mo	mo	X	_	_	0	_	_	Ref=PS_5.2
+20	gba	gba	X	_	_	0	_	_	Ref=PS_5.2
+21	àdúrà	àdúrà	X	_	_	0	_	_	Ref=PS_5.2
+22	sí	sí	X	_	_	0	_	_	Ref=PS_5.2|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.2
+
+# sent_id = PS_5.3
+# text = Ní òwúrọ̀, Olúwa , ìwọ yóò gbọ́ ohùn mi; ní òwúrọ̀ èmi yóò gbé ẹ̀bẹ̀ mi sí iwájú Rẹ̀ èmi yóò sì dúró ní ìrètí.
+1	Ní	ní	X	_	_	0	_	_	Ref=PS_5.3
+2	òwúrọ̀	òwúrọ̀	X	_	_	0	_	_	Ref=PS_5.3|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.3
+4	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_5.3
+5	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.3
+6	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_5.3
+7	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.3
+8	gbọ́	gbọ́	X	_	_	0	_	_	Ref=PS_5.3
+9	ohùn	ohùn	X	_	_	0	_	_	Ref=PS_5.3
+10	mi	mi	X	_	_	0	_	_	Ref=PS_5.3|SpaceAfter=No
+11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.3
+12	ní	ní	X	_	_	0	_	_	Ref=PS_5.3
+13	òwúrọ̀	òwúrọ̀	X	_	_	0	_	_	Ref=PS_5.3
+14	èmi	èmi	X	_	_	0	_	_	Ref=PS_5.3
+15	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.3
+16	gbé	gbé	X	_	_	0	_	_	Ref=PS_5.3
+17	ẹ̀bẹ̀	ẹ̀bẹ̀	X	_	_	0	_	_	Ref=PS_5.3
+18	mi	mi	X	_	_	0	_	_	Ref=PS_5.3
+19	sí	sí	X	_	_	0	_	_	Ref=PS_5.3
+20	iwájú	iwájú	X	_	_	0	_	_	Ref=PS_5.3
+21	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_5.3
+22	èmi	èmi	X	_	_	0	_	_	Ref=PS_5.3
+23	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.3
+24	sì	sì	X	_	_	0	_	_	Ref=PS_5.3
+25	dúró	dúró	X	_	_	0	_	_	Ref=PS_5.3
+26	ní	ní	X	_	_	0	_	_	Ref=PS_5.3
+27	ìrètí	ìrètí	X	_	_	0	_	_	Ref=PS_5.3|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.3
+
+# sent_id = PS_5.4
+# text = Nítorí ìwọ kì í ṣe Ọlọ́run tí ó ní inú dídùn sí búburú; bẹ́ẹ̀ ni ẹni ibi kò le è bá ọ gbé.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_5.4
+2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_5.4
+3	kì	kì	X	_	_	0	_	_	Ref=PS_5.4
+4	í	í	X	_	_	0	_	_	Ref=PS_5.4
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_5.4
+6	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_5.4
+7	tí	tí	X	_	_	0	_	_	Ref=PS_5.4
+8	ó	ó	X	_	_	0	_	_	Ref=PS_5.4
+9	ní	ní	X	_	_	0	_	_	Ref=PS_5.4
+10	inú	inú	X	_	_	0	_	_	Ref=PS_5.4
+11	dídùn	dídùn	X	_	_	0	_	_	Ref=PS_5.4
+12	sí	sí	X	_	_	0	_	_	Ref=PS_5.4
+13	búburú	búburú	X	_	_	0	_	_	Ref=PS_5.4|SpaceAfter=No
+14	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.4
+15	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=PS_5.4
+16	ni	ni	X	_	_	0	_	_	Ref=PS_5.4
+17	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_5.4
+18	ibi	ibi	X	_	_	0	_	_	Ref=PS_5.4
+19	kò	kò	X	_	_	0	_	_	Ref=PS_5.4
+20	le	le	X	_	_	0	_	_	Ref=PS_5.4
+21	è	è	X	_	_	0	_	_	Ref=PS_5.4
+22	bá	bá	X	_	_	0	_	_	Ref=PS_5.4
+23	ọ	ọ	X	_	_	0	_	_	Ref=PS_5.4
+24	gbé	gbé	X	_	_	0	_	_	Ref=PS_5.4|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.4
+
+# sent_id = PS_5.5
+# text = Àwọn agbéraga kò le è dúró níwájú Rẹ̀; ìwọ kóríra gbogbo àwọn aṣebi.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=PS_5.5
+2	agbéraga	agbéraga	X	_	_	0	_	_	Ref=PS_5.5
+3	kò	kò	X	_	_	0	_	_	Ref=PS_5.5
+4	le	le	X	_	_	0	_	_	Ref=PS_5.5
+5	è	è	X	_	_	0	_	_	Ref=PS_5.5
+6	dúró	dúró	X	_	_	0	_	_	Ref=PS_5.5
+7	níwájú	níwájú	X	_	_	0	_	_	Ref=PS_5.5
+8	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_5.5|SpaceAfter=No
+9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.5
+10	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_5.5
+11	kóríra	kóríra	X	_	_	0	_	_	Ref=PS_5.5
+12	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_5.5
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_5.5
+14	aṣebi	aṣebi	X	_	_	0	_	_	Ref=PS_5.5|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.5
+
+# sent_id = PS_5.6
+# text = Ìwọ yóò pa àwọn tí ń ṣe èké run; apani àti ẹni ẹ̀tàn ènìyàn ni Olúwa yóò kórìíra.
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_5.6
+2	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.6
+3	pa	pa	X	_	_	0	_	_	Ref=PS_5.6
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_5.6
+5	tí	tí	X	_	_	0	_	_	Ref=PS_5.6
+6	ń	ń	X	_	_	0	_	_	Ref=PS_5.6
+7	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_5.6
+8	èké	èké	X	_	_	0	_	_	Ref=PS_5.6
+9	run	run	X	_	_	0	_	_	Ref=PS_5.6|SpaceAfter=No
+10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.6
+11	apani	apani	X	_	_	0	_	_	Ref=PS_5.6
+12	àti	àti	X	_	_	0	_	_	Ref=PS_5.6
+13	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_5.6
+14	ẹ̀tàn	ẹ̀tàn	X	_	_	0	_	_	Ref=PS_5.6
+15	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_5.6
+16	ni	ni	X	_	_	0	_	_	Ref=PS_5.6
+17	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_5.6
+18	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.6
+19	kórìíra	kórìíra	X	_	_	0	_	_	Ref=PS_5.6|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.6
+
+# sent_id = PS_5.7
+# text = Ṣùgbọ́n èmi, nípa títóbi àánú Rẹ̀, èmi yóò wá sínú ilé Rẹ̀; ní tọ̀wọ̀tọ̀wọ̀ ni èmi yóò tẹríba sí ìhà tẹ́ḿpìlì mímọ́ Rẹ̀.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PS_5.7
+2	èmi	èmi	X	_	_	0	_	_	Ref=PS_5.7|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.7
+4	nípa	nípa	X	_	_	0	_	_	Ref=PS_5.7
+5	títóbi	títóbi	X	_	_	0	_	_	Ref=PS_5.7
+6	àánú	àánú	X	_	_	0	_	_	Ref=PS_5.7
+7	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_5.7|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.7
+9	èmi	èmi	X	_	_	0	_	_	Ref=PS_5.7
+10	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.7
+11	wá	wá	X	_	_	0	_	_	Ref=PS_5.7
+12	sínú	sínú	X	_	_	0	_	_	Ref=PS_5.7
+13	ilé	ilé	X	_	_	0	_	_	Ref=PS_5.7
+14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_5.7|SpaceAfter=No
+15	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.7
+16	ní	ní	X	_	_	0	_	_	Ref=PS_5.7
+17	tọ̀wọ̀tọ̀wọ̀	tọ̀wọ̀tọ̀wọ̀	X	_	_	0	_	_	Ref=PS_5.7
+18	ni	ni	X	_	_	0	_	_	Ref=PS_5.7
+19	èmi	èmi	X	_	_	0	_	_	Ref=PS_5.7
+20	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.7
+21	tẹríba	tẹríba	X	_	_	0	_	_	Ref=PS_5.7
+22	sí	sí	X	_	_	0	_	_	Ref=PS_5.7
+23	ìhà	ìhà	X	_	_	0	_	_	Ref=PS_5.7
+24	tẹ́ḿpìlì	tẹ́ḿpìlì	X	_	_	0	_	_	Ref=PS_5.7
+25	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PS_5.7
+26	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_5.7|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.7
+
+# sent_id = PS_5.8
+# text = Tọ́ mi, Olúwa , nínú òdodo Rẹ, nítorí àwọn ọ̀ta mi, mú ọ̀nà Rẹ tọ́ níwájú mi.
+1	Tọ́	tọ́	X	_	_	0	_	_	Ref=PS_5.8
+2	mi	mi	X	_	_	0	_	_	Ref=PS_5.8|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.8
+4	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_5.8
+5	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.8
+6	nínú	nínú	X	_	_	0	_	_	Ref=PS_5.8
+7	òdodo	òdodo	X	_	_	0	_	_	Ref=PS_5.8
+8	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_5.8|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.8
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_5.8
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_5.8
+12	ọ̀ta	ọ̀ta	X	_	_	0	_	_	Ref=PS_5.8
+13	mi	mi	X	_	_	0	_	_	Ref=PS_5.8|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.8
+15	mú	mú	X	_	_	0	_	_	Ref=PS_5.8
+16	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PS_5.8
+17	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_5.8
+18	tọ́	tọ́	X	_	_	0	_	_	Ref=PS_5.8
+19	níwájú	níwájú	X	_	_	0	_	_	Ref=PS_5.8
+20	mi	mi	X	_	_	0	_	_	Ref=PS_5.8|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.8
+
+# sent_id = PS_5.9
+# text = Kò sí ọ̀rọ̀ kan ní ẹnu wọn tí a lè gbàgbọ́; ọkàn wọn kún fún ìparun. ọ̀nà ọ̀fun wọn ni iṣà òkú tí ó sí sílẹ̀; pẹ̀lú ahọ́n wọn ni wọ́n ń sọ ẹ̀tàn.
+1	Kò	kò	X	_	_	0	_	_	Ref=PS_5.9
+2	sí	sí	X	_	_	0	_	_	Ref=PS_5.9
+3	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_5.9
+4	kan	kan	X	_	_	0	_	_	Ref=PS_5.9
+5	ní	ní	X	_	_	0	_	_	Ref=PS_5.9
+6	ẹnu	ẹnu	X	_	_	0	_	_	Ref=PS_5.9
+7	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.9
+8	tí	tí	X	_	_	0	_	_	Ref=PS_5.9
+9	a	a	X	_	_	0	_	_	Ref=PS_5.9
+10	lè	lè	X	_	_	0	_	_	Ref=PS_5.9
+11	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=PS_5.9|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.9
+13	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PS_5.9
+14	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.9
+15	kún	kún	X	_	_	0	_	_	Ref=PS_5.9
+16	fún	fún	X	_	_	0	_	_	Ref=PS_5.9
+17	ìparun	ìparun	X	_	_	0	_	_	Ref=PS_5.9|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.9
+19	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PS_5.9
+20	ọ̀fun	ọ̀fun	X	_	_	0	_	_	Ref=PS_5.9
+21	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.9
+22	ni	ni	X	_	_	0	_	_	Ref=PS_5.9
+23	iṣà	iṣà	X	_	_	0	_	_	Ref=PS_5.9
+24	òkú	òkú	X	_	_	0	_	_	Ref=PS_5.9
+25	tí	tí	X	_	_	0	_	_	Ref=PS_5.9
+26	ó	ó	X	_	_	0	_	_	Ref=PS_5.9
+27	sí	sí	X	_	_	0	_	_	Ref=PS_5.9
+28	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=PS_5.9|SpaceAfter=No
+29	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.9
+30	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_5.9
+31	ahọ́n	ahọ́n	X	_	_	0	_	_	Ref=PS_5.9
+32	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.9
+33	ni	ni	X	_	_	0	_	_	Ref=PS_5.9
+34	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_5.9
+35	ń	ń	X	_	_	0	_	_	Ref=PS_5.9
+36	sọ	sọ	X	_	_	0	_	_	Ref=PS_5.9
+37	ẹ̀tàn	ẹ̀tàn	X	_	_	0	_	_	Ref=PS_5.9|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.9
+
+# sent_id = PS_5.10
+# text = Dá wọn lẹ́bi Ọlọ́run! Jẹ́ kí rìkísí wọn jẹ́ ìṣubú wọn. Lé wọn jáde nítorí ọ̀pọ̀lọpọ̀ ẹ̀ṣẹ̀ wọn, nítorí wọ́n ti ṣọ̀tẹ̀ sí ọ.
+1	Dá	dá	X	_	_	0	_	_	Ref=PS_5.10
+2	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.10
+3	lẹ́bi	lẹ́bi	X	_	_	0	_	_	Ref=PS_5.10
+4	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_5.10|SpaceAfter=No
+5	!	!	PUNCT	_	_	0	punct	_	Ref=PS_5.10
+6	Jẹ́	jẹ́	X	_	_	0	_	_	Ref=PS_5.10
+7	kí	kí	X	_	_	0	_	_	Ref=PS_5.10
+8	rìkísí	rìkísí	X	_	_	0	_	_	Ref=PS_5.10
+9	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.10
+10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PS_5.10
+11	ìṣubú	ìṣubú	X	_	_	0	_	_	Ref=PS_5.10
+12	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.10|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.10
+14	Lé	lé	X	_	_	0	_	_	Ref=PS_5.10
+15	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.10
+16	jáde	jáde	X	_	_	0	_	_	Ref=PS_5.10
+17	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_5.10
+18	ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	X	_	_	0	_	_	Ref=PS_5.10
+19	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PS_5.10
+20	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.10|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.10
+22	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_5.10
+23	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_5.10
+24	ti	ti	X	_	_	0	_	_	Ref=PS_5.10
+25	ṣọ̀tẹ̀	ṣọ̀tẹ̀	X	_	_	0	_	_	Ref=PS_5.10
+26	sí	sí	X	_	_	0	_	_	Ref=PS_5.10
+27	ọ	ọ	X	_	_	0	_	_	Ref=PS_5.10|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.10
+
+# sent_id = PS_5.11
+# text = Ṣùgbọ́n jẹ́ kí gbogbo àwọn tí ó sádi ọ́ kí ó yọ̀; jẹ kí wọn máa kọrin fún ayọ̀ títí. Tan ààbò Rẹ sórí wọn, àti àwọn tí ó fẹ́ràn orúkọ Rẹ yóò máa yọ̀ nínú Rẹ.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PS_5.11
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PS_5.11
+3	kí	kí	X	_	_	0	_	_	Ref=PS_5.11
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_5.11
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_5.11
+6	tí	tí	X	_	_	0	_	_	Ref=PS_5.11
+7	ó	ó	X	_	_	0	_	_	Ref=PS_5.11
+8	sádi	sádi	X	_	_	0	_	_	Ref=PS_5.11
+9	ọ́	ọ́	X	_	_	0	_	_	Ref=PS_5.11
+10	kí	kí	X	_	_	0	_	_	Ref=PS_5.11
+11	ó	ó	X	_	_	0	_	_	Ref=PS_5.11
+12	yọ̀	yọ̀	X	_	_	0	_	_	Ref=PS_5.11|SpaceAfter=No
+13	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.11
+14	jẹ	jẹ	X	_	_	0	_	_	Ref=PS_5.11
+15	kí	kí	X	_	_	0	_	_	Ref=PS_5.11
+16	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.11
+17	máa	máa	X	_	_	0	_	_	Ref=PS_5.11
+18	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_5.11
+19	fún	fún	X	_	_	0	_	_	Ref=PS_5.11
+20	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PS_5.11
+21	títí	títí	X	_	_	0	_	_	Ref=PS_5.11|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.11
+23	Tan	tan	X	_	_	0	_	_	Ref=PS_5.11
+24	ààbò	ààbò	X	_	_	0	_	_	Ref=PS_5.11
+25	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_5.11
+26	sórí	sórí	X	_	_	0	_	_	Ref=PS_5.11
+27	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.11|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.11
+29	àti	àti	X	_	_	0	_	_	Ref=PS_5.11
+30	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_5.11
+31	tí	tí	X	_	_	0	_	_	Ref=PS_5.11
+32	ó	ó	X	_	_	0	_	_	Ref=PS_5.11
+33	fẹ́ràn	fẹ́ràn	X	_	_	0	_	_	Ref=PS_5.11
+34	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PS_5.11
+35	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_5.11
+36	yóò	yóò	X	_	_	0	_	_	Ref=PS_5.11
+37	máa	máa	X	_	_	0	_	_	Ref=PS_5.11
+38	yọ̀	yọ̀	X	_	_	0	_	_	Ref=PS_5.11
+39	nínú	nínú	X	_	_	0	_	_	Ref=PS_5.11
+40	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_5.11|SpaceAfter=No
+41	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.11
+
+# sent_id = PS_5.12
+# text = Dájúdájú, Olúwa , ìwọ bùkún olódodo; ìwọ fi ojú rere Rẹ yí wọn ká bí àṣà.
+1	Dájúdájú	dájúdájú	X	_	_	0	_	_	Ref=PS_5.12|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.12
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_5.12
+4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_5.12
+5	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_5.12
+6	bùkún	bùkún	X	_	_	0	_	_	Ref=PS_5.12
+7	olódodo	olódodo	X	_	_	0	_	_	Ref=PS_5.12|SpaceAfter=No
+8	;	;	PUNCT	_	_	0	punct	_	Ref=PS_5.12
+9	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_5.12
+10	fi	fi	X	_	_	0	_	_	Ref=PS_5.12
+11	ojú	ojú	X	_	_	0	_	_	Ref=PS_5.12
+12	rere	rere	X	_	_	0	_	_	Ref=PS_5.12
+13	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_5.12
+14	yí	yí	X	_	_	0	_	_	Ref=PS_5.12
+15	wọn	wọn	X	_	_	0	_	_	Ref=PS_5.12
+16	ká	ká	X	_	_	0	_	_	Ref=PS_5.12
+17	bí	bí	X	_	_	0	_	_	Ref=PS_5.12
+18	àṣà	àṣà	X	_	_	0	_	_	Ref=PS_5.12|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=PS_5.12
+

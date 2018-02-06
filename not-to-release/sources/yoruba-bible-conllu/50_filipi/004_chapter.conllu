@@ -1,0 +1,721 @@
+# source = Bibeli Mimọ, Fílípì, Chapter 4
+# newdoc id = PHIL_4
+# sent_id = PHIL_4.1
+# text = Nítorí náà ẹ̀yin ará mi olùfẹ́, ti mo sì ń ṣàfẹ́rí gidigidi, ayọ̀ àti adé mi, ẹ dúró ṣinṣin bẹ́ẹ̀ nínú Olúwa, ẹ̀yin olùfẹ́ mi.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PHIL_4.1
+2	náà	náà	X	_	_	0	_	_	Ref=PHIL_4.1
+3	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.1
+4	ará	ará	X	_	_	0	_	_	Ref=PHIL_4.1
+5	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.1
+6	olùfẹ́	olùfẹ́	X	_	_	0	_	_	Ref=PHIL_4.1|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.1
+8	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.1
+9	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.1
+10	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.1
+11	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.1
+12	ṣàfẹ́rí	ṣàfẹ́rí	X	_	_	0	_	_	Ref=PHIL_4.1
+13	gidigidi	gidigidi	X	_	_	0	_	_	Ref=PHIL_4.1|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.1
+15	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PHIL_4.1
+16	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.1
+17	adé	adé	X	_	_	0	_	_	Ref=PHIL_4.1
+18	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.1|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.1
+20	ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.1
+21	dúró	dúró	X	_	_	0	_	_	Ref=PHIL_4.1
+22	ṣinṣin	ṣinṣin	X	_	_	0	_	_	Ref=PHIL_4.1
+23	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=PHIL_4.1
+24	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.1
+25	Olúwa	olúwa	X	_	_	0	_	_	Ref=PHIL_4.1|SpaceAfter=No
+26	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.1
+27	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.1
+28	olùfẹ́	olùfẹ́	X	_	_	0	_	_	Ref=PHIL_4.1
+29	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.1|SpaceAfter=No
+30	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.1
+
+# sent_id = PHIL_4.2
+# text = Èmi ń bẹ̀ Éúódíà, mo sì ń bẹ Síńtíkè, kí wọn ní inú kan náà nínú Olúwa.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=PHIL_4.2
+2	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.2
+3	bẹ̀	bẹ̀	X	_	_	0	_	_	Ref=PHIL_4.2
+4	Éúódíà	Éúódíà	PROPN	_	_	0	_	_	Ref=PHIL_4.2|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.2
+6	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.2
+7	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.2
+8	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.2
+9	bẹ	bẹ	X	_	_	0	_	_	Ref=PHIL_4.2
+10	Síńtíkè	Síńtíkè	PROPN	_	_	0	_	_	Ref=PHIL_4.2|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.2
+12	kí	kí	X	_	_	0	_	_	Ref=PHIL_4.2
+13	wọn	wọn	X	_	_	0	_	_	Ref=PHIL_4.2
+14	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.2
+15	inú	inú	X	_	_	0	_	_	Ref=PHIL_4.2
+16	kan	kan	X	_	_	0	_	_	Ref=PHIL_4.2
+17	náà	náà	X	_	_	0	_	_	Ref=PHIL_4.2
+18	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.2
+19	Olúwa	olúwa	X	_	_	0	_	_	Ref=PHIL_4.2|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.2
+
+# sent_id = PHIL_4.3
+# text = Mo sì bẹ̀ ọ́ pẹ̀lú bí alájọrù àjàgà mi tòótọ́, ran àwọn obìnrin wọ̀nyí lọ́wọ́, nítorí wọn bá mi ṣiṣẹ́ pọ̀ ní ìfẹ̀gbẹ́-kẹ̀gbẹ́ nínú ìyìn rere, àti Kílẹ́mẹ́ńtì pẹ̀lú, àti àwọn olùbá-ṣiṣẹ́ mi yòókù pẹ̀lú, orúkọ àwọn tí ń bẹ nínú ìwé ìyè.
+1	Mo	mo	X	_	_	0	_	_	Ref=PHIL_4.3
+2	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.3
+3	bẹ̀	bẹ̀	X	_	_	0	_	_	Ref=PHIL_4.3
+4	ọ́	ọ́	X	_	_	0	_	_	Ref=PHIL_4.3
+5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.3
+6	bí	bí	X	_	_	0	_	_	Ref=PHIL_4.3
+7	alájọrù	alájọrù	X	_	_	0	_	_	Ref=PHIL_4.3
+8	àjàgà	àjàgà	X	_	_	0	_	_	Ref=PHIL_4.3
+9	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.3
+10	tòótọ́	tòótọ́	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3
+12	ran	ran	X	_	_	0	_	_	Ref=PHIL_4.3
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=PHIL_4.3
+14	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PHIL_4.3
+15	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=PHIL_4.3
+16	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3
+18	nítorí	nítorí	X	_	_	0	_	_	Ref=PHIL_4.3
+19	wọn	wọn	X	_	_	0	_	_	Ref=PHIL_4.3
+20	bá	bá	X	_	_	0	_	_	Ref=PHIL_4.3
+21	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.3
+22	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=PHIL_4.3
+23	pọ̀	pọ̀	X	_	_	0	_	_	Ref=PHIL_4.3
+24	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.3
+25	ìfẹ̀gbẹ́	ìfẹ̀gbẹ́	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+26	-	-	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3|SpaceAfter=No
+27	kẹ̀gbẹ́	kẹ̀gbẹ́	X	_	_	0	_	_	Ref=PHIL_4.3
+28	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.3
+29	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PHIL_4.3
+30	rere	rere	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3
+32	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.3
+33	Kílẹ́mẹ́ńtì	Kílẹ́mẹ́ńtì	PROPN	_	_	0	_	_	Ref=PHIL_4.3
+34	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+35	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3
+36	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.3
+37	àwọn	àwọn	X	_	_	0	_	_	Ref=PHIL_4.3
+38	olùbá	olùbá	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+39	-	-	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3|SpaceAfter=No
+40	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=PHIL_4.3
+41	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.3
+42	yòókù	yòókù	X	_	_	0	_	_	Ref=PHIL_4.3
+43	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+44	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3
+45	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PHIL_4.3
+46	àwọn	àwọn	X	_	_	0	_	_	Ref=PHIL_4.3
+47	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.3
+48	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.3
+49	bẹ	bẹ	X	_	_	0	_	_	Ref=PHIL_4.3
+50	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.3
+51	ìwé	ìwé	X	_	_	0	_	_	Ref=PHIL_4.3
+52	ìyè	ìyè	X	_	_	0	_	_	Ref=PHIL_4.3|SpaceAfter=No
+53	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.3
+
+# sent_id = PHIL_4.4
+# text = Ẹ máa yọ̀ nínú Olúwa nígbà gbogbo: mo sì tún wí pé. Ẹ máa yọ̀.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.4
+2	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.4
+3	yọ̀	yọ̀	X	_	_	0	_	_	Ref=PHIL_4.4
+4	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.4
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PHIL_4.4
+6	nígbà	nígbà	X	_	_	0	_	_	Ref=PHIL_4.4
+7	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.4|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=PHIL_4.4
+9	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.4
+10	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.4
+11	tún	tún	X	_	_	0	_	_	Ref=PHIL_4.4
+12	wí	wí	X	_	_	0	_	_	Ref=PHIL_4.4
+13	pé	pé	X	_	_	0	_	_	Ref=PHIL_4.4|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.4
+15	Ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.4
+16	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.4
+17	yọ̀	yọ̀	X	_	_	0	_	_	Ref=PHIL_4.4|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.4
+
+# sent_id = PHIL_4.5
+# text = Ẹ jẹ́ ki ìpamọ́ra yín di mímọ́ fún gbogbo ènìyàn, Olúwa ń bẹ nítòòsí.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.5
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PHIL_4.5
+3	ki	ki	X	_	_	0	_	_	Ref=PHIL_4.5
+4	ìpamọ́ra	ìpamọ́ra	X	_	_	0	_	_	Ref=PHIL_4.5
+5	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.5
+6	di	di	X	_	_	0	_	_	Ref=PHIL_4.5
+7	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PHIL_4.5
+8	fún	fún	X	_	_	0	_	_	Ref=PHIL_4.5
+9	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.5
+10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PHIL_4.5|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.5
+12	Olúwa	olúwa	X	_	_	0	_	_	Ref=PHIL_4.5
+13	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.5
+14	bẹ	bẹ	X	_	_	0	_	_	Ref=PHIL_4.5
+15	nítòòsí	nítòòsí	X	_	_	0	_	_	Ref=PHIL_4.5|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.5
+
+# sent_id = PHIL_4.6
+# text = Ẹ má ṣe ṣe àníyàn ohunkóhun; ṣùgbọ́n nínú ohun gbogbo, nípa àdúrà àti ẹ̀bẹ̀ pẹ̀lú ìdúpẹ́, ẹ máa fi ìbéèrè yín hàn fún Ọlọ́run.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.6
+2	má	má	X	_	_	0	_	_	Ref=PHIL_4.6
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.6
+4	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.6
+5	àníyàn	àníyàn	X	_	_	0	_	_	Ref=PHIL_4.6
+6	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.6|SpaceAfter=No
+7	;	;	PUNCT	_	_	0	punct	_	Ref=PHIL_4.6
+8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PHIL_4.6
+9	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.6
+10	ohun	ohun	X	_	_	0	_	_	Ref=PHIL_4.6
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.6|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.6
+13	nípa	nípa	X	_	_	0	_	_	Ref=PHIL_4.6
+14	àdúrà	àdúrà	X	_	_	0	_	_	Ref=PHIL_4.6
+15	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.6
+16	ẹ̀bẹ̀	ẹ̀bẹ̀	X	_	_	0	_	_	Ref=PHIL_4.6
+17	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.6
+18	ìdúpẹ́	ìdúpẹ́	X	_	_	0	_	_	Ref=PHIL_4.6|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.6
+20	ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.6
+21	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.6
+22	fi	fi	X	_	_	0	_	_	Ref=PHIL_4.6
+23	ìbéèrè	ìbéèrè	X	_	_	0	_	_	Ref=PHIL_4.6
+24	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.6
+25	hàn	hàn	X	_	_	0	_	_	Ref=PHIL_4.6
+26	fún	fún	X	_	_	0	_	_	Ref=PHIL_4.6
+27	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PHIL_4.6|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.6
+
+# sent_id = PHIL_4.7
+# text = Àti àlàáfíà Ọlọ́run, tí ó ju ìmòye gbogbo lọ, yóò pa ọkàn àti èrò yín máa nínú Kírísítì Jésù.
+1	Àti	àti	X	_	_	0	_	_	Ref=PHIL_4.7
+2	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PHIL_4.7
+3	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PHIL_4.7|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.7
+5	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.7
+6	ó	ó	X	_	_	0	_	_	Ref=PHIL_4.7
+7	ju	ju	X	_	_	0	_	_	Ref=PHIL_4.7
+8	ìmòye	ìmòye	X	_	_	0	_	_	Ref=PHIL_4.7
+9	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.7
+10	lọ	lọ	X	_	_	0	_	_	Ref=PHIL_4.7|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.7
+12	yóò	yóò	X	_	_	0	_	_	Ref=PHIL_4.7
+13	pa	pa	X	_	_	0	_	_	Ref=PHIL_4.7
+14	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PHIL_4.7
+15	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.7
+16	èrò	èrò	X	_	_	0	_	_	Ref=PHIL_4.7
+17	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.7
+18	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.7
+19	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.7
+20	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=PHIL_4.7
+21	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=PHIL_4.7|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.7
+
+# sent_id = PHIL_4.8
+# text = Ní àkótán, ará, ohunkóhun tí í ṣe òótọ́, ohunkóhun tí í ṣe ọ̀wọ̀, ohunkóhun tí í ṣe títọ́ ohunkóhun tí í ṣe mímọ́, ohunkóhun tí í ṣe fífẹ́, ohunkóhun tí ó ni ìròyìn rere, bí ìwà títọ́ kan bá wà, bí ìyìn kan bá sì wà, ẹ máa gba nǹkan wọ̀nyí rò.
+1	Ní	ní	X	_	_	0	_	_	Ref=PHIL_4.8
+2	àkótán	àkótán	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+4	ará	ará	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+6	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.8
+7	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.8
+8	í	í	X	_	_	0	_	_	Ref=PHIL_4.8
+9	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.8
+10	òótọ́	òótọ́	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+12	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.8
+13	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.8
+14	í	í	X	_	_	0	_	_	Ref=PHIL_4.8
+15	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.8
+16	ọ̀wọ̀	ọ̀wọ̀	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+18	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.8
+19	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.8
+20	í	í	X	_	_	0	_	_	Ref=PHIL_4.8
+21	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.8
+22	títọ́	títọ́	X	_	_	0	_	_	Ref=PHIL_4.8
+23	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.8
+24	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.8
+25	í	í	X	_	_	0	_	_	Ref=PHIL_4.8
+26	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.8
+27	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+29	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.8
+30	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.8
+31	í	í	X	_	_	0	_	_	Ref=PHIL_4.8
+32	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.8
+33	fífẹ́	fífẹ́	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+34	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+35	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.8
+36	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.8
+37	ó	ó	X	_	_	0	_	_	Ref=PHIL_4.8
+38	ni	ni	X	_	_	0	_	_	Ref=PHIL_4.8
+39	ìròyìn	ìròyìn	X	_	_	0	_	_	Ref=PHIL_4.8
+40	rere	rere	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+41	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+42	bí	bí	X	_	_	0	_	_	Ref=PHIL_4.8
+43	ìwà	ìwà	X	_	_	0	_	_	Ref=PHIL_4.8
+44	títọ́	títọ́	X	_	_	0	_	_	Ref=PHIL_4.8
+45	kan	kan	X	_	_	0	_	_	Ref=PHIL_4.8
+46	bá	bá	X	_	_	0	_	_	Ref=PHIL_4.8
+47	wà	wà	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+48	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+49	bí	bí	X	_	_	0	_	_	Ref=PHIL_4.8
+50	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PHIL_4.8
+51	kan	kan	X	_	_	0	_	_	Ref=PHIL_4.8
+52	bá	bá	X	_	_	0	_	_	Ref=PHIL_4.8
+53	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.8
+54	wà	wà	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+55	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+56	ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.8
+57	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.8
+58	gba	gba	X	_	_	0	_	_	Ref=PHIL_4.8
+59	nǹkan	nǹkan	X	_	_	0	_	_	Ref=PHIL_4.8
+60	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=PHIL_4.8
+61	rò	rò	X	_	_	0	_	_	Ref=PHIL_4.8|SpaceAfter=No
+62	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.8
+
+# sent_id = PHIL_4.9
+# text = Àwọn nǹkan tí ẹ̀yin ti kọ́, tí ẹ̀yin sì ti gbà, tí ẹ̀yin sì ti gbọ́, tí ẹ̀yin sì ti rí lọ́wọ́ mi, ẹ máa ṣe wọ́n: Ọlọ́run àlàáfíà yóò sì wà pẹ̀lú yín.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=PHIL_4.9
+2	nǹkan	nǹkan	X	_	_	0	_	_	Ref=PHIL_4.9
+3	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.9
+4	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.9
+5	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.9
+6	kọ́	kọ́	X	_	_	0	_	_	Ref=PHIL_4.9|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.9
+8	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.9
+9	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.9
+10	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.9
+11	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.9
+12	gbà	gbà	X	_	_	0	_	_	Ref=PHIL_4.9|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.9
+14	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.9
+15	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.9
+16	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.9
+17	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.9
+18	gbọ́	gbọ́	X	_	_	0	_	_	Ref=PHIL_4.9|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.9
+20	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.9
+21	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.9
+22	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.9
+23	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.9
+24	rí	rí	X	_	_	0	_	_	Ref=PHIL_4.9
+25	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PHIL_4.9
+26	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.9|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.9
+28	ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.9
+29	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.9
+30	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.9
+31	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PHIL_4.9|SpaceAfter=No
+32	:	:	PUNCT	_	_	0	punct	_	Ref=PHIL_4.9
+33	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PHIL_4.9
+34	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PHIL_4.9
+35	yóò	yóò	X	_	_	0	_	_	Ref=PHIL_4.9
+36	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.9
+37	wà	wà	X	_	_	0	_	_	Ref=PHIL_4.9
+38	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.9
+39	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.9|SpaceAfter=No
+40	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.9
+
+# sent_id = PHIL_4.10
+# text = Èmi yọ̀ gidigidi nínú Olúwa pé, níṣinṣinyìí, ẹ̀yin tún ti sọjí nínú àníyàn ọkàn yín sí mi, nítòótọ́ ọkàn yín ń fà mọ́ mi ṣùgbọ́n ẹ kò ní àǹfààní tó.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=PHIL_4.10
+2	yọ̀	yọ̀	X	_	_	0	_	_	Ref=PHIL_4.10
+3	gidigidi	gidigidi	X	_	_	0	_	_	Ref=PHIL_4.10
+4	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.10
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PHIL_4.10
+6	pé	pé	X	_	_	0	_	_	Ref=PHIL_4.10|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.10
+8	níṣinṣinyìí	níṣinṣinyìí	X	_	_	0	_	_	Ref=PHIL_4.10|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.10
+10	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.10
+11	tún	tún	X	_	_	0	_	_	Ref=PHIL_4.10
+12	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.10
+13	sọjí	sọjí	X	_	_	0	_	_	Ref=PHIL_4.10
+14	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.10
+15	àníyàn	àníyàn	X	_	_	0	_	_	Ref=PHIL_4.10
+16	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PHIL_4.10
+17	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.10
+18	sí	sí	X	_	_	0	_	_	Ref=PHIL_4.10
+19	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.10|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.10
+21	nítòótọ́	nítòótọ́	X	_	_	0	_	_	Ref=PHIL_4.10
+22	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PHIL_4.10
+23	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.10
+24	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.10
+25	fà	fà	X	_	_	0	_	_	Ref=PHIL_4.10
+26	mọ́	mọ́	X	_	_	0	_	_	Ref=PHIL_4.10
+27	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.10
+28	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PHIL_4.10
+29	ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.10
+30	kò	kò	X	_	_	0	_	_	Ref=PHIL_4.10
+31	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.10
+32	àǹfààní	àǹfààní	X	_	_	0	_	_	Ref=PHIL_4.10
+33	tó	tó	X	_	_	0	_	_	Ref=PHIL_4.10|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.10
+
+# sent_id = PHIL_4.11
+# text = Kì í ṣe pé èmi ń sọ nítorí àìní: nítorí pé ipòkípò tí mo bá wà, mo tí kọ́ láti ní ìtẹ́lọ́rùn nínú rẹ̀.
+1	Kì	kì	X	_	_	0	_	_	Ref=PHIL_4.11
+2	í	í	X	_	_	0	_	_	Ref=PHIL_4.11
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.11
+4	pé	pé	X	_	_	0	_	_	Ref=PHIL_4.11
+5	èmi	èmi	X	_	_	0	_	_	Ref=PHIL_4.11
+6	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.11
+7	sọ	sọ	X	_	_	0	_	_	Ref=PHIL_4.11
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=PHIL_4.11
+9	àìní	àìní	X	_	_	0	_	_	Ref=PHIL_4.11|SpaceAfter=No
+10	:	:	PUNCT	_	_	0	punct	_	Ref=PHIL_4.11
+11	nítorí	nítorí	X	_	_	0	_	_	Ref=PHIL_4.11
+12	pé	pé	X	_	_	0	_	_	Ref=PHIL_4.11
+13	ipòkípò	ipòkípò	X	_	_	0	_	_	Ref=PHIL_4.11
+14	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.11
+15	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.11
+16	bá	bá	X	_	_	0	_	_	Ref=PHIL_4.11
+17	wà	wà	X	_	_	0	_	_	Ref=PHIL_4.11|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.11
+19	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.11
+20	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.11
+21	kọ́	kọ́	X	_	_	0	_	_	Ref=PHIL_4.11
+22	láti	láti	X	_	_	0	_	_	Ref=PHIL_4.11
+23	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.11
+24	ìtẹ́lọ́rùn	ìtẹ́lọ́rùn	X	_	_	0	_	_	Ref=PHIL_4.11
+25	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.11
+26	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PHIL_4.11|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.11
+
+# sent_id = PHIL_4.12
+# text = Mo mọ̀ bí a ti ṣe ń rẹ ara sílẹ̀, mo sì mọ̀ bí a ti ń di púpọ̀: ni ohunkóhun àti ní ohun gbogbo mo ti kọ́ àṣírí láti máa jẹ́ àjẹyó àti láti wà ni àìjẹ, láti máa ni ànító àti láti ṣe aláìní.
+1	Mo	mo	X	_	_	0	_	_	Ref=PHIL_4.12
+2	mọ̀	mọ̀	X	_	_	0	_	_	Ref=PHIL_4.12
+3	bí	bí	X	_	_	0	_	_	Ref=PHIL_4.12
+4	a	a	X	_	_	0	_	_	Ref=PHIL_4.12
+5	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.12
+6	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.12
+7	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.12
+8	rẹ	rẹ	X	_	_	0	_	_	Ref=PHIL_4.12
+9	ara	ara	X	_	_	0	_	_	Ref=PHIL_4.12
+10	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=PHIL_4.12|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.12
+12	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.12
+13	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.12
+14	mọ̀	mọ̀	X	_	_	0	_	_	Ref=PHIL_4.12
+15	bí	bí	X	_	_	0	_	_	Ref=PHIL_4.12
+16	a	a	X	_	_	0	_	_	Ref=PHIL_4.12
+17	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.12
+18	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.12
+19	di	di	X	_	_	0	_	_	Ref=PHIL_4.12
+20	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PHIL_4.12|SpaceAfter=No
+21	:	:	PUNCT	_	_	0	punct	_	Ref=PHIL_4.12
+22	ni	ni	X	_	_	0	_	_	Ref=PHIL_4.12
+23	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=PHIL_4.12
+24	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.12
+25	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.12
+26	ohun	ohun	X	_	_	0	_	_	Ref=PHIL_4.12
+27	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.12
+28	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.12
+29	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.12
+30	kọ́	kọ́	X	_	_	0	_	_	Ref=PHIL_4.12
+31	àṣírí	àṣírí	X	_	_	0	_	_	Ref=PHIL_4.12
+32	láti	láti	X	_	_	0	_	_	Ref=PHIL_4.12
+33	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.12
+34	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PHIL_4.12
+35	àjẹyó	àjẹyó	X	_	_	0	_	_	Ref=PHIL_4.12
+36	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.12
+37	láti	láti	X	_	_	0	_	_	Ref=PHIL_4.12
+38	wà	wà	X	_	_	0	_	_	Ref=PHIL_4.12
+39	ni	ni	X	_	_	0	_	_	Ref=PHIL_4.12
+40	àìjẹ	àìjẹ	X	_	_	0	_	_	Ref=PHIL_4.12|SpaceAfter=No
+41	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.12
+42	láti	láti	X	_	_	0	_	_	Ref=PHIL_4.12
+43	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.12
+44	ni	ni	X	_	_	0	_	_	Ref=PHIL_4.12
+45	ànító	ànító	X	_	_	0	_	_	Ref=PHIL_4.12
+46	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.12
+47	láti	láti	X	_	_	0	_	_	Ref=PHIL_4.12
+48	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.12
+49	aláìní	aláìní	X	_	_	0	_	_	Ref=PHIL_4.12|SpaceAfter=No
+50	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.12
+
+# sent_id = PHIL_4.13
+# text = Èmi le ṣe ohun gbogbo nínú Kírísítì ẹni ti ń fi agbára fún mi
+1	Èmi	èmi	X	_	_	0	_	_	Ref=PHIL_4.13
+2	le	le	X	_	_	0	_	_	Ref=PHIL_4.13
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.13
+4	ohun	ohun	X	_	_	0	_	_	Ref=PHIL_4.13
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.13
+6	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.13
+7	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=PHIL_4.13
+8	ẹni	ẹni	X	_	_	0	_	_	Ref=PHIL_4.13
+9	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.13
+10	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.13
+11	fi	fi	X	_	_	0	_	_	Ref=PHIL_4.13
+12	agbára	agbára	X	_	_	0	_	_	Ref=PHIL_4.13
+13	fún	fún	X	_	_	0	_	_	Ref=PHIL_4.13
+14	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.13
+
+# sent_id = PHIL_4.14
+# text = Ṣùgbọ́n ẹ̀yin ṣeun gidigidi ní ti pé ẹ̀yin ṣe alábàápín nínú ìpọ́njú mi.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PHIL_4.14
+2	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.14
+3	ṣeun	ṣeun	X	_	_	0	_	_	Ref=PHIL_4.14
+4	gidigidi	gidigidi	X	_	_	0	_	_	Ref=PHIL_4.14
+5	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.14
+6	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.14
+7	pé	pé	X	_	_	0	_	_	Ref=PHIL_4.14
+8	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.14
+9	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.14
+10	alábàápín	alábàápín	X	_	_	0	_	_	Ref=PHIL_4.14
+11	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.14
+12	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=PHIL_4.14
+13	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.14|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.14
+
+# sent_id = PHIL_4.15
+# text = Ẹ̀yin pàápàá sì mọ̀ pẹ̀lú, ẹ̀yin ará Fílípì, pé ni ìbẹ̀rẹ̀ ìyìn rere, nígbà tí mo kúrò ni Makedóníà, kò sí Ìjọ kan ti ó bá mi ń ṣe alábàápín ní ti gbígbà àti fífúnni, bí kò ṣe ẹ̀yin nìkan ṣoṣo.
+1	Ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.15
+2	pàápàá	pàápàá	X	_	_	0	_	_	Ref=PHIL_4.15
+3	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.15
+4	mọ̀	mọ̀	X	_	_	0	_	_	Ref=PHIL_4.15
+5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.15|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.15
+7	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.15
+8	ará	ará	X	_	_	0	_	_	Ref=PHIL_4.15
+9	Fílípì	fílípì	X	_	_	0	_	_	Ref=PHIL_4.15|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.15
+11	pé	pé	X	_	_	0	_	_	Ref=PHIL_4.15
+12	ni	ni	X	_	_	0	_	_	Ref=PHIL_4.15
+13	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	X	_	_	0	_	_	Ref=PHIL_4.15
+14	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PHIL_4.15
+15	rere	rere	X	_	_	0	_	_	Ref=PHIL_4.15|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.15
+17	nígbà	nígbà	X	_	_	0	_	_	Ref=PHIL_4.15
+18	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.15
+19	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.15
+20	kúrò	kúrò	X	_	_	0	_	_	Ref=PHIL_4.15
+21	ni	ni	X	_	_	0	_	_	Ref=PHIL_4.15
+22	Makedóníà	Makedóníà	PROPN	_	_	0	_	_	Ref=PHIL_4.15|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.15
+24	kò	kò	X	_	_	0	_	_	Ref=PHIL_4.15
+25	sí	sí	X	_	_	0	_	_	Ref=PHIL_4.15
+26	Ìjọ	ìjọ	X	_	_	0	_	_	Ref=PHIL_4.15
+27	kan	kan	X	_	_	0	_	_	Ref=PHIL_4.15
+28	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.15
+29	ó	ó	X	_	_	0	_	_	Ref=PHIL_4.15
+30	bá	bá	X	_	_	0	_	_	Ref=PHIL_4.15
+31	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.15
+32	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.15
+33	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.15
+34	alábàápín	alábàápín	X	_	_	0	_	_	Ref=PHIL_4.15
+35	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.15
+36	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.15
+37	gbígbà	gbígbà	X	_	_	0	_	_	Ref=PHIL_4.15
+38	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.15
+39	fífúnni	fífúnni	X	_	_	0	_	_	Ref=PHIL_4.15|SpaceAfter=No
+40	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.15
+41	bí	bí	X	_	_	0	_	_	Ref=PHIL_4.15
+42	kò	kò	X	_	_	0	_	_	Ref=PHIL_4.15
+43	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.15
+44	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.15
+45	nìkan	nìkan	X	_	_	0	_	_	Ref=PHIL_4.15
+46	ṣoṣo	ṣoṣo	X	_	_	0	_	_	Ref=PHIL_4.15|SpaceAfter=No
+47	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.15
+
+# sent_id = PHIL_4.16
+# text = Nítorí ní Tẹsalóníkà ẹ̀yin fi nǹkan ránṣẹ́, lẹ́ẹ̀kan fún àìní mi.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PHIL_4.16
+2	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.16
+3	Tẹsalóníkà	Tẹsalóníkà	PROPN	_	_	0	_	_	Ref=PHIL_4.16
+4	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PHIL_4.16
+5	fi	fi	X	_	_	0	_	_	Ref=PHIL_4.16
+6	nǹkan	nǹkan	X	_	_	0	_	_	Ref=PHIL_4.16
+7	ránṣẹ́	ránṣẹ́	X	_	_	0	_	_	Ref=PHIL_4.16|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.16
+9	lẹ́ẹ̀kan	lẹ́ẹ̀kan	X	_	_	0	_	_	Ref=PHIL_4.16
+10	fún	fún	X	_	_	0	_	_	Ref=PHIL_4.16
+11	àìní	àìní	X	_	_	0	_	_	Ref=PHIL_4.16
+12	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.16|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.16
+
+# sent_id = PHIL_4.17
+# text = Kì í ṣe nítorí ti èmi ń fẹ́ ẹ̀bùn náà: ṣùgbọ́n èmi ń fẹ́ èso ti yóò máa di púpọ̀ nítorí yín
+1	Kì	kì	X	_	_	0	_	_	Ref=PHIL_4.17
+2	í	í	X	_	_	0	_	_	Ref=PHIL_4.17
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.17
+4	nítorí	nítorí	X	_	_	0	_	_	Ref=PHIL_4.17
+5	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.17
+6	èmi	èmi	X	_	_	0	_	_	Ref=PHIL_4.17
+7	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.17
+8	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PHIL_4.17
+9	ẹ̀bùn	ẹ̀bùn	X	_	_	0	_	_	Ref=PHIL_4.17
+10	náà	náà	X	_	_	0	_	_	Ref=PHIL_4.17|SpaceAfter=No
+11	:	:	PUNCT	_	_	0	punct	_	Ref=PHIL_4.17
+12	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PHIL_4.17
+13	èmi	èmi	X	_	_	0	_	_	Ref=PHIL_4.17
+14	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.17
+15	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PHIL_4.17
+16	èso	èso	X	_	_	0	_	_	Ref=PHIL_4.17
+17	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.17
+18	yóò	yóò	X	_	_	0	_	_	Ref=PHIL_4.17
+19	máa	máa	X	_	_	0	_	_	Ref=PHIL_4.17
+20	di	di	X	_	_	0	_	_	Ref=PHIL_4.17
+21	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PHIL_4.17
+22	nítorí	nítorí	X	_	_	0	_	_	Ref=PHIL_4.17
+23	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.17
+
+# sent_id = PHIL_4.18
+# text = Ṣùgbọ́n mo ní ohun gbogbo, mo sì ti di púpọ̀: mo sì kún nígbà ti mo tí gba nǹkan wọ̀nyí lọ́wọ́ Ẹ́páfíródítù tí a ti rán wá lọ́dọ̀ yín, ọrẹ olóòórún dídùn, ẹbọ ìtẹ́wọ́gbà, tì í ṣe inú dídùn gidigidi sí Ọlọ́run.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PHIL_4.18
+2	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.18
+3	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.18
+4	ohun	ohun	X	_	_	0	_	_	Ref=PHIL_4.18
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.18|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.18
+7	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.18
+8	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.18
+9	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.18
+10	di	di	X	_	_	0	_	_	Ref=PHIL_4.18
+11	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PHIL_4.18|SpaceAfter=No
+12	:	:	PUNCT	_	_	0	punct	_	Ref=PHIL_4.18
+13	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.18
+14	sì	sì	X	_	_	0	_	_	Ref=PHIL_4.18
+15	kún	kún	X	_	_	0	_	_	Ref=PHIL_4.18
+16	nígbà	nígbà	X	_	_	0	_	_	Ref=PHIL_4.18
+17	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.18
+18	mo	mo	X	_	_	0	_	_	Ref=PHIL_4.18
+19	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.18
+20	gba	gba	X	_	_	0	_	_	Ref=PHIL_4.18
+21	nǹkan	nǹkan	X	_	_	0	_	_	Ref=PHIL_4.18
+22	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=PHIL_4.18
+23	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PHIL_4.18
+24	Ẹ́páfíródítù	Ẹ́páfíródítù	PROPN	_	_	0	_	_	Ref=PHIL_4.18
+25	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.18
+26	a	a	X	_	_	0	_	_	Ref=PHIL_4.18
+27	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.18
+28	rán	rán	X	_	_	0	_	_	Ref=PHIL_4.18
+29	wá	wá	X	_	_	0	_	_	Ref=PHIL_4.18
+30	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=PHIL_4.18
+31	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.18|SpaceAfter=No
+32	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.18
+33	ọrẹ	ọrẹ	X	_	_	0	_	_	Ref=PHIL_4.18
+34	olóòórún	olóòórún	X	_	_	0	_	_	Ref=PHIL_4.18
+35	dídùn	dídùn	X	_	_	0	_	_	Ref=PHIL_4.18|SpaceAfter=No
+36	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.18
+37	ẹbọ	ẹbọ	X	_	_	0	_	_	Ref=PHIL_4.18
+38	ìtẹ́wọ́gbà	ìtẹ́wọ́gbà	X	_	_	0	_	_	Ref=PHIL_4.18|SpaceAfter=No
+39	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.18
+40	tì	tì	X	_	_	0	_	_	Ref=PHIL_4.18
+41	í	í	X	_	_	0	_	_	Ref=PHIL_4.18
+42	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.18
+43	inú	inú	X	_	_	0	_	_	Ref=PHIL_4.18
+44	dídùn	dídùn	X	_	_	0	_	_	Ref=PHIL_4.18
+45	gidigidi	gidigidi	X	_	_	0	_	_	Ref=PHIL_4.18
+46	sí	sí	X	_	_	0	_	_	Ref=PHIL_4.18
+47	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PHIL_4.18|SpaceAfter=No
+48	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.18
+
+# sent_id = PHIL_4.19
+# text = Ṣùgbọ́n Ọlọ́run mi yóò pèsè ní kíkún fún gbogbo àìní yín, gẹ́gẹ́ bí ọ̀rọ̀ rẹ̀ nínú ògo nínú Kírísítì Jésù.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PHIL_4.19
+2	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PHIL_4.19
+3	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.19
+4	yóò	yóò	X	_	_	0	_	_	Ref=PHIL_4.19
+5	pèsè	pèsè	X	_	_	0	_	_	Ref=PHIL_4.19
+6	ní	ní	X	_	_	0	_	_	Ref=PHIL_4.19
+7	kíkún	kíkún	X	_	_	0	_	_	Ref=PHIL_4.19
+8	fún	fún	X	_	_	0	_	_	Ref=PHIL_4.19
+9	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.19
+10	àìní	àìní	X	_	_	0	_	_	Ref=PHIL_4.19
+11	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.19|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.19
+13	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=PHIL_4.19
+14	bí	bí	X	_	_	0	_	_	Ref=PHIL_4.19
+15	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PHIL_4.19
+16	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PHIL_4.19
+17	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.19
+18	ògo	ògo	X	_	_	0	_	_	Ref=PHIL_4.19
+19	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.19
+20	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=PHIL_4.19
+21	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=PHIL_4.19|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.19
+
+# sent_id = PHIL_4.20
+# text = Ṣùgbọ́n ògo ni fún Ọlọ́run àti Baba wa láé àti láéláé. Àmín.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PHIL_4.20
+2	ògo	ògo	X	_	_	0	_	_	Ref=PHIL_4.20
+3	ni	ni	X	_	_	0	_	_	Ref=PHIL_4.20
+4	fún	fún	X	_	_	0	_	_	Ref=PHIL_4.20
+5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PHIL_4.20
+6	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.20
+7	Baba	baba	X	_	_	0	_	_	Ref=PHIL_4.20
+8	wa	wa	X	_	_	0	_	_	Ref=PHIL_4.20
+9	láé	láé	X	_	_	0	_	_	Ref=PHIL_4.20
+10	àti	àti	X	_	_	0	_	_	Ref=PHIL_4.20
+11	láéláé	láéláé	X	_	_	0	_	_	Ref=PHIL_4.20|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.20
+13	Àmín	Àmín	PROPN	_	_	0	_	_	Ref=PHIL_4.20|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.20
+
+# sent_id = PHIL_4.21
+# text = Ẹ kí olukùlùkù ènìyàn-mímọ́ nínú Kírísítì Jésù. Àwọn ará tí ó wà pẹ̀lú mi kí yín.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PHIL_4.21
+2	kí	kí	X	_	_	0	_	_	Ref=PHIL_4.21
+3	olukùlùkù	olukùlùkù	X	_	_	0	_	_	Ref=PHIL_4.21
+4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PHIL_4.21|SpaceAfter=No
+5	-	-	PUNCT	_	_	0	punct	_	Ref=PHIL_4.21|SpaceAfter=No
+6	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PHIL_4.21
+7	nínú	nínú	X	_	_	0	_	_	Ref=PHIL_4.21
+8	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=PHIL_4.21
+9	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=PHIL_4.21|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.21
+11	Àwọn	àwọn	X	_	_	0	_	_	Ref=PHIL_4.21
+12	ará	ará	X	_	_	0	_	_	Ref=PHIL_4.21
+13	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.21
+14	ó	ó	X	_	_	0	_	_	Ref=PHIL_4.21
+15	wà	wà	X	_	_	0	_	_	Ref=PHIL_4.21
+16	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.21
+17	mi	mi	X	_	_	0	_	_	Ref=PHIL_4.21
+18	kí	kí	X	_	_	0	_	_	Ref=PHIL_4.21
+19	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.21|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.21
+
+# sent_id = PHIL_4.22
+# text = Gbogbo àwọn ènìyàn-mímọ́ kí yín, pàápàá àwọn tí ń ṣe ti agbo ilé Késárì.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=PHIL_4.22
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=PHIL_4.22
+3	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PHIL_4.22|SpaceAfter=No
+4	-	-	PUNCT	_	_	0	punct	_	Ref=PHIL_4.22|SpaceAfter=No
+5	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PHIL_4.22
+6	kí	kí	X	_	_	0	_	_	Ref=PHIL_4.22
+7	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.22|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.22
+9	pàápàá	pàápàá	X	_	_	0	_	_	Ref=PHIL_4.22
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=PHIL_4.22
+11	tí	tí	X	_	_	0	_	_	Ref=PHIL_4.22
+12	ń	ń	X	_	_	0	_	_	Ref=PHIL_4.22
+13	ṣe	ṣe	X	_	_	0	_	_	Ref=PHIL_4.22
+14	ti	ti	X	_	_	0	_	_	Ref=PHIL_4.22
+15	agbo	agbo	X	_	_	0	_	_	Ref=PHIL_4.22
+16	ilé	ilé	X	_	_	0	_	_	Ref=PHIL_4.22
+17	Késárì	Késárì	PROPN	_	_	0	_	_	Ref=PHIL_4.22|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.22
+
+# sent_id = PHIL_4.23
+# text = Oore-ọ̀fẹ́ Jésù Kírísítì Olúwa wa, kí ó wà pẹ̀lú ẹ̀mí yín. Àmín.
+1	Oore	oore	X	_	_	0	_	_	Ref=PHIL_4.23|SpaceAfter=No
+2	-	-	PUNCT	_	_	0	punct	_	Ref=PHIL_4.23|SpaceAfter=No
+3	ọ̀fẹ́	ọ̀fẹ́	X	_	_	0	_	_	Ref=PHIL_4.23
+4	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=PHIL_4.23
+5	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=PHIL_4.23
+6	Olúwa	olúwa	X	_	_	0	_	_	Ref=PHIL_4.23
+7	wa	wa	X	_	_	0	_	_	Ref=PHIL_4.23|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PHIL_4.23
+9	kí	kí	X	_	_	0	_	_	Ref=PHIL_4.23
+10	ó	ó	X	_	_	0	_	_	Ref=PHIL_4.23
+11	wà	wà	X	_	_	0	_	_	Ref=PHIL_4.23
+12	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PHIL_4.23
+13	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=PHIL_4.23
+14	yín	yín	X	_	_	0	_	_	Ref=PHIL_4.23|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.23
+16	Àmín	Àmín	PROPN	_	_	0	_	_	Ref=PHIL_4.23|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PHIL_4.23
+
