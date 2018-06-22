@@ -25,7 +25,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Williams, Seyi; Zeman, Daniel
+Contributors: Olúòkun, Adédayọ̀; Zeman, Daniel; Williams, Seyi
 Contributing: here
 Contact: git2go100@gmail.com
 ===============================================================================
