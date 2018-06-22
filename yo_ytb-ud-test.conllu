@@ -884,7 +884,7 @@
 31	,	,	PUNCT	_	_	35	punct	_	,
 32	Òun	Òun	PRON	_	_	34	nsubj	_	he
 33	náà	náà	ADV	_	_	32	advmod	_	the
-34	ni	ni	AUX	_	_	35	conj	_	is
+34	ni	ni	AUX	_	_	35	cop	_	is
 35	olè	olè	NOUN	_	_	27	xcomp	_	thief
 36	àti	àti	CCONJ	_	_	37	cc	_	and
 37	ọlọ́sà	ọlọ́sà	NOUN	_	_	35	conj	_	robbers
@@ -1132,7 +1132,6 @@
 11	wọ̀nyí	wọ̀nyí	DET	_	_	10	det	_	these
 12	.	.	PUNCT	_	_	8	punct	_	.
 
-
 # sent_id = JOHN_10.2
 # text = Ṣùgbọ́n ẹni tí ó bá ti ẹnu-ọ̀nà wọlé, Òun ni olùṣọ́ àwọn àgùntàn.
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	10	cc	_	but
@@ -1242,3 +1241,4 @@
 9	ìloro	ìloro	NOUN	_	_	10	nmod	_	threshold
 10	Sólómónì	Sólómónì	PROPN	_	_	4	iobj	_	solomon
 11	,	,	PUNCT	_	_	4	punct	_	,
+
