@@ -27,6 +27,6 @@ Features: manual native
 Relations: manual native
 Contributors: Olúòkun, Adédayọ̀; Zeman, Daniel; Williams, Seyi
 Contributing: here
-Contact: git2go100@gmail.com
+Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
 </pre>
