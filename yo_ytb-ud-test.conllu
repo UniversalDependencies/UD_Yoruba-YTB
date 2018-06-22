@@ -16,7 +16,6 @@
 10	ayé	ayé	NOUN	_	_	8	conj	_	earth
 11	.	.	PUNCT	_	_	6	punct	_	.
 
-
 # sent_id = 2
 # text_yor =  ayé sì wà ní rúdurùdu , ó sì ṣófo , òkùnkùn sì wà lójú ibú omi , ẹ̀mí ọlọ́run sì ń rá bà bà lójú omi gbogbo .
 # text_en =  and the earth was without form , and void ; and darkness was upon the face of the deep . and the spirit of god moved upon the face of the waters .
@@ -132,27 +131,27 @@
 1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	god
 2	sì	sì	CCONJ	_	_	3	cc	_	and
 3	wí	wí	VERB	_	_	0	root	_	said
-4	pé	pé	SCONJ	_	_	11	mark	_	saying
-5	“	“	PUNCT	_	_	8	punct	_	“
-6	jẹ́	jẹ́	AUX	_	_	11	aux	_	be
-7	kí	kí	AUX	_	_	11	aux	_	let
-8	òfuurufú	òfuurufú	NOUN	_	_	11	nsubj	_	firmament
-9	kí	kí	AUX	_	_	11	aux	_	let
-10	ó	ó	PRON	_	_	11	nsubj	_	he
-11	wà	wà	VERB	_	_	8	acl	_	was
-12	ní	ní	ADP	_	_	13	case	_	in
+4	pé	pé	SCONJ	_	_	15	mark	_	saying
+5	“	“	PUNCT	_	_	15	punct	_	“
+6	jẹ́	jẹ́	AUX	_	_	15	aux	_	be
+7	kí	kí	AUX	_	_	15	aux	_	let
+8	òfuurufú	òfuurufú	NOUN	_	_	15	nsubj	_	firmament
+9	kí	kí	AUX	_	_	15	aux	_	let
+10	ó	ó	PRON	_	_	15	expl	_	he
+11	wà	wà	VERB	_	_	15	cop	_	was
+12	ní	ní	ADP	_	_	15	case	_	in
 13	àárin	àárin	ADP	_	_	15	case	_	midst
 14	àwọn	àwọn	DET	_	_	15	det	_	the
-15	omi	omi	NOUN	_	_	11	obj	_	water
-16	láti	láti	ADP	_	_	17	case	_	to
-17	pààlà	pààlà	VERB	_	_	11	csubj	_	divide
-18	sí	sí	ADP	_	_	19	case	_	to
+15	omi	omi	NOUN	_	_	3	ccomp	_	water
+16	láti	láti	ADP	_	_	17	mark	_	to
+17	pààlà	pààlà	VERB	_	_	15	advcl	_	divide
+18	sí	sí	ADP	_	_	22	case	_	to
 19	àárin	àárin	ADP	_	_	22	case	_	midst
 20	à	à	SCONJ	_	_	21	goeswith	_	the
 21	wọn	wọn	PRON	_	_	22	det	_	them
 22	omi	omi	NOUN	_	_	17	obl	_	water
-23	.	.	PUNCT	_	_	3	punct	_	.
-24	”	”	PUNCT	_	_	3	punct	_	.
+23	.	.	PUNCT	_	_	15	punct	_	.
+24	”	”	PUNCT	_	_	15	punct	_	.
 
 # sent_id = 7
 # text_yor =  ọlọ́run sì dá òfuurufú láti ya omi tí ó wà ní òkè òfuurufú kúrò lára omi tí ó wà ní orí ilẹ̀ . ó sì rí bẹ́ẹ̀ .
