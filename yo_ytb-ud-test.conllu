@@ -5,7 +5,7 @@
 # text_en =  in the beginning god created the heaven and the earth .
 # text = ní ìbẹ̀rẹ̀ ohun gbogbo ọlọ́run dá àwọn ọ̀run àti ayé.
 1	ní	ní	ADP	_	_	2	case	_	in
-2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	3	dep	_	beginning
+2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	beginning
 3	ohun	ohun	PRON	_	_	5	nmod	_	things
 4	gbogbo	gbogbo	DET	_	_	5	det	_	all
 5	ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	god
@@ -15,6 +15,7 @@
 9	àti	àti	CCONJ	_	_	10	cc	_	and
 10	ayé	ayé	NOUN	_	_	8	conj	_	earth
 11	.	.	PUNCT	_	_	6	punct	_	.
+
 
 # sent_id = 2
 # text_yor =  ayé sì wà ní rúdurùdu , ó sì ṣófo , òkùnkùn sì wà lójú ibú omi , ẹ̀mí ọlọ́run sì ń rá bà bà lójú omi gbogbo .
@@ -223,22 +224,22 @@
 9	omi	omi	NOUN	_	_	12	nsubj	_	water
 10	abẹ́	abẹ́	ADP	_	_	11	case	_	under
 11	ọ̀run	ọ̀run	NOUN	_	_	9	nmod	_	heaven
-12	wọ́	wọ́	VERB	_	_	3	xcomp	_	confess
-13	papọ̀	papọ̀	VERB	_	_	12	goeswith	_	together
+12	wọ́	wọ́	VERB	_	_	3	ccomp	_	confess
+13	papọ̀	papọ̀	VERB	_	_	12	compound:svc	_	together
 14	sí	sí	ADP	_	_	15	case	_	to
-15	ojúkan	ojúkan	NOUN	_	_	12	obj	_	null
+15	ojúkan	ojúkan	NOUN	_	_	12	obl	_	null
 16	,	,	PUNCT	_	_	18	punct	_	,
 17	kí	kí	SCONJ	_	_	18	case	_	let
 18	ilẹ̀	ilẹ̀	NOUN	_	_	21	nsubj	_	land
 19	gbígbẹ	gbígbẹ	ADJ	_	_	18	amod	_	dry
 20	sì	sì	CCONJ	_	_	21	cc	_	and
-21	farahà	farahà	NOUN	_	_	12	xcomp	_	null
+21	farahà	farahà	VERB	_	_	12	conj	_	null
 22	n	n	VERB	_	_	21	goeswith	_	i
-23	.	.	PUNCT	_	_	27	punct	_	.
-24	”	”	PUNCT	_	_	27	punct	_	.
+23	.	.	PUNCT	_	_	12	punct	_	.
+24	”	”	PUNCT	_	_	12	punct	_	.
 25	ó	ó	PRON	_	_	27	nsubj	_	he
 26	sì	sì	CCONJ	_	_	27	cc	_	and
-27	rí	rí	VERB	_	_	21	xcomp	_	saw
+27	rí	rí	VERB	_	_	3	conj	_	saw
 28	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	27	advmod	_	so
 29	.	.	PUNCT	_	_	3	punct	_	.
 
@@ -272,7 +273,7 @@
 24	wí	wí	VERB	_	_	27	mark	_	said
 25	pé	pé	SCONJ	_	_	24	goeswith	_	saying
 26	ó	ó	PRON	_	_	27	nsubj	_	he
-27	dára	dára	ADJ	_	_	22	xcomp	_	good
+27	dára	dára	ADJ	_	_	22	ccomp	_	good
 28	.	.	PUNCT	_	_	3	punct	_	.
 
 # sent_id = 11
@@ -792,60 +793,60 @@
 # text_yor =  lẹ́yìn náà ni ọlọ́run wí pé , “ ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa , gẹ́gẹ́ bí àwa ti rí , kí wọn kí ó jọba lórí ẹja òkun , ẹyẹ ojú ọ̀run , ohun ọ̀sìn , gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀ . ”
 # text_en =  and god said , let us make man in our image , after our likeness : and let them have dominion over the fish of the sea , and over the fowl of the air , and over the cattle , and over all the earth , and over every creeping thing that creepeth upon the earth .
 # text = lẹ́yìn náà ni ọlọ́run wí pé, “ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa, gẹ́gẹ́ bí àwa ti rí, kí wọn kí ó jọba lórí ẹja òkun, ẹyẹ ojú ọ̀run, ohun ọ̀sìn, gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀.”
-1	lẹ́yìn	lẹ́yìn	ADP	_	_	4	case	_	after
-2	náà	náà	ADV	_	_	1	advmod	_	the
-3	ni	ni	AUX	_	_	4	cop	_	is
+1	lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	after
+2	náà	náà	ADV	_	_	5	advmod	_	the
+3	ni	ni	AUX	_	_	5	aux	_	is
 4	ọlọ́run	ọlọ́run	NOUN	_	_	5	nsubj	_	god
 5	wí	wí	VERB	_	_	0	root	_	said
 6	pé	pé	SCONJ	_	_	13	mark	_	saying
 7	,	,	PUNCT	_	_	13	punct	_	,
 8	“	“	PUNCT	_	_	13	punct	_	“
-9	ẹ	ẹ	VERB	_	_	13	nsubj	_	ye
+9	ẹ	ẹ	PRON	_	_	13	nsubj	_	ye
 10	jẹ́	jẹ́	AUX	_	_	13	aux	_	be
 11	kí	kí	AUX	_	_	13	aux	_	let
 12	a	a	PRON	_	_	13	nsubj	_	be
 13	dá	dá	VERB	_	_	5	csubj	_	made
 14	ènìyàn	ènìyàn	NOUN	_	_	13	obj	_	people
 15	ní	ní	ADP	_	_	16	case	_	in
-16	àwòrán	àwòrán	NOUN	_	_	13	obj	_	image
+16	àwòrán	àwòrán	NOUN	_	_	13	obl	_	image
 17	ara	ara	PRON	_	_	16	nmod	_	himself
 18	wa	wa	PRON	_	_	16	nmod	_	our
-19	,	,	PUNCT	_	_	22	punct	_	,
+19	,	,	PUNCT	_	_	24	punct	_	,
 20	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	24	advmod	_	according
 21	bí	bí	SCONJ	_	_	22	cc	_	as
 22	àwa	àwa	PRON	_	_	24	nsubj	_	we
 23	ti	ti	AUX	_	_	24	aux	_	have
-24	rí	rí	VERB	_	_	13	xcomp	_	saw
+24	rí	rí	VERB	_	_	13	advcl	_	saw
 25	,	,	PUNCT	_	_	30	punct	_	,
 26	kí	kí	AUX	_	_	30	aux	_	let
 27	wọn	wọn	PRON	_	_	30	nsubj	_	them
 28	kí	kí	AUX	_	_	30	aux	_	let
-29	ó	ó	PRON	_	_	30	nsubj	_	he
-30	jọba	jọba	VERB	_	_	24	xcomp	_	reigned
+29	ó	ó	PRON	_	_	30	expl	_	he
+30	jọba	jọba	VERB	_	_	13	conj	_	reigned
 31	lórí	lórí	ADP	_	_	32	case	_	upon
-32	ẹja	ẹja	NOUN	_	_	30	obj	_	fish
+32	ẹja	ẹja	NOUN	_	_	30	obl	_	fish
 33	òkun	òkun	NOUN	_	_	32	nmod	_	sea
 34	,	,	PUNCT	_	_	35	punct	_	,
-35	ẹyẹ	ẹyẹ	NOUN	_	_	30	obj	_	fowls
+35	ẹyẹ	ẹyẹ	NOUN	_	_	32	conj	_	fowls
 36	ojú	ojú	NOUN	_	_	37	nmod	_	eyes
 37	ọ̀run	ọ̀run	NOUN	_	_	35	nmod	_	heaven
 38	,	,	PUNCT	_	_	40	punct	_	,
 39	ohun	ohun	PRON	_	_	40	nmod	_	things
-40	ọ̀sìn	ọ̀sìn	NOUN	_	_	30	obj	_	cattle
+40	ọ̀sìn	ọ̀sìn	NOUN	_	_	32	conj	_	cattle
 41	,	,	PUNCT	_	_	43	punct	_	,
 42	gbogbo	gbogbo	DET	_	_	43	det	_	all
-43	ilẹ̀	ilẹ̀	NOUN	_	_	30	obj	_	land
+43	ilẹ̀	ilẹ̀	NOUN	_	_	32	conj	_	land
 44	àti	àti	CCONJ	_	_	46	cc	_	and
 45	lórí	lórí	ADP	_	_	46	case	_	upon
-46	ohun	ohun	PRON	_	_	43	conj	_	things
+46	ohun	ohun	PRON	_	_	32	conj	_	things
 47	gbogbo	gbogbo	DET	_	_	46	det	_	all
-48	tí	tí	PRON	_	_	50	mark	_	that
+48	tí	tí	PRON	_	_	50	nsubj	_	that
 49	ń	ń	AUX	_	_	50	aux	_	that
-50	rìn	rìn	VERB	_	_	30	ccomp	_	walk
+50	rìn	rìn	VERB	_	_	46	acl	_	walk
 51	lórí	lórí	ADP	_	_	52	case	_	upon
-52	ilẹ̀	ilẹ̀	NOUN	_	_	50	obj	_	land
-53	.	.	PUNCT	_	_	5	punct	_	.
-54	”	”	PUNCT	_	_	5	punct	_	.
+52	ilẹ̀	ilẹ̀	NOUN	_	_	50	obl	_	land
+53	.	.	PUNCT	_	_	13	punct	_	.
+54	”	”	PUNCT	_	_	13	punct	_	.
 
 # source = Bibeli Mimọ, Jòhánù, Chapter 10
 # newdoc id = JOHN_10
@@ -1016,36 +1017,36 @@
 5	àgùntàn	àgùntàn	NOUN	_	_	3	obj	_	sheep
 6	mìíràn	mìíràn	ADJ	_	_	5	amod	_	other
 7	,	,	PUNCT	_	_	11	punct	_	,
-8	tí	tí	PRON	_	_	11	mark	_	that
-9	kì	kì	PART	_	_	11	mark	_	not
+8	tí	tí	PRON	_	_	11	nsubj	_	that
+9	kì	kì	PART	_	_	11	advmod	_	not
 10	í	í	AUX	_	_	11	aux	_	was
-11	ṣe	ṣe	VERB	_	_	3	xcomp	_	do
+11	ṣe	ṣe	VERB	_	_	5	acl	_	do
 12	agbo	agbo	NOUN	_	_	11	obj	_	flock
 13	yìí	yìí	DET	_	_	12	det	_	this
-14	:	:	PUNCT	_	_	15	punct	_	:
-15	àwọn	àwọn	PRON	_	_	19	nsubj	_	the
-16	ni	ni	AUX	_	_	19	aux	_	is
+14	:	:	PUNCT	_	_	16	punct	_	:
+15	àwọn	àwọn	PRON	_	_	16	nsubj	_	the
+16	ni	ni	AUX	_	_	11	parataxis	_	is
 17	èmi	èmi	PRON	_	_	19	nsubj	_	i
 18	yóò	yóò	AUX	_	_	19	aux	_	shall
-19	mú	mú	VERB	_	_	11	xcomp	_	brought
-20	wá	wá	VERB	_	_	19	dep	_	come
-21	pẹ̀lú	pẹ̀lú	ADP	_	_	20	dep	_	with
+19	mú	mú	VERB	_	_	16	xcomp	_	brought
+20	wá	wá	VERB	_	_	19	compound:svc	_	come
+21	pẹ̀lú	pẹ̀lú	ADP	_	_	20	compound:prt	_	with
 22	,	,	PUNCT	_	_	26	punct	_	,
 23	wọn	wọn	PRON	_	_	26	nsubj	_	them
-24	ó	ó	PRON	_	_	26	nsubj	_	he
+24	ó	ó	PRON	_	_	26	expl	_	he
 25	sì	sì	CCONJ	_	_	26	cc	_	and
-26	gbọ́	gbọ́	VERB	_	_	19	xcomp	_	heard
+26	gbọ́	gbọ́	VERB	_	_	19	conj	_	heard
 27	ohùn	ohùn	NOUN	_	_	26	obj	_	voice
 28	mi	mi	PRON	_	_	27	nmod	_	my
 29	;	;	PUNCT	_	_	33	punct	_	;
 30	wọn	wọn	PRON	_	_	33	nsubj	_	them
-31	ó	ó	PRON	_	_	33	nsubj	_	he
+31	ó	ó	PRON	_	_	33	expl	_	he
 32	sì	sì	CCONJ	_	_	33	cc	_	and
-33	jẹ́	jẹ́	VERB	_	_	26	xcomp	_	be
+33	jẹ́	jẹ́	VERB	_	_	19	conj	_	be
 34	agbo	agbo	NOUN	_	_	33	obj	_	flock
 35	kan	kan	NUM	_	_	34	nummod	_	a
 36	,	,	PUNCT	_	_	37	punct	_	,
-37	olùsọ́	olùsọ́	NOUN	_	_	33	obl	_	shepherd
+37	olùsọ́	olùsọ́	NOUN	_	_	34	conj	_	shepherd
 38	-	-	PUNCT	_	_	37	goeswith	_	the
 39	àgùntàn	àgùntàn	NOUN	_	_	37	compound	_	sheep
 40	kan	kan	NUM	_	_	39	nummod	_	a
@@ -1119,18 +1120,19 @@
 
 # sent_id = JOHN_10.19
 # text = Nítorí náà ìyapa tún wà láàrin àwọn Júù nítorí ọ̀rọ̀ wọ̀nyí.
-1	Nítorí	Nítorí	SCONJ	_	_	5	cc	_	for
-2	náà	náà	ADV	_	_	5	advmod	_	the
-3	ìyapa	ìyapa	NOUN	_	_	5	nsubj	_	division
-4	tún	tún	ADV	_	_	5	advmod	_	again
+1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	for
+2	náà	náà	ADV	_	_	8	advmod	_	the
+3	ìyapa	ìyapa	NOUN	_	_	8	nsubj	_	division
+4	tún	tún	ADV	_	_	8	advmod	_	again
 5	wà	wà	AUX	_	_	8	cop	_	was
 6	láàrin	láàrin	ADP	_	_	8	case	_	among
 7	àwọn	àwọn	DET	_	_	8	det	_	the
-8	Júù	Júù	PROPN	_	_	10	dep	_	jews
-9	nítorí	nítorí	SCONJ	_	_	10	cc	_	for
-10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	0	root	_	word
+8	Júù	Júù	PROPN	_	_	0	root	_	jews
+9	nítorí	nítorí	SCONJ	_	_	10	case	_	for
+10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	8	obl	_	word
 11	wọ̀nyí	wọ̀nyí	DET	_	_	10	det	_	these
-12	.	.	PUNCT	_	_	10	punct	_	.
+12	.	.	PUNCT	_	_	8	punct	_	.
+
 
 # sent_id = JOHN_10.2
 # text = Ṣùgbọ́n ẹni tí ó bá ti ẹnu-ọ̀nà wọlé, Òun ni olùṣọ́ àwọn àgùntàn.
