@@ -255,13 +255,13 @@
 18	,	,	PUNCT	_	_	21	punct	_	,
 19	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	21	cc	_	but
 20	nítorí	nítorí	SCONJ	_	_	21	mark	_	for
-21	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	27	conj	_	word
+21	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	30	nsubj	_	word
 22	-	-	PUNCT	_	_	21	goeswith	_	the
 23	ọ̀dì	ọ̀dì	X	_	_	22	goeswith	_	null
 24	:	:	PUNCT	_	_	27	punct	_	:
 25	àti	àti	CCONJ	_	_	27	cc	_	and
 26	nítorí	nítorí	SCONJ	_	_	27	mark	_	for
-27	ìwọ	ìwọ	PRON	_	_	30	nsubj	_	thou
+27	ìwọ	ìwọ	PRON	_	_	21	conj	_	thou
 28	tí	tí	PRON	_	_	30	mark	_	that
 29	í	í	AUX	_	_	30	aux	_	was
 30	ṣe	ṣe	VERB	_	_	12	xcomp	_	do
