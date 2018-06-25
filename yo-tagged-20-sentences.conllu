@@ -1,0 +1,587 @@
+# sent_id = JOHN_10.24
+# text = Nítorí náà àwọn Júù wá dúró yí i ká, wọ́n sì wí fún un pé, “Ìwọ ó ti mú wa ṣe iyèméjì pẹ́ tó? Bí ìwọ bá ni Kírísítì náà, wí fún wa gbangba.”
+1	Nítorí	Nítorí	SCONJ	_	_	4	cc	_	for
+2	náà	náà	ADV	_	_	6	advmod	_	the
+3	àwọn	àwọn	DET	_	_	4	det	_	the
+4	Júù	Júù	PROPN	_	_	6	nsubj	_	jews
+5	wá	wá	VERB	_	_	6	compound:svc	_	come
+6	dúró	dúró	VERB	_	_	0	root	_	stood
+7	yí	yí	VERB	_	_	6	compound:svc	_	round
+8	i	i	PRON	_	_	6	obj	_	him
+9	ká	ká	ADV	_	_	6	advmod	_	about
+10	,	,	PUNCT	_	_	13	punct	_	,
+11	wọ́n	wọ́n	NOUN	_	_	13	nsubj	_	they
+12	sì	sì	CCONJ	_	_	13	cc	_	and
+13	wí	wí	VERB	_	_	6	conj	_	said
+14	fún	fún	ADP	_	_	15	case	_	unto
+15	un	un	PRON	_	_	13	obj	_	him
+16	pé	pé	SCONJ	_	_	22	mark	_	saying
+17	,	,	PUNCT	_	_	22	punct	_	,
+18	“	“	PUNCT	_	_	22	punct	_	“
+19	Ìwọ	Ìwọ	PRON	_	_	22	nsubj	_	thou
+20	ó	ó	PRON	_	_	22	expl	_	he
+21	ti	ti	AUX	_	_	22	aux	_	have
+22	mú	mú	VERB	_	_	13	ccomp	_	brought
+23	wa	wa	PRON	_	_	22	obj	_	our
+24	ṣe	ṣe	VERB	_	_	22	ccomp	_	do
+25	iyèméjì	iyèméjì	VERB	_	_	24	compound:svc	_	doubt
+26	pẹ́	pẹ́	ADP	_	_	23	amod	_	long
+27	tó	tó	ADV	_	_	26	advmod	_	that
+28	?	?	PUNCT	_	_	33	punct	_	?
+29	Bí	Bí	SCONJ	_	_	33	cc	_	as
+30	ìwọ	ìwọ	PRON	_	_	32	nsubj	_	thou
+31	bá	bá	SCONJ	_	_	33	cc	_	if
+32	ni	ni	AUX	_	_	33	cop	_	is
+33	Kírísítì	Kírísítì	PROPN	_	_	22	xcomp	_	christ
+34	náà	náà	DET	_	_	33	det	_	the
+35	,	,	PUNCT	_	_	33	punct	_	,
+36	wí	wí	VERB	_	_	22	csubj	_	said
+37	fún	fún	ADP	_	_	38	case	_	unto
+38	wa	wa	PRON	_	_	36	obj	_	our
+39	gbangba	gbangba	ADV	_	_	38	advmod	_	plainly
+40	.	.	PUNCT	_	_	38	punct	_	.
+41	”	”	PUNCT	_	_	22	punct	_	.
+
+# sent_id = JOHN_10.25
+# text = Jésù dá wọn lóhùn pé, “Èmi ti wí fún yín, ẹ̀yin kò sì gbàgbọ́; iṣẹ́ tí èmi ń ṣe lórúkọ Baba mi, àwọn ni ó ń jẹ́rìí mi.
+1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	jesus
+2	dá	dá	VERB	_	_	0	root	_	made
+3	wọn	wọn	PRON	_	_	2	obj	_	them
+4	lóhùn	lóhùn	VERB	_	_	2	compound:svc	_	answered
+5	pé	pé	SCONJ	_	_	10	mark	_	saying
+6	,	,	PUNCT	_	_	10	punct	_	,
+7	“	“	PUNCT	_	_	10	punct	_	“
+8	Èmi	Èmi	PRON	_	_	10	nsubj	_	i
+9	ti	ti	AUX	_	_	10	aux	_	have
+10	wí	wí	VERB	_	_	2	xcomp	_	said
+11	fún	fún	ADP	_	_	12	case	_	unto
+12	yín	yín	PRON	_	_	10	obj	_	you
+13	,	,	PUNCT	_	_	17	punct	_	,
+14	ẹ̀yin	ẹ̀yin	PRON	_	_	17	nsubj	_	ye
+15	kò	kò	PART	_	_	17	discourse	_	not
+16	sì	sì	CCONJ	_	_	17	cc	_	and
+17	gbàgbọ́	gbàgbọ́	VERB	_	_	10	conj	_	believe
+18	;	;	PUNCT	_	_	23	punct	_	;
+19	iṣẹ́	iṣẹ́	NOUN	_	_	23	nsubj	_	work
+20	tí	tí	PRON	_	_	23	mark	_	that
+21	èmi	èmi	PRON	_	_	23	nsubj	_	i
+22	ń	ń	AUX	_	_	23	aux	_	that
+23	ṣe	ṣe	VERB	_	_	10	xcomp	_	do
+24	lórúkọ	lórúkọ	NOUN	_	_	23	obl	_	name
+25	Baba	Baba	NOUN	_	_	23	obj	_	father
+26	mi	mi	PRON	_	_	25	nmod	_	my
+27	,	,	PUNCT	_	_	32	punct	_	,
+28	àwọn	àwọn	DET	_	_	32	nsubj	_	the
+29	ni	ni	AUX	_	_	32	aux	_	is
+30	ó	ó	PRON	_	_	32	expl	_	he
+31	ń	ń	AUX	_	_	32	aux	_	that
+32	jẹ́rìí	jẹ́rìí	VERB	_	_	23	ccomp	_	witness
+33	mi	mi	PRON	_	_	32	obj	_	my
+34	.	.	PUNCT	_	_	2	punct	_	.
+
+# sent_id = JOHN_10.26
+# text = Ṣùgbọ́n ẹ̀yin kò gbàgbọ́, nítorí ẹ̀yin kò sí nínú àwọn àgùntàn mi, gẹ́gẹ́ bí mo tí wí fún yín.
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	2	cc	_	but
+2	ẹ̀yin	ẹ̀yin	PRON	_	_	4	nsubj	_	ye
+3	kò	kò	PART	_	_	4	discourse	_	not
+4	gbàgbọ́	gbàgbọ́	VERB	_	_	0	root	_	believe
+5	,	,	PUNCT	_	_	9	punct	_	,
+6	nítorí	nítorí	SCONJ	_	_	9	cc	_	for
+7	ẹ̀yin	ẹ̀yin	PRON	_	_	9	nsubj	_	ye
+8	kò	kò	PART	_	_	9	discourse	_	not
+9	sí	sí	VERB	_	_	4	xcomp	_	to
+10	nínú	nínú	ADP	_	_	12	case	_	in
+11	àwọn	àwọn	DET	_	_	12	det	_	the
+12	àgùntàn	àgùntàn	NOUN	_	_	9	obj	_	sheep
+13	mi	mi	PRON	_	_	12	nmod	_	my
+14	,	,	PUNCT	_	_	19	punct	_	,
+15	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	19	advmod	_	according
+16	bí	bí	SCONJ	_	_	17	cc	_	as
+17	mo	mo	VERB	_	_	19	nsubj	_	i
+18	tí	tí	PRON	_	_	19	expl	_	that
+19	wí	wí	VERB	_	_	9	xcomp	_	said
+20	fún	fún	ADP	_	_	21	case	_	unto
+21	yín	yín	PRON	_	_	19	obj	_	you
+22	.	.	PUNCT	_	_	4	punct	_	.
+
+# sent_id = JOHN_10.29
+# text = Baba mi, ẹni tí ó fi wọ́n fún mi pọ̀ ju gbogbo wọn lọ; kò sì sí ẹni tí ó lè já wọn gbà kúrò lọ́wọ́ Baba mi.
+1	Baba	Baba	NOUN	_	_	7	nsubj	_	father
+2	mi	mi	PRON	_	_	1	nmod	_	my
+3	,	,	PUNCT	_	_	7	punct	_	,
+4	ẹni	ẹni	PRON	_	_	7	nsubj	_	that
+5	tí	tí	PRON	_	_	7	mark	_	that
+6	ó	ó	PRON	_	_	7	expl	_	he
+7	fi	fi	VERB	_	_	0	root	_	with
+8	wọ́n	wọ́n	PRON	_	_	7	obj	_	they
+9	fún	fún	ADP	_	_	10	case	_	unto
+10	mi	mi	PRON	_	_	7	obl	_	my
+11	pọ̀	pọ̀	VERB	_	_	7	ccomp	_	together
+12	ju	ju	ADV	_	_	11	advmod	_	than
+13	gbogbo	gbogbo	DET	_	_	14	det	_	all
+14	wọn	wọn	PRON	_	_	11	obj	_	them
+15	lọ	lọ	ADV	_	_	11	advmod	_	go
+16	;	;	PUNCT	_	_	24	punct	_	;
+17	kò	kò	PART	_	_	24	discourse	_	not
+18	sì	sì	CCONJ	_	_	20	cc	_	and
+19	sí	sí	AUX	_	_	24	aux	_	to
+20	ẹni	ẹni	PRON	_	_	24	nsubj	_	that
+21	tí	tí	PRON	_	_	24	mark	_	that
+22	ó	ó	PRON	_	_	24	expl	_	he
+23	lè	lè	AUX	_	_	24	aux	_	may
+24	já	já	VERB	_	_	7	conj	_	broken
+25	wọn	wọn	PRON	_	_	24	obj	_	them
+26	gbà	gbà	VERB	_	_	24	compound:svc	_	deliver
+27	kúrò	kúrò	ADP	_	_	29	case	_	from
+28	lọ́wọ́	lọ́wọ́	ADP	_	_	29	case	_	hand
+29	Baba	Baba	NOUN	_	_	24	obj	_	father
+30	mi	mi	PRON	_	_	29	nmod	_	my
+31	.	.	PUNCT	_	_	7	punct	_	.
+
+# sent_id = JOHN_10.3
+# text = Òun ni osọ́nà yóò ṣílẹ̀kùn fún; àwọn àgùntàn gbọ́ ohùn rẹ̀: ó sì pe àwọn àgùntàn tirẹ̀ lórúkọ, ó sì se amọ̀nà wọn jáde.
+1	Òun	Òun	PRON	_	_	2	nsubj	_	he
+2	ni	ni	AUX	_	_	3	cop	_	is
+3	osọ́nà	osọ́nà	NOUN	_	_	5	nsubj	_	_
+4	yóò	yóò	VERB	_	_	5	aux	_	shall
+5	ṣílẹ̀kùn	ṣílẹ̀kùn	VERB	_	_	0	root	_	null
+6	fún	fún	ADP	_	_	5	obj	_	unto
+7	;	;	PUNCT	_	_	10	punct	_	;
+8	àwọn	àwọn	DET	_	_	9	det	_	the
+9	àgùntàn	àgùntàn	NOUN	_	_	10	nsubj	_	sheep
+10	gbọ́	gbọ́	VERB	_	_	5	conj	_	heard
+11	ohùn	ohùn	NOUN	_	_	12	nmod	_	voice
+12	rẹ̀	rẹ̀	PRON	_	_	10	obj	_	his
+13	:	:	PUNCT	_	_	16	punct	_	:
+14	ó	ó	PRON	_	_	16	nsubj	_	he
+15	sì	sì	CCONJ	_	_	16	cc	_	and
+16	pe	pe	VERB	_	_	10	conj	_	called
+17	àwọn	àwọn	DET	_	_	18	det	_	the
+18	àgùntàn	àgùntàn	NOUN	_	_	16	obj	_	sheep
+19	tirẹ̀	tirẹ̀	ADJ	_	_	18	nmod	_	his
+20	lórúkọ	lórúkọ	NOUN	_	_	16	obl	_	name
+21	,	,	PUNCT	_	_	25	punct	_	,
+22	ó	ó	PRON	_	_	25	nsubj	_	he
+23	sì	sì	CCONJ	_	_	24	cc	_	and
+24	se	se	AUX	_	_	25	aux	_	do
+25	amọ̀nà	amọ̀nà	VERB	_	_	16	conj	_	null
+26	wọn	wọn	PRON	_	_	25	obj	_	them
+27	jáde	jáde	NOUN	_	_	25	obl	_	out
+28	.	.	PUNCT	_	_	5	punct	_	.
+
+# sent_id = JOHN_10.30
+# text = Ọ̀kan ni èmi àti Baba mi.”
+1	Ọ̀kan	Ọ̀kan	NUM	_	_	2	nsubj	_	one
+2	ni	ni	AUX	_	_	3	cop	_	is
+3	èmi	èmi	PRON	_	_	0	root	_	i
+4	àti	àti	CCONJ	_	_	5	cc	_	and
+5	Baba	Baba	NOUN	_	_	3	conj	_	father
+6	mi	mi	PRON	_	_	5	nmod	_	my
+7	.	.	PUNCT	_	_	3	punct	_	.
+8	”	”	PUNCT	_	_	3	punct	_	.
+
+# sent_id = JOHN_10.31
+# text = Àwọn Júù sì tún he òkúta, láti sọ lù ú.
+1	Àwọn	Àwọn	DET	_	_	2	det	_	the
+2	Júù	Júù	PROPN	_	_	5	nsubj	_	jews
+3	sì	sì	CCONJ	_	_	5	cc	_	and
+4	tún	tún	ADV	_	_	5	advmod	_	again
+5	he	he	VERB	_	_	0	root	_	null
+6	òkúta	òkúta	NOUN	_	_	5	obj	_	stone
+7	,	,	PUNCT	_	_	9	punct	_	,
+8	láti	láti	ADP	_	_	9	case	_	to
+9	sọ	sọ	VERB	_	_	5	advcl	_	spake
+10	lù	lù	VERB	_	_	9	compound:svc	_	upon
+11	ú	ú	PRON	_	_	9	obj	_	him
+12	.	.	PUNCT	_	_	5	punct	_	.
+
+# sent_id = JOHN_10.32
+# text = Jésù dá wọn lóhùn pé, “Ọ̀pọ̀lọpọ̀ iṣẹ́ rere ni mo fi hàn yín láti ọ̀dọ̀ Baba mi wá; nítorí èwo nínú iṣẹ́ wọ̀nyí ni ẹ̀yin ṣe sọ mí ní òkúta?”
+1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	jesus
+2	dá	dá	VERB	_	_	0	root	_	made
+3	wọn	wọn	PRON	_	_	2	obj	_	them
+4	lóhùn	lóhùn	VERB	_	_	2	compound:svc	_	answered
+5	pé	pé	SCONJ	_	_	13	mark	_	saying
+6	,	,	PUNCT	_	_	13	punct	_	,
+7	“	“	PUNCT	_	_	13	punct	_	“
+8	Ọ̀pọ̀lọpọ̀	Ọ̀pọ̀lọpọ̀	ADJ	_	_	9	amod	_	many
+9	iṣẹ́	iṣẹ́	NOUN	_	_	13	nsubj	_	work
+10	rere	rere	ADJ	_	_	9	amod	_	good
+11	ni	ni	AUX	_	_	13	aux	_	is
+12	mo	mo	PART	_	_	13	nsubj	_	i
+13	fi	fi	VERB	_	_	2	xcomp	_	with
+14	hàn	hàn	VERB	_	_	13	compound:svc	_	shew
+15	yín	yín	PRON	_	_	13	obj	_	you
+16	láti	láti	ADP	_	_	18	case	_	to
+17	ọ̀dọ̀	ọ̀dọ̀	ADP	_	_	18	case	_	from
+18	Baba	Baba	NOUN	_	_	13	obl	_	father
+19	mi	mi	PRON	_	_	18	nmod	_	my
+20	wá	wá	VERB	_	_	13	compound:svc	_	come
+21	;	;	PUNCT	_	_	27	punct	_	;
+22	nítorí	nítorí	SCONJ	_	_	23	cc	_	for
+23	èwo	èwo	PRON	_	_	27	nsubj	_	what
+24	nínú	nínú	ADP	_	_	25	case	_	in
+25	iṣẹ́	iṣẹ́	NOUN	_	_	27	nsubj	_	work
+26	wọ̀nyí	wọ̀nyí	DET	_	_	25	det	_	these
+27	ni	ni	AUX	_	_	30	aux	_	is
+28	ẹ̀yin	ẹ̀yin	PRON	_	_	30	nmod	_	ye
+29	ṣe	ṣe	AUX	_	_	30	aux	_	do
+30	sọ	sọ	VERB	_	_	13	xcomp	_	spake
+31	mí	mí	PRON	_	_	30	obj	_	me
+32	ní	ní	ADP	_	_	33	case	_	in
+33	òkúta	òkúta	NOUN	_	_	30	obl	_	stone
+34	?	?	PUNCT	_	_	13	punct	_	?
+35	”	”	PUNCT	_	_	13	punct	_	.
+
+# sent_id = JOHN_10.33
+# text = Àwọn Júù sì dá a lóhùn pé, “Àwa kò sọ ọ́ lókúta nítorí iṣẹ́ rere, ṣùgbọ́n nítorí ọ̀rọ̀-ọ̀dì: àti nítorí ìwọ tí í ṣe ènìyàn ń fi ara rẹ ṣe Ọlọ́run.”
+1	Àwọn	Àwọn	DET	_	_	2	det	_	the
+2	Júù	Júù	PROPN	_	_	4	nsubj	_	jews
+3	sì	sì	CCONJ	_	_	4	cc	_	and
+4	dá	dá	VERB	_	_	0	root	_	made
+5	a	a	VERB	_	_	4	goeswith	_	be
+6	lóhùn	lóhùn	VERB	_	_	4	compound:svc	_	answered
+7	pé	pé	SCONJ	_	_	12	mark	_	saying
+8	,	,	PUNCT	_	_	12	punct	_	,
+9	“	“	PUNCT	_	_	12	punct	_	“
+10	Àwa	Àwa	PRON	_	_	12	nsubj	_	we
+11	kò	kò	PART	_	_	12	discourse	_	not
+12	sọ	sọ	VERB	_	_	4	csubj	_	spake
+13	ọ́	ọ́	PRON	_	_	12	obj	_	thee
+14	lókúta	lókúta	VERB	_	_	12	obl	_	stones
+15	nítorí	nítorí	SCONJ	_	_	16	cc	_	for
+16	iṣẹ́	iṣẹ́	NOUN	_	_	12	obl	_	work
+17	rere	rere	ADJ	_	_	16	amod	_	good
+18	,	,	PUNCT	_	_	21	punct	_	,
+19	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	21	cc	_	but
+20	nítorí	nítorí	SCONJ	_	_	21	mark	_	for
+21	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	27	conj	_	word
+22	-	-	PUNCT	_	_	21	goeswith	_	the
+23	ọ̀dì	ọ̀dì	X	_	_	22	goeswith	_	null
+24	:	:	PUNCT	_	_	27	punct	_	:
+25	àti	àti	CCONJ	_	_	27	cc	_	and
+26	nítorí	nítorí	SCONJ	_	_	27	mark	_	for
+27	ìwọ	ìwọ	PRON	_	_	30	nsubj	_	thou
+28	tí	tí	PRON	_	_	30	mark	_	that
+29	í	í	AUX	_	_	30	aux	_	was
+30	ṣe	ṣe	VERB	_	_	12	xcomp	_	do
+31	ènìyàn	ènìyàn	NOUN	_	_	33	nsubj	_	people
+32	ń	ń	AUX	_	_	33	aux	_	that
+33	fi	fi	VERB	_	_	30	ccomp	_	with
+34	ara	ara	PRON	_	_	33	obj	_	himself
+35	rẹ	rẹ	PRON	_	_	34	nmod	_	thy
+36	ṣe	ṣe	VERB	_	_	30	xcomp	_	do
+37	Ọlọ́run	Ọlọ́run	NOUN	_	_	36	obj	_	god
+38	.	.	PUNCT	_	_	4	punct	_	.
+39	”	”	PUNCT	_	_	4	punct	_	.
+
+# sent_id = JOHN_10.34
+# text = Jésù dá wọn lóhùn pé, “A kò ha tí kọ ọ́ nínú òfin yín pé, ‘Mo ti wí pé, Ọlọ́run ni ẹ̀yin jẹ́’?
+1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	jesus
+2	dá	dá	VERB	_	_	0	root	_	made
+3	wọn	wọn	PRON	_	_	2	obj	_	them
+4	lóhùn	lóhùn	VERB	_	_	2	compound:svc	_	answered
+5	pé	pé	SCONJ	_	_	12	mark	_	saying
+6	,	,	PUNCT	_	_	12	punct	_	,
+7	“	“	PUNCT	_	_	12	punct	_	“
+8	A	A	PRON	_	_	12	nsubj	_	be
+9	kò	kò	PART	_	_	12	discourse	_	not
+10	ha	ha	ADV	_	_	12	advmod	_	?
+11	tí	tí	PRON	_	_	12	mark	_	that
+12	kọ	kọ	VERB	_	_	2	csubj	_	written
+13	ọ́	ọ́	PRON	_	_	12	obj	_	thee
+14	nínú	nínú	ADP	_	_	15	case	_	in
+15	òfin	òfin	NOUN	_	_	12	obl	_	law
+16	yín	yín	PRON	_	_	15	nmod	_	you
+17	pé	pé	SCONJ	_	_	22	mark	_	saying
+18	,	,	PUNCT	_	_	22	punct	_	,
+19	‘	‘	PUNCT	_	_	22	punct	_	say
+20	Mo	Mo	VERB	_	_	22	nsubj	_	i
+21	ti	ti	AUX	_	_	22	aux	_	have
+22	wí	wí	VERB	_	_	12	xcomp	_	said
+23	pé	pé	SCONJ	_	_	26	mark	_	saying
+24	,	,	PUNCT	_	_	26	punct	_	,
+25	Ọlọ́run	Ọlọ́run	NOUN	_	_	26	nsubj	_	god
+26	ni	ni	AUX	_	_	27	cop	_	is
+27	ẹ̀yin	ẹ̀yin	PRON	_	_	22	xcomp	_	ye
+28	jẹ́	jẹ́	AUX	_	_	26	compound:svc	_	be
+29	’	’	PUNCT	_	_	22	punct	_	.
+30	?	?	PUNCT	_	_	22	punct	_	?
+
+# sent_id = JOHN_10.37
+# text = Bí èmi kò bá ṣe iṣẹ́ Baba mi, ẹ má ṣe gbà mí gbọ́.
+1	Bí	Bí	SCONJ	_	_	5	mark	_	as
+2	èmi	èmi	PRON	_	_	5	nsubj	_	i
+3	kò	kò	PART	_	_	5	discourse	_	not
+4	bá	bá	SCONJ	_	_	5	mark	_	if
+5	ṣe	ṣe	VERB	_	_	0	root	_	do
+6	iṣẹ́	iṣẹ́	NOUN	_	_	5	obj	_	work
+7	Baba	Baba	NOUN	_	_	5	iobj	_	father
+8	mi	mi	PRON	_	_	7	nmod	_	my
+9	,	,	PUNCT	_	_	13	punct	_	,
+10	ẹ	ẹ	VERB	_	_	13	nsubj	_	ye
+11	má	má	AUX	_	_	13	aux	_	not
+12	ṣe	ṣe	AUX	_	_	13	aux	_	do
+13	gbà	gbà	VERB	_	_	5	xcomp	_	deliver
+14	mí	mí	PRON	_	_	13	obj	_	me
+15	gbọ́	gbọ́	VERB	_	_	13	compound:svc	_	heard
+16	.	.	PUNCT	_	_	5	punct	_	.
+
+# sent_id = JOHN_10.38
+# text = Ṣùgbọ́n bí èmi bá ṣe wọ́n, bí ẹ̀yin kò tilẹ̀ gbà mí gbọ́, ẹ gbà iṣẹ́ náà gbọ́: kí ẹ̀yin baà lè mọ̀, kí ó sì lè yé yín pé, Baba wà nínú mi, èmi sì wà nínú rẹ̀.”
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	but
+2	bí	bí	SCONJ	_	_	5	mark	_	as
+3	èmi	èmi	PRON	_	_	5	nsubj	_	i
+4	bá	bá	SCONJ	_	_	5	mark	_	if
+5	ṣe	ṣe	AUX	_	_	12	xcomp	_	do
+6	wọ́n	wọ́n	PRON	_	_	5	obj	_	they
+7	,	,	PUNCT	_	_	12	punct	_	,
+8	bí	bí	SCONJ	_	_	12	mark	_	as
+9	ẹ̀yin	ẹ̀yin	PRON	_	_	12	nsubj	_	ye
+10	kò	kò	PART	_	_	12	discourse	_	not
+11	tilẹ̀	tilẹ̀	SCONJ	_	_	12	mark	_	though
+12	gbà	gbà	VERB	_	_	0	root	_	deliver
+13	mí	mí	PRON	_	_	12	obj	_	me
+14	gbọ́	gbọ́	VERB	_	_	12	compound:svc	_	heard
+15	,	,	PUNCT	_	_	17	punct	_	,
+16	ẹ	ẹ	VERB	_	_	17	nsubj	_	ye
+17	gbà	gbà	VERB	_	_	12	xcomp	_	deliver
+18	iṣẹ́	iṣẹ́	NOUN	_	_	17	obj	_	work
+19	náà	náà	DET	_	_	18	det	_	the
+20	gbọ́	gbọ́	VERB	_	_	17	compound	_	heard
+21	:	:	PUNCT	_	_	26	punct	_	:
+22	kí	kí	SCONJ	_	_	26	mark	_	let
+23	ẹ̀yin	ẹ̀yin	PRON	_	_	26	nsubj	_	ye
+24	baà	baà	ADV	_	_	26	aux	_	lest
+25	lè	lè	AUX	_	_	26	aux	_	may
+26	mọ̀	mọ̀	VERB	_	_	17	xcomp	_	know
+27	,	,	PUNCT	_	_	32	punct	_	,
+28	kí	kí	SCONJ	_	_	32	list	_	let
+29	ó	ó	PRON	_	_	32	nsubj	_	he
+30	sì	sì	CCONJ	_	_	32	case	_	and
+31	lè	lè	AUX	_	_	32	aux	_	may
+32	yé	yé	VERB	_	_	26	conj	_	understand
+33	yín	yín	PRON	_	_	32	obj	_	you
+34	pé	pé	SCONJ	_	_	37	mark	_	saying
+35	,	,	PUNCT	_	_	37	punct	_	,
+36	Baba	Baba	NOUN	_	_	37	nsubj	_	father
+37	wà	wà	AUX	_	_	32	xcomp	_	was
+38	nínú	nínú	ADP	_	_	39	case	_	in
+39	mi	mi	PRON	_	_	37	cop	_	my
+40	,	,	PUNCT	_	_	43	punct	_	,
+41	èmi	èmi	PRON	_	_	43	nsubj	_	i
+42	sì	sì	CCONJ	_	_	43	cc	_	and
+43	wà	wà	AUX	_	_	32	xcomp	_	was
+44	nínú	nínú	ADP	_	_	45	case	_	in
+45	rẹ̀	rẹ̀	PRON	_	_	43	cop	_	his
+46	.	.	PUNCT	_	_	12	punct	_	.
+47	”	”	PUNCT	_	_	12	punct	_	.
+
+# sent_id = JOHN_10.39
+# text = Wọ́n sì tún ń wá ọ̀nà láti mú un: ó sì bọ́ lọ́wọ́ wọn.
+1	Wọ́n	Wọ́n	VERB	_	_	5	nsubj	_	they
+2	sì	sì	CCONJ	_	_	5	cc	_	and
+3	tún	tún	ADV	_	_	5	advmod	_	again
+4	ń	ń	AUX	_	_	5	aux	_	that
+5	wá	wá	VERB	_	_	0	root	_	come
+6	ọ̀nà	ọ̀nà	NOUN	_	_	5	obj	_	way
+7	láti	láti	ADP	_	_	9	mark	_	to
+8	mú	mú	VERB	_	_	5	xcomp	_	brought
+9	un	un	PRON	_	_	5	obj	_	him
+10	:	:	PUNCT	_	_	13	punct	_	:
+11	ó	ó	PRON	_	_	13	nsubj	_	he
+12	sì	sì	CCONJ	_	_	13	cc	_	and
+13	bọ́	bọ́	VERB	_	_	5	xcomp	_	off
+14	lọ́wọ́	lọ́wọ́	ADP	_	_	15	case	_	hand
+15	wọn	wọn	PRON	_	_	13	obj	_	them
+16	.	.	PUNCT	_	_	5	punct	_	.
+
+# sent_id = JOHN_10.4
+# text = Nígbà tí ó bá sì ti mú àwọn àgùntàn tirẹ̀ jáde, yóò ṣíwájú wọn, àwọn àgùntàn yóò sì máa tọ̀ ọ́ lẹ́yìn: nítorí tí wọ́n mọ ohùn rẹ̀.
+1	Nígbà	Nígbà	ADV	_	_	7	mark	_	when
+2	tí	tí	PRON	_	_	7	mark	_	that
+3	ó	ó	PRON	_	_	7	nsubj	_	he
+4	bá	bá	SCONJ	_	_	7	mark	_	if
+5	sì	sì	CCONJ	_	_	7	cc	_	and
+6	ti	ti	AUX	_	_	7	aux	_	have
+7	mú	mú	VERB	_	_	0	root	_	brought
+8	àwọn	àwọn	DET	_	_	9	det	_	the
+9	àgùntàn	àgùntàn	NOUN	_	_	7	obj	_	sheep
+10	tirẹ̀	tirẹ̀	ADJ	_	_	9	nmod	_	his
+11	jáde	jáde	NOUN	_	_	7	obl	_	out
+12	,	,	PUNCT	_	_	13	aux	_	,
+13	yóò	yóò	AUX	_	_	15	cop	_	shall
+14	ṣíwájú	ṣíwájú	ADP	_	_	15	case	_	before
+15	wọn	wọn	PRON	_	_	7	xcomp	_	them
+16	,	,	PUNCT	_	_	22	punct	_	,
+17	àwọn	àwọn	DET	_	_	18	det	_	the
+18	àgùntàn	àgùntàn	NOUN	_	_	22	nsubj	_	sheep
+19	yóò	yóò	ADV	_	_	22	aux	_	shall
+20	sì	sì	CCONJ	_	_	22	cc	_	and
+21	máa	máa	AUX	_	_	22	aux	_	be
+22	tọ̀	tọ̀	VERB	_	_	15	conj	_	came
+23	ọ́	ọ́	PRON	_	_	22	obj	_	thee
+24	lẹ́yìn	lẹ́yìn	ADP	_	_	23	case	_	after
+25	:	:	PUNCT	_	_	29	punct	_	:
+26	nítorí	nítorí	SCONJ	_	_	29	mark	_	for
+27	tí	tí	PRON	_	_	29	mark	_	that
+28	wọ́n	wọ́n	PRON	_	_	29	nsubj	_	they
+29	mọ	mọ	VERB	_	_	22	xcomp	_	know
+30	ohùn	ohùn	NOUN	_	_	29	obj	_	voice
+31	rẹ̀	rẹ̀	PRON	_	_	30	nmod	_	his
+32	.	.	PUNCT	_	_	7	punct	_	.
+
+# sent_id = JOHN_10.41
+# text = Àwọn ènìyàn púpọ̀ sì wá sọ́dọ̀ rẹ̀, wọ́n sì wí pé, “Jòhánù kò ṣe iṣẹ́ àmì kan: Ṣùgbọ́n òtítọ́ ni ohun gbogbo tí Jòhánù sọ nípa ti ọkùnrin yìí.”
+1	Àwọn	Àwọn	DET	_	_	2	det	_	the
+2	ènìyàn	ènìyàn	NOUN	_	_	5	nsubj	_	people
+3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	many
+4	sì	sì	CCONJ	_	_	5	cc	_	and
+5	wá	wá	VERB	_	_	0	root	_	come
+6	sọ́dọ̀	sọ́dọ̀	ADP	_	_	7	case	_	unto
+7	rẹ̀	rẹ̀	PRON	_	_	5	obj	_	his
+8	,	,	PUNCT	_	_	11	punct	_	,
+9	wọ́n	wọ́n	VERB	_	_	11	nsubj	_	they
+10	sì	sì	CCONJ	_	_	11	cc	_	and
+11	wí	wí	VERB	_	_	5	conj	_	said
+12	pé	pé	SCONJ	_	_	17	mark	_	saying
+13	,	,	PUNCT	_	_	17	punct	_	,
+14	“	“	PUNCT	_	_	17	punct	_	“
+15	Jòhánù	Jòhánù	PROPN	_	_	17	nsubj	_	john
+16	kò	kò	PART	_	_	17	discourse	_	not
+17	ṣe	ṣe	VERB	_	_	11	xcomp	_	do
+18	iṣẹ́	iṣẹ́	NOUN	_	_	17	obj	_	work
+19	àmì	àmì	NOUN	_	_	18	nmod	_	sign
+20	kan	kan	NUM	_	_	18	nummod	_	a
+21	:	:	PUNCT	_	_	24	punct	_	:
+22	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	24	cc	_	but
+23	òtítọ́	òtítọ́	NOUN	_	_	24	nsubj	_	truth
+24	ni	ni	AUX	_	_	17	xcomp	_	is
+25	ohun	ohun	PRON	_	_	24	obj	_	things
+26	gbogbo	gbogbo	DET	_	_	25	det	_	all
+27	tí	tí	PRON	_	_	29	mark	_	that
+28	Jòhánù	Jòhánù	PROPN	_	_	29	nsubj	_	john
+29	sọ	sọ	VERB	_	_	24	xcomp	_	spake
+30	nípa	nípa	ADP	_	_	32	case	_	by
+31	ti	ti	ADP	_	_	32	case	_	have
+32	ọkùnrin	ọkùnrin	NOUN	_	_	29	obj	_	man
+33	yìí	yìí	DET	_	_	32	det	_	this
+34	.	.	PUNCT	_	_	5	punct	_	.
+35	”	”	PUNCT	_	_	5	punct	_	.
+
+# sent_id = JOHN_10.42
+# text = Àwọn ènìyàn púpọ̀ níbẹ̀ sì gbàágbọ́.
+1	Àwọn	Àwọn	DET	_	_	2	det	_	the
+2	ènìyàn	ènìyàn	NOUN	_	_	6	nsubj	_	people
+3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	many
+4	níbẹ̀	níbẹ̀	ADV	_	_	2	advmod	_	there
+5	sì	sì	CCONJ	_	_	6	cc	_	and
+6	gbàágbọ́	gbàágbọ́	VERB	_	_	0	root	_	him
+7	.	.	PUNCT	_	_	6	punct	_	.
+
+# sent_id = JOHN_10.5
+# text = Wọn kò jẹ́ tọ àlejò lẹ́yìn, ṣùgbọ́n wọn a sá kúrò lọ́dọ̀ rẹ̀: nítorí tí wọn kò mọ ohùn àlejò.”
+1	Wọn	Wọn	PRON	_	_	3	nsubj	_	them
+2	kò	kò	PART	_	_	3	discourse	_	not
+3	jẹ́	jẹ́	AUX	_	_	4	aux	_	be
+4	tọ	tọ	ADP	_	_	0	root	_	came
+5	àlejò	àlejò	NOUN	_	_	4	obj	_	stranger
+6	lẹ́yìn	lẹ́yìn	ADP	_	_	5	case	_	after
+7	,	,	PUNCT	_	_	11	punct	_	,
+8	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	11	cc	_	but
+9	wọn	wọn	PRON	_	_	11	nsubj	_	them
+10	a	a	PRON	_	_	11	expl	_	be
+11	sá	sá	VERB	_	_	4	xcomp	_	fled
+12	kúrò	kúrò	ADP	_	_	14	case	_	from
+13	lọ́dọ̀	lọ́dọ̀	ADP	_	_	14	case	_	with
+14	rẹ̀	rẹ̀	PRON	_	_	11	obj	_	his
+15	:	:	PUNCT	_	_	20	punct	_	:
+16	nítorí	nítorí	SCONJ	_	_	20	mark	_	for
+17	tí	tí	PRON	_	_	20	mark	_	that
+18	wọn	wọn	PRON	_	_	20	nsubj	_	them
+19	kò	kò	PART	_	_	20	discourse	_	not
+20	mọ	mọ	VERB	_	_	11	xcomp	_	know
+21	ohùn	ohùn	NOUN	_	_	20	obj	_	voice
+22	àlejò	àlejò	NOUN	_	_	21	nmod	_	stranger
+23	.	.	PUNCT	_	_	4	punct	_	.
+24	”	”	PUNCT	_	_	4	punct	_	.
+
+# sent_id = JOHN_10.6
+# text = Òwe yìí ni Jésù pa fún wọn: ṣùgbọ́n òye ohun tí nǹkan wọ̀nyí jẹ́ tí ó ń sọ fún wọn kò yé wọn.
+1	Òwe	Òwe	NOUN	_	_	3	nsubj	_	parable
+2	yìí	yìí	DET	_	_	1	det	_	this
+3	ni	ni	AUX	_	_	5	aux	_	is
+4	Jésù	Jésù	PROPN	_	_	5	nsubj	_	jesus
+5	pa	pa	VERB	_	_	0	root	_	keep
+6	fún	fún	ADP	_	_	7	case	_	unto
+7	wọn	wọn	PRON	_	_	5	obj	_	them
+8	:	:	PUNCT	_	_	15	punct	_	:
+9	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	10	cc	_	but
+10	òye	òye	NOUN	_	_	15	nsubj	_	understanding
+11	ohun	ohun	PRON	_	_	10	nmod	_	things
+12	tí	tí	PRON	_	_	15	mark	_	that
+13	nǹkan	nǹkan	NOUN	_	_	15	nsubj	_	things
+14	wọ̀nyí	wọ̀nyí	CONJ	_	_	13	det	_	these
+15	jẹ́	jẹ́	AUX	_	_	5	xcomp	_	be
+16	tí	tí	PRON	_	_	19	mark	_	that
+17	ó	ó	PRON	_	_	19	nsubj	_	he
+18	ń	ń	AUX	_	_	19	aux	_	that
+19	sọ	sọ	VERB	_	_	5	xcomp	_	spake
+20	fún	fún	ADP	_	_	21	case	_	unto
+21	wọn	wọn	PRON	_	_	19	obj	_	them
+22	kò	kò	PART	_	_	23	discourse	_	not
+23	yé	yé	VERB	_	_	19	xcomp	_	understand
+24	wọn	wọn	PRON	_	_	23	obj	_	them
+25	.	.	PUNCT	_	_	5	punct	_	.
+
+# sent_id = JOHN_10.7
+# text = Nítorí náà Jésù tún wí fún wọn pé, “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Èmi ni ìlẹ̀kùn àwọn àgùntàn.
+1	Nítorí	Nítorí	SCONJ	_	_	5	mark	_	for
+2	náà	náà	ADV	_	_	5	advmod	_	the
+3	Jésù	Jésù	PROPN	_	_	5	nsubj	_	jesus
+4	tún	tún	ADV	_	_	5	advmod	_	again
+5	wí	wí	VERB	_	_	0	root	_	said
+6	fún	fún	ADP	_	_	7	case	_	unto
+7	wọn	wọn	PRON	_	_	5	obj	_	them
+8	pé	pé	SCONJ	_	_	16	mark	_	saying
+9	,	,	PUNCT	_	_	16	punct	_	,
+10	“	“	PUNCT	_	_	16	punct	_	“
+11	Lóòótọ́	Lóòótọ́	INTJ	_	_	16	discourse	_	verily
+12	,	,	PUNCT	_	_	16	punct	_	,
+13	lóòótọ́	lóòótọ́	INTJ	_	_	16	discourse	_	verily
+14	ni	ni	AUX	_	_	16	aux	_	is
+15	mo	mo	PRON	_	_	16	nsubj	_	i
+16	wí	wí	VERB	_	_	5	xcomp	_	said
+17	fún	fún	ADP	_	_	18	case	_	unto
+18	yín	yín	PRON	_	_	16	obj	_	you
+19	,	,	PUNCT	_	_	21	punct	_	,
+20	Èmi	Èmi	PRON	_	_	21	nsubj	_	i
+21	ni	ni	AUX	_	_	22	cop	_	is
+22	ìlẹ̀kùn	ìlẹ̀kùn	NOUN	_	_	24	nmod	_	doors
+23	àwọn	àwọn	DET	_	_	24	det	_	the
+24	àgùntàn	àgùntàn	NOUN	_	_	16	xcomp	_	sheep
+25	.	.	PUNCT	_	_	5	punct	_	.
+
+# sent_id = JOHN_10.8
+# text = Olè àti ọlọ́sà ni gbogbo àwọn tí ó ti wà ṣáájú mi: ṣùgbọ́n àwọn àgùntàn kò gbọ́ ti wọn.
+1	Olè	Olè	NOUN	_	_	4	nsubj	_	thief
+2	àti	àti	CCONJ	_	_	3	cc	_	and
+3	ọlọ́sà	ọlọ́sà	NOUN	_	_	1	conj	_	robbers
+4	ni	ni	AUX	_	_	6	obj	_	is
+5	gbogbo	gbogbo	DET	_	_	6	det	_	all
+6	àwọn	àwọn	PRON	_	_	10	nsubj	_	the
+7	tí	tí	PRON	_	_	10	mark	_	that
+8	ó	ó	PRON	_	_	10	expl	_	he
+9	ti	ti	AUX	_	_	10	aux	_	have
+10	wà	wà	VERB	_	_	0	root	_	was
+11	ṣáájú	ṣáájú	ADP	_	_	12	case	_	before
+12	mi	mi	PRON	_	_	10	obj	_	my
+13	:	:	PUNCT	_	_	18	punct	_	:
+14	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	18	cc	_	but
+15	àwọn	àwọn	DET	_	_	16	det	_	the
+16	àgùntàn	àgùntàn	NOUN	_	_	18	nsubj	_	sheep
+17	kò	kò	PART	_	_	18	discourse	_	not
+18	gbọ́	gbọ́	VERB	_	_	10	xcomp	_	heard
+19	ti	ti	AUX	_	_	20	goeswith	_	have
+20	wọn	wọn	PRON	_	_	18	obj	_	them
+21	.	.	PUNCT	_	_	10	punct	_	.
