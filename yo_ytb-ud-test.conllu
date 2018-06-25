@@ -1240,3 +1240,591 @@
 10	Sólómónì	Sólómónì	PROPN	_	_	4	iobj	_	SpaceAfter=No|Gloss=solomon
 11	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 
+# sent_id = JOHN_10.24
+# text = Nítorí náà àwọn Júù wá dúró yí i ká, wọ́n sì wí fún un pé, “Ìwọ ó ti mú wa ṣe iyèméjì pẹ́ tó? Bí ìwọ bá ni Kírísítì náà, wí fún wa gbangba.”
+1	Nítorí	Nítorí	SCONJ	_	_	4	cc	_	Gloss=for
+2	náà	náà	ADV	_	_	6	advmod	_	Gloss=the
+3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
+4	Júù	Júù	PROPN	_	_	6	nsubj	_	Gloss=jews
+5	wá	wá	VERB	_	_	6	compound:svc	_	Gloss=come
+6	dúró	dúró	VERB	_	_	0	root	_	Gloss=stood
+7	yí	yí	VERB	_	_	6	compound:svc	_	Gloss=round
+8	i	i	PRON	_	_	6	obj	_	Gloss=him
+9	ká	ká	ADV	_	_	6	advmod	_	SpaceAfter=No|Gloss=about
+10	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+11	wọ́n	wọ́n	NOUN	_	_	13	nsubj	_	Gloss=they
+12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and
+13	wí	wí	VERB	_	_	6	conj	_	Gloss=said
+14	fún	fún	ADP	_	_	15	case	_	Gloss=unto
+15	un	un	PRON	_	_	13	obj	_	Gloss=him
+16	pé	pé	SCONJ	_	_	22	mark	_	SpaceAfter=No|Gloss=saying
+17	,	,	PUNCT	_	_	22	punct	_	Gloss=,
+18	“	“	PUNCT	_	_	22	punct	_	SpaceAfter=No|Gloss=“
+19	Ìwọ	Ìwọ	PRON	_	_	22	nsubj	_	Gloss=thou
+20	ó	ó	PRON	_	_	22	expl	_	Gloss=he
+21	ti	ti	AUX	_	_	22	aux	_	Gloss=have
+22	mú	mú	VERB	_	_	13	ccomp	_	Gloss=brought
+23	wa	wa	PRON	_	_	22	obj	_	Gloss=our
+24	ṣe	ṣe	VERB	_	_	22	ccomp	_	Gloss=do
+25	iyèméjì	iyèméjì	VERB	_	_	24	compound:svc	_	Gloss=doubt
+26	pẹ́	pẹ́	ADP	_	_	23	amod	_	Gloss=long
+27	tó	tó	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=that
+28	?	?	PUNCT	_	_	33	punct	_	Gloss=?
+29	Bí	Bí	SCONJ	_	_	33	cc	_	Gloss=as
+30	ìwọ	ìwọ	PRON	_	_	32	nsubj	_	Gloss=thou
+31	bá	bá	SCONJ	_	_	33	cc	_	Gloss=if
+32	ni	ni	AUX	_	_	33	cop	_	Gloss=is
+33	Kírísítì	Kírísítì	PROPN	_	_	22	xcomp	_	Gloss=christ
+34	náà	náà	DET	_	_	33	det	_	SpaceAfter=No|Gloss=the
+35	,	,	PUNCT	_	_	33	punct	_	Gloss=,
+36	wí	wí	VERB	_	_	22	csubj	_	Gloss=said
+37	fún	fún	ADP	_	_	38	case	_	Gloss=unto
+38	wa	wa	PRON	_	_	36	obj	_	Gloss=our
+39	gbangba	gbangba	ADV	_	_	38	advmod	_	SpaceAfter=No|Gloss=plainly
+40	.	.	PUNCT	_	_	38	punct	_	SpaceAfter=No|Gloss=.
+41	”	”	PUNCT	_	_	22	punct	_	Gloss=.
+
+# sent_id = JOHN_10.25
+# text = Jésù dá wọn lóhùn pé, “Èmi ti wí fún yín, ẹ̀yin kò sì gbàgbọ́; iṣẹ́ tí èmi ń ṣe lórúkọ Baba mi, àwọn ni ó ń jẹ́rìí mi.
+1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
+2	dá	dá	VERB	_	_	0	root	_	Gloss=made
+3	wọn	wọn	PRON	_	_	2	obj	_	Gloss=them
+4	lóhùn	lóhùn	VERB	_	_	2	compound:svc	_	Gloss=answered
+5	pé	pé	SCONJ	_	_	10	mark	_	SpaceAfter=No|Gloss=saying
+6	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+7	“	“	PUNCT	_	_	10	punct	_	SpaceAfter=No|Gloss=“
+8	Èmi	Èmi	PRON	_	_	10	nsubj	_	Gloss=i
+9	ti	ti	AUX	_	_	10	aux	_	Gloss=have
+10	wí	wí	VERB	_	_	2	xcomp	_	Gloss=said
+11	fún	fún	ADP	_	_	12	case	_	Gloss=unto
+12	yín	yín	PRON	_	_	10	obj	_	SpaceAfter=No|Gloss=you
+13	,	,	PUNCT	_	_	17	punct	_	Gloss=,
+14	ẹ̀yin	ẹ̀yin	PRON	_	_	17	nsubj	_	Gloss=ye
+15	kò	kò	PART	_	_	17	discourse	_	Gloss=not
+16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and
+17	gbàgbọ́	gbàgbọ́	VERB	_	_	10	conj	_	SpaceAfter=No|Gloss=believe
+18	;	;	PUNCT	_	_	23	punct	_	Gloss=;
+19	iṣẹ́	iṣẹ́	NOUN	_	_	23	nsubj	_	Gloss=work
+20	tí	tí	PRON	_	_	23	mark	_	Gloss=that
+21	èmi	èmi	PRON	_	_	23	nsubj	_	Gloss=i
+22	ń	ń	AUX	_	_	23	aux	_	Gloss=that
+23	ṣe	ṣe	VERB	_	_	10	xcomp	_	Gloss=do
+24	lórúkọ	lórúkọ	NOUN	_	_	23	obl	_	Gloss=name
+25	Baba	Baba	NOUN	_	_	23	obj	_	Gloss=father
+26	mi	mi	PRON	_	_	25	nmod	_	SpaceAfter=No|Gloss=my
+27	,	,	PUNCT	_	_	32	punct	_	Gloss=,
+28	àwọn	àwọn	DET	_	_	32	nsubj	_	Gloss=the
+29	ni	ni	AUX	_	_	32	aux	_	Gloss=is
+30	ó	ó	PRON	_	_	32	expl	_	Gloss=he
+31	ń	ń	AUX	_	_	32	aux	_	Gloss=that
+32	jẹ́rìí	jẹ́rìí	VERB	_	_	23	ccomp	_	Gloss=witness
+33	mi	mi	PRON	_	_	32	obj	_	SpaceAfter=No|Gloss=my
+34	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = JOHN_10.26
+# text = Ṣùgbọ́n ẹ̀yin kò gbàgbọ́, nítorí ẹ̀yin kò sí nínú àwọn àgùntàn mi, gẹ́gẹ́ bí mo tí wí fún yín.
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	2	cc	_	Gloss=but
+2	ẹ̀yin	ẹ̀yin	PRON	_	_	4	nsubj	_	Gloss=ye
+3	kò	kò	PART	_	_	4	discourse	_	Gloss=not
+4	gbàgbọ́	gbàgbọ́	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=believe
+5	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+6	nítorí	nítorí	SCONJ	_	_	9	cc	_	Gloss=for
+7	ẹ̀yin	ẹ̀yin	PRON	_	_	9	nsubj	_	Gloss=ye
+8	kò	kò	PART	_	_	9	discourse	_	Gloss=not
+9	sí	sí	VERB	_	_	4	xcomp	_	Gloss=to
+10	nínú	nínú	ADP	_	_	12	case	_	Gloss=in
+11	àwọn	àwọn	DET	_	_	12	det	_	Gloss=the
+12	àgùntàn	àgùntàn	NOUN	_	_	9	obj	_	Gloss=sheep
+13	mi	mi	PRON	_	_	12	nmod	_	SpaceAfter=No|Gloss=my
+14	,	,	PUNCT	_	_	19	punct	_	Gloss=,
+15	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	19	advmod	_	Gloss=according
+16	bí	bí	SCONJ	_	_	17	cc	_	Gloss=as
+17	mo	mo	VERB	_	_	19	nsubj	_	Gloss=i
+18	tí	tí	PRON	_	_	19	expl	_	Gloss=that
+19	wí	wí	VERB	_	_	9	xcomp	_	Gloss=said
+20	fún	fún	ADP	_	_	21	case	_	Gloss=unto
+21	yín	yín	PRON	_	_	19	obj	_	SpaceAfter=No|Gloss=you
+22	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = JOHN_10.29
+# text = Baba mi, ẹni tí ó fi wọ́n fún mi pọ̀ ju gbogbo wọn lọ; kò sì sí ẹni tí ó lè já wọn gbà kúrò lọ́wọ́ Baba mi.
+1	Baba	Baba	NOUN	_	_	7	nsubj	_	Gloss=father
+2	mi	mi	PRON	_	_	1	nmod	_	SpaceAfter=No|Gloss=my
+3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+4	ẹni	ẹni	PRON	_	_	7	nsubj	_	Gloss=that
+5	tí	tí	PRON	_	_	7	mark	_	Gloss=that
+6	ó	ó	PRON	_	_	7	expl	_	Gloss=he
+7	fi	fi	VERB	_	_	0	root	_	Gloss=with
+8	wọ́n	wọ́n	PRON	_	_	7	obj	_	Gloss=they
+9	fún	fún	ADP	_	_	10	case	_	Gloss=unto
+10	mi	mi	PRON	_	_	7	obl	_	Gloss=my
+11	pọ̀	pọ̀	VERB	_	_	7	ccomp	_	Gloss=together
+12	ju	ju	ADV	_	_	11	advmod	_	Gloss=than
+13	gbogbo	gbogbo	DET	_	_	14	det	_	Gloss=all
+14	wọn	wọn	PRON	_	_	11	obj	_	Gloss=them
+15	lọ	lọ	ADV	_	_	11	advmod	_	SpaceAfter=No|Gloss=go
+16	;	;	PUNCT	_	_	24	punct	_	Gloss=;
+17	kò	kò	PART	_	_	24	discourse	_	Gloss=not
+18	sì	sì	CCONJ	_	_	20	cc	_	Gloss=and
+19	sí	sí	AUX	_	_	24	aux	_	Gloss=to
+20	ẹni	ẹni	PRON	_	_	24	nsubj	_	Gloss=that
+21	tí	tí	PRON	_	_	24	mark	_	Gloss=that
+22	ó	ó	PRON	_	_	24	expl	_	Gloss=he
+23	lè	lè	AUX	_	_	24	aux	_	Gloss=may
+24	já	já	VERB	_	_	7	conj	_	Gloss=broken
+25	wọn	wọn	PRON	_	_	24	obj	_	Gloss=them
+26	gbà	gbà	VERB	_	_	24	compound:svc	_	Gloss=deliver
+27	kúrò	kúrò	ADP	_	_	29	case	_	Gloss=from
+28	lọ́wọ́	lọ́wọ́	ADP	_	_	29	case	_	Gloss=hand
+29	Baba	Baba	NOUN	_	_	24	obj	_	Gloss=father
+30	mi	mi	PRON	_	_	29	nmod	_	SpaceAfter=No|Gloss=my
+31	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = JOHN_10.3
+# text = Òun ni osọ́nà yóò ṣílẹ̀kùn fún; àwọn àgùntàn gbọ́ ohùn rẹ̀: ó sì pe àwọn àgùntàn tirẹ̀ lórúkọ, ó sì se amọ̀nà wọn jáde.
+1	Òun	Òun	PRON	_	_	2	nsubj	_	Gloss=he
+2	ni	ni	AUX	_	_	3	cop	_	Gloss=is
+3	osọ́nà	osọ́nà	NOUN	_	_	5	nsubj	_	Gloss=_
+4	yóò	yóò	VERB	_	_	5	aux	_	Gloss=shall
+5	ṣílẹ̀kùn	ṣílẹ̀kùn	VERB	_	_	0	root	_	Gloss=null
+6	fún	fún	ADP	_	_	5	obj	_	SpaceAfter=No|Gloss=unto
+7	;	;	PUNCT	_	_	10	punct	_	Gloss=;
+8	àwọn	àwọn	DET	_	_	9	det	_	Gloss=the
+9	àgùntàn	àgùntàn	NOUN	_	_	10	nsubj	_	Gloss=sheep
+10	gbọ́	gbọ́	VERB	_	_	5	conj	_	Gloss=heard
+11	ohùn	ohùn	NOUN	_	_	12	nmod	_	Gloss=voice
+12	rẹ̀	rẹ̀	PRON	_	_	10	obj	_	SpaceAfter=No|Gloss=his
+13	:	:	PUNCT	_	_	16	punct	_	Gloss=:
+14	ó	ó	PRON	_	_	16	nsubj	_	Gloss=he
+15	sì	sì	CCONJ	_	_	16	cc	_	Gloss=and
+16	pe	pe	VERB	_	_	10	conj	_	Gloss=called
+17	àwọn	àwọn	DET	_	_	18	det	_	Gloss=the
+18	àgùntàn	àgùntàn	NOUN	_	_	16	obj	_	Gloss=sheep
+19	tirẹ̀	tirẹ̀	ADJ	_	_	18	nmod	_	Gloss=his
+20	lórúkọ	lórúkọ	NOUN	_	_	16	obl	_	SpaceAfter=No|Gloss=name
+21	,	,	PUNCT	_	_	25	punct	_	Gloss=,
+22	ó	ó	PRON	_	_	25	nsubj	_	Gloss=he
+23	sì	sì	CCONJ	_	_	24	cc	_	Gloss=and
+24	se	se	AUX	_	_	25	aux	_	Gloss=do
+25	amọ̀nà	amọ̀nà	VERB	_	_	16	conj	_	Gloss=null
+26	wọn	wọn	PRON	_	_	25	obj	_	Gloss=them
+27	jáde	jáde	NOUN	_	_	25	obl	_	SpaceAfter=No|Gloss=out
+28	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = JOHN_10.30
+# text = Ọ̀kan ni èmi àti Baba mi.”
+1	Ọ̀kan	Ọ̀kan	NUM	_	NumType=Card	2	nsubj	_	Gloss=one
+2	ni	ni	AUX	_	_	3	cop	_	Gloss=is
+3	èmi	èmi	PRON	_	_	0	root	_	Gloss=i
+4	àti	àti	CCONJ	_	_	5	cc	_	Gloss=and
+5	Baba	Baba	NOUN	_	_	3	conj	_	Gloss=father
+6	mi	mi	PRON	_	_	5	nmod	_	SpaceAfter=No|Gloss=my
+7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No|Gloss=.
+8	”	”	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = JOHN_10.31
+# text = Àwọn Júù sì tún he òkúta, láti sọ lù ú.
+1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the
+2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews
+3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and
+4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again
+5	he	he	VERB	_	_	0	root	_	Gloss=null
+6	òkúta	òkúta	NOUN	_	_	5	obj	_	SpaceAfter=No|Gloss=stone
+7	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+8	láti	láti	ADP	_	_	9	case	_	Gloss=to
+9	sọ	sọ	VERB	_	_	5	advcl	_	Gloss=spake
+10	lù	lù	VERB	_	_	9	compound:svc	_	Gloss=upon
+11	ú	ú	PRON	_	_	9	obj	_	SpaceAfter=No|Gloss=him
+12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = JOHN_10.32
+# text = Jésù dá wọn lóhùn pé, “Ọ̀pọ̀lọpọ̀ iṣẹ́ rere ni mo fi hàn yín láti ọ̀dọ̀ Baba mi wá; nítorí èwo nínú iṣẹ́ wọ̀nyí ni ẹ̀yin ṣe sọ mí ní òkúta?”
+1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
+2	dá	dá	VERB	_	_	0	root	_	Gloss=made
+3	wọn	wọn	PRON	_	_	2	obj	_	Gloss=them
+4	lóhùn	lóhùn	VERB	_	_	2	compound:svc	_	Gloss=answered
+5	pé	pé	SCONJ	_	_	13	mark	_	SpaceAfter=No|Gloss=saying
+6	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+7	“	“	PUNCT	_	_	13	punct	_	SpaceAfter=No|Gloss=“
+8	Ọ̀pọ̀lọpọ̀	Ọ̀pọ̀lọpọ̀	ADJ	_	_	9	amod	_	Gloss=many
+9	iṣẹ́	iṣẹ́	NOUN	_	_	13	nsubj	_	Gloss=work
+10	rere	rere	ADJ	_	_	9	amod	_	Gloss=good
+11	ni	ni	AUX	_	_	13	aux	_	Gloss=is
+12	mo	mo	PART	_	_	13	nsubj	_	Gloss=i
+13	fi	fi	VERB	_	_	2	xcomp	_	Gloss=with
+14	hàn	hàn	VERB	_	_	13	compound:svc	_	Gloss=shew
+15	yín	yín	PRON	_	_	13	obj	_	Gloss=you
+16	láti	láti	ADP	_	_	18	case	_	Gloss=to
+17	ọ̀dọ̀	ọ̀dọ̀	ADP	_	_	18	case	_	Gloss=from
+18	Baba	Baba	NOUN	_	_	13	obl	_	Gloss=father
+19	mi	mi	PRON	_	_	18	nmod	_	Gloss=my
+20	wá	wá	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=come
+21	;	;	PUNCT	_	_	27	punct	_	Gloss=;
+22	nítorí	nítorí	SCONJ	_	_	23	cc	_	Gloss=for
+23	èwo	èwo	PRON	_	_	27	nsubj	_	Gloss=what
+24	nínú	nínú	ADP	_	_	25	case	_	Gloss=in
+25	iṣẹ́	iṣẹ́	NOUN	_	_	27	nsubj	_	Gloss=work
+26	wọ̀nyí	wọ̀nyí	DET	_	_	25	det	_	Gloss=these
+27	ni	ni	AUX	_	_	30	aux	_	Gloss=is
+28	ẹ̀yin	ẹ̀yin	PRON	_	_	30	nmod	_	Gloss=ye
+29	ṣe	ṣe	AUX	_	_	30	aux	_	Gloss=do
+30	sọ	sọ	VERB	_	_	13	xcomp	_	Gloss=spake
+31	mí	mí	PRON	_	_	30	obj	_	Gloss=me
+32	ní	ní	ADP	_	_	33	case	_	Gloss=in
+33	òkúta	òkúta	NOUN	_	_	30	obl	_	SpaceAfter=No|Gloss=stone
+34	?	?	PUNCT	_	_	13	punct	_	SpaceAfter=No|Gloss=?
+35	”	”	PUNCT	_	_	13	punct	_	Gloss=.
+
+# sent_id = JOHN_10.33
+# text = Àwọn Júù sì dá a lóhùn pé, “Àwa kò sọ ọ́ lókúta nítorí iṣẹ́ rere, ṣùgbọ́n nítorí ọ̀rọ̀-ọ̀dì: àti nítorí ìwọ tí í ṣe ènìyàn ń fi ara rẹ ṣe Ọlọ́run.”
+1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the
+2	Júù	Júù	PROPN	_	_	4	nsubj	_	Gloss=jews
+3	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and
+4	dá	dá	VERB	_	_	0	root	_	Gloss=made
+5	a	a	VERB	_	_	4	goeswith	_	Gloss=be
+6	lóhùn	lóhùn	VERB	_	_	4	compound:svc	_	Gloss=answered
+7	pé	pé	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=saying
+8	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+9	“	“	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=“
+10	Àwa	Àwa	PRON	_	_	12	nsubj	_	Gloss=we
+11	kò	kò	PART	_	_	12	discourse	_	Gloss=not
+12	sọ	sọ	VERB	_	_	4	csubj	_	Gloss=spake
+13	ọ́	ọ́	PRON	_	_	12	obj	_	Gloss=thee
+14	lókúta	lókúta	VERB	_	_	12	obl	_	Gloss=stones
+15	nítorí	nítorí	SCONJ	_	_	16	cc	_	Gloss=for
+16	iṣẹ́	iṣẹ́	NOUN	_	_	12	obl	_	Gloss=work
+17	rere	rere	ADJ	_	_	16	amod	_	SpaceAfter=No|Gloss=good
+18	,	,	PUNCT	_	_	21	punct	_	Gloss=,
+19	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	21	cc	_	Gloss=but
+20	nítorí	nítorí	SCONJ	_	_	21	mark	_	Gloss=for
+21	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	30	nsubj	_	SpaceAfter=No|Gloss=word
+22	-	-	PUNCT	_	_	21	goeswith	_	SpaceAfter=No|Gloss=the
+23	ọ̀dì	ọ̀dì	X	_	_	22	goeswith	_	SpaceAfter=No|Gloss=null
+24	:	:	PUNCT	_	_	27	punct	_	Gloss=:
+25	àti	àti	CCONJ	_	_	27	cc	_	Gloss=and
+26	nítorí	nítorí	SCONJ	_	_	27	mark	_	Gloss=for
+27	ìwọ	ìwọ	PRON	_	_	21	conj	_	Gloss=thou
+28	tí	tí	PRON	_	_	30	mark	_	Gloss=that
+29	í	í	AUX	_	_	30	aux	_	Gloss=was
+30	ṣe	ṣe	VERB	_	_	12	xcomp	_	Gloss=do
+31	ènìyàn	ènìyàn	NOUN	_	_	33	nsubj	_	Gloss=people
+32	ń	ń	AUX	_	_	33	aux	_	Gloss=that
+33	fi	fi	VERB	_	_	30	ccomp	_	Gloss=with
+34	ara	ara	PRON	_	_	33	obj	_	Gloss=himself
+35	rẹ	rẹ	PRON	_	_	34	nmod	_	Gloss=thy
+36	ṣe	ṣe	VERB	_	_	30	xcomp	_	Gloss=do
+37	Ọlọ́run	Ọlọ́run	NOUN	_	_	36	obj	_	SpaceAfter=No|Gloss=god
+38	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No|Gloss=.
+39	”	”	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = JOHN_10.34
+# text = Jésù dá wọn lóhùn pé, “A kò ha tí kọ ọ́ nínú òfin yín pé, ‘Mo ti wí pé, Ọlọ́run ni ẹ̀yin jẹ́’?
+1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
+2	dá	dá	VERB	_	_	0	root	_	Gloss=made
+3	wọn	wọn	PRON	_	_	2	obj	_	Gloss=them
+4	lóhùn	lóhùn	VERB	_	_	2	compound:svc	_	Gloss=answered
+5	pé	pé	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=saying
+6	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+7	“	“	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=“
+8	A	A	PRON	_	_	12	nsubj	_	Gloss=be
+9	kò	kò	PART	_	_	12	discourse	_	Gloss=not
+10	ha	ha	ADV	_	_	12	advmod	_	Gloss=?
+11	tí	tí	PRON	_	_	12	mark	_	Gloss=that
+12	kọ	kọ	VERB	_	_	2	csubj	_	Gloss=written
+13	ọ́	ọ́	PRON	_	_	12	obj	_	Gloss=thee
+14	nínú	nínú	ADP	_	_	15	case	_	Gloss=in
+15	òfin	òfin	NOUN	_	_	12	obl	_	Gloss=law
+16	yín	yín	PRON	_	_	15	nmod	_	Gloss=you
+17	pé	pé	SCONJ	_	_	22	mark	_	SpaceAfter=No|Gloss=saying
+18	,	,	PUNCT	_	_	22	punct	_	Gloss=,
+19	‘	‘	PUNCT	_	_	22	punct	_	SpaceAfter=No|Gloss=say
+20	Mo	Mo	VERB	_	_	22	nsubj	_	Gloss=i
+21	ti	ti	AUX	_	_	22	aux	_	Gloss=have
+22	wí	wí	VERB	_	_	12	xcomp	_	Gloss=said
+23	pé	pé	SCONJ	_	_	26	mark	_	SpaceAfter=No|Gloss=saying
+24	,	,	PUNCT	_	_	26	punct	_	Gloss=,
+25	Ọlọ́run	Ọlọ́run	NOUN	_	_	26	nsubj	_	Gloss=god
+26	ni	ni	AUX	_	_	27	cop	_	Gloss=is
+27	ẹ̀yin	ẹ̀yin	PRON	_	_	22	xcomp	_	Gloss=ye
+28	jẹ́	jẹ́	AUX	_	_	26	compound:svc	_	SpaceAfter=No|Gloss=be
+29	’	’	PUNCT	_	_	22	punct	_	SpaceAfter=No|Gloss=.
+30	?	?	PUNCT	_	_	22	punct	_	Gloss=?
+
+# sent_id = JOHN_10.37
+# text = Bí èmi kò bá ṣe iṣẹ́ Baba mi, ẹ má ṣe gbà mí gbọ́.
+1	Bí	Bí	SCONJ	_	_	5	mark	_	Gloss=as
+2	èmi	èmi	PRON	_	_	5	nsubj	_	Gloss=i
+3	kò	kò	PART	_	_	5	discourse	_	Gloss=not
+4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if
+5	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do
+6	iṣẹ́	iṣẹ́	NOUN	_	_	5	obj	_	Gloss=work
+7	Baba	Baba	NOUN	_	_	5	iobj	_	Gloss=father
+8	mi	mi	PRON	_	_	7	nmod	_	SpaceAfter=No|Gloss=my
+9	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+10	ẹ	ẹ	VERB	_	_	13	nsubj	_	Gloss=ye
+11	má	má	AUX	_	_	13	aux	_	Gloss=not
+12	ṣe	ṣe	AUX	_	_	13	aux	_	Gloss=do
+13	gbà	gbà	VERB	_	_	5	xcomp	_	Gloss=deliver
+14	mí	mí	PRON	_	_	13	obj	_	Gloss=me
+15	gbọ́	gbọ́	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=heard
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = JOHN_10.38
+# text = Ṣùgbọ́n bí èmi bá ṣe wọ́n, bí ẹ̀yin kò tilẹ̀ gbà mí gbọ́, ẹ gbà iṣẹ́ náà gbọ́: kí ẹ̀yin baà lè mọ̀, kí ó sì lè yé yín pé, Baba wà nínú mi, èmi sì wà nínú rẹ̀.”
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but
+2	bí	bí	SCONJ	_	_	5	mark	_	Gloss=as
+3	èmi	èmi	PRON	_	_	5	nsubj	_	Gloss=i
+4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if
+5	ṣe	ṣe	AUX	_	_	12	xcomp	_	Gloss=do
+6	wọ́n	wọ́n	PRON	_	_	5	obj	_	SpaceAfter=No|Gloss=they
+7	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+8	bí	bí	SCONJ	_	_	12	mark	_	Gloss=as
+9	ẹ̀yin	ẹ̀yin	PRON	_	_	12	nsubj	_	Gloss=ye
+10	kò	kò	PART	_	_	12	discourse	_	Gloss=not
+11	tilẹ̀	tilẹ̀	SCONJ	_	_	12	mark	_	Gloss=though
+12	gbà	gbà	VERB	_	_	0	root	_	Gloss=deliver
+13	mí	mí	PRON	_	_	12	obj	_	Gloss=me
+14	gbọ́	gbọ́	VERB	_	_	12	compound:svc	_	SpaceAfter=No|Gloss=heard
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=,
+16	ẹ	ẹ	VERB	_	_	17	nsubj	_	Gloss=ye
+17	gbà	gbà	VERB	_	_	12	xcomp	_	Gloss=deliver
+18	iṣẹ́	iṣẹ́	NOUN	_	_	17	obj	_	Gloss=work
+19	náà	náà	DET	_	_	18	det	_	Gloss=the
+20	gbọ́	gbọ́	VERB	_	_	17	compound	_	SpaceAfter=No|Gloss=heard
+21	:	:	PUNCT	_	_	26	punct	_	Gloss=:
+22	kí	kí	SCONJ	_	_	26	mark	_	Gloss=let
+23	ẹ̀yin	ẹ̀yin	PRON	_	_	26	nsubj	_	Gloss=ye
+24	baà	baà	ADV	_	_	26	aux	_	Gloss=lest
+25	lè	lè	AUX	_	_	26	aux	_	Gloss=may
+26	mọ̀	mọ̀	VERB	_	_	17	xcomp	_	SpaceAfter=No|Gloss=know
+27	,	,	PUNCT	_	_	32	punct	_	Gloss=,
+28	kí	kí	SCONJ	_	_	32	list	_	Gloss=let
+29	ó	ó	PRON	_	_	32	nsubj	_	Gloss=he
+30	sì	sì	CCONJ	_	_	32	case	_	Gloss=and
+31	lè	lè	AUX	_	_	32	aux	_	Gloss=may
+32	yé	yé	VERB	_	_	26	conj	_	Gloss=understand
+33	yín	yín	PRON	_	_	32	obj	_	Gloss=you
+34	pé	pé	SCONJ	_	_	37	mark	_	SpaceAfter=No|Gloss=saying
+35	,	,	PUNCT	_	_	37	punct	_	Gloss=,
+36	Baba	Baba	NOUN	_	_	37	nsubj	_	Gloss=father
+37	wà	wà	AUX	_	_	32	xcomp	_	Gloss=was
+38	nínú	nínú	ADP	_	_	39	case	_	Gloss=in
+39	mi	mi	PRON	_	_	37	cop	_	SpaceAfter=No|Gloss=my
+40	,	,	PUNCT	_	_	43	punct	_	Gloss=,
+41	èmi	èmi	PRON	_	_	43	nsubj	_	Gloss=i
+42	sì	sì	CCONJ	_	_	43	cc	_	Gloss=and
+43	wà	wà	AUX	_	_	32	xcomp	_	Gloss=was
+44	nínú	nínú	ADP	_	_	45	case	_	Gloss=in
+45	rẹ̀	rẹ̀	PRON	_	_	43	cop	_	SpaceAfter=No|Gloss=his
+46	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=.
+47	”	”	PUNCT	_	_	12	punct	_	Gloss=.
+
+# sent_id = JOHN_10.39
+# text = Wọ́n sì tún ń wá ọ̀nà láti mú un: ó sì bọ́ lọ́wọ́ wọn.
+1	Wọ́n	Wọ́n	VERB	_	_	5	nsubj	_	Gloss=they
+2	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and
+3	tún	tún	ADV	_	_	5	advmod	_	Gloss=again
+4	ń	ń	AUX	_	_	5	aux	_	Gloss=that
+5	wá	wá	VERB	_	_	0	root	_	Gloss=come
+6	ọ̀nà	ọ̀nà	NOUN	_	_	5	obj	_	Gloss=way
+7	láti	láti	ADP	_	_	9	mark	_	Gloss=to
+8	mú	mú	VERB	_	_	5	xcomp	_	Gloss=brought
+9	un	un	PRON	_	_	5	obj	_	SpaceAfter=No|Gloss=him
+10	:	:	PUNCT	_	_	13	punct	_	Gloss=:
+11	ó	ó	PRON	_	_	13	nsubj	_	Gloss=he
+12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and
+13	bọ́	bọ́	VERB	_	_	5	xcomp	_	Gloss=off
+14	lọ́wọ́	lọ́wọ́	ADP	_	_	15	case	_	Gloss=hand
+15	wọn	wọn	PRON	_	_	13	obj	_	SpaceAfter=No|Gloss=them
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = JOHN_10.4
+# text = Nígbà tí ó bá sì ti mú àwọn àgùntàn tirẹ̀ jáde, yóò ṣíwájú wọn, àwọn àgùntàn yóò sì máa tọ̀ ọ́ lẹ́yìn: nítorí tí wọ́n mọ ohùn rẹ̀.
+1	Nígbà	Nígbà	ADV	_	_	7	mark	_	Gloss=when
+2	tí	tí	PRON	_	_	7	mark	_	Gloss=that
+3	ó	ó	PRON	_	_	7	nsubj	_	Gloss=he
+4	bá	bá	SCONJ	_	_	7	mark	_	Gloss=if
+5	sì	sì	CCONJ	_	_	7	cc	_	Gloss=and
+6	ti	ti	AUX	_	_	7	aux	_	Gloss=have
+7	mú	mú	VERB	_	_	0	root	_	Gloss=brought
+8	àwọn	àwọn	DET	_	_	9	det	_	Gloss=the
+9	àgùntàn	àgùntàn	NOUN	_	_	7	obj	_	Gloss=sheep
+10	tirẹ̀	tirẹ̀	ADJ	_	_	9	nmod	_	Gloss=his
+11	jáde	jáde	NOUN	_	_	7	obl	_	SpaceAfter=No|Gloss=out
+12	,	,	PUNCT	_	_	13	aux	_	Gloss=,
+13	yóò	yóò	AUX	_	_	15	cop	_	Gloss=shall
+14	ṣíwájú	ṣíwájú	ADP	_	_	15	case	_	Gloss=before
+15	wọn	wọn	PRON	_	_	7	xcomp	_	SpaceAfter=No|Gloss=them
+16	,	,	PUNCT	_	_	22	punct	_	Gloss=,
+17	àwọn	àwọn	DET	_	_	18	det	_	Gloss=the
+18	àgùntàn	àgùntàn	NOUN	_	_	22	nsubj	_	Gloss=sheep
+19	yóò	yóò	ADV	_	_	22	aux	_	Gloss=shall
+20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and
+21	máa	máa	AUX	_	_	22	aux	_	Gloss=be
+22	tọ̀	tọ̀	VERB	_	_	15	conj	_	Gloss=came
+23	ọ́	ọ́	PRON	_	_	22	obj	_	Gloss=thee
+24	lẹ́yìn	lẹ́yìn	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=after
+25	:	:	PUNCT	_	_	29	punct	_	Gloss=:
+26	nítorí	nítorí	SCONJ	_	_	29	mark	_	Gloss=for
+27	tí	tí	PRON	_	_	29	mark	_	Gloss=that
+28	wọ́n	wọ́n	PRON	_	_	29	nsubj	_	Gloss=they
+29	mọ	mọ	VERB	_	_	22	xcomp	_	Gloss=know
+30	ohùn	ohùn	NOUN	_	_	29	obj	_	Gloss=voice
+31	rẹ̀	rẹ̀	PRON	_	_	30	nmod	_	SpaceAfter=No|Gloss=his
+32	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = JOHN_10.41
+# text = Àwọn ènìyàn púpọ̀ sì wá sọ́dọ̀ rẹ̀, wọ́n sì wí pé, “Jòhánù kò ṣe iṣẹ́ àmì kan: Ṣùgbọ́n òtítọ́ ni ohun gbogbo tí Jòhánù sọ nípa ti ọkùnrin yìí.”
+1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the
+2	ènìyàn	ènìyàn	NOUN	_	_	5	nsubj	_	Gloss=people
+3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many
+4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and
+5	wá	wá	VERB	_	_	0	root	_	Gloss=come
+6	sọ́dọ̀	sọ́dọ̀	ADP	_	_	7	case	_	Gloss=unto
+7	rẹ̀	rẹ̀	PRON	_	_	5	obj	_	SpaceAfter=No|Gloss=his
+8	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+9	wọ́n	wọ́n	VERB	_	_	11	nsubj	_	Gloss=they
+10	sì	sì	CCONJ	_	_	11	cc	_	Gloss=and
+11	wí	wí	VERB	_	_	5	conj	_	Gloss=said
+12	pé	pé	SCONJ	_	_	17	mark	_	SpaceAfter=No|Gloss=saying
+13	,	,	PUNCT	_	_	17	punct	_	Gloss=,
+14	“	“	PUNCT	_	_	17	punct	_	SpaceAfter=No|Gloss=“
+15	Jòhánù	Jòhánù	PROPN	_	_	17	nsubj	_	Gloss=john
+16	kò	kò	PART	_	_	17	discourse	_	Gloss=not
+17	ṣe	ṣe	VERB	_	_	11	xcomp	_	Gloss=do
+18	iṣẹ́	iṣẹ́	NOUN	_	_	17	obj	_	Gloss=work
+19	àmì	àmì	NOUN	_	_	18	nmod	_	Gloss=sign
+20	kan	kan	NUM	_	NumType=Card	18	nummod	_	SpaceAfter=No|Gloss=a
+21	:	:	PUNCT	_	_	24	punct	_	Gloss=:
+22	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	24	cc	_	Gloss=but
+23	òtítọ́	òtítọ́	NOUN	_	_	24	nsubj	_	Gloss=truth
+24	ni	ni	AUX	_	_	17	xcomp	_	Gloss=is
+25	ohun	ohun	PRON	_	_	24	obj	_	Gloss=things
+26	gbogbo	gbogbo	DET	_	_	25	det	_	Gloss=all
+27	tí	tí	PRON	_	_	29	mark	_	Gloss=that
+28	Jòhánù	Jòhánù	PROPN	_	_	29	nsubj	_	Gloss=john
+29	sọ	sọ	VERB	_	_	24	xcomp	_	Gloss=spake
+30	nípa	nípa	ADP	_	_	32	case	_	Gloss=by
+31	ti	ti	ADP	_	_	32	case	_	Gloss=have
+32	ọkùnrin	ọkùnrin	NOUN	_	_	29	obj	_	Gloss=man
+33	yìí	yìí	DET	_	_	32	det	_	SpaceAfter=No|Gloss=this
+34	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No|Gloss=.
+35	”	”	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = JOHN_10.42
+# text = Àwọn ènìyàn púpọ̀ níbẹ̀ sì gbàágbọ́.
+1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the
+2	ènìyàn	ènìyàn	NOUN	_	_	6	nsubj	_	Gloss=people
+3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many
+4	níbẹ̀	níbẹ̀	ADV	_	_	2	advmod	_	Gloss=there
+5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and
+6	gbàágbọ́	gbàágbọ́	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=him
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+# sent_id = JOHN_10.5
+# text = Wọn kò jẹ́ tọ àlejò lẹ́yìn, ṣùgbọ́n wọn a sá kúrò lọ́dọ̀ rẹ̀: nítorí tí wọn kò mọ ohùn àlejò.”
+1	Wọn	Wọn	PRON	_	_	3	nsubj	_	Gloss=them
+2	kò	kò	PART	_	_	3	discourse	_	Gloss=not
+3	jẹ́	jẹ́	AUX	_	_	4	aux	_	Gloss=be
+4	tọ	tọ	ADP	_	_	0	root	_	Gloss=came
+5	àlejò	àlejò	NOUN	_	_	4	obj	_	Gloss=stranger
+6	lẹ́yìn	lẹ́yìn	ADP	_	_	5	case	_	SpaceAfter=No|Gloss=after
+7	,	,	PUNCT	_	_	11	punct	_	Gloss=,
+8	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	11	cc	_	Gloss=but
+9	wọn	wọn	PRON	_	_	11	nsubj	_	Gloss=them
+10	a	a	PRON	_	_	11	expl	_	Gloss=be
+11	sá	sá	VERB	_	_	4	xcomp	_	Gloss=fled
+12	kúrò	kúrò	ADP	_	_	14	case	_	Gloss=from
+13	lọ́dọ̀	lọ́dọ̀	ADP	_	_	14	case	_	Gloss=with
+14	rẹ̀	rẹ̀	PRON	_	_	11	obj	_	SpaceAfter=No|Gloss=his
+15	:	:	PUNCT	_	_	20	punct	_	Gloss=:
+16	nítorí	nítorí	SCONJ	_	_	20	mark	_	Gloss=for
+17	tí	tí	PRON	_	_	20	mark	_	Gloss=that
+18	wọn	wọn	PRON	_	_	20	nsubj	_	Gloss=them
+19	kò	kò	PART	_	_	20	discourse	_	Gloss=not
+20	mọ	mọ	VERB	_	_	11	xcomp	_	Gloss=know
+21	ohùn	ohùn	NOUN	_	_	20	obj	_	Gloss=voice
+22	àlejò	àlejò	NOUN	_	_	21	nmod	_	SpaceAfter=No|Gloss=stranger
+23	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No|Gloss=.
+24	”	”	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = JOHN_10.6
+# text = Òwe yìí ni Jésù pa fún wọn: ṣùgbọ́n òye ohun tí nǹkan wọ̀nyí jẹ́ tí ó ń sọ fún wọn kò yé wọn.
+1	Òwe	Òwe	NOUN	_	_	3	nsubj	_	Gloss=parable
+2	yìí	yìí	DET	_	_	1	det	_	Gloss=this
+3	ni	ni	AUX	_	_	5	aux	_	Gloss=is
+4	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus
+5	pa	pa	VERB	_	_	0	root	_	Gloss=keep
+6	fún	fún	ADP	_	_	7	case	_	Gloss=unto
+7	wọn	wọn	PRON	_	_	5	obj	_	SpaceAfter=No|Gloss=them
+8	:	:	PUNCT	_	_	15	punct	_	Gloss=:
+9	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	10	cc	_	Gloss=but
+10	òye	òye	NOUN	_	_	15	nsubj	_	Gloss=understanding
+11	ohun	ohun	PRON	_	_	10	nmod	_	Gloss=things
+12	tí	tí	PRON	_	_	15	mark	_	Gloss=that
+13	nǹkan	nǹkan	NOUN	_	_	15	nsubj	_	Gloss=things
+14	wọ̀nyí	wọ̀nyí	CCONJ	_	_	13	det	_	Gloss=these
+15	jẹ́	jẹ́	AUX	_	_	5	xcomp	_	Gloss=be
+16	tí	tí	PRON	_	_	19	mark	_	Gloss=that
+17	ó	ó	PRON	_	_	19	nsubj	_	Gloss=he
+18	ń	ń	AUX	_	_	19	aux	_	Gloss=that
+19	sọ	sọ	VERB	_	_	5	xcomp	_	Gloss=spake
+20	fún	fún	ADP	_	_	21	case	_	Gloss=unto
+21	wọn	wọn	PRON	_	_	19	obj	_	Gloss=them
+22	kò	kò	PART	_	_	23	discourse	_	Gloss=not
+23	yé	yé	VERB	_	_	19	xcomp	_	Gloss=understand
+24	wọn	wọn	PRON	_	_	23	obj	_	SpaceAfter=No|Gloss=them
+25	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = JOHN_10.7
+# text = Nítorí náà Jésù tún wí fún wọn pé, “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Èmi ni ìlẹ̀kùn àwọn àgùntàn.
+1	Nítorí	Nítorí	SCONJ	_	_	5	mark	_	Gloss=for
+2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the
+3	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus
+4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again
+5	wí	wí	VERB	_	_	0	root	_	Gloss=said
+6	fún	fún	ADP	_	_	7	case	_	Gloss=unto
+7	wọn	wọn	PRON	_	_	5	obj	_	Gloss=them
+8	pé	pé	SCONJ	_	_	16	mark	_	SpaceAfter=No|Gloss=saying
+9	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+10	“	“	PUNCT	_	_	16	punct	_	SpaceAfter=No|Gloss=“
+11	Lóòótọ́	Lóòótọ́	INTJ	_	_	16	discourse	_	SpaceAfter=No|Gloss=verily
+12	,	,	PUNCT	_	_	16	punct	_	Gloss=,
+13	lóòótọ́	lóòótọ́	INTJ	_	_	16	discourse	_	Gloss=verily
+14	ni	ni	AUX	_	_	16	aux	_	Gloss=is
+15	mo	mo	PRON	_	_	16	nsubj	_	Gloss=i
+16	wí	wí	VERB	_	_	5	xcomp	_	Gloss=said
+17	fún	fún	ADP	_	_	18	case	_	Gloss=unto
+18	yín	yín	PRON	_	_	16	obj	_	SpaceAfter=No|Gloss=you
+19	,	,	PUNCT	_	_	21	punct	_	Gloss=,
+20	Èmi	Èmi	PRON	_	_	21	nsubj	_	Gloss=i
+21	ni	ni	AUX	_	_	22	cop	_	Gloss=is
+22	ìlẹ̀kùn	ìlẹ̀kùn	NOUN	_	_	24	nmod	_	Gloss=doors
+23	àwọn	àwọn	DET	_	_	24	det	_	Gloss=the
+24	àgùntàn	àgùntàn	NOUN	_	_	16	xcomp	_	SpaceAfter=No|Gloss=sheep
+25	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+# sent_id = JOHN_10.8
+# text = Olè àti ọlọ́sà ni gbogbo àwọn tí ó ti wà ṣáájú mi: ṣùgbọ́n àwọn àgùntàn kò gbọ́ ti wọn.
+1	Olè	Olè	NOUN	_	_	4	nsubj	_	Gloss=thief
+2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and
+3	ọlọ́sà	ọlọ́sà	NOUN	_	_	1	conj	_	Gloss=robbers
+4	ni	ni	AUX	_	_	6	obj	_	Gloss=is
+5	gbogbo	gbogbo	DET	_	_	6	det	_	Gloss=all
+6	àwọn	àwọn	PRON	_	_	10	nsubj	_	Gloss=the
+7	tí	tí	PRON	_	_	10	mark	_	Gloss=that
+8	ó	ó	PRON	_	_	10	expl	_	Gloss=he
+9	ti	ti	AUX	_	_	10	aux	_	Gloss=have
+10	wà	wà	VERB	_	_	0	root	_	Gloss=was
+11	ṣáájú	ṣáájú	ADP	_	_	12	case	_	Gloss=before
+12	mi	mi	PRON	_	_	10	obj	_	SpaceAfter=No|Gloss=my
+13	:	:	PUNCT	_	_	18	punct	_	Gloss=:
+14	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	18	cc	_	Gloss=but
+15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the
+16	àgùntàn	àgùntàn	NOUN	_	_	18	nsubj	_	Gloss=sheep
+17	kò	kò	PART	_	_	18	discourse	_	Gloss=not
+18	gbọ́	gbọ́	VERB	_	_	10	xcomp	_	Gloss=heard
+19	ti	ti	AUX	_	_	20	goeswith	_	Gloss=have
+20	wọn	wọn	PRON	_	_	18	obj	_	SpaceAfter=No|Gloss=them
+21	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+
