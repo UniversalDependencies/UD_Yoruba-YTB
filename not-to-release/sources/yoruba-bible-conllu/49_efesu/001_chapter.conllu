@@ -1,0 +1,652 @@
+# source = Bibeli Mimọ, Éfésù, Chapter 1
+# newdoc id = EPH_1
+# sent_id = EPH_1.1
+# text = Pọ́ọ̀lù, Àpósítélì Jésù Kírísítì nípa ìfẹ́ Ọlọ́run, Sí àwọn ènìyàn mímọ́ tí ó wà ní Éfésù, àti sí àwọn olótìtọ́ nínú Kírísíti Jésù:
+1	Pọ́ọ̀lù	Pọ́ọ̀lù	PROPN	_	_	0	_	_	Ref=EPH_1.1|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.1
+3	Àpósítélì	àpósítélì	X	_	_	0	_	_	Ref=EPH_1.1
+4	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=EPH_1.1
+5	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.1
+6	nípa	nípa	X	_	_	0	_	_	Ref=EPH_1.1
+7	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=EPH_1.1
+8	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EPH_1.1|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.1
+10	Sí	sí	X	_	_	0	_	_	Ref=EPH_1.1
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.1
+12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=EPH_1.1
+13	mímọ́	mímọ́	X	_	_	0	_	_	Ref=EPH_1.1
+14	tí	tí	X	_	_	0	_	_	Ref=EPH_1.1
+15	ó	ó	X	_	_	0	_	_	Ref=EPH_1.1
+16	wà	wà	X	_	_	0	_	_	Ref=EPH_1.1
+17	ní	ní	X	_	_	0	_	_	Ref=EPH_1.1
+18	Éfésù	Éfésù	PROPN	_	_	0	_	_	Ref=EPH_1.1|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.1
+20	àti	àti	X	_	_	0	_	_	Ref=EPH_1.1
+21	sí	sí	X	_	_	0	_	_	Ref=EPH_1.1
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.1
+23	olótìtọ́	olótìtọ́	X	_	_	0	_	_	Ref=EPH_1.1
+24	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.1
+25	Kírísíti	Kírísíti	PROPN	_	_	0	_	_	Ref=EPH_1.1
+26	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=EPH_1.1|SpaceAfter=No
+27	:	:	PUNCT	_	_	0	punct	_	Ref=EPH_1.1
+
+# sent_id = EPH_1.2
+# text = Oore ọ̀fẹ́ sí yín àti àlàáfíà, láti ọ̀dọ̀ Ọlọ́run Baba wá àti Jésù Kírísítì Olúwa.
+1	Oore	oore	X	_	_	0	_	_	Ref=EPH_1.2
+2	ọ̀fẹ́	ọ̀fẹ́	X	_	_	0	_	_	Ref=EPH_1.2
+3	sí	sí	X	_	_	0	_	_	Ref=EPH_1.2
+4	yín	yín	X	_	_	0	_	_	Ref=EPH_1.2
+5	àti	àti	X	_	_	0	_	_	Ref=EPH_1.2
+6	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=EPH_1.2|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.2
+8	láti	láti	X	_	_	0	_	_	Ref=EPH_1.2
+9	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=EPH_1.2
+10	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EPH_1.2
+11	Baba	baba	X	_	_	0	_	_	Ref=EPH_1.2
+12	wá	wá	X	_	_	0	_	_	Ref=EPH_1.2
+13	àti	àti	X	_	_	0	_	_	Ref=EPH_1.2
+14	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=EPH_1.2
+15	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.2
+16	Olúwa	olúwa	X	_	_	0	_	_	Ref=EPH_1.2|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.2
+
+# sent_id = EPH_1.3
+# text = Ògo ni fún Ọlọ́run àti Baba Jésù Kírísítì Olúwa wa, ẹni tí ó ti bùkún wa láti inú ọ̀run wá pẹ̀lú àwọn ìbùkún ẹ̀mí gbogbo nínú Kírísítì.
+1	Ògo	ògo	X	_	_	0	_	_	Ref=EPH_1.3
+2	ni	ni	X	_	_	0	_	_	Ref=EPH_1.3
+3	fún	fún	X	_	_	0	_	_	Ref=EPH_1.3
+4	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EPH_1.3
+5	àti	àti	X	_	_	0	_	_	Ref=EPH_1.3
+6	Baba	baba	X	_	_	0	_	_	Ref=EPH_1.3
+7	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=EPH_1.3
+8	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.3
+9	Olúwa	olúwa	X	_	_	0	_	_	Ref=EPH_1.3
+10	wa	wa	X	_	_	0	_	_	Ref=EPH_1.3|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.3
+12	ẹni	ẹni	X	_	_	0	_	_	Ref=EPH_1.3
+13	tí	tí	X	_	_	0	_	_	Ref=EPH_1.3
+14	ó	ó	X	_	_	0	_	_	Ref=EPH_1.3
+15	ti	ti	X	_	_	0	_	_	Ref=EPH_1.3
+16	bùkún	bùkún	X	_	_	0	_	_	Ref=EPH_1.3
+17	wa	wa	X	_	_	0	_	_	Ref=EPH_1.3
+18	láti	láti	X	_	_	0	_	_	Ref=EPH_1.3
+19	inú	inú	X	_	_	0	_	_	Ref=EPH_1.3
+20	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=EPH_1.3
+21	wá	wá	X	_	_	0	_	_	Ref=EPH_1.3
+22	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EPH_1.3
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.3
+24	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=EPH_1.3
+25	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=EPH_1.3
+26	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.3
+27	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.3
+28	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.3|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.3
+
+# sent_id = EPH_1.4
+# text = Àní, gẹ́gẹ́ bí o ti yàn wá nínú rẹ̀ ṣáájú ìpìlẹ̀ṣẹ̀ ayé, láti jẹ́ mímọ́ àti aláìlábùkù níwájú rẹ̀. Nínú ìfẹ́
+1	Àní	àní	X	_	_	0	_	_	Ref=EPH_1.4|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.4
+3	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EPH_1.4
+4	bí	bí	X	_	_	0	_	_	Ref=EPH_1.4
+5	o	o	X	_	_	0	_	_	Ref=EPH_1.4
+6	ti	ti	X	_	_	0	_	_	Ref=EPH_1.4
+7	yàn	yàn	X	_	_	0	_	_	Ref=EPH_1.4
+8	wá	wá	X	_	_	0	_	_	Ref=EPH_1.4
+9	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.4
+10	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.4
+11	ṣáájú	ṣáájú	X	_	_	0	_	_	Ref=EPH_1.4
+12	ìpìlẹ̀ṣẹ̀	ìpìlẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=EPH_1.4
+13	ayé	ayé	X	_	_	0	_	_	Ref=EPH_1.4|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.4
+15	láti	láti	X	_	_	0	_	_	Ref=EPH_1.4
+16	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EPH_1.4
+17	mímọ́	mímọ́	X	_	_	0	_	_	Ref=EPH_1.4
+18	àti	àti	X	_	_	0	_	_	Ref=EPH_1.4
+19	aláìlábùkù	aláìlábùkù	X	_	_	0	_	_	Ref=EPH_1.4
+20	níwájú	níwájú	X	_	_	0	_	_	Ref=EPH_1.4
+21	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.4|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.4
+23	Nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.4
+24	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=EPH_1.4
+
+# sent_id = EPH_1.5
+# text = ni Ó ti yàn wá tẹ́lẹ̀ sí ìsọdọmọ nípa Jésù Kírísítì fún ara rẹ̀, ní ìbámu ìdùnnú ìfẹ́ rẹ̀
+1	ni	ni	X	_	_	0	_	_	Ref=EPH_1.5
+2	Ó	ó	X	_	_	0	_	_	Ref=EPH_1.5
+3	ti	ti	X	_	_	0	_	_	Ref=EPH_1.5
+4	yàn	yàn	X	_	_	0	_	_	Ref=EPH_1.5
+5	wá	wá	X	_	_	0	_	_	Ref=EPH_1.5
+6	tẹ́lẹ̀	tẹ́lẹ̀	X	_	_	0	_	_	Ref=EPH_1.5
+7	sí	sí	X	_	_	0	_	_	Ref=EPH_1.5
+8	ìsọdọmọ	ìsọdọmọ	X	_	_	0	_	_	Ref=EPH_1.5
+9	nípa	nípa	X	_	_	0	_	_	Ref=EPH_1.5
+10	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=EPH_1.5
+11	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.5
+12	fún	fún	X	_	_	0	_	_	Ref=EPH_1.5
+13	ara	ara	X	_	_	0	_	_	Ref=EPH_1.5
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.5|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.5
+16	ní	ní	X	_	_	0	_	_	Ref=EPH_1.5
+17	ìbámu	ìbámu	X	_	_	0	_	_	Ref=EPH_1.5
+18	ìdùnnú	ìdùnnú	X	_	_	0	_	_	Ref=EPH_1.5
+19	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=EPH_1.5
+20	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.5
+
+# sent_id = EPH_1.6
+# text = fún ìyìn ogo oore ọ̀fẹ́ rẹ̀, èyí tí Ó ti fi fún wa nínú Àyànfẹ́ rẹ̀:
+1	fún	fún	X	_	_	0	_	_	Ref=EPH_1.6
+2	ìyìn	ìyìn	X	_	_	0	_	_	Ref=EPH_1.6
+3	ogo	ogo	X	_	_	0	_	_	Ref=EPH_1.6
+4	oore	oore	X	_	_	0	_	_	Ref=EPH_1.6
+5	ọ̀fẹ́	ọ̀fẹ́	X	_	_	0	_	_	Ref=EPH_1.6
+6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.6|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.6
+8	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.6
+9	tí	tí	X	_	_	0	_	_	Ref=EPH_1.6
+10	Ó	ó	X	_	_	0	_	_	Ref=EPH_1.6
+11	ti	ti	X	_	_	0	_	_	Ref=EPH_1.6
+12	fi	fi	X	_	_	0	_	_	Ref=EPH_1.6
+13	fún	fún	X	_	_	0	_	_	Ref=EPH_1.6
+14	wa	wa	X	_	_	0	_	_	Ref=EPH_1.6
+15	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.6
+16	Àyànfẹ́	àyànfẹ́	X	_	_	0	_	_	Ref=EPH_1.6
+17	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.6|SpaceAfter=No
+18	:	:	PUNCT	_	_	0	punct	_	Ref=EPH_1.6
+
+# sent_id = EPH_1.7
+# text = Nínú rẹ̀ ni àwa ni ìràpadà wa nípa ẹ̀jẹ̀ rẹ̀, ìdáríjì àwọn ẹ̀ṣẹ̀ wa, ní ìbámu pẹ̀lú ọrọ̀ oore-ọ̀fẹ́ Ọlọ́run
+1	Nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.7
+2	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.7
+3	ni	ni	X	_	_	0	_	_	Ref=EPH_1.7
+4	àwa	àwa	X	_	_	0	_	_	Ref=EPH_1.7
+5	ni	ni	X	_	_	0	_	_	Ref=EPH_1.7
+6	ìràpadà	ìràpadà	X	_	_	0	_	_	Ref=EPH_1.7
+7	wa	wa	X	_	_	0	_	_	Ref=EPH_1.7
+8	nípa	nípa	X	_	_	0	_	_	Ref=EPH_1.7
+9	ẹ̀jẹ̀	ẹ̀jẹ̀	X	_	_	0	_	_	Ref=EPH_1.7
+10	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.7|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.7
+12	ìdáríjì	ìdáríjì	X	_	_	0	_	_	Ref=EPH_1.7
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.7
+14	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=EPH_1.7
+15	wa	wa	X	_	_	0	_	_	Ref=EPH_1.7|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.7
+17	ní	ní	X	_	_	0	_	_	Ref=EPH_1.7
+18	ìbámu	ìbámu	X	_	_	0	_	_	Ref=EPH_1.7
+19	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EPH_1.7
+20	ọrọ̀	ọrọ̀	X	_	_	0	_	_	Ref=EPH_1.7
+21	oore	oore	X	_	_	0	_	_	Ref=EPH_1.7|SpaceAfter=No
+22	-	-	PUNCT	_	_	0	punct	_	Ref=EPH_1.7|SpaceAfter=No
+23	ọ̀fẹ́	ọ̀fẹ́	X	_	_	0	_	_	Ref=EPH_1.7
+24	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EPH_1.7
+
+# sent_id = EPH_1.8
+# text = èyí tí ó ya lù wá pẹ̀lú gbogbo ọgbọ́n àti ìmòye,
+1	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.8
+2	tí	tí	X	_	_	0	_	_	Ref=EPH_1.8
+3	ó	ó	X	_	_	0	_	_	Ref=EPH_1.8
+4	ya	ya	X	_	_	0	_	_	Ref=EPH_1.8
+5	lù	lù	X	_	_	0	_	_	Ref=EPH_1.8
+6	wá	wá	X	_	_	0	_	_	Ref=EPH_1.8
+7	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EPH_1.8
+8	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.8
+9	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=EPH_1.8
+10	àti	àti	X	_	_	0	_	_	Ref=EPH_1.8
+11	ìmòye	ìmòye	X	_	_	0	_	_	Ref=EPH_1.8|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.8
+
+# sent_id = EPH_1.9
+# text = Ó ti sọ ohun ìjìnlẹ̀ ìfẹ́ rẹ̀ di mímọ̀ fún wa, gẹ́gẹ́ bí idùnnù rere rẹ̀, èyí ti o pinnu nínú Kírísítì,
+1	Ó	ó	X	_	_	0	_	_	Ref=EPH_1.9
+2	ti	ti	X	_	_	0	_	_	Ref=EPH_1.9
+3	sọ	sọ	X	_	_	0	_	_	Ref=EPH_1.9
+4	ohun	ohun	X	_	_	0	_	_	Ref=EPH_1.9
+5	ìjìnlẹ̀	ìjìnlẹ̀	X	_	_	0	_	_	Ref=EPH_1.9
+6	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=EPH_1.9
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.9
+8	di	di	X	_	_	0	_	_	Ref=EPH_1.9
+9	mímọ̀	mímọ̀	X	_	_	0	_	_	Ref=EPH_1.9
+10	fún	fún	X	_	_	0	_	_	Ref=EPH_1.9
+11	wa	wa	X	_	_	0	_	_	Ref=EPH_1.9|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.9
+13	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EPH_1.9
+14	bí	bí	X	_	_	0	_	_	Ref=EPH_1.9
+15	idùnnù	idùnnù	X	_	_	0	_	_	Ref=EPH_1.9
+16	rere	rere	X	_	_	0	_	_	Ref=EPH_1.9
+17	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.9|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.9
+19	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.9
+20	ti	ti	X	_	_	0	_	_	Ref=EPH_1.9
+21	o	o	X	_	_	0	_	_	Ref=EPH_1.9
+22	pinnu	pinnu	X	_	_	0	_	_	Ref=EPH_1.9
+23	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.9
+24	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.9|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.9
+
+# sent_id = EPH_1.10
+# text = èyí tí yóò jẹ jáde ní kíkún àkókò, láti ṣe àkójọpọ̀ àwọn ohun tí ọ̀run àti ti ayé lábẹ́ orí kan àní Kírísítì.
+1	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.10
+2	tí	tí	X	_	_	0	_	_	Ref=EPH_1.10
+3	yóò	yóò	X	_	_	0	_	_	Ref=EPH_1.10
+4	jẹ	jẹ	X	_	_	0	_	_	Ref=EPH_1.10
+5	jáde	jáde	X	_	_	0	_	_	Ref=EPH_1.10
+6	ní	ní	X	_	_	0	_	_	Ref=EPH_1.10
+7	kíkún	kíkún	X	_	_	0	_	_	Ref=EPH_1.10
+8	àkókò	àkókò	X	_	_	0	_	_	Ref=EPH_1.10|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.10
+10	láti	láti	X	_	_	0	_	_	Ref=EPH_1.10
+11	ṣe	ṣe	X	_	_	0	_	_	Ref=EPH_1.10
+12	àkójọpọ̀	àkójọpọ̀	X	_	_	0	_	_	Ref=EPH_1.10
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.10
+14	ohun	ohun	X	_	_	0	_	_	Ref=EPH_1.10
+15	tí	tí	X	_	_	0	_	_	Ref=EPH_1.10
+16	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=EPH_1.10
+17	àti	àti	X	_	_	0	_	_	Ref=EPH_1.10
+18	ti	ti	X	_	_	0	_	_	Ref=EPH_1.10
+19	ayé	ayé	X	_	_	0	_	_	Ref=EPH_1.10
+20	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=EPH_1.10
+21	orí	orí	X	_	_	0	_	_	Ref=EPH_1.10
+22	kan	kan	X	_	_	0	_	_	Ref=EPH_1.10
+23	àní	àní	X	_	_	0	_	_	Ref=EPH_1.10
+24	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.10|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.10
+
+# sent_id = EPH_1.11
+# text = Nínú rẹ̀ ni a yàn wá fẹ́ lẹ́hìn tí ó ti yàn wá tẹ́lẹ̀ gẹ́gẹ́ bí ìpinu ẹni tí ń ṣiṣẹ́ ohun gbogbo ní ìbámu ìfẹ́ rẹ̀,
+1	Nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.11
+2	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.11
+3	ni	ni	X	_	_	0	_	_	Ref=EPH_1.11
+4	a	a	X	_	_	0	_	_	Ref=EPH_1.11
+5	yàn	yàn	X	_	_	0	_	_	Ref=EPH_1.11
+6	wá	wá	X	_	_	0	_	_	Ref=EPH_1.11
+7	fẹ́	fẹ́	X	_	_	0	_	_	Ref=EPH_1.11
+8	lẹ́hìn	lẹ́hìn	X	_	_	0	_	_	Ref=EPH_1.11
+9	tí	tí	X	_	_	0	_	_	Ref=EPH_1.11
+10	ó	ó	X	_	_	0	_	_	Ref=EPH_1.11
+11	ti	ti	X	_	_	0	_	_	Ref=EPH_1.11
+12	yàn	yàn	X	_	_	0	_	_	Ref=EPH_1.11
+13	wá	wá	X	_	_	0	_	_	Ref=EPH_1.11
+14	tẹ́lẹ̀	tẹ́lẹ̀	X	_	_	0	_	_	Ref=EPH_1.11
+15	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EPH_1.11
+16	bí	bí	X	_	_	0	_	_	Ref=EPH_1.11
+17	ìpinu	ìpinu	X	_	_	0	_	_	Ref=EPH_1.11
+18	ẹni	ẹni	X	_	_	0	_	_	Ref=EPH_1.11
+19	tí	tí	X	_	_	0	_	_	Ref=EPH_1.11
+20	ń	ń	X	_	_	0	_	_	Ref=EPH_1.11
+21	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=EPH_1.11
+22	ohun	ohun	X	_	_	0	_	_	Ref=EPH_1.11
+23	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.11
+24	ní	ní	X	_	_	0	_	_	Ref=EPH_1.11
+25	ìbámu	ìbámu	X	_	_	0	_	_	Ref=EPH_1.11
+26	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=EPH_1.11
+27	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.11|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.11
+
+# sent_id = EPH_1.12
+# text = kí àwa tí ó jẹ́ àkóso ìrètí nínú Kírísítì lè jásí ìyìn ògo rẹ̀.
+1	kí	kí	X	_	_	0	_	_	Ref=EPH_1.12
+2	àwa	àwa	X	_	_	0	_	_	Ref=EPH_1.12
+3	tí	tí	X	_	_	0	_	_	Ref=EPH_1.12
+4	ó	ó	X	_	_	0	_	_	Ref=EPH_1.12
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EPH_1.12
+6	àkóso	àkóso	X	_	_	0	_	_	Ref=EPH_1.12
+7	ìrètí	ìrètí	X	_	_	0	_	_	Ref=EPH_1.12
+8	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.12
+9	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.12
+10	lè	lè	X	_	_	0	_	_	Ref=EPH_1.12
+11	jásí	jásí	X	_	_	0	_	_	Ref=EPH_1.12
+12	ìyìn	ìyìn	X	_	_	0	_	_	Ref=EPH_1.12
+13	ògo	ògo	X	_	_	0	_	_	Ref=EPH_1.12
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.12|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.12
+
+# sent_id = EPH_1.13
+# text = Àti ẹ̀yin pẹ̀lú darapọ̀ nínú Kírísítì nígbà tí ẹ̀yin gbọ́ ọ̀rọ̀ òtítọ́ náà àní ìyìnrere ìgbàlà yin. Lẹ́yìn tí ẹ̀yin gbàgbọ́, a lù yín ní òǹtẹ̀ Ẹ̀mí Mímọ́ èyí tí a ti ṣe ìlérí rẹ̀ tẹ́lẹ̀,
+1	Àti	àti	X	_	_	0	_	_	Ref=EPH_1.13
+2	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=EPH_1.13
+3	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EPH_1.13
+4	darapọ̀	darapọ̀	X	_	_	0	_	_	Ref=EPH_1.13
+5	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.13
+6	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.13
+7	nígbà	nígbà	X	_	_	0	_	_	Ref=EPH_1.13
+8	tí	tí	X	_	_	0	_	_	Ref=EPH_1.13
+9	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=EPH_1.13
+10	gbọ́	gbọ́	X	_	_	0	_	_	Ref=EPH_1.13
+11	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=EPH_1.13
+12	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=EPH_1.13
+13	náà	náà	X	_	_	0	_	_	Ref=EPH_1.13
+14	àní	àní	X	_	_	0	_	_	Ref=EPH_1.13
+15	ìyìnrere	ìyìnrere	X	_	_	0	_	_	Ref=EPH_1.13
+16	ìgbàlà	ìgbàlà	X	_	_	0	_	_	Ref=EPH_1.13
+17	yin	yin	X	_	_	0	_	_	Ref=EPH_1.13|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.13
+19	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=EPH_1.13
+20	tí	tí	X	_	_	0	_	_	Ref=EPH_1.13
+21	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=EPH_1.13
+22	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=EPH_1.13|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.13
+24	a	a	X	_	_	0	_	_	Ref=EPH_1.13
+25	lù	lù	X	_	_	0	_	_	Ref=EPH_1.13
+26	yín	yín	X	_	_	0	_	_	Ref=EPH_1.13
+27	ní	ní	X	_	_	0	_	_	Ref=EPH_1.13
+28	òǹtẹ̀	òǹtẹ̀	X	_	_	0	_	_	Ref=EPH_1.13
+29	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=EPH_1.13
+30	Mímọ́	mímọ́	X	_	_	0	_	_	Ref=EPH_1.13
+31	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.13
+32	tí	tí	X	_	_	0	_	_	Ref=EPH_1.13
+33	a	a	X	_	_	0	_	_	Ref=EPH_1.13
+34	ti	ti	X	_	_	0	_	_	Ref=EPH_1.13
+35	ṣe	ṣe	X	_	_	0	_	_	Ref=EPH_1.13
+36	ìlérí	ìlérí	X	_	_	0	_	_	Ref=EPH_1.13
+37	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.13
+38	tẹ́lẹ̀	tẹ́lẹ̀	X	_	_	0	_	_	Ref=EPH_1.13|SpaceAfter=No
+39	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.13
+
+# sent_id = EPH_1.14
+# text = èyí tí ó jẹ́ ìdánilójú àsansílẹ̀ ogún wa títí yóò fi di àkókò ìràpadà àwọn tí í ṣe ìní Ọlọ́run sí ìyìn ògo rẹ̀.
+1	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.14
+2	tí	tí	X	_	_	0	_	_	Ref=EPH_1.14
+3	ó	ó	X	_	_	0	_	_	Ref=EPH_1.14
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EPH_1.14
+5	ìdánilójú	ìdánilójú	X	_	_	0	_	_	Ref=EPH_1.14
+6	àsansílẹ̀	àsansílẹ̀	X	_	_	0	_	_	Ref=EPH_1.14
+7	ogún	ogún	X	_	_	0	_	_	Ref=EPH_1.14
+8	wa	wa	X	_	_	0	_	_	Ref=EPH_1.14
+9	títí	títí	X	_	_	0	_	_	Ref=EPH_1.14
+10	yóò	yóò	X	_	_	0	_	_	Ref=EPH_1.14
+11	fi	fi	X	_	_	0	_	_	Ref=EPH_1.14
+12	di	di	X	_	_	0	_	_	Ref=EPH_1.14
+13	àkókò	àkókò	X	_	_	0	_	_	Ref=EPH_1.14
+14	ìràpadà	ìràpadà	X	_	_	0	_	_	Ref=EPH_1.14
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.14
+16	tí	tí	X	_	_	0	_	_	Ref=EPH_1.14
+17	í	í	X	_	_	0	_	_	Ref=EPH_1.14
+18	ṣe	ṣe	X	_	_	0	_	_	Ref=EPH_1.14
+19	ìní	ìní	X	_	_	0	_	_	Ref=EPH_1.14
+20	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EPH_1.14
+21	sí	sí	X	_	_	0	_	_	Ref=EPH_1.14
+22	ìyìn	ìyìn	X	_	_	0	_	_	Ref=EPH_1.14
+23	ògo	ògo	X	_	_	0	_	_	Ref=EPH_1.14
+24	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.14|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.14
+
+# sent_id = EPH_1.15
+# text = Nítorí ìdí èyí, nígbà tí mo ti gbúro ìgbàgbọ́ ti ń bẹ láàárin yín nínú Jésù Olúwa, àti ìfẹ́ yín sí gbogbo àwọn ènìyàn mímọ́.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=EPH_1.15
+2	ìdí	ìdí	X	_	_	0	_	_	Ref=EPH_1.15
+3	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.15|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.15
+5	nígbà	nígbà	X	_	_	0	_	_	Ref=EPH_1.15
+6	tí	tí	X	_	_	0	_	_	Ref=EPH_1.15
+7	mo	mo	X	_	_	0	_	_	Ref=EPH_1.15
+8	ti	ti	X	_	_	0	_	_	Ref=EPH_1.15
+9	gbúro	gbúro	X	_	_	0	_	_	Ref=EPH_1.15
+10	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=EPH_1.15
+11	ti	ti	X	_	_	0	_	_	Ref=EPH_1.15
+12	ń	ń	X	_	_	0	_	_	Ref=EPH_1.15
+13	bẹ	bẹ	X	_	_	0	_	_	Ref=EPH_1.15
+14	láàárin	láàárin	X	_	_	0	_	_	Ref=EPH_1.15
+15	yín	yín	X	_	_	0	_	_	Ref=EPH_1.15
+16	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.15
+17	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=EPH_1.15
+18	Olúwa	olúwa	X	_	_	0	_	_	Ref=EPH_1.15|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.15
+20	àti	àti	X	_	_	0	_	_	Ref=EPH_1.15
+21	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=EPH_1.15
+22	yín	yín	X	_	_	0	_	_	Ref=EPH_1.15
+23	sí	sí	X	_	_	0	_	_	Ref=EPH_1.15
+24	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.15
+25	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.15
+26	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=EPH_1.15
+27	mímọ́	mímọ́	X	_	_	0	_	_	Ref=EPH_1.15|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.15
+
+# sent_id = EPH_1.16
+# text = Èmi kò sì sinmi láti máa dúpẹ́ nítorí yín, àti láti máa rántí yín nínú àdúrà mi;
+1	Èmi	èmi	X	_	_	0	_	_	Ref=EPH_1.16
+2	kò	kò	X	_	_	0	_	_	Ref=EPH_1.16
+3	sì	sì	X	_	_	0	_	_	Ref=EPH_1.16
+4	sinmi	sinmi	X	_	_	0	_	_	Ref=EPH_1.16
+5	láti	láti	X	_	_	0	_	_	Ref=EPH_1.16
+6	máa	máa	X	_	_	0	_	_	Ref=EPH_1.16
+7	dúpẹ́	dúpẹ́	X	_	_	0	_	_	Ref=EPH_1.16
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=EPH_1.16
+9	yín	yín	X	_	_	0	_	_	Ref=EPH_1.16|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.16
+11	àti	àti	X	_	_	0	_	_	Ref=EPH_1.16
+12	láti	láti	X	_	_	0	_	_	Ref=EPH_1.16
+13	máa	máa	X	_	_	0	_	_	Ref=EPH_1.16
+14	rántí	rántí	X	_	_	0	_	_	Ref=EPH_1.16
+15	yín	yín	X	_	_	0	_	_	Ref=EPH_1.16
+16	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.16
+17	àdúrà	àdúrà	X	_	_	0	_	_	Ref=EPH_1.16
+18	mi	mi	X	_	_	0	_	_	Ref=EPH_1.16|SpaceAfter=No
+19	;	;	PUNCT	_	_	0	punct	_	Ref=EPH_1.16
+
+# sent_id = EPH_1.17
+# text = Mo sì ń bèèrè nígbàgbogbo pé kí Ọlọ́run Jésù Kírísítì Olúwa wa, Baba ògo, lè fún yín ni Ẹ̀mí nípa ti ọ̀gbọ́n àti ti ìfihàn kí ẹ̀yin kí ó tún lè mọ̀ọ́ sí i.
+1	Mo	mo	X	_	_	0	_	_	Ref=EPH_1.17
+2	sì	sì	X	_	_	0	_	_	Ref=EPH_1.17
+3	ń	ń	X	_	_	0	_	_	Ref=EPH_1.17
+4	bèèrè	bèèrè	X	_	_	0	_	_	Ref=EPH_1.17
+5	nígbàgbogbo	nígbàgbogbo	X	_	_	0	_	_	Ref=EPH_1.17
+6	pé	pé	X	_	_	0	_	_	Ref=EPH_1.17
+7	kí	kí	X	_	_	0	_	_	Ref=EPH_1.17
+8	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EPH_1.17
+9	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=EPH_1.17
+10	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.17
+11	Olúwa	olúwa	X	_	_	0	_	_	Ref=EPH_1.17
+12	wa	wa	X	_	_	0	_	_	Ref=EPH_1.17|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.17
+14	Baba	baba	X	_	_	0	_	_	Ref=EPH_1.17
+15	ògo	ògo	X	_	_	0	_	_	Ref=EPH_1.17|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.17
+17	lè	lè	X	_	_	0	_	_	Ref=EPH_1.17
+18	fún	fún	X	_	_	0	_	_	Ref=EPH_1.17
+19	yín	yín	X	_	_	0	_	_	Ref=EPH_1.17
+20	ni	ni	X	_	_	0	_	_	Ref=EPH_1.17
+21	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=EPH_1.17
+22	nípa	nípa	X	_	_	0	_	_	Ref=EPH_1.17
+23	ti	ti	X	_	_	0	_	_	Ref=EPH_1.17
+24	ọ̀gbọ́n	ọ̀gbọ́n	X	_	_	0	_	_	Ref=EPH_1.17
+25	àti	àti	X	_	_	0	_	_	Ref=EPH_1.17
+26	ti	ti	X	_	_	0	_	_	Ref=EPH_1.17
+27	ìfihàn	ìfihàn	X	_	_	0	_	_	Ref=EPH_1.17
+28	kí	kí	X	_	_	0	_	_	Ref=EPH_1.17
+29	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=EPH_1.17
+30	kí	kí	X	_	_	0	_	_	Ref=EPH_1.17
+31	ó	ó	X	_	_	0	_	_	Ref=EPH_1.17
+32	tún	tún	X	_	_	0	_	_	Ref=EPH_1.17
+33	lè	lè	X	_	_	0	_	_	Ref=EPH_1.17
+34	mọ̀ọ́	mọ̀ọ́	X	_	_	0	_	_	Ref=EPH_1.17
+35	sí	sí	X	_	_	0	_	_	Ref=EPH_1.17
+36	i	i	X	_	_	0	_	_	Ref=EPH_1.17|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.17
+
+# sent_id = EPH_1.18
+# text = Mo tún ń gbàdúrà bákan náà wí pé kí ojú ọkan yín lè mọ́lẹ̀; kí ẹ̀yin lè mọ ohun tí ìreti ìpè rẹ̀ jẹ́, àti ọrọ̀ ògo rẹ̀ èyí tí í ṣe ogún àwọn ènìyàn mímọ́.
+1	Mo	mo	X	_	_	0	_	_	Ref=EPH_1.18
+2	tún	tún	X	_	_	0	_	_	Ref=EPH_1.18
+3	ń	ń	X	_	_	0	_	_	Ref=EPH_1.18
+4	gbàdúrà	gbàdúrà	X	_	_	0	_	_	Ref=EPH_1.18
+5	bákan	bákan	X	_	_	0	_	_	Ref=EPH_1.18
+6	náà	náà	X	_	_	0	_	_	Ref=EPH_1.18
+7	wí	wí	X	_	_	0	_	_	Ref=EPH_1.18
+8	pé	pé	X	_	_	0	_	_	Ref=EPH_1.18
+9	kí	kí	X	_	_	0	_	_	Ref=EPH_1.18
+10	ojú	ojú	X	_	_	0	_	_	Ref=EPH_1.18
+11	ọkan	ọkan	X	_	_	0	_	_	Ref=EPH_1.18
+12	yín	yín	X	_	_	0	_	_	Ref=EPH_1.18
+13	lè	lè	X	_	_	0	_	_	Ref=EPH_1.18
+14	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=EPH_1.18|SpaceAfter=No
+15	;	;	PUNCT	_	_	0	punct	_	Ref=EPH_1.18
+16	kí	kí	X	_	_	0	_	_	Ref=EPH_1.18
+17	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=EPH_1.18
+18	lè	lè	X	_	_	0	_	_	Ref=EPH_1.18
+19	mọ	mọ	X	_	_	0	_	_	Ref=EPH_1.18
+20	ohun	ohun	X	_	_	0	_	_	Ref=EPH_1.18
+21	tí	tí	X	_	_	0	_	_	Ref=EPH_1.18
+22	ìreti	ìreti	X	_	_	0	_	_	Ref=EPH_1.18
+23	ìpè	ìpè	X	_	_	0	_	_	Ref=EPH_1.18
+24	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.18
+25	jẹ́	jẹ́	X	_	_	0	_	_	Ref=EPH_1.18|SpaceAfter=No
+26	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.18
+27	àti	àti	X	_	_	0	_	_	Ref=EPH_1.18
+28	ọrọ̀	ọrọ̀	X	_	_	0	_	_	Ref=EPH_1.18
+29	ògo	ògo	X	_	_	0	_	_	Ref=EPH_1.18
+30	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.18
+31	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.18
+32	tí	tí	X	_	_	0	_	_	Ref=EPH_1.18
+33	í	í	X	_	_	0	_	_	Ref=EPH_1.18
+34	ṣe	ṣe	X	_	_	0	_	_	Ref=EPH_1.18
+35	ogún	ogún	X	_	_	0	_	_	Ref=EPH_1.18
+36	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.18
+37	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=EPH_1.18
+38	mímọ́	mímọ́	X	_	_	0	_	_	Ref=EPH_1.18|SpaceAfter=No
+39	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.18
+
+# sent_id = EPH_1.19
+# text = àti aláìlẹ́gbẹ́ títóbi agbára rẹ̀ fún àwa tí a gbàgbọ́. Gẹ́gẹ́ bí iṣẹ agbára rẹ̀,
+1	àti	àti	X	_	_	0	_	_	Ref=EPH_1.19
+2	aláìlẹ́gbẹ́	aláìlẹ́gbẹ́	X	_	_	0	_	_	Ref=EPH_1.19
+3	títóbi	títóbi	X	_	_	0	_	_	Ref=EPH_1.19
+4	agbára	agbára	X	_	_	0	_	_	Ref=EPH_1.19
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.19
+6	fún	fún	X	_	_	0	_	_	Ref=EPH_1.19
+7	àwa	àwa	X	_	_	0	_	_	Ref=EPH_1.19
+8	tí	tí	X	_	_	0	_	_	Ref=EPH_1.19
+9	a	a	X	_	_	0	_	_	Ref=EPH_1.19
+10	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=EPH_1.19|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.19
+12	Gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=EPH_1.19
+13	bí	bí	X	_	_	0	_	_	Ref=EPH_1.19
+14	iṣẹ	iṣẹ	X	_	_	0	_	_	Ref=EPH_1.19
+15	agbára	agbára	X	_	_	0	_	_	Ref=EPH_1.19
+16	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.19|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.19
+
+# sent_id = EPH_1.20
+# text = èyí tí ó fi sínú Kírísítì, nígbà tí o ti jí dìde kúrò nínú òkú, tí ó sì mú un jòkòó lọ́wọ́ ọ̀tún nínú àwọn ọ̀run.
+1	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.20
+2	tí	tí	X	_	_	0	_	_	Ref=EPH_1.20
+3	ó	ó	X	_	_	0	_	_	Ref=EPH_1.20
+4	fi	fi	X	_	_	0	_	_	Ref=EPH_1.20
+5	sínú	sínú	X	_	_	0	_	_	Ref=EPH_1.20
+6	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=EPH_1.20|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.20
+8	nígbà	nígbà	X	_	_	0	_	_	Ref=EPH_1.20
+9	tí	tí	X	_	_	0	_	_	Ref=EPH_1.20
+10	o	o	X	_	_	0	_	_	Ref=EPH_1.20
+11	ti	ti	X	_	_	0	_	_	Ref=EPH_1.20
+12	jí	jí	X	_	_	0	_	_	Ref=EPH_1.20
+13	dìde	dìde	X	_	_	0	_	_	Ref=EPH_1.20
+14	kúrò	kúrò	X	_	_	0	_	_	Ref=EPH_1.20
+15	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.20
+16	òkú	òkú	X	_	_	0	_	_	Ref=EPH_1.20|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.20
+18	tí	tí	X	_	_	0	_	_	Ref=EPH_1.20
+19	ó	ó	X	_	_	0	_	_	Ref=EPH_1.20
+20	sì	sì	X	_	_	0	_	_	Ref=EPH_1.20
+21	mú	mú	X	_	_	0	_	_	Ref=EPH_1.20
+22	un	un	X	_	_	0	_	_	Ref=EPH_1.20
+23	jòkòó	jòkòó	X	_	_	0	_	_	Ref=EPH_1.20
+24	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=EPH_1.20
+25	ọ̀tún	ọ̀tún	X	_	_	0	_	_	Ref=EPH_1.20
+26	nínú	nínú	X	_	_	0	_	_	Ref=EPH_1.20
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=EPH_1.20
+28	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=EPH_1.20|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.20
+
+# sent_id = EPH_1.21
+# text = Ó gbé e ga ju gbogbo ìsàkóso, àti àṣẹ, àti agbára, àti ilẹ̀ ọba àti gbogbo àpèlé orúkọ tí a lè ti fún mi, kì í ṣe ni ayé yìí nìkan, ṣùgbọ́n ni èyí tí ń bọ̀ pẹ̀lú.
+1	Ó	ó	X	_	_	0	_	_	Ref=EPH_1.21
+2	gbé	gbé	X	_	_	0	_	_	Ref=EPH_1.21
+3	e	e	X	_	_	0	_	_	Ref=EPH_1.21
+4	ga	ga	X	_	_	0	_	_	Ref=EPH_1.21
+5	ju	ju	X	_	_	0	_	_	Ref=EPH_1.21
+6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.21
+7	ìsàkóso	ìsàkóso	X	_	_	0	_	_	Ref=EPH_1.21|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.21
+9	àti	àti	X	_	_	0	_	_	Ref=EPH_1.21
+10	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=EPH_1.21|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.21
+12	àti	àti	X	_	_	0	_	_	Ref=EPH_1.21
+13	agbára	agbára	X	_	_	0	_	_	Ref=EPH_1.21|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.21
+15	àti	àti	X	_	_	0	_	_	Ref=EPH_1.21
+16	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=EPH_1.21
+17	ọba	ọba	X	_	_	0	_	_	Ref=EPH_1.21
+18	àti	àti	X	_	_	0	_	_	Ref=EPH_1.21
+19	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.21
+20	àpèlé	àpèlé	X	_	_	0	_	_	Ref=EPH_1.21
+21	orúkọ	orúkọ	X	_	_	0	_	_	Ref=EPH_1.21
+22	tí	tí	X	_	_	0	_	_	Ref=EPH_1.21
+23	a	a	X	_	_	0	_	_	Ref=EPH_1.21
+24	lè	lè	X	_	_	0	_	_	Ref=EPH_1.21
+25	ti	ti	X	_	_	0	_	_	Ref=EPH_1.21
+26	fún	fún	X	_	_	0	_	_	Ref=EPH_1.21
+27	mi	mi	X	_	_	0	_	_	Ref=EPH_1.21|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.21
+29	kì	kì	X	_	_	0	_	_	Ref=EPH_1.21
+30	í	í	X	_	_	0	_	_	Ref=EPH_1.21
+31	ṣe	ṣe	X	_	_	0	_	_	Ref=EPH_1.21
+32	ni	ni	X	_	_	0	_	_	Ref=EPH_1.21
+33	ayé	ayé	X	_	_	0	_	_	Ref=EPH_1.21
+34	yìí	yìí	X	_	_	0	_	_	Ref=EPH_1.21
+35	nìkan	nìkan	X	_	_	0	_	_	Ref=EPH_1.21|SpaceAfter=No
+36	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.21
+37	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=EPH_1.21
+38	ni	ni	X	_	_	0	_	_	Ref=EPH_1.21
+39	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.21
+40	tí	tí	X	_	_	0	_	_	Ref=EPH_1.21
+41	ń	ń	X	_	_	0	_	_	Ref=EPH_1.21
+42	bọ̀	bọ̀	X	_	_	0	_	_	Ref=EPH_1.21
+43	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=EPH_1.21|SpaceAfter=No
+44	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.21
+
+# sent_id = EPH_1.22
+# text = Ọlọ́run sì ti fi ohun gbogbo sábẹ́ ẹsẹ̀ rẹ̀, ó sì fi í ṣe orí lórí ohun gbogbo fún ìjọ.
+1	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=EPH_1.22
+2	sì	sì	X	_	_	0	_	_	Ref=EPH_1.22
+3	ti	ti	X	_	_	0	_	_	Ref=EPH_1.22
+4	fi	fi	X	_	_	0	_	_	Ref=EPH_1.22
+5	ohun	ohun	X	_	_	0	_	_	Ref=EPH_1.22
+6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.22
+7	sábẹ́	sábẹ́	X	_	_	0	_	_	Ref=EPH_1.22
+8	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=EPH_1.22
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.22|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.22
+11	ó	ó	X	_	_	0	_	_	Ref=EPH_1.22
+12	sì	sì	X	_	_	0	_	_	Ref=EPH_1.22
+13	fi	fi	X	_	_	0	_	_	Ref=EPH_1.22
+14	í	í	X	_	_	0	_	_	Ref=EPH_1.22
+15	ṣe	ṣe	X	_	_	0	_	_	Ref=EPH_1.22
+16	orí	orí	X	_	_	0	_	_	Ref=EPH_1.22
+17	lórí	lórí	X	_	_	0	_	_	Ref=EPH_1.22
+18	ohun	ohun	X	_	_	0	_	_	Ref=EPH_1.22
+19	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.22
+20	fún	fún	X	_	_	0	_	_	Ref=EPH_1.22
+21	ìjọ	ìjọ	X	_	_	0	_	_	Ref=EPH_1.22|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.22
+
+# sent_id = EPH_1.23
+# text = èyí tí i ṣe ara rẹ̀, ẹ̀kún ẹni tí o kún ohun gbogbo ní gbogbo ọ̀nà.
+1	èyí	èyí	X	_	_	0	_	_	Ref=EPH_1.23
+2	tí	tí	X	_	_	0	_	_	Ref=EPH_1.23
+3	i	i	X	_	_	0	_	_	Ref=EPH_1.23
+4	ṣe	ṣe	X	_	_	0	_	_	Ref=EPH_1.23
+5	ara	ara	X	_	_	0	_	_	Ref=EPH_1.23
+6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=EPH_1.23|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=EPH_1.23
+8	ẹ̀kún	ẹ̀kún	X	_	_	0	_	_	Ref=EPH_1.23
+9	ẹni	ẹni	X	_	_	0	_	_	Ref=EPH_1.23
+10	tí	tí	X	_	_	0	_	_	Ref=EPH_1.23
+11	o	o	X	_	_	0	_	_	Ref=EPH_1.23
+12	kún	kún	X	_	_	0	_	_	Ref=EPH_1.23
+13	ohun	ohun	X	_	_	0	_	_	Ref=EPH_1.23
+14	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.23
+15	ní	ní	X	_	_	0	_	_	Ref=EPH_1.23
+16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=EPH_1.23
+17	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=EPH_1.23|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=EPH_1.23
+

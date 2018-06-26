@@ -1,0 +1,1489 @@
+# source = Bibeli Mimọ, Lúùkù, Chapter 2
+# newdoc id = LUKE_2
+# sent_id = LUKE_2.1
+# text = Ó sì ṣe ní ọjọ́ wọ̀n-ọn-nì, àṣẹ ti ọ̀dọ̀ Késárì Ògọ́sítù jáde wá pé, kí a kọ orúkọ gbogbo ìjọba Rosínú ìwé.
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.1
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.1
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.1
+4	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.1
+5	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LUKE_2.1
+6	wọ̀n	wọ̀n	X	_	_	0	_	_	Ref=LUKE_2.1|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.1|SpaceAfter=No
+8	ọn	ọn	X	_	_	0	_	_	Ref=LUKE_2.1|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.1|SpaceAfter=No
+10	nì	nì	X	_	_	0	_	_	Ref=LUKE_2.1|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.1
+12	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=LUKE_2.1
+13	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.1
+14	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LUKE_2.1
+15	Késárì	Késárì	PROPN	_	_	0	_	_	Ref=LUKE_2.1
+16	Ògọ́sítù	Ògọ́sítù	PROPN	_	_	0	_	_	Ref=LUKE_2.1
+17	jáde	jáde	X	_	_	0	_	_	Ref=LUKE_2.1
+18	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.1
+19	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.1|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.1
+21	kí	kí	X	_	_	0	_	_	Ref=LUKE_2.1
+22	a	a	X	_	_	0	_	_	Ref=LUKE_2.1
+23	kọ	kọ	X	_	_	0	_	_	Ref=LUKE_2.1
+24	orúkọ	orúkọ	X	_	_	0	_	_	Ref=LUKE_2.1
+25	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.1
+26	ìjọba	ìjọba	X	_	_	0	_	_	Ref=LUKE_2.1
+27	Rosínú	Rosínú	PROPN	_	_	0	_	_	Ref=LUKE_2.1
+28	ìwé	ìwé	X	_	_	0	_	_	Ref=LUKE_2.1|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.1
+
+# sent_id = LUKE_2.2
+# text = (Èyí ni ìkọ sínú ìwé ìkínní tí a ṣe nígbà tí Kíréníyù fi jẹ Baálẹ̀ Síríà.)
+1	(	(	PUNCT	_	_	0	punct	_	Ref=LUKE_2.2|SpaceAfter=No
+2	Èyí	èyí	X	_	_	0	_	_	Ref=LUKE_2.2
+3	ni	ni	X	_	_	0	_	_	Ref=LUKE_2.2
+4	ìkọ	ìkọ	X	_	_	0	_	_	Ref=LUKE_2.2
+5	sínú	sínú	X	_	_	0	_	_	Ref=LUKE_2.2
+6	ìwé	ìwé	X	_	_	0	_	_	Ref=LUKE_2.2
+7	ìkínní	ìkínní	X	_	_	0	_	_	Ref=LUKE_2.2
+8	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.2
+9	a	a	X	_	_	0	_	_	Ref=LUKE_2.2
+10	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.2
+11	nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.2
+12	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.2
+13	Kíréníyù	Kíréníyù	PROPN	_	_	0	_	_	Ref=LUKE_2.2
+14	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.2
+15	jẹ	jẹ	X	_	_	0	_	_	Ref=LUKE_2.2
+16	Baálẹ̀	baálẹ̀	X	_	_	0	_	_	Ref=LUKE_2.2
+17	Síríà	síríà	X	_	_	0	_	_	Ref=LUKE_2.2|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.2|SpaceAfter=No
+19	)	)	PUNCT	_	_	0	punct	_	Ref=LUKE_2.2
+
+# sent_id = LUKE_2.3
+# text = Gbogbo àwọn ènìyàn sì lọ láti kọ orúkọ rẹ̀ sínú ìwé, olúkúlùkù sí ìlú ara rẹ̀.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.3
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.3
+3	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LUKE_2.3
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.3
+5	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.3
+6	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.3
+7	kọ	kọ	X	_	_	0	_	_	Ref=LUKE_2.3
+8	orúkọ	orúkọ	X	_	_	0	_	_	Ref=LUKE_2.3
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.3
+10	sínú	sínú	X	_	_	0	_	_	Ref=LUKE_2.3
+11	ìwé	ìwé	X	_	_	0	_	_	Ref=LUKE_2.3|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.3
+13	olúkúlùkù	olúkúlùkù	X	_	_	0	_	_	Ref=LUKE_2.3
+14	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.3
+15	ìlú	ìlú	X	_	_	0	_	_	Ref=LUKE_2.3
+16	ara	ara	X	_	_	0	_	_	Ref=LUKE_2.3
+17	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.3|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.3
+
+# sent_id = LUKE_2.4
+# text = Jóṣéfù pẹ̀lú sì gòkè láti Násárẹ́tì ìlú Gálílì, sí ìlú Dáfídì ní Jùdéà, tí à ń pè ní Bétílẹ́hẹ́mù; nítorí ti ìran àti ìdílé Dáfídì ní í ṣe,
+1	Jóṣéfù	Jóṣéfù	PROPN	_	_	0	_	_	Ref=LUKE_2.4
+2	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LUKE_2.4
+3	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.4
+4	gòkè	gòkè	X	_	_	0	_	_	Ref=LUKE_2.4
+5	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.4
+6	Násárẹ́tì	Násárẹ́tì	PROPN	_	_	0	_	_	Ref=LUKE_2.4
+7	ìlú	ìlú	X	_	_	0	_	_	Ref=LUKE_2.4
+8	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=LUKE_2.4|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.4
+10	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.4
+11	ìlú	ìlú	X	_	_	0	_	_	Ref=LUKE_2.4
+12	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=LUKE_2.4
+13	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.4
+14	Jùdéà	Jùdéà	PROPN	_	_	0	_	_	Ref=LUKE_2.4|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.4
+16	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.4
+17	à	à	X	_	_	0	_	_	Ref=LUKE_2.4
+18	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.4
+19	pè	pè	X	_	_	0	_	_	Ref=LUKE_2.4
+20	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.4
+21	Bétílẹ́hẹ́mù	Bétílẹ́hẹ́mù	PROPN	_	_	0	_	_	Ref=LUKE_2.4|SpaceAfter=No
+22	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.4
+23	nítorí	nítorí	X	_	_	0	_	_	Ref=LUKE_2.4
+24	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.4
+25	ìran	ìran	X	_	_	0	_	_	Ref=LUKE_2.4
+26	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.4
+27	ìdílé	ìdílé	X	_	_	0	_	_	Ref=LUKE_2.4
+28	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=LUKE_2.4
+29	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.4
+30	í	í	X	_	_	0	_	_	Ref=LUKE_2.4
+31	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.4|SpaceAfter=No
+32	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.4
+
+# sent_id = LUKE_2.5
+# text = Láti kọ orúkọ rẹ̀, pẹ̀lú Màríà aya rẹ̀ àfẹ́sọ́nà, tí oyún rẹ̀ tí tó bi.
+1	Láti	láti	X	_	_	0	_	_	Ref=LUKE_2.5
+2	kọ	kọ	X	_	_	0	_	_	Ref=LUKE_2.5
+3	orúkọ	orúkọ	X	_	_	0	_	_	Ref=LUKE_2.5
+4	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.5|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.5
+6	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LUKE_2.5
+7	Màríà	Màríà	PROPN	_	_	0	_	_	Ref=LUKE_2.5
+8	aya	aya	X	_	_	0	_	_	Ref=LUKE_2.5
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.5
+10	àfẹ́sọ́nà	àfẹ́sọ́nà	X	_	_	0	_	_	Ref=LUKE_2.5|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.5
+12	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.5
+13	oyún	oyún	X	_	_	0	_	_	Ref=LUKE_2.5
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.5
+15	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.5
+16	tó	tó	X	_	_	0	_	_	Ref=LUKE_2.5
+17	bi	bi	X	_	_	0	_	_	Ref=LUKE_2.5|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.5
+
+# sent_id = LUKE_2.6
+# text = Ó sì ṣe, nígbà tí wọ́n wà níbẹ̀, ọjọ́ rẹ̀ pé tí òun óò bí.
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.6
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.6
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.6|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.6
+5	nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.6
+6	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.6
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.6
+8	wà	wà	X	_	_	0	_	_	Ref=LUKE_2.6
+9	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=LUKE_2.6|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.6
+11	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LUKE_2.6
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.6
+13	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.6
+14	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.6
+15	òun	òun	X	_	_	0	_	_	Ref=LUKE_2.6
+16	óò	óò	X	_	_	0	_	_	Ref=LUKE_2.6
+17	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.6|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.6
+
+# sent_id = LUKE_2.7
+# text = Ó sì bí àkọ́bí rẹ̀ ọmọkùnrin, ó sì fi ọ̀já wé e, ó sì tẹ́ ẹ sínú ibùjẹ ẹran; nítorí tí àyè kò sí fún wọn nínú ilé èrò.
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.7
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.7
+3	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.7
+4	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=LUKE_2.7
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.7
+6	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=LUKE_2.7|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.7
+8	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.7
+9	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.7
+10	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.7
+11	ọ̀já	ọ̀já	X	_	_	0	_	_	Ref=LUKE_2.7
+12	wé	wé	X	_	_	0	_	_	Ref=LUKE_2.7
+13	e	e	X	_	_	0	_	_	Ref=LUKE_2.7|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.7
+15	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.7
+16	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.7
+17	tẹ́	tẹ́	X	_	_	0	_	_	Ref=LUKE_2.7
+18	ẹ	ẹ	X	_	_	0	_	_	Ref=LUKE_2.7
+19	sínú	sínú	X	_	_	0	_	_	Ref=LUKE_2.7
+20	ibùjẹ	ibùjẹ	X	_	_	0	_	_	Ref=LUKE_2.7
+21	ẹran	ẹran	X	_	_	0	_	_	Ref=LUKE_2.7|SpaceAfter=No
+22	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.7
+23	nítorí	nítorí	X	_	_	0	_	_	Ref=LUKE_2.7
+24	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.7
+25	àyè	àyè	X	_	_	0	_	_	Ref=LUKE_2.7
+26	kò	kò	X	_	_	0	_	_	Ref=LUKE_2.7
+27	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.7
+28	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.7
+29	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.7
+30	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.7
+31	ilé	ilé	X	_	_	0	_	_	Ref=LUKE_2.7
+32	èrò	èrò	X	_	_	0	_	_	Ref=LUKE_2.7|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.7
+
+# sent_id = LUKE_2.8
+# text = Àwọn olùsọ́-àgùntàn ńbẹ tí wọ́n ń gbé ní ìlú náà, wọ́n ń sọ́ agbo àgùntàn wọn ní òru ní pápá tí wọ́n ń gbé.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.8
+2	olùsọ́	olùsọ́	X	_	_	0	_	_	Ref=LUKE_2.8|SpaceAfter=No
+3	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.8|SpaceAfter=No
+4	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=LUKE_2.8
+5	ńbẹ	ńbẹ	X	_	_	0	_	_	Ref=LUKE_2.8
+6	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.8
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.8
+8	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.8
+9	gbé	gbé	X	_	_	0	_	_	Ref=LUKE_2.8
+10	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.8
+11	ìlú	ìlú	X	_	_	0	_	_	Ref=LUKE_2.8
+12	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.8|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.8
+14	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.8
+15	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.8
+16	sọ́	sọ́	X	_	_	0	_	_	Ref=LUKE_2.8
+17	agbo	agbo	X	_	_	0	_	_	Ref=LUKE_2.8
+18	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=LUKE_2.8
+19	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.8
+20	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.8
+21	òru	òru	X	_	_	0	_	_	Ref=LUKE_2.8
+22	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.8
+23	pápá	pápá	X	_	_	0	_	_	Ref=LUKE_2.8
+24	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.8
+25	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.8
+26	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.8
+27	gbé	gbé	X	_	_	0	_	_	Ref=LUKE_2.8|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.8
+
+# sent_id = LUKE_2.9
+# text = Ańgẹ́lì Olúwa sì yọ sí wọn, ògo Olúwa sì ràn yí wọn ká: ẹ̀rù sì bà wọ́n gidigidi.
+1	Ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=LUKE_2.9
+2	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.9
+3	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.9
+4	yọ	yọ	X	_	_	0	_	_	Ref=LUKE_2.9
+5	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.9
+6	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.9|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.9
+8	ògo	ògo	X	_	_	0	_	_	Ref=LUKE_2.9
+9	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.9
+10	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.9
+11	ràn	ràn	X	_	_	0	_	_	Ref=LUKE_2.9
+12	yí	yí	X	_	_	0	_	_	Ref=LUKE_2.9
+13	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.9
+14	ká	ká	X	_	_	0	_	_	Ref=LUKE_2.9|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.9
+16	ẹ̀rù	ẹ̀rù	X	_	_	0	_	_	Ref=LUKE_2.9
+17	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.9
+18	bà	bà	X	_	_	0	_	_	Ref=LUKE_2.9
+19	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.9
+20	gidigidi	gidigidi	X	_	_	0	_	_	Ref=LUKE_2.9|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.9
+
+# sent_id = LUKE_2.10
+# text = Ańgẹ́lì náà sì wí fún wọn pé, Má bẹ̀rù: sá wò ó, mo mú ìyìn rere ayọ̀ ńlá fún yín wá, tí yóò ṣe ti ènìyàn gbogbo.
+1	Ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=LUKE_2.10
+2	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.10
+3	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.10
+4	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.10
+5	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.10
+6	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.10
+7	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.10|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.10
+9	Má	má	X	_	_	0	_	_	Ref=LUKE_2.10
+10	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=LUKE_2.10|SpaceAfter=No
+11	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.10
+12	sá	sá	X	_	_	0	_	_	Ref=LUKE_2.10
+13	wò	wò	X	_	_	0	_	_	Ref=LUKE_2.10
+14	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.10|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.10
+16	mo	mo	X	_	_	0	_	_	Ref=LUKE_2.10
+17	mú	mú	X	_	_	0	_	_	Ref=LUKE_2.10
+18	ìyìn	ìyìn	X	_	_	0	_	_	Ref=LUKE_2.10
+19	rere	rere	X	_	_	0	_	_	Ref=LUKE_2.10
+20	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=LUKE_2.10
+21	ńlá	ńlá	X	_	_	0	_	_	Ref=LUKE_2.10
+22	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.10
+23	yín	yín	X	_	_	0	_	_	Ref=LUKE_2.10
+24	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.10|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.10
+26	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.10
+27	yóò	yóò	X	_	_	0	_	_	Ref=LUKE_2.10
+28	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.10
+29	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.10
+30	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LUKE_2.10
+31	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.10|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.10
+
+# sent_id = LUKE_2.11
+# text = Nítorí a ti bí Olùgbàlà fún yín lónì-ín ní ìlú Dáfídì, tí í ṣe Kírísítì Olúwa.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LUKE_2.11
+2	a	a	X	_	_	0	_	_	Ref=LUKE_2.11
+3	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.11
+4	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.11
+5	Olùgbàlà	olùgbàlà	X	_	_	0	_	_	Ref=LUKE_2.11
+6	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.11
+7	yín	yín	X	_	_	0	_	_	Ref=LUKE_2.11
+8	lónì	lónì	X	_	_	0	_	_	Ref=LUKE_2.11|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.11|SpaceAfter=No
+10	ín	ín	X	_	_	0	_	_	Ref=LUKE_2.11
+11	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.11
+12	ìlú	ìlú	X	_	_	0	_	_	Ref=LUKE_2.11
+13	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=LUKE_2.11|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.11
+15	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.11
+16	í	í	X	_	_	0	_	_	Ref=LUKE_2.11
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.11
+18	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=LUKE_2.11
+19	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.11|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.11
+
+# sent_id = LUKE_2.12
+# text = Èyí ni yóò sì ṣe àmì fún yín; ẹ̀yin yóò rí ọmọ-ọwọ́ tí a fi ọ̀já wé, ó dùbúlẹ̀ ní ibùjẹ ẹran.
+1	Èyí	èyí	X	_	_	0	_	_	Ref=LUKE_2.12
+2	ni	ni	X	_	_	0	_	_	Ref=LUKE_2.12
+3	yóò	yóò	X	_	_	0	_	_	Ref=LUKE_2.12
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.12
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.12
+6	àmì	àmì	X	_	_	0	_	_	Ref=LUKE_2.12
+7	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.12
+8	yín	yín	X	_	_	0	_	_	Ref=LUKE_2.12|SpaceAfter=No
+9	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.12
+10	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=LUKE_2.12
+11	yóò	yóò	X	_	_	0	_	_	Ref=LUKE_2.12
+12	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.12
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.12|SpaceAfter=No
+14	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.12|SpaceAfter=No
+15	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LUKE_2.12
+16	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.12
+17	a	a	X	_	_	0	_	_	Ref=LUKE_2.12
+18	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.12
+19	ọ̀já	ọ̀já	X	_	_	0	_	_	Ref=LUKE_2.12
+20	wé	wé	X	_	_	0	_	_	Ref=LUKE_2.12|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.12
+22	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.12
+23	dùbúlẹ̀	dùbúlẹ̀	X	_	_	0	_	_	Ref=LUKE_2.12
+24	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.12
+25	ibùjẹ	ibùjẹ	X	_	_	0	_	_	Ref=LUKE_2.12
+26	ẹran	ẹran	X	_	_	0	_	_	Ref=LUKE_2.12|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.12
+
+# sent_id = LUKE_2.13
+# text = Ọ̀pọ̀lọpọ̀ ogun ọ̀run sì darapọ̀ mọ́ Ańgẹ́lì náà ní òjijì, wọ́n ń yin Ọlọ́run, wí pé,
+1	Ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	X	_	_	0	_	_	Ref=LUKE_2.13
+2	ogun	ogun	X	_	_	0	_	_	Ref=LUKE_2.13
+3	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LUKE_2.13
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.13
+5	darapọ̀	darapọ̀	X	_	_	0	_	_	Ref=LUKE_2.13
+6	mọ́	mọ́	X	_	_	0	_	_	Ref=LUKE_2.13
+7	Ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=LUKE_2.13
+8	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.13
+9	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.13
+10	òjijì	òjijì	X	_	_	0	_	_	Ref=LUKE_2.13|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.13
+12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.13
+13	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.13
+14	yin	yin	X	_	_	0	_	_	Ref=LUKE_2.13
+15	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LUKE_2.13|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.13
+17	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.13
+18	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.13|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.13
+
+# sent_id = LUKE_2.14
+# text = “Ògo ni fún Ọlọ́run lókè ọ̀run, Àti ní ayé àlààáfíà, ìfẹ́ inú rere sí ènìyàn.”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.14|SpaceAfter=No
+2	Ògo	ògo	X	_	_	0	_	_	Ref=LUKE_2.14
+3	ni	ni	X	_	_	0	_	_	Ref=LUKE_2.14
+4	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.14
+5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LUKE_2.14
+6	lókè	lókè	X	_	_	0	_	_	Ref=LUKE_2.14
+7	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LUKE_2.14|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.14
+9	Àti	àti	X	_	_	0	_	_	Ref=LUKE_2.14
+10	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.14
+11	ayé	ayé	X	_	_	0	_	_	Ref=LUKE_2.14
+12	àlààáfíà	àlààáfíà	X	_	_	0	_	_	Ref=LUKE_2.14|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.14
+14	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=LUKE_2.14
+15	inú	inú	X	_	_	0	_	_	Ref=LUKE_2.14
+16	rere	rere	X	_	_	0	_	_	Ref=LUKE_2.14
+17	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.14
+18	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LUKE_2.14|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.14|SpaceAfter=No
+20	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.14
+
+# sent_id = LUKE_2.15
+# text = Ó sì ṣe, nígbà tí àwọn ańgẹ́lì náà padà kúrò lọ́dọ̀ wọn lọ sí ọ̀run, àwọn Olùṣọ́-àgùntàn náà bá ara wọn sọ pé, “Ẹ jẹ́ kí á lọ tàrà sí Bẹ́tílẹ́hẹ́mù, kí á lè rí ohun tí ó ṣẹ̀ jẹ, tí Olúwa ti sọ nípa rẹ̀ fún wa.”
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.15
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.15
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.15|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15
+5	nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.15
+6	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.15
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.15
+8	ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=LUKE_2.15
+9	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.15
+10	padà	padà	X	_	_	0	_	_	Ref=LUKE_2.15
+11	kúrò	kúrò	X	_	_	0	_	_	Ref=LUKE_2.15
+12	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=LUKE_2.15
+13	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.15
+14	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.15
+15	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.15
+16	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LUKE_2.15|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.15
+19	Olùṣọ́	olùṣọ́	X	_	_	0	_	_	Ref=LUKE_2.15|SpaceAfter=No
+20	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15|SpaceAfter=No
+21	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=LUKE_2.15
+22	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.15
+23	bá	bá	X	_	_	0	_	_	Ref=LUKE_2.15
+24	ara	ara	X	_	_	0	_	_	Ref=LUKE_2.15
+25	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.15
+26	sọ	sọ	X	_	_	0	_	_	Ref=LUKE_2.15
+27	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.15|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15
+29	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15|SpaceAfter=No
+30	Ẹ	ẹ	X	_	_	0	_	_	Ref=LUKE_2.15
+31	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LUKE_2.15
+32	kí	kí	X	_	_	0	_	_	Ref=LUKE_2.15
+33	á	á	X	_	_	0	_	_	Ref=LUKE_2.15
+34	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.15
+35	tàrà	tàrà	X	_	_	0	_	_	Ref=LUKE_2.15
+36	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.15
+37	Bẹ́tílẹ́hẹ́mù	Bẹ́tílẹ́hẹ́mù	PROPN	_	_	0	_	_	Ref=LUKE_2.15|SpaceAfter=No
+38	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15
+39	kí	kí	X	_	_	0	_	_	Ref=LUKE_2.15
+40	á	á	X	_	_	0	_	_	Ref=LUKE_2.15
+41	lè	lè	X	_	_	0	_	_	Ref=LUKE_2.15
+42	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.15
+43	ohun	ohun	X	_	_	0	_	_	Ref=LUKE_2.15
+44	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.15
+45	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.15
+46	ṣẹ̀	ṣẹ̀	X	_	_	0	_	_	Ref=LUKE_2.15
+47	jẹ	jẹ	X	_	_	0	_	_	Ref=LUKE_2.15|SpaceAfter=No
+48	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15
+49	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.15
+50	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.15
+51	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.15
+52	sọ	sọ	X	_	_	0	_	_	Ref=LUKE_2.15
+53	nípa	nípa	X	_	_	0	_	_	Ref=LUKE_2.15
+54	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.15
+55	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.15
+56	wa	wa	X	_	_	0	_	_	Ref=LUKE_2.15|SpaceAfter=No
+57	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15|SpaceAfter=No
+58	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.15
+
+# sent_id = LUKE_2.16
+# text = Wọ́n sì wá lọ́gán, wọ́n sì rí Màríà àti Jósẹ́fù, àti ọmọ-ọwọ́ náà, ó dùbúlẹ̀ nínú ibùjẹ ẹran.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.16
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.16
+3	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.16
+4	lọ́gán	lọ́gán	X	_	_	0	_	_	Ref=LUKE_2.16|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.16
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.16
+7	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.16
+8	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.16
+9	Màríà	Màríà	PROPN	_	_	0	_	_	Ref=LUKE_2.16
+10	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.16
+11	Jósẹ́fù	Jósẹ́fù	PROPN	_	_	0	_	_	Ref=LUKE_2.16|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.16
+13	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.16
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.16|SpaceAfter=No
+15	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.16|SpaceAfter=No
+16	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LUKE_2.16
+17	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.16|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.16
+19	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.16
+20	dùbúlẹ̀	dùbúlẹ̀	X	_	_	0	_	_	Ref=LUKE_2.16
+21	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.16
+22	ibùjẹ	ibùjẹ	X	_	_	0	_	_	Ref=LUKE_2.16
+23	ẹran	ẹran	X	_	_	0	_	_	Ref=LUKE_2.16|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.16
+
+# sent_id = LUKE_2.17
+# text = Nígbà tí wọ́n sì ti rí i, wọ́n sọ ohun tí a ti wí fún wọn nípa ti ọmọ yìí.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.17
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.17
+3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.17
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.17
+5	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.17
+6	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.17
+7	i	i	X	_	_	0	_	_	Ref=LUKE_2.17|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.17
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.17
+10	sọ	sọ	X	_	_	0	_	_	Ref=LUKE_2.17
+11	ohun	ohun	X	_	_	0	_	_	Ref=LUKE_2.17
+12	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.17
+13	a	a	X	_	_	0	_	_	Ref=LUKE_2.17
+14	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.17
+15	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.17
+16	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.17
+17	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.17
+18	nípa	nípa	X	_	_	0	_	_	Ref=LUKE_2.17
+19	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.17
+20	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.17
+21	yìí	yìí	X	_	_	0	_	_	Ref=LUKE_2.17|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.17
+
+# sent_id = LUKE_2.18
+# text = Ẹnu sì ya gbogbo àwọn tí ó gbọ́ sí nǹkan wọ̀nyí tí a ti wí fún wọn láti ọ̀dọ̀ àwọn olùṣọ́-àgùntàn wá.
+1	Ẹnu	ẹnu	X	_	_	0	_	_	Ref=LUKE_2.18
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.18
+3	ya	ya	X	_	_	0	_	_	Ref=LUKE_2.18
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.18
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.18
+6	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.18
+7	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.18
+8	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LUKE_2.18
+9	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.18
+10	nǹkan	nǹkan	X	_	_	0	_	_	Ref=LUKE_2.18
+11	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=LUKE_2.18
+12	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.18
+13	a	a	X	_	_	0	_	_	Ref=LUKE_2.18
+14	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.18
+15	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.18
+16	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.18
+17	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.18
+18	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.18
+19	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LUKE_2.18
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.18
+21	olùṣọ́	olùṣọ́	X	_	_	0	_	_	Ref=LUKE_2.18|SpaceAfter=No
+22	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.18|SpaceAfter=No
+23	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=LUKE_2.18
+24	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.18|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.18
+
+# sent_id = LUKE_2.19
+# text = Ṣùgbọ́n Màríà pa gbogbo nǹkan wọ̀nyí mọ́, ó ń rò wọ́n nínú ọkàn rẹ̀.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=LUKE_2.19
+2	Màríà	Màríà	PROPN	_	_	0	_	_	Ref=LUKE_2.19
+3	pa	pa	X	_	_	0	_	_	Ref=LUKE_2.19
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.19
+5	nǹkan	nǹkan	X	_	_	0	_	_	Ref=LUKE_2.19
+6	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=LUKE_2.19
+7	mọ́	mọ́	X	_	_	0	_	_	Ref=LUKE_2.19|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.19
+9	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.19
+10	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.19
+11	rò	rò	X	_	_	0	_	_	Ref=LUKE_2.19
+12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.19
+13	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.19
+14	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LUKE_2.19
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.19|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.19
+
+# sent_id = LUKE_2.20
+# text = Àwọn olùṣọ́-àgùntàn sì padà lọ, wọ́n ń fi ògo fún Ọlọ́run, wọ́n sì yìn ín, nítorí ohun gbogbo tí wọ́n ti gbọ́ àti tí wọ́n ti rí, bí a ti wí i fún wọn.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.20
+2	olùṣọ́	olùṣọ́	X	_	_	0	_	_	Ref=LUKE_2.20|SpaceAfter=No
+3	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.20|SpaceAfter=No
+4	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=LUKE_2.20
+5	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.20
+6	padà	padà	X	_	_	0	_	_	Ref=LUKE_2.20
+7	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.20|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.20
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.20
+10	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.20
+11	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.20
+12	ògo	ògo	X	_	_	0	_	_	Ref=LUKE_2.20
+13	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.20
+14	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LUKE_2.20|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.20
+16	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.20
+17	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.20
+18	yìn	yìn	X	_	_	0	_	_	Ref=LUKE_2.20
+19	ín	ín	X	_	_	0	_	_	Ref=LUKE_2.20|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.20
+21	nítorí	nítorí	X	_	_	0	_	_	Ref=LUKE_2.20
+22	ohun	ohun	X	_	_	0	_	_	Ref=LUKE_2.20
+23	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.20
+24	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.20
+25	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.20
+26	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.20
+27	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LUKE_2.20
+28	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.20
+29	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.20
+30	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.20
+31	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.20
+32	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.20|SpaceAfter=No
+33	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.20
+34	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.20
+35	a	a	X	_	_	0	_	_	Ref=LUKE_2.20
+36	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.20
+37	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.20
+38	i	i	X	_	_	0	_	_	Ref=LUKE_2.20
+39	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.20
+40	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.20|SpaceAfter=No
+41	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.20
+
+# sent_id = LUKE_2.21
+# text = Nígbà tí ijọ́ mẹ́jọ sì pé láti kọ ọmọ náà nílà, wọ́n pe orúkọ rẹ̀ ní Jésù, bí a ti sọ ọ́ tẹ́lẹ̀ láti ọ̀dọ̀ ańgẹ́lì náà wá kí á tó lóyún rẹ̀ nínú.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.21
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.21
+3	ijọ́	ijọ́	X	_	_	0	_	_	Ref=LUKE_2.21
+4	mẹ́jọ	mẹ́jọ	X	_	_	0	_	_	Ref=LUKE_2.21
+5	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.21
+6	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.21
+7	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.21
+8	kọ	kọ	X	_	_	0	_	_	Ref=LUKE_2.21
+9	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.21
+10	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.21
+11	nílà	nílà	X	_	_	0	_	_	Ref=LUKE_2.21|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.21
+13	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.21
+14	pe	pe	X	_	_	0	_	_	Ref=LUKE_2.21
+15	orúkọ	orúkọ	X	_	_	0	_	_	Ref=LUKE_2.21
+16	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.21
+17	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.21
+18	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=LUKE_2.21|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.21
+20	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.21
+21	a	a	X	_	_	0	_	_	Ref=LUKE_2.21
+22	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.21
+23	sọ	sọ	X	_	_	0	_	_	Ref=LUKE_2.21
+24	ọ́	ọ́	X	_	_	0	_	_	Ref=LUKE_2.21
+25	tẹ́lẹ̀	tẹ́lẹ̀	X	_	_	0	_	_	Ref=LUKE_2.21
+26	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.21
+27	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LUKE_2.21
+28	ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=LUKE_2.21
+29	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.21
+30	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.21
+31	kí	kí	X	_	_	0	_	_	Ref=LUKE_2.21
+32	á	á	X	_	_	0	_	_	Ref=LUKE_2.21
+33	tó	tó	X	_	_	0	_	_	Ref=LUKE_2.21
+34	lóyún	lóyún	X	_	_	0	_	_	Ref=LUKE_2.21
+35	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.21
+36	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.21|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.21
+
+# sent_id = LUKE_2.22
+# text = Nígbà tí ọjọ́ ìwẹ̀nù Màríà sì pé gẹ́gẹ́ bí òfin Mósè, Josefu àti Màríà gbé Jésù wá sí Jerúsálémù láti fi í fún Olúwa;
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.22
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.22
+3	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LUKE_2.22
+4	ìwẹ̀nù	ìwẹ̀nù	X	_	_	0	_	_	Ref=LUKE_2.22
+5	Màríà	Màríà	PROPN	_	_	0	_	_	Ref=LUKE_2.22
+6	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.22
+7	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.22
+8	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=LUKE_2.22
+9	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.22
+10	òfin	òfin	X	_	_	0	_	_	Ref=LUKE_2.22
+11	Mósè	mósè	X	_	_	0	_	_	Ref=LUKE_2.22|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.22
+13	Josefu	Josefu	PROPN	_	_	0	_	_	Ref=LUKE_2.22
+14	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.22
+15	Màríà	Màríà	PROPN	_	_	0	_	_	Ref=LUKE_2.22
+16	gbé	gbé	X	_	_	0	_	_	Ref=LUKE_2.22
+17	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=LUKE_2.22
+18	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.22
+19	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.22
+20	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=LUKE_2.22
+21	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.22
+22	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.22
+23	í	í	X	_	_	0	_	_	Ref=LUKE_2.22
+24	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.22
+25	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.22|SpaceAfter=No
+26	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.22
+
+# sent_id = LUKE_2.23
+# text = (Bí a ti kọ ọ́ sínú òfin Olúwa pé, “Gbogbo ọmọ ọkùnrin tí ó ṣe àkọ́bí, òun ni a ó pè ní mímọ́ fún Olúwa”),
+1	(	(	PUNCT	_	_	0	punct	_	Ref=LUKE_2.23|SpaceAfter=No
+2	Bí	bí	X	_	_	0	_	_	Ref=LUKE_2.23
+3	a	a	X	_	_	0	_	_	Ref=LUKE_2.23
+4	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.23
+5	kọ	kọ	X	_	_	0	_	_	Ref=LUKE_2.23
+6	ọ́	ọ́	X	_	_	0	_	_	Ref=LUKE_2.23
+7	sínú	sínú	X	_	_	0	_	_	Ref=LUKE_2.23
+8	òfin	òfin	X	_	_	0	_	_	Ref=LUKE_2.23
+9	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.23
+10	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.23|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.23
+12	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.23|SpaceAfter=No
+13	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.23
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.23
+15	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=LUKE_2.23
+16	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.23
+17	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.23
+18	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.23
+19	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=LUKE_2.23|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.23
+21	òun	òun	X	_	_	0	_	_	Ref=LUKE_2.23
+22	ni	ni	X	_	_	0	_	_	Ref=LUKE_2.23
+23	a	a	X	_	_	0	_	_	Ref=LUKE_2.23
+24	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.23
+25	pè	pè	X	_	_	0	_	_	Ref=LUKE_2.23
+26	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.23
+27	mímọ́	mímọ́	X	_	_	0	_	_	Ref=LUKE_2.23
+28	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.23
+29	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.23|SpaceAfter=No
+30	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.23|SpaceAfter=No
+31	)	)	PUNCT	_	_	0	punct	_	Ref=LUKE_2.23|SpaceAfter=No
+32	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.23
+
+# sent_id = LUKE_2.24
+# text = àti láti rúbọ gẹ́gẹ́ bí èyí tí a wí nínú òfin Olúwa: “àdàbà méjì tàbí ẹyẹlẹ́ méjì.”
+1	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.24
+2	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.24
+3	rúbọ	rúbọ	X	_	_	0	_	_	Ref=LUKE_2.24
+4	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=LUKE_2.24
+5	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.24
+6	èyí	èyí	X	_	_	0	_	_	Ref=LUKE_2.24
+7	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.24
+8	a	a	X	_	_	0	_	_	Ref=LUKE_2.24
+9	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.24
+10	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.24
+11	òfin	òfin	X	_	_	0	_	_	Ref=LUKE_2.24
+12	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.24|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.24
+14	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.24|SpaceAfter=No
+15	àdàbà	àdàbà	X	_	_	0	_	_	Ref=LUKE_2.24
+16	méjì	méjì	X	_	_	0	_	_	Ref=LUKE_2.24
+17	tàbí	tàbí	X	_	_	0	_	_	Ref=LUKE_2.24
+18	ẹyẹlẹ́	ẹyẹlẹ́	X	_	_	0	_	_	Ref=LUKE_2.24
+19	méjì	méjì	X	_	_	0	_	_	Ref=LUKE_2.24|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.24|SpaceAfter=No
+21	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.24
+
+# sent_id = LUKE_2.25
+# text = Sì kíyèsí i, ọkùnrin kan wà ní Jerúsálémù, orúkọ rẹ̀ a máa jẹ́ Ṣíméónì; ọkùnrin náà sì ṣe olóòótọ́ àti olùfọkànsìn, ó ń retí ìtùnú Ísírẹ́lì: Ẹ̀mí mímọ́ sì bà lé e.
+1	Sì	sì	X	_	_	0	_	_	Ref=LUKE_2.25
+2	kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=LUKE_2.25
+3	i	i	X	_	_	0	_	_	Ref=LUKE_2.25|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.25
+5	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=LUKE_2.25
+6	kan	kan	X	_	_	0	_	_	Ref=LUKE_2.25
+7	wà	wà	X	_	_	0	_	_	Ref=LUKE_2.25
+8	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.25
+9	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=LUKE_2.25|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.25
+11	orúkọ	orúkọ	X	_	_	0	_	_	Ref=LUKE_2.25
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.25
+13	a	a	X	_	_	0	_	_	Ref=LUKE_2.25
+14	máa	máa	X	_	_	0	_	_	Ref=LUKE_2.25
+15	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LUKE_2.25
+16	Ṣíméónì	Ṣíméónì	PROPN	_	_	0	_	_	Ref=LUKE_2.25|SpaceAfter=No
+17	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.25
+18	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=LUKE_2.25
+19	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.25
+20	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.25
+21	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.25
+22	olóòótọ́	olóòótọ́	X	_	_	0	_	_	Ref=LUKE_2.25
+23	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.25
+24	olùfọkànsìn	olùfọkànsìn	X	_	_	0	_	_	Ref=LUKE_2.25|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.25
+26	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.25
+27	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.25
+28	retí	retí	X	_	_	0	_	_	Ref=LUKE_2.25
+29	ìtùnú	ìtùnú	X	_	_	0	_	_	Ref=LUKE_2.25
+30	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=LUKE_2.25|SpaceAfter=No
+31	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.25
+32	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=LUKE_2.25
+33	mímọ́	mímọ́	X	_	_	0	_	_	Ref=LUKE_2.25
+34	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.25
+35	bà	bà	X	_	_	0	_	_	Ref=LUKE_2.25
+36	lé	lé	X	_	_	0	_	_	Ref=LUKE_2.25
+37	e	e	X	_	_	0	_	_	Ref=LUKE_2.25|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.25
+
+# sent_id = LUKE_2.26
+# text = A sì ti fihàn án láti ọ̀dọ̀ Ẹ̀mí Mímọ́ náà wá pé, òun kì yóò rí ikú, kí ó tó rí kírísítì Olúwa.
+1	A	a	X	_	_	0	_	_	Ref=LUKE_2.26
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.26
+3	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.26
+4	fihàn	fihàn	X	_	_	0	_	_	Ref=LUKE_2.26
+5	án	án	X	_	_	0	_	_	Ref=LUKE_2.26
+6	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.26
+7	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LUKE_2.26
+8	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=LUKE_2.26
+9	Mímọ́	mímọ́	X	_	_	0	_	_	Ref=LUKE_2.26
+10	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.26
+11	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.26
+12	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.26|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.26
+14	òun	òun	X	_	_	0	_	_	Ref=LUKE_2.26
+15	kì	kì	X	_	_	0	_	_	Ref=LUKE_2.26
+16	yóò	yóò	X	_	_	0	_	_	Ref=LUKE_2.26
+17	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.26
+18	ikú	ikú	X	_	_	0	_	_	Ref=LUKE_2.26|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.26
+20	kí	kí	X	_	_	0	_	_	Ref=LUKE_2.26
+21	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.26
+22	tó	tó	X	_	_	0	_	_	Ref=LUKE_2.26
+23	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.26
+24	kírísítì	kírísítì	X	_	_	0	_	_	Ref=LUKE_2.26
+25	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.26|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.26
+
+# sent_id = LUKE_2.27
+# text = Ó sì ti ipa Ẹ̀mí wá sínú tẹ́ḿpìlì: nígbà tí àwọn òbí rẹ̀ sì gbé ọmọ náà Jésù wá, láti ṣe fún un bí ìṣe òfin,
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.27
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.27
+3	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.27
+4	ipa	ipa	X	_	_	0	_	_	Ref=LUKE_2.27
+5	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=LUKE_2.27
+6	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.27
+7	sínú	sínú	X	_	_	0	_	_	Ref=LUKE_2.27
+8	tẹ́ḿpìlì	tẹ́ḿpìlì	X	_	_	0	_	_	Ref=LUKE_2.27|SpaceAfter=No
+9	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.27
+10	nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.27
+11	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.27
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.27
+13	òbí	òbí	X	_	_	0	_	_	Ref=LUKE_2.27
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.27
+15	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.27
+16	gbé	gbé	X	_	_	0	_	_	Ref=LUKE_2.27
+17	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.27
+18	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.27
+19	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=LUKE_2.27
+20	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.27|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.27
+22	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.27
+23	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.27
+24	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.27
+25	un	un	X	_	_	0	_	_	Ref=LUKE_2.27
+26	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.27
+27	ìṣe	ìṣe	X	_	_	0	_	_	Ref=LUKE_2.27
+28	òfin	òfin	X	_	_	0	_	_	Ref=LUKE_2.27|SpaceAfter=No
+29	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.27
+
+# sent_id = LUKE_2.28
+# text = Nígbà náà ni Símọ́nì gbé e ní apá rẹ̀, ó fi ìbùkún fún Ọlọ́run, ó ní:
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.28
+2	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.28
+3	ni	ni	X	_	_	0	_	_	Ref=LUKE_2.28
+4	Símọ́nì	Símọ́nì	PROPN	_	_	0	_	_	Ref=LUKE_2.28
+5	gbé	gbé	X	_	_	0	_	_	Ref=LUKE_2.28
+6	e	e	X	_	_	0	_	_	Ref=LUKE_2.28
+7	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.28
+8	apá	apá	X	_	_	0	_	_	Ref=LUKE_2.28
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.28|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.28
+11	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.28
+12	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.28
+13	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=LUKE_2.28
+14	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.28
+15	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LUKE_2.28|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.28
+17	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.28
+18	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.28|SpaceAfter=No
+19	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.28
+
+# sent_id = LUKE_2.29
+# text = “Olúwa alágbára, nígbàyí ni o tó jọ̀wọ́ ọmọ-ọ̀dọ̀ rẹ lọ́wọ́ lọ, Ní àlààáfíà, gẹ́gẹ́ bí ọ̀rọ rẹ:
+1	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.29|SpaceAfter=No
+2	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.29
+3	alágbára	alágbára	X	_	_	0	_	_	Ref=LUKE_2.29|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.29
+5	nígbàyí	nígbàyí	X	_	_	0	_	_	Ref=LUKE_2.29
+6	ni	ni	X	_	_	0	_	_	Ref=LUKE_2.29
+7	o	o	X	_	_	0	_	_	Ref=LUKE_2.29
+8	tó	tó	X	_	_	0	_	_	Ref=LUKE_2.29
+9	jọ̀wọ́	jọ̀wọ́	X	_	_	0	_	_	Ref=LUKE_2.29
+10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.29|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.29|SpaceAfter=No
+12	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LUKE_2.29
+13	rẹ	rẹ	X	_	_	0	_	_	Ref=LUKE_2.29
+14	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=LUKE_2.29
+15	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.29|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.29
+17	Ní	ní	X	_	_	0	_	_	Ref=LUKE_2.29
+18	àlààáfíà	àlààáfíà	X	_	_	0	_	_	Ref=LUKE_2.29|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.29
+20	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=LUKE_2.29
+21	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.29
+22	ọ̀rọ	ọ̀rọ	X	_	_	0	_	_	Ref=LUKE_2.29
+23	rẹ	rẹ	X	_	_	0	_	_	Ref=LUKE_2.29|SpaceAfter=No
+24	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.29
+
+# sent_id = LUKE_2.30
+# text = Nítorí tí ojú mi ti rí ìgbàlà rẹ ná,
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LUKE_2.30
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.30
+3	ojú	ojú	X	_	_	0	_	_	Ref=LUKE_2.30
+4	mi	mi	X	_	_	0	_	_	Ref=LUKE_2.30
+5	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.30
+6	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.30
+7	ìgbàlà	ìgbàlà	X	_	_	0	_	_	Ref=LUKE_2.30
+8	rẹ	rẹ	X	_	_	0	_	_	Ref=LUKE_2.30
+9	ná	ná	X	_	_	0	_	_	Ref=LUKE_2.30|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.30
+
+# sent_id = LUKE_2.31
+# text = Tí ìwọ ti pèsè sílẹ̀ níwájú ènìyàn gbogbo;
+1	Tí	tí	X	_	_	0	_	_	Ref=LUKE_2.31
+2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LUKE_2.31
+3	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.31
+4	pèsè	pèsè	X	_	_	0	_	_	Ref=LUKE_2.31
+5	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=LUKE_2.31
+6	níwájú	níwájú	X	_	_	0	_	_	Ref=LUKE_2.31
+7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LUKE_2.31
+8	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.31|SpaceAfter=No
+9	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.31
+
+# sent_id = LUKE_2.32
+# text = Ìmọ́lẹ̀ láti mọ́ sí àwọn aláìkọlà, Àti ògo Ísírẹ́lì ènìyàn rẹ̀.”
+1	Ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=LUKE_2.32
+2	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.32
+3	mọ́	mọ́	X	_	_	0	_	_	Ref=LUKE_2.32
+4	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.32
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.32
+6	aláìkọlà	aláìkọlà	X	_	_	0	_	_	Ref=LUKE_2.32|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.32
+8	Àti	àti	X	_	_	0	_	_	Ref=LUKE_2.32
+9	ògo	ògo	X	_	_	0	_	_	Ref=LUKE_2.32
+10	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=LUKE_2.32
+11	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LUKE_2.32
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.32|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.32|SpaceAfter=No
+14	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.32
+
+# sent_id = LUKE_2.33
+# text = Ẹnu sì ya Jóṣéfù àti ìyá rẹ̀ sí nǹkan tí a ń sọ sí i wọ̀nyí.
+1	Ẹnu	ẹnu	X	_	_	0	_	_	Ref=LUKE_2.33
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.33
+3	ya	ya	X	_	_	0	_	_	Ref=LUKE_2.33
+4	Jóṣéfù	Jóṣéfù	PROPN	_	_	0	_	_	Ref=LUKE_2.33
+5	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.33
+6	ìyá	ìyá	X	_	_	0	_	_	Ref=LUKE_2.33
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.33
+8	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.33
+9	nǹkan	nǹkan	X	_	_	0	_	_	Ref=LUKE_2.33
+10	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.33
+11	a	a	X	_	_	0	_	_	Ref=LUKE_2.33
+12	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.33
+13	sọ	sọ	X	_	_	0	_	_	Ref=LUKE_2.33
+14	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.33
+15	i	i	X	_	_	0	_	_	Ref=LUKE_2.33
+16	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=LUKE_2.33|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.33
+
+# sent_id = LUKE_2.34
+# text = Síméónì sì súre fún wọn, ó sì wí fún Màríà ìyá rẹ̀ pé: “Kíyèsí i, a gbé ọmọ yìí kalẹ̀ fún ìṣubú àti ìdìde ọ̀pọ̀ ènìyàn ní Ísírẹ́lì; àti fún àmì tí a ń sọ̀rọ̀ òdì sí;
+1	Síméónì	Síméónì	PROPN	_	_	0	_	_	Ref=LUKE_2.34
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.34
+3	súre	súre	X	_	_	0	_	_	Ref=LUKE_2.34
+4	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.34
+5	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.34|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.34
+7	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.34
+8	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.34
+9	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.34
+10	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.34
+11	Màríà	Màríà	PROPN	_	_	0	_	_	Ref=LUKE_2.34
+12	ìyá	ìyá	X	_	_	0	_	_	Ref=LUKE_2.34
+13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.34
+14	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.34|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.34
+16	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.34|SpaceAfter=No
+17	Kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=LUKE_2.34
+18	i	i	X	_	_	0	_	_	Ref=LUKE_2.34|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.34
+20	a	a	X	_	_	0	_	_	Ref=LUKE_2.34
+21	gbé	gbé	X	_	_	0	_	_	Ref=LUKE_2.34
+22	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.34
+23	yìí	yìí	X	_	_	0	_	_	Ref=LUKE_2.34
+24	kalẹ̀	kalẹ̀	X	_	_	0	_	_	Ref=LUKE_2.34
+25	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.34
+26	ìṣubú	ìṣubú	X	_	_	0	_	_	Ref=LUKE_2.34
+27	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.34
+28	ìdìde	ìdìde	X	_	_	0	_	_	Ref=LUKE_2.34
+29	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=LUKE_2.34
+30	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LUKE_2.34
+31	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.34
+32	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=LUKE_2.34|SpaceAfter=No
+33	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.34
+34	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.34
+35	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.34
+36	àmì	àmì	X	_	_	0	_	_	Ref=LUKE_2.34
+37	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.34
+38	a	a	X	_	_	0	_	_	Ref=LUKE_2.34
+39	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.34
+40	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=LUKE_2.34
+41	òdì	òdì	X	_	_	0	_	_	Ref=LUKE_2.34
+42	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.34|SpaceAfter=No
+43	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.34
+
+# sent_id = LUKE_2.35
+# text = (Idà yóò sì gún ìwọ náà ní ọkàn pẹ̀lú) kí á lè fi ìrònú ọ̀pọ̀ ọkàn hàn.”
+1	(	(	PUNCT	_	_	0	punct	_	Ref=LUKE_2.35|SpaceAfter=No
+2	Idà	idà	X	_	_	0	_	_	Ref=LUKE_2.35
+3	yóò	yóò	X	_	_	0	_	_	Ref=LUKE_2.35
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.35
+5	gún	gún	X	_	_	0	_	_	Ref=LUKE_2.35
+6	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LUKE_2.35
+7	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.35
+8	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.35
+9	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LUKE_2.35
+10	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LUKE_2.35|SpaceAfter=No
+11	)	)	PUNCT	_	_	0	punct	_	Ref=LUKE_2.35
+12	kí	kí	X	_	_	0	_	_	Ref=LUKE_2.35
+13	á	á	X	_	_	0	_	_	Ref=LUKE_2.35
+14	lè	lè	X	_	_	0	_	_	Ref=LUKE_2.35
+15	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.35
+16	ìrònú	ìrònú	X	_	_	0	_	_	Ref=LUKE_2.35
+17	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=LUKE_2.35
+18	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LUKE_2.35
+19	hàn	hàn	X	_	_	0	_	_	Ref=LUKE_2.35|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.35|SpaceAfter=No
+21	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.35
+
+# sent_id = LUKE_2.36
+# text = Ẹnìkan sì ń bẹ, Ánà wòlíì, ọmọbìnrin Fánúénì, ní ẹ̀yà Ásérì: ọjọ́ ogbó rẹ̀ pọ̀, ó ti bá ọkọ gbé ní ọdún méje láti ìgbà wúndíá rẹ̀ wá;
+1	Ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=LUKE_2.36
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.36
+3	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.36
+4	bẹ	bẹ	X	_	_	0	_	_	Ref=LUKE_2.36|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.36
+6	Ánà	Ánà	PROPN	_	_	0	_	_	Ref=LUKE_2.36
+7	wòlíì	wòlíì	X	_	_	0	_	_	Ref=LUKE_2.36|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.36
+9	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=LUKE_2.36
+10	Fánúénì	Fánúénì	PROPN	_	_	0	_	_	Ref=LUKE_2.36|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.36
+12	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.36
+13	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=LUKE_2.36
+14	Ásérì	Ásérì	PROPN	_	_	0	_	_	Ref=LUKE_2.36|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.36
+16	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LUKE_2.36
+17	ogbó	ogbó	X	_	_	0	_	_	Ref=LUKE_2.36
+18	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.36
+19	pọ̀	pọ̀	X	_	_	0	_	_	Ref=LUKE_2.36|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.36
+21	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.36
+22	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.36
+23	bá	bá	X	_	_	0	_	_	Ref=LUKE_2.36
+24	ọkọ	ọkọ	X	_	_	0	_	_	Ref=LUKE_2.36
+25	gbé	gbé	X	_	_	0	_	_	Ref=LUKE_2.36
+26	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.36
+27	ọdún	ọdún	X	_	_	0	_	_	Ref=LUKE_2.36
+28	méje	méje	X	_	_	0	_	_	Ref=LUKE_2.36
+29	láti	láti	X	_	_	0	_	_	Ref=LUKE_2.36
+30	ìgbà	ìgbà	X	_	_	0	_	_	Ref=LUKE_2.36
+31	wúndíá	wúndíá	X	_	_	0	_	_	Ref=LUKE_2.36
+32	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.36
+33	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.36|SpaceAfter=No
+34	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.36
+
+# sent_id = LUKE_2.37
+# text = Ó sì ṣe opó títí ó fi di ẹni ọdún mẹ́rìnlélọ́gọ́rin, ẹni tí kò kúrò ní tẹ́ḿpílì, ṣùgbọ́n ó ń fi àwẹ̀ àti àdúrà sin Ọlọ́run lọ́sàn-án àti lóru.
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.37
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.37
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.37
+4	opó	opó	X	_	_	0	_	_	Ref=LUKE_2.37
+5	títí	títí	X	_	_	0	_	_	Ref=LUKE_2.37
+6	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.37
+7	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.37
+8	di	di	X	_	_	0	_	_	Ref=LUKE_2.37
+9	ẹni	ẹni	X	_	_	0	_	_	Ref=LUKE_2.37
+10	ọdún	ọdún	X	_	_	0	_	_	Ref=LUKE_2.37
+11	mẹ́rìnlélọ́gọ́rin	mẹ́rìnlélọ́gọ́rin	X	_	_	0	_	_	Ref=LUKE_2.37|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.37
+13	ẹni	ẹni	X	_	_	0	_	_	Ref=LUKE_2.37
+14	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.37
+15	kò	kò	X	_	_	0	_	_	Ref=LUKE_2.37
+16	kúrò	kúrò	X	_	_	0	_	_	Ref=LUKE_2.37
+17	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.37
+18	tẹ́ḿpílì	tẹ́ḿpílì	X	_	_	0	_	_	Ref=LUKE_2.37|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.37
+20	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=LUKE_2.37
+21	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.37
+22	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.37
+23	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.37
+24	àwẹ̀	àwẹ̀	X	_	_	0	_	_	Ref=LUKE_2.37
+25	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.37
+26	àdúrà	àdúrà	X	_	_	0	_	_	Ref=LUKE_2.37
+27	sin	sin	X	_	_	0	_	_	Ref=LUKE_2.37
+28	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LUKE_2.37
+29	lọ́sàn	lọ́sàn	X	_	_	0	_	_	Ref=LUKE_2.37|SpaceAfter=No
+30	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.37|SpaceAfter=No
+31	án	án	X	_	_	0	_	_	Ref=LUKE_2.37
+32	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.37
+33	lóru	lóru	X	_	_	0	_	_	Ref=LUKE_2.37|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.37
+
+# sent_id = LUKE_2.38
+# text = Ó sì wólẹ̀ ní àkókò náà, ó sì dúpẹ́ lọ́wọ́ Olúwa pẹ̀lú, ó sì sọ̀rọ̀ rẹ̀ fún gbogbo àwọn tí ó ń retí ìdáǹdè Jerúsálémù.
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.38
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.38
+3	wólẹ̀	wólẹ̀	X	_	_	0	_	_	Ref=LUKE_2.38
+4	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.38
+5	àkókò	àkókò	X	_	_	0	_	_	Ref=LUKE_2.38
+6	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.38|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.38
+8	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.38
+9	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.38
+10	dúpẹ́	dúpẹ́	X	_	_	0	_	_	Ref=LUKE_2.38
+11	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=LUKE_2.38
+12	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.38
+13	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LUKE_2.38|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.38
+15	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.38
+16	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.38
+17	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=LUKE_2.38
+18	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.38
+19	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.38
+20	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.38
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.38
+22	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.38
+23	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.38
+24	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.38
+25	retí	retí	X	_	_	0	_	_	Ref=LUKE_2.38
+26	ìdáǹdè	ìdáǹdè	X	_	_	0	_	_	Ref=LUKE_2.38
+27	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=LUKE_2.38|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.38
+
+# sent_id = LUKE_2.39
+# text = Nígbà tí wọ́n sì ti ṣe nǹkan gbogbo tán gẹ́gẹ́ bí òfin Olúwa, wọ́n padà lọ sí Gálílì, sí Násárẹ́tì ìlú wọn.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.39
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.39
+3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.39
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.39
+5	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.39
+6	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.39
+7	nǹkan	nǹkan	X	_	_	0	_	_	Ref=LUKE_2.39
+8	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.39
+9	tán	tán	X	_	_	0	_	_	Ref=LUKE_2.39
+10	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=LUKE_2.39
+11	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.39
+12	òfin	òfin	X	_	_	0	_	_	Ref=LUKE_2.39
+13	Olúwa	olúwa	X	_	_	0	_	_	Ref=LUKE_2.39|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.39
+15	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.39
+16	padà	padà	X	_	_	0	_	_	Ref=LUKE_2.39
+17	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.39
+18	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.39
+19	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=LUKE_2.39|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.39
+21	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.39
+22	Násárẹ́tì	Násárẹ́tì	PROPN	_	_	0	_	_	Ref=LUKE_2.39
+23	ìlú	ìlú	X	_	_	0	_	_	Ref=LUKE_2.39
+24	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.39|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.39
+
+# sent_id = LUKE_2.40
+# text = Ọmọ náà sì ń dàgbà, ó sì ń lágbára, ó sì kún fún ọgbọ́n: oore-ọ̀fẹ́ Ọlọ́run sì ń bẹ lára rẹ̀.
+1	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.40
+2	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.40
+3	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.40
+4	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.40
+5	dàgbà	dàgbà	X	_	_	0	_	_	Ref=LUKE_2.40|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.40
+7	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.40
+8	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.40
+9	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.40
+10	lágbára	lágbára	X	_	_	0	_	_	Ref=LUKE_2.40|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.40
+12	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.40
+13	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.40
+14	kún	kún	X	_	_	0	_	_	Ref=LUKE_2.40
+15	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.40
+16	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=LUKE_2.40|SpaceAfter=No
+17	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.40
+18	oore	oore	X	_	_	0	_	_	Ref=LUKE_2.40|SpaceAfter=No
+19	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.40|SpaceAfter=No
+20	ọ̀fẹ́	ọ̀fẹ́	X	_	_	0	_	_	Ref=LUKE_2.40
+21	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LUKE_2.40
+22	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.40
+23	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.40
+24	bẹ	bẹ	X	_	_	0	_	_	Ref=LUKE_2.40
+25	lára	lára	X	_	_	0	_	_	Ref=LUKE_2.40
+26	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.40|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.40
+
+# sent_id = LUKE_2.41
+# text = Àwọn òbi rẹ̀ a sì máa lọ sí Jerúsálémù ní ọdọọdún sí Àjọ-ìrékọjá.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.41
+2	òbi	òbi	X	_	_	0	_	_	Ref=LUKE_2.41
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.41
+4	a	a	X	_	_	0	_	_	Ref=LUKE_2.41
+5	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.41
+6	máa	máa	X	_	_	0	_	_	Ref=LUKE_2.41
+7	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.41
+8	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.41
+9	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=LUKE_2.41
+10	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.41
+11	ọdọọdún	ọdọọdún	X	_	_	0	_	_	Ref=LUKE_2.41
+12	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.41
+13	Àjọ	àjọ	X	_	_	0	_	_	Ref=LUKE_2.41|SpaceAfter=No
+14	-	-	PUNCT	_	_	0	punct	_	Ref=LUKE_2.41|SpaceAfter=No
+15	ìrékọjá	ìrékọjá	X	_	_	0	_	_	Ref=LUKE_2.41|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.41
+
+# sent_id = LUKE_2.42
+# text = Nígbà tí ó sì di ọmọ ọdún méjìlá, wọ́n gòkè lọ sí Jerúsálémù gẹ́gẹ́ bí ìṣe àjọ náà.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.42
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.42
+3	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.42
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.42
+5	di	di	X	_	_	0	_	_	Ref=LUKE_2.42
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.42
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=LUKE_2.42
+8	méjìlá	méjìlá	X	_	_	0	_	_	Ref=LUKE_2.42|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.42
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.42
+11	gòkè	gòkè	X	_	_	0	_	_	Ref=LUKE_2.42
+12	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.42
+13	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.42
+14	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=LUKE_2.42
+15	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=LUKE_2.42
+16	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.42
+17	ìṣe	ìṣe	X	_	_	0	_	_	Ref=LUKE_2.42
+18	àjọ	àjọ	X	_	_	0	_	_	Ref=LUKE_2.42
+19	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.42|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.42
+
+# sent_id = LUKE_2.43
+# text = Nígbà tí ọjọ́ wọn sì pé bí wọ́n ti ń padà bọ̀, ọmọ náà, Jésù dúró lẹ́yìn ní Jerúsálémù; Jóṣéfù àti ìyá rẹ̀ kò mọ̀.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.43
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.43
+3	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LUKE_2.43
+4	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.43
+5	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.43
+6	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.43
+7	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.43
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.43
+9	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.43
+10	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.43
+11	padà	padà	X	_	_	0	_	_	Ref=LUKE_2.43
+12	bọ̀	bọ̀	X	_	_	0	_	_	Ref=LUKE_2.43|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.43
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.43
+15	náà	náà	X	_	_	0	_	_	Ref=LUKE_2.43|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.43
+17	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=LUKE_2.43
+18	dúró	dúró	X	_	_	0	_	_	Ref=LUKE_2.43
+19	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=LUKE_2.43
+20	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.43
+21	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=LUKE_2.43|SpaceAfter=No
+22	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.43
+23	Jóṣéfù	Jóṣéfù	PROPN	_	_	0	_	_	Ref=LUKE_2.43
+24	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.43
+25	ìyá	ìyá	X	_	_	0	_	_	Ref=LUKE_2.43
+26	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.43
+27	kò	kò	X	_	_	0	_	_	Ref=LUKE_2.43
+28	mọ̀	mọ̀	X	_	_	0	_	_	Ref=LUKE_2.43|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.43
+
+# sent_id = LUKE_2.44
+# text = Ṣùgbọ́n wọ́n ṣe bí ó wà ní ẹ̀gbẹ́ èrò, wọ́n rin ìrìn ọjọ́ kan; wọ́n wá a kiri nínú àwọn ará àti àwọn ojúlùmọ̀ wọn.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=LUKE_2.44
+2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.44
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.44
+4	bí	bí	X	_	_	0	_	_	Ref=LUKE_2.44
+5	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.44
+6	wà	wà	X	_	_	0	_	_	Ref=LUKE_2.44
+7	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.44
+8	ẹ̀gbẹ́	ẹ̀gbẹ́	X	_	_	0	_	_	Ref=LUKE_2.44
+9	èrò	èrò	X	_	_	0	_	_	Ref=LUKE_2.44|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.44
+11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.44
+12	rin	rin	X	_	_	0	_	_	Ref=LUKE_2.44
+13	ìrìn	ìrìn	X	_	_	0	_	_	Ref=LUKE_2.44
+14	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LUKE_2.44
+15	kan	kan	X	_	_	0	_	_	Ref=LUKE_2.44|SpaceAfter=No
+16	;	;	PUNCT	_	_	0	punct	_	Ref=LUKE_2.44
+17	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.44
+18	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.44
+19	a	a	X	_	_	0	_	_	Ref=LUKE_2.44
+20	kiri	kiri	X	_	_	0	_	_	Ref=LUKE_2.44
+21	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.44
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.44
+23	ará	ará	X	_	_	0	_	_	Ref=LUKE_2.44
+24	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.44
+25	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.44
+26	ojúlùmọ̀	ojúlùmọ̀	X	_	_	0	_	_	Ref=LUKE_2.44
+27	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.44|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.44
+
+# sent_id = LUKE_2.45
+# text = Nígbà tí wọn kò sì rí i, wọ́n padà sí Jerúsálémù, wọ́n ń wá a kiri.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.45
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.45
+3	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.45
+4	kò	kò	X	_	_	0	_	_	Ref=LUKE_2.45
+5	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.45
+6	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.45
+7	i	i	X	_	_	0	_	_	Ref=LUKE_2.45|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.45
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.45
+10	padà	padà	X	_	_	0	_	_	Ref=LUKE_2.45
+11	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.45
+12	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=LUKE_2.45|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.45
+14	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.45
+15	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.45
+16	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.45
+17	a	a	X	_	_	0	_	_	Ref=LUKE_2.45
+18	kiri	kiri	X	_	_	0	_	_	Ref=LUKE_2.45|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.45
+
+# sent_id = LUKE_2.46
+# text = Ó sì ṣe, lẹ́yìn ijọ́ mẹ́ta wọ́n rí i nínú tẹ́ḿpílì ó jòkòó ní àárin àwọn olùkọ́ni, ó ń gbọ́ ti wọn, ó sì ń bi wọ́n léèrè.
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.46
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.46
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.46|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.46
+5	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=LUKE_2.46
+6	ijọ́	ijọ́	X	_	_	0	_	_	Ref=LUKE_2.46
+7	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=LUKE_2.46
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.46
+9	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.46
+10	i	i	X	_	_	0	_	_	Ref=LUKE_2.46
+11	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.46
+12	tẹ́ḿpílì	tẹ́ḿpílì	X	_	_	0	_	_	Ref=LUKE_2.46
+13	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.46
+14	jòkòó	jòkòó	X	_	_	0	_	_	Ref=LUKE_2.46
+15	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.46
+16	àárin	àárin	X	_	_	0	_	_	Ref=LUKE_2.46
+17	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.46
+18	olùkọ́ni	olùkọ́ni	X	_	_	0	_	_	Ref=LUKE_2.46|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.46
+20	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.46
+21	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.46
+22	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LUKE_2.46
+23	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.46
+24	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.46|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.46
+26	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.46
+27	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.46
+28	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.46
+29	bi	bi	X	_	_	0	_	_	Ref=LUKE_2.46
+30	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.46
+31	léèrè	léèrè	X	_	_	0	_	_	Ref=LUKE_2.46|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.46
+
+# sent_id = LUKE_2.47
+# text = Ẹnu sì ya gbogbo àwọn tí ó gbọ́ ọ̀rọ̀ rẹ̀ fún òye àti ìdáhùn rẹ̀.
+1	Ẹnu	ẹnu	X	_	_	0	_	_	Ref=LUKE_2.47
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.47
+3	ya	ya	X	_	_	0	_	_	Ref=LUKE_2.47
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.47
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=LUKE_2.47
+6	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.47
+7	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.47
+8	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LUKE_2.47
+9	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=LUKE_2.47
+10	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.47
+11	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.47
+12	òye	òye	X	_	_	0	_	_	Ref=LUKE_2.47
+13	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.47
+14	ìdáhùn	ìdáhùn	X	_	_	0	_	_	Ref=LUKE_2.47
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.47|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.47
+
+# sent_id = LUKE_2.48
+# text = Nígbà tí wọ́n sì rí i, háà ṣe wọ́n: ìyá rẹ̀ sì bi í pé, “Ọmọ, èéṣe tí ìwọ fi ṣe wá bẹ́ẹ̀? Sá wò ó, bàbá rẹ̀ àti èmi ti ń fi ìbìnújẹ́ wá ọ kiri.”
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=LUKE_2.48
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.48
+3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.48
+4	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.48
+5	rí	rí	X	_	_	0	_	_	Ref=LUKE_2.48
+6	i	i	X	_	_	0	_	_	Ref=LUKE_2.48|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48
+8	háà	háà	X	_	_	0	_	_	Ref=LUKE_2.48
+9	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.48
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LUKE_2.48|SpaceAfter=No
+11	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48
+12	ìyá	ìyá	X	_	_	0	_	_	Ref=LUKE_2.48
+13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.48
+14	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.48
+15	bi	bi	X	_	_	0	_	_	Ref=LUKE_2.48
+16	í	í	X	_	_	0	_	_	Ref=LUKE_2.48
+17	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.48|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48
+19	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48|SpaceAfter=No
+20	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=LUKE_2.48|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48
+22	èéṣe	èéṣe	X	_	_	0	_	_	Ref=LUKE_2.48
+23	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.48
+24	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LUKE_2.48
+25	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.48
+26	ṣe	ṣe	X	_	_	0	_	_	Ref=LUKE_2.48
+27	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.48
+28	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=LUKE_2.48|SpaceAfter=No
+29	?	?	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48
+30	Sá	sá	X	_	_	0	_	_	Ref=LUKE_2.48
+31	wò	wò	X	_	_	0	_	_	Ref=LUKE_2.48
+32	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.48|SpaceAfter=No
+33	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48
+34	bàbá	bàbá	X	_	_	0	_	_	Ref=LUKE_2.48
+35	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.48
+36	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.48
+37	èmi	èmi	X	_	_	0	_	_	Ref=LUKE_2.48
+38	ti	ti	X	_	_	0	_	_	Ref=LUKE_2.48
+39	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.48
+40	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.48
+41	ìbìnújẹ́	ìbìnújẹ́	X	_	_	0	_	_	Ref=LUKE_2.48
+42	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.48
+43	ọ	ọ	X	_	_	0	_	_	Ref=LUKE_2.48
+44	kiri	kiri	X	_	_	0	_	_	Ref=LUKE_2.48|SpaceAfter=No
+45	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48|SpaceAfter=No
+46	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.48
+
+# sent_id = LUKE_2.49
+# text = Ó sì dáhùn wí fún wọn pé, “Èéṣe tí ẹ̀yin fi ń wá mi kiri, ẹ̀yin kò mọ̀ pé èmi kò lè ṣàìmá wà níbi iṣẹ́ Baba mi?”
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.49
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.49
+3	dáhùn	dáhùn	X	_	_	0	_	_	Ref=LUKE_2.49
+4	wí	wí	X	_	_	0	_	_	Ref=LUKE_2.49
+5	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.49
+6	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.49
+7	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.49|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.49
+9	“	“	PUNCT	_	_	0	punct	_	Ref=LUKE_2.49|SpaceAfter=No
+10	Èéṣe	èéṣe	X	_	_	0	_	_	Ref=LUKE_2.49
+11	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.49
+12	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=LUKE_2.49
+13	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.49
+14	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.49
+15	wá	wá	X	_	_	0	_	_	Ref=LUKE_2.49
+16	mi	mi	X	_	_	0	_	_	Ref=LUKE_2.49
+17	kiri	kiri	X	_	_	0	_	_	Ref=LUKE_2.49|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.49
+19	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=LUKE_2.49
+20	kò	kò	X	_	_	0	_	_	Ref=LUKE_2.49
+21	mọ̀	mọ̀	X	_	_	0	_	_	Ref=LUKE_2.49
+22	pé	pé	X	_	_	0	_	_	Ref=LUKE_2.49
+23	èmi	èmi	X	_	_	0	_	_	Ref=LUKE_2.49
+24	kò	kò	X	_	_	0	_	_	Ref=LUKE_2.49
+25	lè	lè	X	_	_	0	_	_	Ref=LUKE_2.49
+26	ṣàìmá	ṣàìmá	X	_	_	0	_	_	Ref=LUKE_2.49
+27	wà	wà	X	_	_	0	_	_	Ref=LUKE_2.49
+28	níbi	níbi	X	_	_	0	_	_	Ref=LUKE_2.49
+29	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=LUKE_2.49
+30	Baba	baba	X	_	_	0	_	_	Ref=LUKE_2.49
+31	mi	mi	X	_	_	0	_	_	Ref=LUKE_2.49|SpaceAfter=No
+32	?	?	PUNCT	_	_	0	punct	_	Ref=LUKE_2.49|SpaceAfter=No
+33	”	”	PUNCT	_	_	0	punct	_	Ref=LUKE_2.49
+
+# sent_id = LUKE_2.50
+# text = Ọ̀rọ̀ tí sọ kò sì yé wọn.
+1	Ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=LUKE_2.50
+2	tí	tí	X	_	_	0	_	_	Ref=LUKE_2.50
+3	sọ	sọ	X	_	_	0	_	_	Ref=LUKE_2.50
+4	kò	kò	X	_	_	0	_	_	Ref=LUKE_2.50
+5	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.50
+6	yé	yé	X	_	_	0	_	_	Ref=LUKE_2.50
+7	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.50|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.50
+
+# sent_id = LUKE_2.51
+# text = Ó sì bá wọn sọ̀kalẹ̀ lọ sí Násárétì, sì fi ara balẹ̀ fún wọn: ṣùgbọ́n ìyá rẹ̀ pa gbogbo nǹkan wọ̀nyí mọ́ nínú ọkàn rẹ̀.
+1	Ó	ó	X	_	_	0	_	_	Ref=LUKE_2.51
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.51
+3	bá	bá	X	_	_	0	_	_	Ref=LUKE_2.51
+4	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.51
+5	sọ̀kalẹ̀	sọ̀kalẹ̀	X	_	_	0	_	_	Ref=LUKE_2.51
+6	lọ	lọ	X	_	_	0	_	_	Ref=LUKE_2.51
+7	sí	sí	X	_	_	0	_	_	Ref=LUKE_2.51
+8	Násárétì	Násárétì	PROPN	_	_	0	_	_	Ref=LUKE_2.51|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.51
+10	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.51
+11	fi	fi	X	_	_	0	_	_	Ref=LUKE_2.51
+12	ara	ara	X	_	_	0	_	_	Ref=LUKE_2.51
+13	balẹ̀	balẹ̀	X	_	_	0	_	_	Ref=LUKE_2.51
+14	fún	fún	X	_	_	0	_	_	Ref=LUKE_2.51
+15	wọn	wọn	X	_	_	0	_	_	Ref=LUKE_2.51|SpaceAfter=No
+16	:	:	PUNCT	_	_	0	punct	_	Ref=LUKE_2.51
+17	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=LUKE_2.51
+18	ìyá	ìyá	X	_	_	0	_	_	Ref=LUKE_2.51
+19	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.51
+20	pa	pa	X	_	_	0	_	_	Ref=LUKE_2.51
+21	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LUKE_2.51
+22	nǹkan	nǹkan	X	_	_	0	_	_	Ref=LUKE_2.51
+23	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=LUKE_2.51
+24	mọ́	mọ́	X	_	_	0	_	_	Ref=LUKE_2.51
+25	nínú	nínú	X	_	_	0	_	_	Ref=LUKE_2.51
+26	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LUKE_2.51
+27	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LUKE_2.51|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.51
+
+# sent_id = LUKE_2.52
+# text = Jésù sì ń pọ̀ ní ọgbọ́n, sì ń dàgbà, ó sì wà ní ojúrere ní ọ̀dọ̀ Ọlọ́run àti ènìyàn.
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=LUKE_2.52
+2	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.52
+3	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.52
+4	pọ̀	pọ̀	X	_	_	0	_	_	Ref=LUKE_2.52
+5	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.52
+6	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=LUKE_2.52|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.52
+8	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.52
+9	ń	ń	X	_	_	0	_	_	Ref=LUKE_2.52
+10	dàgbà	dàgbà	X	_	_	0	_	_	Ref=LUKE_2.52|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LUKE_2.52
+12	ó	ó	X	_	_	0	_	_	Ref=LUKE_2.52
+13	sì	sì	X	_	_	0	_	_	Ref=LUKE_2.52
+14	wà	wà	X	_	_	0	_	_	Ref=LUKE_2.52
+15	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.52
+16	ojúrere	ojúrere	X	_	_	0	_	_	Ref=LUKE_2.52
+17	ní	ní	X	_	_	0	_	_	Ref=LUKE_2.52
+18	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LUKE_2.52
+19	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LUKE_2.52
+20	àti	àti	X	_	_	0	_	_	Ref=LUKE_2.52
+21	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LUKE_2.52|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=LUKE_2.52
+

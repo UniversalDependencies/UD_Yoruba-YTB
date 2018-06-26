@@ -1,0 +1,786 @@
+# source = Bibeli Mimọ, Mátíù, Chapter 4
+# newdoc id = MATT_4
+# sent_id = MATT_4.1
+# text = Nígbà náà ni Ẹ̀mí Mímọ́ darí Jésù sí ihà láti dán an wò láti ọwọ́ èsù.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=MATT_4.1
+2	náà	náà	X	_	_	0	_	_	Ref=MATT_4.1
+3	ni	ni	X	_	_	0	_	_	Ref=MATT_4.1
+4	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MATT_4.1
+5	Mímọ́	mímọ́	X	_	_	0	_	_	Ref=MATT_4.1
+6	darí	darí	X	_	_	0	_	_	Ref=MATT_4.1
+7	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.1
+8	sí	sí	X	_	_	0	_	_	Ref=MATT_4.1
+9	ihà	ihà	X	_	_	0	_	_	Ref=MATT_4.1
+10	láti	láti	X	_	_	0	_	_	Ref=MATT_4.1
+11	dán	dán	X	_	_	0	_	_	Ref=MATT_4.1
+12	an	an	X	_	_	0	_	_	Ref=MATT_4.1
+13	wò	wò	X	_	_	0	_	_	Ref=MATT_4.1
+14	láti	láti	X	_	_	0	_	_	Ref=MATT_4.1
+15	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=MATT_4.1
+16	èsù	èsù	X	_	_	0	_	_	Ref=MATT_4.1|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.1
+
+# sent_id = MATT_4.2
+# text = Lẹ́yìn tí Òun ti gbààwẹ̀ ní ogójì ọ̀sán àti ogójì òru, ebi sì ń pa á.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MATT_4.2
+2	tí	tí	X	_	_	0	_	_	Ref=MATT_4.2
+3	Òun	òun	X	_	_	0	_	_	Ref=MATT_4.2
+4	ti	ti	X	_	_	0	_	_	Ref=MATT_4.2
+5	gbààwẹ̀	gbààwẹ̀	X	_	_	0	_	_	Ref=MATT_4.2
+6	ní	ní	X	_	_	0	_	_	Ref=MATT_4.2
+7	ogójì	ogójì	X	_	_	0	_	_	Ref=MATT_4.2
+8	ọ̀sán	ọ̀sán	X	_	_	0	_	_	Ref=MATT_4.2
+9	àti	àti	X	_	_	0	_	_	Ref=MATT_4.2
+10	ogójì	ogójì	X	_	_	0	_	_	Ref=MATT_4.2
+11	òru	òru	X	_	_	0	_	_	Ref=MATT_4.2|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.2
+13	ebi	ebi	X	_	_	0	_	_	Ref=MATT_4.2
+14	sì	sì	X	_	_	0	_	_	Ref=MATT_4.2
+15	ń	ń	X	_	_	0	_	_	Ref=MATT_4.2
+16	pa	pa	X	_	_	0	_	_	Ref=MATT_4.2
+17	á	á	X	_	_	0	_	_	Ref=MATT_4.2|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.2
+
+# sent_id = MATT_4.3
+# text = Nígbà náà ni olùdánwò tọ̀ ọ́ wá, ó wí pé, “Bí ìwọ bá ṣe Ọmọ Ọlọ́run, pàṣẹ kí àwọn òkúta wọ̀nyí di àkàrà.”
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=MATT_4.3
+2	náà	náà	X	_	_	0	_	_	Ref=MATT_4.3
+3	ni	ni	X	_	_	0	_	_	Ref=MATT_4.3
+4	olùdánwò	olùdánwò	X	_	_	0	_	_	Ref=MATT_4.3
+5	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MATT_4.3
+6	ọ́	ọ́	X	_	_	0	_	_	Ref=MATT_4.3
+7	wá	wá	X	_	_	0	_	_	Ref=MATT_4.3|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.3
+9	ó	ó	X	_	_	0	_	_	Ref=MATT_4.3
+10	wí	wí	X	_	_	0	_	_	Ref=MATT_4.3
+11	pé	pé	X	_	_	0	_	_	Ref=MATT_4.3|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.3
+13	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.3|SpaceAfter=No
+14	Bí	bí	X	_	_	0	_	_	Ref=MATT_4.3
+15	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MATT_4.3
+16	bá	bá	X	_	_	0	_	_	Ref=MATT_4.3
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=MATT_4.3
+18	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=MATT_4.3
+19	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MATT_4.3|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.3
+21	pàṣẹ	pàṣẹ	X	_	_	0	_	_	Ref=MATT_4.3
+22	kí	kí	X	_	_	0	_	_	Ref=MATT_4.3
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.3
+24	òkúta	òkúta	X	_	_	0	_	_	Ref=MATT_4.3
+25	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=MATT_4.3
+26	di	di	X	_	_	0	_	_	Ref=MATT_4.3
+27	àkàrà	àkàrà	X	_	_	0	_	_	Ref=MATT_4.3|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.3|SpaceAfter=No
+29	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.3
+
+# sent_id = MATT_4.4
+# text = Ṣùgbọ́n Jésù dáhùn pé, “A ti kọ ìwé rẹ̀ pé: ‘Ènìyàn kì yóò wà láàyè nípa àkàrà nìkan, bí kò ṣe nípa gbogbo ọ̀rọ̀ ti ó ti ẹnu Ọlọ́run jáde wá.’ ”
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=MATT_4.4
+2	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.4
+3	dáhùn	dáhùn	X	_	_	0	_	_	Ref=MATT_4.4
+4	pé	pé	X	_	_	0	_	_	Ref=MATT_4.4|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.4
+6	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.4|SpaceAfter=No
+7	A	a	X	_	_	0	_	_	Ref=MATT_4.4
+8	ti	ti	X	_	_	0	_	_	Ref=MATT_4.4
+9	kọ	kọ	X	_	_	0	_	_	Ref=MATT_4.4
+10	ìwé	ìwé	X	_	_	0	_	_	Ref=MATT_4.4
+11	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MATT_4.4
+12	pé	pé	X	_	_	0	_	_	Ref=MATT_4.4|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=MATT_4.4
+14	‘	‘	PUNCT	_	_	0	punct	_	Ref=MATT_4.4|SpaceAfter=No
+15	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MATT_4.4
+16	kì	kì	X	_	_	0	_	_	Ref=MATT_4.4
+17	yóò	yóò	X	_	_	0	_	_	Ref=MATT_4.4
+18	wà	wà	X	_	_	0	_	_	Ref=MATT_4.4
+19	láàyè	láàyè	X	_	_	0	_	_	Ref=MATT_4.4
+20	nípa	nípa	X	_	_	0	_	_	Ref=MATT_4.4
+21	àkàrà	àkàrà	X	_	_	0	_	_	Ref=MATT_4.4
+22	nìkan	nìkan	X	_	_	0	_	_	Ref=MATT_4.4|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.4
+24	bí	bí	X	_	_	0	_	_	Ref=MATT_4.4
+25	kò	kò	X	_	_	0	_	_	Ref=MATT_4.4
+26	ṣe	ṣe	X	_	_	0	_	_	Ref=MATT_4.4
+27	nípa	nípa	X	_	_	0	_	_	Ref=MATT_4.4
+28	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.4
+29	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=MATT_4.4
+30	ti	ti	X	_	_	0	_	_	Ref=MATT_4.4
+31	ó	ó	X	_	_	0	_	_	Ref=MATT_4.4
+32	ti	ti	X	_	_	0	_	_	Ref=MATT_4.4
+33	ẹnu	ẹnu	X	_	_	0	_	_	Ref=MATT_4.4
+34	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MATT_4.4
+35	jáde	jáde	X	_	_	0	_	_	Ref=MATT_4.4
+36	wá	wá	X	_	_	0	_	_	Ref=MATT_4.4|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.4|SpaceAfter=No
+38	’	’	PUNCT	_	_	0	punct	_	Ref=MATT_4.4
+39	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.4
+
+# sent_id = MATT_4.5
+# text = Lẹ́yìn èyí ni èṣù gbé e lọ sí ìlú mímọ́ náà; ó gbé e lé ibi ṣóńṣó tẹ̀ḿpìlì.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MATT_4.5
+2	èyí	èyí	X	_	_	0	_	_	Ref=MATT_4.5
+3	ni	ni	X	_	_	0	_	_	Ref=MATT_4.5
+4	èṣù	èṣù	X	_	_	0	_	_	Ref=MATT_4.5
+5	gbé	gbé	X	_	_	0	_	_	Ref=MATT_4.5
+6	e	e	X	_	_	0	_	_	Ref=MATT_4.5
+7	lọ	lọ	X	_	_	0	_	_	Ref=MATT_4.5
+8	sí	sí	X	_	_	0	_	_	Ref=MATT_4.5
+9	ìlú	ìlú	X	_	_	0	_	_	Ref=MATT_4.5
+10	mímọ́	mímọ́	X	_	_	0	_	_	Ref=MATT_4.5
+11	náà	náà	X	_	_	0	_	_	Ref=MATT_4.5|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=MATT_4.5
+13	ó	ó	X	_	_	0	_	_	Ref=MATT_4.5
+14	gbé	gbé	X	_	_	0	_	_	Ref=MATT_4.5
+15	e	e	X	_	_	0	_	_	Ref=MATT_4.5
+16	lé	lé	X	_	_	0	_	_	Ref=MATT_4.5
+17	ibi	ibi	X	_	_	0	_	_	Ref=MATT_4.5
+18	ṣóńṣó	ṣóńṣó	X	_	_	0	_	_	Ref=MATT_4.5
+19	tẹ̀ḿpìlì	tẹ̀ḿpìlì	X	_	_	0	_	_	Ref=MATT_4.5|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.5
+
+# sent_id = MATT_4.6
+# text = Ó wí pé, “Bí ìwọ̀ bá jẹ́ ọmọ Ọlọ́run, Bẹ́ sílẹ̀ fún ara rẹ. A sa ti kọ̀wé rẹ̀ pé: “ ‘Yóò pàṣẹ fún àwọn ańgẹ́lì rẹ̀ nítorí tìrẹ wọn yóò sì gbé ọ sókè ni ọwọ́ wọn kí ìwọ kí ó má baà fi ẹsẹ̀ rẹ gbún òkúta.’ ”
+1	Ó	ó	X	_	_	0	_	_	Ref=MATT_4.6
+2	wí	wí	X	_	_	0	_	_	Ref=MATT_4.6
+3	pé	pé	X	_	_	0	_	_	Ref=MATT_4.6|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.6
+5	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.6|SpaceAfter=No
+6	Bí	bí	X	_	_	0	_	_	Ref=MATT_4.6
+7	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=MATT_4.6
+8	bá	bá	X	_	_	0	_	_	Ref=MATT_4.6
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=MATT_4.6
+10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=MATT_4.6
+11	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MATT_4.6|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.6
+13	Bẹ́	bẹ́	X	_	_	0	_	_	Ref=MATT_4.6
+14	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MATT_4.6
+15	fún	fún	X	_	_	0	_	_	Ref=MATT_4.6
+16	ara	ara	X	_	_	0	_	_	Ref=MATT_4.6
+17	rẹ	rẹ	X	_	_	0	_	_	Ref=MATT_4.6|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.6
+19	A	a	X	_	_	0	_	_	Ref=MATT_4.6
+20	sa	sa	X	_	_	0	_	_	Ref=MATT_4.6
+21	ti	ti	X	_	_	0	_	_	Ref=MATT_4.6
+22	kọ̀wé	kọ̀wé	X	_	_	0	_	_	Ref=MATT_4.6
+23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MATT_4.6
+24	pé	pé	X	_	_	0	_	_	Ref=MATT_4.6|SpaceAfter=No
+25	:	:	PUNCT	_	_	0	punct	_	Ref=MATT_4.6
+26	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.6
+27	‘	‘	PUNCT	_	_	0	punct	_	Ref=MATT_4.6|SpaceAfter=No
+28	Yóò	yóò	X	_	_	0	_	_	Ref=MATT_4.6
+29	pàṣẹ	pàṣẹ	X	_	_	0	_	_	Ref=MATT_4.6
+30	fún	fún	X	_	_	0	_	_	Ref=MATT_4.6
+31	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.6
+32	ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=MATT_4.6
+33	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MATT_4.6
+34	nítorí	nítorí	X	_	_	0	_	_	Ref=MATT_4.6
+35	tìrẹ	tìrẹ	X	_	_	0	_	_	Ref=MATT_4.6
+36	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.6
+37	yóò	yóò	X	_	_	0	_	_	Ref=MATT_4.6
+38	sì	sì	X	_	_	0	_	_	Ref=MATT_4.6
+39	gbé	gbé	X	_	_	0	_	_	Ref=MATT_4.6
+40	ọ	ọ	X	_	_	0	_	_	Ref=MATT_4.6
+41	sókè	sókè	X	_	_	0	_	_	Ref=MATT_4.6
+42	ni	ni	X	_	_	0	_	_	Ref=MATT_4.6
+43	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=MATT_4.6
+44	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.6
+45	kí	kí	X	_	_	0	_	_	Ref=MATT_4.6
+46	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MATT_4.6
+47	kí	kí	X	_	_	0	_	_	Ref=MATT_4.6
+48	ó	ó	X	_	_	0	_	_	Ref=MATT_4.6
+49	má	má	X	_	_	0	_	_	Ref=MATT_4.6
+50	baà	baà	X	_	_	0	_	_	Ref=MATT_4.6
+51	fi	fi	X	_	_	0	_	_	Ref=MATT_4.6
+52	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=MATT_4.6
+53	rẹ	rẹ	X	_	_	0	_	_	Ref=MATT_4.6
+54	gbún	gbún	X	_	_	0	_	_	Ref=MATT_4.6
+55	òkúta	òkúta	X	_	_	0	_	_	Ref=MATT_4.6|SpaceAfter=No
+56	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.6|SpaceAfter=No
+57	’	’	PUNCT	_	_	0	punct	_	Ref=MATT_4.6
+58	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.6
+
+# sent_id = MATT_4.7
+# text = Jésù sì da lóhùn, “A sìáà ti kọ ọ́ pé: ‘Ìwọ kò gbọdọ̀ dán Olúwa Ọlọ́run rẹ wò.’ ”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.7
+2	sì	sì	X	_	_	0	_	_	Ref=MATT_4.7
+3	da	da	X	_	_	0	_	_	Ref=MATT_4.7
+4	lóhùn	lóhùn	X	_	_	0	_	_	Ref=MATT_4.7|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.7
+6	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.7|SpaceAfter=No
+7	A	a	X	_	_	0	_	_	Ref=MATT_4.7
+8	sìáà	sìáà	X	_	_	0	_	_	Ref=MATT_4.7
+9	ti	ti	X	_	_	0	_	_	Ref=MATT_4.7
+10	kọ	kọ	X	_	_	0	_	_	Ref=MATT_4.7
+11	ọ́	ọ́	X	_	_	0	_	_	Ref=MATT_4.7
+12	pé	pé	X	_	_	0	_	_	Ref=MATT_4.7|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=MATT_4.7
+14	‘	‘	PUNCT	_	_	0	punct	_	Ref=MATT_4.7|SpaceAfter=No
+15	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=MATT_4.7
+16	kò	kò	X	_	_	0	_	_	Ref=MATT_4.7
+17	gbọdọ̀	gbọdọ̀	X	_	_	0	_	_	Ref=MATT_4.7
+18	dán	dán	X	_	_	0	_	_	Ref=MATT_4.7
+19	Olúwa	olúwa	X	_	_	0	_	_	Ref=MATT_4.7
+20	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MATT_4.7
+21	rẹ	rẹ	X	_	_	0	_	_	Ref=MATT_4.7
+22	wò	wò	X	_	_	0	_	_	Ref=MATT_4.7|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.7|SpaceAfter=No
+24	’	’	PUNCT	_	_	0	punct	_	Ref=MATT_4.7
+25	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.7
+
+# sent_id = MATT_4.8
+# text = Lẹ́ẹ̀kan sí i, èṣù gbé e lọ sórí òkè gíga, ó sì fi gbogbo orílẹ̀-èdè ayé àti gbogbo ẹwà wọn hàn án.
+1	Lẹ́ẹ̀kan	lẹ́ẹ̀kan	X	_	_	0	_	_	Ref=MATT_4.8
+2	sí	sí	X	_	_	0	_	_	Ref=MATT_4.8
+3	i	i	X	_	_	0	_	_	Ref=MATT_4.8|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.8
+5	èṣù	èṣù	X	_	_	0	_	_	Ref=MATT_4.8
+6	gbé	gbé	X	_	_	0	_	_	Ref=MATT_4.8
+7	e	e	X	_	_	0	_	_	Ref=MATT_4.8
+8	lọ	lọ	X	_	_	0	_	_	Ref=MATT_4.8
+9	sórí	sórí	X	_	_	0	_	_	Ref=MATT_4.8
+10	òkè	òkè	X	_	_	0	_	_	Ref=MATT_4.8
+11	gíga	gíga	X	_	_	0	_	_	Ref=MATT_4.8|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.8
+13	ó	ó	X	_	_	0	_	_	Ref=MATT_4.8
+14	sì	sì	X	_	_	0	_	_	Ref=MATT_4.8
+15	fi	fi	X	_	_	0	_	_	Ref=MATT_4.8
+16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.8
+17	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=MATT_4.8|SpaceAfter=No
+18	-	-	PUNCT	_	_	0	punct	_	Ref=MATT_4.8|SpaceAfter=No
+19	èdè	èdè	X	_	_	0	_	_	Ref=MATT_4.8
+20	ayé	ayé	X	_	_	0	_	_	Ref=MATT_4.8
+21	àti	àti	X	_	_	0	_	_	Ref=MATT_4.8
+22	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.8
+23	ẹwà	ẹwà	X	_	_	0	_	_	Ref=MATT_4.8
+24	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.8
+25	hàn	hàn	X	_	_	0	_	_	Ref=MATT_4.8
+26	án	án	X	_	_	0	_	_	Ref=MATT_4.8|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.8
+
+# sent_id = MATT_4.9
+# text = Ó sì wí fún un pé, “Gbogbo nǹkan wọ̀nyí ni èmi yóò fi fún ọ, bí ìwọ bá foríbalẹ̀ tí o sì sìn mi.”
+1	Ó	ó	X	_	_	0	_	_	Ref=MATT_4.9
+2	sì	sì	X	_	_	0	_	_	Ref=MATT_4.9
+3	wí	wí	X	_	_	0	_	_	Ref=MATT_4.9
+4	fún	fún	X	_	_	0	_	_	Ref=MATT_4.9
+5	un	un	X	_	_	0	_	_	Ref=MATT_4.9
+6	pé	pé	X	_	_	0	_	_	Ref=MATT_4.9|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.9
+8	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.9|SpaceAfter=No
+9	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.9
+10	nǹkan	nǹkan	X	_	_	0	_	_	Ref=MATT_4.9
+11	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=MATT_4.9
+12	ni	ni	X	_	_	0	_	_	Ref=MATT_4.9
+13	èmi	èmi	X	_	_	0	_	_	Ref=MATT_4.9
+14	yóò	yóò	X	_	_	0	_	_	Ref=MATT_4.9
+15	fi	fi	X	_	_	0	_	_	Ref=MATT_4.9
+16	fún	fún	X	_	_	0	_	_	Ref=MATT_4.9
+17	ọ	ọ	X	_	_	0	_	_	Ref=MATT_4.9|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.9
+19	bí	bí	X	_	_	0	_	_	Ref=MATT_4.9
+20	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MATT_4.9
+21	bá	bá	X	_	_	0	_	_	Ref=MATT_4.9
+22	foríbalẹ̀	foríbalẹ̀	X	_	_	0	_	_	Ref=MATT_4.9
+23	tí	tí	X	_	_	0	_	_	Ref=MATT_4.9
+24	o	o	X	_	_	0	_	_	Ref=MATT_4.9
+25	sì	sì	X	_	_	0	_	_	Ref=MATT_4.9
+26	sìn	sìn	X	_	_	0	_	_	Ref=MATT_4.9
+27	mi	mi	X	_	_	0	_	_	Ref=MATT_4.9|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.9|SpaceAfter=No
+29	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.9
+
+# sent_id = MATT_4.10
+# text = Jésù wí fún un pé, “Kúrò ní ọ̀dọ̀ mi, ìwọ Sàtánì! Nítorí a ti kọ ọ́ pé: ‘Olúwa Ọlọ́run rẹ ni kí ìwọ kí ó fi orí balẹ̀ fún, òun nìkan ṣoṣo ni kí ìwọ ó sìn.’ ”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.10
+2	wí	wí	X	_	_	0	_	_	Ref=MATT_4.10
+3	fún	fún	X	_	_	0	_	_	Ref=MATT_4.10
+4	un	un	X	_	_	0	_	_	Ref=MATT_4.10
+5	pé	pé	X	_	_	0	_	_	Ref=MATT_4.10|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.10
+7	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.10|SpaceAfter=No
+8	Kúrò	kúrò	X	_	_	0	_	_	Ref=MATT_4.10
+9	ní	ní	X	_	_	0	_	_	Ref=MATT_4.10
+10	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=MATT_4.10
+11	mi	mi	X	_	_	0	_	_	Ref=MATT_4.10|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.10
+13	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MATT_4.10
+14	Sàtánì	sàtánì	X	_	_	0	_	_	Ref=MATT_4.10|SpaceAfter=No
+15	!	!	PUNCT	_	_	0	punct	_	Ref=MATT_4.10
+16	Nítorí	nítorí	X	_	_	0	_	_	Ref=MATT_4.10
+17	a	a	X	_	_	0	_	_	Ref=MATT_4.10
+18	ti	ti	X	_	_	0	_	_	Ref=MATT_4.10
+19	kọ	kọ	X	_	_	0	_	_	Ref=MATT_4.10
+20	ọ́	ọ́	X	_	_	0	_	_	Ref=MATT_4.10
+21	pé	pé	X	_	_	0	_	_	Ref=MATT_4.10|SpaceAfter=No
+22	:	:	PUNCT	_	_	0	punct	_	Ref=MATT_4.10
+23	‘	‘	PUNCT	_	_	0	punct	_	Ref=MATT_4.10|SpaceAfter=No
+24	Olúwa	olúwa	X	_	_	0	_	_	Ref=MATT_4.10
+25	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MATT_4.10
+26	rẹ	rẹ	X	_	_	0	_	_	Ref=MATT_4.10
+27	ni	ni	X	_	_	0	_	_	Ref=MATT_4.10
+28	kí	kí	X	_	_	0	_	_	Ref=MATT_4.10
+29	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MATT_4.10
+30	kí	kí	X	_	_	0	_	_	Ref=MATT_4.10
+31	ó	ó	X	_	_	0	_	_	Ref=MATT_4.10
+32	fi	fi	X	_	_	0	_	_	Ref=MATT_4.10
+33	orí	orí	X	_	_	0	_	_	Ref=MATT_4.10
+34	balẹ̀	balẹ̀	X	_	_	0	_	_	Ref=MATT_4.10
+35	fún	fún	X	_	_	0	_	_	Ref=MATT_4.10|SpaceAfter=No
+36	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.10
+37	òun	òun	X	_	_	0	_	_	Ref=MATT_4.10
+38	nìkan	nìkan	X	_	_	0	_	_	Ref=MATT_4.10
+39	ṣoṣo	ṣoṣo	X	_	_	0	_	_	Ref=MATT_4.10
+40	ni	ni	X	_	_	0	_	_	Ref=MATT_4.10
+41	kí	kí	X	_	_	0	_	_	Ref=MATT_4.10
+42	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MATT_4.10
+43	ó	ó	X	_	_	0	_	_	Ref=MATT_4.10
+44	sìn	sìn	X	_	_	0	_	_	Ref=MATT_4.10|SpaceAfter=No
+45	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.10|SpaceAfter=No
+46	’	’	PUNCT	_	_	0	punct	_	Ref=MATT_4.10
+47	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.10
+
+# sent_id = MATT_4.11
+# text = Nígbà náà ni èṣù fi í sílẹ̀ lọ, àwọn ańgẹ́lì sì tọ̀ ọ́ wá láti jísẹ́ fún un.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=MATT_4.11
+2	náà	náà	X	_	_	0	_	_	Ref=MATT_4.11
+3	ni	ni	X	_	_	0	_	_	Ref=MATT_4.11
+4	èṣù	èṣù	X	_	_	0	_	_	Ref=MATT_4.11
+5	fi	fi	X	_	_	0	_	_	Ref=MATT_4.11
+6	í	í	X	_	_	0	_	_	Ref=MATT_4.11
+7	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MATT_4.11
+8	lọ	lọ	X	_	_	0	_	_	Ref=MATT_4.11|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.11
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.11
+11	ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=MATT_4.11
+12	sì	sì	X	_	_	0	_	_	Ref=MATT_4.11
+13	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MATT_4.11
+14	ọ́	ọ́	X	_	_	0	_	_	Ref=MATT_4.11
+15	wá	wá	X	_	_	0	_	_	Ref=MATT_4.11
+16	láti	láti	X	_	_	0	_	_	Ref=MATT_4.11
+17	jísẹ́	jísẹ́	X	_	_	0	_	_	Ref=MATT_4.11
+18	fún	fún	X	_	_	0	_	_	Ref=MATT_4.11
+19	un	un	X	_	_	0	_	_	Ref=MATT_4.11|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.11
+
+# sent_id = MATT_4.12
+# text = Nígbà tí Jésù gbọ wí pé a ti fi Jòhánù sínu túbú ó padà sí Gálílì.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=MATT_4.12
+2	tí	tí	X	_	_	0	_	_	Ref=MATT_4.12
+3	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.12
+4	gbọ	gbọ	X	_	_	0	_	_	Ref=MATT_4.12
+5	wí	wí	X	_	_	0	_	_	Ref=MATT_4.12
+6	pé	pé	X	_	_	0	_	_	Ref=MATT_4.12
+7	a	a	X	_	_	0	_	_	Ref=MATT_4.12
+8	ti	ti	X	_	_	0	_	_	Ref=MATT_4.12
+9	fi	fi	X	_	_	0	_	_	Ref=MATT_4.12
+10	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MATT_4.12
+11	sínu	sínu	X	_	_	0	_	_	Ref=MATT_4.12
+12	túbú	túbú	X	_	_	0	_	_	Ref=MATT_4.12
+13	ó	ó	X	_	_	0	_	_	Ref=MATT_4.12
+14	padà	padà	X	_	_	0	_	_	Ref=MATT_4.12
+15	sí	sí	X	_	_	0	_	_	Ref=MATT_4.12
+16	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MATT_4.12|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.12
+
+# sent_id = MATT_4.13
+# text = Ó kúrò ní Násárẹ́tì, ó sì lọ ígbé Kápánámù, èyí tí ó wà létí òkun Sébúlónì àti Náfítálì.
+1	Ó	ó	X	_	_	0	_	_	Ref=MATT_4.13
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=MATT_4.13
+3	ní	ní	X	_	_	0	_	_	Ref=MATT_4.13
+4	Násárẹ́tì	Násárẹ́tì	PROPN	_	_	0	_	_	Ref=MATT_4.13|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.13
+6	ó	ó	X	_	_	0	_	_	Ref=MATT_4.13
+7	sì	sì	X	_	_	0	_	_	Ref=MATT_4.13
+8	lọ	lọ	X	_	_	0	_	_	Ref=MATT_4.13
+9	ígbé	ígbé	X	_	_	0	_	_	Ref=MATT_4.13
+10	Kápánámù	Kápánámù	PROPN	_	_	0	_	_	Ref=MATT_4.13|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.13
+12	èyí	èyí	X	_	_	0	_	_	Ref=MATT_4.13
+13	tí	tí	X	_	_	0	_	_	Ref=MATT_4.13
+14	ó	ó	X	_	_	0	_	_	Ref=MATT_4.13
+15	wà	wà	X	_	_	0	_	_	Ref=MATT_4.13
+16	létí	létí	X	_	_	0	_	_	Ref=MATT_4.13
+17	òkun	òkun	X	_	_	0	_	_	Ref=MATT_4.13
+18	Sébúlónì	Sébúlónì	PROPN	_	_	0	_	_	Ref=MATT_4.13
+19	àti	àti	X	_	_	0	_	_	Ref=MATT_4.13
+20	Náfítálì	Náfítálì	PROPN	_	_	0	_	_	Ref=MATT_4.13|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.13
+
+# sent_id = MATT_4.14
+# text = Kí èyí tí a ti sọ tẹ́lẹ̀ láti ẹnu wòlíì Àìsáyà lè ṣẹ pé:
+1	Kí	kí	X	_	_	0	_	_	Ref=MATT_4.14
+2	èyí	èyí	X	_	_	0	_	_	Ref=MATT_4.14
+3	tí	tí	X	_	_	0	_	_	Ref=MATT_4.14
+4	a	a	X	_	_	0	_	_	Ref=MATT_4.14
+5	ti	ti	X	_	_	0	_	_	Ref=MATT_4.14
+6	sọ	sọ	X	_	_	0	_	_	Ref=MATT_4.14
+7	tẹ́lẹ̀	tẹ́lẹ̀	X	_	_	0	_	_	Ref=MATT_4.14
+8	láti	láti	X	_	_	0	_	_	Ref=MATT_4.14
+9	ẹnu	ẹnu	X	_	_	0	_	_	Ref=MATT_4.14
+10	wòlíì	wòlíì	X	_	_	0	_	_	Ref=MATT_4.14
+11	Àìsáyà	Àìsáyà	PROPN	_	_	0	_	_	Ref=MATT_4.14
+12	lè	lè	X	_	_	0	_	_	Ref=MATT_4.14
+13	ṣẹ	ṣẹ	X	_	_	0	_	_	Ref=MATT_4.14
+14	pé	pé	X	_	_	0	_	_	Ref=MATT_4.14|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=MATT_4.14
+
+# sent_id = MATT_4.15
+# text = “Iwọ Sébúlónì àti ilẹ̀ Náfítalì ọ̀nà tó lọ sí òkun, ní ọ̀nà Jọ́dánì, Gálílì ti àwọn aláìkọlà,
+1	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.15|SpaceAfter=No
+2	Iwọ	iwọ	X	_	_	0	_	_	Ref=MATT_4.15
+3	Sébúlónì	Sébúlónì	PROPN	_	_	0	_	_	Ref=MATT_4.15
+4	àti	àti	X	_	_	0	_	_	Ref=MATT_4.15
+5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=MATT_4.15
+6	Náfítalì	Náfítalì	PROPN	_	_	0	_	_	Ref=MATT_4.15
+7	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=MATT_4.15
+8	tó	tó	X	_	_	0	_	_	Ref=MATT_4.15
+9	lọ	lọ	X	_	_	0	_	_	Ref=MATT_4.15
+10	sí	sí	X	_	_	0	_	_	Ref=MATT_4.15
+11	òkun	òkun	X	_	_	0	_	_	Ref=MATT_4.15|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.15
+13	ní	ní	X	_	_	0	_	_	Ref=MATT_4.15
+14	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=MATT_4.15
+15	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=MATT_4.15|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.15
+17	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MATT_4.15
+18	ti	ti	X	_	_	0	_	_	Ref=MATT_4.15
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.15
+20	aláìkọlà	aláìkọlà	X	_	_	0	_	_	Ref=MATT_4.15|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.15
+
+# sent_id = MATT_4.16
+# text = Àwọn ènìyàn tí ń gbé ni òkùnkùn tí ri ìmọ́lẹ̀ ńlá, àwọn tó ń gbé nínú ilẹ̀ òjijì iku ni ìmọ́lẹ̀ tan fún.”
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.16
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MATT_4.16
+3	tí	tí	X	_	_	0	_	_	Ref=MATT_4.16
+4	ń	ń	X	_	_	0	_	_	Ref=MATT_4.16
+5	gbé	gbé	X	_	_	0	_	_	Ref=MATT_4.16
+6	ni	ni	X	_	_	0	_	_	Ref=MATT_4.16
+7	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=MATT_4.16
+8	tí	tí	X	_	_	0	_	_	Ref=MATT_4.16
+9	ri	ri	X	_	_	0	_	_	Ref=MATT_4.16
+10	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=MATT_4.16
+11	ńlá	ńlá	X	_	_	0	_	_	Ref=MATT_4.16|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.16
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.16
+14	tó	tó	X	_	_	0	_	_	Ref=MATT_4.16
+15	ń	ń	X	_	_	0	_	_	Ref=MATT_4.16
+16	gbé	gbé	X	_	_	0	_	_	Ref=MATT_4.16
+17	nínú	nínú	X	_	_	0	_	_	Ref=MATT_4.16
+18	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=MATT_4.16
+19	òjijì	òjijì	X	_	_	0	_	_	Ref=MATT_4.16
+20	iku	iku	X	_	_	0	_	_	Ref=MATT_4.16
+21	ni	ni	X	_	_	0	_	_	Ref=MATT_4.16
+22	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=MATT_4.16
+23	tan	tan	X	_	_	0	_	_	Ref=MATT_4.16
+24	fún	fún	X	_	_	0	_	_	Ref=MATT_4.16|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.16|SpaceAfter=No
+26	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.16
+
+# sent_id = MATT_4.17
+# text = Láti ìgbà náà lọ ni Jésù ti bẹ̀rẹ̀ sí wàásù: “Ẹ ronú pìwàdà, nítorí tí ìjọba ọ̀run kù sí dẹ̀dẹ̀.”
+1	Láti	láti	X	_	_	0	_	_	Ref=MATT_4.17
+2	ìgbà	ìgbà	X	_	_	0	_	_	Ref=MATT_4.17
+3	náà	náà	X	_	_	0	_	_	Ref=MATT_4.17
+4	lọ	lọ	X	_	_	0	_	_	Ref=MATT_4.17
+5	ni	ni	X	_	_	0	_	_	Ref=MATT_4.17
+6	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.17
+7	ti	ti	X	_	_	0	_	_	Ref=MATT_4.17
+8	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=MATT_4.17
+9	sí	sí	X	_	_	0	_	_	Ref=MATT_4.17
+10	wàásù	wàásù	X	_	_	0	_	_	Ref=MATT_4.17|SpaceAfter=No
+11	:	:	PUNCT	_	_	0	punct	_	Ref=MATT_4.17
+12	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.17|SpaceAfter=No
+13	Ẹ	ẹ	X	_	_	0	_	_	Ref=MATT_4.17
+14	ronú	ronú	X	_	_	0	_	_	Ref=MATT_4.17
+15	pìwàdà	pìwàdà	X	_	_	0	_	_	Ref=MATT_4.17|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.17
+17	nítorí	nítorí	X	_	_	0	_	_	Ref=MATT_4.17
+18	tí	tí	X	_	_	0	_	_	Ref=MATT_4.17
+19	ìjọba	ìjọba	X	_	_	0	_	_	Ref=MATT_4.17
+20	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=MATT_4.17
+21	kù	kù	X	_	_	0	_	_	Ref=MATT_4.17
+22	sí	sí	X	_	_	0	_	_	Ref=MATT_4.17
+23	dẹ̀dẹ̀	dẹ̀dẹ̀	X	_	_	0	_	_	Ref=MATT_4.17|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.17|SpaceAfter=No
+25	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.17
+
+# sent_id = MATT_4.18
+# text = Bí Jésù ti ń rìn létí òkun Gálílì, ó rí àwọn arákùnrin méjì, Símónì, ti à ń pè ní Pétérù, àti Ańdérù arákùnrin rẹ̀. Wọ́n ń ju sọ àwọn wọn sínú òkun nítorí apẹja ni wọ́n.
+1	Bí	bí	X	_	_	0	_	_	Ref=MATT_4.18
+2	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.18
+3	ti	ti	X	_	_	0	_	_	Ref=MATT_4.18
+4	ń	ń	X	_	_	0	_	_	Ref=MATT_4.18
+5	rìn	rìn	X	_	_	0	_	_	Ref=MATT_4.18
+6	létí	létí	X	_	_	0	_	_	Ref=MATT_4.18
+7	òkun	òkun	X	_	_	0	_	_	Ref=MATT_4.18
+8	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MATT_4.18|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.18
+10	ó	ó	X	_	_	0	_	_	Ref=MATT_4.18
+11	rí	rí	X	_	_	0	_	_	Ref=MATT_4.18
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.18
+13	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=MATT_4.18
+14	méjì	méjì	X	_	_	0	_	_	Ref=MATT_4.18|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.18
+16	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=MATT_4.18|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.18
+18	ti	ti	X	_	_	0	_	_	Ref=MATT_4.18
+19	à	à	X	_	_	0	_	_	Ref=MATT_4.18
+20	ń	ń	X	_	_	0	_	_	Ref=MATT_4.18
+21	pè	pè	X	_	_	0	_	_	Ref=MATT_4.18
+22	ní	ní	X	_	_	0	_	_	Ref=MATT_4.18
+23	Pétérù	Pétérù	PROPN	_	_	0	_	_	Ref=MATT_4.18|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.18
+25	àti	àti	X	_	_	0	_	_	Ref=MATT_4.18
+26	Ańdérù	Ańdérù	PROPN	_	_	0	_	_	Ref=MATT_4.18
+27	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=MATT_4.18
+28	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MATT_4.18|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.18
+30	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.18
+31	ń	ń	X	_	_	0	_	_	Ref=MATT_4.18
+32	ju	ju	X	_	_	0	_	_	Ref=MATT_4.18
+33	sọ	sọ	X	_	_	0	_	_	Ref=MATT_4.18
+34	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.18
+35	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.18
+36	sínú	sínú	X	_	_	0	_	_	Ref=MATT_4.18
+37	òkun	òkun	X	_	_	0	_	_	Ref=MATT_4.18
+38	nítorí	nítorí	X	_	_	0	_	_	Ref=MATT_4.18
+39	apẹja	apẹja	X	_	_	0	_	_	Ref=MATT_4.18
+40	ni	ni	X	_	_	0	_	_	Ref=MATT_4.18
+41	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.18|SpaceAfter=No
+42	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.18
+
+# sent_id = MATT_4.19
+# text = Jésù wi fun wọn pé, “Ẹ wá, ẹ máa tọ̀ mí lẹ́yìn èmi yóò sì sọ yín di apẹja ènìyàn.”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.19
+2	wi	wi	X	_	_	0	_	_	Ref=MATT_4.19
+3	fun	fun	X	_	_	0	_	_	Ref=MATT_4.19
+4	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.19
+5	pé	pé	X	_	_	0	_	_	Ref=MATT_4.19|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.19
+7	“	“	PUNCT	_	_	0	punct	_	Ref=MATT_4.19|SpaceAfter=No
+8	Ẹ	ẹ	X	_	_	0	_	_	Ref=MATT_4.19
+9	wá	wá	X	_	_	0	_	_	Ref=MATT_4.19|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.19
+11	ẹ	ẹ	X	_	_	0	_	_	Ref=MATT_4.19
+12	máa	máa	X	_	_	0	_	_	Ref=MATT_4.19
+13	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MATT_4.19
+14	mí	mí	X	_	_	0	_	_	Ref=MATT_4.19
+15	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MATT_4.19
+16	èmi	èmi	X	_	_	0	_	_	Ref=MATT_4.19
+17	yóò	yóò	X	_	_	0	_	_	Ref=MATT_4.19
+18	sì	sì	X	_	_	0	_	_	Ref=MATT_4.19
+19	sọ	sọ	X	_	_	0	_	_	Ref=MATT_4.19
+20	yín	yín	X	_	_	0	_	_	Ref=MATT_4.19
+21	di	di	X	_	_	0	_	_	Ref=MATT_4.19
+22	apẹja	apẹja	X	_	_	0	_	_	Ref=MATT_4.19
+23	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MATT_4.19|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.19|SpaceAfter=No
+25	”	”	PUNCT	_	_	0	punct	_	Ref=MATT_4.19
+
+# sent_id = MATT_4.20
+# text = Lójú kan náà, wọ́n fi àwọ̀n wọn sílẹ̀, wọ́n sì tẹ̀lé e.
+1	Lójú	lójú	X	_	_	0	_	_	Ref=MATT_4.20
+2	kan	kan	X	_	_	0	_	_	Ref=MATT_4.20
+3	náà	náà	X	_	_	0	_	_	Ref=MATT_4.20|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.20
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.20
+6	fi	fi	X	_	_	0	_	_	Ref=MATT_4.20
+7	àwọ̀n	àwọ̀n	X	_	_	0	_	_	Ref=MATT_4.20
+8	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.20
+9	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MATT_4.20|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.20
+11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.20
+12	sì	sì	X	_	_	0	_	_	Ref=MATT_4.20
+13	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=MATT_4.20
+14	e	e	X	_	_	0	_	_	Ref=MATT_4.20|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.20
+
+# sent_id = MATT_4.21
+# text = Bí ó sì ti kúrò ní ibẹ̀, ò rí àwọn arákùnrin méjì mìíràn, Jákọ́bù ọmọ Sébédè àti Jòhánù, arákùnrin rẹ̀. Wọ́n wà nínú ọkọ̀ ojú-omi pẹ̀lú Sébédè baba wọn, wọ́n ń dẹ àwọ̀n wọn, Jésù sì pè wọn náà pẹ̀lú.
+1	Bí	bí	X	_	_	0	_	_	Ref=MATT_4.21
+2	ó	ó	X	_	_	0	_	_	Ref=MATT_4.21
+3	sì	sì	X	_	_	0	_	_	Ref=MATT_4.21
+4	ti	ti	X	_	_	0	_	_	Ref=MATT_4.21
+5	kúrò	kúrò	X	_	_	0	_	_	Ref=MATT_4.21
+6	ní	ní	X	_	_	0	_	_	Ref=MATT_4.21
+7	ibẹ̀	ibẹ̀	X	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.21
+9	ò	ò	X	_	_	0	_	_	Ref=MATT_4.21
+10	rí	rí	X	_	_	0	_	_	Ref=MATT_4.21
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.21
+12	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=MATT_4.21
+13	méjì	méjì	X	_	_	0	_	_	Ref=MATT_4.21
+14	mìíràn	mìíràn	X	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.21
+16	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=MATT_4.21
+17	ọmọ	ọmọ	X	_	_	0	_	_	Ref=MATT_4.21
+18	Sébédè	Sébédè	PROPN	_	_	0	_	_	Ref=MATT_4.21
+19	àti	àti	X	_	_	0	_	_	Ref=MATT_4.21
+20	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.21
+22	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=MATT_4.21
+23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.21
+25	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.21
+26	wà	wà	X	_	_	0	_	_	Ref=MATT_4.21
+27	nínú	nínú	X	_	_	0	_	_	Ref=MATT_4.21
+28	ọkọ̀	ọkọ̀	X	_	_	0	_	_	Ref=MATT_4.21
+29	ojú	ojú	X	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+30	-	-	PUNCT	_	_	0	punct	_	Ref=MATT_4.21|SpaceAfter=No
+31	omi	omi	X	_	_	0	_	_	Ref=MATT_4.21
+32	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=MATT_4.21
+33	Sébédè	Sébédè	PROPN	_	_	0	_	_	Ref=MATT_4.21
+34	baba	baba	X	_	_	0	_	_	Ref=MATT_4.21
+35	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+36	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.21
+37	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.21
+38	ń	ń	X	_	_	0	_	_	Ref=MATT_4.21
+39	dẹ	dẹ	X	_	_	0	_	_	Ref=MATT_4.21
+40	àwọ̀n	àwọ̀n	X	_	_	0	_	_	Ref=MATT_4.21
+41	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+42	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.21
+43	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.21
+44	sì	sì	X	_	_	0	_	_	Ref=MATT_4.21
+45	pè	pè	X	_	_	0	_	_	Ref=MATT_4.21
+46	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.21
+47	náà	náà	X	_	_	0	_	_	Ref=MATT_4.21
+48	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=MATT_4.21|SpaceAfter=No
+49	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.21
+
+# sent_id = MATT_4.22
+# text = Lójú kan náà, wọ́n fi ọkọ̀ ojú-omi àti baba wọn sílẹ̀, wọ́n sì tọ̀ ọ́ lẹ́yìn.
+1	Lójú	lójú	X	_	_	0	_	_	Ref=MATT_4.22
+2	kan	kan	X	_	_	0	_	_	Ref=MATT_4.22
+3	náà	náà	X	_	_	0	_	_	Ref=MATT_4.22|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.22
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.22
+6	fi	fi	X	_	_	0	_	_	Ref=MATT_4.22
+7	ọkọ̀	ọkọ̀	X	_	_	0	_	_	Ref=MATT_4.22
+8	ojú	ojú	X	_	_	0	_	_	Ref=MATT_4.22|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=MATT_4.22|SpaceAfter=No
+10	omi	omi	X	_	_	0	_	_	Ref=MATT_4.22
+11	àti	àti	X	_	_	0	_	_	Ref=MATT_4.22
+12	baba	baba	X	_	_	0	_	_	Ref=MATT_4.22
+13	wọn	wọn	X	_	_	0	_	_	Ref=MATT_4.22
+14	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MATT_4.22|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.22
+16	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.22
+17	sì	sì	X	_	_	0	_	_	Ref=MATT_4.22
+18	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MATT_4.22
+19	ọ́	ọ́	X	_	_	0	_	_	Ref=MATT_4.22
+20	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MATT_4.22|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.22
+
+# sent_id = MATT_4.23
+# text = Jésù sì rin káàkiri gbogbo Gálílì, ó ń kọ́ni ní sínágọ́gù, ó ń wàásù ìyìn rere ti ìjọba ọ̀run. ó sì ń ṣe ìwòsàn àrùn gbogbo àti àìsàn láàrin gbogbo ènìyàn.
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MATT_4.23
+2	sì	sì	X	_	_	0	_	_	Ref=MATT_4.23
+3	rin	rin	X	_	_	0	_	_	Ref=MATT_4.23
+4	káàkiri	káàkiri	X	_	_	0	_	_	Ref=MATT_4.23
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.23
+6	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MATT_4.23|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.23
+8	ó	ó	X	_	_	0	_	_	Ref=MATT_4.23
+9	ń	ń	X	_	_	0	_	_	Ref=MATT_4.23
+10	kọ́ni	kọ́ni	X	_	_	0	_	_	Ref=MATT_4.23
+11	ní	ní	X	_	_	0	_	_	Ref=MATT_4.23
+12	sínágọ́gù	sínágọ́gù	X	_	_	0	_	_	Ref=MATT_4.23|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.23
+14	ó	ó	X	_	_	0	_	_	Ref=MATT_4.23
+15	ń	ń	X	_	_	0	_	_	Ref=MATT_4.23
+16	wàásù	wàásù	X	_	_	0	_	_	Ref=MATT_4.23
+17	ìyìn	ìyìn	X	_	_	0	_	_	Ref=MATT_4.23
+18	rere	rere	X	_	_	0	_	_	Ref=MATT_4.23
+19	ti	ti	X	_	_	0	_	_	Ref=MATT_4.23
+20	ìjọba	ìjọba	X	_	_	0	_	_	Ref=MATT_4.23
+21	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=MATT_4.23|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.23
+23	ó	ó	X	_	_	0	_	_	Ref=MATT_4.23
+24	sì	sì	X	_	_	0	_	_	Ref=MATT_4.23
+25	ń	ń	X	_	_	0	_	_	Ref=MATT_4.23
+26	ṣe	ṣe	X	_	_	0	_	_	Ref=MATT_4.23
+27	ìwòsàn	ìwòsàn	X	_	_	0	_	_	Ref=MATT_4.23
+28	àrùn	àrùn	X	_	_	0	_	_	Ref=MATT_4.23
+29	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.23
+30	àti	àti	X	_	_	0	_	_	Ref=MATT_4.23
+31	àìsàn	àìsàn	X	_	_	0	_	_	Ref=MATT_4.23
+32	láàrin	láàrin	X	_	_	0	_	_	Ref=MATT_4.23
+33	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.23
+34	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MATT_4.23|SpaceAfter=No
+35	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.23
+
+# sent_id = MATT_4.24
+# text = Òkìkí rẹ̀ sì kàn yí gbogbo Síríà ká; wọ́n sì gbé àwọn aláìsàn tí ó ní onírúurú àrùn, àwọn tí ó ní ìnira ẹ̀mí èṣù, àti àwọn ti o ní wárápá àti àwọn tí ó ní ẹ̀gbà; ó sì wò wọ́n sàn.
+1	Òkìkí	òkìkí	X	_	_	0	_	_	Ref=MATT_4.24
+2	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MATT_4.24
+3	sì	sì	X	_	_	0	_	_	Ref=MATT_4.24
+4	kàn	kàn	X	_	_	0	_	_	Ref=MATT_4.24
+5	yí	yí	X	_	_	0	_	_	Ref=MATT_4.24
+6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MATT_4.24
+7	Síríà	síríà	X	_	_	0	_	_	Ref=MATT_4.24
+8	ká	ká	X	_	_	0	_	_	Ref=MATT_4.24|SpaceAfter=No
+9	;	;	PUNCT	_	_	0	punct	_	Ref=MATT_4.24
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.24
+11	sì	sì	X	_	_	0	_	_	Ref=MATT_4.24
+12	gbé	gbé	X	_	_	0	_	_	Ref=MATT_4.24
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.24
+14	aláìsàn	aláìsàn	X	_	_	0	_	_	Ref=MATT_4.24
+15	tí	tí	X	_	_	0	_	_	Ref=MATT_4.24
+16	ó	ó	X	_	_	0	_	_	Ref=MATT_4.24
+17	ní	ní	X	_	_	0	_	_	Ref=MATT_4.24
+18	onírúurú	onírúurú	X	_	_	0	_	_	Ref=MATT_4.24
+19	àrùn	àrùn	X	_	_	0	_	_	Ref=MATT_4.24|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.24
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.24
+22	tí	tí	X	_	_	0	_	_	Ref=MATT_4.24
+23	ó	ó	X	_	_	0	_	_	Ref=MATT_4.24
+24	ní	ní	X	_	_	0	_	_	Ref=MATT_4.24
+25	ìnira	ìnira	X	_	_	0	_	_	Ref=MATT_4.24
+26	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MATT_4.24
+27	èṣù	èṣù	X	_	_	0	_	_	Ref=MATT_4.24|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.24
+29	àti	àti	X	_	_	0	_	_	Ref=MATT_4.24
+30	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.24
+31	ti	ti	X	_	_	0	_	_	Ref=MATT_4.24
+32	o	o	X	_	_	0	_	_	Ref=MATT_4.24
+33	ní	ní	X	_	_	0	_	_	Ref=MATT_4.24
+34	wárápá	wárápá	X	_	_	0	_	_	Ref=MATT_4.24
+35	àti	àti	X	_	_	0	_	_	Ref=MATT_4.24
+36	àwọn	àwọn	X	_	_	0	_	_	Ref=MATT_4.24
+37	tí	tí	X	_	_	0	_	_	Ref=MATT_4.24
+38	ó	ó	X	_	_	0	_	_	Ref=MATT_4.24
+39	ní	ní	X	_	_	0	_	_	Ref=MATT_4.24
+40	ẹ̀gbà	ẹ̀gbà	X	_	_	0	_	_	Ref=MATT_4.24|SpaceAfter=No
+41	;	;	PUNCT	_	_	0	punct	_	Ref=MATT_4.24
+42	ó	ó	X	_	_	0	_	_	Ref=MATT_4.24
+43	sì	sì	X	_	_	0	_	_	Ref=MATT_4.24
+44	wò	wò	X	_	_	0	_	_	Ref=MATT_4.24
+45	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MATT_4.24
+46	sàn	sàn	X	_	_	0	_	_	Ref=MATT_4.24|SpaceAfter=No
+47	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.24
+
+# sent_id = MATT_4.25
+# text = Ọ̀pọ̀lọpọ̀ ènìyàn láti Gálílì, Dékápólì, Jerúsálémù, Jùdíà, àti láti òkè odò Jọ́dánì sì tọ̀ ọ́ lẹ́yìn.
+1	Ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	X	_	_	0	_	_	Ref=MATT_4.25
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MATT_4.25
+3	láti	láti	X	_	_	0	_	_	Ref=MATT_4.25
+4	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MATT_4.25|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.25
+6	Dékápólì	Dékápólì	PROPN	_	_	0	_	_	Ref=MATT_4.25|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.25
+8	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=MATT_4.25|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.25
+10	Jùdíà	Jùdíà	PROPN	_	_	0	_	_	Ref=MATT_4.25|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=MATT_4.25
+12	àti	àti	X	_	_	0	_	_	Ref=MATT_4.25
+13	láti	láti	X	_	_	0	_	_	Ref=MATT_4.25
+14	òkè	òkè	X	_	_	0	_	_	Ref=MATT_4.25
+15	odò	odò	X	_	_	0	_	_	Ref=MATT_4.25
+16	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=MATT_4.25
+17	sì	sì	X	_	_	0	_	_	Ref=MATT_4.25
+18	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MATT_4.25
+19	ọ́	ọ́	X	_	_	0	_	_	Ref=MATT_4.25
+20	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MATT_4.25|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=MATT_4.25
+

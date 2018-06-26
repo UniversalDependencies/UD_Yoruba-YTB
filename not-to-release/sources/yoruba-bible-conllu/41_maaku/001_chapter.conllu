@@ -1,0 +1,1357 @@
+# source = Bibeli Mimọ, Máàkù, Chapter 1
+# newdoc id = MARK_1
+# sent_id = MARK_1.1
+# text = Ìbẹ̀rẹ̀ ìyìnrere nípa Jésù Kírísítì, Ọmọ Ọlọ́run.
+1	Ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	X	_	_	0	_	_	Ref=MARK_1.1
+2	ìyìnrere	ìyìnrere	X	_	_	0	_	_	Ref=MARK_1.1
+3	nípa	nípa	X	_	_	0	_	_	Ref=MARK_1.1
+4	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.1
+5	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=MARK_1.1|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.1
+7	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=MARK_1.1
+8	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MARK_1.1|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.1
+
+# sent_id = MARK_1.2
+# text = Gẹ́gẹ́ bí a ti kọ ọ́ nínú ìwé wòlíì Àìṣáyà pé: “Èmi yóò ran oníṣẹ́ mí ṣíwájú rẹ, Ẹni tí yóò tún ọ̀nà rẹ ṣe.”
+1	Gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=MARK_1.2
+2	bí	bí	X	_	_	0	_	_	Ref=MARK_1.2
+3	a	a	X	_	_	0	_	_	Ref=MARK_1.2
+4	ti	ti	X	_	_	0	_	_	Ref=MARK_1.2
+5	kọ	kọ	X	_	_	0	_	_	Ref=MARK_1.2
+6	ọ́	ọ́	X	_	_	0	_	_	Ref=MARK_1.2
+7	nínú	nínú	X	_	_	0	_	_	Ref=MARK_1.2
+8	ìwé	ìwé	X	_	_	0	_	_	Ref=MARK_1.2
+9	wòlíì	wòlíì	X	_	_	0	_	_	Ref=MARK_1.2
+10	Àìṣáyà	Àìṣáyà	PROPN	_	_	0	_	_	Ref=MARK_1.2
+11	pé	pé	X	_	_	0	_	_	Ref=MARK_1.2|SpaceAfter=No
+12	:	:	PUNCT	_	_	0	punct	_	Ref=MARK_1.2
+13	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.2|SpaceAfter=No
+14	Èmi	èmi	X	_	_	0	_	_	Ref=MARK_1.2
+15	yóò	yóò	X	_	_	0	_	_	Ref=MARK_1.2
+16	ran	ran	X	_	_	0	_	_	Ref=MARK_1.2
+17	oníṣẹ́	oníṣẹ́	X	_	_	0	_	_	Ref=MARK_1.2
+18	mí	mí	X	_	_	0	_	_	Ref=MARK_1.2
+19	ṣíwájú	ṣíwájú	X	_	_	0	_	_	Ref=MARK_1.2
+20	rẹ	rẹ	X	_	_	0	_	_	Ref=MARK_1.2|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.2
+22	Ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.2
+23	tí	tí	X	_	_	0	_	_	Ref=MARK_1.2
+24	yóò	yóò	X	_	_	0	_	_	Ref=MARK_1.2
+25	tún	tún	X	_	_	0	_	_	Ref=MARK_1.2
+26	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=MARK_1.2
+27	rẹ	rẹ	X	_	_	0	_	_	Ref=MARK_1.2
+28	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.2|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.2|SpaceAfter=No
+30	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.2
+
+# sent_id = MARK_1.3
+# text = “Ohùn ẹnìkan tí ń kígbe ní ihà, ‘Ẹ tún ọ̀nà Olúwa ṣe, ẹ se ojú-ọ̀nà rẹ̀ kí ó tọ́.’ ”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.3|SpaceAfter=No
+2	Ohùn	ohùn	X	_	_	0	_	_	Ref=MARK_1.3
+3	ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=MARK_1.3
+4	tí	tí	X	_	_	0	_	_	Ref=MARK_1.3
+5	ń	ń	X	_	_	0	_	_	Ref=MARK_1.3
+6	kígbe	kígbe	X	_	_	0	_	_	Ref=MARK_1.3
+7	ní	ní	X	_	_	0	_	_	Ref=MARK_1.3
+8	ihà	ihà	X	_	_	0	_	_	Ref=MARK_1.3|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.3
+10	‘	‘	PUNCT	_	_	0	punct	_	Ref=MARK_1.3|SpaceAfter=No
+11	Ẹ	ẹ	X	_	_	0	_	_	Ref=MARK_1.3
+12	tún	tún	X	_	_	0	_	_	Ref=MARK_1.3
+13	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=MARK_1.3
+14	Olúwa	olúwa	X	_	_	0	_	_	Ref=MARK_1.3
+15	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.3|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.3
+17	ẹ	ẹ	X	_	_	0	_	_	Ref=MARK_1.3
+18	se	se	X	_	_	0	_	_	Ref=MARK_1.3
+19	ojú	ojú	X	_	_	0	_	_	Ref=MARK_1.3|SpaceAfter=No
+20	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.3|SpaceAfter=No
+21	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=MARK_1.3
+22	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.3
+23	kí	kí	X	_	_	0	_	_	Ref=MARK_1.3
+24	ó	ó	X	_	_	0	_	_	Ref=MARK_1.3
+25	tọ́	tọ́	X	_	_	0	_	_	Ref=MARK_1.3|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.3|SpaceAfter=No
+27	’	’	PUNCT	_	_	0	punct	_	Ref=MARK_1.3
+28	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.3
+
+# sent_id = MARK_1.4
+# text = Jòhánù dé, ẹni tí ó ń tẹnibọmi ní ihà, tí ó sì ń wàásù ìtẹ̀bọmi ìrònúpìwàdà fún ìdáríjì ẹ̀ṣẹ̀.
+1	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MARK_1.4
+2	dé	dé	X	_	_	0	_	_	Ref=MARK_1.4|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.4
+4	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.4
+5	tí	tí	X	_	_	0	_	_	Ref=MARK_1.4
+6	ó	ó	X	_	_	0	_	_	Ref=MARK_1.4
+7	ń	ń	X	_	_	0	_	_	Ref=MARK_1.4
+8	tẹnibọmi	tẹnibọmi	X	_	_	0	_	_	Ref=MARK_1.4
+9	ní	ní	X	_	_	0	_	_	Ref=MARK_1.4
+10	ihà	ihà	X	_	_	0	_	_	Ref=MARK_1.4|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.4
+12	tí	tí	X	_	_	0	_	_	Ref=MARK_1.4
+13	ó	ó	X	_	_	0	_	_	Ref=MARK_1.4
+14	sì	sì	X	_	_	0	_	_	Ref=MARK_1.4
+15	ń	ń	X	_	_	0	_	_	Ref=MARK_1.4
+16	wàásù	wàásù	X	_	_	0	_	_	Ref=MARK_1.4
+17	ìtẹ̀bọmi	ìtẹ̀bọmi	X	_	_	0	_	_	Ref=MARK_1.4
+18	ìrònúpìwàdà	ìrònúpìwàdà	X	_	_	0	_	_	Ref=MARK_1.4
+19	fún	fún	X	_	_	0	_	_	Ref=MARK_1.4
+20	ìdáríjì	ìdáríjì	X	_	_	0	_	_	Ref=MARK_1.4
+21	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=MARK_1.4|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.4
+
+# sent_id = MARK_1.5
+# text = Gbogbo àwọn tí ń gbé ní agbègbè Jùdíà, àti gbogbo ènìyàn Jerúsálémù jáde tọ̀ ọ́ lọ, a sì ti ọwọ́ rẹ̀ tẹ gbogbo wọn bọmi ni odò Jọ́dánì, wọ́n ń jẹ́wọ́ ẹ̀ṣẹ̀ wọn.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.5
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.5
+3	tí	tí	X	_	_	0	_	_	Ref=MARK_1.5
+4	ń	ń	X	_	_	0	_	_	Ref=MARK_1.5
+5	gbé	gbé	X	_	_	0	_	_	Ref=MARK_1.5
+6	ní	ní	X	_	_	0	_	_	Ref=MARK_1.5
+7	agbègbè	agbègbè	X	_	_	0	_	_	Ref=MARK_1.5
+8	Jùdíà	Jùdíà	PROPN	_	_	0	_	_	Ref=MARK_1.5|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.5
+10	àti	àti	X	_	_	0	_	_	Ref=MARK_1.5
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.5
+12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.5
+13	Jerúsálémù	Jerúsálémù	PROPN	_	_	0	_	_	Ref=MARK_1.5
+14	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.5
+15	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MARK_1.5
+16	ọ́	ọ́	X	_	_	0	_	_	Ref=MARK_1.5
+17	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.5|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.5
+19	a	a	X	_	_	0	_	_	Ref=MARK_1.5
+20	sì	sì	X	_	_	0	_	_	Ref=MARK_1.5
+21	ti	ti	X	_	_	0	_	_	Ref=MARK_1.5
+22	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=MARK_1.5
+23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.5
+24	tẹ	tẹ	X	_	_	0	_	_	Ref=MARK_1.5
+25	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.5
+26	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.5
+27	bọmi	bọmi	X	_	_	0	_	_	Ref=MARK_1.5
+28	ni	ni	X	_	_	0	_	_	Ref=MARK_1.5
+29	odò	odò	X	_	_	0	_	_	Ref=MARK_1.5
+30	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=MARK_1.5|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.5
+32	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.5
+33	ń	ń	X	_	_	0	_	_	Ref=MARK_1.5
+34	jẹ́wọ́	jẹ́wọ́	X	_	_	0	_	_	Ref=MARK_1.5
+35	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=MARK_1.5
+36	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.5|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.5
+
+# sent_id = MARK_1.6
+# text = Jòhánù sì wọ ẹ̀wù tí a fi irun ràkúnmí hun. Ó sì lo ìgbànú awọ. Eṣú àti oyin ìgàn sì ni oúnjẹ rẹ̀.
+1	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MARK_1.6
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.6
+3	wọ	wọ	X	_	_	0	_	_	Ref=MARK_1.6
+4	ẹ̀wù	ẹ̀wù	X	_	_	0	_	_	Ref=MARK_1.6
+5	tí	tí	X	_	_	0	_	_	Ref=MARK_1.6
+6	a	a	X	_	_	0	_	_	Ref=MARK_1.6
+7	fi	fi	X	_	_	0	_	_	Ref=MARK_1.6
+8	irun	irun	X	_	_	0	_	_	Ref=MARK_1.6
+9	ràkúnmí	ràkúnmí	X	_	_	0	_	_	Ref=MARK_1.6
+10	hun	hun	X	_	_	0	_	_	Ref=MARK_1.6|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.6
+12	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.6
+13	sì	sì	X	_	_	0	_	_	Ref=MARK_1.6
+14	lo	lo	X	_	_	0	_	_	Ref=MARK_1.6
+15	ìgbànú	ìgbànú	X	_	_	0	_	_	Ref=MARK_1.6
+16	awọ	awọ	X	_	_	0	_	_	Ref=MARK_1.6|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.6
+18	Eṣú	eṣú	X	_	_	0	_	_	Ref=MARK_1.6
+19	àti	àti	X	_	_	0	_	_	Ref=MARK_1.6
+20	oyin	oyin	X	_	_	0	_	_	Ref=MARK_1.6
+21	ìgàn	ìgàn	X	_	_	0	_	_	Ref=MARK_1.6
+22	sì	sì	X	_	_	0	_	_	Ref=MARK_1.6
+23	ni	ni	X	_	_	0	_	_	Ref=MARK_1.6
+24	oúnjẹ	oúnjẹ	X	_	_	0	_	_	Ref=MARK_1.6
+25	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.6|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.6
+
+# sent_id = MARK_1.7
+# text = Ó sì bẹ̀rẹ̀ sí í wàásù wí pé, “Ẹnìkan tí ó tóbi jù mí lọ ń bọ̀ lẹ́yìn mi, okùn bàtà ẹṣẹ̀ ẹni tí èmi kò tó ẹni tí ń tú.
+1	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.7
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.7
+3	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=MARK_1.7
+4	sí	sí	X	_	_	0	_	_	Ref=MARK_1.7
+5	í	í	X	_	_	0	_	_	Ref=MARK_1.7
+6	wàásù	wàásù	X	_	_	0	_	_	Ref=MARK_1.7
+7	wí	wí	X	_	_	0	_	_	Ref=MARK_1.7
+8	pé	pé	X	_	_	0	_	_	Ref=MARK_1.7|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.7
+10	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.7|SpaceAfter=No
+11	Ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=MARK_1.7
+12	tí	tí	X	_	_	0	_	_	Ref=MARK_1.7
+13	ó	ó	X	_	_	0	_	_	Ref=MARK_1.7
+14	tóbi	tóbi	X	_	_	0	_	_	Ref=MARK_1.7
+15	jù	jù	X	_	_	0	_	_	Ref=MARK_1.7
+16	mí	mí	X	_	_	0	_	_	Ref=MARK_1.7
+17	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.7
+18	ń	ń	X	_	_	0	_	_	Ref=MARK_1.7
+19	bọ̀	bọ̀	X	_	_	0	_	_	Ref=MARK_1.7
+20	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MARK_1.7
+21	mi	mi	X	_	_	0	_	_	Ref=MARK_1.7|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.7
+23	okùn	okùn	X	_	_	0	_	_	Ref=MARK_1.7
+24	bàtà	bàtà	X	_	_	0	_	_	Ref=MARK_1.7
+25	ẹṣẹ̀	ẹṣẹ̀	X	_	_	0	_	_	Ref=MARK_1.7
+26	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.7
+27	tí	tí	X	_	_	0	_	_	Ref=MARK_1.7
+28	èmi	èmi	X	_	_	0	_	_	Ref=MARK_1.7
+29	kò	kò	X	_	_	0	_	_	Ref=MARK_1.7
+30	tó	tó	X	_	_	0	_	_	Ref=MARK_1.7
+31	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.7
+32	tí	tí	X	_	_	0	_	_	Ref=MARK_1.7
+33	ń	ń	X	_	_	0	_	_	Ref=MARK_1.7
+34	tú	tú	X	_	_	0	_	_	Ref=MARK_1.7|SpaceAfter=No
+35	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.7
+
+# sent_id = MARK_1.8
+# text = Èmi ń fi omi se ìtẹ̀bọmi yín, ṣùgbọ́n Òun yóò fi Ẹ̀mí Mímọ́ se ìtẹ̀bọmi yín.”
+1	Èmi	èmi	X	_	_	0	_	_	Ref=MARK_1.8
+2	ń	ń	X	_	_	0	_	_	Ref=MARK_1.8
+3	fi	fi	X	_	_	0	_	_	Ref=MARK_1.8
+4	omi	omi	X	_	_	0	_	_	Ref=MARK_1.8
+5	se	se	X	_	_	0	_	_	Ref=MARK_1.8
+6	ìtẹ̀bọmi	ìtẹ̀bọmi	X	_	_	0	_	_	Ref=MARK_1.8
+7	yín	yín	X	_	_	0	_	_	Ref=MARK_1.8|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.8
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=MARK_1.8
+10	Òun	òun	X	_	_	0	_	_	Ref=MARK_1.8
+11	yóò	yóò	X	_	_	0	_	_	Ref=MARK_1.8
+12	fi	fi	X	_	_	0	_	_	Ref=MARK_1.8
+13	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.8
+14	Mímọ́	mímọ́	X	_	_	0	_	_	Ref=MARK_1.8
+15	se	se	X	_	_	0	_	_	Ref=MARK_1.8
+16	ìtẹ̀bọmi	ìtẹ̀bọmi	X	_	_	0	_	_	Ref=MARK_1.8
+17	yín	yín	X	_	_	0	_	_	Ref=MARK_1.8|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.8|SpaceAfter=No
+19	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.8
+
+# sent_id = MARK_1.9
+# text = Ó sì ṣe ní ọjọ́ kan Jésù ti Násárẹ́tì ti Gálílì jáde wá, a sì ti ọwọ́ Jòhánù tẹ̀ Ẹ bọmi ní odò Jọ́dánì.
+1	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.9
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.9
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.9
+4	ní	ní	X	_	_	0	_	_	Ref=MARK_1.9
+5	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=MARK_1.9
+6	kan	kan	X	_	_	0	_	_	Ref=MARK_1.9
+7	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.9
+8	ti	ti	X	_	_	0	_	_	Ref=MARK_1.9
+9	Násárẹ́tì	Násárẹ́tì	PROPN	_	_	0	_	_	Ref=MARK_1.9
+10	ti	ti	X	_	_	0	_	_	Ref=MARK_1.9
+11	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MARK_1.9
+12	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.9
+13	wá	wá	X	_	_	0	_	_	Ref=MARK_1.9|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.9
+15	a	a	X	_	_	0	_	_	Ref=MARK_1.9
+16	sì	sì	X	_	_	0	_	_	Ref=MARK_1.9
+17	ti	ti	X	_	_	0	_	_	Ref=MARK_1.9
+18	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=MARK_1.9
+19	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MARK_1.9
+20	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=MARK_1.9
+21	Ẹ	ẹ	X	_	_	0	_	_	Ref=MARK_1.9
+22	bọmi	bọmi	X	_	_	0	_	_	Ref=MARK_1.9
+23	ní	ní	X	_	_	0	_	_	Ref=MARK_1.9
+24	odò	odò	X	_	_	0	_	_	Ref=MARK_1.9
+25	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=MARK_1.9|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.9
+
+# sent_id = MARK_1.10
+# text = Lẹ́sẹ̀kẹsẹ̀ tí Jésù ń ti inú omi jáde wá, ó rí ọ̀run tí ó sí sílẹ̀, Ẹ̀mí Mímọ́ bí àdàbà sọkalẹ̀ lé E lórí.
+1	Lẹ́sẹ̀kẹsẹ̀	lẹ́sẹ̀kẹsẹ̀	X	_	_	0	_	_	Ref=MARK_1.10
+2	tí	tí	X	_	_	0	_	_	Ref=MARK_1.10
+3	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.10
+4	ń	ń	X	_	_	0	_	_	Ref=MARK_1.10
+5	ti	ti	X	_	_	0	_	_	Ref=MARK_1.10
+6	inú	inú	X	_	_	0	_	_	Ref=MARK_1.10
+7	omi	omi	X	_	_	0	_	_	Ref=MARK_1.10
+8	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.10
+9	wá	wá	X	_	_	0	_	_	Ref=MARK_1.10|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.10
+11	ó	ó	X	_	_	0	_	_	Ref=MARK_1.10
+12	rí	rí	X	_	_	0	_	_	Ref=MARK_1.10
+13	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=MARK_1.10
+14	tí	tí	X	_	_	0	_	_	Ref=MARK_1.10
+15	ó	ó	X	_	_	0	_	_	Ref=MARK_1.10
+16	sí	sí	X	_	_	0	_	_	Ref=MARK_1.10
+17	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MARK_1.10|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.10
+19	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.10
+20	Mímọ́	mímọ́	X	_	_	0	_	_	Ref=MARK_1.10
+21	bí	bí	X	_	_	0	_	_	Ref=MARK_1.10
+22	àdàbà	àdàbà	X	_	_	0	_	_	Ref=MARK_1.10
+23	sọkalẹ̀	sọkalẹ̀	X	_	_	0	_	_	Ref=MARK_1.10
+24	lé	lé	X	_	_	0	_	_	Ref=MARK_1.10
+25	E	e	X	_	_	0	_	_	Ref=MARK_1.10
+26	lórí	lórí	X	_	_	0	_	_	Ref=MARK_1.10|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.10
+
+# sent_id = MARK_1.11
+# text = Ohùn kan sì ti ọ̀run wá wí pé, “Ìwọ ni àyànfẹ́ Ọmọ mi, ìwọ ni ẹni tí inú mi dùn sí gidigidi.”
+1	Ohùn	ohùn	X	_	_	0	_	_	Ref=MARK_1.11
+2	kan	kan	X	_	_	0	_	_	Ref=MARK_1.11
+3	sì	sì	X	_	_	0	_	_	Ref=MARK_1.11
+4	ti	ti	X	_	_	0	_	_	Ref=MARK_1.11
+5	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=MARK_1.11
+6	wá	wá	X	_	_	0	_	_	Ref=MARK_1.11
+7	wí	wí	X	_	_	0	_	_	Ref=MARK_1.11
+8	pé	pé	X	_	_	0	_	_	Ref=MARK_1.11|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.11
+10	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.11|SpaceAfter=No
+11	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.11
+12	ni	ni	X	_	_	0	_	_	Ref=MARK_1.11
+13	àyànfẹ́	àyànfẹ́	X	_	_	0	_	_	Ref=MARK_1.11
+14	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=MARK_1.11
+15	mi	mi	X	_	_	0	_	_	Ref=MARK_1.11|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.11
+17	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.11
+18	ni	ni	X	_	_	0	_	_	Ref=MARK_1.11
+19	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.11
+20	tí	tí	X	_	_	0	_	_	Ref=MARK_1.11
+21	inú	inú	X	_	_	0	_	_	Ref=MARK_1.11
+22	mi	mi	X	_	_	0	_	_	Ref=MARK_1.11
+23	dùn	dùn	X	_	_	0	_	_	Ref=MARK_1.11
+24	sí	sí	X	_	_	0	_	_	Ref=MARK_1.11
+25	gidigidi	gidigidi	X	_	_	0	_	_	Ref=MARK_1.11|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.11|SpaceAfter=No
+27	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.11
+
+# sent_id = MARK_1.12
+# text = Lẹ́sẹ̀kan-náà, Ẹ̀mí Mímọ́ sì darí Jésù sí ihà,
+1	Lẹ́sẹ̀kan	lẹ́sẹ̀kan	X	_	_	0	_	_	Ref=MARK_1.12|SpaceAfter=No
+2	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.12|SpaceAfter=No
+3	náà	náà	X	_	_	0	_	_	Ref=MARK_1.12|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.12
+5	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.12
+6	Mímọ́	mímọ́	X	_	_	0	_	_	Ref=MARK_1.12
+7	sì	sì	X	_	_	0	_	_	Ref=MARK_1.12
+8	darí	darí	X	_	_	0	_	_	Ref=MARK_1.12
+9	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.12
+10	sí	sí	X	_	_	0	_	_	Ref=MARK_1.12
+11	ihà	ihà	X	_	_	0	_	_	Ref=MARK_1.12|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.12
+
+# sent_id = MARK_1.13
+# text = Ó sì wà níbẹ̀ fún ogójì ọjọ́. A sì fi Í lé Èṣù lọ́wọ́ láti dán an wò. Àwọn ańgẹ́lì sì wá ṣe ìtọ́jú Rẹ̀.
+1	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.13
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.13
+3	wà	wà	X	_	_	0	_	_	Ref=MARK_1.13
+4	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=MARK_1.13
+5	fún	fún	X	_	_	0	_	_	Ref=MARK_1.13
+6	ogójì	ogójì	X	_	_	0	_	_	Ref=MARK_1.13
+7	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=MARK_1.13|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.13
+9	A	a	X	_	_	0	_	_	Ref=MARK_1.13
+10	sì	sì	X	_	_	0	_	_	Ref=MARK_1.13
+11	fi	fi	X	_	_	0	_	_	Ref=MARK_1.13
+12	Í	í	X	_	_	0	_	_	Ref=MARK_1.13
+13	lé	lé	X	_	_	0	_	_	Ref=MARK_1.13
+14	Èṣù	èṣù	X	_	_	0	_	_	Ref=MARK_1.13
+15	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=MARK_1.13
+16	láti	láti	X	_	_	0	_	_	Ref=MARK_1.13
+17	dán	dán	X	_	_	0	_	_	Ref=MARK_1.13
+18	an	an	X	_	_	0	_	_	Ref=MARK_1.13
+19	wò	wò	X	_	_	0	_	_	Ref=MARK_1.13|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.13
+21	Àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.13
+22	ańgẹ́lì	ańgẹ́lì	X	_	_	0	_	_	Ref=MARK_1.13
+23	sì	sì	X	_	_	0	_	_	Ref=MARK_1.13
+24	wá	wá	X	_	_	0	_	_	Ref=MARK_1.13
+25	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.13
+26	ìtọ́jú	ìtọ́jú	X	_	_	0	_	_	Ref=MARK_1.13
+27	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.13|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.13
+
+# sent_id = MARK_1.14
+# text = Lẹ́yìn ìgbà tí ọba Hẹ́rọ́dù ti fi Jòhánù sínú ẹ̀wọ̀n tan, Jésù lọ sí Gálílì, ó ń wàásù ìyìn rere ti ìjọba Ọlọ́run.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MARK_1.14
+2	ìgbà	ìgbà	X	_	_	0	_	_	Ref=MARK_1.14
+3	tí	tí	X	_	_	0	_	_	Ref=MARK_1.14
+4	ọba	ọba	X	_	_	0	_	_	Ref=MARK_1.14
+5	Hẹ́rọ́dù	Hẹ́rọ́dù	PROPN	_	_	0	_	_	Ref=MARK_1.14
+6	ti	ti	X	_	_	0	_	_	Ref=MARK_1.14
+7	fi	fi	X	_	_	0	_	_	Ref=MARK_1.14
+8	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MARK_1.14
+9	sínú	sínú	X	_	_	0	_	_	Ref=MARK_1.14
+10	ẹ̀wọ̀n	ẹ̀wọ̀n	X	_	_	0	_	_	Ref=MARK_1.14
+11	tan	tan	X	_	_	0	_	_	Ref=MARK_1.14|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.14
+13	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.14
+14	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.14
+15	sí	sí	X	_	_	0	_	_	Ref=MARK_1.14
+16	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MARK_1.14|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.14
+18	ó	ó	X	_	_	0	_	_	Ref=MARK_1.14
+19	ń	ń	X	_	_	0	_	_	Ref=MARK_1.14
+20	wàásù	wàásù	X	_	_	0	_	_	Ref=MARK_1.14
+21	ìyìn	ìyìn	X	_	_	0	_	_	Ref=MARK_1.14
+22	rere	rere	X	_	_	0	_	_	Ref=MARK_1.14
+23	ti	ti	X	_	_	0	_	_	Ref=MARK_1.14
+24	ìjọba	ìjọba	X	_	_	0	_	_	Ref=MARK_1.14
+25	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MARK_1.14|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.14
+
+# sent_id = MARK_1.15
+# text = Ó sì kéde wí pé, “Àkókò náà dé wàyí, ìjọba Ọlọ́run kù sí dèdè. Ẹ yípadà kúró nínú ẹ̀ṣẹ̀ yín, kí ẹ sì gba ìyìnrere yìí gbọ́.”
+1	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.15
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.15
+3	kéde	kéde	X	_	_	0	_	_	Ref=MARK_1.15
+4	wí	wí	X	_	_	0	_	_	Ref=MARK_1.15
+5	pé	pé	X	_	_	0	_	_	Ref=MARK_1.15|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.15
+7	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.15|SpaceAfter=No
+8	Àkókò	àkókò	X	_	_	0	_	_	Ref=MARK_1.15
+9	náà	náà	X	_	_	0	_	_	Ref=MARK_1.15
+10	dé	dé	X	_	_	0	_	_	Ref=MARK_1.15
+11	wàyí	wàyí	X	_	_	0	_	_	Ref=MARK_1.15|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.15
+13	ìjọba	ìjọba	X	_	_	0	_	_	Ref=MARK_1.15
+14	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MARK_1.15
+15	kù	kù	X	_	_	0	_	_	Ref=MARK_1.15
+16	sí	sí	X	_	_	0	_	_	Ref=MARK_1.15
+17	dèdè	dèdè	X	_	_	0	_	_	Ref=MARK_1.15|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.15
+19	Ẹ	ẹ	X	_	_	0	_	_	Ref=MARK_1.15
+20	yípadà	yípadà	X	_	_	0	_	_	Ref=MARK_1.15
+21	kúró	kúró	X	_	_	0	_	_	Ref=MARK_1.15
+22	nínú	nínú	X	_	_	0	_	_	Ref=MARK_1.15
+23	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=MARK_1.15
+24	yín	yín	X	_	_	0	_	_	Ref=MARK_1.15|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.15
+26	kí	kí	X	_	_	0	_	_	Ref=MARK_1.15
+27	ẹ	ẹ	X	_	_	0	_	_	Ref=MARK_1.15
+28	sì	sì	X	_	_	0	_	_	Ref=MARK_1.15
+29	gba	gba	X	_	_	0	_	_	Ref=MARK_1.15
+30	ìyìnrere	ìyìnrere	X	_	_	0	_	_	Ref=MARK_1.15
+31	yìí	yìí	X	_	_	0	_	_	Ref=MARK_1.15
+32	gbọ́	gbọ́	X	_	_	0	_	_	Ref=MARK_1.15|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.15|SpaceAfter=No
+34	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.15
+
+# sent_id = MARK_1.16
+# text = Ní ọjọ́ kan, bí Jésù ti ń rìn létí òkun Gálílì, Ó rí Ṣímónì àti Ańdérù arákùnrin rẹ̀, wọ́n ń fi àwọ̀n wọn pẹja torí pé Apẹja ni wọ́n.
+1	Ní	ní	X	_	_	0	_	_	Ref=MARK_1.16
+2	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=MARK_1.16
+3	kan	kan	X	_	_	0	_	_	Ref=MARK_1.16|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.16
+5	bí	bí	X	_	_	0	_	_	Ref=MARK_1.16
+6	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.16
+7	ti	ti	X	_	_	0	_	_	Ref=MARK_1.16
+8	ń	ń	X	_	_	0	_	_	Ref=MARK_1.16
+9	rìn	rìn	X	_	_	0	_	_	Ref=MARK_1.16
+10	létí	létí	X	_	_	0	_	_	Ref=MARK_1.16
+11	òkun	òkun	X	_	_	0	_	_	Ref=MARK_1.16
+12	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MARK_1.16|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.16
+14	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.16
+15	rí	rí	X	_	_	0	_	_	Ref=MARK_1.16
+16	Ṣímónì	Ṣímónì	PROPN	_	_	0	_	_	Ref=MARK_1.16
+17	àti	àti	X	_	_	0	_	_	Ref=MARK_1.16
+18	Ańdérù	Ańdérù	PROPN	_	_	0	_	_	Ref=MARK_1.16
+19	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=MARK_1.16
+20	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.16|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.16
+22	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.16
+23	ń	ń	X	_	_	0	_	_	Ref=MARK_1.16
+24	fi	fi	X	_	_	0	_	_	Ref=MARK_1.16
+25	àwọ̀n	àwọ̀n	X	_	_	0	_	_	Ref=MARK_1.16
+26	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.16
+27	pẹja	pẹja	X	_	_	0	_	_	Ref=MARK_1.16
+28	torí	torí	X	_	_	0	_	_	Ref=MARK_1.16
+29	pé	pé	X	_	_	0	_	_	Ref=MARK_1.16
+30	Apẹja	apẹja	X	_	_	0	_	_	Ref=MARK_1.16
+31	ni	ni	X	_	_	0	_	_	Ref=MARK_1.16
+32	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.16|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.16
+
+# sent_id = MARK_1.17
+# text = Jésù sì ké sí wọn wí pé, “Ẹ máa tọ̀ mí lẹ́yìn. Èmi yóò sì sọ yín di apẹja ènìyàn.”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.17
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.17
+3	ké	ké	X	_	_	0	_	_	Ref=MARK_1.17
+4	sí	sí	X	_	_	0	_	_	Ref=MARK_1.17
+5	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.17
+6	wí	wí	X	_	_	0	_	_	Ref=MARK_1.17
+7	pé	pé	X	_	_	0	_	_	Ref=MARK_1.17|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.17
+9	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.17|SpaceAfter=No
+10	Ẹ	ẹ	X	_	_	0	_	_	Ref=MARK_1.17
+11	máa	máa	X	_	_	0	_	_	Ref=MARK_1.17
+12	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MARK_1.17
+13	mí	mí	X	_	_	0	_	_	Ref=MARK_1.17
+14	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MARK_1.17|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.17
+16	Èmi	èmi	X	_	_	0	_	_	Ref=MARK_1.17
+17	yóò	yóò	X	_	_	0	_	_	Ref=MARK_1.17
+18	sì	sì	X	_	_	0	_	_	Ref=MARK_1.17
+19	sọ	sọ	X	_	_	0	_	_	Ref=MARK_1.17
+20	yín	yín	X	_	_	0	_	_	Ref=MARK_1.17
+21	di	di	X	_	_	0	_	_	Ref=MARK_1.17
+22	apẹja	apẹja	X	_	_	0	_	_	Ref=MARK_1.17
+23	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.17|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.17|SpaceAfter=No
+25	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.17
+
+# sent_id = MARK_1.18
+# text = Ní kánkán wọ́n fi àwọ̀n wọn sílẹ̀, wọ́n sì tọ̀ Ọ́ lẹ́yìn.
+1	Ní	ní	X	_	_	0	_	_	Ref=MARK_1.18
+2	kánkán	kánkán	X	_	_	0	_	_	Ref=MARK_1.18
+3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.18
+4	fi	fi	X	_	_	0	_	_	Ref=MARK_1.18
+5	àwọ̀n	àwọ̀n	X	_	_	0	_	_	Ref=MARK_1.18
+6	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.18
+7	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MARK_1.18|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.18
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.18
+10	sì	sì	X	_	_	0	_	_	Ref=MARK_1.18
+11	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MARK_1.18
+12	Ọ́	ọ́	X	_	_	0	_	_	Ref=MARK_1.18
+13	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MARK_1.18|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.18
+
+# sent_id = MARK_1.19
+# text = Bí Ó sì ti rìn ṣíwájú díẹ̀, ní etí òkun, Ó rí Jákọ́bù àti Jòhánù, àwọn ọmọ Sébédè nínú ọkọ̀ wọ́n ń tún àwọ̀n wọn ṣe.
+1	Bí	bí	X	_	_	0	_	_	Ref=MARK_1.19
+2	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.19
+3	sì	sì	X	_	_	0	_	_	Ref=MARK_1.19
+4	ti	ti	X	_	_	0	_	_	Ref=MARK_1.19
+5	rìn	rìn	X	_	_	0	_	_	Ref=MARK_1.19
+6	ṣíwájú	ṣíwájú	X	_	_	0	_	_	Ref=MARK_1.19
+7	díẹ̀	díẹ̀	X	_	_	0	_	_	Ref=MARK_1.19|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.19
+9	ní	ní	X	_	_	0	_	_	Ref=MARK_1.19
+10	etí	etí	X	_	_	0	_	_	Ref=MARK_1.19
+11	òkun	òkun	X	_	_	0	_	_	Ref=MARK_1.19|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.19
+13	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.19
+14	rí	rí	X	_	_	0	_	_	Ref=MARK_1.19
+15	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=MARK_1.19
+16	àti	àti	X	_	_	0	_	_	Ref=MARK_1.19
+17	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MARK_1.19|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.19
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.19
+20	ọmọ	ọmọ	X	_	_	0	_	_	Ref=MARK_1.19
+21	Sébédè	Sébédè	PROPN	_	_	0	_	_	Ref=MARK_1.19
+22	nínú	nínú	X	_	_	0	_	_	Ref=MARK_1.19
+23	ọkọ̀	ọkọ̀	X	_	_	0	_	_	Ref=MARK_1.19
+24	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.19
+25	ń	ń	X	_	_	0	_	_	Ref=MARK_1.19
+26	tún	tún	X	_	_	0	_	_	Ref=MARK_1.19
+27	àwọ̀n	àwọ̀n	X	_	_	0	_	_	Ref=MARK_1.19
+28	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.19
+29	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.19|SpaceAfter=No
+30	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.19
+
+# sent_id = MARK_1.20
+# text = Ó sì ké sí àwọn náà lẹ́sẹ̀kẹsẹ̀, wọ́n fi Sébédè baba wọn sílẹ̀ nínú ọkọ̀ pẹ̀lú àwọn alágbàṣe, wọ́n sì tẹ̀lé e.
+1	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.20
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.20
+3	ké	ké	X	_	_	0	_	_	Ref=MARK_1.20
+4	sí	sí	X	_	_	0	_	_	Ref=MARK_1.20
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.20
+6	náà	náà	X	_	_	0	_	_	Ref=MARK_1.20
+7	lẹ́sẹ̀kẹsẹ̀	lẹ́sẹ̀kẹsẹ̀	X	_	_	0	_	_	Ref=MARK_1.20|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.20
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.20
+10	fi	fi	X	_	_	0	_	_	Ref=MARK_1.20
+11	Sébédè	Sébédè	PROPN	_	_	0	_	_	Ref=MARK_1.20
+12	baba	baba	X	_	_	0	_	_	Ref=MARK_1.20
+13	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.20
+14	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MARK_1.20
+15	nínú	nínú	X	_	_	0	_	_	Ref=MARK_1.20
+16	ọkọ̀	ọkọ̀	X	_	_	0	_	_	Ref=MARK_1.20
+17	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=MARK_1.20
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.20
+19	alágbàṣe	alágbàṣe	X	_	_	0	_	_	Ref=MARK_1.20|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.20
+21	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.20
+22	sì	sì	X	_	_	0	_	_	Ref=MARK_1.20
+23	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=MARK_1.20
+24	e	e	X	_	_	0	_	_	Ref=MARK_1.20|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.20
+
+# sent_id = MARK_1.21
+# text = Lẹ́yìn náà, Jésù àti àwọn ọmọ-ẹ̀yìn rẹ̀ wọ ìlú Kapanámù, nígbà tí ó di òwúrọ̀ ọjọ́ ìsimi, ó lọ sínú sínágọ́gù, ó sì ń kọ́ni.
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MARK_1.21
+2	náà	náà	X	_	_	0	_	_	Ref=MARK_1.21|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.21
+4	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.21
+5	àti	àti	X	_	_	0	_	_	Ref=MARK_1.21
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.21
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=MARK_1.21|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.21|SpaceAfter=No
+9	ẹ̀yìn	ẹ̀yìn	X	_	_	0	_	_	Ref=MARK_1.21
+10	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.21
+11	wọ	wọ	X	_	_	0	_	_	Ref=MARK_1.21
+12	ìlú	ìlú	X	_	_	0	_	_	Ref=MARK_1.21
+13	Kapanámù	Kapanámù	PROPN	_	_	0	_	_	Ref=MARK_1.21|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.21
+15	nígbà	nígbà	X	_	_	0	_	_	Ref=MARK_1.21
+16	tí	tí	X	_	_	0	_	_	Ref=MARK_1.21
+17	ó	ó	X	_	_	0	_	_	Ref=MARK_1.21
+18	di	di	X	_	_	0	_	_	Ref=MARK_1.21
+19	òwúrọ̀	òwúrọ̀	X	_	_	0	_	_	Ref=MARK_1.21
+20	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=MARK_1.21
+21	ìsimi	ìsimi	X	_	_	0	_	_	Ref=MARK_1.21|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.21
+23	ó	ó	X	_	_	0	_	_	Ref=MARK_1.21
+24	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.21
+25	sínú	sínú	X	_	_	0	_	_	Ref=MARK_1.21
+26	sínágọ́gù	sínágọ́gù	X	_	_	0	_	_	Ref=MARK_1.21|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.21
+28	ó	ó	X	_	_	0	_	_	Ref=MARK_1.21
+29	sì	sì	X	_	_	0	_	_	Ref=MARK_1.21
+30	ń	ń	X	_	_	0	_	_	Ref=MARK_1.21
+31	kọ́ni	kọ́ni	X	_	_	0	_	_	Ref=MARK_1.21|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.21
+
+# sent_id = MARK_1.22
+# text = Ẹnu sì ya ìjọ ènìyàn nítorí ìkọ́ni rẹ̀, nítorí pé ó ń kóni bí ẹni tí ó ní àṣẹ, kì í ṣe bí àwọn olùkọ́ òfin ṣe ń kọ́ àwọn ènìyàn.
+1	Ẹnu	ẹnu	X	_	_	0	_	_	Ref=MARK_1.22
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.22
+3	ya	ya	X	_	_	0	_	_	Ref=MARK_1.22
+4	ìjọ	ìjọ	X	_	_	0	_	_	Ref=MARK_1.22
+5	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.22
+6	nítorí	nítorí	X	_	_	0	_	_	Ref=MARK_1.22
+7	ìkọ́ni	ìkọ́ni	X	_	_	0	_	_	Ref=MARK_1.22
+8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.22|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.22
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=MARK_1.22
+11	pé	pé	X	_	_	0	_	_	Ref=MARK_1.22
+12	ó	ó	X	_	_	0	_	_	Ref=MARK_1.22
+13	ń	ń	X	_	_	0	_	_	Ref=MARK_1.22
+14	kóni	kóni	X	_	_	0	_	_	Ref=MARK_1.22
+15	bí	bí	X	_	_	0	_	_	Ref=MARK_1.22
+16	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.22
+17	tí	tí	X	_	_	0	_	_	Ref=MARK_1.22
+18	ó	ó	X	_	_	0	_	_	Ref=MARK_1.22
+19	ní	ní	X	_	_	0	_	_	Ref=MARK_1.22
+20	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=MARK_1.22|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.22
+22	kì	kì	X	_	_	0	_	_	Ref=MARK_1.22
+23	í	í	X	_	_	0	_	_	Ref=MARK_1.22
+24	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.22
+25	bí	bí	X	_	_	0	_	_	Ref=MARK_1.22
+26	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.22
+27	olùkọ́	olùkọ́	X	_	_	0	_	_	Ref=MARK_1.22
+28	òfin	òfin	X	_	_	0	_	_	Ref=MARK_1.22
+29	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.22
+30	ń	ń	X	_	_	0	_	_	Ref=MARK_1.22
+31	kọ́	kọ́	X	_	_	0	_	_	Ref=MARK_1.22
+32	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.22
+33	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.22|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.22
+
+# sent_id = MARK_1.23
+# text = Ní àsìkò náà gan-an ni ọkùnrin kan tí ó wà nínú sínágọ́gù wọn, tí ó ní ẹ̀mí àìmọ́, ó sì bẹ̀rẹ̀ sí í kígbe wí pé,
+1	Ní	ní	X	_	_	0	_	_	Ref=MARK_1.23
+2	àsìkò	àsìkò	X	_	_	0	_	_	Ref=MARK_1.23
+3	náà	náà	X	_	_	0	_	_	Ref=MARK_1.23
+4	gan	gan	X	_	_	0	_	_	Ref=MARK_1.23|SpaceAfter=No
+5	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.23|SpaceAfter=No
+6	an	an	X	_	_	0	_	_	Ref=MARK_1.23
+7	ni	ni	X	_	_	0	_	_	Ref=MARK_1.23
+8	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=MARK_1.23
+9	kan	kan	X	_	_	0	_	_	Ref=MARK_1.23
+10	tí	tí	X	_	_	0	_	_	Ref=MARK_1.23
+11	ó	ó	X	_	_	0	_	_	Ref=MARK_1.23
+12	wà	wà	X	_	_	0	_	_	Ref=MARK_1.23
+13	nínú	nínú	X	_	_	0	_	_	Ref=MARK_1.23
+14	sínágọ́gù	sínágọ́gù	X	_	_	0	_	_	Ref=MARK_1.23
+15	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.23|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.23
+17	tí	tí	X	_	_	0	_	_	Ref=MARK_1.23
+18	ó	ó	X	_	_	0	_	_	Ref=MARK_1.23
+19	ní	ní	X	_	_	0	_	_	Ref=MARK_1.23
+20	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.23
+21	àìmọ́	àìmọ́	X	_	_	0	_	_	Ref=MARK_1.23|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.23
+23	ó	ó	X	_	_	0	_	_	Ref=MARK_1.23
+24	sì	sì	X	_	_	0	_	_	Ref=MARK_1.23
+25	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=MARK_1.23
+26	sí	sí	X	_	_	0	_	_	Ref=MARK_1.23
+27	í	í	X	_	_	0	_	_	Ref=MARK_1.23
+28	kígbe	kígbe	X	_	_	0	_	_	Ref=MARK_1.23
+29	wí	wí	X	_	_	0	_	_	Ref=MARK_1.23
+30	pé	pé	X	_	_	0	_	_	Ref=MARK_1.23|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.23
+
+# sent_id = MARK_1.24
+# text = “Kí ni ìwọ ń wá lọ́dọ̀ wa, Jésù ti Násárẹ́tì? Ṣé ìwọ wá láti pa wá run ni? Èmí mọ ẹni tí ìwọ í ṣe; Ìwọ ní ẹni Mímọ́ Ọlọ́run!”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.24|SpaceAfter=No
+2	Kí	kí	X	_	_	0	_	_	Ref=MARK_1.24
+3	ni	ni	X	_	_	0	_	_	Ref=MARK_1.24
+4	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.24
+5	ń	ń	X	_	_	0	_	_	Ref=MARK_1.24
+6	wá	wá	X	_	_	0	_	_	Ref=MARK_1.24
+7	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=MARK_1.24
+8	wa	wa	X	_	_	0	_	_	Ref=MARK_1.24|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.24
+10	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.24
+11	ti	ti	X	_	_	0	_	_	Ref=MARK_1.24
+12	Násárẹ́tì	Násárẹ́tì	PROPN	_	_	0	_	_	Ref=MARK_1.24|SpaceAfter=No
+13	?	?	PUNCT	_	_	0	punct	_	Ref=MARK_1.24
+14	Ṣé	ṣé	X	_	_	0	_	_	Ref=MARK_1.24
+15	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.24
+16	wá	wá	X	_	_	0	_	_	Ref=MARK_1.24
+17	láti	láti	X	_	_	0	_	_	Ref=MARK_1.24
+18	pa	pa	X	_	_	0	_	_	Ref=MARK_1.24
+19	wá	wá	X	_	_	0	_	_	Ref=MARK_1.24
+20	run	run	X	_	_	0	_	_	Ref=MARK_1.24
+21	ni	ni	X	_	_	0	_	_	Ref=MARK_1.24|SpaceAfter=No
+22	?	?	PUNCT	_	_	0	punct	_	Ref=MARK_1.24
+23	Èmí	èmí	X	_	_	0	_	_	Ref=MARK_1.24
+24	mọ	mọ	X	_	_	0	_	_	Ref=MARK_1.24
+25	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.24
+26	tí	tí	X	_	_	0	_	_	Ref=MARK_1.24
+27	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.24
+28	í	í	X	_	_	0	_	_	Ref=MARK_1.24
+29	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.24|SpaceAfter=No
+30	;	;	PUNCT	_	_	0	punct	_	Ref=MARK_1.24
+31	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.24
+32	ní	ní	X	_	_	0	_	_	Ref=MARK_1.24
+33	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.24
+34	Mímọ́	mímọ́	X	_	_	0	_	_	Ref=MARK_1.24
+35	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=MARK_1.24|SpaceAfter=No
+36	!	!	PUNCT	_	_	0	punct	_	Ref=MARK_1.24|SpaceAfter=No
+37	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.24
+
+# sent_id = MARK_1.25
+# text = Jésù si bá a wí, ó wí pé, “Pa ẹnu rẹ mọ́, kí ó sì jáde kúro lára rẹ̀.”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.25
+2	si	si	X	_	_	0	_	_	Ref=MARK_1.25
+3	bá	bá	X	_	_	0	_	_	Ref=MARK_1.25
+4	a	a	X	_	_	0	_	_	Ref=MARK_1.25
+5	wí	wí	X	_	_	0	_	_	Ref=MARK_1.25|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.25
+7	ó	ó	X	_	_	0	_	_	Ref=MARK_1.25
+8	wí	wí	X	_	_	0	_	_	Ref=MARK_1.25
+9	pé	pé	X	_	_	0	_	_	Ref=MARK_1.25|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.25
+11	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.25|SpaceAfter=No
+12	Pa	pa	X	_	_	0	_	_	Ref=MARK_1.25
+13	ẹnu	ẹnu	X	_	_	0	_	_	Ref=MARK_1.25
+14	rẹ	rẹ	X	_	_	0	_	_	Ref=MARK_1.25
+15	mọ́	mọ́	X	_	_	0	_	_	Ref=MARK_1.25|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.25
+17	kí	kí	X	_	_	0	_	_	Ref=MARK_1.25
+18	ó	ó	X	_	_	0	_	_	Ref=MARK_1.25
+19	sì	sì	X	_	_	0	_	_	Ref=MARK_1.25
+20	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.25
+21	kúro	kúro	X	_	_	0	_	_	Ref=MARK_1.25
+22	lára	lára	X	_	_	0	_	_	Ref=MARK_1.25
+23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.25|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.25|SpaceAfter=No
+25	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.25
+
+# sent_id = MARK_1.26
+# text = Ẹ̀mí àìmọ́ náà sì gbé e sánlẹ̀ lógèdèǹgbé, ó ké ní ohùn rara, ó sì jáde kúrò lára ọkùnrin náà.
+1	Ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.26
+2	àìmọ́	àìmọ́	X	_	_	0	_	_	Ref=MARK_1.26
+3	náà	náà	X	_	_	0	_	_	Ref=MARK_1.26
+4	sì	sì	X	_	_	0	_	_	Ref=MARK_1.26
+5	gbé	gbé	X	_	_	0	_	_	Ref=MARK_1.26
+6	e	e	X	_	_	0	_	_	Ref=MARK_1.26
+7	sánlẹ̀	sánlẹ̀	X	_	_	0	_	_	Ref=MARK_1.26
+8	lógèdèǹgbé	lógèdèǹgbé	X	_	_	0	_	_	Ref=MARK_1.26|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.26
+10	ó	ó	X	_	_	0	_	_	Ref=MARK_1.26
+11	ké	ké	X	_	_	0	_	_	Ref=MARK_1.26
+12	ní	ní	X	_	_	0	_	_	Ref=MARK_1.26
+13	ohùn	ohùn	X	_	_	0	_	_	Ref=MARK_1.26
+14	rara	rara	X	_	_	0	_	_	Ref=MARK_1.26|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.26
+16	ó	ó	X	_	_	0	_	_	Ref=MARK_1.26
+17	sì	sì	X	_	_	0	_	_	Ref=MARK_1.26
+18	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.26
+19	kúrò	kúrò	X	_	_	0	_	_	Ref=MARK_1.26
+20	lára	lára	X	_	_	0	_	_	Ref=MARK_1.26
+21	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=MARK_1.26
+22	náà	náà	X	_	_	0	_	_	Ref=MARK_1.26|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.26
+
+# sent_id = MARK_1.27
+# text = Ẹnu sì ya àwọn ènìyàn, tó bẹ́ẹ̀ tí wọ́n fi ń sọ láàrin ara wọn ohun tí ó ti ṣẹlẹ̀. Wọ́n béèrè pẹ̀lú ìgbóná ara, pé, “Kí ni èyí? Irú ẹ̀kọ́ titun wo ni èyí? Ó ń fi agbára pàṣẹ fún àwọn ẹ̀mí àìmọ́ pàápàá wọ́n sì gbọ́ tirẹ̀.”
+1	Ẹnu	ẹnu	X	_	_	0	_	_	Ref=MARK_1.27
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.27
+3	ya	ya	X	_	_	0	_	_	Ref=MARK_1.27
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.27
+5	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.27|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.27
+7	tó	tó	X	_	_	0	_	_	Ref=MARK_1.27
+8	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=MARK_1.27
+9	tí	tí	X	_	_	0	_	_	Ref=MARK_1.27
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.27
+11	fi	fi	X	_	_	0	_	_	Ref=MARK_1.27
+12	ń	ń	X	_	_	0	_	_	Ref=MARK_1.27
+13	sọ	sọ	X	_	_	0	_	_	Ref=MARK_1.27
+14	láàrin	láàrin	X	_	_	0	_	_	Ref=MARK_1.27
+15	ara	ara	X	_	_	0	_	_	Ref=MARK_1.27
+16	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.27
+17	ohun	ohun	X	_	_	0	_	_	Ref=MARK_1.27
+18	tí	tí	X	_	_	0	_	_	Ref=MARK_1.27
+19	ó	ó	X	_	_	0	_	_	Ref=MARK_1.27
+20	ti	ti	X	_	_	0	_	_	Ref=MARK_1.27
+21	ṣẹlẹ̀	ṣẹlẹ̀	X	_	_	0	_	_	Ref=MARK_1.27|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.27
+23	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.27
+24	béèrè	béèrè	X	_	_	0	_	_	Ref=MARK_1.27
+25	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=MARK_1.27
+26	ìgbóná	ìgbóná	X	_	_	0	_	_	Ref=MARK_1.27
+27	ara	ara	X	_	_	0	_	_	Ref=MARK_1.27|SpaceAfter=No
+28	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.27
+29	pé	pé	X	_	_	0	_	_	Ref=MARK_1.27|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.27
+31	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.27|SpaceAfter=No
+32	Kí	kí	X	_	_	0	_	_	Ref=MARK_1.27
+33	ni	ni	X	_	_	0	_	_	Ref=MARK_1.27
+34	èyí	èyí	X	_	_	0	_	_	Ref=MARK_1.27|SpaceAfter=No
+35	?	?	PUNCT	_	_	0	punct	_	Ref=MARK_1.27
+36	Irú	irú	X	_	_	0	_	_	Ref=MARK_1.27
+37	ẹ̀kọ́	ẹ̀kọ́	X	_	_	0	_	_	Ref=MARK_1.27
+38	titun	titun	X	_	_	0	_	_	Ref=MARK_1.27
+39	wo	wo	X	_	_	0	_	_	Ref=MARK_1.27
+40	ni	ni	X	_	_	0	_	_	Ref=MARK_1.27
+41	èyí	èyí	X	_	_	0	_	_	Ref=MARK_1.27|SpaceAfter=No
+42	?	?	PUNCT	_	_	0	punct	_	Ref=MARK_1.27
+43	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.27
+44	ń	ń	X	_	_	0	_	_	Ref=MARK_1.27
+45	fi	fi	X	_	_	0	_	_	Ref=MARK_1.27
+46	agbára	agbára	X	_	_	0	_	_	Ref=MARK_1.27
+47	pàṣẹ	pàṣẹ	X	_	_	0	_	_	Ref=MARK_1.27
+48	fún	fún	X	_	_	0	_	_	Ref=MARK_1.27
+49	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.27
+50	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.27
+51	àìmọ́	àìmọ́	X	_	_	0	_	_	Ref=MARK_1.27
+52	pàápàá	pàápàá	X	_	_	0	_	_	Ref=MARK_1.27
+53	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.27
+54	sì	sì	X	_	_	0	_	_	Ref=MARK_1.27
+55	gbọ́	gbọ́	X	_	_	0	_	_	Ref=MARK_1.27
+56	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=MARK_1.27|SpaceAfter=No
+57	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.27|SpaceAfter=No
+58	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.27
+
+# sent_id = MARK_1.28
+# text = Ìròyìn nípa rẹ̀ tàn ká gbogbo agbégbé Gálílì.
+1	Ìròyìn	ìròyìn	X	_	_	0	_	_	Ref=MARK_1.28
+2	nípa	nípa	X	_	_	0	_	_	Ref=MARK_1.28
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.28
+4	tàn	tàn	X	_	_	0	_	_	Ref=MARK_1.28
+5	ká	ká	X	_	_	0	_	_	Ref=MARK_1.28
+6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.28
+7	agbégbé	agbégbé	X	_	_	0	_	_	Ref=MARK_1.28
+8	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MARK_1.28|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.28
+
+# sent_id = MARK_1.29
+# text = Nígbà tí wọn sì jáde kúrò nínú sínágọ́gù, wọ́n lọ pẹ̀lú Jákọ́bù àti Jòhánù sí ilé Símónì àti Ańdérù.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=MARK_1.29
+2	tí	tí	X	_	_	0	_	_	Ref=MARK_1.29
+3	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.29
+4	sì	sì	X	_	_	0	_	_	Ref=MARK_1.29
+5	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.29
+6	kúrò	kúrò	X	_	_	0	_	_	Ref=MARK_1.29
+7	nínú	nínú	X	_	_	0	_	_	Ref=MARK_1.29
+8	sínágọ́gù	sínágọ́gù	X	_	_	0	_	_	Ref=MARK_1.29|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.29
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.29
+11	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.29
+12	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=MARK_1.29
+13	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=MARK_1.29
+14	àti	àti	X	_	_	0	_	_	Ref=MARK_1.29
+15	Jòhánù	Jòhánù	PROPN	_	_	0	_	_	Ref=MARK_1.29
+16	sí	sí	X	_	_	0	_	_	Ref=MARK_1.29
+17	ilé	ilé	X	_	_	0	_	_	Ref=MARK_1.29
+18	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=MARK_1.29
+19	àti	àti	X	_	_	0	_	_	Ref=MARK_1.29
+20	Ańdérù	Ańdérù	PROPN	_	_	0	_	_	Ref=MARK_1.29|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.29
+
+# sent_id = MARK_1.30
+# text = Ìyá ìyàwó Símónì tí ó dùbúlẹ̀ àìsàn ibà, wọ́n sì sọ fún Jésù nípa rẹ̀.
+1	Ìyá	ìyá	X	_	_	0	_	_	Ref=MARK_1.30
+2	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=MARK_1.30
+3	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=MARK_1.30
+4	tí	tí	X	_	_	0	_	_	Ref=MARK_1.30
+5	ó	ó	X	_	_	0	_	_	Ref=MARK_1.30
+6	dùbúlẹ̀	dùbúlẹ̀	X	_	_	0	_	_	Ref=MARK_1.30
+7	àìsàn	àìsàn	X	_	_	0	_	_	Ref=MARK_1.30
+8	ibà	ibà	X	_	_	0	_	_	Ref=MARK_1.30|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.30
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.30
+11	sì	sì	X	_	_	0	_	_	Ref=MARK_1.30
+12	sọ	sọ	X	_	_	0	_	_	Ref=MARK_1.30
+13	fún	fún	X	_	_	0	_	_	Ref=MARK_1.30
+14	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.30
+15	nípa	nípa	X	_	_	0	_	_	Ref=MARK_1.30
+16	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.30|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.30
+
+# sent_id = MARK_1.31
+# text = Ó sì tọ̀ ọ́ lọ, ó fà á lọ́wọ́, ó sì gbé e dìde; lójú kan náà ibà náà fi sílẹ̀, ó sì ń ṣe ìránṣẹ́ fún wọn.
+1	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.31
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.31
+3	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MARK_1.31
+4	ọ́	ọ́	X	_	_	0	_	_	Ref=MARK_1.31
+5	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.31|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.31
+7	ó	ó	X	_	_	0	_	_	Ref=MARK_1.31
+8	fà	fà	X	_	_	0	_	_	Ref=MARK_1.31
+9	á	á	X	_	_	0	_	_	Ref=MARK_1.31
+10	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=MARK_1.31|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.31
+12	ó	ó	X	_	_	0	_	_	Ref=MARK_1.31
+13	sì	sì	X	_	_	0	_	_	Ref=MARK_1.31
+14	gbé	gbé	X	_	_	0	_	_	Ref=MARK_1.31
+15	e	e	X	_	_	0	_	_	Ref=MARK_1.31
+16	dìde	dìde	X	_	_	0	_	_	Ref=MARK_1.31|SpaceAfter=No
+17	;	;	PUNCT	_	_	0	punct	_	Ref=MARK_1.31
+18	lójú	lójú	X	_	_	0	_	_	Ref=MARK_1.31
+19	kan	kan	X	_	_	0	_	_	Ref=MARK_1.31
+20	náà	náà	X	_	_	0	_	_	Ref=MARK_1.31
+21	ibà	ibà	X	_	_	0	_	_	Ref=MARK_1.31
+22	náà	náà	X	_	_	0	_	_	Ref=MARK_1.31
+23	fi	fi	X	_	_	0	_	_	Ref=MARK_1.31
+24	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MARK_1.31|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.31
+26	ó	ó	X	_	_	0	_	_	Ref=MARK_1.31
+27	sì	sì	X	_	_	0	_	_	Ref=MARK_1.31
+28	ń	ń	X	_	_	0	_	_	Ref=MARK_1.31
+29	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.31
+30	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=MARK_1.31
+31	fún	fún	X	_	_	0	_	_	Ref=MARK_1.31
+32	wọn	wọn	X	_	_	0	_	_	Ref=MARK_1.31|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.31
+
+# sent_id = MARK_1.32
+# text = Nígbà tí ó di àṣálẹ́, tí òòrùn wọ̀, wọ́n gbé gbogbo àwọn aláìsàn àti àwọn tó ni ẹ̀mí àìmọ́ tọ̀ ọ́ wá.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=MARK_1.32
+2	tí	tí	X	_	_	0	_	_	Ref=MARK_1.32
+3	ó	ó	X	_	_	0	_	_	Ref=MARK_1.32
+4	di	di	X	_	_	0	_	_	Ref=MARK_1.32
+5	àṣálẹ́	àṣálẹ́	X	_	_	0	_	_	Ref=MARK_1.32|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.32
+7	tí	tí	X	_	_	0	_	_	Ref=MARK_1.32
+8	òòrùn	òòrùn	X	_	_	0	_	_	Ref=MARK_1.32
+9	wọ̀	wọ̀	X	_	_	0	_	_	Ref=MARK_1.32|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.32
+11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.32
+12	gbé	gbé	X	_	_	0	_	_	Ref=MARK_1.32
+13	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.32
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.32
+15	aláìsàn	aláìsàn	X	_	_	0	_	_	Ref=MARK_1.32
+16	àti	àti	X	_	_	0	_	_	Ref=MARK_1.32
+17	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.32
+18	tó	tó	X	_	_	0	_	_	Ref=MARK_1.32
+19	ni	ni	X	_	_	0	_	_	Ref=MARK_1.32
+20	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.32
+21	àìmọ́	àìmọ́	X	_	_	0	_	_	Ref=MARK_1.32
+22	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MARK_1.32
+23	ọ́	ọ́	X	_	_	0	_	_	Ref=MARK_1.32
+24	wá	wá	X	_	_	0	_	_	Ref=MARK_1.32|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.32
+
+# sent_id = MARK_1.33
+# text = Gbogbo ìlú si péjọ ni ẹnu-ọ̀nà.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.33
+2	ìlú	ìlú	X	_	_	0	_	_	Ref=MARK_1.33
+3	si	si	X	_	_	0	_	_	Ref=MARK_1.33
+4	péjọ	péjọ	X	_	_	0	_	_	Ref=MARK_1.33
+5	ni	ni	X	_	_	0	_	_	Ref=MARK_1.33
+6	ẹnu	ẹnu	X	_	_	0	_	_	Ref=MARK_1.33|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.33|SpaceAfter=No
+8	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=MARK_1.33|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.33
+
+# sent_id = MARK_1.34
+# text = Jésù sì wo ọ̀pọ̀ tí wọ́n ní onírúurú aláìsàn sàn. Bákan náà ni ó lé ọ̀pọ̀ ẹ̀mí àìmọ́ jáde, Ṣùgbọ́n kò sì jẹ́ kí àwọn ẹ̀mí àìmọ́ náà kí ó sọ̀rọ̀, nítorí tí wọ́n mọ ẹni tí òun í se.
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.34
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.34
+3	wo	wo	X	_	_	0	_	_	Ref=MARK_1.34
+4	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=MARK_1.34
+5	tí	tí	X	_	_	0	_	_	Ref=MARK_1.34
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.34
+7	ní	ní	X	_	_	0	_	_	Ref=MARK_1.34
+8	onírúurú	onírúurú	X	_	_	0	_	_	Ref=MARK_1.34
+9	aláìsàn	aláìsàn	X	_	_	0	_	_	Ref=MARK_1.34
+10	sàn	sàn	X	_	_	0	_	_	Ref=MARK_1.34|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.34
+12	Bákan	bákan	X	_	_	0	_	_	Ref=MARK_1.34
+13	náà	náà	X	_	_	0	_	_	Ref=MARK_1.34
+14	ni	ni	X	_	_	0	_	_	Ref=MARK_1.34
+15	ó	ó	X	_	_	0	_	_	Ref=MARK_1.34
+16	lé	lé	X	_	_	0	_	_	Ref=MARK_1.34
+17	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=MARK_1.34
+18	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.34
+19	àìmọ́	àìmọ́	X	_	_	0	_	_	Ref=MARK_1.34
+20	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.34|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.34
+22	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=MARK_1.34
+23	kò	kò	X	_	_	0	_	_	Ref=MARK_1.34
+24	sì	sì	X	_	_	0	_	_	Ref=MARK_1.34
+25	jẹ́	jẹ́	X	_	_	0	_	_	Ref=MARK_1.34
+26	kí	kí	X	_	_	0	_	_	Ref=MARK_1.34
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.34
+28	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.34
+29	àìmọ́	àìmọ́	X	_	_	0	_	_	Ref=MARK_1.34
+30	náà	náà	X	_	_	0	_	_	Ref=MARK_1.34
+31	kí	kí	X	_	_	0	_	_	Ref=MARK_1.34
+32	ó	ó	X	_	_	0	_	_	Ref=MARK_1.34
+33	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=MARK_1.34|SpaceAfter=No
+34	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.34
+35	nítorí	nítorí	X	_	_	0	_	_	Ref=MARK_1.34
+36	tí	tí	X	_	_	0	_	_	Ref=MARK_1.34
+37	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.34
+38	mọ	mọ	X	_	_	0	_	_	Ref=MARK_1.34
+39	ẹni	ẹni	X	_	_	0	_	_	Ref=MARK_1.34
+40	tí	tí	X	_	_	0	_	_	Ref=MARK_1.34
+41	òun	òun	X	_	_	0	_	_	Ref=MARK_1.34
+42	í	í	X	_	_	0	_	_	Ref=MARK_1.34
+43	se	se	X	_	_	0	_	_	Ref=MARK_1.34|SpaceAfter=No
+44	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.34
+
+# sent_id = MARK_1.35
+# text = Ní kùtùkùtù òwúrọ̀ ọjọ́ kejì, kí ilẹ̀ tó mọ́, Jésù nìkan jáde lọ sí ihà kan, láti lọ gbàdúrà.
+1	Ní	ní	X	_	_	0	_	_	Ref=MARK_1.35
+2	kùtùkùtù	kùtùkùtù	X	_	_	0	_	_	Ref=MARK_1.35
+3	òwúrọ̀	òwúrọ̀	X	_	_	0	_	_	Ref=MARK_1.35
+4	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=MARK_1.35
+5	kejì	kejì	X	_	_	0	_	_	Ref=MARK_1.35|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.35
+7	kí	kí	X	_	_	0	_	_	Ref=MARK_1.35
+8	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=MARK_1.35
+9	tó	tó	X	_	_	0	_	_	Ref=MARK_1.35
+10	mọ́	mọ́	X	_	_	0	_	_	Ref=MARK_1.35|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.35
+12	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.35
+13	nìkan	nìkan	X	_	_	0	_	_	Ref=MARK_1.35
+14	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.35
+15	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.35
+16	sí	sí	X	_	_	0	_	_	Ref=MARK_1.35
+17	ihà	ihà	X	_	_	0	_	_	Ref=MARK_1.35
+18	kan	kan	X	_	_	0	_	_	Ref=MARK_1.35|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.35
+20	láti	láti	X	_	_	0	_	_	Ref=MARK_1.35
+21	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.35
+22	gbàdúrà	gbàdúrà	X	_	_	0	_	_	Ref=MARK_1.35|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.35
+
+# sent_id = MARK_1.36
+# text = Símónì àti àwọn ènìyàn rẹ̀ yòókù lọ láti wá a.
+1	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=MARK_1.36
+2	àti	àti	X	_	_	0	_	_	Ref=MARK_1.36
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.36
+4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.36
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.36
+6	yòókù	yòókù	X	_	_	0	_	_	Ref=MARK_1.36
+7	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.36
+8	láti	láti	X	_	_	0	_	_	Ref=MARK_1.36
+9	wá	wá	X	_	_	0	_	_	Ref=MARK_1.36
+10	a	a	X	_	_	0	_	_	Ref=MARK_1.36|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.36
+
+# sent_id = MARK_1.37
+# text = nígbà tí wọ́n sì rí I, wọ́n sọ fún wí pé, “Gbogbo ènìyàn ń wá ọ!”
+1	nígbà	nígbà	X	_	_	0	_	_	Ref=MARK_1.37
+2	tí	tí	X	_	_	0	_	_	Ref=MARK_1.37
+3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.37
+4	sì	sì	X	_	_	0	_	_	Ref=MARK_1.37
+5	rí	rí	X	_	_	0	_	_	Ref=MARK_1.37
+6	I	i	X	_	_	0	_	_	Ref=MARK_1.37|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.37
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=MARK_1.37
+9	sọ	sọ	X	_	_	0	_	_	Ref=MARK_1.37
+10	fún	fún	X	_	_	0	_	_	Ref=MARK_1.37
+11	wí	wí	X	_	_	0	_	_	Ref=MARK_1.37
+12	pé	pé	X	_	_	0	_	_	Ref=MARK_1.37|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.37
+14	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.37|SpaceAfter=No
+15	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.37
+16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.37
+17	ń	ń	X	_	_	0	_	_	Ref=MARK_1.37
+18	wá	wá	X	_	_	0	_	_	Ref=MARK_1.37
+19	ọ	ọ	X	_	_	0	_	_	Ref=MARK_1.37|SpaceAfter=No
+20	!	!	PUNCT	_	_	0	punct	_	Ref=MARK_1.37|SpaceAfter=No
+21	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.37
+
+# sent_id = MARK_1.38
+# text = Jésù sì dáhùn wí pé, “Ẹ jẹ́ kí a lọ sí àwọn ìlú mìíràn, kí ń lè wàásù níbẹ̀ pẹ̀lú. Nítorí èyí ni èmi sá à ṣe wá.”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.38
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.38
+3	dáhùn	dáhùn	X	_	_	0	_	_	Ref=MARK_1.38
+4	wí	wí	X	_	_	0	_	_	Ref=MARK_1.38
+5	pé	pé	X	_	_	0	_	_	Ref=MARK_1.38|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.38
+7	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.38|SpaceAfter=No
+8	Ẹ	ẹ	X	_	_	0	_	_	Ref=MARK_1.38
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=MARK_1.38
+10	kí	kí	X	_	_	0	_	_	Ref=MARK_1.38
+11	a	a	X	_	_	0	_	_	Ref=MARK_1.38
+12	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.38
+13	sí	sí	X	_	_	0	_	_	Ref=MARK_1.38
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.38
+15	ìlú	ìlú	X	_	_	0	_	_	Ref=MARK_1.38
+16	mìíràn	mìíràn	X	_	_	0	_	_	Ref=MARK_1.38|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.38
+18	kí	kí	X	_	_	0	_	_	Ref=MARK_1.38
+19	ń	ń	X	_	_	0	_	_	Ref=MARK_1.38
+20	lè	lè	X	_	_	0	_	_	Ref=MARK_1.38
+21	wàásù	wàásù	X	_	_	0	_	_	Ref=MARK_1.38
+22	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=MARK_1.38
+23	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=MARK_1.38|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.38
+25	Nítorí	nítorí	X	_	_	0	_	_	Ref=MARK_1.38
+26	èyí	èyí	X	_	_	0	_	_	Ref=MARK_1.38
+27	ni	ni	X	_	_	0	_	_	Ref=MARK_1.38
+28	èmi	èmi	X	_	_	0	_	_	Ref=MARK_1.38
+29	sá	sá	X	_	_	0	_	_	Ref=MARK_1.38
+30	à	à	X	_	_	0	_	_	Ref=MARK_1.38
+31	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.38
+32	wá	wá	X	_	_	0	_	_	Ref=MARK_1.38|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.38|SpaceAfter=No
+34	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.38
+
+# sent_id = MARK_1.39
+# text = Nítorí náà, ó ń kiri gbogbo agbégbé Gálílì, ó ń wàásù nínú àwọn sínágọ́gù. Ó sì ń lé àwọn ẹ̀mí àìmọ́ jáde.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=MARK_1.39
+2	náà	náà	X	_	_	0	_	_	Ref=MARK_1.39|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.39
+4	ó	ó	X	_	_	0	_	_	Ref=MARK_1.39
+5	ń	ń	X	_	_	0	_	_	Ref=MARK_1.39
+6	kiri	kiri	X	_	_	0	_	_	Ref=MARK_1.39
+7	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.39
+8	agbégbé	agbégbé	X	_	_	0	_	_	Ref=MARK_1.39
+9	Gálílì	Gálílì	PROPN	_	_	0	_	_	Ref=MARK_1.39|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.39
+11	ó	ó	X	_	_	0	_	_	Ref=MARK_1.39
+12	ń	ń	X	_	_	0	_	_	Ref=MARK_1.39
+13	wàásù	wàásù	X	_	_	0	_	_	Ref=MARK_1.39
+14	nínú	nínú	X	_	_	0	_	_	Ref=MARK_1.39
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.39
+16	sínágọ́gù	sínágọ́gù	X	_	_	0	_	_	Ref=MARK_1.39|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.39
+18	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.39
+19	sì	sì	X	_	_	0	_	_	Ref=MARK_1.39
+20	ń	ń	X	_	_	0	_	_	Ref=MARK_1.39
+21	lé	lé	X	_	_	0	_	_	Ref=MARK_1.39
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.39
+23	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=MARK_1.39
+24	àìmọ́	àìmọ́	X	_	_	0	_	_	Ref=MARK_1.39
+25	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.39|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.39
+
+# sent_id = MARK_1.40
+# text = Ọkùnrin adẹ́tẹ̀ kan tọ̀ ọ́ wá, ó sì kúnlẹ̀ níwájú rẹ̀. Ó sì bẹ̀bẹ̀ fún ìmúláradà. Ó wí pé, “Bí ìwọ bá fẹ́, ìwọ lè mú mi láradá.”
+1	Ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=MARK_1.40
+2	adẹ́tẹ̀	adẹ́tẹ̀	X	_	_	0	_	_	Ref=MARK_1.40
+3	kan	kan	X	_	_	0	_	_	Ref=MARK_1.40
+4	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MARK_1.40
+5	ọ́	ọ́	X	_	_	0	_	_	Ref=MARK_1.40
+6	wá	wá	X	_	_	0	_	_	Ref=MARK_1.40|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.40
+8	ó	ó	X	_	_	0	_	_	Ref=MARK_1.40
+9	sì	sì	X	_	_	0	_	_	Ref=MARK_1.40
+10	kúnlẹ̀	kúnlẹ̀	X	_	_	0	_	_	Ref=MARK_1.40
+11	níwájú	níwájú	X	_	_	0	_	_	Ref=MARK_1.40
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.40|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.40
+14	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.40
+15	sì	sì	X	_	_	0	_	_	Ref=MARK_1.40
+16	bẹ̀bẹ̀	bẹ̀bẹ̀	X	_	_	0	_	_	Ref=MARK_1.40
+17	fún	fún	X	_	_	0	_	_	Ref=MARK_1.40
+18	ìmúláradà	ìmúláradà	X	_	_	0	_	_	Ref=MARK_1.40|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.40
+20	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.40
+21	wí	wí	X	_	_	0	_	_	Ref=MARK_1.40
+22	pé	pé	X	_	_	0	_	_	Ref=MARK_1.40|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.40
+24	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.40|SpaceAfter=No
+25	Bí	bí	X	_	_	0	_	_	Ref=MARK_1.40
+26	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.40
+27	bá	bá	X	_	_	0	_	_	Ref=MARK_1.40
+28	fẹ́	fẹ́	X	_	_	0	_	_	Ref=MARK_1.40|SpaceAfter=No
+29	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.40
+30	ìwọ	ìwọ	X	_	_	0	_	_	Ref=MARK_1.40
+31	lè	lè	X	_	_	0	_	_	Ref=MARK_1.40
+32	mú	mú	X	_	_	0	_	_	Ref=MARK_1.40
+33	mi	mi	X	_	_	0	_	_	Ref=MARK_1.40
+34	láradá	láradá	X	_	_	0	_	_	Ref=MARK_1.40|SpaceAfter=No
+35	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.40|SpaceAfter=No
+36	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.40
+
+# sent_id = MARK_1.41
+# text = Jésù kún fún àánú, ó na ọwọ́ rẹ̀, ó fi ọwọ́ rẹ̀ bà a, ó wí pé, “Èmí fẹ́. Di mímọ́.”
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.41
+2	kún	kún	X	_	_	0	_	_	Ref=MARK_1.41
+3	fún	fún	X	_	_	0	_	_	Ref=MARK_1.41
+4	àánú	àánú	X	_	_	0	_	_	Ref=MARK_1.41|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.41
+6	ó	ó	X	_	_	0	_	_	Ref=MARK_1.41
+7	na	na	X	_	_	0	_	_	Ref=MARK_1.41
+8	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=MARK_1.41
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.41|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.41
+11	ó	ó	X	_	_	0	_	_	Ref=MARK_1.41
+12	fi	fi	X	_	_	0	_	_	Ref=MARK_1.41
+13	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=MARK_1.41
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.41
+15	bà	bà	X	_	_	0	_	_	Ref=MARK_1.41
+16	a	a	X	_	_	0	_	_	Ref=MARK_1.41|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.41
+18	ó	ó	X	_	_	0	_	_	Ref=MARK_1.41
+19	wí	wí	X	_	_	0	_	_	Ref=MARK_1.41
+20	pé	pé	X	_	_	0	_	_	Ref=MARK_1.41|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.41
+22	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.41|SpaceAfter=No
+23	Èmí	èmí	X	_	_	0	_	_	Ref=MARK_1.41
+24	fẹ́	fẹ́	X	_	_	0	_	_	Ref=MARK_1.41|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.41
+26	Di	di	X	_	_	0	_	_	Ref=MARK_1.41
+27	mímọ́	mímọ́	X	_	_	0	_	_	Ref=MARK_1.41|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.41|SpaceAfter=No
+29	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.41
+
+# sent_id = MARK_1.42
+# text = Lójúkan-náà ẹ̀tẹ̀ náà fi sílẹ̀ lọ, ọkùnrin náà sì rí ìwòsàn.
+1	Lójúkan	lójúkan	X	_	_	0	_	_	Ref=MARK_1.42|SpaceAfter=No
+2	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.42|SpaceAfter=No
+3	náà	náà	X	_	_	0	_	_	Ref=MARK_1.42
+4	ẹ̀tẹ̀	ẹ̀tẹ̀	X	_	_	0	_	_	Ref=MARK_1.42
+5	náà	náà	X	_	_	0	_	_	Ref=MARK_1.42
+6	fi	fi	X	_	_	0	_	_	Ref=MARK_1.42
+7	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=MARK_1.42
+8	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.42|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.42
+10	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=MARK_1.42
+11	náà	náà	X	_	_	0	_	_	Ref=MARK_1.42
+12	sì	sì	X	_	_	0	_	_	Ref=MARK_1.42
+13	rí	rí	X	_	_	0	_	_	Ref=MARK_1.42
+14	ìwòsàn	ìwòsàn	X	_	_	0	_	_	Ref=MARK_1.42|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.42
+
+# sent_id = MARK_1.43
+# text = Jésù sì kìlọ̀ fún un gidigidi
+1	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.43
+2	sì	sì	X	_	_	0	_	_	Ref=MARK_1.43
+3	kìlọ̀	kìlọ̀	X	_	_	0	_	_	Ref=MARK_1.43
+4	fún	fún	X	_	_	0	_	_	Ref=MARK_1.43
+5	un	un	X	_	_	0	_	_	Ref=MARK_1.43
+6	gidigidi	gidigidi	X	_	_	0	_	_	Ref=MARK_1.43
+
+# sent_id = MARK_1.44
+# text = Ó wí pé, “Lọ fi ara rẹ̀ hàn àlùfáà Júù fún àyẹ̀wò. Ṣùgbọ́n má ṣe dúró sọ ohunkóhun fún ẹnikẹ́ni ní ọ̀nà. Mú ẹ̀bùn lọ́wọ́, èyí tí Mósè pa láṣẹ fún adẹ́tẹ̀ tí a múláradá. Èyí tí í ṣe ẹ̀rí pé, ó ti rí ìwòsàn.”
+1	Ó	ó	X	_	_	0	_	_	Ref=MARK_1.44
+2	wí	wí	X	_	_	0	_	_	Ref=MARK_1.44
+3	pé	pé	X	_	_	0	_	_	Ref=MARK_1.44|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.44
+5	“	“	PUNCT	_	_	0	punct	_	Ref=MARK_1.44|SpaceAfter=No
+6	Lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.44
+7	fi	fi	X	_	_	0	_	_	Ref=MARK_1.44
+8	ara	ara	X	_	_	0	_	_	Ref=MARK_1.44
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=MARK_1.44
+10	hàn	hàn	X	_	_	0	_	_	Ref=MARK_1.44
+11	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=MARK_1.44
+12	Júù	Júù	PROPN	_	_	0	_	_	Ref=MARK_1.44
+13	fún	fún	X	_	_	0	_	_	Ref=MARK_1.44
+14	àyẹ̀wò	àyẹ̀wò	X	_	_	0	_	_	Ref=MARK_1.44|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.44
+16	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=MARK_1.44
+17	má	má	X	_	_	0	_	_	Ref=MARK_1.44
+18	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.44
+19	dúró	dúró	X	_	_	0	_	_	Ref=MARK_1.44
+20	sọ	sọ	X	_	_	0	_	_	Ref=MARK_1.44
+21	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=MARK_1.44
+22	fún	fún	X	_	_	0	_	_	Ref=MARK_1.44
+23	ẹnikẹ́ni	ẹnikẹ́ni	X	_	_	0	_	_	Ref=MARK_1.44
+24	ní	ní	X	_	_	0	_	_	Ref=MARK_1.44
+25	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=MARK_1.44|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.44
+27	Mú	mú	X	_	_	0	_	_	Ref=MARK_1.44
+28	ẹ̀bùn	ẹ̀bùn	X	_	_	0	_	_	Ref=MARK_1.44
+29	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=MARK_1.44|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.44
+31	èyí	èyí	X	_	_	0	_	_	Ref=MARK_1.44
+32	tí	tí	X	_	_	0	_	_	Ref=MARK_1.44
+33	Mósè	mósè	X	_	_	0	_	_	Ref=MARK_1.44
+34	pa	pa	X	_	_	0	_	_	Ref=MARK_1.44
+35	láṣẹ	láṣẹ	X	_	_	0	_	_	Ref=MARK_1.44
+36	fún	fún	X	_	_	0	_	_	Ref=MARK_1.44
+37	adẹ́tẹ̀	adẹ́tẹ̀	X	_	_	0	_	_	Ref=MARK_1.44
+38	tí	tí	X	_	_	0	_	_	Ref=MARK_1.44
+39	a	a	X	_	_	0	_	_	Ref=MARK_1.44
+40	múláradá	múláradá	X	_	_	0	_	_	Ref=MARK_1.44|SpaceAfter=No
+41	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.44
+42	Èyí	èyí	X	_	_	0	_	_	Ref=MARK_1.44
+43	tí	tí	X	_	_	0	_	_	Ref=MARK_1.44
+44	í	í	X	_	_	0	_	_	Ref=MARK_1.44
+45	ṣe	ṣe	X	_	_	0	_	_	Ref=MARK_1.44
+46	ẹ̀rí	ẹ̀rí	X	_	_	0	_	_	Ref=MARK_1.44
+47	pé	pé	X	_	_	0	_	_	Ref=MARK_1.44|SpaceAfter=No
+48	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.44
+49	ó	ó	X	_	_	0	_	_	Ref=MARK_1.44
+50	ti	ti	X	_	_	0	_	_	Ref=MARK_1.44
+51	rí	rí	X	_	_	0	_	_	Ref=MARK_1.44
+52	ìwòsàn	ìwòsàn	X	_	_	0	_	_	Ref=MARK_1.44|SpaceAfter=No
+53	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.44|SpaceAfter=No
+54	”	”	PUNCT	_	_	0	punct	_	Ref=MARK_1.44
+
+# sent_id = MARK_1.45
+# text = Ṣùgbọ́n ó jáde lọ, ó bẹ̀rẹ̀ sí í pòkìkì, ó ń tan ìròyìn kálẹ̀. Nítorí èyí, Jésù kò sì le wọ ìlú ní gba-n-gba mọ́, ṣùgbọ́n ó wà lẹ́yìn odi ìlú ní ihà. Ṣíbẹ̀, àwọn ènìyàn tọ̀ ọ́ wá láti ibi gbogbo.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=MARK_1.45
+2	ó	ó	X	_	_	0	_	_	Ref=MARK_1.45
+3	jáde	jáde	X	_	_	0	_	_	Ref=MARK_1.45
+4	lọ	lọ	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+6	ó	ó	X	_	_	0	_	_	Ref=MARK_1.45
+7	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=MARK_1.45
+8	sí	sí	X	_	_	0	_	_	Ref=MARK_1.45
+9	í	í	X	_	_	0	_	_	Ref=MARK_1.45
+10	pòkìkì	pòkìkì	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+12	ó	ó	X	_	_	0	_	_	Ref=MARK_1.45
+13	ń	ń	X	_	_	0	_	_	Ref=MARK_1.45
+14	tan	tan	X	_	_	0	_	_	Ref=MARK_1.45
+15	ìròyìn	ìròyìn	X	_	_	0	_	_	Ref=MARK_1.45
+16	kálẹ̀	kálẹ̀	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+18	Nítorí	nítorí	X	_	_	0	_	_	Ref=MARK_1.45
+19	èyí	èyí	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+21	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=MARK_1.45
+22	kò	kò	X	_	_	0	_	_	Ref=MARK_1.45
+23	sì	sì	X	_	_	0	_	_	Ref=MARK_1.45
+24	le	le	X	_	_	0	_	_	Ref=MARK_1.45
+25	wọ	wọ	X	_	_	0	_	_	Ref=MARK_1.45
+26	ìlú	ìlú	X	_	_	0	_	_	Ref=MARK_1.45
+27	ní	ní	X	_	_	0	_	_	Ref=MARK_1.45
+28	gba	gba	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+29	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.45|SpaceAfter=No
+30	n	n	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+31	-	-	PUNCT	_	_	0	punct	_	Ref=MARK_1.45|SpaceAfter=No
+32	gba	gba	X	_	_	0	_	_	Ref=MARK_1.45
+33	mọ́	mọ́	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+34	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+35	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=MARK_1.45
+36	ó	ó	X	_	_	0	_	_	Ref=MARK_1.45
+37	wà	wà	X	_	_	0	_	_	Ref=MARK_1.45
+38	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=MARK_1.45
+39	odi	odi	X	_	_	0	_	_	Ref=MARK_1.45
+40	ìlú	ìlú	X	_	_	0	_	_	Ref=MARK_1.45
+41	ní	ní	X	_	_	0	_	_	Ref=MARK_1.45
+42	ihà	ihà	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+43	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+44	Ṣíbẹ̀	ṣíbẹ̀	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+45	,	,	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+46	àwọn	àwọn	X	_	_	0	_	_	Ref=MARK_1.45
+47	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=MARK_1.45
+48	tọ̀	tọ̀	X	_	_	0	_	_	Ref=MARK_1.45
+49	ọ́	ọ́	X	_	_	0	_	_	Ref=MARK_1.45
+50	wá	wá	X	_	_	0	_	_	Ref=MARK_1.45
+51	láti	láti	X	_	_	0	_	_	Ref=MARK_1.45
+52	ibi	ibi	X	_	_	0	_	_	Ref=MARK_1.45
+53	gbogbo	gbogbo	X	_	_	0	_	_	Ref=MARK_1.45|SpaceAfter=No
+54	.	.	PUNCT	_	_	0	punct	_	Ref=MARK_1.45
+

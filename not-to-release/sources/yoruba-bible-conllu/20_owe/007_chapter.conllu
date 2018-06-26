@@ -1,0 +1,575 @@
+# source = Bibeli Mimọ, Òwe, Chapter 7
+# newdoc id = PROV_7
+# sent_id = PROV_7.1
+# text = Ọmọ mi, pa ọ̀rọ̀ mi mọ́, sì fi àwọn òfin mi pamọ́ sínú ọkàn rẹ.
+1	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=PROV_7.1
+2	mi	mi	X	_	_	0	_	_	Ref=PROV_7.1|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.1
+4	pa	pa	X	_	_	0	_	_	Ref=PROV_7.1
+5	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PROV_7.1
+6	mi	mi	X	_	_	0	_	_	Ref=PROV_7.1
+7	mọ́	mọ́	X	_	_	0	_	_	Ref=PROV_7.1|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.1
+9	sì	sì	X	_	_	0	_	_	Ref=PROV_7.1
+10	fi	fi	X	_	_	0	_	_	Ref=PROV_7.1
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_7.1
+12	òfin	òfin	X	_	_	0	_	_	Ref=PROV_7.1
+13	mi	mi	X	_	_	0	_	_	Ref=PROV_7.1
+14	pamọ́	pamọ́	X	_	_	0	_	_	Ref=PROV_7.1
+15	sínú	sínú	X	_	_	0	_	_	Ref=PROV_7.1
+16	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_7.1
+17	rẹ	rẹ	X	_	_	0	_	_	Ref=PROV_7.1|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.1
+
+# sent_id = PROV_7.2
+# text = Pa òfin mi mọ́, ìwọ yóò sì yè tọ́jú ẹ̀kọ́ mi bí ẹyinlójú rẹ
+1	Pa	pa	X	_	_	0	_	_	Ref=PROV_7.2
+2	òfin	òfin	X	_	_	0	_	_	Ref=PROV_7.2
+3	mi	mi	X	_	_	0	_	_	Ref=PROV_7.2
+4	mọ́	mọ́	X	_	_	0	_	_	Ref=PROV_7.2|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.2
+6	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PROV_7.2
+7	yóò	yóò	X	_	_	0	_	_	Ref=PROV_7.2
+8	sì	sì	X	_	_	0	_	_	Ref=PROV_7.2
+9	yè	yè	X	_	_	0	_	_	Ref=PROV_7.2
+10	tọ́jú	tọ́jú	X	_	_	0	_	_	Ref=PROV_7.2
+11	ẹ̀kọ́	ẹ̀kọ́	X	_	_	0	_	_	Ref=PROV_7.2
+12	mi	mi	X	_	_	0	_	_	Ref=PROV_7.2
+13	bí	bí	X	_	_	0	_	_	Ref=PROV_7.2
+14	ẹyinlójú	ẹyinlójú	X	_	_	0	_	_	Ref=PROV_7.2
+15	rẹ	rẹ	X	_	_	0	_	_	Ref=PROV_7.2
+
+# sent_id = PROV_7.3
+# text = Kọ wọ́n sí ọwọ́ òsì rẹ, má ṣe fi jẹun kọ wọ́n sí inú ọkàn rẹ.
+1	Kọ	kọ	X	_	_	0	_	_	Ref=PROV_7.3
+2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PROV_7.3
+3	sí	sí	X	_	_	0	_	_	Ref=PROV_7.3
+4	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=PROV_7.3
+5	òsì	òsì	X	_	_	0	_	_	Ref=PROV_7.3
+6	rẹ	rẹ	X	_	_	0	_	_	Ref=PROV_7.3|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.3
+8	má	má	X	_	_	0	_	_	Ref=PROV_7.3
+9	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_7.3
+10	fi	fi	X	_	_	0	_	_	Ref=PROV_7.3
+11	jẹun	jẹun	X	_	_	0	_	_	Ref=PROV_7.3
+12	kọ	kọ	X	_	_	0	_	_	Ref=PROV_7.3
+13	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PROV_7.3
+14	sí	sí	X	_	_	0	_	_	Ref=PROV_7.3
+15	inú	inú	X	_	_	0	_	_	Ref=PROV_7.3
+16	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_7.3
+17	rẹ	rẹ	X	_	_	0	_	_	Ref=PROV_7.3|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.3
+
+# sent_id = PROV_7.4
+# text = Wí fún ọgbọ́n pé, “Ìwọ ni arábìnrin mi,” sì pe òye ní ìbátan rẹ;
+1	Wí	wí	X	_	_	0	_	_	Ref=PROV_7.4
+2	fún	fún	X	_	_	0	_	_	Ref=PROV_7.4
+3	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PROV_7.4
+4	pé	pé	X	_	_	0	_	_	Ref=PROV_7.4|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.4
+6	“	“	PUNCT	_	_	0	punct	_	Ref=PROV_7.4|SpaceAfter=No
+7	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=PROV_7.4
+8	ni	ni	X	_	_	0	_	_	Ref=PROV_7.4
+9	arábìnrin	arábìnrin	X	_	_	0	_	_	Ref=PROV_7.4
+10	mi	mi	X	_	_	0	_	_	Ref=PROV_7.4|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.4|SpaceAfter=No
+12	”	”	PUNCT	_	_	0	punct	_	Ref=PROV_7.4
+13	sì	sì	X	_	_	0	_	_	Ref=PROV_7.4
+14	pe	pe	X	_	_	0	_	_	Ref=PROV_7.4
+15	òye	òye	X	_	_	0	_	_	Ref=PROV_7.4
+16	ní	ní	X	_	_	0	_	_	Ref=PROV_7.4
+17	ìbátan	ìbátan	X	_	_	0	_	_	Ref=PROV_7.4
+18	rẹ	rẹ	X	_	_	0	_	_	Ref=PROV_7.4|SpaceAfter=No
+19	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_7.4
+
+# sent_id = PROV_7.5
+# text = wọn yóò pa ó mọ́ kúrò lọ́wọ́ obìnrin alágbèrè, kúrò lọ́wọ́ ìyàwó onírìnkurìn àti ọ̀rọ̀ ìtànjẹ rẹ̀.
+1	wọn	wọn	X	_	_	0	_	_	Ref=PROV_7.5
+2	yóò	yóò	X	_	_	0	_	_	Ref=PROV_7.5
+3	pa	pa	X	_	_	0	_	_	Ref=PROV_7.5
+4	ó	ó	X	_	_	0	_	_	Ref=PROV_7.5
+5	mọ́	mọ́	X	_	_	0	_	_	Ref=PROV_7.5
+6	kúrò	kúrò	X	_	_	0	_	_	Ref=PROV_7.5
+7	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PROV_7.5
+8	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PROV_7.5
+9	alágbèrè	alágbèrè	X	_	_	0	_	_	Ref=PROV_7.5|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.5
+11	kúrò	kúrò	X	_	_	0	_	_	Ref=PROV_7.5
+12	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PROV_7.5
+13	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=PROV_7.5
+14	onírìnkurìn	onírìnkurìn	X	_	_	0	_	_	Ref=PROV_7.5
+15	àti	àti	X	_	_	0	_	_	Ref=PROV_7.5
+16	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PROV_7.5
+17	ìtànjẹ	ìtànjẹ	X	_	_	0	_	_	Ref=PROV_7.5
+18	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_7.5|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.5
+
+# sent_id = PROV_7.6
+# text = Ní ojú fèrèsé ilé è mi mo wo ìta láti ojú ù fèrèsé.
+1	Ní	ní	X	_	_	0	_	_	Ref=PROV_7.6
+2	ojú	ojú	X	_	_	0	_	_	Ref=PROV_7.6
+3	fèrèsé	fèrèsé	X	_	_	0	_	_	Ref=PROV_7.6
+4	ilé	ilé	X	_	_	0	_	_	Ref=PROV_7.6
+5	è	è	X	_	_	0	_	_	Ref=PROV_7.6
+6	mi	mi	X	_	_	0	_	_	Ref=PROV_7.6
+7	mo	mo	X	_	_	0	_	_	Ref=PROV_7.6
+8	wo	wo	X	_	_	0	_	_	Ref=PROV_7.6
+9	ìta	ìta	X	_	_	0	_	_	Ref=PROV_7.6
+10	láti	láti	X	_	_	0	_	_	Ref=PROV_7.6
+11	ojú	ojú	X	_	_	0	_	_	Ref=PROV_7.6
+12	ù	ù	X	_	_	0	_	_	Ref=PROV_7.6
+13	fèrèsé	fèrèsé	X	_	_	0	_	_	Ref=PROV_7.6|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.6
+
+# sent_id = PROV_7.7
+# text = Mo rí i láàrin àwọn aláìmọ́kan mo sì kíyèsí láàrin àwọn ọ̀dọ́kùnrin, ọ̀dọ́ kan tí ó ṣe aláìgbọ́n.
+1	Mo	mo	X	_	_	0	_	_	Ref=PROV_7.7
+2	rí	rí	X	_	_	0	_	_	Ref=PROV_7.7
+3	i	i	X	_	_	0	_	_	Ref=PROV_7.7
+4	láàrin	láàrin	X	_	_	0	_	_	Ref=PROV_7.7
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_7.7
+6	aláìmọ́kan	aláìmọ́kan	X	_	_	0	_	_	Ref=PROV_7.7
+7	mo	mo	X	_	_	0	_	_	Ref=PROV_7.7
+8	sì	sì	X	_	_	0	_	_	Ref=PROV_7.7
+9	kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=PROV_7.7
+10	láàrin	láàrin	X	_	_	0	_	_	Ref=PROV_7.7
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_7.7
+12	ọ̀dọ́kùnrin	ọ̀dọ́kùnrin	X	_	_	0	_	_	Ref=PROV_7.7|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.7
+14	ọ̀dọ́	ọ̀dọ́	X	_	_	0	_	_	Ref=PROV_7.7
+15	kan	kan	X	_	_	0	_	_	Ref=PROV_7.7
+16	tí	tí	X	_	_	0	_	_	Ref=PROV_7.7
+17	ó	ó	X	_	_	0	_	_	Ref=PROV_7.7
+18	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_7.7
+19	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_7.7|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.7
+
+# sent_id = PROV_7.8
+# text = Ó ń lọ ní pópónà ní tòsí i ilé alágbérè obìnrin náà, ó ń rìn lọ sí ọ̀nà ilé e rẹ̀
+1	Ó	ó	X	_	_	0	_	_	Ref=PROV_7.8
+2	ń	ń	X	_	_	0	_	_	Ref=PROV_7.8
+3	lọ	lọ	X	_	_	0	_	_	Ref=PROV_7.8
+4	ní	ní	X	_	_	0	_	_	Ref=PROV_7.8
+5	pópónà	pópónà	X	_	_	0	_	_	Ref=PROV_7.8
+6	ní	ní	X	_	_	0	_	_	Ref=PROV_7.8
+7	tòsí	tòsí	X	_	_	0	_	_	Ref=PROV_7.8
+8	i	i	X	_	_	0	_	_	Ref=PROV_7.8
+9	ilé	ilé	X	_	_	0	_	_	Ref=PROV_7.8
+10	alágbérè	alágbérè	X	_	_	0	_	_	Ref=PROV_7.8
+11	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PROV_7.8
+12	náà	náà	X	_	_	0	_	_	Ref=PROV_7.8|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.8
+14	ó	ó	X	_	_	0	_	_	Ref=PROV_7.8
+15	ń	ń	X	_	_	0	_	_	Ref=PROV_7.8
+16	rìn	rìn	X	_	_	0	_	_	Ref=PROV_7.8
+17	lọ	lọ	X	_	_	0	_	_	Ref=PROV_7.8
+18	sí	sí	X	_	_	0	_	_	Ref=PROV_7.8
+19	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_7.8
+20	ilé	ilé	X	_	_	0	_	_	Ref=PROV_7.8
+21	e	e	X	_	_	0	_	_	Ref=PROV_7.8
+22	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_7.8
+
+# sent_id = PROV_7.9
+# text = ní ìrọ̀lẹ́ bí oòrùn ṣe ń wọ̀, bí òkùnkùn ṣẹ ń bo ni lára.
+1	ní	ní	X	_	_	0	_	_	Ref=PROV_7.9
+2	ìrọ̀lẹ́	ìrọ̀lẹ́	X	_	_	0	_	_	Ref=PROV_7.9
+3	bí	bí	X	_	_	0	_	_	Ref=PROV_7.9
+4	oòrùn	oòrùn	X	_	_	0	_	_	Ref=PROV_7.9
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_7.9
+6	ń	ń	X	_	_	0	_	_	Ref=PROV_7.9
+7	wọ̀	wọ̀	X	_	_	0	_	_	Ref=PROV_7.9|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.9
+9	bí	bí	X	_	_	0	_	_	Ref=PROV_7.9
+10	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=PROV_7.9
+11	ṣẹ	ṣẹ	X	_	_	0	_	_	Ref=PROV_7.9
+12	ń	ń	X	_	_	0	_	_	Ref=PROV_7.9
+13	bo	bo	X	_	_	0	_	_	Ref=PROV_7.9
+14	ni	ni	X	_	_	0	_	_	Ref=PROV_7.9
+15	lára	lára	X	_	_	0	_	_	Ref=PROV_7.9|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.9
+
+# sent_id = PROV_7.10
+# text = Bẹ́ẹ̀ ni obìnrin kan jáde wá láti pàdé rẹ̀, ó múra bí aṣẹ́wó pẹ̀lú ètè búburú.
+1	Bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=PROV_7.10
+2	ni	ni	X	_	_	0	_	_	Ref=PROV_7.10
+3	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PROV_7.10
+4	kan	kan	X	_	_	0	_	_	Ref=PROV_7.10
+5	jáde	jáde	X	_	_	0	_	_	Ref=PROV_7.10
+6	wá	wá	X	_	_	0	_	_	Ref=PROV_7.10
+7	láti	láti	X	_	_	0	_	_	Ref=PROV_7.10
+8	pàdé	pàdé	X	_	_	0	_	_	Ref=PROV_7.10
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_7.10|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.10
+11	ó	ó	X	_	_	0	_	_	Ref=PROV_7.10
+12	múra	múra	X	_	_	0	_	_	Ref=PROV_7.10
+13	bí	bí	X	_	_	0	_	_	Ref=PROV_7.10
+14	aṣẹ́wó	aṣẹ́wó	X	_	_	0	_	_	Ref=PROV_7.10
+15	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PROV_7.10
+16	ètè	ètè	X	_	_	0	_	_	Ref=PROV_7.10
+17	búburú	búburú	X	_	_	0	_	_	Ref=PROV_7.10|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.10
+
+# sent_id = PROV_7.11
+# text = (Ó jẹ́ aláriwo àti alágídí, ìdí rẹ̀ kì í jókòó nílé;
+1	(	(	PUNCT	_	_	0	punct	_	Ref=PROV_7.11|SpaceAfter=No
+2	Ó	ó	X	_	_	0	_	_	Ref=PROV_7.11
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_7.11
+4	aláriwo	aláriwo	X	_	_	0	_	_	Ref=PROV_7.11
+5	àti	àti	X	_	_	0	_	_	Ref=PROV_7.11
+6	alágídí	alágídí	X	_	_	0	_	_	Ref=PROV_7.11|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.11
+8	ìdí	ìdí	X	_	_	0	_	_	Ref=PROV_7.11
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_7.11
+10	kì	kì	X	_	_	0	_	_	Ref=PROV_7.11
+11	í	í	X	_	_	0	_	_	Ref=PROV_7.11
+12	jókòó	jókòó	X	_	_	0	_	_	Ref=PROV_7.11
+13	nílé	nílé	X	_	_	0	_	_	Ref=PROV_7.11|SpaceAfter=No
+14	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_7.11
+
+# sent_id = PROV_7.12
+# text = bí ó ti ń já níhìn ín ní ó ń já lọ́hùn ún gbogbo orígun ni ó ti ń ba ní ibùba.)
+1	bí	bí	X	_	_	0	_	_	Ref=PROV_7.12
+2	ó	ó	X	_	_	0	_	_	Ref=PROV_7.12
+3	ti	ti	X	_	_	0	_	_	Ref=PROV_7.12
+4	ń	ń	X	_	_	0	_	_	Ref=PROV_7.12
+5	já	já	X	_	_	0	_	_	Ref=PROV_7.12
+6	níhìn	níhìn	X	_	_	0	_	_	Ref=PROV_7.12
+7	ín	ín	X	_	_	0	_	_	Ref=PROV_7.12
+8	ní	ní	X	_	_	0	_	_	Ref=PROV_7.12
+9	ó	ó	X	_	_	0	_	_	Ref=PROV_7.12
+10	ń	ń	X	_	_	0	_	_	Ref=PROV_7.12
+11	já	já	X	_	_	0	_	_	Ref=PROV_7.12
+12	lọ́hùn	lọ́hùn	X	_	_	0	_	_	Ref=PROV_7.12
+13	ún	ún	X	_	_	0	_	_	Ref=PROV_7.12
+14	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PROV_7.12
+15	orígun	orígun	X	_	_	0	_	_	Ref=PROV_7.12
+16	ni	ni	X	_	_	0	_	_	Ref=PROV_7.12
+17	ó	ó	X	_	_	0	_	_	Ref=PROV_7.12
+18	ti	ti	X	_	_	0	_	_	Ref=PROV_7.12
+19	ń	ń	X	_	_	0	_	_	Ref=PROV_7.12
+20	ba	ba	X	_	_	0	_	_	Ref=PROV_7.12
+21	ní	ní	X	_	_	0	_	_	Ref=PROV_7.12
+22	ibùba	ibùba	X	_	_	0	_	_	Ref=PROV_7.12|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.12|SpaceAfter=No
+24	)	)	PUNCT	_	_	0	punct	_	Ref=PROV_7.12
+
+# sent_id = PROV_7.13
+# text = Ó dìí mú, ó sì fẹnu kò ó ní ẹnu pẹ̀lú ojú dídín ó wí pé:
+1	Ó	ó	X	_	_	0	_	_	Ref=PROV_7.13
+2	dìí	dìí	X	_	_	0	_	_	Ref=PROV_7.13
+3	mú	mú	X	_	_	0	_	_	Ref=PROV_7.13|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.13
+5	ó	ó	X	_	_	0	_	_	Ref=PROV_7.13
+6	sì	sì	X	_	_	0	_	_	Ref=PROV_7.13
+7	fẹnu	fẹnu	X	_	_	0	_	_	Ref=PROV_7.13
+8	kò	kò	X	_	_	0	_	_	Ref=PROV_7.13
+9	ó	ó	X	_	_	0	_	_	Ref=PROV_7.13
+10	ní	ní	X	_	_	0	_	_	Ref=PROV_7.13
+11	ẹnu	ẹnu	X	_	_	0	_	_	Ref=PROV_7.13
+12	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PROV_7.13
+13	ojú	ojú	X	_	_	0	_	_	Ref=PROV_7.13
+14	dídín	dídín	X	_	_	0	_	_	Ref=PROV_7.13
+15	ó	ó	X	_	_	0	_	_	Ref=PROV_7.13
+16	wí	wí	X	_	_	0	_	_	Ref=PROV_7.13
+17	pé	pé	X	_	_	0	_	_	Ref=PROV_7.13|SpaceAfter=No
+18	:	:	PUNCT	_	_	0	punct	_	Ref=PROV_7.13
+
+# sent_id = PROV_7.14
+# text = “Mo ní ọrẹ àlàáfíà ní ilé; lónìí ni mo san ẹ̀jẹ́ mi.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=PROV_7.14|SpaceAfter=No
+2	Mo	mo	X	_	_	0	_	_	Ref=PROV_7.14
+3	ní	ní	X	_	_	0	_	_	Ref=PROV_7.14
+4	ọrẹ	ọrẹ	X	_	_	0	_	_	Ref=PROV_7.14
+5	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PROV_7.14
+6	ní	ní	X	_	_	0	_	_	Ref=PROV_7.14
+7	ilé	ilé	X	_	_	0	_	_	Ref=PROV_7.14|SpaceAfter=No
+8	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_7.14
+9	lónìí	lónìí	X	_	_	0	_	_	Ref=PROV_7.14
+10	ni	ni	X	_	_	0	_	_	Ref=PROV_7.14
+11	mo	mo	X	_	_	0	_	_	Ref=PROV_7.14
+12	san	san	X	_	_	0	_	_	Ref=PROV_7.14
+13	ẹ̀jẹ́	ẹ̀jẹ́	X	_	_	0	_	_	Ref=PROV_7.14
+14	mi	mi	X	_	_	0	_	_	Ref=PROV_7.14|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.14
+
+# sent_id = PROV_7.15
+# text = Nítorí náà ni mo ṣe jáde wá pádé è rẹ; mo wá ọ káàkiri mo sì ti rí ọ!
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PROV_7.15
+2	náà	náà	X	_	_	0	_	_	Ref=PROV_7.15
+3	ni	ni	X	_	_	0	_	_	Ref=PROV_7.15
+4	mo	mo	X	_	_	0	_	_	Ref=PROV_7.15
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_7.15
+6	jáde	jáde	X	_	_	0	_	_	Ref=PROV_7.15
+7	wá	wá	X	_	_	0	_	_	Ref=PROV_7.15
+8	pádé	pádé	X	_	_	0	_	_	Ref=PROV_7.15
+9	è	è	X	_	_	0	_	_	Ref=PROV_7.15
+10	rẹ	rẹ	X	_	_	0	_	_	Ref=PROV_7.15|SpaceAfter=No
+11	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_7.15
+12	mo	mo	X	_	_	0	_	_	Ref=PROV_7.15
+13	wá	wá	X	_	_	0	_	_	Ref=PROV_7.15
+14	ọ	ọ	X	_	_	0	_	_	Ref=PROV_7.15
+15	káàkiri	káàkiri	X	_	_	0	_	_	Ref=PROV_7.15
+16	mo	mo	X	_	_	0	_	_	Ref=PROV_7.15
+17	sì	sì	X	_	_	0	_	_	Ref=PROV_7.15
+18	ti	ti	X	_	_	0	_	_	Ref=PROV_7.15
+19	rí	rí	X	_	_	0	_	_	Ref=PROV_7.15
+20	ọ	ọ	X	_	_	0	_	_	Ref=PROV_7.15|SpaceAfter=No
+21	!	!	PUNCT	_	_	0	punct	_	Ref=PROV_7.15
+
+# sent_id = PROV_7.16
+# text = Mo ti tẹ́ ibùṣùn mi pẹ̀lú aṣọ aláràbarà láti ilẹ̀ Éjíbítì.
+1	Mo	mo	X	_	_	0	_	_	Ref=PROV_7.16
+2	ti	ti	X	_	_	0	_	_	Ref=PROV_7.16
+3	tẹ́	tẹ́	X	_	_	0	_	_	Ref=PROV_7.16
+4	ibùṣùn	ibùṣùn	X	_	_	0	_	_	Ref=PROV_7.16
+5	mi	mi	X	_	_	0	_	_	Ref=PROV_7.16
+6	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PROV_7.16
+7	aṣọ	aṣọ	X	_	_	0	_	_	Ref=PROV_7.16
+8	aláràbarà	aláràbarà	X	_	_	0	_	_	Ref=PROV_7.16
+9	láti	láti	X	_	_	0	_	_	Ref=PROV_7.16
+10	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=PROV_7.16
+11	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=PROV_7.16|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.16
+
+# sent_id = PROV_7.17
+# text = Mo ti fi nǹkan Olóòórùn dídùn sí ibùṣùn mi bí i míra, álóè àti kínámónì.
+1	Mo	mo	X	_	_	0	_	_	Ref=PROV_7.17
+2	ti	ti	X	_	_	0	_	_	Ref=PROV_7.17
+3	fi	fi	X	_	_	0	_	_	Ref=PROV_7.17
+4	nǹkan	nǹkan	X	_	_	0	_	_	Ref=PROV_7.17
+5	Olóòórùn	olóòórùn	X	_	_	0	_	_	Ref=PROV_7.17
+6	dídùn	dídùn	X	_	_	0	_	_	Ref=PROV_7.17
+7	sí	sí	X	_	_	0	_	_	Ref=PROV_7.17
+8	ibùṣùn	ibùṣùn	X	_	_	0	_	_	Ref=PROV_7.17
+9	mi	mi	X	_	_	0	_	_	Ref=PROV_7.17
+10	bí	bí	X	_	_	0	_	_	Ref=PROV_7.17
+11	i	i	X	_	_	0	_	_	Ref=PROV_7.17
+12	míra	míra	X	_	_	0	_	_	Ref=PROV_7.17|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.17
+14	álóè	álóè	X	_	_	0	_	_	Ref=PROV_7.17
+15	àti	àti	X	_	_	0	_	_	Ref=PROV_7.17
+16	kínámónì	kínámónì	X	_	_	0	_	_	Ref=PROV_7.17|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.17
+
+# sent_id = PROV_7.18
+# text = Wá, jẹ́ kí a lo ìfẹ́ papọ̀ ní kíkún títí di àárọ̀; jẹ́ kí a gbádùn ara wa pẹ̀lú ìfẹ́!
+1	Wá	wá	X	_	_	0	_	_	Ref=PROV_7.18|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.18
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_7.18
+4	kí	kí	X	_	_	0	_	_	Ref=PROV_7.18
+5	a	a	X	_	_	0	_	_	Ref=PROV_7.18
+6	lo	lo	X	_	_	0	_	_	Ref=PROV_7.18
+7	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=PROV_7.18
+8	papọ̀	papọ̀	X	_	_	0	_	_	Ref=PROV_7.18
+9	ní	ní	X	_	_	0	_	_	Ref=PROV_7.18
+10	kíkún	kíkún	X	_	_	0	_	_	Ref=PROV_7.18
+11	títí	títí	X	_	_	0	_	_	Ref=PROV_7.18
+12	di	di	X	_	_	0	_	_	Ref=PROV_7.18
+13	àárọ̀	àárọ̀	X	_	_	0	_	_	Ref=PROV_7.18|SpaceAfter=No
+14	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_7.18
+15	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_7.18
+16	kí	kí	X	_	_	0	_	_	Ref=PROV_7.18
+17	a	a	X	_	_	0	_	_	Ref=PROV_7.18
+18	gbádùn	gbádùn	X	_	_	0	_	_	Ref=PROV_7.18
+19	ara	ara	X	_	_	0	_	_	Ref=PROV_7.18
+20	wa	wa	X	_	_	0	_	_	Ref=PROV_7.18
+21	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PROV_7.18
+22	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=PROV_7.18|SpaceAfter=No
+23	!	!	PUNCT	_	_	0	punct	_	Ref=PROV_7.18
+
+# sent_id = PROV_7.19
+# text = Ọkọ ọ̀ mi ò sí nílé; ó ti lọ sí ìrìnàjò jínjìn.
+1	Ọkọ	ọkọ	X	_	_	0	_	_	Ref=PROV_7.19
+2	ọ̀	ọ̀	X	_	_	0	_	_	Ref=PROV_7.19
+3	mi	mi	X	_	_	0	_	_	Ref=PROV_7.19
+4	ò	ò	X	_	_	0	_	_	Ref=PROV_7.19
+5	sí	sí	X	_	_	0	_	_	Ref=PROV_7.19
+6	nílé	nílé	X	_	_	0	_	_	Ref=PROV_7.19|SpaceAfter=No
+7	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_7.19
+8	ó	ó	X	_	_	0	_	_	Ref=PROV_7.19
+9	ti	ti	X	_	_	0	_	_	Ref=PROV_7.19
+10	lọ	lọ	X	_	_	0	_	_	Ref=PROV_7.19
+11	sí	sí	X	_	_	0	_	_	Ref=PROV_7.19
+12	ìrìnàjò	ìrìnàjò	X	_	_	0	_	_	Ref=PROV_7.19
+13	jínjìn	jínjìn	X	_	_	0	_	_	Ref=PROV_7.19|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.19
+
+# sent_id = PROV_7.20
+# text = Ó mú owó púpọ̀ lọ́wọ́ kò sì ní darí dé kí ó tó di ọ̀sán.”
+1	Ó	ó	X	_	_	0	_	_	Ref=PROV_7.20
+2	mú	mú	X	_	_	0	_	_	Ref=PROV_7.20
+3	owó	owó	X	_	_	0	_	_	Ref=PROV_7.20
+4	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PROV_7.20
+5	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PROV_7.20
+6	kò	kò	X	_	_	0	_	_	Ref=PROV_7.20
+7	sì	sì	X	_	_	0	_	_	Ref=PROV_7.20
+8	ní	ní	X	_	_	0	_	_	Ref=PROV_7.20
+9	darí	darí	X	_	_	0	_	_	Ref=PROV_7.20
+10	dé	dé	X	_	_	0	_	_	Ref=PROV_7.20
+11	kí	kí	X	_	_	0	_	_	Ref=PROV_7.20
+12	ó	ó	X	_	_	0	_	_	Ref=PROV_7.20
+13	tó	tó	X	_	_	0	_	_	Ref=PROV_7.20
+14	di	di	X	_	_	0	_	_	Ref=PROV_7.20
+15	ọ̀sán	ọ̀sán	X	_	_	0	_	_	Ref=PROV_7.20|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.20|SpaceAfter=No
+17	”	”	PUNCT	_	_	0	punct	_	Ref=PROV_7.20
+
+# sent_id = PROV_7.21
+# text = Pẹ̀lú ọ̀rọ̀ dídùn ó sì í lọ́nà; ó tàn án jẹ pẹ̀lú ẹnu dídùn.
+1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PROV_7.21
+2	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PROV_7.21
+3	dídùn	dídùn	X	_	_	0	_	_	Ref=PROV_7.21
+4	ó	ó	X	_	_	0	_	_	Ref=PROV_7.21
+5	sì	sì	X	_	_	0	_	_	Ref=PROV_7.21
+6	í	í	X	_	_	0	_	_	Ref=PROV_7.21
+7	lọ́nà	lọ́nà	X	_	_	0	_	_	Ref=PROV_7.21|SpaceAfter=No
+8	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_7.21
+9	ó	ó	X	_	_	0	_	_	Ref=PROV_7.21
+10	tàn	tàn	X	_	_	0	_	_	Ref=PROV_7.21
+11	án	án	X	_	_	0	_	_	Ref=PROV_7.21
+12	jẹ	jẹ	X	_	_	0	_	_	Ref=PROV_7.21
+13	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PROV_7.21
+14	ẹnu	ẹnu	X	_	_	0	_	_	Ref=PROV_7.21
+15	dídùn	dídùn	X	_	_	0	_	_	Ref=PROV_7.21|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.21
+
+# sent_id = PROV_7.22
+# text = Kíákíá ni ó tẹ̀lé e bí i màlúù tí ń lọ sí odò ẹran bí àgbọ̀nrín tí ó fẹ́ kẹsẹ̀ bọ pàkúté
+1	Kíákíá	kíákíá	X	_	_	0	_	_	Ref=PROV_7.22
+2	ni	ni	X	_	_	0	_	_	Ref=PROV_7.22
+3	ó	ó	X	_	_	0	_	_	Ref=PROV_7.22
+4	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=PROV_7.22
+5	e	e	X	_	_	0	_	_	Ref=PROV_7.22
+6	bí	bí	X	_	_	0	_	_	Ref=PROV_7.22
+7	i	i	X	_	_	0	_	_	Ref=PROV_7.22
+8	màlúù	màlúù	X	_	_	0	_	_	Ref=PROV_7.22
+9	tí	tí	X	_	_	0	_	_	Ref=PROV_7.22
+10	ń	ń	X	_	_	0	_	_	Ref=PROV_7.22
+11	lọ	lọ	X	_	_	0	_	_	Ref=PROV_7.22
+12	sí	sí	X	_	_	0	_	_	Ref=PROV_7.22
+13	odò	odò	X	_	_	0	_	_	Ref=PROV_7.22
+14	ẹran	ẹran	X	_	_	0	_	_	Ref=PROV_7.22
+15	bí	bí	X	_	_	0	_	_	Ref=PROV_7.22
+16	àgbọ̀nrín	àgbọ̀nrín	X	_	_	0	_	_	Ref=PROV_7.22
+17	tí	tí	X	_	_	0	_	_	Ref=PROV_7.22
+18	ó	ó	X	_	_	0	_	_	Ref=PROV_7.22
+19	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PROV_7.22
+20	kẹsẹ̀	kẹsẹ̀	X	_	_	0	_	_	Ref=PROV_7.22
+21	bọ	bọ	X	_	_	0	_	_	Ref=PROV_7.22
+22	pàkúté	pàkúté	X	_	_	0	_	_	Ref=PROV_7.22
+
+# sent_id = PROV_7.23
+# text = títí tí ọ̀kọ̀ fi gún un ní ẹ̀dọ̀, bí ẹyẹ ṣe ń fẹ́ wọ inú okùn, Láì mọ̀ pé yóò gba ẹ̀mí òun.
+1	títí	títí	X	_	_	0	_	_	Ref=PROV_7.23
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_7.23
+3	ọ̀kọ̀	ọ̀kọ̀	X	_	_	0	_	_	Ref=PROV_7.23
+4	fi	fi	X	_	_	0	_	_	Ref=PROV_7.23
+5	gún	gún	X	_	_	0	_	_	Ref=PROV_7.23
+6	un	un	X	_	_	0	_	_	Ref=PROV_7.23
+7	ní	ní	X	_	_	0	_	_	Ref=PROV_7.23
+8	ẹ̀dọ̀	ẹ̀dọ̀	X	_	_	0	_	_	Ref=PROV_7.23|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.23
+10	bí	bí	X	_	_	0	_	_	Ref=PROV_7.23
+11	ẹyẹ	ẹyẹ	X	_	_	0	_	_	Ref=PROV_7.23
+12	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_7.23
+13	ń	ń	X	_	_	0	_	_	Ref=PROV_7.23
+14	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PROV_7.23
+15	wọ	wọ	X	_	_	0	_	_	Ref=PROV_7.23
+16	inú	inú	X	_	_	0	_	_	Ref=PROV_7.23
+17	okùn	okùn	X	_	_	0	_	_	Ref=PROV_7.23|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.23
+19	Láì	láì	X	_	_	0	_	_	Ref=PROV_7.23
+20	mọ̀	mọ̀	X	_	_	0	_	_	Ref=PROV_7.23
+21	pé	pé	X	_	_	0	_	_	Ref=PROV_7.23
+22	yóò	yóò	X	_	_	0	_	_	Ref=PROV_7.23
+23	gba	gba	X	_	_	0	_	_	Ref=PROV_7.23
+24	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=PROV_7.23
+25	òun	òun	X	_	_	0	_	_	Ref=PROV_7.23|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.23
+
+# sent_id = PROV_7.24
+# text = Nítorí náà báyìí ẹ̀yin ọmọ mi, tẹ́tí sí mi fọkàn sí nǹkan tí mo sọ.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PROV_7.24
+2	náà	náà	X	_	_	0	_	_	Ref=PROV_7.24
+3	báyìí	báyìí	X	_	_	0	_	_	Ref=PROV_7.24
+4	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PROV_7.24
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=PROV_7.24
+6	mi	mi	X	_	_	0	_	_	Ref=PROV_7.24|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.24
+8	tẹ́tí	tẹ́tí	X	_	_	0	_	_	Ref=PROV_7.24
+9	sí	sí	X	_	_	0	_	_	Ref=PROV_7.24
+10	mi	mi	X	_	_	0	_	_	Ref=PROV_7.24
+11	fọkàn	fọkàn	X	_	_	0	_	_	Ref=PROV_7.24
+12	sí	sí	X	_	_	0	_	_	Ref=PROV_7.24
+13	nǹkan	nǹkan	X	_	_	0	_	_	Ref=PROV_7.24
+14	tí	tí	X	_	_	0	_	_	Ref=PROV_7.24
+15	mo	mo	X	_	_	0	_	_	Ref=PROV_7.24
+16	sọ	sọ	X	_	_	0	_	_	Ref=PROV_7.24|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.24
+
+# sent_id = PROV_7.25
+# text = Má ṣe jẹ́ kí ọkàn rẹ kí ó yà sí ọ̀nà rẹ̀, tàbí kí ó rìn lọ sí ipa ọ̀nà rẹ̀.
+1	Má	má	X	_	_	0	_	_	Ref=PROV_7.25
+2	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_7.25
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_7.25
+4	kí	kí	X	_	_	0	_	_	Ref=PROV_7.25
+5	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_7.25
+6	rẹ	rẹ	X	_	_	0	_	_	Ref=PROV_7.25
+7	kí	kí	X	_	_	0	_	_	Ref=PROV_7.25
+8	ó	ó	X	_	_	0	_	_	Ref=PROV_7.25
+9	yà	yà	X	_	_	0	_	_	Ref=PROV_7.25
+10	sí	sí	X	_	_	0	_	_	Ref=PROV_7.25
+11	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_7.25
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_7.25|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.25
+14	tàbí	tàbí	X	_	_	0	_	_	Ref=PROV_7.25
+15	kí	kí	X	_	_	0	_	_	Ref=PROV_7.25
+16	ó	ó	X	_	_	0	_	_	Ref=PROV_7.25
+17	rìn	rìn	X	_	_	0	_	_	Ref=PROV_7.25
+18	lọ	lọ	X	_	_	0	_	_	Ref=PROV_7.25
+19	sí	sí	X	_	_	0	_	_	Ref=PROV_7.25
+20	ipa	ipa	X	_	_	0	_	_	Ref=PROV_7.25
+21	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_7.25
+22	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_7.25|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.25
+
+# sent_id = PROV_7.26
+# text = Ọ̀pọ̀lọpọ̀ ni àwọn tí ó ti fà lulẹ̀ Ogunlọ́gọ̀ àwọn alágbára ni ó ti pa.
+1	Ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	X	_	_	0	_	_	Ref=PROV_7.26
+2	ni	ni	X	_	_	0	_	_	Ref=PROV_7.26
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_7.26
+4	tí	tí	X	_	_	0	_	_	Ref=PROV_7.26
+5	ó	ó	X	_	_	0	_	_	Ref=PROV_7.26
+6	ti	ti	X	_	_	0	_	_	Ref=PROV_7.26
+7	fà	fà	X	_	_	0	_	_	Ref=PROV_7.26
+8	lulẹ̀	lulẹ̀	X	_	_	0	_	_	Ref=PROV_7.26
+9	Ogunlọ́gọ̀	ogunlọ́gọ̀	X	_	_	0	_	_	Ref=PROV_7.26
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_7.26
+11	alágbára	alágbára	X	_	_	0	_	_	Ref=PROV_7.26
+12	ni	ni	X	_	_	0	_	_	Ref=PROV_7.26
+13	ó	ó	X	_	_	0	_	_	Ref=PROV_7.26
+14	ti	ti	X	_	_	0	_	_	Ref=PROV_7.26
+15	pa	pa	X	_	_	0	_	_	Ref=PROV_7.26|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.26
+
+# sent_id = PROV_7.27
+# text = Ilé e rẹ̀ ni ọ̀nà tààra sí iṣà òkú, tí ó lọ tààra sí àgbàlá ikú.
+1	Ilé	ilé	X	_	_	0	_	_	Ref=PROV_7.27
+2	e	e	X	_	_	0	_	_	Ref=PROV_7.27
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_7.27
+4	ni	ni	X	_	_	0	_	_	Ref=PROV_7.27
+5	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_7.27
+6	tààra	tààra	X	_	_	0	_	_	Ref=PROV_7.27
+7	sí	sí	X	_	_	0	_	_	Ref=PROV_7.27
+8	iṣà	iṣà	X	_	_	0	_	_	Ref=PROV_7.27
+9	òkú	òkú	X	_	_	0	_	_	Ref=PROV_7.27|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_7.27
+11	tí	tí	X	_	_	0	_	_	Ref=PROV_7.27
+12	ó	ó	X	_	_	0	_	_	Ref=PROV_7.27
+13	lọ	lọ	X	_	_	0	_	_	Ref=PROV_7.27
+14	tààra	tààra	X	_	_	0	_	_	Ref=PROV_7.27
+15	sí	sí	X	_	_	0	_	_	Ref=PROV_7.27
+16	àgbàlá	àgbàlá	X	_	_	0	_	_	Ref=PROV_7.27
+17	ikú	ikú	X	_	_	0	_	_	Ref=PROV_7.27|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_7.27
+

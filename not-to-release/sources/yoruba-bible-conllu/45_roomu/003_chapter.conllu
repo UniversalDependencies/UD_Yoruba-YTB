@@ -1,0 +1,829 @@
+# source = Bibeli Mimọ, Róòmù, Chapter 3
+# newdoc id = ROM_3
+# sent_id = ROM_3.1
+# text = Ǹjẹ́ àǹfààní wo ní Júù ní? Tàbí kín ni èrè ilà kíkọ?
+1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=ROM_3.1
+2	àǹfààní	àǹfààní	X	_	_	0	_	_	Ref=ROM_3.1
+3	wo	wo	X	_	_	0	_	_	Ref=ROM_3.1
+4	ní	ní	X	_	_	0	_	_	Ref=ROM_3.1
+5	Júù	Júù	PROPN	_	_	0	_	_	Ref=ROM_3.1
+6	ní	ní	X	_	_	0	_	_	Ref=ROM_3.1|SpaceAfter=No
+7	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.1
+8	Tàbí	tàbí	X	_	_	0	_	_	Ref=ROM_3.1
+9	kín	kín	X	_	_	0	_	_	Ref=ROM_3.1
+10	ni	ni	X	_	_	0	_	_	Ref=ROM_3.1
+11	èrè	èrè	X	_	_	0	_	_	Ref=ROM_3.1
+12	ilà	ilà	X	_	_	0	_	_	Ref=ROM_3.1
+13	kíkọ	kíkọ	X	_	_	0	_	_	Ref=ROM_3.1|SpaceAfter=No
+14	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.1
+
+# sent_id = ROM_3.2
+# text = Púpọ̀ lọ́nà gbogbo; pàtàkì jùlọ ni pé àwọn ni a fi ọ̀rọ̀ Ọlọ́run lé lọ́wọ́.
+1	Púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=ROM_3.2
+2	lọ́nà	lọ́nà	X	_	_	0	_	_	Ref=ROM_3.2
+3	gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.2|SpaceAfter=No
+4	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.2
+5	pàtàkì	pàtàkì	X	_	_	0	_	_	Ref=ROM_3.2
+6	jùlọ	jùlọ	X	_	_	0	_	_	Ref=ROM_3.2
+7	ni	ni	X	_	_	0	_	_	Ref=ROM_3.2
+8	pé	pé	X	_	_	0	_	_	Ref=ROM_3.2
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.2
+10	ni	ni	X	_	_	0	_	_	Ref=ROM_3.2
+11	a	a	X	_	_	0	_	_	Ref=ROM_3.2
+12	fi	fi	X	_	_	0	_	_	Ref=ROM_3.2
+13	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=ROM_3.2
+14	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.2
+15	lé	lé	X	_	_	0	_	_	Ref=ROM_3.2
+16	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=ROM_3.2|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.2
+
+# sent_id = ROM_3.3
+# text = Ǹjẹ́ kí ha ni bí àwọn kan jẹ́ aláìgbàgbọ́? Àìgbàgbọ́ wọn yóò ha sọ òtítọ́ Ọlọ́run di asán bí?
+1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=ROM_3.3
+2	kí	kí	X	_	_	0	_	_	Ref=ROM_3.3
+3	ha	ha	X	_	_	0	_	_	Ref=ROM_3.3
+4	ni	ni	X	_	_	0	_	_	Ref=ROM_3.3
+5	bí	bí	X	_	_	0	_	_	Ref=ROM_3.3
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.3
+7	kan	kan	X	_	_	0	_	_	Ref=ROM_3.3
+8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=ROM_3.3
+9	aláìgbàgbọ́	aláìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.3|SpaceAfter=No
+10	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.3
+11	Àìgbàgbọ́	àìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.3
+12	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.3
+13	yóò	yóò	X	_	_	0	_	_	Ref=ROM_3.3
+14	ha	ha	X	_	_	0	_	_	Ref=ROM_3.3
+15	sọ	sọ	X	_	_	0	_	_	Ref=ROM_3.3
+16	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=ROM_3.3
+17	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.3
+18	di	di	X	_	_	0	_	_	Ref=ROM_3.3
+19	asán	asán	X	_	_	0	_	_	Ref=ROM_3.3
+20	bí	bí	X	_	_	0	_	_	Ref=ROM_3.3|SpaceAfter=No
+21	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.3
+
+# sent_id = ROM_3.4
+# text = Kí a má rí i: kí Ọlọ́run jẹ́ olóòtọ́, àti olúkúlùkù ènìyàn jẹ́ èké; gẹ́gẹ́ bí a ti kọ ọ́ pé: “Kí a lè dá ọ láre nínú ọ̀rọ̀ rẹ, ṣùgbọ́n kí ìwọ lè borí nígbà tí ìwọ bá wá sí ìdájọ́.”
+1	Kí	kí	X	_	_	0	_	_	Ref=ROM_3.4
+2	a	a	X	_	_	0	_	_	Ref=ROM_3.4
+3	má	má	X	_	_	0	_	_	Ref=ROM_3.4
+4	rí	rí	X	_	_	0	_	_	Ref=ROM_3.4
+5	i	i	X	_	_	0	_	_	Ref=ROM_3.4|SpaceAfter=No
+6	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.4
+7	kí	kí	X	_	_	0	_	_	Ref=ROM_3.4
+8	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.4
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=ROM_3.4
+10	olóòtọ́	olóòtọ́	X	_	_	0	_	_	Ref=ROM_3.4|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.4
+12	àti	àti	X	_	_	0	_	_	Ref=ROM_3.4
+13	olúkúlùkù	olúkúlùkù	X	_	_	0	_	_	Ref=ROM_3.4
+14	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=ROM_3.4
+15	jẹ́	jẹ́	X	_	_	0	_	_	Ref=ROM_3.4
+16	èké	èké	X	_	_	0	_	_	Ref=ROM_3.4|SpaceAfter=No
+17	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.4
+18	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=ROM_3.4
+19	bí	bí	X	_	_	0	_	_	Ref=ROM_3.4
+20	a	a	X	_	_	0	_	_	Ref=ROM_3.4
+21	ti	ti	X	_	_	0	_	_	Ref=ROM_3.4
+22	kọ	kọ	X	_	_	0	_	_	Ref=ROM_3.4
+23	ọ́	ọ́	X	_	_	0	_	_	Ref=ROM_3.4
+24	pé	pé	X	_	_	0	_	_	Ref=ROM_3.4|SpaceAfter=No
+25	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.4
+26	“	“	PUNCT	_	_	0	punct	_	Ref=ROM_3.4|SpaceAfter=No
+27	Kí	kí	X	_	_	0	_	_	Ref=ROM_3.4
+28	a	a	X	_	_	0	_	_	Ref=ROM_3.4
+29	lè	lè	X	_	_	0	_	_	Ref=ROM_3.4
+30	dá	dá	X	_	_	0	_	_	Ref=ROM_3.4
+31	ọ	ọ	X	_	_	0	_	_	Ref=ROM_3.4
+32	láre	láre	X	_	_	0	_	_	Ref=ROM_3.4
+33	nínú	nínú	X	_	_	0	_	_	Ref=ROM_3.4
+34	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=ROM_3.4
+35	rẹ	rẹ	X	_	_	0	_	_	Ref=ROM_3.4|SpaceAfter=No
+36	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.4
+37	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=ROM_3.4
+38	kí	kí	X	_	_	0	_	_	Ref=ROM_3.4
+39	ìwọ	ìwọ	X	_	_	0	_	_	Ref=ROM_3.4
+40	lè	lè	X	_	_	0	_	_	Ref=ROM_3.4
+41	borí	borí	X	_	_	0	_	_	Ref=ROM_3.4
+42	nígbà	nígbà	X	_	_	0	_	_	Ref=ROM_3.4
+43	tí	tí	X	_	_	0	_	_	Ref=ROM_3.4
+44	ìwọ	ìwọ	X	_	_	0	_	_	Ref=ROM_3.4
+45	bá	bá	X	_	_	0	_	_	Ref=ROM_3.4
+46	wá	wá	X	_	_	0	_	_	Ref=ROM_3.4
+47	sí	sí	X	_	_	0	_	_	Ref=ROM_3.4
+48	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=ROM_3.4|SpaceAfter=No
+49	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.4|SpaceAfter=No
+50	”	”	PUNCT	_	_	0	punct	_	Ref=ROM_3.4
+
+# sent_id = ROM_3.5
+# text = Ṣùgbọ́n bí àìṣòdodo wa bá fi òdodo Ọlọ́run hàn, kín ni àwa ó wí? Ọlọ́run ha jẹ́ àìsòdodo bí? Nígbà tí ó bá ń fi ìbínú rẹ̀ hàn (Mo fi ṣe àkàwé bí ènìyàn).
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=ROM_3.5
+2	bí	bí	X	_	_	0	_	_	Ref=ROM_3.5
+3	àìṣòdodo	àìṣòdodo	X	_	_	0	_	_	Ref=ROM_3.5
+4	wa	wa	X	_	_	0	_	_	Ref=ROM_3.5
+5	bá	bá	X	_	_	0	_	_	Ref=ROM_3.5
+6	fi	fi	X	_	_	0	_	_	Ref=ROM_3.5
+7	òdodo	òdodo	X	_	_	0	_	_	Ref=ROM_3.5
+8	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.5
+9	hàn	hàn	X	_	_	0	_	_	Ref=ROM_3.5|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.5
+11	kín	kín	X	_	_	0	_	_	Ref=ROM_3.5
+12	ni	ni	X	_	_	0	_	_	Ref=ROM_3.5
+13	àwa	àwa	X	_	_	0	_	_	Ref=ROM_3.5
+14	ó	ó	X	_	_	0	_	_	Ref=ROM_3.5
+15	wí	wí	X	_	_	0	_	_	Ref=ROM_3.5|SpaceAfter=No
+16	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.5
+17	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.5
+18	ha	ha	X	_	_	0	_	_	Ref=ROM_3.5
+19	jẹ́	jẹ́	X	_	_	0	_	_	Ref=ROM_3.5
+20	àìsòdodo	àìsòdodo	X	_	_	0	_	_	Ref=ROM_3.5
+21	bí	bí	X	_	_	0	_	_	Ref=ROM_3.5|SpaceAfter=No
+22	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.5
+23	Nígbà	nígbà	X	_	_	0	_	_	Ref=ROM_3.5
+24	tí	tí	X	_	_	0	_	_	Ref=ROM_3.5
+25	ó	ó	X	_	_	0	_	_	Ref=ROM_3.5
+26	bá	bá	X	_	_	0	_	_	Ref=ROM_3.5
+27	ń	ń	X	_	_	0	_	_	Ref=ROM_3.5
+28	fi	fi	X	_	_	0	_	_	Ref=ROM_3.5
+29	ìbínú	ìbínú	X	_	_	0	_	_	Ref=ROM_3.5
+30	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.5
+31	hàn	hàn	X	_	_	0	_	_	Ref=ROM_3.5
+32	(	(	PUNCT	_	_	0	punct	_	Ref=ROM_3.5|SpaceAfter=No
+33	Mo	mo	X	_	_	0	_	_	Ref=ROM_3.5
+34	fi	fi	X	_	_	0	_	_	Ref=ROM_3.5
+35	ṣe	ṣe	X	_	_	0	_	_	Ref=ROM_3.5
+36	àkàwé	àkàwé	X	_	_	0	_	_	Ref=ROM_3.5
+37	bí	bí	X	_	_	0	_	_	Ref=ROM_3.5
+38	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=ROM_3.5|SpaceAfter=No
+39	)	)	PUNCT	_	_	0	punct	_	Ref=ROM_3.5|SpaceAfter=No
+40	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.5
+
+# sent_id = ROM_3.6
+# text = Kí a má rí i: bí bẹ́ẹ̀ bá ni, Ọlọ́run yóò ha ṣe lè dájọ́ aráyé?
+1	Kí	kí	X	_	_	0	_	_	Ref=ROM_3.6
+2	a	a	X	_	_	0	_	_	Ref=ROM_3.6
+3	má	má	X	_	_	0	_	_	Ref=ROM_3.6
+4	rí	rí	X	_	_	0	_	_	Ref=ROM_3.6
+5	i	i	X	_	_	0	_	_	Ref=ROM_3.6|SpaceAfter=No
+6	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.6
+7	bí	bí	X	_	_	0	_	_	Ref=ROM_3.6
+8	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=ROM_3.6
+9	bá	bá	X	_	_	0	_	_	Ref=ROM_3.6
+10	ni	ni	X	_	_	0	_	_	Ref=ROM_3.6|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.6
+12	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.6
+13	yóò	yóò	X	_	_	0	_	_	Ref=ROM_3.6
+14	ha	ha	X	_	_	0	_	_	Ref=ROM_3.6
+15	ṣe	ṣe	X	_	_	0	_	_	Ref=ROM_3.6
+16	lè	lè	X	_	_	0	_	_	Ref=ROM_3.6
+17	dájọ́	dájọ́	X	_	_	0	_	_	Ref=ROM_3.6
+18	aráyé	aráyé	X	_	_	0	_	_	Ref=ROM_3.6|SpaceAfter=No
+19	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.6
+
+# sent_id = ROM_3.7
+# text = Nítorí bí òtítọ́ Ọlọ́run bá di púpọ̀ sí ìyìn rẹ̀ nítorí èké mi, èéṣe tí a fi ń dá mi lẹ́jọ́ bí ẹlẹ́sẹ̀?
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.7
+2	bí	bí	X	_	_	0	_	_	Ref=ROM_3.7
+3	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=ROM_3.7
+4	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.7
+5	bá	bá	X	_	_	0	_	_	Ref=ROM_3.7
+6	di	di	X	_	_	0	_	_	Ref=ROM_3.7
+7	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=ROM_3.7
+8	sí	sí	X	_	_	0	_	_	Ref=ROM_3.7
+9	ìyìn	ìyìn	X	_	_	0	_	_	Ref=ROM_3.7
+10	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.7
+11	nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.7
+12	èké	èké	X	_	_	0	_	_	Ref=ROM_3.7
+13	mi	mi	X	_	_	0	_	_	Ref=ROM_3.7|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.7
+15	èéṣe	èéṣe	X	_	_	0	_	_	Ref=ROM_3.7
+16	tí	tí	X	_	_	0	_	_	Ref=ROM_3.7
+17	a	a	X	_	_	0	_	_	Ref=ROM_3.7
+18	fi	fi	X	_	_	0	_	_	Ref=ROM_3.7
+19	ń	ń	X	_	_	0	_	_	Ref=ROM_3.7
+20	dá	dá	X	_	_	0	_	_	Ref=ROM_3.7
+21	mi	mi	X	_	_	0	_	_	Ref=ROM_3.7
+22	lẹ́jọ́	lẹ́jọ́	X	_	_	0	_	_	Ref=ROM_3.7
+23	bí	bí	X	_	_	0	_	_	Ref=ROM_3.7
+24	ẹlẹ́sẹ̀	ẹlẹ́sẹ̀	X	_	_	0	_	_	Ref=ROM_3.7|SpaceAfter=No
+25	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.7
+
+# sent_id = ROM_3.8
+# text = Èéṣe tí a kò fi ṣe búburú kí rere lè jáde wá? Bí àwọn kan tí ń fi ẹnu àtẹ́ sọ wí pé a ń sọ bẹ́ẹ̀; ti àwọn kan sì ń tẹnumọ́ ọn pé a sọ; àwọn ẹni tí ìdálẹ́bí wọn tọ́.
+1	Èéṣe	èéṣe	X	_	_	0	_	_	Ref=ROM_3.8
+2	tí	tí	X	_	_	0	_	_	Ref=ROM_3.8
+3	a	a	X	_	_	0	_	_	Ref=ROM_3.8
+4	kò	kò	X	_	_	0	_	_	Ref=ROM_3.8
+5	fi	fi	X	_	_	0	_	_	Ref=ROM_3.8
+6	ṣe	ṣe	X	_	_	0	_	_	Ref=ROM_3.8
+7	búburú	búburú	X	_	_	0	_	_	Ref=ROM_3.8
+8	kí	kí	X	_	_	0	_	_	Ref=ROM_3.8
+9	rere	rere	X	_	_	0	_	_	Ref=ROM_3.8
+10	lè	lè	X	_	_	0	_	_	Ref=ROM_3.8
+11	jáde	jáde	X	_	_	0	_	_	Ref=ROM_3.8
+12	wá	wá	X	_	_	0	_	_	Ref=ROM_3.8|SpaceAfter=No
+13	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.8
+14	Bí	bí	X	_	_	0	_	_	Ref=ROM_3.8
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.8
+16	kan	kan	X	_	_	0	_	_	Ref=ROM_3.8
+17	tí	tí	X	_	_	0	_	_	Ref=ROM_3.8
+18	ń	ń	X	_	_	0	_	_	Ref=ROM_3.8
+19	fi	fi	X	_	_	0	_	_	Ref=ROM_3.8
+20	ẹnu	ẹnu	X	_	_	0	_	_	Ref=ROM_3.8
+21	àtẹ́	àtẹ́	X	_	_	0	_	_	Ref=ROM_3.8
+22	sọ	sọ	X	_	_	0	_	_	Ref=ROM_3.8
+23	wí	wí	X	_	_	0	_	_	Ref=ROM_3.8
+24	pé	pé	X	_	_	0	_	_	Ref=ROM_3.8
+25	a	a	X	_	_	0	_	_	Ref=ROM_3.8
+26	ń	ń	X	_	_	0	_	_	Ref=ROM_3.8
+27	sọ	sọ	X	_	_	0	_	_	Ref=ROM_3.8
+28	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=ROM_3.8|SpaceAfter=No
+29	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.8
+30	ti	ti	X	_	_	0	_	_	Ref=ROM_3.8
+31	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.8
+32	kan	kan	X	_	_	0	_	_	Ref=ROM_3.8
+33	sì	sì	X	_	_	0	_	_	Ref=ROM_3.8
+34	ń	ń	X	_	_	0	_	_	Ref=ROM_3.8
+35	tẹnumọ́	tẹnumọ́	X	_	_	0	_	_	Ref=ROM_3.8
+36	ọn	ọn	X	_	_	0	_	_	Ref=ROM_3.8
+37	pé	pé	X	_	_	0	_	_	Ref=ROM_3.8
+38	a	a	X	_	_	0	_	_	Ref=ROM_3.8
+39	sọ	sọ	X	_	_	0	_	_	Ref=ROM_3.8|SpaceAfter=No
+40	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.8
+41	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.8
+42	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.8
+43	tí	tí	X	_	_	0	_	_	Ref=ROM_3.8
+44	ìdálẹ́bí	ìdálẹ́bí	X	_	_	0	_	_	Ref=ROM_3.8
+45	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.8
+46	tọ́	tọ́	X	_	_	0	_	_	Ref=ROM_3.8|SpaceAfter=No
+47	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.8
+
+# sent_id = ROM_3.9
+# text = Ǹjẹ́ kí ha ni? Àwa ha sàn wọn bí? Kò rí bẹ́ẹ̀ rárá: nítorí a fi hàn ṣáájú pé àti àwọn Júù àti àwọn Gíríkì, gbogbo wọn ni ó wà lábẹ́ ẹ̀ṣẹ̀;
+1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=ROM_3.9
+2	kí	kí	X	_	_	0	_	_	Ref=ROM_3.9
+3	ha	ha	X	_	_	0	_	_	Ref=ROM_3.9
+4	ni	ni	X	_	_	0	_	_	Ref=ROM_3.9|SpaceAfter=No
+5	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.9
+6	Àwa	àwa	X	_	_	0	_	_	Ref=ROM_3.9
+7	ha	ha	X	_	_	0	_	_	Ref=ROM_3.9
+8	sàn	sàn	X	_	_	0	_	_	Ref=ROM_3.9
+9	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.9
+10	bí	bí	X	_	_	0	_	_	Ref=ROM_3.9|SpaceAfter=No
+11	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.9
+12	Kò	kò	X	_	_	0	_	_	Ref=ROM_3.9
+13	rí	rí	X	_	_	0	_	_	Ref=ROM_3.9
+14	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=ROM_3.9
+15	rárá	rárá	X	_	_	0	_	_	Ref=ROM_3.9|SpaceAfter=No
+16	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.9
+17	nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.9
+18	a	a	X	_	_	0	_	_	Ref=ROM_3.9
+19	fi	fi	X	_	_	0	_	_	Ref=ROM_3.9
+20	hàn	hàn	X	_	_	0	_	_	Ref=ROM_3.9
+21	ṣáájú	ṣáájú	X	_	_	0	_	_	Ref=ROM_3.9
+22	pé	pé	X	_	_	0	_	_	Ref=ROM_3.9
+23	àti	àti	X	_	_	0	_	_	Ref=ROM_3.9
+24	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.9
+25	Júù	Júù	PROPN	_	_	0	_	_	Ref=ROM_3.9
+26	àti	àti	X	_	_	0	_	_	Ref=ROM_3.9
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.9
+28	Gíríkì	Gíríkì	PROPN	_	_	0	_	_	Ref=ROM_3.9|SpaceAfter=No
+29	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.9
+30	gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.9
+31	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.9
+32	ni	ni	X	_	_	0	_	_	Ref=ROM_3.9
+33	ó	ó	X	_	_	0	_	_	Ref=ROM_3.9
+34	wà	wà	X	_	_	0	_	_	Ref=ROM_3.9
+35	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=ROM_3.9
+36	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=ROM_3.9|SpaceAfter=No
+37	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.9
+
+# sent_id = ROM_3.10
+# text = Gẹ́gẹ́ bí a ti kọ ọ́ pé: “Kò sí ẹni tí í ṣe olódodo, kò sí ẹnìkan
+1	Gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=ROM_3.10
+2	bí	bí	X	_	_	0	_	_	Ref=ROM_3.10
+3	a	a	X	_	_	0	_	_	Ref=ROM_3.10
+4	ti	ti	X	_	_	0	_	_	Ref=ROM_3.10
+5	kọ	kọ	X	_	_	0	_	_	Ref=ROM_3.10
+6	ọ́	ọ́	X	_	_	0	_	_	Ref=ROM_3.10
+7	pé	pé	X	_	_	0	_	_	Ref=ROM_3.10|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.10
+9	“	“	PUNCT	_	_	0	punct	_	Ref=ROM_3.10|SpaceAfter=No
+10	Kò	kò	X	_	_	0	_	_	Ref=ROM_3.10
+11	sí	sí	X	_	_	0	_	_	Ref=ROM_3.10
+12	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.10
+13	tí	tí	X	_	_	0	_	_	Ref=ROM_3.10
+14	í	í	X	_	_	0	_	_	Ref=ROM_3.10
+15	ṣe	ṣe	X	_	_	0	_	_	Ref=ROM_3.10
+16	olódodo	olódodo	X	_	_	0	_	_	Ref=ROM_3.10|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.10
+18	kò	kò	X	_	_	0	_	_	Ref=ROM_3.10
+19	sí	sí	X	_	_	0	_	_	Ref=ROM_3.10
+20	ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=ROM_3.10
+
+# sent_id = ROM_3.11
+# text = Kò sí ẹni tí òye yé, kò sí ẹni tí ó ń wá Ọlọ́run.
+1	Kò	kò	X	_	_	0	_	_	Ref=ROM_3.11
+2	sí	sí	X	_	_	0	_	_	Ref=ROM_3.11
+3	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.11
+4	tí	tí	X	_	_	0	_	_	Ref=ROM_3.11
+5	òye	òye	X	_	_	0	_	_	Ref=ROM_3.11
+6	yé	yé	X	_	_	0	_	_	Ref=ROM_3.11|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.11
+8	kò	kò	X	_	_	0	_	_	Ref=ROM_3.11
+9	sí	sí	X	_	_	0	_	_	Ref=ROM_3.11
+10	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.11
+11	tí	tí	X	_	_	0	_	_	Ref=ROM_3.11
+12	ó	ó	X	_	_	0	_	_	Ref=ROM_3.11
+13	ń	ń	X	_	_	0	_	_	Ref=ROM_3.11
+14	wá	wá	X	_	_	0	_	_	Ref=ROM_3.11
+15	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.11|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.11
+
+# sent_id = ROM_3.12
+# text = Gbogbo wọn ni ó ti yapa, wọ́n jùmọ̀ di aláìlérè; kò sí ẹni tí ń ṣe rere, kò tilẹ̀ sí ẹnìkan.”
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.12
+2	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.12
+3	ni	ni	X	_	_	0	_	_	Ref=ROM_3.12
+4	ó	ó	X	_	_	0	_	_	Ref=ROM_3.12
+5	ti	ti	X	_	_	0	_	_	Ref=ROM_3.12
+6	yapa	yapa	X	_	_	0	_	_	Ref=ROM_3.12|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.12
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=ROM_3.12
+9	jùmọ̀	jùmọ̀	X	_	_	0	_	_	Ref=ROM_3.12
+10	di	di	X	_	_	0	_	_	Ref=ROM_3.12
+11	aláìlérè	aláìlérè	X	_	_	0	_	_	Ref=ROM_3.12|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.12
+13	kò	kò	X	_	_	0	_	_	Ref=ROM_3.12
+14	sí	sí	X	_	_	0	_	_	Ref=ROM_3.12
+15	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.12
+16	tí	tí	X	_	_	0	_	_	Ref=ROM_3.12
+17	ń	ń	X	_	_	0	_	_	Ref=ROM_3.12
+18	ṣe	ṣe	X	_	_	0	_	_	Ref=ROM_3.12
+19	rere	rere	X	_	_	0	_	_	Ref=ROM_3.12|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.12
+21	kò	kò	X	_	_	0	_	_	Ref=ROM_3.12
+22	tilẹ̀	tilẹ̀	X	_	_	0	_	_	Ref=ROM_3.12
+23	sí	sí	X	_	_	0	_	_	Ref=ROM_3.12
+24	ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=ROM_3.12|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.12|SpaceAfter=No
+26	”	”	PUNCT	_	_	0	punct	_	Ref=ROM_3.12
+
+# sent_id = ROM_3.13
+# text = “Ibojì tí ó ṣí sílẹ̀ ní Ọ̀fun wọn: ahọ́n wọn di aláìlérè; kò sí ẹni ìtànjẹ.” “Oró paramọ́lẹ̀ ń bẹ lábẹ́ ètè wọn.”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=ROM_3.13|SpaceAfter=No
+2	Ibojì	ibojì	X	_	_	0	_	_	Ref=ROM_3.13
+3	tí	tí	X	_	_	0	_	_	Ref=ROM_3.13
+4	ó	ó	X	_	_	0	_	_	Ref=ROM_3.13
+5	ṣí	ṣí	X	_	_	0	_	_	Ref=ROM_3.13
+6	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=ROM_3.13
+7	ní	ní	X	_	_	0	_	_	Ref=ROM_3.13
+8	Ọ̀fun	ọ̀fun	X	_	_	0	_	_	Ref=ROM_3.13
+9	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.13|SpaceAfter=No
+10	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.13
+11	ahọ́n	ahọ́n	X	_	_	0	_	_	Ref=ROM_3.13
+12	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.13
+13	di	di	X	_	_	0	_	_	Ref=ROM_3.13
+14	aláìlérè	aláìlérè	X	_	_	0	_	_	Ref=ROM_3.13|SpaceAfter=No
+15	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.13
+16	kò	kò	X	_	_	0	_	_	Ref=ROM_3.13
+17	sí	sí	X	_	_	0	_	_	Ref=ROM_3.13
+18	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.13
+19	ìtànjẹ	ìtànjẹ	X	_	_	0	_	_	Ref=ROM_3.13|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.13|SpaceAfter=No
+21	”	”	PUNCT	_	_	0	punct	_	Ref=ROM_3.13
+22	“	“	PUNCT	_	_	0	punct	_	Ref=ROM_3.13|SpaceAfter=No
+23	Oró	oró	X	_	_	0	_	_	Ref=ROM_3.13
+24	paramọ́lẹ̀	paramọ́lẹ̀	X	_	_	0	_	_	Ref=ROM_3.13
+25	ń	ń	X	_	_	0	_	_	Ref=ROM_3.13
+26	bẹ	bẹ	X	_	_	0	_	_	Ref=ROM_3.13
+27	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=ROM_3.13
+28	ètè	ètè	X	_	_	0	_	_	Ref=ROM_3.13
+29	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.13|SpaceAfter=No
+30	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.13|SpaceAfter=No
+31	”	”	PUNCT	_	_	0	punct	_	Ref=ROM_3.13
+
+# sent_id = ROM_3.14
+# text = “Ẹnu ẹni tí ó kún fún èpè àti fún oró kíkorò.”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=ROM_3.14|SpaceAfter=No
+2	Ẹnu	ẹnu	X	_	_	0	_	_	Ref=ROM_3.14
+3	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.14
+4	tí	tí	X	_	_	0	_	_	Ref=ROM_3.14
+5	ó	ó	X	_	_	0	_	_	Ref=ROM_3.14
+6	kún	kún	X	_	_	0	_	_	Ref=ROM_3.14
+7	fún	fún	X	_	_	0	_	_	Ref=ROM_3.14
+8	èpè	èpè	X	_	_	0	_	_	Ref=ROM_3.14
+9	àti	àti	X	_	_	0	_	_	Ref=ROM_3.14
+10	fún	fún	X	_	_	0	_	_	Ref=ROM_3.14
+11	oró	oró	X	_	_	0	_	_	Ref=ROM_3.14
+12	kíkorò	kíkorò	X	_	_	0	_	_	Ref=ROM_3.14|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.14|SpaceAfter=No
+14	”	”	PUNCT	_	_	0	punct	_	Ref=ROM_3.14
+
+# sent_id = ROM_3.15
+# text = “Ẹsẹ̀ wọn yára láti ta ẹ̀jẹ̀ sílẹ̀:
+1	“	“	PUNCT	_	_	0	punct	_	Ref=ROM_3.15|SpaceAfter=No
+2	Ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=ROM_3.15
+3	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.15
+4	yára	yára	X	_	_	0	_	_	Ref=ROM_3.15
+5	láti	láti	X	_	_	0	_	_	Ref=ROM_3.15
+6	ta	ta	X	_	_	0	_	_	Ref=ROM_3.15
+7	ẹ̀jẹ̀	ẹ̀jẹ̀	X	_	_	0	_	_	Ref=ROM_3.15
+8	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=ROM_3.15|SpaceAfter=No
+9	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.15
+
+# sent_id = ROM_3.16
+# text = Ìparun àti ìpọ́njú wà lọ́nà wọn.
+1	Ìparun	ìparun	X	_	_	0	_	_	Ref=ROM_3.16
+2	àti	àti	X	_	_	0	_	_	Ref=ROM_3.16
+3	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=ROM_3.16
+4	wà	wà	X	_	_	0	_	_	Ref=ROM_3.16
+5	lọ́nà	lọ́nà	X	_	_	0	_	_	Ref=ROM_3.16
+6	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.16|SpaceAfter=No
+7	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.16
+
+# sent_id = ROM_3.17
+# text = Ọ̀nà àlàáfíà ni wọn kò sì mọ̀:”
+1	Ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=ROM_3.17
+2	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=ROM_3.17
+3	ni	ni	X	_	_	0	_	_	Ref=ROM_3.17
+4	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.17
+5	kò	kò	X	_	_	0	_	_	Ref=ROM_3.17
+6	sì	sì	X	_	_	0	_	_	Ref=ROM_3.17
+7	mọ̀	mọ̀	X	_	_	0	_	_	Ref=ROM_3.17|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.17|SpaceAfter=No
+9	”	”	PUNCT	_	_	0	punct	_	Ref=ROM_3.17
+
+# sent_id = ROM_3.18
+# text = “Ìbẹ̀rù Ọlọ́run kò sí níwájú wọn.”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=ROM_3.18|SpaceAfter=No
+2	Ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=ROM_3.18
+3	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.18
+4	kò	kò	X	_	_	0	_	_	Ref=ROM_3.18
+5	sí	sí	X	_	_	0	_	_	Ref=ROM_3.18
+6	níwájú	níwájú	X	_	_	0	_	_	Ref=ROM_3.18
+7	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.18|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.18|SpaceAfter=No
+9	”	”	PUNCT	_	_	0	punct	_	Ref=ROM_3.18
+
+# sent_id = ROM_3.19
+# text = Àwa sì mọ̀ pé ohunkóhun tí òfin bá wí, ó ń wí fún àwọn tí ó wà lábẹ́ òfin: kí gbogbo ẹnu bá à lè dákẹ́ àti kí a lè mú gbogbo aráyé wá sábẹ́ ìdájọ́ Ọlọ́run.
+1	Àwa	àwa	X	_	_	0	_	_	Ref=ROM_3.19
+2	sì	sì	X	_	_	0	_	_	Ref=ROM_3.19
+3	mọ̀	mọ̀	X	_	_	0	_	_	Ref=ROM_3.19
+4	pé	pé	X	_	_	0	_	_	Ref=ROM_3.19
+5	ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=ROM_3.19
+6	tí	tí	X	_	_	0	_	_	Ref=ROM_3.19
+7	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.19
+8	bá	bá	X	_	_	0	_	_	Ref=ROM_3.19
+9	wí	wí	X	_	_	0	_	_	Ref=ROM_3.19|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.19
+11	ó	ó	X	_	_	0	_	_	Ref=ROM_3.19
+12	ń	ń	X	_	_	0	_	_	Ref=ROM_3.19
+13	wí	wí	X	_	_	0	_	_	Ref=ROM_3.19
+14	fún	fún	X	_	_	0	_	_	Ref=ROM_3.19
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.19
+16	tí	tí	X	_	_	0	_	_	Ref=ROM_3.19
+17	ó	ó	X	_	_	0	_	_	Ref=ROM_3.19
+18	wà	wà	X	_	_	0	_	_	Ref=ROM_3.19
+19	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=ROM_3.19
+20	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.19|SpaceAfter=No
+21	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.19
+22	kí	kí	X	_	_	0	_	_	Ref=ROM_3.19
+23	gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.19
+24	ẹnu	ẹnu	X	_	_	0	_	_	Ref=ROM_3.19
+25	bá	bá	X	_	_	0	_	_	Ref=ROM_3.19
+26	à	à	X	_	_	0	_	_	Ref=ROM_3.19
+27	lè	lè	X	_	_	0	_	_	Ref=ROM_3.19
+28	dákẹ́	dákẹ́	X	_	_	0	_	_	Ref=ROM_3.19
+29	àti	àti	X	_	_	0	_	_	Ref=ROM_3.19
+30	kí	kí	X	_	_	0	_	_	Ref=ROM_3.19
+31	a	a	X	_	_	0	_	_	Ref=ROM_3.19
+32	lè	lè	X	_	_	0	_	_	Ref=ROM_3.19
+33	mú	mú	X	_	_	0	_	_	Ref=ROM_3.19
+34	gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.19
+35	aráyé	aráyé	X	_	_	0	_	_	Ref=ROM_3.19
+36	wá	wá	X	_	_	0	_	_	Ref=ROM_3.19
+37	sábẹ́	sábẹ́	X	_	_	0	_	_	Ref=ROM_3.19
+38	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=ROM_3.19
+39	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.19|SpaceAfter=No
+40	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.19
+
+# sent_id = ROM_3.20
+# text = Nítorí pé nípa iṣẹ́ òfin, a kì yóò dá ẹnikẹ́ni láre níwájú rẹ̀: nítorí nípa òfin ni ìmọ̀ ẹ̀ṣẹ̀ ti wá.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.20
+2	pé	pé	X	_	_	0	_	_	Ref=ROM_3.20
+3	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.20
+4	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=ROM_3.20
+5	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.20|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.20
+7	a	a	X	_	_	0	_	_	Ref=ROM_3.20
+8	kì	kì	X	_	_	0	_	_	Ref=ROM_3.20
+9	yóò	yóò	X	_	_	0	_	_	Ref=ROM_3.20
+10	dá	dá	X	_	_	0	_	_	Ref=ROM_3.20
+11	ẹnikẹ́ni	ẹnikẹ́ni	X	_	_	0	_	_	Ref=ROM_3.20
+12	láre	láre	X	_	_	0	_	_	Ref=ROM_3.20
+13	níwájú	níwájú	X	_	_	0	_	_	Ref=ROM_3.20
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.20|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.20
+16	nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.20
+17	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.20
+18	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.20
+19	ni	ni	X	_	_	0	_	_	Ref=ROM_3.20
+20	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=ROM_3.20
+21	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=ROM_3.20
+22	ti	ti	X	_	_	0	_	_	Ref=ROM_3.20
+23	wá	wá	X	_	_	0	_	_	Ref=ROM_3.20|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.20
+
+# sent_id = ROM_3.21
+# text = Ṣùgbọ́n nisinsinyìí, a ti fi òdodo Ọlọ́run hàn láìsí òfin, tí a ti ń jẹ́rí sí nípa òfin àti nípa àwọn wòlíì;
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=ROM_3.21
+2	nisinsinyìí	nisinsinyìí	X	_	_	0	_	_	Ref=ROM_3.21|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.21
+4	a	a	X	_	_	0	_	_	Ref=ROM_3.21
+5	ti	ti	X	_	_	0	_	_	Ref=ROM_3.21
+6	fi	fi	X	_	_	0	_	_	Ref=ROM_3.21
+7	òdodo	òdodo	X	_	_	0	_	_	Ref=ROM_3.21
+8	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.21
+9	hàn	hàn	X	_	_	0	_	_	Ref=ROM_3.21
+10	láìsí	láìsí	X	_	_	0	_	_	Ref=ROM_3.21
+11	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.21|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.21
+13	tí	tí	X	_	_	0	_	_	Ref=ROM_3.21
+14	a	a	X	_	_	0	_	_	Ref=ROM_3.21
+15	ti	ti	X	_	_	0	_	_	Ref=ROM_3.21
+16	ń	ń	X	_	_	0	_	_	Ref=ROM_3.21
+17	jẹ́rí	jẹ́rí	X	_	_	0	_	_	Ref=ROM_3.21
+18	sí	sí	X	_	_	0	_	_	Ref=ROM_3.21
+19	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.21
+20	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.21
+21	àti	àti	X	_	_	0	_	_	Ref=ROM_3.21
+22	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.21
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.21
+24	wòlíì	wòlíì	X	_	_	0	_	_	Ref=ROM_3.21|SpaceAfter=No
+25	;	;	PUNCT	_	_	0	punct	_	Ref=ROM_3.21
+
+# sent_id = ROM_3.22
+# text = Àní òdodo Ọlọ́run nípa ìgbàgbọ́ nínú Jésù Kírísítì, sí gbogbo ènìyàn àti gbogbo àwọn tí ó gbàgbọ́: nítorí tí kò sí ìyàtọ̀:
+1	Àní	àní	X	_	_	0	_	_	Ref=ROM_3.22
+2	òdodo	òdodo	X	_	_	0	_	_	Ref=ROM_3.22
+3	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.22
+4	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.22
+5	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.22
+6	nínú	nínú	X	_	_	0	_	_	Ref=ROM_3.22
+7	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=ROM_3.22
+8	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=ROM_3.22|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.22
+10	sí	sí	X	_	_	0	_	_	Ref=ROM_3.22
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.22
+12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=ROM_3.22
+13	àti	àti	X	_	_	0	_	_	Ref=ROM_3.22
+14	gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.22
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.22
+16	tí	tí	X	_	_	0	_	_	Ref=ROM_3.22
+17	ó	ó	X	_	_	0	_	_	Ref=ROM_3.22
+18	gbàgbọ́	gbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.22|SpaceAfter=No
+19	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.22
+20	nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.22
+21	tí	tí	X	_	_	0	_	_	Ref=ROM_3.22
+22	kò	kò	X	_	_	0	_	_	Ref=ROM_3.22
+23	sí	sí	X	_	_	0	_	_	Ref=ROM_3.22
+24	ìyàtọ̀	ìyàtọ̀	X	_	_	0	_	_	Ref=ROM_3.22|SpaceAfter=No
+25	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.22
+
+# sent_id = ROM_3.23
+# text = Gbogbo ènìyàn ni ó sá ti ṣẹ̀, tí wọ́n sì kùnà ògo Ọlọ́run:
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=ROM_3.23
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=ROM_3.23
+3	ni	ni	X	_	_	0	_	_	Ref=ROM_3.23
+4	ó	ó	X	_	_	0	_	_	Ref=ROM_3.23
+5	sá	sá	X	_	_	0	_	_	Ref=ROM_3.23
+6	ti	ti	X	_	_	0	_	_	Ref=ROM_3.23
+7	ṣẹ̀	ṣẹ̀	X	_	_	0	_	_	Ref=ROM_3.23|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.23
+9	tí	tí	X	_	_	0	_	_	Ref=ROM_3.23
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=ROM_3.23
+11	sì	sì	X	_	_	0	_	_	Ref=ROM_3.23
+12	kùnà	kùnà	X	_	_	0	_	_	Ref=ROM_3.23
+13	ògo	ògo	X	_	_	0	_	_	Ref=ROM_3.23
+14	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.23|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.23
+
+# sent_id = ROM_3.24
+# text = Àwọn ẹni tí a ń dáláre lọ́fẹ̀ẹ́ nípa oore-ọ̀fẹ́ rẹ̀, nípa ìdáǹdè tí ó wà nínú Kírísítì Jésù:
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.24
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.24
+3	tí	tí	X	_	_	0	_	_	Ref=ROM_3.24
+4	a	a	X	_	_	0	_	_	Ref=ROM_3.24
+5	ń	ń	X	_	_	0	_	_	Ref=ROM_3.24
+6	dáláre	dáláre	X	_	_	0	_	_	Ref=ROM_3.24
+7	lọ́fẹ̀ẹ́	lọ́fẹ̀ẹ́	X	_	_	0	_	_	Ref=ROM_3.24
+8	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.24
+9	oore	oore	X	_	_	0	_	_	Ref=ROM_3.24|SpaceAfter=No
+10	-	-	PUNCT	_	_	0	punct	_	Ref=ROM_3.24|SpaceAfter=No
+11	ọ̀fẹ́	ọ̀fẹ́	X	_	_	0	_	_	Ref=ROM_3.24
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.24|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.24
+14	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.24
+15	ìdáǹdè	ìdáǹdè	X	_	_	0	_	_	Ref=ROM_3.24
+16	tí	tí	X	_	_	0	_	_	Ref=ROM_3.24
+17	ó	ó	X	_	_	0	_	_	Ref=ROM_3.24
+18	wà	wà	X	_	_	0	_	_	Ref=ROM_3.24
+19	nínú	nínú	X	_	_	0	_	_	Ref=ROM_3.24
+20	Kírísítì	kírísítì	X	_	_	0	_	_	Ref=ROM_3.24
+21	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=ROM_3.24|SpaceAfter=No
+22	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.24
+
+# sent_id = ROM_3.25
+# text = Ẹni tí Ọlọ́run ti gbé kalẹ̀ láti jẹ́ ètùtù nípa ìgbàgbọ́ nínú ẹ̀jẹ̀ rẹ̀, láti fi òdodo rẹ̀ hàn nítorí ìdáríjì àwọn ẹ̀ṣẹ̀ tí ó ti kọjá, nínú ìpamọ́ra Ọlọ́run:
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.25
+2	tí	tí	X	_	_	0	_	_	Ref=ROM_3.25
+3	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.25
+4	ti	ti	X	_	_	0	_	_	Ref=ROM_3.25
+5	gbé	gbé	X	_	_	0	_	_	Ref=ROM_3.25
+6	kalẹ̀	kalẹ̀	X	_	_	0	_	_	Ref=ROM_3.25
+7	láti	láti	X	_	_	0	_	_	Ref=ROM_3.25
+8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=ROM_3.25
+9	ètùtù	ètùtù	X	_	_	0	_	_	Ref=ROM_3.25
+10	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.25
+11	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.25
+12	nínú	nínú	X	_	_	0	_	_	Ref=ROM_3.25
+13	ẹ̀jẹ̀	ẹ̀jẹ̀	X	_	_	0	_	_	Ref=ROM_3.25
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.25|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.25
+16	láti	láti	X	_	_	0	_	_	Ref=ROM_3.25
+17	fi	fi	X	_	_	0	_	_	Ref=ROM_3.25
+18	òdodo	òdodo	X	_	_	0	_	_	Ref=ROM_3.25
+19	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.25
+20	hàn	hàn	X	_	_	0	_	_	Ref=ROM_3.25
+21	nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.25
+22	ìdáríjì	ìdáríjì	X	_	_	0	_	_	Ref=ROM_3.25
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.25
+24	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=ROM_3.25
+25	tí	tí	X	_	_	0	_	_	Ref=ROM_3.25
+26	ó	ó	X	_	_	0	_	_	Ref=ROM_3.25
+27	ti	ti	X	_	_	0	_	_	Ref=ROM_3.25
+28	kọjá	kọjá	X	_	_	0	_	_	Ref=ROM_3.25|SpaceAfter=No
+29	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.25
+30	nínú	nínú	X	_	_	0	_	_	Ref=ROM_3.25
+31	ìpamọ́ra	ìpamọ́ra	X	_	_	0	_	_	Ref=ROM_3.25
+32	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.25|SpaceAfter=No
+33	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.25
+
+# sent_id = ROM_3.26
+# text = Láti fi òdodo rẹ̀ hàn ní ìgbà ìsinsìnyìí: kí ó lè jẹ́ olódodo àti olùdáre ẹni tí ó gba Jésù gbọ́.
+1	Láti	láti	X	_	_	0	_	_	Ref=ROM_3.26
+2	fi	fi	X	_	_	0	_	_	Ref=ROM_3.26
+3	òdodo	òdodo	X	_	_	0	_	_	Ref=ROM_3.26
+4	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.26
+5	hàn	hàn	X	_	_	0	_	_	Ref=ROM_3.26
+6	ní	ní	X	_	_	0	_	_	Ref=ROM_3.26
+7	ìgbà	ìgbà	X	_	_	0	_	_	Ref=ROM_3.26
+8	ìsinsìnyìí	ìsinsìnyìí	X	_	_	0	_	_	Ref=ROM_3.26|SpaceAfter=No
+9	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.26
+10	kí	kí	X	_	_	0	_	_	Ref=ROM_3.26
+11	ó	ó	X	_	_	0	_	_	Ref=ROM_3.26
+12	lè	lè	X	_	_	0	_	_	Ref=ROM_3.26
+13	jẹ́	jẹ́	X	_	_	0	_	_	Ref=ROM_3.26
+14	olódodo	olódodo	X	_	_	0	_	_	Ref=ROM_3.26
+15	àti	àti	X	_	_	0	_	_	Ref=ROM_3.26
+16	olùdáre	olùdáre	X	_	_	0	_	_	Ref=ROM_3.26
+17	ẹni	ẹni	X	_	_	0	_	_	Ref=ROM_3.26
+18	tí	tí	X	_	_	0	_	_	Ref=ROM_3.26
+19	ó	ó	X	_	_	0	_	_	Ref=ROM_3.26
+20	gba	gba	X	_	_	0	_	_	Ref=ROM_3.26
+21	Jésù	Jésù	PROPN	_	_	0	_	_	Ref=ROM_3.26
+22	gbọ́	gbọ́	X	_	_	0	_	_	Ref=ROM_3.26|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.26
+
+# sent_id = ROM_3.27
+# text = Ọ̀nà ìṣògo dà? A ti mú un kúrò. Nípa òfin wo? Nípa iṣẹ́? Bẹ́ẹ̀ kọ́: Ṣùgbọ́n nípa òfin ìgbàgbọ́.
+1	Ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=ROM_3.27
+2	ìṣògo	ìṣògo	X	_	_	0	_	_	Ref=ROM_3.27
+3	dà	dà	X	_	_	0	_	_	Ref=ROM_3.27|SpaceAfter=No
+4	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.27
+5	A	a	X	_	_	0	_	_	Ref=ROM_3.27
+6	ti	ti	X	_	_	0	_	_	Ref=ROM_3.27
+7	mú	mú	X	_	_	0	_	_	Ref=ROM_3.27
+8	un	un	X	_	_	0	_	_	Ref=ROM_3.27
+9	kúrò	kúrò	X	_	_	0	_	_	Ref=ROM_3.27|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.27
+11	Nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.27
+12	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.27
+13	wo	wo	X	_	_	0	_	_	Ref=ROM_3.27|SpaceAfter=No
+14	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.27
+15	Nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.27
+16	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=ROM_3.27|SpaceAfter=No
+17	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.27
+18	Bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=ROM_3.27
+19	kọ́	kọ́	X	_	_	0	_	_	Ref=ROM_3.27|SpaceAfter=No
+20	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.27
+21	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=ROM_3.27
+22	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.27
+23	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.27
+24	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.27|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.27
+
+# sent_id = ROM_3.28
+# text = Nítorí náà a parí rẹ̀ sí pé nípa ìgbàgbọ́ ni a ń dá ènìyàn láre láìsí iṣẹ́ òfin.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.28
+2	náà	náà	X	_	_	0	_	_	Ref=ROM_3.28
+3	a	a	X	_	_	0	_	_	Ref=ROM_3.28
+4	parí	parí	X	_	_	0	_	_	Ref=ROM_3.28
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=ROM_3.28
+6	sí	sí	X	_	_	0	_	_	Ref=ROM_3.28
+7	pé	pé	X	_	_	0	_	_	Ref=ROM_3.28
+8	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.28
+9	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.28
+10	ni	ni	X	_	_	0	_	_	Ref=ROM_3.28
+11	a	a	X	_	_	0	_	_	Ref=ROM_3.28
+12	ń	ń	X	_	_	0	_	_	Ref=ROM_3.28
+13	dá	dá	X	_	_	0	_	_	Ref=ROM_3.28
+14	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=ROM_3.28
+15	láre	láre	X	_	_	0	_	_	Ref=ROM_3.28
+16	láìsí	láìsí	X	_	_	0	_	_	Ref=ROM_3.28
+17	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=ROM_3.28
+18	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.28|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.28
+
+# sent_id = ROM_3.29
+# text = Ọlọ́run àwọn Júù nìkan ha ni bí? Kì í ha ṣe ti àwọn aláìkọlà pẹ̀lú? Bẹ́ẹ̀ ni, ti àwọn aláìkọlà pẹ̀lú:
+1	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.29
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.29
+3	Júù	Júù	PROPN	_	_	0	_	_	Ref=ROM_3.29
+4	nìkan	nìkan	X	_	_	0	_	_	Ref=ROM_3.29
+5	ha	ha	X	_	_	0	_	_	Ref=ROM_3.29
+6	ni	ni	X	_	_	0	_	_	Ref=ROM_3.29
+7	bí	bí	X	_	_	0	_	_	Ref=ROM_3.29|SpaceAfter=No
+8	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.29
+9	Kì	kì	X	_	_	0	_	_	Ref=ROM_3.29
+10	í	í	X	_	_	0	_	_	Ref=ROM_3.29
+11	ha	ha	X	_	_	0	_	_	Ref=ROM_3.29
+12	ṣe	ṣe	X	_	_	0	_	_	Ref=ROM_3.29
+13	ti	ti	X	_	_	0	_	_	Ref=ROM_3.29
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.29
+15	aláìkọlà	aláìkọlà	X	_	_	0	_	_	Ref=ROM_3.29
+16	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=ROM_3.29|SpaceAfter=No
+17	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.29
+18	Bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=ROM_3.29
+19	ni	ni	X	_	_	0	_	_	Ref=ROM_3.29|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.29
+21	ti	ti	X	_	_	0	_	_	Ref=ROM_3.29
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.29
+23	aláìkọlà	aláìkọlà	X	_	_	0	_	_	Ref=ROM_3.29
+24	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=ROM_3.29|SpaceAfter=No
+25	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.29
+
+# sent_id = ROM_3.30
+# text = Bí ó ti jẹ́ pé Ọlọ́run kan ni, tí yóò dá àwọn akọlà láre nípa Ìgbàgbọ́ àti àwọn aláìkọlà nítorí ìgbàgbọ́ wọn.
+1	Bí	bí	X	_	_	0	_	_	Ref=ROM_3.30
+2	ó	ó	X	_	_	0	_	_	Ref=ROM_3.30
+3	ti	ti	X	_	_	0	_	_	Ref=ROM_3.30
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=ROM_3.30
+5	pé	pé	X	_	_	0	_	_	Ref=ROM_3.30
+6	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=ROM_3.30
+7	kan	kan	X	_	_	0	_	_	Ref=ROM_3.30
+8	ni	ni	X	_	_	0	_	_	Ref=ROM_3.30|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=ROM_3.30
+10	tí	tí	X	_	_	0	_	_	Ref=ROM_3.30
+11	yóò	yóò	X	_	_	0	_	_	Ref=ROM_3.30
+12	dá	dá	X	_	_	0	_	_	Ref=ROM_3.30
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.30
+14	akọlà	akọlà	X	_	_	0	_	_	Ref=ROM_3.30
+15	láre	láre	X	_	_	0	_	_	Ref=ROM_3.30
+16	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.30
+17	Ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.30
+18	àti	àti	X	_	_	0	_	_	Ref=ROM_3.30
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=ROM_3.30
+20	aláìkọlà	aláìkọlà	X	_	_	0	_	_	Ref=ROM_3.30
+21	nítorí	nítorí	X	_	_	0	_	_	Ref=ROM_3.30
+22	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.30
+23	wọn	wọn	X	_	_	0	_	_	Ref=ROM_3.30|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.30
+
+# sent_id = ROM_3.31
+# text = Àwa ha ń sọ òfin dasán nípa ìgbàgbọ́ bí? Kí a má rí i: ṣùgbọ́n a ń fi òfin múlẹ̀.
+1	Àwa	àwa	X	_	_	0	_	_	Ref=ROM_3.31
+2	ha	ha	X	_	_	0	_	_	Ref=ROM_3.31
+3	ń	ń	X	_	_	0	_	_	Ref=ROM_3.31
+4	sọ	sọ	X	_	_	0	_	_	Ref=ROM_3.31
+5	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.31
+6	dasán	dasán	X	_	_	0	_	_	Ref=ROM_3.31
+7	nípa	nípa	X	_	_	0	_	_	Ref=ROM_3.31
+8	ìgbàgbọ́	ìgbàgbọ́	X	_	_	0	_	_	Ref=ROM_3.31
+9	bí	bí	X	_	_	0	_	_	Ref=ROM_3.31|SpaceAfter=No
+10	?	?	PUNCT	_	_	0	punct	_	Ref=ROM_3.31
+11	Kí	kí	X	_	_	0	_	_	Ref=ROM_3.31
+12	a	a	X	_	_	0	_	_	Ref=ROM_3.31
+13	má	má	X	_	_	0	_	_	Ref=ROM_3.31
+14	rí	rí	X	_	_	0	_	_	Ref=ROM_3.31
+15	i	i	X	_	_	0	_	_	Ref=ROM_3.31|SpaceAfter=No
+16	:	:	PUNCT	_	_	0	punct	_	Ref=ROM_3.31
+17	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=ROM_3.31
+18	a	a	X	_	_	0	_	_	Ref=ROM_3.31
+19	ń	ń	X	_	_	0	_	_	Ref=ROM_3.31
+20	fi	fi	X	_	_	0	_	_	Ref=ROM_3.31
+21	òfin	òfin	X	_	_	0	_	_	Ref=ROM_3.31
+22	múlẹ̀	múlẹ̀	X	_	_	0	_	_	Ref=ROM_3.31|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=ROM_3.31
+

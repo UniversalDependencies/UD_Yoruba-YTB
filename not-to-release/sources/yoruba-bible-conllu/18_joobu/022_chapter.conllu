@@ -1,0 +1,699 @@
+# source = Bibeli Mimọ, Jóòbù, Chapter 22
+# newdoc id = JOB_22
+# sent_id = JOB_22.1
+# text = Ígbà náà ni Élífásì, ará Témà, dáhùn wí pé:
+1	Ígbà	ígbà	X	_	_	0	_	_	Ref=JOB_22.1
+2	náà	náà	X	_	_	0	_	_	Ref=JOB_22.1
+3	ni	ni	X	_	_	0	_	_	Ref=JOB_22.1
+4	Élífásì	Élífásì	PROPN	_	_	0	_	_	Ref=JOB_22.1|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.1
+6	ará	ará	X	_	_	0	_	_	Ref=JOB_22.1
+7	Témà	Témà	PROPN	_	_	0	_	_	Ref=JOB_22.1|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.1
+9	dáhùn	dáhùn	X	_	_	0	_	_	Ref=JOB_22.1
+10	wí	wí	X	_	_	0	_	_	Ref=JOB_22.1
+11	pé	pé	X	_	_	0	_	_	Ref=JOB_22.1|SpaceAfter=No
+12	:	:	PUNCT	_	_	0	punct	_	Ref=JOB_22.1
+
+# sent_id = JOB_22.2
+# text = “Ènìyàn lè è ṣe rere fún Ọlọ́run? Bí ọlọ́gbọ́n ti í ṣe rere fún ara rẹ̀?
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOB_22.2|SpaceAfter=No
+2	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_22.2
+3	lè	lè	X	_	_	0	_	_	Ref=JOB_22.2
+4	è	è	X	_	_	0	_	_	Ref=JOB_22.2
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.2
+6	rere	rere	X	_	_	0	_	_	Ref=JOB_22.2
+7	fún	fún	X	_	_	0	_	_	Ref=JOB_22.2
+8	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.2|SpaceAfter=No
+9	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.2
+10	Bí	bí	X	_	_	0	_	_	Ref=JOB_22.2
+11	ọlọ́gbọ́n	ọlọ́gbọ́n	X	_	_	0	_	_	Ref=JOB_22.2
+12	ti	ti	X	_	_	0	_	_	Ref=JOB_22.2
+13	í	í	X	_	_	0	_	_	Ref=JOB_22.2
+14	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.2
+15	rere	rere	X	_	_	0	_	_	Ref=JOB_22.2
+16	fún	fún	X	_	_	0	_	_	Ref=JOB_22.2
+17	ara	ara	X	_	_	0	_	_	Ref=JOB_22.2
+18	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.2|SpaceAfter=No
+19	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.2
+
+# sent_id = JOB_22.3
+# text = Ohun ayọ̀ ha ni fún Olódùmáarè pé, olódodo ni ìwọ? Tàbí èrè kí ni fún un, ti ìwọ mú ọ̀nà rẹ̀ pé?
+1	Ohun	ohun	X	_	_	0	_	_	Ref=JOB_22.3
+2	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=JOB_22.3
+3	ha	ha	X	_	_	0	_	_	Ref=JOB_22.3
+4	ni	ni	X	_	_	0	_	_	Ref=JOB_22.3
+5	fún	fún	X	_	_	0	_	_	Ref=JOB_22.3
+6	Olódùmáarè	Olódùmáarè	PROPN	_	_	0	_	_	Ref=JOB_22.3
+7	pé	pé	X	_	_	0	_	_	Ref=JOB_22.3|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.3
+9	olódodo	olódodo	X	_	_	0	_	_	Ref=JOB_22.3
+10	ni	ni	X	_	_	0	_	_	Ref=JOB_22.3
+11	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.3|SpaceAfter=No
+12	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.3
+13	Tàbí	tàbí	X	_	_	0	_	_	Ref=JOB_22.3
+14	èrè	èrè	X	_	_	0	_	_	Ref=JOB_22.3
+15	kí	kí	X	_	_	0	_	_	Ref=JOB_22.3
+16	ni	ni	X	_	_	0	_	_	Ref=JOB_22.3
+17	fún	fún	X	_	_	0	_	_	Ref=JOB_22.3
+18	un	un	X	_	_	0	_	_	Ref=JOB_22.3|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.3
+20	ti	ti	X	_	_	0	_	_	Ref=JOB_22.3
+21	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.3
+22	mú	mú	X	_	_	0	_	_	Ref=JOB_22.3
+23	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOB_22.3
+24	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.3
+25	pé	pé	X	_	_	0	_	_	Ref=JOB_22.3|SpaceAfter=No
+26	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.3
+
+# sent_id = JOB_22.4
+# text = “Yóò ha bá ọ wí bí, nítorí ìbẹ̀rù Ọlọ́run rẹ? Yóò ha bá ọ lọ sínú ìdájọ́ bí?
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOB_22.4|SpaceAfter=No
+2	Yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.4
+3	ha	ha	X	_	_	0	_	_	Ref=JOB_22.4
+4	bá	bá	X	_	_	0	_	_	Ref=JOB_22.4
+5	ọ	ọ	X	_	_	0	_	_	Ref=JOB_22.4
+6	wí	wí	X	_	_	0	_	_	Ref=JOB_22.4
+7	bí	bí	X	_	_	0	_	_	Ref=JOB_22.4|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.4
+9	nítorí	nítorí	X	_	_	0	_	_	Ref=JOB_22.4
+10	ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=JOB_22.4
+11	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.4
+12	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.4|SpaceAfter=No
+13	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.4
+14	Yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.4
+15	ha	ha	X	_	_	0	_	_	Ref=JOB_22.4
+16	bá	bá	X	_	_	0	_	_	Ref=JOB_22.4
+17	ọ	ọ	X	_	_	0	_	_	Ref=JOB_22.4
+18	lọ	lọ	X	_	_	0	_	_	Ref=JOB_22.4
+19	sínú	sínú	X	_	_	0	_	_	Ref=JOB_22.4
+20	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=JOB_22.4
+21	bí	bí	X	_	_	0	_	_	Ref=JOB_22.4|SpaceAfter=No
+22	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.4
+
+# sent_id = JOB_22.5
+# text = Ìwà búburú rẹ kò ha tóbi, àti ẹ̀ṣẹ̀ rẹ láìníye?
+1	Ìwà	ìwà	X	_	_	0	_	_	Ref=JOB_22.5
+2	búburú	búburú	X	_	_	0	_	_	Ref=JOB_22.5
+3	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.5
+4	kò	kò	X	_	_	0	_	_	Ref=JOB_22.5
+5	ha	ha	X	_	_	0	_	_	Ref=JOB_22.5
+6	tóbi	tóbi	X	_	_	0	_	_	Ref=JOB_22.5|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.5
+8	àti	àti	X	_	_	0	_	_	Ref=JOB_22.5
+9	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=JOB_22.5
+10	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.5
+11	láìníye	láìníye	X	_	_	0	_	_	Ref=JOB_22.5|SpaceAfter=No
+12	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.5
+
+# sent_id = JOB_22.6
+# text = Nítòótọ́ ìwọ bèèrè fún ààbò ni ọwọ́ arákùnrin rẹ láìnídìí, ìwọ sì tú oníhòhò ní aṣọ wọn.
+1	Nítòótọ́	nítòótọ́	X	_	_	0	_	_	Ref=JOB_22.6
+2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.6
+3	bèèrè	bèèrè	X	_	_	0	_	_	Ref=JOB_22.6
+4	fún	fún	X	_	_	0	_	_	Ref=JOB_22.6
+5	ààbò	ààbò	X	_	_	0	_	_	Ref=JOB_22.6
+6	ni	ni	X	_	_	0	_	_	Ref=JOB_22.6
+7	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=JOB_22.6
+8	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=JOB_22.6
+9	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.6
+10	láìnídìí	láìnídìí	X	_	_	0	_	_	Ref=JOB_22.6|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.6
+12	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.6
+13	sì	sì	X	_	_	0	_	_	Ref=JOB_22.6
+14	tú	tú	X	_	_	0	_	_	Ref=JOB_22.6
+15	oníhòhò	oníhòhò	X	_	_	0	_	_	Ref=JOB_22.6
+16	ní	ní	X	_	_	0	_	_	Ref=JOB_22.6
+17	aṣọ	aṣọ	X	_	_	0	_	_	Ref=JOB_22.6
+18	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.6|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.6
+
+# sent_id = JOB_22.7
+# text = Ìwọ kò fi omi fún aláàárẹ̀ mu, ìwọ sì háwọ́ oúnjẹ fún ẹni tí ebi ń pa.
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.7
+2	kò	kò	X	_	_	0	_	_	Ref=JOB_22.7
+3	fi	fi	X	_	_	0	_	_	Ref=JOB_22.7
+4	omi	omi	X	_	_	0	_	_	Ref=JOB_22.7
+5	fún	fún	X	_	_	0	_	_	Ref=JOB_22.7
+6	aláàárẹ̀	aláàárẹ̀	X	_	_	0	_	_	Ref=JOB_22.7
+7	mu	mu	X	_	_	0	_	_	Ref=JOB_22.7|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.7
+9	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.7
+10	sì	sì	X	_	_	0	_	_	Ref=JOB_22.7
+11	háwọ́	háwọ́	X	_	_	0	_	_	Ref=JOB_22.7
+12	oúnjẹ	oúnjẹ	X	_	_	0	_	_	Ref=JOB_22.7
+13	fún	fún	X	_	_	0	_	_	Ref=JOB_22.7
+14	ẹni	ẹni	X	_	_	0	_	_	Ref=JOB_22.7
+15	tí	tí	X	_	_	0	_	_	Ref=JOB_22.7
+16	ebi	ebi	X	_	_	0	_	_	Ref=JOB_22.7
+17	ń	ń	X	_	_	0	_	_	Ref=JOB_22.7
+18	pa	pa	X	_	_	0	_	_	Ref=JOB_22.7|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.7
+
+# sent_id = JOB_22.8
+# text = Bí ó ṣe ti alágbára nì ni, òun ni ó ní ilẹ̀, ọlọ́lá sì tẹ̀dó sínú rẹ̀.
+1	Bí	bí	X	_	_	0	_	_	Ref=JOB_22.8
+2	ó	ó	X	_	_	0	_	_	Ref=JOB_22.8
+3	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.8
+4	ti	ti	X	_	_	0	_	_	Ref=JOB_22.8
+5	alágbára	alágbára	X	_	_	0	_	_	Ref=JOB_22.8
+6	nì	nì	X	_	_	0	_	_	Ref=JOB_22.8
+7	ni	ni	X	_	_	0	_	_	Ref=JOB_22.8|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.8
+9	òun	òun	X	_	_	0	_	_	Ref=JOB_22.8
+10	ni	ni	X	_	_	0	_	_	Ref=JOB_22.8
+11	ó	ó	X	_	_	0	_	_	Ref=JOB_22.8
+12	ní	ní	X	_	_	0	_	_	Ref=JOB_22.8
+13	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOB_22.8|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.8
+15	ọlọ́lá	ọlọ́lá	X	_	_	0	_	_	Ref=JOB_22.8
+16	sì	sì	X	_	_	0	_	_	Ref=JOB_22.8
+17	tẹ̀dó	tẹ̀dó	X	_	_	0	_	_	Ref=JOB_22.8
+18	sínú	sínú	X	_	_	0	_	_	Ref=JOB_22.8
+19	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.8|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.8
+
+# sent_id = JOB_22.9
+# text = Ìwọ ti rán àwọn opó padà lọ ní ọwọ́ òfo; Apá àwọn ọmọ aláìní baba ti di ṣiṣẹ́.
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.9
+2	ti	ti	X	_	_	0	_	_	Ref=JOB_22.9
+3	rán	rán	X	_	_	0	_	_	Ref=JOB_22.9
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.9
+5	opó	opó	X	_	_	0	_	_	Ref=JOB_22.9
+6	padà	padà	X	_	_	0	_	_	Ref=JOB_22.9
+7	lọ	lọ	X	_	_	0	_	_	Ref=JOB_22.9
+8	ní	ní	X	_	_	0	_	_	Ref=JOB_22.9
+9	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=JOB_22.9
+10	òfo	òfo	X	_	_	0	_	_	Ref=JOB_22.9|SpaceAfter=No
+11	;	;	PUNCT	_	_	0	punct	_	Ref=JOB_22.9
+12	Apá	apá	X	_	_	0	_	_	Ref=JOB_22.9
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.9
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOB_22.9
+15	aláìní	aláìní	X	_	_	0	_	_	Ref=JOB_22.9
+16	baba	baba	X	_	_	0	_	_	Ref=JOB_22.9
+17	ti	ti	X	_	_	0	_	_	Ref=JOB_22.9
+18	di	di	X	_	_	0	_	_	Ref=JOB_22.9
+19	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=JOB_22.9|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.9
+
+# sent_id = JOB_22.10
+# text = Nítorí náà ni ìdẹkùn ṣe yí ọ káàkiri, àti ìbẹ̀rù òjijì ń yọ ọ́ lẹ́nu,
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=JOB_22.10
+2	náà	náà	X	_	_	0	_	_	Ref=JOB_22.10
+3	ni	ni	X	_	_	0	_	_	Ref=JOB_22.10
+4	ìdẹkùn	ìdẹkùn	X	_	_	0	_	_	Ref=JOB_22.10
+5	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.10
+6	yí	yí	X	_	_	0	_	_	Ref=JOB_22.10
+7	ọ	ọ	X	_	_	0	_	_	Ref=JOB_22.10
+8	káàkiri	káàkiri	X	_	_	0	_	_	Ref=JOB_22.10|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.10
+10	àti	àti	X	_	_	0	_	_	Ref=JOB_22.10
+11	ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=JOB_22.10
+12	òjijì	òjijì	X	_	_	0	_	_	Ref=JOB_22.10
+13	ń	ń	X	_	_	0	_	_	Ref=JOB_22.10
+14	yọ	yọ	X	_	_	0	_	_	Ref=JOB_22.10
+15	ọ́	ọ́	X	_	_	0	_	_	Ref=JOB_22.10
+16	lẹ́nu	lẹ́nu	X	_	_	0	_	_	Ref=JOB_22.10|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.10
+
+# sent_id = JOB_22.11
+# text = Èé ṣe tí òkùnkùn, fi pọ̀ tóbẹ́ẹ̀ tí ìwọ kò fi lè ríran; Èé ṣe tí ọ̀pọ̀lọpọ̀ omi sì bò ọ́ mọ́lẹ̀.
+1	Èé	èé	X	_	_	0	_	_	Ref=JOB_22.11
+2	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.11
+3	tí	tí	X	_	_	0	_	_	Ref=JOB_22.11
+4	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=JOB_22.11|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.11
+6	fi	fi	X	_	_	0	_	_	Ref=JOB_22.11
+7	pọ̀	pọ̀	X	_	_	0	_	_	Ref=JOB_22.11
+8	tóbẹ́ẹ̀	tóbẹ́ẹ̀	X	_	_	0	_	_	Ref=JOB_22.11
+9	tí	tí	X	_	_	0	_	_	Ref=JOB_22.11
+10	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.11
+11	kò	kò	X	_	_	0	_	_	Ref=JOB_22.11
+12	fi	fi	X	_	_	0	_	_	Ref=JOB_22.11
+13	lè	lè	X	_	_	0	_	_	Ref=JOB_22.11
+14	ríran	ríran	X	_	_	0	_	_	Ref=JOB_22.11|SpaceAfter=No
+15	;	;	PUNCT	_	_	0	punct	_	Ref=JOB_22.11
+16	Èé	èé	X	_	_	0	_	_	Ref=JOB_22.11
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.11
+18	tí	tí	X	_	_	0	_	_	Ref=JOB_22.11
+19	ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	X	_	_	0	_	_	Ref=JOB_22.11
+20	omi	omi	X	_	_	0	_	_	Ref=JOB_22.11
+21	sì	sì	X	_	_	0	_	_	Ref=JOB_22.11
+22	bò	bò	X	_	_	0	_	_	Ref=JOB_22.11
+23	ọ́	ọ́	X	_	_	0	_	_	Ref=JOB_22.11
+24	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_22.11|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.11
+
+# sent_id = JOB_22.12
+# text = “Ọlọ́run kò ha jẹ́ ẹni gíga ọ̀run? Ṣá wò orí àwọn ìràwọ̀ bí wọ́n ti ga tó!
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOB_22.12|SpaceAfter=No
+2	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.12
+3	kò	kò	X	_	_	0	_	_	Ref=JOB_22.12
+4	ha	ha	X	_	_	0	_	_	Ref=JOB_22.12
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOB_22.12
+6	ẹni	ẹni	X	_	_	0	_	_	Ref=JOB_22.12
+7	gíga	gíga	X	_	_	0	_	_	Ref=JOB_22.12
+8	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=JOB_22.12|SpaceAfter=No
+9	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.12
+10	Ṣá	ṣá	X	_	_	0	_	_	Ref=JOB_22.12
+11	wò	wò	X	_	_	0	_	_	Ref=JOB_22.12
+12	orí	orí	X	_	_	0	_	_	Ref=JOB_22.12
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.12
+14	ìràwọ̀	ìràwọ̀	X	_	_	0	_	_	Ref=JOB_22.12
+15	bí	bí	X	_	_	0	_	_	Ref=JOB_22.12
+16	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOB_22.12
+17	ti	ti	X	_	_	0	_	_	Ref=JOB_22.12
+18	ga	ga	X	_	_	0	_	_	Ref=JOB_22.12
+19	tó	tó	X	_	_	0	_	_	Ref=JOB_22.12|SpaceAfter=No
+20	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_22.12
+
+# sent_id = JOB_22.13
+# text = Ìwọ sì wí pé, Ọlọ́run ti ṣe mọ̀? Òun ha lè ṣe ìdájọ́ láti inú òkùnkùn wá bí?
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.13
+2	sì	sì	X	_	_	0	_	_	Ref=JOB_22.13
+3	wí	wí	X	_	_	0	_	_	Ref=JOB_22.13
+4	pé	pé	X	_	_	0	_	_	Ref=JOB_22.13|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.13
+6	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.13
+7	ti	ti	X	_	_	0	_	_	Ref=JOB_22.13
+8	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.13
+9	mọ̀	mọ̀	X	_	_	0	_	_	Ref=JOB_22.13|SpaceAfter=No
+10	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.13
+11	Òun	òun	X	_	_	0	_	_	Ref=JOB_22.13
+12	ha	ha	X	_	_	0	_	_	Ref=JOB_22.13
+13	lè	lè	X	_	_	0	_	_	Ref=JOB_22.13
+14	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.13
+15	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=JOB_22.13
+16	láti	láti	X	_	_	0	_	_	Ref=JOB_22.13
+17	inú	inú	X	_	_	0	_	_	Ref=JOB_22.13
+18	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=JOB_22.13
+19	wá	wá	X	_	_	0	_	_	Ref=JOB_22.13
+20	bí	bí	X	_	_	0	_	_	Ref=JOB_22.13|SpaceAfter=No
+21	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.13
+
+# sent_id = JOB_22.14
+# text = Àwọ̀sánmọ̀ tí ó nípọn ni ìbora fún un, tí kò fi lè ríran; ó sì rìn nínú àyíká ọ̀run.
+1	Àwọ̀sánmọ̀	àwọ̀sánmọ̀	X	_	_	0	_	_	Ref=JOB_22.14
+2	tí	tí	X	_	_	0	_	_	Ref=JOB_22.14
+3	ó	ó	X	_	_	0	_	_	Ref=JOB_22.14
+4	nípọn	nípọn	X	_	_	0	_	_	Ref=JOB_22.14
+5	ni	ni	X	_	_	0	_	_	Ref=JOB_22.14
+6	ìbora	ìbora	X	_	_	0	_	_	Ref=JOB_22.14
+7	fún	fún	X	_	_	0	_	_	Ref=JOB_22.14
+8	un	un	X	_	_	0	_	_	Ref=JOB_22.14|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.14
+10	tí	tí	X	_	_	0	_	_	Ref=JOB_22.14
+11	kò	kò	X	_	_	0	_	_	Ref=JOB_22.14
+12	fi	fi	X	_	_	0	_	_	Ref=JOB_22.14
+13	lè	lè	X	_	_	0	_	_	Ref=JOB_22.14
+14	ríran	ríran	X	_	_	0	_	_	Ref=JOB_22.14|SpaceAfter=No
+15	;	;	PUNCT	_	_	0	punct	_	Ref=JOB_22.14
+16	ó	ó	X	_	_	0	_	_	Ref=JOB_22.14
+17	sì	sì	X	_	_	0	_	_	Ref=JOB_22.14
+18	rìn	rìn	X	_	_	0	_	_	Ref=JOB_22.14
+19	nínú	nínú	X	_	_	0	_	_	Ref=JOB_22.14
+20	àyíká	àyíká	X	_	_	0	_	_	Ref=JOB_22.14
+21	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=JOB_22.14|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.14
+
+# sent_id = JOB_22.15
+# text = Ìwọ fẹ́ rìn ìpa ọ̀nà ìgbàanì tí àwọn ènìyàn búburú tí rìn?
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.15
+2	fẹ́	fẹ́	X	_	_	0	_	_	Ref=JOB_22.15
+3	rìn	rìn	X	_	_	0	_	_	Ref=JOB_22.15
+4	ìpa	ìpa	X	_	_	0	_	_	Ref=JOB_22.15
+5	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOB_22.15
+6	ìgbàanì	ìgbàanì	X	_	_	0	_	_	Ref=JOB_22.15
+7	tí	tí	X	_	_	0	_	_	Ref=JOB_22.15
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.15
+9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_22.15
+10	búburú	búburú	X	_	_	0	_	_	Ref=JOB_22.15
+11	tí	tí	X	_	_	0	_	_	Ref=JOB_22.15
+12	rìn	rìn	X	_	_	0	_	_	Ref=JOB_22.15|SpaceAfter=No
+13	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.15
+
+# sent_id = JOB_22.16
+# text = A ké wọn lulẹ̀ kúrò nínú ayé láìpé ọjọ́ wọn; ìpilẹ̀ wọn ti dé bí odò síṣàn;
+1	A	a	X	_	_	0	_	_	Ref=JOB_22.16
+2	ké	ké	X	_	_	0	_	_	Ref=JOB_22.16
+3	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.16
+4	lulẹ̀	lulẹ̀	X	_	_	0	_	_	Ref=JOB_22.16
+5	kúrò	kúrò	X	_	_	0	_	_	Ref=JOB_22.16
+6	nínú	nínú	X	_	_	0	_	_	Ref=JOB_22.16
+7	ayé	ayé	X	_	_	0	_	_	Ref=JOB_22.16
+8	láìpé	láìpé	X	_	_	0	_	_	Ref=JOB_22.16
+9	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=JOB_22.16
+10	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.16|SpaceAfter=No
+11	;	;	PUNCT	_	_	0	punct	_	Ref=JOB_22.16
+12	ìpilẹ̀	ìpilẹ̀	X	_	_	0	_	_	Ref=JOB_22.16
+13	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.16
+14	ti	ti	X	_	_	0	_	_	Ref=JOB_22.16
+15	dé	dé	X	_	_	0	_	_	Ref=JOB_22.16
+16	bí	bí	X	_	_	0	_	_	Ref=JOB_22.16
+17	odò	odò	X	_	_	0	_	_	Ref=JOB_22.16
+18	síṣàn	síṣàn	X	_	_	0	_	_	Ref=JOB_22.16|SpaceAfter=No
+19	;	;	PUNCT	_	_	0	punct	_	Ref=JOB_22.16
+
+# sent_id = JOB_22.17
+# text = Àwọn ẹni tí ó wí fún Ọlọ́run pé, lọ kúrò lọ́dọ̀ wa! Kí ni Olódùmárè yóò ṣe fún wọn?
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.17
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=JOB_22.17
+3	tí	tí	X	_	_	0	_	_	Ref=JOB_22.17
+4	ó	ó	X	_	_	0	_	_	Ref=JOB_22.17
+5	wí	wí	X	_	_	0	_	_	Ref=JOB_22.17
+6	fún	fún	X	_	_	0	_	_	Ref=JOB_22.17
+7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.17
+8	pé	pé	X	_	_	0	_	_	Ref=JOB_22.17|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.17
+10	lọ	lọ	X	_	_	0	_	_	Ref=JOB_22.17
+11	kúrò	kúrò	X	_	_	0	_	_	Ref=JOB_22.17
+12	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=JOB_22.17
+13	wa	wa	X	_	_	0	_	_	Ref=JOB_22.17|SpaceAfter=No
+14	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_22.17
+15	Kí	kí	X	_	_	0	_	_	Ref=JOB_22.17
+16	ni	ni	X	_	_	0	_	_	Ref=JOB_22.17
+17	Olódùmárè	Olódùmárè	PROPN	_	_	0	_	_	Ref=JOB_22.17
+18	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.17
+19	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_22.17
+20	fún	fún	X	_	_	0	_	_	Ref=JOB_22.17
+21	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.17|SpaceAfter=No
+22	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_22.17
+
+# sent_id = JOB_22.18
+# text = Ṣíbẹ̀ ó fi ohun rere kún ilé wọn! Ṣùgbọ́n ìmọ̀ ènìyàn búburú jìnnà sí mi!
+1	Ṣíbẹ̀	ṣíbẹ̀	X	_	_	0	_	_	Ref=JOB_22.18
+2	ó	ó	X	_	_	0	_	_	Ref=JOB_22.18
+3	fi	fi	X	_	_	0	_	_	Ref=JOB_22.18
+4	ohun	ohun	X	_	_	0	_	_	Ref=JOB_22.18
+5	rere	rere	X	_	_	0	_	_	Ref=JOB_22.18
+6	kún	kún	X	_	_	0	_	_	Ref=JOB_22.18
+7	ilé	ilé	X	_	_	0	_	_	Ref=JOB_22.18
+8	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.18|SpaceAfter=No
+9	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_22.18
+10	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=JOB_22.18
+11	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=JOB_22.18
+12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_22.18
+13	búburú	búburú	X	_	_	0	_	_	Ref=JOB_22.18
+14	jìnnà	jìnnà	X	_	_	0	_	_	Ref=JOB_22.18
+15	sí	sí	X	_	_	0	_	_	Ref=JOB_22.18
+16	mi	mi	X	_	_	0	_	_	Ref=JOB_22.18|SpaceAfter=No
+17	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_22.18
+
+# sent_id = JOB_22.19
+# text = “Àwọn olódodo rí ìparun wọn, wọ́n sì yọ̀, àwọn aláìlẹ̀ṣẹ̀ sì fi wọ́n rẹ́rìn ín ẹlẹ́yà pé,
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOB_22.19|SpaceAfter=No
+2	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.19
+3	olódodo	olódodo	X	_	_	0	_	_	Ref=JOB_22.19
+4	rí	rí	X	_	_	0	_	_	Ref=JOB_22.19
+5	ìparun	ìparun	X	_	_	0	_	_	Ref=JOB_22.19
+6	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.19|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.19
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOB_22.19
+9	sì	sì	X	_	_	0	_	_	Ref=JOB_22.19
+10	yọ̀	yọ̀	X	_	_	0	_	_	Ref=JOB_22.19|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.19
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.19
+13	aláìlẹ̀ṣẹ̀	aláìlẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=JOB_22.19
+14	sì	sì	X	_	_	0	_	_	Ref=JOB_22.19
+15	fi	fi	X	_	_	0	_	_	Ref=JOB_22.19
+16	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOB_22.19
+17	rẹ́rìn	rẹ́rìn	X	_	_	0	_	_	Ref=JOB_22.19
+18	ín	ín	X	_	_	0	_	_	Ref=JOB_22.19
+19	ẹlẹ́yà	ẹlẹ́yà	X	_	_	0	_	_	Ref=JOB_22.19
+20	pé	pé	X	_	_	0	_	_	Ref=JOB_22.19|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.19
+
+# sent_id = JOB_22.20
+# text = Lótìítọ́ àwọn ọ̀ta wa ni a ké kúrò, iná yóò sì jó oró wọn run.
+1	Lótìítọ́	lótìítọ́	X	_	_	0	_	_	Ref=JOB_22.20
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_22.20
+3	ọ̀ta	ọ̀ta	X	_	_	0	_	_	Ref=JOB_22.20
+4	wa	wa	X	_	_	0	_	_	Ref=JOB_22.20
+5	ni	ni	X	_	_	0	_	_	Ref=JOB_22.20
+6	a	a	X	_	_	0	_	_	Ref=JOB_22.20
+7	ké	ké	X	_	_	0	_	_	Ref=JOB_22.20
+8	kúrò	kúrò	X	_	_	0	_	_	Ref=JOB_22.20|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.20
+10	iná	iná	X	_	_	0	_	_	Ref=JOB_22.20
+11	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.20
+12	sì	sì	X	_	_	0	_	_	Ref=JOB_22.20
+13	jó	jó	X	_	_	0	_	_	Ref=JOB_22.20
+14	oró	oró	X	_	_	0	_	_	Ref=JOB_22.20
+15	wọn	wọn	X	_	_	0	_	_	Ref=JOB_22.20
+16	run	run	X	_	_	0	_	_	Ref=JOB_22.20|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.20
+
+# sent_id = JOB_22.21
+# text = “Fa ara rẹ súnmọ́ Ọlọ́run, ìwọ ó sì rí àlàáfíà; Pẹ̀lú rẹ̀ nípa èyí ni rere yóò wá bá ọ.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOB_22.21|SpaceAfter=No
+2	Fa	fa	X	_	_	0	_	_	Ref=JOB_22.21
+3	ara	ara	X	_	_	0	_	_	Ref=JOB_22.21
+4	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.21
+5	súnmọ́	súnmọ́	X	_	_	0	_	_	Ref=JOB_22.21
+6	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.21|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.21
+8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.21
+9	ó	ó	X	_	_	0	_	_	Ref=JOB_22.21
+10	sì	sì	X	_	_	0	_	_	Ref=JOB_22.21
+11	rí	rí	X	_	_	0	_	_	Ref=JOB_22.21
+12	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=JOB_22.21|SpaceAfter=No
+13	;	;	PUNCT	_	_	0	punct	_	Ref=JOB_22.21
+14	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOB_22.21
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.21
+16	nípa	nípa	X	_	_	0	_	_	Ref=JOB_22.21
+17	èyí	èyí	X	_	_	0	_	_	Ref=JOB_22.21
+18	ni	ni	X	_	_	0	_	_	Ref=JOB_22.21
+19	rere	rere	X	_	_	0	_	_	Ref=JOB_22.21
+20	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.21
+21	wá	wá	X	_	_	0	_	_	Ref=JOB_22.21
+22	bá	bá	X	_	_	0	_	_	Ref=JOB_22.21
+23	ọ	ọ	X	_	_	0	_	_	Ref=JOB_22.21|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.21
+
+# sent_id = JOB_22.22
+# text = Èmi bẹ̀ ọ́, gba òfin láti ẹnu rẹ̀ wá, kí o sì tò ọ̀rọ̀ rẹ̀ sí àyà rẹ.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=JOB_22.22
+2	bẹ̀	bẹ̀	X	_	_	0	_	_	Ref=JOB_22.22
+3	ọ́	ọ́	X	_	_	0	_	_	Ref=JOB_22.22|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.22
+5	gba	gba	X	_	_	0	_	_	Ref=JOB_22.22
+6	òfin	òfin	X	_	_	0	_	_	Ref=JOB_22.22
+7	láti	láti	X	_	_	0	_	_	Ref=JOB_22.22
+8	ẹnu	ẹnu	X	_	_	0	_	_	Ref=JOB_22.22
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.22
+10	wá	wá	X	_	_	0	_	_	Ref=JOB_22.22|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.22
+12	kí	kí	X	_	_	0	_	_	Ref=JOB_22.22
+13	o	o	X	_	_	0	_	_	Ref=JOB_22.22
+14	sì	sì	X	_	_	0	_	_	Ref=JOB_22.22
+15	tò	tò	X	_	_	0	_	_	Ref=JOB_22.22
+16	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=JOB_22.22
+17	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.22
+18	sí	sí	X	_	_	0	_	_	Ref=JOB_22.22
+19	àyà	àyà	X	_	_	0	_	_	Ref=JOB_22.22
+20	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.22|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.22
+
+# sent_id = JOB_22.23
+# text = Bí ìwọ bá yípadà sọ́dọ̀ Olódùmáarè, a sì gbé ọ ró, bí ìwọ bá sì mú ẹ̀ṣẹ̀ jìnnà réré kúrò nínú àgọ́ rẹ,
+1	Bí	bí	X	_	_	0	_	_	Ref=JOB_22.23
+2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.23
+3	bá	bá	X	_	_	0	_	_	Ref=JOB_22.23
+4	yípadà	yípadà	X	_	_	0	_	_	Ref=JOB_22.23
+5	sọ́dọ̀	sọ́dọ̀	X	_	_	0	_	_	Ref=JOB_22.23
+6	Olódùmáarè	Olódùmáarè	PROPN	_	_	0	_	_	Ref=JOB_22.23|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.23
+8	a	a	X	_	_	0	_	_	Ref=JOB_22.23
+9	sì	sì	X	_	_	0	_	_	Ref=JOB_22.23
+10	gbé	gbé	X	_	_	0	_	_	Ref=JOB_22.23
+11	ọ	ọ	X	_	_	0	_	_	Ref=JOB_22.23
+12	ró	ró	X	_	_	0	_	_	Ref=JOB_22.23|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.23
+14	bí	bí	X	_	_	0	_	_	Ref=JOB_22.23
+15	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.23
+16	bá	bá	X	_	_	0	_	_	Ref=JOB_22.23
+17	sì	sì	X	_	_	0	_	_	Ref=JOB_22.23
+18	mú	mú	X	_	_	0	_	_	Ref=JOB_22.23
+19	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=JOB_22.23
+20	jìnnà	jìnnà	X	_	_	0	_	_	Ref=JOB_22.23
+21	réré	réré	X	_	_	0	_	_	Ref=JOB_22.23
+22	kúrò	kúrò	X	_	_	0	_	_	Ref=JOB_22.23
+23	nínú	nínú	X	_	_	0	_	_	Ref=JOB_22.23
+24	àgọ́	àgọ́	X	_	_	0	_	_	Ref=JOB_22.23
+25	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.23|SpaceAfter=No
+26	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.23
+
+# sent_id = JOB_22.24
+# text = Tí ìwọ bá tẹ́ wúrà dáradára sílẹ̀ lórí erùpẹ̀ àti wúrà ófiri lábẹ́ òkúta odò,
+1	Tí	tí	X	_	_	0	_	_	Ref=JOB_22.24
+2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.24
+3	bá	bá	X	_	_	0	_	_	Ref=JOB_22.24
+4	tẹ́	tẹ́	X	_	_	0	_	_	Ref=JOB_22.24
+5	wúrà	wúrà	X	_	_	0	_	_	Ref=JOB_22.24
+6	dáradára	dáradára	X	_	_	0	_	_	Ref=JOB_22.24
+7	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=JOB_22.24
+8	lórí	lórí	X	_	_	0	_	_	Ref=JOB_22.24
+9	erùpẹ̀	erùpẹ̀	X	_	_	0	_	_	Ref=JOB_22.24
+10	àti	àti	X	_	_	0	_	_	Ref=JOB_22.24
+11	wúrà	wúrà	X	_	_	0	_	_	Ref=JOB_22.24
+12	ófiri	ófiri	X	_	_	0	_	_	Ref=JOB_22.24
+13	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=JOB_22.24
+14	òkúta	òkúta	X	_	_	0	_	_	Ref=JOB_22.24
+15	odò	odò	X	_	_	0	_	_	Ref=JOB_22.24|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.24
+
+# sent_id = JOB_22.25
+# text = Nígbà náà ní Olódùmáarè yóò jẹ́ wúrà rẹ, àní yóò sì jẹ́ fàdákà fún ọ ní ọ̀pọ̀lọpọ̀.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOB_22.25
+2	náà	náà	X	_	_	0	_	_	Ref=JOB_22.25
+3	ní	ní	X	_	_	0	_	_	Ref=JOB_22.25
+4	Olódùmáarè	Olódùmáarè	PROPN	_	_	0	_	_	Ref=JOB_22.25
+5	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.25
+6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOB_22.25
+7	wúrà	wúrà	X	_	_	0	_	_	Ref=JOB_22.25
+8	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.25|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.25
+10	àní	àní	X	_	_	0	_	_	Ref=JOB_22.25
+11	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.25
+12	sì	sì	X	_	_	0	_	_	Ref=JOB_22.25
+13	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOB_22.25
+14	fàdákà	fàdákà	X	_	_	0	_	_	Ref=JOB_22.25
+15	fún	fún	X	_	_	0	_	_	Ref=JOB_22.25
+16	ọ	ọ	X	_	_	0	_	_	Ref=JOB_22.25
+17	ní	ní	X	_	_	0	_	_	Ref=JOB_22.25
+18	ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	X	_	_	0	_	_	Ref=JOB_22.25|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.25
+
+# sent_id = JOB_22.26
+# text = Lótìítọ́ nígbà náà ní ìwọ ó ní inú dídùn nínú Olódùmáarè, ìwọ ó sì gbé ojú rẹ sókè sọ́dọ̀ Ọlọ́run.
+1	Lótìítọ́	lótìítọ́	X	_	_	0	_	_	Ref=JOB_22.26
+2	nígbà	nígbà	X	_	_	0	_	_	Ref=JOB_22.26
+3	náà	náà	X	_	_	0	_	_	Ref=JOB_22.26
+4	ní	ní	X	_	_	0	_	_	Ref=JOB_22.26
+5	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.26
+6	ó	ó	X	_	_	0	_	_	Ref=JOB_22.26
+7	ní	ní	X	_	_	0	_	_	Ref=JOB_22.26
+8	inú	inú	X	_	_	0	_	_	Ref=JOB_22.26
+9	dídùn	dídùn	X	_	_	0	_	_	Ref=JOB_22.26
+10	nínú	nínú	X	_	_	0	_	_	Ref=JOB_22.26
+11	Olódùmáarè	Olódùmáarè	PROPN	_	_	0	_	_	Ref=JOB_22.26|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.26
+13	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.26
+14	ó	ó	X	_	_	0	_	_	Ref=JOB_22.26
+15	sì	sì	X	_	_	0	_	_	Ref=JOB_22.26
+16	gbé	gbé	X	_	_	0	_	_	Ref=JOB_22.26
+17	ojú	ojú	X	_	_	0	_	_	Ref=JOB_22.26
+18	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.26
+19	sókè	sókè	X	_	_	0	_	_	Ref=JOB_22.26
+20	sọ́dọ̀	sọ́dọ̀	X	_	_	0	_	_	Ref=JOB_22.26
+21	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.26|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.26
+
+# sent_id = JOB_22.27
+# text = Bí ìwọ bá gbàdúrà rẹ sọ́dọ̀ rẹ̀, yóò sì gbọ́ tìrẹ, ìwọ ó sì san ẹ̀jẹ́ rẹ.
+1	Bí	bí	X	_	_	0	_	_	Ref=JOB_22.27
+2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.27
+3	bá	bá	X	_	_	0	_	_	Ref=JOB_22.27
+4	gbàdúrà	gbàdúrà	X	_	_	0	_	_	Ref=JOB_22.27
+5	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.27
+6	sọ́dọ̀	sọ́dọ̀	X	_	_	0	_	_	Ref=JOB_22.27
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.27|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.27
+9	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.27
+10	sì	sì	X	_	_	0	_	_	Ref=JOB_22.27
+11	gbọ́	gbọ́	X	_	_	0	_	_	Ref=JOB_22.27
+12	tìrẹ	tìrẹ	X	_	_	0	_	_	Ref=JOB_22.27|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.27
+14	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.27
+15	ó	ó	X	_	_	0	_	_	Ref=JOB_22.27
+16	sì	sì	X	_	_	0	_	_	Ref=JOB_22.27
+17	san	san	X	_	_	0	_	_	Ref=JOB_22.27
+18	ẹ̀jẹ́	ẹ̀jẹ́	X	_	_	0	_	_	Ref=JOB_22.27
+19	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.27|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.27
+
+# sent_id = JOB_22.28
+# text = Ìwọ ó sì gbìmọ̀ ohun kan pẹ̀lú, yóò sì fi ìdí múlẹ̀ fún ọ; ìmọ́lẹ̀ yóò sì mọ́ sípa ọ̀nà rẹ.
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.28
+2	ó	ó	X	_	_	0	_	_	Ref=JOB_22.28
+3	sì	sì	X	_	_	0	_	_	Ref=JOB_22.28
+4	gbìmọ̀	gbìmọ̀	X	_	_	0	_	_	Ref=JOB_22.28
+5	ohun	ohun	X	_	_	0	_	_	Ref=JOB_22.28
+6	kan	kan	X	_	_	0	_	_	Ref=JOB_22.28
+7	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOB_22.28|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.28
+9	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.28
+10	sì	sì	X	_	_	0	_	_	Ref=JOB_22.28
+11	fi	fi	X	_	_	0	_	_	Ref=JOB_22.28
+12	ìdí	ìdí	X	_	_	0	_	_	Ref=JOB_22.28
+13	múlẹ̀	múlẹ̀	X	_	_	0	_	_	Ref=JOB_22.28
+14	fún	fún	X	_	_	0	_	_	Ref=JOB_22.28
+15	ọ	ọ	X	_	_	0	_	_	Ref=JOB_22.28|SpaceAfter=No
+16	;	;	PUNCT	_	_	0	punct	_	Ref=JOB_22.28
+17	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_22.28
+18	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.28
+19	sì	sì	X	_	_	0	_	_	Ref=JOB_22.28
+20	mọ́	mọ́	X	_	_	0	_	_	Ref=JOB_22.28
+21	sípa	sípa	X	_	_	0	_	_	Ref=JOB_22.28
+22	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOB_22.28
+23	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.28|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.28
+
+# sent_id = JOB_22.29
+# text = Nígbà tí ipa-ọ̀nà rẹ bá lọ sísàlẹ̀, nígbà náà ni ìwọ o wí pé, ‘Ìgbésókè ń bẹ!’ Ọlọ́run yóò sì gba onírẹ̀lẹ̀ là!
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOB_22.29
+2	tí	tí	X	_	_	0	_	_	Ref=JOB_22.29
+3	ipa	ipa	X	_	_	0	_	_	Ref=JOB_22.29|SpaceAfter=No
+4	-	-	PUNCT	_	_	0	punct	_	Ref=JOB_22.29|SpaceAfter=No
+5	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOB_22.29
+6	rẹ	rẹ	X	_	_	0	_	_	Ref=JOB_22.29
+7	bá	bá	X	_	_	0	_	_	Ref=JOB_22.29
+8	lọ	lọ	X	_	_	0	_	_	Ref=JOB_22.29
+9	sísàlẹ̀	sísàlẹ̀	X	_	_	0	_	_	Ref=JOB_22.29|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.29
+11	nígbà	nígbà	X	_	_	0	_	_	Ref=JOB_22.29
+12	náà	náà	X	_	_	0	_	_	Ref=JOB_22.29
+13	ni	ni	X	_	_	0	_	_	Ref=JOB_22.29
+14	ìwọ	ìwọ	X	_	_	0	_	_	Ref=JOB_22.29
+15	o	o	X	_	_	0	_	_	Ref=JOB_22.29
+16	wí	wí	X	_	_	0	_	_	Ref=JOB_22.29
+17	pé	pé	X	_	_	0	_	_	Ref=JOB_22.29|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.29
+19	‘	‘	PUNCT	_	_	0	punct	_	Ref=JOB_22.29|SpaceAfter=No
+20	Ìgbésókè	ìgbésókè	X	_	_	0	_	_	Ref=JOB_22.29
+21	ń	ń	X	_	_	0	_	_	Ref=JOB_22.29
+22	bẹ	bẹ	X	_	_	0	_	_	Ref=JOB_22.29|SpaceAfter=No
+23	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_22.29|SpaceAfter=No
+24	’	’	PUNCT	_	_	0	punct	_	Ref=JOB_22.29
+25	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_22.29
+26	yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.29
+27	sì	sì	X	_	_	0	_	_	Ref=JOB_22.29
+28	gba	gba	X	_	_	0	_	_	Ref=JOB_22.29
+29	onírẹ̀lẹ̀	onírẹ̀lẹ̀	X	_	_	0	_	_	Ref=JOB_22.29
+30	là	là	X	_	_	0	_	_	Ref=JOB_22.29|SpaceAfter=No
+31	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_22.29
+
+# sent_id = JOB_22.30
+# text = Yóò gba ẹni tí kì í iṣe aláìjẹ̀bi là, a ó sì gbà á nípa mímọ́ ọwọ́ rẹ̀.”
+1	Yóò	yóò	X	_	_	0	_	_	Ref=JOB_22.30
+2	gba	gba	X	_	_	0	_	_	Ref=JOB_22.30
+3	ẹni	ẹni	X	_	_	0	_	_	Ref=JOB_22.30
+4	tí	tí	X	_	_	0	_	_	Ref=JOB_22.30
+5	kì	kì	X	_	_	0	_	_	Ref=JOB_22.30
+6	í	í	X	_	_	0	_	_	Ref=JOB_22.30
+7	iṣe	iṣe	X	_	_	0	_	_	Ref=JOB_22.30
+8	aláìjẹ̀bi	aláìjẹ̀bi	X	_	_	0	_	_	Ref=JOB_22.30
+9	là	là	X	_	_	0	_	_	Ref=JOB_22.30|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_22.30
+11	a	a	X	_	_	0	_	_	Ref=JOB_22.30
+12	ó	ó	X	_	_	0	_	_	Ref=JOB_22.30
+13	sì	sì	X	_	_	0	_	_	Ref=JOB_22.30
+14	gbà	gbà	X	_	_	0	_	_	Ref=JOB_22.30
+15	á	á	X	_	_	0	_	_	Ref=JOB_22.30
+16	nípa	nípa	X	_	_	0	_	_	Ref=JOB_22.30
+17	mímọ́	mímọ́	X	_	_	0	_	_	Ref=JOB_22.30
+18	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=JOB_22.30
+19	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_22.30|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_22.30|SpaceAfter=No
+21	”	”	PUNCT	_	_	0	punct	_	Ref=JOB_22.30
+

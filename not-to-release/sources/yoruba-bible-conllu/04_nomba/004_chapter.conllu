@@ -1,0 +1,1433 @@
+# source = Bibeli Mimọ, Nọ́ḿbà, Chapter 4
+# newdoc id = NUM_4
+# sent_id = NUM_4.1
+# text = Olúwa sọ fún Mósè àti Árónì pé:
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.1
+2	sọ	sọ	X	_	_	0	_	_	Ref=NUM_4.1
+3	fún	fún	X	_	_	0	_	_	Ref=NUM_4.1
+4	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.1
+5	àti	àti	X	_	_	0	_	_	Ref=NUM_4.1
+6	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.1
+7	pé	pé	X	_	_	0	_	_	Ref=NUM_4.1|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_4.1
+
+# sent_id = NUM_4.2
+# text = “Ka iye àwọn ọmọ Kóhátì láàrin àwọn ọmọ Léfì nípa ilé baba wọn àti ìdílé wọn.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.2|SpaceAfter=No
+2	Ka	ka	X	_	_	0	_	_	Ref=NUM_4.2
+3	iye	iye	X	_	_	0	_	_	Ref=NUM_4.2
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.2
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.2
+6	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.2
+7	láàrin	láàrin	X	_	_	0	_	_	Ref=NUM_4.2
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.2
+9	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.2
+10	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NUM_4.2
+11	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.2
+12	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.2
+13	baba	baba	X	_	_	0	_	_	Ref=NUM_4.2
+14	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.2
+15	àti	àti	X	_	_	0	_	_	Ref=NUM_4.2
+16	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.2
+17	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.2|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.2
+
+# sent_id = NUM_4.3
+# text = Ka gbogbo ọkùnrin láti ọmọ ọgbọ̀n ọdún títí dé àádọ́ta ọdún gbogbo àwọn tó ń ṣiṣẹ́ nínú Àgọ́ Ìpàdé.
+1	Ka	ka	X	_	_	0	_	_	Ref=NUM_4.3
+2	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.3
+3	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=NUM_4.3
+4	láti	láti	X	_	_	0	_	_	Ref=NUM_4.3
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.3
+6	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.3
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.3
+8	títí	títí	X	_	_	0	_	_	Ref=NUM_4.3
+9	dé	dé	X	_	_	0	_	_	Ref=NUM_4.3
+10	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.3
+11	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.3
+12	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.3
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.3
+14	tó	tó	X	_	_	0	_	_	Ref=NUM_4.3
+15	ń	ń	X	_	_	0	_	_	Ref=NUM_4.3
+16	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.3
+17	nínú	nínú	X	_	_	0	_	_	Ref=NUM_4.3
+18	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.3
+19	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.3|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.3
+
+# sent_id = NUM_4.4
+# text = “Wọ̀nyí ni iṣẹ́ àwọn ọmọ Kóhátì, láti tọ́jú àwọn ohun èlò mímọ́ jùlọ.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.4|SpaceAfter=No
+2	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_4.4
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_4.4
+4	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.4
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.4
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.4
+7	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.4|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.4
+9	láti	láti	X	_	_	0	_	_	Ref=NUM_4.4
+10	tọ́jú	tọ́jú	X	_	_	0	_	_	Ref=NUM_4.4
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.4
+12	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.4
+13	èlò	èlò	X	_	_	0	_	_	Ref=NUM_4.4
+14	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.4
+15	jùlọ	jùlọ	X	_	_	0	_	_	Ref=NUM_4.4|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.4
+
+# sent_id = NUM_4.5
+# text = Nígbà tí àgọ́ yóò bá tẹ̀ṣíwájú, Árónì àti àwọn ọmọ rẹ̀ yóò wọ inú rẹ̀, wọn yóò sí aṣọ ìbòrí rẹ̀, wọn yóò sì fi bo àpótí ẹ̀rí.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_4.5
+2	tí	tí	X	_	_	0	_	_	Ref=NUM_4.5
+3	àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.5
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.5
+5	bá	bá	X	_	_	0	_	_	Ref=NUM_4.5
+6	tẹ̀ṣíwájú	tẹ̀ṣíwájú	X	_	_	0	_	_	Ref=NUM_4.5|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.5
+8	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.5
+9	àti	àti	X	_	_	0	_	_	Ref=NUM_4.5
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.5
+11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.5
+12	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.5
+13	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.5
+14	wọ	wọ	X	_	_	0	_	_	Ref=NUM_4.5
+15	inú	inú	X	_	_	0	_	_	Ref=NUM_4.5
+16	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.5|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.5
+18	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.5
+19	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.5
+20	sí	sí	X	_	_	0	_	_	Ref=NUM_4.5
+21	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.5
+22	ìbòrí	ìbòrí	X	_	_	0	_	_	Ref=NUM_4.5
+23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.5|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.5
+25	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.5
+26	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.5
+27	sì	sì	X	_	_	0	_	_	Ref=NUM_4.5
+28	fi	fi	X	_	_	0	_	_	Ref=NUM_4.5
+29	bo	bo	X	_	_	0	_	_	Ref=NUM_4.5
+30	àpótí	àpótí	X	_	_	0	_	_	Ref=NUM_4.5
+31	ẹ̀rí	ẹ̀rí	X	_	_	0	_	_	Ref=NUM_4.5|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.5
+
+# sent_id = NUM_4.6
+# text = Wọn yóò sì fi awọ ewúrẹ́ bò ó, lórí awọ ewúrẹ́ yìí ni wọn ó tẹ̀ bọ ààyè rẹ̀.
+1	Wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.6
+2	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.6
+3	sì	sì	X	_	_	0	_	_	Ref=NUM_4.6
+4	fi	fi	X	_	_	0	_	_	Ref=NUM_4.6
+5	awọ	awọ	X	_	_	0	_	_	Ref=NUM_4.6
+6	ewúrẹ́	ewúrẹ́	X	_	_	0	_	_	Ref=NUM_4.6
+7	bò	bò	X	_	_	0	_	_	Ref=NUM_4.6
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_4.6|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.6
+10	lórí	lórí	X	_	_	0	_	_	Ref=NUM_4.6
+11	awọ	awọ	X	_	_	0	_	_	Ref=NUM_4.6
+12	ewúrẹ́	ewúrẹ́	X	_	_	0	_	_	Ref=NUM_4.6
+13	yìí	yìí	X	_	_	0	_	_	Ref=NUM_4.6
+14	ni	ni	X	_	_	0	_	_	Ref=NUM_4.6
+15	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.6
+16	ó	ó	X	_	_	0	_	_	Ref=NUM_4.6
+17	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=NUM_4.6
+18	bọ	bọ	X	_	_	0	_	_	Ref=NUM_4.6
+19	ààyè	ààyè	X	_	_	0	_	_	Ref=NUM_4.6
+20	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.6|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.6
+
+# sent_id = NUM_4.7
+# text = Lórí tabilì ìfihàn ni kí wọn ó na aṣọ aláró kan sí, wọn ó sì kó àwọn àwo, páànù, àwokòtò àti ìgò fún ọrẹ ohun mímu; àkàrà tó sì máa ń wà níbẹ̀ ní gbogbo ìgbà náà gbọ́dọ̀ wà níbẹ̀.
+1	Lórí	lórí	X	_	_	0	_	_	Ref=NUM_4.7
+2	tabilì	tabilì	X	_	_	0	_	_	Ref=NUM_4.7
+3	ìfihàn	ìfihàn	X	_	_	0	_	_	Ref=NUM_4.7
+4	ni	ni	X	_	_	0	_	_	Ref=NUM_4.7
+5	kí	kí	X	_	_	0	_	_	Ref=NUM_4.7
+6	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.7
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_4.7
+8	na	na	X	_	_	0	_	_	Ref=NUM_4.7
+9	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.7
+10	aláró	aláró	X	_	_	0	_	_	Ref=NUM_4.7
+11	kan	kan	X	_	_	0	_	_	Ref=NUM_4.7
+12	sí	sí	X	_	_	0	_	_	Ref=NUM_4.7|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.7
+14	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.7
+15	ó	ó	X	_	_	0	_	_	Ref=NUM_4.7
+16	sì	sì	X	_	_	0	_	_	Ref=NUM_4.7
+17	kó	kó	X	_	_	0	_	_	Ref=NUM_4.7
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.7
+19	àwo	àwo	X	_	_	0	_	_	Ref=NUM_4.7|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.7
+21	páànù	páànù	X	_	_	0	_	_	Ref=NUM_4.7|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.7
+23	àwokòtò	àwokòtò	X	_	_	0	_	_	Ref=NUM_4.7
+24	àti	àti	X	_	_	0	_	_	Ref=NUM_4.7
+25	ìgò	ìgò	X	_	_	0	_	_	Ref=NUM_4.7
+26	fún	fún	X	_	_	0	_	_	Ref=NUM_4.7
+27	ọrẹ	ọrẹ	X	_	_	0	_	_	Ref=NUM_4.7
+28	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.7
+29	mímu	mímu	X	_	_	0	_	_	Ref=NUM_4.7|SpaceAfter=No
+30	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_4.7
+31	àkàrà	àkàrà	X	_	_	0	_	_	Ref=NUM_4.7
+32	tó	tó	X	_	_	0	_	_	Ref=NUM_4.7
+33	sì	sì	X	_	_	0	_	_	Ref=NUM_4.7
+34	máa	máa	X	_	_	0	_	_	Ref=NUM_4.7
+35	ń	ń	X	_	_	0	_	_	Ref=NUM_4.7
+36	wà	wà	X	_	_	0	_	_	Ref=NUM_4.7
+37	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=NUM_4.7
+38	ní	ní	X	_	_	0	_	_	Ref=NUM_4.7
+39	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.7
+40	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NUM_4.7
+41	náà	náà	X	_	_	0	_	_	Ref=NUM_4.7
+42	gbọ́dọ̀	gbọ́dọ̀	X	_	_	0	_	_	Ref=NUM_4.7
+43	wà	wà	X	_	_	0	_	_	Ref=NUM_4.7
+44	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=NUM_4.7|SpaceAfter=No
+45	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.7
+
+# sent_id = NUM_4.8
+# text = Lórí gbogbo nǹkan wọ̀nyí ni wọn yóò da, wọn ó tún fi awọ ewúrẹ́ bò ó, wọn ó sì fi òpó rẹ̀ bọ ààyè rẹ̀.
+1	Lórí	lórí	X	_	_	0	_	_	Ref=NUM_4.8
+2	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.8
+3	nǹkan	nǹkan	X	_	_	0	_	_	Ref=NUM_4.8
+4	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_4.8
+5	ni	ni	X	_	_	0	_	_	Ref=NUM_4.8
+6	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.8
+7	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.8
+8	da	da	X	_	_	0	_	_	Ref=NUM_4.8|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.8
+10	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.8
+11	ó	ó	X	_	_	0	_	_	Ref=NUM_4.8
+12	tún	tún	X	_	_	0	_	_	Ref=NUM_4.8
+13	fi	fi	X	_	_	0	_	_	Ref=NUM_4.8
+14	awọ	awọ	X	_	_	0	_	_	Ref=NUM_4.8
+15	ewúrẹ́	ewúrẹ́	X	_	_	0	_	_	Ref=NUM_4.8
+16	bò	bò	X	_	_	0	_	_	Ref=NUM_4.8
+17	ó	ó	X	_	_	0	_	_	Ref=NUM_4.8|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.8
+19	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.8
+20	ó	ó	X	_	_	0	_	_	Ref=NUM_4.8
+21	sì	sì	X	_	_	0	_	_	Ref=NUM_4.8
+22	fi	fi	X	_	_	0	_	_	Ref=NUM_4.8
+23	òpó	òpó	X	_	_	0	_	_	Ref=NUM_4.8
+24	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.8
+25	bọ	bọ	X	_	_	0	_	_	Ref=NUM_4.8
+26	ààyè	ààyè	X	_	_	0	_	_	Ref=NUM_4.8
+27	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.8|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.8
+
+# sent_id = NUM_4.9
+# text = “Kí wọn kí ó fi aṣọ aláwọ̀ búlù bọ ọ̀pá fìtílà àti fìtílà rẹ̀, àti àwo ìkó ẹ̀mu sí, àti gbogbo ohun èlò òróró rẹ̀, èyí tí wọ́n fi ń ṣe iṣẹ́ rẹ̀.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.9|SpaceAfter=No
+2	Kí	kí	X	_	_	0	_	_	Ref=NUM_4.9
+3	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.9
+4	kí	kí	X	_	_	0	_	_	Ref=NUM_4.9
+5	ó	ó	X	_	_	0	_	_	Ref=NUM_4.9
+6	fi	fi	X	_	_	0	_	_	Ref=NUM_4.9
+7	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.9
+8	aláwọ̀	aláwọ̀	X	_	_	0	_	_	Ref=NUM_4.9
+9	búlù	búlù	X	_	_	0	_	_	Ref=NUM_4.9
+10	bọ	bọ	X	_	_	0	_	_	Ref=NUM_4.9
+11	ọ̀pá	ọ̀pá	X	_	_	0	_	_	Ref=NUM_4.9
+12	fìtílà	fìtílà	X	_	_	0	_	_	Ref=NUM_4.9
+13	àti	àti	X	_	_	0	_	_	Ref=NUM_4.9
+14	fìtílà	fìtílà	X	_	_	0	_	_	Ref=NUM_4.9
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.9|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.9
+17	àti	àti	X	_	_	0	_	_	Ref=NUM_4.9
+18	àwo	àwo	X	_	_	0	_	_	Ref=NUM_4.9
+19	ìkó	ìkó	X	_	_	0	_	_	Ref=NUM_4.9
+20	ẹ̀mu	ẹ̀mu	X	_	_	0	_	_	Ref=NUM_4.9
+21	sí	sí	X	_	_	0	_	_	Ref=NUM_4.9|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.9
+23	àti	àti	X	_	_	0	_	_	Ref=NUM_4.9
+24	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.9
+25	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.9
+26	èlò	èlò	X	_	_	0	_	_	Ref=NUM_4.9
+27	òróró	òróró	X	_	_	0	_	_	Ref=NUM_4.9
+28	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.9|SpaceAfter=No
+29	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.9
+30	èyí	èyí	X	_	_	0	_	_	Ref=NUM_4.9
+31	tí	tí	X	_	_	0	_	_	Ref=NUM_4.9
+32	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.9
+33	fi	fi	X	_	_	0	_	_	Ref=NUM_4.9
+34	ń	ń	X	_	_	0	_	_	Ref=NUM_4.9
+35	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.9
+36	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.9
+37	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.9|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.9
+
+# sent_id = NUM_4.10
+# text = Kí wọn ó fi awọ ẹran yí fìtílà àti gbogbo ohun èlò rẹ, kí wọn kí ó sì gbé e lé orí férémù tí wọn yóò fi gbé e.
+1	Kí	kí	X	_	_	0	_	_	Ref=NUM_4.10
+2	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.10
+3	ó	ó	X	_	_	0	_	_	Ref=NUM_4.10
+4	fi	fi	X	_	_	0	_	_	Ref=NUM_4.10
+5	awọ	awọ	X	_	_	0	_	_	Ref=NUM_4.10
+6	ẹran	ẹran	X	_	_	0	_	_	Ref=NUM_4.10
+7	yí	yí	X	_	_	0	_	_	Ref=NUM_4.10
+8	fìtílà	fìtílà	X	_	_	0	_	_	Ref=NUM_4.10
+9	àti	àti	X	_	_	0	_	_	Ref=NUM_4.10
+10	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.10
+11	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.10
+12	èlò	èlò	X	_	_	0	_	_	Ref=NUM_4.10
+13	rẹ	rẹ	X	_	_	0	_	_	Ref=NUM_4.10|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.10
+15	kí	kí	X	_	_	0	_	_	Ref=NUM_4.10
+16	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.10
+17	kí	kí	X	_	_	0	_	_	Ref=NUM_4.10
+18	ó	ó	X	_	_	0	_	_	Ref=NUM_4.10
+19	sì	sì	X	_	_	0	_	_	Ref=NUM_4.10
+20	gbé	gbé	X	_	_	0	_	_	Ref=NUM_4.10
+21	e	e	X	_	_	0	_	_	Ref=NUM_4.10
+22	lé	lé	X	_	_	0	_	_	Ref=NUM_4.10
+23	orí	orí	X	_	_	0	_	_	Ref=NUM_4.10
+24	férémù	férémù	X	_	_	0	_	_	Ref=NUM_4.10
+25	tí	tí	X	_	_	0	_	_	Ref=NUM_4.10
+26	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.10
+27	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.10
+28	fi	fi	X	_	_	0	_	_	Ref=NUM_4.10
+29	gbé	gbé	X	_	_	0	_	_	Ref=NUM_4.10
+30	e	e	X	_	_	0	_	_	Ref=NUM_4.10|SpaceAfter=No
+31	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.10
+
+# sent_id = NUM_4.11
+# text = “Ní orí pẹpẹ wúrà ni kí wọn ó tẹ́ aṣọ aláró kan sí, wọn yóò sì fi bò ó, kí wọ́n sì fi òpó rẹ̀ bọ ààyè rẹ̀.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.11|SpaceAfter=No
+2	Ní	ní	X	_	_	0	_	_	Ref=NUM_4.11
+3	orí	orí	X	_	_	0	_	_	Ref=NUM_4.11
+4	pẹpẹ	pẹpẹ	X	_	_	0	_	_	Ref=NUM_4.11
+5	wúrà	wúrà	X	_	_	0	_	_	Ref=NUM_4.11
+6	ni	ni	X	_	_	0	_	_	Ref=NUM_4.11
+7	kí	kí	X	_	_	0	_	_	Ref=NUM_4.11
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.11
+9	ó	ó	X	_	_	0	_	_	Ref=NUM_4.11
+10	tẹ́	tẹ́	X	_	_	0	_	_	Ref=NUM_4.11
+11	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.11
+12	aláró	aláró	X	_	_	0	_	_	Ref=NUM_4.11
+13	kan	kan	X	_	_	0	_	_	Ref=NUM_4.11
+14	sí	sí	X	_	_	0	_	_	Ref=NUM_4.11|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.11
+16	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.11
+17	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.11
+18	sì	sì	X	_	_	0	_	_	Ref=NUM_4.11
+19	fi	fi	X	_	_	0	_	_	Ref=NUM_4.11
+20	bò	bò	X	_	_	0	_	_	Ref=NUM_4.11
+21	ó	ó	X	_	_	0	_	_	Ref=NUM_4.11|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.11
+23	kí	kí	X	_	_	0	_	_	Ref=NUM_4.11
+24	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.11
+25	sì	sì	X	_	_	0	_	_	Ref=NUM_4.11
+26	fi	fi	X	_	_	0	_	_	Ref=NUM_4.11
+27	òpó	òpó	X	_	_	0	_	_	Ref=NUM_4.11
+28	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.11
+29	bọ	bọ	X	_	_	0	_	_	Ref=NUM_4.11
+30	ààyè	ààyè	X	_	_	0	_	_	Ref=NUM_4.11
+31	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.11|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.11
+
+# sent_id = NUM_4.12
+# text = “Kí wọn kó gbogbo ohun èlò tí wọ́n ń lò fún iṣẹ́ ìsìn ní ibi mímọ́, kí wọn ó fi aṣọ aláwọ̀ búlúù yìí, kí wọn ó sì fi bò ó, kí wọn ó sì fi gbé wọn ka orí férémù.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.12|SpaceAfter=No
+2	Kí	kí	X	_	_	0	_	_	Ref=NUM_4.12
+3	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.12
+4	kó	kó	X	_	_	0	_	_	Ref=NUM_4.12
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.12
+6	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.12
+7	èlò	èlò	X	_	_	0	_	_	Ref=NUM_4.12
+8	tí	tí	X	_	_	0	_	_	Ref=NUM_4.12
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.12
+10	ń	ń	X	_	_	0	_	_	Ref=NUM_4.12
+11	lò	lò	X	_	_	0	_	_	Ref=NUM_4.12
+12	fún	fún	X	_	_	0	_	_	Ref=NUM_4.12
+13	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.12
+14	ìsìn	ìsìn	X	_	_	0	_	_	Ref=NUM_4.12
+15	ní	ní	X	_	_	0	_	_	Ref=NUM_4.12
+16	ibi	ibi	X	_	_	0	_	_	Ref=NUM_4.12
+17	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.12|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.12
+19	kí	kí	X	_	_	0	_	_	Ref=NUM_4.12
+20	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.12
+21	ó	ó	X	_	_	0	_	_	Ref=NUM_4.12
+22	fi	fi	X	_	_	0	_	_	Ref=NUM_4.12
+23	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.12
+24	aláwọ̀	aláwọ̀	X	_	_	0	_	_	Ref=NUM_4.12
+25	búlúù	búlúù	X	_	_	0	_	_	Ref=NUM_4.12
+26	yìí	yìí	X	_	_	0	_	_	Ref=NUM_4.12|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.12
+28	kí	kí	X	_	_	0	_	_	Ref=NUM_4.12
+29	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.12
+30	ó	ó	X	_	_	0	_	_	Ref=NUM_4.12
+31	sì	sì	X	_	_	0	_	_	Ref=NUM_4.12
+32	fi	fi	X	_	_	0	_	_	Ref=NUM_4.12
+33	bò	bò	X	_	_	0	_	_	Ref=NUM_4.12
+34	ó	ó	X	_	_	0	_	_	Ref=NUM_4.12|SpaceAfter=No
+35	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.12
+36	kí	kí	X	_	_	0	_	_	Ref=NUM_4.12
+37	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.12
+38	ó	ó	X	_	_	0	_	_	Ref=NUM_4.12
+39	sì	sì	X	_	_	0	_	_	Ref=NUM_4.12
+40	fi	fi	X	_	_	0	_	_	Ref=NUM_4.12
+41	gbé	gbé	X	_	_	0	_	_	Ref=NUM_4.12
+42	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.12
+43	ka	ka	X	_	_	0	_	_	Ref=NUM_4.12
+44	orí	orí	X	_	_	0	_	_	Ref=NUM_4.12
+45	férémù	férémù	X	_	_	0	_	_	Ref=NUM_4.12|SpaceAfter=No
+46	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.12
+
+# sent_id = NUM_4.13
+# text = “Kí wọn ó kó eérú kúrò lórí pẹpẹ idẹ, kí wọn ó sì tẹ́ aṣọ aláwọ̀ àlùkò lé e lórí.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.13|SpaceAfter=No
+2	Kí	kí	X	_	_	0	_	_	Ref=NUM_4.13
+3	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.13
+4	ó	ó	X	_	_	0	_	_	Ref=NUM_4.13
+5	kó	kó	X	_	_	0	_	_	Ref=NUM_4.13
+6	eérú	eérú	X	_	_	0	_	_	Ref=NUM_4.13
+7	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_4.13
+8	lórí	lórí	X	_	_	0	_	_	Ref=NUM_4.13
+9	pẹpẹ	pẹpẹ	X	_	_	0	_	_	Ref=NUM_4.13
+10	idẹ	idẹ	X	_	_	0	_	_	Ref=NUM_4.13|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.13
+12	kí	kí	X	_	_	0	_	_	Ref=NUM_4.13
+13	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.13
+14	ó	ó	X	_	_	0	_	_	Ref=NUM_4.13
+15	sì	sì	X	_	_	0	_	_	Ref=NUM_4.13
+16	tẹ́	tẹ́	X	_	_	0	_	_	Ref=NUM_4.13
+17	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.13
+18	aláwọ̀	aláwọ̀	X	_	_	0	_	_	Ref=NUM_4.13
+19	àlùkò	àlùkò	X	_	_	0	_	_	Ref=NUM_4.13
+20	lé	lé	X	_	_	0	_	_	Ref=NUM_4.13
+21	e	e	X	_	_	0	_	_	Ref=NUM_4.13
+22	lórí	lórí	X	_	_	0	_	_	Ref=NUM_4.13|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.13
+
+# sent_id = NUM_4.14
+# text = Nígbà náà ni kí wọn ó kó gbogbo ohun èèlò fún iṣẹ́ ìsìn níbi pẹpẹ, títí dórí àwo iná, fọ́ọ̀kì ẹran, ọkọ́ eérú àti àwo kòtò. Kí wọn ó fi àwọ ewúrẹ́ bo gbogbo rẹ̀, kí wọn ó sì fi òpo rẹ̀ bọ ààyè rẹ̀.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_4.14
+2	náà	náà	X	_	_	0	_	_	Ref=NUM_4.14
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_4.14
+4	kí	kí	X	_	_	0	_	_	Ref=NUM_4.14
+5	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.14
+6	ó	ó	X	_	_	0	_	_	Ref=NUM_4.14
+7	kó	kó	X	_	_	0	_	_	Ref=NUM_4.14
+8	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.14
+9	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.14
+10	èèlò	èèlò	X	_	_	0	_	_	Ref=NUM_4.14
+11	fún	fún	X	_	_	0	_	_	Ref=NUM_4.14
+12	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.14
+13	ìsìn	ìsìn	X	_	_	0	_	_	Ref=NUM_4.14
+14	níbi	níbi	X	_	_	0	_	_	Ref=NUM_4.14
+15	pẹpẹ	pẹpẹ	X	_	_	0	_	_	Ref=NUM_4.14|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.14
+17	títí	títí	X	_	_	0	_	_	Ref=NUM_4.14
+18	dórí	dórí	X	_	_	0	_	_	Ref=NUM_4.14
+19	àwo	àwo	X	_	_	0	_	_	Ref=NUM_4.14
+20	iná	iná	X	_	_	0	_	_	Ref=NUM_4.14|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.14
+22	fọ́ọ̀kì	fọ́ọ̀kì	X	_	_	0	_	_	Ref=NUM_4.14
+23	ẹran	ẹran	X	_	_	0	_	_	Ref=NUM_4.14|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.14
+25	ọkọ́	ọkọ́	X	_	_	0	_	_	Ref=NUM_4.14
+26	eérú	eérú	X	_	_	0	_	_	Ref=NUM_4.14
+27	àti	àti	X	_	_	0	_	_	Ref=NUM_4.14
+28	àwo	àwo	X	_	_	0	_	_	Ref=NUM_4.14
+29	kòtò	kòtò	X	_	_	0	_	_	Ref=NUM_4.14|SpaceAfter=No
+30	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.14
+31	Kí	kí	X	_	_	0	_	_	Ref=NUM_4.14
+32	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.14
+33	ó	ó	X	_	_	0	_	_	Ref=NUM_4.14
+34	fi	fi	X	_	_	0	_	_	Ref=NUM_4.14
+35	àwọ	àwọ	X	_	_	0	_	_	Ref=NUM_4.14
+36	ewúrẹ́	ewúrẹ́	X	_	_	0	_	_	Ref=NUM_4.14
+37	bo	bo	X	_	_	0	_	_	Ref=NUM_4.14
+38	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.14
+39	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.14|SpaceAfter=No
+40	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.14
+41	kí	kí	X	_	_	0	_	_	Ref=NUM_4.14
+42	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.14
+43	ó	ó	X	_	_	0	_	_	Ref=NUM_4.14
+44	sì	sì	X	_	_	0	_	_	Ref=NUM_4.14
+45	fi	fi	X	_	_	0	_	_	Ref=NUM_4.14
+46	òpo	òpo	X	_	_	0	_	_	Ref=NUM_4.14
+47	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.14
+48	bọ	bọ	X	_	_	0	_	_	Ref=NUM_4.14
+49	ààyè	ààyè	X	_	_	0	_	_	Ref=NUM_4.14
+50	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.14|SpaceAfter=No
+51	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.14
+
+# sent_id = NUM_4.15
+# text = “Lẹ́yìn tí Árónì àti àwọn ọmọ rẹ̀ ti parí bíbo ibi mímọ́ àti gbogbo ohun èèlò ibi mímọ́, nígbà tí àgọ́ bá sì ṣetán láti tẹ̀ṣíwájú, kí àwọn ọmọ Kóhátì bọ́ ṣíwájú láti gbé e, ṣùgbọ́n wọn kò gbọdọ̀ fọwọ́ kan ohun mímọ́ kankan, bí wọ́n bá ṣe bẹ́ẹ̀ wọn ó kú. Àwọn ọmọ Kóhátì ni yóò gbé gbogbo ohun tó wà nínú Àgọ́ Ìpàdé.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.15|SpaceAfter=No
+2	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=NUM_4.15
+3	tí	tí	X	_	_	0	_	_	Ref=NUM_4.15
+4	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.15
+5	àti	àti	X	_	_	0	_	_	Ref=NUM_4.15
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.15
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.15
+8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.15
+9	ti	ti	X	_	_	0	_	_	Ref=NUM_4.15
+10	parí	parí	X	_	_	0	_	_	Ref=NUM_4.15
+11	bíbo	bíbo	X	_	_	0	_	_	Ref=NUM_4.15
+12	ibi	ibi	X	_	_	0	_	_	Ref=NUM_4.15
+13	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.15
+14	àti	àti	X	_	_	0	_	_	Ref=NUM_4.15
+15	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.15
+16	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.15
+17	èèlò	èèlò	X	_	_	0	_	_	Ref=NUM_4.15
+18	ibi	ibi	X	_	_	0	_	_	Ref=NUM_4.15
+19	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.15|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.15
+21	nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_4.15
+22	tí	tí	X	_	_	0	_	_	Ref=NUM_4.15
+23	àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.15
+24	bá	bá	X	_	_	0	_	_	Ref=NUM_4.15
+25	sì	sì	X	_	_	0	_	_	Ref=NUM_4.15
+26	ṣetán	ṣetán	X	_	_	0	_	_	Ref=NUM_4.15
+27	láti	láti	X	_	_	0	_	_	Ref=NUM_4.15
+28	tẹ̀ṣíwájú	tẹ̀ṣíwájú	X	_	_	0	_	_	Ref=NUM_4.15|SpaceAfter=No
+29	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.15
+30	kí	kí	X	_	_	0	_	_	Ref=NUM_4.15
+31	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.15
+32	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.15
+33	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.15
+34	bọ́	bọ́	X	_	_	0	_	_	Ref=NUM_4.15
+35	ṣíwájú	ṣíwájú	X	_	_	0	_	_	Ref=NUM_4.15
+36	láti	láti	X	_	_	0	_	_	Ref=NUM_4.15
+37	gbé	gbé	X	_	_	0	_	_	Ref=NUM_4.15
+38	e	e	X	_	_	0	_	_	Ref=NUM_4.15|SpaceAfter=No
+39	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.15
+40	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=NUM_4.15
+41	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.15
+42	kò	kò	X	_	_	0	_	_	Ref=NUM_4.15
+43	gbọdọ̀	gbọdọ̀	X	_	_	0	_	_	Ref=NUM_4.15
+44	fọwọ́	fọwọ́	X	_	_	0	_	_	Ref=NUM_4.15
+45	kan	kan	X	_	_	0	_	_	Ref=NUM_4.15
+46	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.15
+47	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.15
+48	kankan	kankan	X	_	_	0	_	_	Ref=NUM_4.15|SpaceAfter=No
+49	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.15
+50	bí	bí	X	_	_	0	_	_	Ref=NUM_4.15
+51	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.15
+52	bá	bá	X	_	_	0	_	_	Ref=NUM_4.15
+53	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.15
+54	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=NUM_4.15
+55	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.15
+56	ó	ó	X	_	_	0	_	_	Ref=NUM_4.15
+57	kú	kú	X	_	_	0	_	_	Ref=NUM_4.15|SpaceAfter=No
+58	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.15
+59	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.15
+60	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.15
+61	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.15
+62	ni	ni	X	_	_	0	_	_	Ref=NUM_4.15
+63	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.15
+64	gbé	gbé	X	_	_	0	_	_	Ref=NUM_4.15
+65	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.15
+66	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.15
+67	tó	tó	X	_	_	0	_	_	Ref=NUM_4.15
+68	wà	wà	X	_	_	0	_	_	Ref=NUM_4.15
+69	nínú	nínú	X	_	_	0	_	_	Ref=NUM_4.15
+70	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.15
+71	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.15|SpaceAfter=No
+72	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.15
+
+# sent_id = NUM_4.16
+# text = “Iṣẹ́ Élíásárì ọmọ Árónì tí í ṣe àlùfáà ni ṣíṣe àmójútó òróró fìtílà, tùràrí dídùn, ẹbọ ohun jíjẹ ìgbà gbogbo àti òróró ìtasórí: Kí ó jẹ́ alábojútó gbogbo ohun tó jẹ mọ́ àgọ́ àti gbogbo ohun tó wà nínú rẹ̀, pẹ̀lú gbogbo ohun èèlò ibi mímọ́.”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.16|SpaceAfter=No
+2	Iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.16
+3	Élíásárì	Élíásárì	PROPN	_	_	0	_	_	Ref=NUM_4.16
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.16
+5	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.16
+6	tí	tí	X	_	_	0	_	_	Ref=NUM_4.16
+7	í	í	X	_	_	0	_	_	Ref=NUM_4.16
+8	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.16
+9	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NUM_4.16
+10	ni	ni	X	_	_	0	_	_	Ref=NUM_4.16
+11	ṣíṣe	ṣíṣe	X	_	_	0	_	_	Ref=NUM_4.16
+12	àmójútó	àmójútó	X	_	_	0	_	_	Ref=NUM_4.16
+13	òróró	òróró	X	_	_	0	_	_	Ref=NUM_4.16
+14	fìtílà	fìtílà	X	_	_	0	_	_	Ref=NUM_4.16|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.16
+16	tùràrí	tùràrí	X	_	_	0	_	_	Ref=NUM_4.16
+17	dídùn	dídùn	X	_	_	0	_	_	Ref=NUM_4.16|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.16
+19	ẹbọ	ẹbọ	X	_	_	0	_	_	Ref=NUM_4.16
+20	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.16
+21	jíjẹ	jíjẹ	X	_	_	0	_	_	Ref=NUM_4.16
+22	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NUM_4.16
+23	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.16
+24	àti	àti	X	_	_	0	_	_	Ref=NUM_4.16
+25	òróró	òróró	X	_	_	0	_	_	Ref=NUM_4.16
+26	ìtasórí	ìtasórí	X	_	_	0	_	_	Ref=NUM_4.16|SpaceAfter=No
+27	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_4.16
+28	Kí	kí	X	_	_	0	_	_	Ref=NUM_4.16
+29	ó	ó	X	_	_	0	_	_	Ref=NUM_4.16
+30	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_4.16
+31	alábojútó	alábojútó	X	_	_	0	_	_	Ref=NUM_4.16
+32	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.16
+33	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.16
+34	tó	tó	X	_	_	0	_	_	Ref=NUM_4.16
+35	jẹ	jẹ	X	_	_	0	_	_	Ref=NUM_4.16
+36	mọ́	mọ́	X	_	_	0	_	_	Ref=NUM_4.16
+37	àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.16
+38	àti	àti	X	_	_	0	_	_	Ref=NUM_4.16
+39	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.16
+40	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.16
+41	tó	tó	X	_	_	0	_	_	Ref=NUM_4.16
+42	wà	wà	X	_	_	0	_	_	Ref=NUM_4.16
+43	nínú	nínú	X	_	_	0	_	_	Ref=NUM_4.16
+44	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.16|SpaceAfter=No
+45	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.16
+46	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_4.16
+47	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.16
+48	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.16
+49	èèlò	èèlò	X	_	_	0	_	_	Ref=NUM_4.16
+50	ibi	ibi	X	_	_	0	_	_	Ref=NUM_4.16
+51	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.16|SpaceAfter=No
+52	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.16|SpaceAfter=No
+53	”	”	PUNCT	_	_	0	punct	_	Ref=NUM_4.16
+
+# sent_id = NUM_4.17
+# text = Olúwa sọ fún Mósè àti Árónì pé,
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.17
+2	sọ	sọ	X	_	_	0	_	_	Ref=NUM_4.17
+3	fún	fún	X	_	_	0	_	_	Ref=NUM_4.17
+4	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.17
+5	àti	àti	X	_	_	0	_	_	Ref=NUM_4.17
+6	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.17
+7	pé	pé	X	_	_	0	_	_	Ref=NUM_4.17|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.17
+
+# sent_id = NUM_4.18
+# text = “Rí i pé a kò gé ẹ̀yà Kóhátì kúrò lára àwọn ọmọ Léfì:
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.18|SpaceAfter=No
+2	Rí	rí	X	_	_	0	_	_	Ref=NUM_4.18
+3	i	i	X	_	_	0	_	_	Ref=NUM_4.18
+4	pé	pé	X	_	_	0	_	_	Ref=NUM_4.18
+5	a	a	X	_	_	0	_	_	Ref=NUM_4.18
+6	kò	kò	X	_	_	0	_	_	Ref=NUM_4.18
+7	gé	gé	X	_	_	0	_	_	Ref=NUM_4.18
+8	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_4.18
+9	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.18
+10	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_4.18
+11	lára	lára	X	_	_	0	_	_	Ref=NUM_4.18
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.18
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.18
+14	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NUM_4.18|SpaceAfter=No
+15	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_4.18
+
+# sent_id = NUM_4.19
+# text = Nítorí kí wọ́n lè yè, kí wọ́n má baà kú nígbà tí wọ́n bá súnmọ́ tòsí àwọn ohun mímọ́ jùlọ: Árónì àti àwọn ọmọ rẹ̀ ni kí ó wọ ibi mímọ́ láti pín iṣẹ́ oníkálukú àti àwọn ohun tí wọn yóò gbé.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=NUM_4.19
+2	kí	kí	X	_	_	0	_	_	Ref=NUM_4.19
+3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.19
+4	lè	lè	X	_	_	0	_	_	Ref=NUM_4.19
+5	yè	yè	X	_	_	0	_	_	Ref=NUM_4.19|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.19
+7	kí	kí	X	_	_	0	_	_	Ref=NUM_4.19
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.19
+9	má	má	X	_	_	0	_	_	Ref=NUM_4.19
+10	baà	baà	X	_	_	0	_	_	Ref=NUM_4.19
+11	kú	kú	X	_	_	0	_	_	Ref=NUM_4.19
+12	nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_4.19
+13	tí	tí	X	_	_	0	_	_	Ref=NUM_4.19
+14	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.19
+15	bá	bá	X	_	_	0	_	_	Ref=NUM_4.19
+16	súnmọ́	súnmọ́	X	_	_	0	_	_	Ref=NUM_4.19
+17	tòsí	tòsí	X	_	_	0	_	_	Ref=NUM_4.19
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.19
+19	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.19
+20	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.19
+21	jùlọ	jùlọ	X	_	_	0	_	_	Ref=NUM_4.19|SpaceAfter=No
+22	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_4.19
+23	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.19
+24	àti	àti	X	_	_	0	_	_	Ref=NUM_4.19
+25	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.19
+26	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.19
+27	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.19
+28	ni	ni	X	_	_	0	_	_	Ref=NUM_4.19
+29	kí	kí	X	_	_	0	_	_	Ref=NUM_4.19
+30	ó	ó	X	_	_	0	_	_	Ref=NUM_4.19
+31	wọ	wọ	X	_	_	0	_	_	Ref=NUM_4.19
+32	ibi	ibi	X	_	_	0	_	_	Ref=NUM_4.19
+33	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.19
+34	láti	láti	X	_	_	0	_	_	Ref=NUM_4.19
+35	pín	pín	X	_	_	0	_	_	Ref=NUM_4.19
+36	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.19
+37	oníkálukú	oníkálukú	X	_	_	0	_	_	Ref=NUM_4.19
+38	àti	àti	X	_	_	0	_	_	Ref=NUM_4.19
+39	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.19
+40	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.19
+41	tí	tí	X	_	_	0	_	_	Ref=NUM_4.19
+42	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.19
+43	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.19
+44	gbé	gbé	X	_	_	0	_	_	Ref=NUM_4.19|SpaceAfter=No
+45	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.19
+
+# sent_id = NUM_4.20
+# text = Ṣùgbọ́n àwọn ọmọ Kóhátì kò gbọdọ̀ wọlé láti wo àwọn ohun mímọ́, bó tilẹ̀ jẹ́ ìṣẹ́jú kan, bí wọ́n bá ṣe bẹ́ẹ̀, wọn yóò kú.”
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=NUM_4.20
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.20
+3	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.20
+4	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.20
+5	kò	kò	X	_	_	0	_	_	Ref=NUM_4.20
+6	gbọdọ̀	gbọdọ̀	X	_	_	0	_	_	Ref=NUM_4.20
+7	wọlé	wọlé	X	_	_	0	_	_	Ref=NUM_4.20
+8	láti	láti	X	_	_	0	_	_	Ref=NUM_4.20
+9	wo	wo	X	_	_	0	_	_	Ref=NUM_4.20
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.20
+11	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.20
+12	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NUM_4.20|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.20
+14	bó	bó	X	_	_	0	_	_	Ref=NUM_4.20
+15	tilẹ̀	tilẹ̀	X	_	_	0	_	_	Ref=NUM_4.20
+16	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_4.20
+17	ìṣẹ́jú	ìṣẹ́jú	X	_	_	0	_	_	Ref=NUM_4.20
+18	kan	kan	X	_	_	0	_	_	Ref=NUM_4.20|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.20
+20	bí	bí	X	_	_	0	_	_	Ref=NUM_4.20
+21	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.20
+22	bá	bá	X	_	_	0	_	_	Ref=NUM_4.20
+23	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.20
+24	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=NUM_4.20|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.20
+26	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.20
+27	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.20
+28	kú	kú	X	_	_	0	_	_	Ref=NUM_4.20|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.20|SpaceAfter=No
+30	”	”	PUNCT	_	_	0	punct	_	Ref=NUM_4.20
+
+# sent_id = NUM_4.21
+# text = Olúwa sọ fún Mósè pé:
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.21
+2	sọ	sọ	X	_	_	0	_	_	Ref=NUM_4.21
+3	fún	fún	X	_	_	0	_	_	Ref=NUM_4.21
+4	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.21
+5	pé	pé	X	_	_	0	_	_	Ref=NUM_4.21|SpaceAfter=No
+6	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_4.21
+
+# sent_id = NUM_4.22
+# text = “Tún ka iye àwọn ọmọ Gáṣónì nípa ilé baba wọn àti ìdílé wọn.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.22|SpaceAfter=No
+2	Tún	tún	X	_	_	0	_	_	Ref=NUM_4.22
+3	ka	ka	X	_	_	0	_	_	Ref=NUM_4.22
+4	iye	iye	X	_	_	0	_	_	Ref=NUM_4.22
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.22
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.22
+7	Gáṣónì	Gáṣónì	PROPN	_	_	0	_	_	Ref=NUM_4.22
+8	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.22
+9	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.22
+10	baba	baba	X	_	_	0	_	_	Ref=NUM_4.22
+11	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.22
+12	àti	àti	X	_	_	0	_	_	Ref=NUM_4.22
+13	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.22
+14	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.22|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.22
+
+# sent_id = NUM_4.23
+# text = Ka gbogbo ọkùnrin láti ọmọ ọgbọ̀n ọdún títí dé àádọ́ta ọdún, gbogbo àwọn tó ń wá ṣiṣẹ́ ní Àgọ́ Ìpàdé.
+1	Ka	ka	X	_	_	0	_	_	Ref=NUM_4.23
+2	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.23
+3	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=NUM_4.23
+4	láti	láti	X	_	_	0	_	_	Ref=NUM_4.23
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.23
+6	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.23
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.23
+8	títí	títí	X	_	_	0	_	_	Ref=NUM_4.23
+9	dé	dé	X	_	_	0	_	_	Ref=NUM_4.23
+10	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.23
+11	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.23|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.23
+13	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.23
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.23
+15	tó	tó	X	_	_	0	_	_	Ref=NUM_4.23
+16	ń	ń	X	_	_	0	_	_	Ref=NUM_4.23
+17	wá	wá	X	_	_	0	_	_	Ref=NUM_4.23
+18	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.23
+19	ní	ní	X	_	_	0	_	_	Ref=NUM_4.23
+20	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.23
+21	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.23|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.23
+
+# sent_id = NUM_4.24
+# text = “Èyí ni iṣẹ́ ìsìn ìdílé àwọn ọmọ Gáṣónì, bí wọ́n ti ń ṣiṣẹ́ àti ní ẹrù rírù:
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.24|SpaceAfter=No
+2	Èyí	èyí	X	_	_	0	_	_	Ref=NUM_4.24
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_4.24
+4	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.24
+5	ìsìn	ìsìn	X	_	_	0	_	_	Ref=NUM_4.24
+6	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.24
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.24
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.24
+9	Gáṣónì	Gáṣónì	PROPN	_	_	0	_	_	Ref=NUM_4.24|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.24
+11	bí	bí	X	_	_	0	_	_	Ref=NUM_4.24
+12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.24
+13	ti	ti	X	_	_	0	_	_	Ref=NUM_4.24
+14	ń	ń	X	_	_	0	_	_	Ref=NUM_4.24
+15	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.24
+16	àti	àti	X	_	_	0	_	_	Ref=NUM_4.24
+17	ní	ní	X	_	_	0	_	_	Ref=NUM_4.24
+18	ẹrù	ẹrù	X	_	_	0	_	_	Ref=NUM_4.24
+19	rírù	rírù	X	_	_	0	_	_	Ref=NUM_4.24|SpaceAfter=No
+20	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_4.24
+
+# sent_id = NUM_4.25
+# text = Àwọn ni yóò máa ru àwọn aṣọ títa ti Àgọ́, ti Àgọ́ Ìpàdé àti ìborí rẹ̀, àti awọ ewúrẹ́ tí a fi bò ó, aṣọ títa ẹnu ọ̀nà Àgọ́ Ìpàdé,
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.25
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_4.25
+3	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.25
+4	máa	máa	X	_	_	0	_	_	Ref=NUM_4.25
+5	ru	ru	X	_	_	0	_	_	Ref=NUM_4.25
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.25
+7	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.25
+8	títa	títa	X	_	_	0	_	_	Ref=NUM_4.25
+9	ti	ti	X	_	_	0	_	_	Ref=NUM_4.25
+10	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.25|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.25
+12	ti	ti	X	_	_	0	_	_	Ref=NUM_4.25
+13	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.25
+14	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.25
+15	àti	àti	X	_	_	0	_	_	Ref=NUM_4.25
+16	ìborí	ìborí	X	_	_	0	_	_	Ref=NUM_4.25
+17	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.25|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.25
+19	àti	àti	X	_	_	0	_	_	Ref=NUM_4.25
+20	awọ	awọ	X	_	_	0	_	_	Ref=NUM_4.25
+21	ewúrẹ́	ewúrẹ́	X	_	_	0	_	_	Ref=NUM_4.25
+22	tí	tí	X	_	_	0	_	_	Ref=NUM_4.25
+23	a	a	X	_	_	0	_	_	Ref=NUM_4.25
+24	fi	fi	X	_	_	0	_	_	Ref=NUM_4.25
+25	bò	bò	X	_	_	0	_	_	Ref=NUM_4.25
+26	ó	ó	X	_	_	0	_	_	Ref=NUM_4.25|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.25
+28	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.25
+29	títa	títa	X	_	_	0	_	_	Ref=NUM_4.25
+30	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NUM_4.25
+31	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=NUM_4.25
+32	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.25
+33	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.25|SpaceAfter=No
+34	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.25
+
+# sent_id = NUM_4.26
+# text = Aṣọ títa ti àgbàlá tó yí àgọ́ àti pẹpẹ ká, aṣọ títa ti ẹnu ọ̀nà, okùn àti àwọn ohun èlò mìíràn tí à ń lò fún gbogbo àwọn nǹkan wọ̀nyí. Àwọn ọmọ Gáṣónì ni yóò ṣe gbogbo ohun tó bá yẹ pẹ̀lú àwọn nǹkan wọ̀nyí.
+1	Aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.26
+2	títa	títa	X	_	_	0	_	_	Ref=NUM_4.26
+3	ti	ti	X	_	_	0	_	_	Ref=NUM_4.26
+4	àgbàlá	àgbàlá	X	_	_	0	_	_	Ref=NUM_4.26
+5	tó	tó	X	_	_	0	_	_	Ref=NUM_4.26
+6	yí	yí	X	_	_	0	_	_	Ref=NUM_4.26
+7	àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.26
+8	àti	àti	X	_	_	0	_	_	Ref=NUM_4.26
+9	pẹpẹ	pẹpẹ	X	_	_	0	_	_	Ref=NUM_4.26
+10	ká	ká	X	_	_	0	_	_	Ref=NUM_4.26|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.26
+12	aṣọ	aṣọ	X	_	_	0	_	_	Ref=NUM_4.26
+13	títa	títa	X	_	_	0	_	_	Ref=NUM_4.26
+14	ti	ti	X	_	_	0	_	_	Ref=NUM_4.26
+15	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NUM_4.26
+16	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=NUM_4.26|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.26
+18	okùn	okùn	X	_	_	0	_	_	Ref=NUM_4.26
+19	àti	àti	X	_	_	0	_	_	Ref=NUM_4.26
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.26
+21	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.26
+22	èlò	èlò	X	_	_	0	_	_	Ref=NUM_4.26
+23	mìíràn	mìíràn	X	_	_	0	_	_	Ref=NUM_4.26
+24	tí	tí	X	_	_	0	_	_	Ref=NUM_4.26
+25	à	à	X	_	_	0	_	_	Ref=NUM_4.26
+26	ń	ń	X	_	_	0	_	_	Ref=NUM_4.26
+27	lò	lò	X	_	_	0	_	_	Ref=NUM_4.26
+28	fún	fún	X	_	_	0	_	_	Ref=NUM_4.26
+29	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.26
+30	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.26
+31	nǹkan	nǹkan	X	_	_	0	_	_	Ref=NUM_4.26
+32	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_4.26|SpaceAfter=No
+33	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.26
+34	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.26
+35	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.26
+36	Gáṣónì	Gáṣónì	PROPN	_	_	0	_	_	Ref=NUM_4.26
+37	ni	ni	X	_	_	0	_	_	Ref=NUM_4.26
+38	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.26
+39	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.26
+40	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.26
+41	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.26
+42	tó	tó	X	_	_	0	_	_	Ref=NUM_4.26
+43	bá	bá	X	_	_	0	_	_	Ref=NUM_4.26
+44	yẹ	yẹ	X	_	_	0	_	_	Ref=NUM_4.26
+45	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_4.26
+46	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.26
+47	nǹkan	nǹkan	X	_	_	0	_	_	Ref=NUM_4.26
+48	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_4.26|SpaceAfter=No
+49	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.26
+
+# sent_id = NUM_4.27
+# text = Gbogbo iṣẹ́ ìsìn àwọn ọmọ Gáṣónì yálà ni iṣẹ́ ṣíṣe tàbí ní ẹrù rírù ni, Árónì àti àwọn ọmọ rẹ̀ ni yóò máa darí wọn; ìwọ ni kí o sì yàn ẹrù tí oníkálùkù yóò rù fún un.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.27
+2	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.27
+3	ìsìn	ìsìn	X	_	_	0	_	_	Ref=NUM_4.27
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.27
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.27
+6	Gáṣónì	Gáṣónì	PROPN	_	_	0	_	_	Ref=NUM_4.27
+7	yálà	yálà	X	_	_	0	_	_	Ref=NUM_4.27
+8	ni	ni	X	_	_	0	_	_	Ref=NUM_4.27
+9	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.27
+10	ṣíṣe	ṣíṣe	X	_	_	0	_	_	Ref=NUM_4.27
+11	tàbí	tàbí	X	_	_	0	_	_	Ref=NUM_4.27
+12	ní	ní	X	_	_	0	_	_	Ref=NUM_4.27
+13	ẹrù	ẹrù	X	_	_	0	_	_	Ref=NUM_4.27
+14	rírù	rírù	X	_	_	0	_	_	Ref=NUM_4.27
+15	ni	ni	X	_	_	0	_	_	Ref=NUM_4.27|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.27
+17	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.27
+18	àti	àti	X	_	_	0	_	_	Ref=NUM_4.27
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.27
+20	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.27
+21	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.27
+22	ni	ni	X	_	_	0	_	_	Ref=NUM_4.27
+23	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.27
+24	máa	máa	X	_	_	0	_	_	Ref=NUM_4.27
+25	darí	darí	X	_	_	0	_	_	Ref=NUM_4.27
+26	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.27|SpaceAfter=No
+27	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_4.27
+28	ìwọ	ìwọ	X	_	_	0	_	_	Ref=NUM_4.27
+29	ni	ni	X	_	_	0	_	_	Ref=NUM_4.27
+30	kí	kí	X	_	_	0	_	_	Ref=NUM_4.27
+31	o	o	X	_	_	0	_	_	Ref=NUM_4.27
+32	sì	sì	X	_	_	0	_	_	Ref=NUM_4.27
+33	yàn	yàn	X	_	_	0	_	_	Ref=NUM_4.27
+34	ẹrù	ẹrù	X	_	_	0	_	_	Ref=NUM_4.27
+35	tí	tí	X	_	_	0	_	_	Ref=NUM_4.27
+36	oníkálùkù	oníkálùkù	X	_	_	0	_	_	Ref=NUM_4.27
+37	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.27
+38	rù	rù	X	_	_	0	_	_	Ref=NUM_4.27
+39	fún	fún	X	_	_	0	_	_	Ref=NUM_4.27
+40	un	un	X	_	_	0	_	_	Ref=NUM_4.27|SpaceAfter=No
+41	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.27
+
+# sent_id = NUM_4.28
+# text = Èyí ni iṣẹ́ ìdílé àwọn Gáṣónì ni Àgọ́ Ìpàdé Ítamárì, ọmọ Árónì tí í ṣe àlùfáà ni yóò sì jẹ alábojútó iṣẹ́ wọn.
+1	Èyí	èyí	X	_	_	0	_	_	Ref=NUM_4.28
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_4.28
+3	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.28
+4	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.28
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.28
+6	Gáṣónì	Gáṣónì	PROPN	_	_	0	_	_	Ref=NUM_4.28
+7	ni	ni	X	_	_	0	_	_	Ref=NUM_4.28
+8	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.28
+9	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.28
+10	Ítamárì	Ítamárì	PROPN	_	_	0	_	_	Ref=NUM_4.28|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.28
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.28
+13	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.28
+14	tí	tí	X	_	_	0	_	_	Ref=NUM_4.28
+15	í	í	X	_	_	0	_	_	Ref=NUM_4.28
+16	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.28
+17	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NUM_4.28
+18	ni	ni	X	_	_	0	_	_	Ref=NUM_4.28
+19	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.28
+20	sì	sì	X	_	_	0	_	_	Ref=NUM_4.28
+21	jẹ	jẹ	X	_	_	0	_	_	Ref=NUM_4.28
+22	alábojútó	alábojútó	X	_	_	0	_	_	Ref=NUM_4.28
+23	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.28
+24	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.28|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.28
+
+# sent_id = NUM_4.29
+# text = “Ka iye àwọn ọmọ Mérárì nípa ilé baba wọn àti ìdílé wọn.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_4.29|SpaceAfter=No
+2	Ka	ka	X	_	_	0	_	_	Ref=NUM_4.29
+3	iye	iye	X	_	_	0	_	_	Ref=NUM_4.29
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.29
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.29
+6	Mérárì	Mérárì	PROPN	_	_	0	_	_	Ref=NUM_4.29
+7	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.29
+8	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.29
+9	baba	baba	X	_	_	0	_	_	Ref=NUM_4.29
+10	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.29
+11	àti	àti	X	_	_	0	_	_	Ref=NUM_4.29
+12	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.29
+13	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.29|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.29
+
+# sent_id = NUM_4.30
+# text = Ka gbogbo ọkùnrin láti ọmọ ọgbọ̀n ọdún títí dé àádọ́ta ọdún, gbogbo àwọn tó ń wá ṣiṣẹ́ ní Àgọ́ Ìpàdé.
+1	Ka	ka	X	_	_	0	_	_	Ref=NUM_4.30
+2	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.30
+3	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=NUM_4.30
+4	láti	láti	X	_	_	0	_	_	Ref=NUM_4.30
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.30
+6	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.30
+7	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.30
+8	títí	títí	X	_	_	0	_	_	Ref=NUM_4.30
+9	dé	dé	X	_	_	0	_	_	Ref=NUM_4.30
+10	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.30
+11	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.30|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.30
+13	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.30
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.30
+15	tó	tó	X	_	_	0	_	_	Ref=NUM_4.30
+16	ń	ń	X	_	_	0	_	_	Ref=NUM_4.30
+17	wá	wá	X	_	_	0	_	_	Ref=NUM_4.30
+18	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.30
+19	ní	ní	X	_	_	0	_	_	Ref=NUM_4.30
+20	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.30
+21	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.30|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.30
+
+# sent_id = NUM_4.31
+# text = Iṣẹ́ tí wọn yóò sì máa ṣe nínú Àgọ́ Ìpàdé nìyìí: gbígbẹ́ àwọn férémù àgọ́, pákó ìdábú rẹ̀, òpó àti ihò òpó rẹ̀,
+1	Iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.31
+2	tí	tí	X	_	_	0	_	_	Ref=NUM_4.31
+3	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.31
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.31
+5	sì	sì	X	_	_	0	_	_	Ref=NUM_4.31
+6	máa	máa	X	_	_	0	_	_	Ref=NUM_4.31
+7	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.31
+8	nínú	nínú	X	_	_	0	_	_	Ref=NUM_4.31
+9	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.31
+10	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.31
+11	nìyìí	nìyìí	X	_	_	0	_	_	Ref=NUM_4.31|SpaceAfter=No
+12	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_4.31
+13	gbígbẹ́	gbígbẹ́	X	_	_	0	_	_	Ref=NUM_4.31
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.31
+15	férémù	férémù	X	_	_	0	_	_	Ref=NUM_4.31
+16	àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.31|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.31
+18	pákó	pákó	X	_	_	0	_	_	Ref=NUM_4.31
+19	ìdábú	ìdábú	X	_	_	0	_	_	Ref=NUM_4.31
+20	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.31|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.31
+22	òpó	òpó	X	_	_	0	_	_	Ref=NUM_4.31
+23	àti	àti	X	_	_	0	_	_	Ref=NUM_4.31
+24	ihò	ihò	X	_	_	0	_	_	Ref=NUM_4.31
+25	òpó	òpó	X	_	_	0	_	_	Ref=NUM_4.31
+26	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_4.31|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.31
+
+# sent_id = NUM_4.32
+# text = Pẹ̀lú gbogbo òpó tó yí àgbàlá ká àti ohun èlò tó jẹ mọ́ lílò wọn kí o sì yan ohun tí oníkálùkù yóò rù fún un;
+1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_4.32
+2	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.32
+3	òpó	òpó	X	_	_	0	_	_	Ref=NUM_4.32
+4	tó	tó	X	_	_	0	_	_	Ref=NUM_4.32
+5	yí	yí	X	_	_	0	_	_	Ref=NUM_4.32
+6	àgbàlá	àgbàlá	X	_	_	0	_	_	Ref=NUM_4.32
+7	ká	ká	X	_	_	0	_	_	Ref=NUM_4.32
+8	àti	àti	X	_	_	0	_	_	Ref=NUM_4.32
+9	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.32
+10	èlò	èlò	X	_	_	0	_	_	Ref=NUM_4.32
+11	tó	tó	X	_	_	0	_	_	Ref=NUM_4.32
+12	jẹ	jẹ	X	_	_	0	_	_	Ref=NUM_4.32
+13	mọ́	mọ́	X	_	_	0	_	_	Ref=NUM_4.32
+14	lílò	lílò	X	_	_	0	_	_	Ref=NUM_4.32
+15	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.32
+16	kí	kí	X	_	_	0	_	_	Ref=NUM_4.32
+17	o	o	X	_	_	0	_	_	Ref=NUM_4.32
+18	sì	sì	X	_	_	0	_	_	Ref=NUM_4.32
+19	yan	yan	X	_	_	0	_	_	Ref=NUM_4.32
+20	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.32
+21	tí	tí	X	_	_	0	_	_	Ref=NUM_4.32
+22	oníkálùkù	oníkálùkù	X	_	_	0	_	_	Ref=NUM_4.32
+23	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.32
+24	rù	rù	X	_	_	0	_	_	Ref=NUM_4.32
+25	fún	fún	X	_	_	0	_	_	Ref=NUM_4.32
+26	un	un	X	_	_	0	_	_	Ref=NUM_4.32|SpaceAfter=No
+27	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_4.32
+
+# sent_id = NUM_4.33
+# text = Èyí ni iṣẹ́ ìsìn ìdílé àwọn ọmọ Mérárì, bí wọn yóò ti máa ṣiṣẹ́ ní Àgọ́ Ìpàdé lábẹ́ àkóso Ítamárì ọmọ Árónì tí í ṣe àlùfáà.”
+1	Èyí	èyí	X	_	_	0	_	_	Ref=NUM_4.33
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_4.33
+3	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.33
+4	ìsìn	ìsìn	X	_	_	0	_	_	Ref=NUM_4.33
+5	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.33
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.33
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.33
+8	Mérárì	Mérárì	PROPN	_	_	0	_	_	Ref=NUM_4.33|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.33
+10	bí	bí	X	_	_	0	_	_	Ref=NUM_4.33
+11	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.33
+12	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.33
+13	ti	ti	X	_	_	0	_	_	Ref=NUM_4.33
+14	máa	máa	X	_	_	0	_	_	Ref=NUM_4.33
+15	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.33
+16	ní	ní	X	_	_	0	_	_	Ref=NUM_4.33
+17	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.33
+18	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.33
+19	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_4.33
+20	àkóso	àkóso	X	_	_	0	_	_	Ref=NUM_4.33
+21	Ítamárì	Ítamárì	PROPN	_	_	0	_	_	Ref=NUM_4.33
+22	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.33
+23	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.33
+24	tí	tí	X	_	_	0	_	_	Ref=NUM_4.33
+25	í	í	X	_	_	0	_	_	Ref=NUM_4.33
+26	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.33
+27	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NUM_4.33|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.33|SpaceAfter=No
+29	”	”	PUNCT	_	_	0	punct	_	Ref=NUM_4.33
+
+# sent_id = NUM_4.34
+# text = Mósè àti Árónì pẹ̀lú àwọn olórí ìjọ ènìyàn ka àwọn ọmọ Kóhátì nípa ìdílé àti ilé baba wọn.
+1	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.34
+2	àti	àti	X	_	_	0	_	_	Ref=NUM_4.34
+3	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.34
+4	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_4.34
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.34
+6	olórí	olórí	X	_	_	0	_	_	Ref=NUM_4.34
+7	ìjọ	ìjọ	X	_	_	0	_	_	Ref=NUM_4.34
+8	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_4.34
+9	ka	ka	X	_	_	0	_	_	Ref=NUM_4.34
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.34
+11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.34
+12	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.34
+13	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.34
+14	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.34
+15	àti	àti	X	_	_	0	_	_	Ref=NUM_4.34
+16	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.34
+17	baba	baba	X	_	_	0	_	_	Ref=NUM_4.34
+18	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.34|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.34
+
+# sent_id = NUM_4.35
+# text = Gbogbo ọmọkùnrin láti ọmọ ọgbọ̀n ọdún títí dé àádọ́ta ọdún gbogbo àwọn tó ń wá ṣiṣẹ́ ní Àgọ́ Ìpàdé.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.35
+2	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=NUM_4.35
+3	láti	láti	X	_	_	0	_	_	Ref=NUM_4.35
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.35
+5	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.35
+6	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.35
+7	títí	títí	X	_	_	0	_	_	Ref=NUM_4.35
+8	dé	dé	X	_	_	0	_	_	Ref=NUM_4.35
+9	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.35
+10	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.35
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.35
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.35
+13	tó	tó	X	_	_	0	_	_	Ref=NUM_4.35
+14	ń	ń	X	_	_	0	_	_	Ref=NUM_4.35
+15	wá	wá	X	_	_	0	_	_	Ref=NUM_4.35
+16	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.35
+17	ní	ní	X	_	_	0	_	_	Ref=NUM_4.35
+18	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.35
+19	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.35|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.35
+
+# sent_id = NUM_4.36
+# text = Iye wọn nípa ìdílé jẹ́ ẹgbẹ̀rìnlá ó dín àádọ́ta (2,750).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_4.36
+2	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.36
+3	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.36
+4	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.36
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_4.36
+6	ẹgbẹ̀rìnlá	ẹgbẹ̀rìnlá	X	_	_	0	_	_	Ref=NUM_4.36
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_4.36
+8	dín	dín	X	_	_	0	_	_	Ref=NUM_4.36
+9	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.36
+10	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_4.36|SpaceAfter=No
+11	2	2	X	_	_	0	_	_	Ref=NUM_4.36|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.36|SpaceAfter=No
+13	750	750	X	_	_	0	_	_	Ref=NUM_4.36|SpaceAfter=No
+14	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_4.36|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.36
+
+# sent_id = NUM_4.37
+# text = Èyí ni àpapọ̀ iye àwọn ọmọ Kóhátì tó ń ṣiṣẹ́ ní Àgọ́ Ìpàdé; tí Mósè àti Árónì kà gẹ́gẹ́ bí Olúwa ti pa á láṣẹ fún Mósè.
+1	Èyí	èyí	X	_	_	0	_	_	Ref=NUM_4.37
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_4.37
+3	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=NUM_4.37
+4	iye	iye	X	_	_	0	_	_	Ref=NUM_4.37
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.37
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.37
+7	Kóhátì	kóhátì	X	_	_	0	_	_	Ref=NUM_4.37
+8	tó	tó	X	_	_	0	_	_	Ref=NUM_4.37
+9	ń	ń	X	_	_	0	_	_	Ref=NUM_4.37
+10	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.37
+11	ní	ní	X	_	_	0	_	_	Ref=NUM_4.37
+12	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.37
+13	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.37|SpaceAfter=No
+14	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_4.37
+15	tí	tí	X	_	_	0	_	_	Ref=NUM_4.37
+16	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.37
+17	àti	àti	X	_	_	0	_	_	Ref=NUM_4.37
+18	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.37
+19	kà	kà	X	_	_	0	_	_	Ref=NUM_4.37
+20	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_4.37
+21	bí	bí	X	_	_	0	_	_	Ref=NUM_4.37
+22	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.37
+23	ti	ti	X	_	_	0	_	_	Ref=NUM_4.37
+24	pa	pa	X	_	_	0	_	_	Ref=NUM_4.37
+25	á	á	X	_	_	0	_	_	Ref=NUM_4.37
+26	láṣẹ	láṣẹ	X	_	_	0	_	_	Ref=NUM_4.37
+27	fún	fún	X	_	_	0	_	_	Ref=NUM_4.37
+28	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.37|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.37
+
+# sent_id = NUM_4.38
+# text = Wọ́n ka àwọn ọmọ Gáṣónì nípa ìdílé àti ile baba wọn.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.38
+2	ka	ka	X	_	_	0	_	_	Ref=NUM_4.38
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.38
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.38
+5	Gáṣónì	Gáṣónì	PROPN	_	_	0	_	_	Ref=NUM_4.38
+6	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.38
+7	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.38
+8	àti	àti	X	_	_	0	_	_	Ref=NUM_4.38
+9	ile	ile	X	_	_	0	_	_	Ref=NUM_4.38
+10	baba	baba	X	_	_	0	_	_	Ref=NUM_4.38
+11	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.38|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.38
+
+# sent_id = NUM_4.39
+# text = Gbogbo ọmọkùnrin láti ọmọ ọgbọ̀n ọdún títí dé àádọ́ta, gbogbo àwọn tó lè ṣiṣẹ́ ní Àgọ́ Ìpàdé.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.39
+2	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=NUM_4.39
+3	láti	láti	X	_	_	0	_	_	Ref=NUM_4.39
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.39
+5	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.39
+6	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.39
+7	títí	títí	X	_	_	0	_	_	Ref=NUM_4.39
+8	dé	dé	X	_	_	0	_	_	Ref=NUM_4.39
+9	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.39|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.39
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.39
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.39
+13	tó	tó	X	_	_	0	_	_	Ref=NUM_4.39
+14	lè	lè	X	_	_	0	_	_	Ref=NUM_4.39
+15	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.39
+16	ní	ní	X	_	_	0	_	_	Ref=NUM_4.39
+17	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.39
+18	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.39|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.39
+
+# sent_id = NUM_4.40
+# text = Iye wọn nípa ìdílé àti ilé baba wọn jẹ́ ẹgbẹ̀tàlá ó lé ọgbọ̀n (2,630).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_4.40
+2	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.40
+3	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.40
+4	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.40
+5	àti	àti	X	_	_	0	_	_	Ref=NUM_4.40
+6	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.40
+7	baba	baba	X	_	_	0	_	_	Ref=NUM_4.40
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.40
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_4.40
+10	ẹgbẹ̀tàlá	ẹgbẹ̀tàlá	X	_	_	0	_	_	Ref=NUM_4.40
+11	ó	ó	X	_	_	0	_	_	Ref=NUM_4.40
+12	lé	lé	X	_	_	0	_	_	Ref=NUM_4.40
+13	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.40
+14	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_4.40|SpaceAfter=No
+15	2	2	X	_	_	0	_	_	Ref=NUM_4.40|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.40|SpaceAfter=No
+17	630	630	X	_	_	0	_	_	Ref=NUM_4.40|SpaceAfter=No
+18	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_4.40|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.40
+
+# sent_id = NUM_4.41
+# text = Èyí jẹ́ àpapọ̀ iye àwọn ọmọ Gásónì, àwọn tó ṣiṣẹ́ ní Àgọ́ Ìpàdé. Mósè àti Árónì se bí àṣẹ Olúwa .
+1	Èyí	èyí	X	_	_	0	_	_	Ref=NUM_4.41
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_4.41
+3	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=NUM_4.41
+4	iye	iye	X	_	_	0	_	_	Ref=NUM_4.41
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.41
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.41
+7	Gásónì	Gásónì	PROPN	_	_	0	_	_	Ref=NUM_4.41|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.41
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.41
+10	tó	tó	X	_	_	0	_	_	Ref=NUM_4.41
+11	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.41
+12	ní	ní	X	_	_	0	_	_	Ref=NUM_4.41
+13	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.41
+14	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.41|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.41
+16	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.41
+17	àti	àti	X	_	_	0	_	_	Ref=NUM_4.41
+18	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.41
+19	se	se	X	_	_	0	_	_	Ref=NUM_4.41
+20	bí	bí	X	_	_	0	_	_	Ref=NUM_4.41
+21	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=NUM_4.41
+22	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.41
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.41
+
+# sent_id = NUM_4.42
+# text = Wọ́n ka àwọn ọmọ Mérárì nípa ìdílé àti ilé baba wọn.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.42
+2	ka	ka	X	_	_	0	_	_	Ref=NUM_4.42
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.42
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.42
+5	Mérárì	Mérárì	PROPN	_	_	0	_	_	Ref=NUM_4.42
+6	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.42
+7	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.42
+8	àti	àti	X	_	_	0	_	_	Ref=NUM_4.42
+9	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.42
+10	baba	baba	X	_	_	0	_	_	Ref=NUM_4.42
+11	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.42|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.42
+
+# sent_id = NUM_4.43
+# text = Gbogbo ọkùnrin láti ọmọ ọgbọ̀n ọdún títí dé àádọ́ta ọdún, àwọn tó ṣiṣẹ́ ní Àgọ́ Ìpàdé.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.43
+2	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=NUM_4.43
+3	láti	láti	X	_	_	0	_	_	Ref=NUM_4.43
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.43
+5	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.43
+6	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.43
+7	títí	títí	X	_	_	0	_	_	Ref=NUM_4.43
+8	dé	dé	X	_	_	0	_	_	Ref=NUM_4.43
+9	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.43
+10	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.43|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.43
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.43
+13	tó	tó	X	_	_	0	_	_	Ref=NUM_4.43
+14	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.43
+15	ní	ní	X	_	_	0	_	_	Ref=NUM_4.43
+16	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.43
+17	Ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_4.43|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.43
+
+# sent_id = NUM_4.44
+# text = Iye wọn nípa ìdílé àti ilé baba wọn jẹ́ ẹgbẹ̀rìndínlógún (3,200).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_4.44
+2	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.44
+3	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.44
+4	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.44
+5	àti	àti	X	_	_	0	_	_	Ref=NUM_4.44
+6	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.44
+7	baba	baba	X	_	_	0	_	_	Ref=NUM_4.44
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.44
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_4.44
+10	ẹgbẹ̀rìndínlógún	ẹgbẹ̀rìndínlógún	X	_	_	0	_	_	Ref=NUM_4.44
+11	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_4.44|SpaceAfter=No
+12	3	3	X	_	_	0	_	_	Ref=NUM_4.44|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.44|SpaceAfter=No
+14	200	200	X	_	_	0	_	_	Ref=NUM_4.44|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_4.44|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.44
+
+# sent_id = NUM_4.45
+# text = Èyí ni àpapọ̀ iye àwọn ọmọ Mérárì. Mósè àti Árónì kà wọ́n gẹ́gẹ́ bí àṣẹ Olúwa láti ẹnu Mósè.
+1	Èyí	èyí	X	_	_	0	_	_	Ref=NUM_4.45
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_4.45
+3	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=NUM_4.45
+4	iye	iye	X	_	_	0	_	_	Ref=NUM_4.45
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.45
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.45
+7	Mérárì	Mérárì	PROPN	_	_	0	_	_	Ref=NUM_4.45|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.45
+9	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.45
+10	àti	àti	X	_	_	0	_	_	Ref=NUM_4.45
+11	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.45
+12	kà	kà	X	_	_	0	_	_	Ref=NUM_4.45
+13	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.45
+14	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_4.45
+15	bí	bí	X	_	_	0	_	_	Ref=NUM_4.45
+16	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=NUM_4.45
+17	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.45
+18	láti	láti	X	_	_	0	_	_	Ref=NUM_4.45
+19	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NUM_4.45
+20	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.45|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.45
+
+# sent_id = NUM_4.46
+# text = Báyìí ni Mósè, Árónì àti olórí ìjọ ènìyàn ka gbogbo ọmọ Léfì nípa ìdílé àti ilé baba wọn.
+1	Báyìí	báyìí	X	_	_	0	_	_	Ref=NUM_4.46
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_4.46
+3	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.46|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.46
+5	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_4.46
+6	àti	àti	X	_	_	0	_	_	Ref=NUM_4.46
+7	olórí	olórí	X	_	_	0	_	_	Ref=NUM_4.46
+8	ìjọ	ìjọ	X	_	_	0	_	_	Ref=NUM_4.46
+9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_4.46
+10	ka	ka	X	_	_	0	_	_	Ref=NUM_4.46
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.46
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.46
+13	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NUM_4.46
+14	nípa	nípa	X	_	_	0	_	_	Ref=NUM_4.46
+15	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_4.46
+16	àti	àti	X	_	_	0	_	_	Ref=NUM_4.46
+17	ilé	ilé	X	_	_	0	_	_	Ref=NUM_4.46
+18	baba	baba	X	_	_	0	_	_	Ref=NUM_4.46
+19	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.46|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.46
+
+# sent_id = NUM_4.47
+# text = Gbogbo ọkùnrin láti ọmọ ọgbọ̀n ọdún títí dé àádọ́ta, àwọn tó ń ṣiṣẹ́ ìsìn tó sì ń ru àwọn erù inú Àgọ́ Ìpadé.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_4.47
+2	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=NUM_4.47
+3	láti	láti	X	_	_	0	_	_	Ref=NUM_4.47
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_4.47
+5	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_4.47
+6	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_4.47
+7	títí	títí	X	_	_	0	_	_	Ref=NUM_4.47
+8	dé	dé	X	_	_	0	_	_	Ref=NUM_4.47
+9	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_4.47|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.47
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.47
+12	tó	tó	X	_	_	0	_	_	Ref=NUM_4.47
+13	ń	ń	X	_	_	0	_	_	Ref=NUM_4.47
+14	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NUM_4.47
+15	ìsìn	ìsìn	X	_	_	0	_	_	Ref=NUM_4.47
+16	tó	tó	X	_	_	0	_	_	Ref=NUM_4.47
+17	sì	sì	X	_	_	0	_	_	Ref=NUM_4.47
+18	ń	ń	X	_	_	0	_	_	Ref=NUM_4.47
+19	ru	ru	X	_	_	0	_	_	Ref=NUM_4.47
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.47
+21	erù	erù	X	_	_	0	_	_	Ref=NUM_4.47
+22	inú	inú	X	_	_	0	_	_	Ref=NUM_4.47
+23	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_4.47
+24	Ìpadé	Ìpadé	PROPN	_	_	0	_	_	Ref=NUM_4.47|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.47
+
+# sent_id = NUM_4.48
+# text = Àpapọ̀ iye wọn jẹ́ ẹgbẹ̀tàlá lé lẹ́gbàarin ó dín ogún (8,580).
+1	Àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=NUM_4.48
+2	iye	iye	X	_	_	0	_	_	Ref=NUM_4.48
+3	wọn	wọn	X	_	_	0	_	_	Ref=NUM_4.48
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_4.48
+5	ẹgbẹ̀tàlá	ẹgbẹ̀tàlá	X	_	_	0	_	_	Ref=NUM_4.48
+6	lé	lé	X	_	_	0	_	_	Ref=NUM_4.48
+7	lẹ́gbàarin	lẹ́gbàarin	X	_	_	0	_	_	Ref=NUM_4.48
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_4.48
+9	dín	dín	X	_	_	0	_	_	Ref=NUM_4.48
+10	ogún	ogún	X	_	_	0	_	_	Ref=NUM_4.48
+11	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_4.48|SpaceAfter=No
+12	8	8	X	_	_	0	_	_	Ref=NUM_4.48|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_4.48|SpaceAfter=No
+14	580	580	X	_	_	0	_	_	Ref=NUM_4.48|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_4.48|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.48
+
+# sent_id = NUM_4.49
+# text = Wọ́n yan iṣẹ́ àti àwọn ohun tí ẹni kọ̀ọ̀kan yóò máa gbé fún un gẹ́gẹ́ bí Olúwa ti pàṣẹ láti ẹnu Mósè. Bẹ́ẹ̀ ni wọ́n ṣe kà wọ́n gẹ́gẹ́ bí Olúwa ti pàṣẹ fún Mósè.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.49
+2	yan	yan	X	_	_	0	_	_	Ref=NUM_4.49
+3	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NUM_4.49
+4	àti	àti	X	_	_	0	_	_	Ref=NUM_4.49
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_4.49
+6	ohun	ohun	X	_	_	0	_	_	Ref=NUM_4.49
+7	tí	tí	X	_	_	0	_	_	Ref=NUM_4.49
+8	ẹni	ẹni	X	_	_	0	_	_	Ref=NUM_4.49
+9	kọ̀ọ̀kan	kọ̀ọ̀kan	X	_	_	0	_	_	Ref=NUM_4.49
+10	yóò	yóò	X	_	_	0	_	_	Ref=NUM_4.49
+11	máa	máa	X	_	_	0	_	_	Ref=NUM_4.49
+12	gbé	gbé	X	_	_	0	_	_	Ref=NUM_4.49
+13	fún	fún	X	_	_	0	_	_	Ref=NUM_4.49
+14	un	un	X	_	_	0	_	_	Ref=NUM_4.49
+15	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_4.49
+16	bí	bí	X	_	_	0	_	_	Ref=NUM_4.49
+17	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.49
+18	ti	ti	X	_	_	0	_	_	Ref=NUM_4.49
+19	pàṣẹ	pàṣẹ	X	_	_	0	_	_	Ref=NUM_4.49
+20	láti	láti	X	_	_	0	_	_	Ref=NUM_4.49
+21	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NUM_4.49
+22	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.49|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.49
+24	Bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=NUM_4.49
+25	ni	ni	X	_	_	0	_	_	Ref=NUM_4.49
+26	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.49
+27	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_4.49
+28	kà	kà	X	_	_	0	_	_	Ref=NUM_4.49
+29	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_4.49
+30	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_4.49
+31	bí	bí	X	_	_	0	_	_	Ref=NUM_4.49
+32	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_4.49
+33	ti	ti	X	_	_	0	_	_	Ref=NUM_4.49
+34	pàṣẹ	pàṣẹ	X	_	_	0	_	_	Ref=NUM_4.49
+35	fún	fún	X	_	_	0	_	_	Ref=NUM_4.49
+36	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_4.49|SpaceAfter=No
+37	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_4.49
+

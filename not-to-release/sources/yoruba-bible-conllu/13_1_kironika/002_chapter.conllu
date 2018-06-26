@@ -1,0 +1,1151 @@
+# source = Bibeli Mimọ, 1 Kíróníkà, Chapter 2
+# newdoc id = 1CHR_2
+# sent_id = 1CHR_2.1
+# text = Àwọn wọ̀nyí ni àwọn ọmọ Ísírẹ́lì. Réúbẹ́nì, Símónì, Léfì, Júdà, Ísákárì, Ṣébúlúnì,
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.1
+2	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_2.1
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.1
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.1
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.1
+6	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=1CHR_2.1|SpaceAfter=No
+7	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.1
+8	Réúbẹ́nì	Réúbẹ́nì	PROPN	_	_	0	_	_	Ref=1CHR_2.1|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.1
+10	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=1CHR_2.1|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.1
+12	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=1CHR_2.1|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.1
+14	Júdà	júdà	X	_	_	0	_	_	Ref=1CHR_2.1|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.1
+16	Ísákárì	Ísákárì	PROPN	_	_	0	_	_	Ref=1CHR_2.1|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.1
+18	Ṣébúlúnì	ṣébúlúnì	X	_	_	0	_	_	Ref=1CHR_2.1|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.1
+
+# sent_id = 1CHR_2.2
+# text = Dánì, Jóṣẹ́fù, Bẹ́ńjámínì; Náfítanì, Gádì: àti Áṣérì.
+1	Dánì	dánì	X	_	_	0	_	_	Ref=1CHR_2.2|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.2
+3	Jóṣẹ́fù	Jóṣẹ́fù	PROPN	_	_	0	_	_	Ref=1CHR_2.2|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.2
+5	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=1CHR_2.2|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=1CHR_2.2
+7	Náfítanì	Náfítanì	PROPN	_	_	0	_	_	Ref=1CHR_2.2|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.2
+9	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=1CHR_2.2|SpaceAfter=No
+10	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.2
+11	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.2
+12	Áṣérì	Áṣérì	PROPN	_	_	0	_	_	Ref=1CHR_2.2|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.2
+
+# sent_id = 1CHR_2.3
+# text = Àwọn ọmọ Júdà: Érì, Ónánì àti Ṣélà, àwọn mẹ́tẹ̀ta wọ̀nyí ni wọ́n bí fún un láti ọ̀dọ̀ arábìnrin Kénánì, ọmọbìnrin Súà Érì àkọ́bí Júdà, ó sì burú ní ojú Olúwa ; Bẹ́ẹ̀ ni Olúwa sì pa á.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.3
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.3
+3	Júdà	júdà	X	_	_	0	_	_	Ref=1CHR_2.3|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.3
+5	Érì	Érì	PROPN	_	_	0	_	_	Ref=1CHR_2.3|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.3
+7	Ónánì	Ónánì	PROPN	_	_	0	_	_	Ref=1CHR_2.3
+8	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.3
+9	Ṣélà	Ṣélà	PROPN	_	_	0	_	_	Ref=1CHR_2.3|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.3
+11	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.3
+12	mẹ́tẹ̀ta	mẹ́tẹ̀ta	X	_	_	0	_	_	Ref=1CHR_2.3
+13	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_2.3
+14	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.3
+15	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_2.3
+16	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.3
+17	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.3
+18	un	un	X	_	_	0	_	_	Ref=1CHR_2.3
+19	láti	láti	X	_	_	0	_	_	Ref=1CHR_2.3
+20	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=1CHR_2.3
+21	arábìnrin	arábìnrin	X	_	_	0	_	_	Ref=1CHR_2.3
+22	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=1CHR_2.3|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.3
+24	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=1CHR_2.3
+25	Súà	Súà	PROPN	_	_	0	_	_	Ref=1CHR_2.3
+26	Érì	Érì	PROPN	_	_	0	_	_	Ref=1CHR_2.3
+27	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_2.3
+28	Júdà	júdà	X	_	_	0	_	_	Ref=1CHR_2.3|SpaceAfter=No
+29	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.3
+30	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.3
+31	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.3
+32	burú	burú	X	_	_	0	_	_	Ref=1CHR_2.3
+33	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.3
+34	ojú	ojú	X	_	_	0	_	_	Ref=1CHR_2.3
+35	Olúwa	olúwa	X	_	_	0	_	_	Ref=1CHR_2.3
+36	;	;	PUNCT	_	_	0	punct	_	Ref=1CHR_2.3
+37	Bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=1CHR_2.3
+38	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.3
+39	Olúwa	olúwa	X	_	_	0	_	_	Ref=1CHR_2.3
+40	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.3
+41	pa	pa	X	_	_	0	_	_	Ref=1CHR_2.3
+42	á	á	X	_	_	0	_	_	Ref=1CHR_2.3|SpaceAfter=No
+43	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.3
+
+# sent_id = 1CHR_2.4
+# text = Támárì, aya ọmọbìnrin Júdà, ó sì bí Fárésì àti Ṣérà sì ní ọmọ márùn ún ní àpapọ̀
+1	Támárì	Támárì	PROPN	_	_	0	_	_	Ref=1CHR_2.4|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.4
+3	aya	aya	X	_	_	0	_	_	Ref=1CHR_2.4
+4	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=1CHR_2.4
+5	Júdà	júdà	X	_	_	0	_	_	Ref=1CHR_2.4|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.4
+7	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.4
+8	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.4
+9	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.4
+10	Fárésì	Fárésì	PROPN	_	_	0	_	_	Ref=1CHR_2.4
+11	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.4
+12	Ṣérà	Ṣérà	PROPN	_	_	0	_	_	Ref=1CHR_2.4
+13	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.4
+14	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.4
+15	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.4
+16	márùn	márùn	X	_	_	0	_	_	Ref=1CHR_2.4
+17	ún	ún	X	_	_	0	_	_	Ref=1CHR_2.4
+18	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.4
+19	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=1CHR_2.4
+
+# sent_id = 1CHR_2.5
+# text = Àwọn ọmọ Fárésì: Hésírónì àti Hámúlù.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.5
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.5
+3	Fárésì	Fárésì	PROPN	_	_	0	_	_	Ref=1CHR_2.5|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.5
+5	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=1CHR_2.5
+6	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.5
+7	Hámúlù	Hámúlù	PROPN	_	_	0	_	_	Ref=1CHR_2.5|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.5
+
+# sent_id = 1CHR_2.6
+# text = Àwọn ọmọ Ṣérà: Ṣímírì, Étanì, Hémánì, Kálíkólì àti Darà, gbogbo wọn jẹ́ márùn ún.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.6
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.6
+3	Ṣérà	Ṣérà	PROPN	_	_	0	_	_	Ref=1CHR_2.6|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.6
+5	Ṣímírì	Ṣímírì	PROPN	_	_	0	_	_	Ref=1CHR_2.6|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.6
+7	Étanì	Étanì	PROPN	_	_	0	_	_	Ref=1CHR_2.6|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.6
+9	Hémánì	Hémánì	PROPN	_	_	0	_	_	Ref=1CHR_2.6|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.6
+11	Kálíkólì	Kálíkólì	PROPN	_	_	0	_	_	Ref=1CHR_2.6
+12	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.6
+13	Darà	Darà	PROPN	_	_	0	_	_	Ref=1CHR_2.6|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.6
+15	gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_2.6
+16	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_2.6
+17	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.6
+18	márùn	márùn	X	_	_	0	_	_	Ref=1CHR_2.6
+19	ún	ún	X	_	_	0	_	_	Ref=1CHR_2.6|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.6
+
+# sent_id = 1CHR_2.7
+# text = Àwọn ọmọ Kárímì: Ákárì, ẹni tí ó mú ìyọnu wá sórí Ísírẹ́lì nípa ẹ̀ṣẹ̀ ìfibú lórí mímú ohun ìyàsọ́tọ̀.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.7
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.7
+3	Kárímì	Kárímì	PROPN	_	_	0	_	_	Ref=1CHR_2.7|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.7
+5	Ákárì	Ákárì	PROPN	_	_	0	_	_	Ref=1CHR_2.7|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.7
+7	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.7
+8	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.7
+9	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.7
+10	mú	mú	X	_	_	0	_	_	Ref=1CHR_2.7
+11	ìyọnu	ìyọnu	X	_	_	0	_	_	Ref=1CHR_2.7
+12	wá	wá	X	_	_	0	_	_	Ref=1CHR_2.7
+13	sórí	sórí	X	_	_	0	_	_	Ref=1CHR_2.7
+14	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=1CHR_2.7
+15	nípa	nípa	X	_	_	0	_	_	Ref=1CHR_2.7
+16	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=1CHR_2.7
+17	ìfibú	ìfibú	X	_	_	0	_	_	Ref=1CHR_2.7
+18	lórí	lórí	X	_	_	0	_	_	Ref=1CHR_2.7
+19	mímú	mímú	X	_	_	0	_	_	Ref=1CHR_2.7
+20	ohun	ohun	X	_	_	0	_	_	Ref=1CHR_2.7
+21	ìyàsọ́tọ̀	ìyàsọ́tọ̀	X	_	_	0	_	_	Ref=1CHR_2.7|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.7
+
+# sent_id = 1CHR_2.8
+# text = Àwọn ọmọ Étanì: Áṣáríyà
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.8
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.8
+3	Étanì	Étanì	PROPN	_	_	0	_	_	Ref=1CHR_2.8|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.8
+5	Áṣáríyà	Áṣáríyà	PROPN	_	_	0	_	_	Ref=1CHR_2.8
+
+# sent_id = 1CHR_2.9
+# text = Àwọn ọmọ tí a bí fún Hésírónì ni: Jéráhímélì, Rámù àti Kélẹ́bù.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.9
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.9
+3	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.9
+4	a	a	X	_	_	0	_	_	Ref=1CHR_2.9
+5	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.9
+6	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.9
+7	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=1CHR_2.9
+8	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.9|SpaceAfter=No
+9	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.9
+10	Jéráhímélì	Jéráhímélì	PROPN	_	_	0	_	_	Ref=1CHR_2.9|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.9
+12	Rámù	Rámù	PROPN	_	_	0	_	_	Ref=1CHR_2.9
+13	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.9
+14	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.9|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.9
+
+# sent_id = 1CHR_2.10
+# text = Rámù sì ni baba Ámínádábù, àti Ámínádábù baba Náṣónì olórí àwọn ènìyàn Júdà.
+1	Rámù	Rámù	PROPN	_	_	0	_	_	Ref=1CHR_2.10
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.10
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.10
+4	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.10
+5	Ámínádábù	Ámínádábù	PROPN	_	_	0	_	_	Ref=1CHR_2.10|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.10
+7	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.10
+8	Ámínádábù	Ámínádábù	PROPN	_	_	0	_	_	Ref=1CHR_2.10
+9	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.10
+10	Náṣónì	Náṣónì	PROPN	_	_	0	_	_	Ref=1CHR_2.10
+11	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_2.10
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.10
+13	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=1CHR_2.10
+14	Júdà	júdà	X	_	_	0	_	_	Ref=1CHR_2.10|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.10
+
+# sent_id = 1CHR_2.11
+# text = Náṣónì sì ni baba Sálímà, Sálímà ni baba Bóásì,
+1	Náṣónì	Náṣónì	PROPN	_	_	0	_	_	Ref=1CHR_2.11
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.11
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.11
+4	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.11
+5	Sálímà	Sálímà	PROPN	_	_	0	_	_	Ref=1CHR_2.11|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.11
+7	Sálímà	Sálímà	PROPN	_	_	0	_	_	Ref=1CHR_2.11
+8	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.11
+9	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.11
+10	Bóásì	Bóásì	PROPN	_	_	0	_	_	Ref=1CHR_2.11|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.11
+
+# sent_id = 1CHR_2.12
+# text = Bóásì baba Óbédì àti Óbédì baba Jésè.
+1	Bóásì	Bóásì	PROPN	_	_	0	_	_	Ref=1CHR_2.12
+2	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.12
+3	Óbédì	Óbédì	PROPN	_	_	0	_	_	Ref=1CHR_2.12
+4	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.12
+5	Óbédì	Óbédì	PROPN	_	_	0	_	_	Ref=1CHR_2.12
+6	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.12
+7	Jésè	Jésè	PROPN	_	_	0	_	_	Ref=1CHR_2.12|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.12
+
+# sent_id = 1CHR_2.13
+# text = Jésè sì ni Baba Élíábù àkọ́bí Rẹ̀; ọmọ ẹlẹ́ẹ̀kẹjì sì ni Ábínádábù, ẹlẹ́ẹ̀kẹta ni Ṣíméà,
+1	Jésè	Jésè	PROPN	_	_	0	_	_	Ref=1CHR_2.13
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.13
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.13
+4	Baba	baba	X	_	_	0	_	_	Ref=1CHR_2.13
+5	Élíábù	Élíábù	PROPN	_	_	0	_	_	Ref=1CHR_2.13
+6	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_2.13
+7	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.13|SpaceAfter=No
+8	;	;	PUNCT	_	_	0	punct	_	Ref=1CHR_2.13
+9	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.13
+10	ẹlẹ́ẹ̀kẹjì	ẹlẹ́ẹ̀kẹjì	X	_	_	0	_	_	Ref=1CHR_2.13
+11	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.13
+12	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.13
+13	Ábínádábù	Ábínádábù	PROPN	_	_	0	_	_	Ref=1CHR_2.13|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.13
+15	ẹlẹ́ẹ̀kẹta	ẹlẹ́ẹ̀kẹta	X	_	_	0	_	_	Ref=1CHR_2.13
+16	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.13
+17	Ṣíméà	Ṣíméà	PROPN	_	_	0	_	_	Ref=1CHR_2.13|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.13
+
+# sent_id = 1CHR_2.14
+# text = Ẹlẹ́ẹ̀kẹrin Nàtaníẹ́lì, ẹlẹ́ẹ̀káàrùn-ún Rádáì,
+1	Ẹlẹ́ẹ̀kẹrin	ẹlẹ́ẹ̀kẹrin	X	_	_	0	_	_	Ref=1CHR_2.14
+2	Nàtaníẹ́lì	Nàtaníẹ́lì	PROPN	_	_	0	_	_	Ref=1CHR_2.14|SpaceAfter=No
+3	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.14
+4	ẹlẹ́ẹ̀káàrùn	ẹlẹ́ẹ̀káàrùn	X	_	_	0	_	_	Ref=1CHR_2.14|SpaceAfter=No
+5	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.14|SpaceAfter=No
+6	ún	ún	X	_	_	0	_	_	Ref=1CHR_2.14
+7	Rádáì	Rádáì	PROPN	_	_	0	_	_	Ref=1CHR_2.14|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.14
+
+# sent_id = 1CHR_2.15
+# text = ẹlẹ́ẹ̀kẹfà Ósémù àti ẹlẹ́ẹ̀keje Dáfídì.
+1	ẹlẹ́ẹ̀kẹfà	ẹlẹ́ẹ̀kẹfà	X	_	_	0	_	_	Ref=1CHR_2.15
+2	Ósémù	Ósémù	PROPN	_	_	0	_	_	Ref=1CHR_2.15
+3	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.15
+4	ẹlẹ́ẹ̀keje	ẹlẹ́ẹ̀keje	X	_	_	0	_	_	Ref=1CHR_2.15
+5	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=1CHR_2.15|SpaceAfter=No
+6	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.15
+
+# sent_id = 1CHR_2.16
+# text = Àwọn arábìnrin wọn ni Ṣérúà àti Ábígáílì. Àwọn ọmọ mẹ́ta Ṣérúà ni Ábíṣáì, Jóábù àti Ásáélì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.16
+2	arábìnrin	arábìnrin	X	_	_	0	_	_	Ref=1CHR_2.16
+3	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_2.16
+4	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.16
+5	Ṣérúà	Ṣérúà	PROPN	_	_	0	_	_	Ref=1CHR_2.16
+6	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.16
+7	Ábígáílì	Ábígáílì	PROPN	_	_	0	_	_	Ref=1CHR_2.16|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.16
+9	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.16
+10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.16
+11	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=1CHR_2.16
+12	Ṣérúà	Ṣérúà	PROPN	_	_	0	_	_	Ref=1CHR_2.16
+13	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.16
+14	Ábíṣáì	Ábíṣáì	PROPN	_	_	0	_	_	Ref=1CHR_2.16|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.16
+16	Jóábù	Jóábù	PROPN	_	_	0	_	_	Ref=1CHR_2.16
+17	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.16
+18	Ásáélì	Ásáélì	PROPN	_	_	0	_	_	Ref=1CHR_2.16|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.16
+
+# sent_id = 1CHR_2.17
+# text = Ábígáílì ni ìyá Ámásà, ẹni tí baba Rẹ̀ sì jẹ́ Jétérì ará Íṣímáẹ́lì.
+1	Ábígáílì	Ábígáílì	PROPN	_	_	0	_	_	Ref=1CHR_2.17
+2	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.17
+3	ìyá	ìyá	X	_	_	0	_	_	Ref=1CHR_2.17
+4	Ámásà	Ámásà	PROPN	_	_	0	_	_	Ref=1CHR_2.17|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.17
+6	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.17
+7	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.17
+8	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.17
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.17
+10	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.17
+11	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.17
+12	Jétérì	Jétérì	PROPN	_	_	0	_	_	Ref=1CHR_2.17
+13	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.17
+14	Íṣímáẹ́lì	Íṣímáẹ́lì	PROPN	_	_	0	_	_	Ref=1CHR_2.17|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.17
+
+# sent_id = 1CHR_2.18
+# text = Kélẹ́bù ọmọ Hésírónì ní ọmọ láti ọ̀dọ̀ ìyàwó Rẹ̀ Ásúbà (láti ọ̀dọ̀ Jéríótù). Àwọn wọ̀nyí ni àwọn ọmọ Rẹ̀: Jéṣérì, Ṣóbábù àti Árídónì.
+1	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.18
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.18
+3	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=1CHR_2.18
+4	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.18
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.18
+6	láti	láti	X	_	_	0	_	_	Ref=1CHR_2.18
+7	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=1CHR_2.18
+8	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_2.18
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.18
+10	Ásúbà	Ásúbà	PROPN	_	_	0	_	_	Ref=1CHR_2.18
+11	(	(	PUNCT	_	_	0	punct	_	Ref=1CHR_2.18|SpaceAfter=No
+12	láti	láti	X	_	_	0	_	_	Ref=1CHR_2.18
+13	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=1CHR_2.18
+14	Jéríótù	Jéríótù	PROPN	_	_	0	_	_	Ref=1CHR_2.18|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=1CHR_2.18|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.18
+17	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.18
+18	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_2.18
+19	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.18
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.18
+21	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.18
+22	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.18|SpaceAfter=No
+23	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.18
+24	Jéṣérì	Jéṣérì	PROPN	_	_	0	_	_	Ref=1CHR_2.18|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.18
+26	Ṣóbábù	Ṣóbábù	PROPN	_	_	0	_	_	Ref=1CHR_2.18
+27	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.18
+28	Árídónì	Árídónì	PROPN	_	_	0	_	_	Ref=1CHR_2.18|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.18
+
+# sent_id = 1CHR_2.19
+# text = Nígbà tí Ásúbà sì kú, Kélẹ́bù sì fẹ́ Éfúrátì ní aya, ẹni tí ó bí Húrì fún un.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=1CHR_2.19
+2	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.19
+3	Ásúbà	Ásúbà	PROPN	_	_	0	_	_	Ref=1CHR_2.19
+4	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.19
+5	kú	kú	X	_	_	0	_	_	Ref=1CHR_2.19|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.19
+7	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.19
+8	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.19
+9	fẹ́	fẹ́	X	_	_	0	_	_	Ref=1CHR_2.19
+10	Éfúrátì	Éfúrátì	PROPN	_	_	0	_	_	Ref=1CHR_2.19
+11	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.19
+12	aya	aya	X	_	_	0	_	_	Ref=1CHR_2.19|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.19
+14	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.19
+15	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.19
+16	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.19
+17	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.19
+18	Húrì	Húrì	PROPN	_	_	0	_	_	Ref=1CHR_2.19
+19	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.19
+20	un	un	X	_	_	0	_	_	Ref=1CHR_2.19|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.19
+
+# sent_id = 1CHR_2.20
+# text = Húrì ni baba Úrù, Úrù sì jẹ́ baba Bésálélì.
+1	Húrì	Húrì	PROPN	_	_	0	_	_	Ref=1CHR_2.20
+2	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.20
+3	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.20
+4	Úrù	Úrù	PROPN	_	_	0	_	_	Ref=1CHR_2.20|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.20
+6	Úrù	Úrù	PROPN	_	_	0	_	_	Ref=1CHR_2.20
+7	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.20
+8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.20
+9	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.20
+10	Bésálélì	Bésálélì	PROPN	_	_	0	_	_	Ref=1CHR_2.20|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.20
+
+# sent_id = 1CHR_2.21
+# text = Nígbà tí ó yá, Hésírónì sì dùbúlẹ̀ pẹ̀lú ọmọbìnrin Mákírì baba Gílíádì (ó sì ti fẹ́ ní aya láti ìgbà tí ó ti wà ní ẹni ọgọ́ta ọdún) ó sì bí Ṣégúbù.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=1CHR_2.21
+2	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.21
+3	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.21
+4	yá	yá	X	_	_	0	_	_	Ref=1CHR_2.21|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.21
+6	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=1CHR_2.21
+7	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.21
+8	dùbúlẹ̀	dùbúlẹ̀	X	_	_	0	_	_	Ref=1CHR_2.21
+9	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_2.21
+10	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=1CHR_2.21
+11	Mákírì	Mákírì	PROPN	_	_	0	_	_	Ref=1CHR_2.21
+12	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.21
+13	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=1CHR_2.21
+14	(	(	PUNCT	_	_	0	punct	_	Ref=1CHR_2.21|SpaceAfter=No
+15	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.21
+16	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.21
+17	ti	ti	X	_	_	0	_	_	Ref=1CHR_2.21
+18	fẹ́	fẹ́	X	_	_	0	_	_	Ref=1CHR_2.21
+19	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.21
+20	aya	aya	X	_	_	0	_	_	Ref=1CHR_2.21
+21	láti	láti	X	_	_	0	_	_	Ref=1CHR_2.21
+22	ìgbà	ìgbà	X	_	_	0	_	_	Ref=1CHR_2.21
+23	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.21
+24	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.21
+25	ti	ti	X	_	_	0	_	_	Ref=1CHR_2.21
+26	wà	wà	X	_	_	0	_	_	Ref=1CHR_2.21
+27	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.21
+28	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.21
+29	ọgọ́ta	ọgọ́ta	X	_	_	0	_	_	Ref=1CHR_2.21
+30	ọdún	ọdún	X	_	_	0	_	_	Ref=1CHR_2.21|SpaceAfter=No
+31	)	)	PUNCT	_	_	0	punct	_	Ref=1CHR_2.21
+32	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.21
+33	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.21
+34	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.21
+35	Ṣégúbù	Ṣégúbù	PROPN	_	_	0	_	_	Ref=1CHR_2.21|SpaceAfter=No
+36	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.21
+
+# sent_id = 1CHR_2.22
+# text = Ṣégúbù sì jẹ́ bàbá Jáírì, ẹni tí ó jẹ́ olùdarí ìlú mẹ́talélógún ní ilẹ̀ Gílíádì.
+1	Ṣégúbù	Ṣégúbù	PROPN	_	_	0	_	_	Ref=1CHR_2.22
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.22
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.22
+4	bàbá	bàbá	X	_	_	0	_	_	Ref=1CHR_2.22
+5	Jáírì	Jáírì	PROPN	_	_	0	_	_	Ref=1CHR_2.22|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.22
+7	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.22
+8	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.22
+9	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.22
+10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.22
+11	olùdarí	olùdarí	X	_	_	0	_	_	Ref=1CHR_2.22
+12	ìlú	ìlú	X	_	_	0	_	_	Ref=1CHR_2.22
+13	mẹ́talélógún	mẹ́talélógún	X	_	_	0	_	_	Ref=1CHR_2.22
+14	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.22
+15	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=1CHR_2.22
+16	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=1CHR_2.22|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.22
+
+# sent_id = 1CHR_2.23
+# text = (Ṣùgbọ́n Gésúrì àti Árámù sì fi agbára gba Hafoti Jáírì, àti Kénátì pẹ̀lú gbogbo agbégbé Rẹ̀ tí wọn tẹ̀dó sí jẹ́ ọgọ́ta ìlú.) Gbogbo wọ̀nyí ni àwọn ọmọ Mákírì Baba Gílíádì.
+1	(	(	PUNCT	_	_	0	punct	_	Ref=1CHR_2.23|SpaceAfter=No
+2	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=1CHR_2.23
+3	Gésúrì	Gésúrì	PROPN	_	_	0	_	_	Ref=1CHR_2.23
+4	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.23
+5	Árámù	Árámù	PROPN	_	_	0	_	_	Ref=1CHR_2.23
+6	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.23
+7	fi	fi	X	_	_	0	_	_	Ref=1CHR_2.23
+8	agbára	agbára	X	_	_	0	_	_	Ref=1CHR_2.23
+9	gba	gba	X	_	_	0	_	_	Ref=1CHR_2.23
+10	Hafoti	Hafoti	PROPN	_	_	0	_	_	Ref=1CHR_2.23
+11	Jáírì	Jáírì	PROPN	_	_	0	_	_	Ref=1CHR_2.23|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.23
+13	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.23
+14	Kénátì	Kénátì	PROPN	_	_	0	_	_	Ref=1CHR_2.23
+15	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_2.23
+16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_2.23
+17	agbégbé	agbégbé	X	_	_	0	_	_	Ref=1CHR_2.23
+18	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.23
+19	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.23
+20	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_2.23
+21	tẹ̀dó	tẹ̀dó	X	_	_	0	_	_	Ref=1CHR_2.23
+22	sí	sí	X	_	_	0	_	_	Ref=1CHR_2.23
+23	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.23
+24	ọgọ́ta	ọgọ́ta	X	_	_	0	_	_	Ref=1CHR_2.23
+25	ìlú	ìlú	X	_	_	0	_	_	Ref=1CHR_2.23|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.23|SpaceAfter=No
+27	)	)	PUNCT	_	_	0	punct	_	Ref=1CHR_2.23
+28	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_2.23
+29	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_2.23
+30	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.23
+31	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.23
+32	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.23
+33	Mákírì	Mákírì	PROPN	_	_	0	_	_	Ref=1CHR_2.23
+34	Baba	baba	X	_	_	0	_	_	Ref=1CHR_2.23
+35	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=1CHR_2.23|SpaceAfter=No
+36	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.23
+
+# sent_id = 1CHR_2.24
+# text = Lẹ́yìn tí Hésírónì sì kú ni Kélẹ́bù Éfúrátà, Ábíà ìyàwó Rẹ̀ ti Hésírónì sì bí Áṣúrì baba Tẹ́kóà fún un
+1	Lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=1CHR_2.24
+2	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.24
+3	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=1CHR_2.24
+4	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.24
+5	kú	kú	X	_	_	0	_	_	Ref=1CHR_2.24
+6	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.24
+7	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.24
+8	Éfúrátà	Éfúrátà	PROPN	_	_	0	_	_	Ref=1CHR_2.24|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.24
+10	Ábíà	Ábíà	PROPN	_	_	0	_	_	Ref=1CHR_2.24
+11	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_2.24
+12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.24
+13	ti	ti	X	_	_	0	_	_	Ref=1CHR_2.24
+14	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=1CHR_2.24
+15	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.24
+16	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.24
+17	Áṣúrì	Áṣúrì	PROPN	_	_	0	_	_	Ref=1CHR_2.24
+18	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.24
+19	Tẹ́kóà	Tẹ́kóà	PROPN	_	_	0	_	_	Ref=1CHR_2.24
+20	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.24
+21	un	un	X	_	_	0	_	_	Ref=1CHR_2.24
+
+# sent_id = 1CHR_2.25
+# text = Ọmọ Jéráhímélì àkọ́bí Hésírónì: Rámà ọmọ àkọ́bí Rẹ̀ Búnà, Órénì, óṣémù àti Áhíjà.
+1	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.25
+2	Jéráhímélì	Jéráhímélì	PROPN	_	_	0	_	_	Ref=1CHR_2.25
+3	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_2.25
+4	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=1CHR_2.25|SpaceAfter=No
+5	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.25
+6	Rámà	Rámà	PROPN	_	_	0	_	_	Ref=1CHR_2.25
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.25
+8	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_2.25
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.25
+10	Búnà	Búnà	PROPN	_	_	0	_	_	Ref=1CHR_2.25|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.25
+12	Órénì	Órénì	PROPN	_	_	0	_	_	Ref=1CHR_2.25|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.25
+14	óṣémù	óṣémù	X	_	_	0	_	_	Ref=1CHR_2.25
+15	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.25
+16	Áhíjà	Áhíjà	PROPN	_	_	0	_	_	Ref=1CHR_2.25|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.25
+
+# sent_id = 1CHR_2.26
+# text = Jéráhímélì ní ìyàwó mìíràn, ẹni tí orúkọ Rẹ̀ ń jẹ́ Átarà; ó sì jẹ́ ìyá fún Ónámù.
+1	Jéráhímélì	Jéráhímélì	PROPN	_	_	0	_	_	Ref=1CHR_2.26
+2	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.26
+3	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_2.26
+4	mìíràn	mìíràn	X	_	_	0	_	_	Ref=1CHR_2.26|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.26
+6	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.26
+7	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.26
+8	orúkọ	orúkọ	X	_	_	0	_	_	Ref=1CHR_2.26
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.26
+10	ń	ń	X	_	_	0	_	_	Ref=1CHR_2.26
+11	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.26
+12	Átarà	Átarà	PROPN	_	_	0	_	_	Ref=1CHR_2.26|SpaceAfter=No
+13	;	;	PUNCT	_	_	0	punct	_	Ref=1CHR_2.26
+14	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.26
+15	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.26
+16	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.26
+17	ìyá	ìyá	X	_	_	0	_	_	Ref=1CHR_2.26
+18	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.26
+19	Ónámù	Ónámù	PROPN	_	_	0	_	_	Ref=1CHR_2.26|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.26
+
+# sent_id = 1CHR_2.27
+# text = Àwọn ọmọ Rámà àkọ́bí Jéráhímélì: Másì, Jámínì àti Ékérì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.27
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.27
+3	Rámà	Rámà	PROPN	_	_	0	_	_	Ref=1CHR_2.27
+4	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_2.27
+5	Jéráhímélì	Jéráhímélì	PROPN	_	_	0	_	_	Ref=1CHR_2.27|SpaceAfter=No
+6	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.27
+7	Másì	Másì	PROPN	_	_	0	_	_	Ref=1CHR_2.27|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.27
+9	Jámínì	Jámínì	PROPN	_	_	0	_	_	Ref=1CHR_2.27
+10	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.27
+11	Ékérì	Ékérì	PROPN	_	_	0	_	_	Ref=1CHR_2.27|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.27
+
+# sent_id = 1CHR_2.28
+# text = Àwọn ọmọ Ónámù: Ṣámáì àti Jádà. Àwọn ọmọ Ṣámáì: Nádábù àti Ábísúrì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.28
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.28
+3	Ónámù	Ónámù	PROPN	_	_	0	_	_	Ref=1CHR_2.28|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.28
+5	Ṣámáì	ṣámáì	X	_	_	0	_	_	Ref=1CHR_2.28
+6	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.28
+7	Jádà	Jádà	PROPN	_	_	0	_	_	Ref=1CHR_2.28|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.28
+9	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.28
+10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.28
+11	Ṣámáì	ṣámáì	X	_	_	0	_	_	Ref=1CHR_2.28|SpaceAfter=No
+12	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.28
+13	Nádábù	Nádábù	PROPN	_	_	0	_	_	Ref=1CHR_2.28
+14	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.28
+15	Ábísúrì	Ábísúrì	PROPN	_	_	0	_	_	Ref=1CHR_2.28|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.28
+
+# sent_id = 1CHR_2.29
+# text = Orúkọ ìyàwó Ábísúrì ni Ábíháílì ẹni tí ó bí Áhíbánì àti Mólídì.
+1	Orúkọ	orúkọ	X	_	_	0	_	_	Ref=1CHR_2.29
+2	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_2.29
+3	Ábísúrì	Ábísúrì	PROPN	_	_	0	_	_	Ref=1CHR_2.29
+4	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.29
+5	Ábíháílì	Ábíháílì	PROPN	_	_	0	_	_	Ref=1CHR_2.29
+6	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.29
+7	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.29
+8	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.29
+9	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.29
+10	Áhíbánì	Áhíbánì	PROPN	_	_	0	_	_	Ref=1CHR_2.29
+11	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.29
+12	Mólídì	Mólídì	PROPN	_	_	0	_	_	Ref=1CHR_2.29|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.29
+
+# sent_id = 1CHR_2.30
+# text = Àwọn ọmọ Nádábù Ṣélédì àti Ápáímù. Ṣélédì sì kú láìsí ọmọ.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.30
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.30
+3	Nádábù	Nádábù	PROPN	_	_	0	_	_	Ref=1CHR_2.30
+4	Ṣélédì	Ṣélédì	PROPN	_	_	0	_	_	Ref=1CHR_2.30
+5	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.30
+6	Ápáímù	Ápáímù	PROPN	_	_	0	_	_	Ref=1CHR_2.30|SpaceAfter=No
+7	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.30
+8	Ṣélédì	Ṣélédì	PROPN	_	_	0	_	_	Ref=1CHR_2.30
+9	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.30
+10	kú	kú	X	_	_	0	_	_	Ref=1CHR_2.30
+11	láìsí	láìsí	X	_	_	0	_	_	Ref=1CHR_2.30
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.30|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.30
+
+# sent_id = 1CHR_2.31
+# text = Àwọn ọmọ Ápáímù: Isì, ẹnití ó jẹ́ baba fún Ṣésánì. Ṣésánì sì jẹ́ baba fún Áhíláì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.31
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.31
+3	Ápáímù	Ápáímù	PROPN	_	_	0	_	_	Ref=1CHR_2.31|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.31
+5	Isì	Isì	PROPN	_	_	0	_	_	Ref=1CHR_2.31|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.31
+7	ẹnití	ẹnití	X	_	_	0	_	_	Ref=1CHR_2.31
+8	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.31
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.31
+10	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.31
+11	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.31
+12	Ṣésánì	Ṣésánì	PROPN	_	_	0	_	_	Ref=1CHR_2.31|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.31
+14	Ṣésánì	Ṣésánì	PROPN	_	_	0	_	_	Ref=1CHR_2.31
+15	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.31
+16	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.31
+17	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.31
+18	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.31
+19	Áhíláì	Áhíláì	PROPN	_	_	0	_	_	Ref=1CHR_2.31|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.31
+
+# sent_id = 1CHR_2.32
+# text = Àwọn ọmọ Jádà, arákùnrin Ṣámáì: Jétérì àti Jónátanì. Jétérì sì kú láìní ọmọ.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.32
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.32
+3	Jádà	Jádà	PROPN	_	_	0	_	_	Ref=1CHR_2.32|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.32
+5	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=1CHR_2.32
+6	Ṣámáì	ṣámáì	X	_	_	0	_	_	Ref=1CHR_2.32|SpaceAfter=No
+7	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.32
+8	Jétérì	Jétérì	PROPN	_	_	0	_	_	Ref=1CHR_2.32
+9	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.32
+10	Jónátanì	Jónátanì	PROPN	_	_	0	_	_	Ref=1CHR_2.32|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.32
+12	Jétérì	Jétérì	PROPN	_	_	0	_	_	Ref=1CHR_2.32
+13	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.32
+14	kú	kú	X	_	_	0	_	_	Ref=1CHR_2.32
+15	láìní	láìní	X	_	_	0	_	_	Ref=1CHR_2.32
+16	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.32|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.32
+
+# sent_id = 1CHR_2.33
+# text = Àwọn ọmọ Jónátanì: Pélétì àti Ṣásà. Àwọn wọ̀nyí ni ọmọ Jéráhímẹ́lì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.33
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.33
+3	Jónátanì	Jónátanì	PROPN	_	_	0	_	_	Ref=1CHR_2.33|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.33
+5	Pélétì	pélétì	X	_	_	0	_	_	Ref=1CHR_2.33
+6	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.33
+7	Ṣásà	Ṣásà	PROPN	_	_	0	_	_	Ref=1CHR_2.33|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.33
+9	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.33
+10	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_2.33
+11	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.33
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.33
+13	Jéráhímẹ́lì	Jéráhímẹ́lì	PROPN	_	_	0	_	_	Ref=1CHR_2.33|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.33
+
+# sent_id = 1CHR_2.34
+# text = Ṣésánì kò sì ní ọmọkùnrin àwọn ọmọbìnrin nìkan ni ó ní. Ó sì ní ìránṣẹ́ ará Éjíbítì tí orúkọ Rẹ̀ ń jẹ́ Járíhà.
+1	Ṣésánì	Ṣésánì	PROPN	_	_	0	_	_	Ref=1CHR_2.34
+2	kò	kò	X	_	_	0	_	_	Ref=1CHR_2.34
+3	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.34
+4	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.34
+5	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_2.34
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.34
+7	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=1CHR_2.34
+8	nìkan	nìkan	X	_	_	0	_	_	Ref=1CHR_2.34
+9	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.34
+10	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.34
+11	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.34|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.34
+13	Ó	ó	X	_	_	0	_	_	Ref=1CHR_2.34
+14	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.34
+15	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.34
+16	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=1CHR_2.34
+17	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.34
+18	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=1CHR_2.34
+19	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.34
+20	orúkọ	orúkọ	X	_	_	0	_	_	Ref=1CHR_2.34
+21	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.34
+22	ń	ń	X	_	_	0	_	_	Ref=1CHR_2.34
+23	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.34
+24	Járíhà	Járíhà	PROPN	_	_	0	_	_	Ref=1CHR_2.34|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.34
+
+# sent_id = 1CHR_2.35
+# text = Ṣẹ́sánì sì fi ọmọ obìnrin Rẹ̀ ní aya fún ìránṣẹ́ Rẹ̀ Járíhà, ó sì bí ọmọ fún tí orúkọ Rẹ̀ jẹ́ Átaì.
+1	Ṣẹ́sánì	ṣẹ́sánì	X	_	_	0	_	_	Ref=1CHR_2.35
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.35
+3	fi	fi	X	_	_	0	_	_	Ref=1CHR_2.35
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.35
+5	obìnrin	obìnrin	X	_	_	0	_	_	Ref=1CHR_2.35
+6	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.35
+7	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.35
+8	aya	aya	X	_	_	0	_	_	Ref=1CHR_2.35
+9	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.35
+10	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=1CHR_2.35
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.35
+12	Járíhà	Járíhà	PROPN	_	_	0	_	_	Ref=1CHR_2.35|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.35
+14	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.35
+15	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.35
+16	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.35
+17	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.35
+18	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.35
+19	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.35
+20	orúkọ	orúkọ	X	_	_	0	_	_	Ref=1CHR_2.35
+21	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.35
+22	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.35
+23	Átaì	Átaì	PROPN	_	_	0	_	_	Ref=1CHR_2.35|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.35
+
+# sent_id = 1CHR_2.36
+# text = Átaì sì jẹ́ baba fún Nátanì, Nátanì sì jẹ́ baba fún Ṣábádì,
+1	Átaì	Átaì	PROPN	_	_	0	_	_	Ref=1CHR_2.36
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.36
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.36
+4	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.36
+5	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.36
+6	Nátanì	Nátanì	PROPN	_	_	0	_	_	Ref=1CHR_2.36|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.36
+8	Nátanì	Nátanì	PROPN	_	_	0	_	_	Ref=1CHR_2.36
+9	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.36
+10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.36
+11	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.36
+12	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.36
+13	Ṣábádì	Ṣábádì	PROPN	_	_	0	_	_	Ref=1CHR_2.36|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.36
+
+# sent_id = 1CHR_2.37
+# text = Ṣábádì ni baba Éfúlálì, Éfúlálì jẹ́ baba Óbédì,
+1	Ṣábádì	Ṣábádì	PROPN	_	_	0	_	_	Ref=1CHR_2.37
+2	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.37
+3	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.37
+4	Éfúlálì	Éfúlálì	PROPN	_	_	0	_	_	Ref=1CHR_2.37|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.37
+6	Éfúlálì	Éfúlálì	PROPN	_	_	0	_	_	Ref=1CHR_2.37
+7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.37
+8	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.37
+9	Óbédì	Óbédì	PROPN	_	_	0	_	_	Ref=1CHR_2.37|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.37
+
+# sent_id = 1CHR_2.38
+# text = Óbédì sì ni baba Jéhù, Jéhù ni baba Ásáríyà,
+1	Óbédì	Óbédì	PROPN	_	_	0	_	_	Ref=1CHR_2.38
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.38
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.38
+4	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.38
+5	Jéhù	Jéhù	PROPN	_	_	0	_	_	Ref=1CHR_2.38|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.38
+7	Jéhù	Jéhù	PROPN	_	_	0	_	_	Ref=1CHR_2.38
+8	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.38
+9	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.38
+10	Ásáríyà	Ásáríyà	PROPN	_	_	0	_	_	Ref=1CHR_2.38|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.38
+
+# sent_id = 1CHR_2.39
+# text = Ásáríyà sì ni baba Hélésì, Hélésì ni baba Éléáṣáì,
+1	Ásáríyà	Ásáríyà	PROPN	_	_	0	_	_	Ref=1CHR_2.39
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.39
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.39
+4	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.39
+5	Hélésì	Hélésì	PROPN	_	_	0	_	_	Ref=1CHR_2.39|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.39
+7	Hélésì	Hélésì	PROPN	_	_	0	_	_	Ref=1CHR_2.39
+8	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.39
+9	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.39
+10	Éléáṣáì	Éléáṣáì	PROPN	_	_	0	_	_	Ref=1CHR_2.39|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.39
+
+# sent_id = 1CHR_2.40
+# text = Éléáṣáì ni baba Ṣísámálì, Ṣísámálì ni baba Ṣálúmù,
+1	Éléáṣáì	Éléáṣáì	PROPN	_	_	0	_	_	Ref=1CHR_2.40
+2	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.40
+3	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.40
+4	Ṣísámálì	Ṣísámálì	PROPN	_	_	0	_	_	Ref=1CHR_2.40|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.40
+6	Ṣísámálì	Ṣísámálì	PROPN	_	_	0	_	_	Ref=1CHR_2.40
+7	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.40
+8	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.40
+9	Ṣálúmù	Ṣálúmù	PROPN	_	_	0	_	_	Ref=1CHR_2.40|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.40
+
+# sent_id = 1CHR_2.41
+# text = Ṣálúmù sì ni baba Élísámà.
+1	Ṣálúmù	Ṣálúmù	PROPN	_	_	0	_	_	Ref=1CHR_2.41
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.41
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.41
+4	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.41
+5	Élísámà	Élísámà	PROPN	_	_	0	_	_	Ref=1CHR_2.41|SpaceAfter=No
+6	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.41
+
+# sent_id = 1CHR_2.42
+# text = Àwọn ọmọ Kálébù arákùnrin Jérámélì: Méṣà àkọ́bí Rẹ̀, ẹni tí ó jẹ́ baba fún Ṣífì àti àwọn ọmọ Rẹ̀ Méréṣà, ẹni tí ó jẹ́ baba fún Hébúrónì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.42
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.42
+3	Kálébù	kálébù	X	_	_	0	_	_	Ref=1CHR_2.42
+4	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=1CHR_2.42
+5	Jérámélì	Jérámélì	PROPN	_	_	0	_	_	Ref=1CHR_2.42|SpaceAfter=No
+6	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.42
+7	Méṣà	Méṣà	PROPN	_	_	0	_	_	Ref=1CHR_2.42
+8	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_2.42
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.42|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.42
+11	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.42
+12	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.42
+13	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.42
+14	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.42
+15	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.42
+16	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.42
+17	Ṣífì	ṣífì	X	_	_	0	_	_	Ref=1CHR_2.42
+18	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.42
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.42
+20	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.42
+21	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_2.42
+22	Méréṣà	Méréṣà	PROPN	_	_	0	_	_	Ref=1CHR_2.42|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.42
+24	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.42
+25	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.42
+26	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.42
+27	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.42
+28	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.42
+29	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.42
+30	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=1CHR_2.42|SpaceAfter=No
+31	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.42
+
+# sent_id = 1CHR_2.43
+# text = Àwọn ọmọ Hébúrónì: Kórà, Tápúà, Rékémù, àti Ṣémà.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.43
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.43
+3	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=1CHR_2.43|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.43
+5	Kórà	kórà	X	_	_	0	_	_	Ref=1CHR_2.43|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.43
+7	Tápúà	Tápúà	PROPN	_	_	0	_	_	Ref=1CHR_2.43|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.43
+9	Rékémù	Rékémù	PROPN	_	_	0	_	_	Ref=1CHR_2.43|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.43
+11	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.43
+12	Ṣémà	Ṣémà	PROPN	_	_	0	_	_	Ref=1CHR_2.43|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.43
+
+# sent_id = 1CHR_2.44
+# text = Ṣémà ni baba Ráhámú Ráhámù sì jẹ́ baba fún Jóríkéámù. Rékémù sì ni baba Ṣémáì.
+1	Ṣémà	Ṣémà	PROPN	_	_	0	_	_	Ref=1CHR_2.44
+2	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.44
+3	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.44
+4	Ráhámú	Ráhámú	PROPN	_	_	0	_	_	Ref=1CHR_2.44
+5	Ráhámù	Ráhámù	PROPN	_	_	0	_	_	Ref=1CHR_2.44
+6	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.44
+7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_2.44
+8	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.44
+9	fún	fún	X	_	_	0	_	_	Ref=1CHR_2.44
+10	Jóríkéámù	Jóríkéámù	PROPN	_	_	0	_	_	Ref=1CHR_2.44|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.44
+12	Rékémù	Rékémù	PROPN	_	_	0	_	_	Ref=1CHR_2.44
+13	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.44
+14	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.44
+15	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.44
+16	Ṣémáì	Ṣémáì	PROPN	_	_	0	_	_	Ref=1CHR_2.44|SpaceAfter=No
+17	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.44
+
+# sent_id = 1CHR_2.45
+# text = Àwọn ọmọ Ṣémáì ni Máónì, Máónì sì ni baba Bétí-Ṣúri.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.45
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.45
+3	Ṣémáì	Ṣémáì	PROPN	_	_	0	_	_	Ref=1CHR_2.45
+4	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.45
+5	Máónì	Máónì	PROPN	_	_	0	_	_	Ref=1CHR_2.45|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.45
+7	Máónì	Máónì	PROPN	_	_	0	_	_	Ref=1CHR_2.45
+8	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.45
+9	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.45
+10	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.45
+11	Bétí	Bétí	PROPN	_	_	0	_	_	Ref=1CHR_2.45|SpaceAfter=No
+12	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.45|SpaceAfter=No
+13	Ṣúri	Ṣúri	PROPN	_	_	0	_	_	Ref=1CHR_2.45|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.45
+
+# sent_id = 1CHR_2.46
+# text = Éfà Obìnrin Kélẹ́bù sì ni ìyá Hárà nì, Mósà àti Gásésì, Háránì sì ni baba Gásésì.
+1	Éfà	éfà	X	_	_	0	_	_	Ref=1CHR_2.46
+2	Obìnrin	obìnrin	X	_	_	0	_	_	Ref=1CHR_2.46
+3	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.46
+4	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.46
+5	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.46
+6	ìyá	ìyá	X	_	_	0	_	_	Ref=1CHR_2.46
+7	Hárà	Hárà	PROPN	_	_	0	_	_	Ref=1CHR_2.46
+8	nì	nì	X	_	_	0	_	_	Ref=1CHR_2.46|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.46
+10	Mósà	Mósà	PROPN	_	_	0	_	_	Ref=1CHR_2.46
+11	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.46
+12	Gásésì	Gásésì	PROPN	_	_	0	_	_	Ref=1CHR_2.46|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.46
+14	Háránì	Háránì	PROPN	_	_	0	_	_	Ref=1CHR_2.46
+15	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.46
+16	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.46
+17	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.46
+18	Gásésì	Gásésì	PROPN	_	_	0	_	_	Ref=1CHR_2.46|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.46
+
+# sent_id = 1CHR_2.47
+# text = Àwọn ọmọ Jádáì: Régémù, Jótamù, Gésánì, Pétélì, Éfà àti Ṣáfù.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.47
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.47
+3	Jádáì	Jádáì	PROPN	_	_	0	_	_	Ref=1CHR_2.47|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.47
+5	Régémù	Régémù	PROPN	_	_	0	_	_	Ref=1CHR_2.47|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.47
+7	Jótamù	Jótamù	PROPN	_	_	0	_	_	Ref=1CHR_2.47|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.47
+9	Gésánì	Gésánì	PROPN	_	_	0	_	_	Ref=1CHR_2.47|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.47
+11	Pétélì	Pétélì	PROPN	_	_	0	_	_	Ref=1CHR_2.47|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.47
+13	Éfà	éfà	X	_	_	0	_	_	Ref=1CHR_2.47
+14	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.47
+15	Ṣáfù	Ṣáfù	PROPN	_	_	0	_	_	Ref=1CHR_2.47|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.47
+
+# sent_id = 1CHR_2.48
+# text = Mákà obìnrin Kélẹ́bù sì ni ìyá Ṣébérì àti Tíránà.
+1	Mákà	Mákà	PROPN	_	_	0	_	_	Ref=1CHR_2.48
+2	obìnrin	obìnrin	X	_	_	0	_	_	Ref=1CHR_2.48
+3	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.48
+4	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.48
+5	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.48
+6	ìyá	ìyá	X	_	_	0	_	_	Ref=1CHR_2.48
+7	Ṣébérì	Ṣébérì	PROPN	_	_	0	_	_	Ref=1CHR_2.48
+8	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.48
+9	Tíránà	Tíránà	PROPN	_	_	0	_	_	Ref=1CHR_2.48|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.48
+
+# sent_id = 1CHR_2.49
+# text = Ó sì bí Ṣáfà baba Mákíbénà, Ṣéfà baba Mákíbénà àti baba Gíbéà: ọmọbìnrin Kélẹ́bù sì ni Ákíṣà.
+1	Ó	ó	X	_	_	0	_	_	Ref=1CHR_2.49
+2	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.49
+3	bí	bí	X	_	_	0	_	_	Ref=1CHR_2.49
+4	Ṣáfà	Ṣáfà	PROPN	_	_	0	_	_	Ref=1CHR_2.49
+5	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.49
+6	Mákíbénà	Mákíbénà	PROPN	_	_	0	_	_	Ref=1CHR_2.49|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.49
+8	Ṣéfà	Ṣéfà	PROPN	_	_	0	_	_	Ref=1CHR_2.49
+9	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.49
+10	Mákíbénà	Mákíbénà	PROPN	_	_	0	_	_	Ref=1CHR_2.49
+11	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.49
+12	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.49
+13	Gíbéà	Gíbéà	PROPN	_	_	0	_	_	Ref=1CHR_2.49|SpaceAfter=No
+14	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.49
+15	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=1CHR_2.49
+16	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.49
+17	sì	sì	X	_	_	0	_	_	Ref=1CHR_2.49
+18	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.49
+19	Ákíṣà	Ákíṣà	PROPN	_	_	0	_	_	Ref=1CHR_2.49|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.49
+
+# sent_id = 1CHR_2.50
+# text = Àwọn wọ̀nyí ni ọmọ Kélẹ́bù. Àwọn ọmọ Húrì, àkọ́bí Éfúrátà: Ṣóbálì baba Kiriati-Jéárímù.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.50
+2	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_2.50
+3	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.50
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.50
+5	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.50|SpaceAfter=No
+6	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.50
+7	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.50
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.50
+9	Húrì	Húrì	PROPN	_	_	0	_	_	Ref=1CHR_2.50|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.50
+11	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_2.50
+12	Éfúrátà	Éfúrátà	PROPN	_	_	0	_	_	Ref=1CHR_2.50|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.50
+14	Ṣóbálì	Ṣóbálì	PROPN	_	_	0	_	_	Ref=1CHR_2.50
+15	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.50
+16	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=1CHR_2.50|SpaceAfter=No
+17	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.50|SpaceAfter=No
+18	Jéárímù	jéárímù	X	_	_	0	_	_	Ref=1CHR_2.50|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.50
+
+# sent_id = 1CHR_2.51
+# text = Ṣálímà baba Bétíléhẹ́mù àti Háréfù baba Bẹti-Gádérì.
+1	Ṣálímà	Ṣálímà	PROPN	_	_	0	_	_	Ref=1CHR_2.51
+2	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.51
+3	Bétíléhẹ́mù	Bétíléhẹ́mù	PROPN	_	_	0	_	_	Ref=1CHR_2.51
+4	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.51
+5	Háréfù	Háréfù	PROPN	_	_	0	_	_	Ref=1CHR_2.51
+6	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.51
+7	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=1CHR_2.51|SpaceAfter=No
+8	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.51|SpaceAfter=No
+9	Gádérì	Gádérì	PROPN	_	_	0	_	_	Ref=1CHR_2.51|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.51
+
+# sent_id = 1CHR_2.52
+# text = Àwọn ọmọ Ṣóbálì baba Kíríátì-Jéárímù ni: Háróè, ìdajì àwọn ará Mánáhítì.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.52
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.52
+3	Ṣóbálì	Ṣóbálì	PROPN	_	_	0	_	_	Ref=1CHR_2.52
+4	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.52
+5	Kíríátì	Kíríátì	PROPN	_	_	0	_	_	Ref=1CHR_2.52|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.52|SpaceAfter=No
+7	Jéárímù	jéárímù	X	_	_	0	_	_	Ref=1CHR_2.52
+8	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.52|SpaceAfter=No
+9	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.52
+10	Háróè	Háróè	PROPN	_	_	0	_	_	Ref=1CHR_2.52|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.52
+12	ìdajì	ìdajì	X	_	_	0	_	_	Ref=1CHR_2.52
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.52
+14	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.52
+15	Mánáhítì	Mánáhítì	PROPN	_	_	0	_	_	Ref=1CHR_2.52|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.52
+
+# sent_id = 1CHR_2.53
+# text = Àti ìdílé Kíríátì-Jéárímù: àti àwọn ara Ítírì, àti àwọn ará Pútì, àti àwọn ará Ṣúmátì àti àwọn ará Mísíhí-ráì: láti ọ̀dọ̀ wọn ni àwọn ọmọ ará Sórátì àti àwọn ará Ésítaólì ti wá.
+1	Àti	àti	X	_	_	0	_	_	Ref=1CHR_2.53
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_2.53
+3	Kíríátì	Kíríátì	PROPN	_	_	0	_	_	Ref=1CHR_2.53|SpaceAfter=No
+4	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.53|SpaceAfter=No
+5	Jéárímù	jéárímù	X	_	_	0	_	_	Ref=1CHR_2.53|SpaceAfter=No
+6	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.53
+7	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.53
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.53
+9	ara	ara	X	_	_	0	_	_	Ref=1CHR_2.53
+10	Ítírì	Ítírì	PROPN	_	_	0	_	_	Ref=1CHR_2.53|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.53
+12	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.53
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.53
+14	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.53
+15	Pútì	Pútì	PROPN	_	_	0	_	_	Ref=1CHR_2.53|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.53
+17	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.53
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.53
+19	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.53
+20	Ṣúmátì	Ṣúmátì	PROPN	_	_	0	_	_	Ref=1CHR_2.53
+21	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.53
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.53
+23	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.53
+24	Mísíhí	Mísíhí	PROPN	_	_	0	_	_	Ref=1CHR_2.53|SpaceAfter=No
+25	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.53|SpaceAfter=No
+26	ráì	ráì	X	_	_	0	_	_	Ref=1CHR_2.53|SpaceAfter=No
+27	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.53
+28	láti	láti	X	_	_	0	_	_	Ref=1CHR_2.53
+29	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=1CHR_2.53
+30	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_2.53
+31	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.53
+32	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.53
+33	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.53
+34	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.53
+35	Sórátì	Sórátì	PROPN	_	_	0	_	_	Ref=1CHR_2.53
+36	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.53
+37	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.53
+38	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.53
+39	Ésítaólì	Ésítaólì	PROPN	_	_	0	_	_	Ref=1CHR_2.53
+40	ti	ti	X	_	_	0	_	_	Ref=1CHR_2.53
+41	wá	wá	X	_	_	0	_	_	Ref=1CHR_2.53|SpaceAfter=No
+42	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.53
+
+# sent_id = 1CHR_2.54
+# text = Àwọn ọmọ Ṣálímà: Bẹ́tílẹ́hẹ́mù, àti àwọn ará Nétófátì, Atírótì Bẹti-Jóábù, ìdajì àwọn ará Mánátì, àti Ṣórì,
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.54
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.54
+3	Ṣálímà	Ṣálímà	PROPN	_	_	0	_	_	Ref=1CHR_2.54|SpaceAfter=No
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.54
+5	Bẹ́tílẹ́hẹ́mù	Bẹ́tílẹ́hẹ́mù	PROPN	_	_	0	_	_	Ref=1CHR_2.54|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.54
+7	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.54
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.54
+9	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.54
+10	Nétófátì	Nétófátì	PROPN	_	_	0	_	_	Ref=1CHR_2.54|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.54
+12	Atírótì	Atírótì	PROPN	_	_	0	_	_	Ref=1CHR_2.54
+13	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=1CHR_2.54|SpaceAfter=No
+14	-	-	PUNCT	_	_	0	punct	_	Ref=1CHR_2.54|SpaceAfter=No
+15	Jóábù	Jóábù	PROPN	_	_	0	_	_	Ref=1CHR_2.54|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.54
+17	ìdajì	ìdajì	X	_	_	0	_	_	Ref=1CHR_2.54
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.54
+19	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.54
+20	Mánátì	Mánátì	PROPN	_	_	0	_	_	Ref=1CHR_2.54|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.54
+22	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.54
+23	Ṣórì	Ṣórì	PROPN	_	_	0	_	_	Ref=1CHR_2.54|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.54
+
+# sent_id = 1CHR_2.55
+# text = Àti àwọn ìdílé àwọn akọ̀wé, ẹni tí ń gbé ní Jábésì: àti àwọn ọmọ Tírátì àti àwọn ará Ṣíméátì àti àwọn ará Ṣúkátì. Àwọn wọ̀nyí ni àwọn ará Kénì, ẹni tí ó wá láti ọ̀dọ̀ Hámátì, baba ilé Kélẹ́bù.
+1	Àti	àti	X	_	_	0	_	_	Ref=1CHR_2.55
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.55
+3	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_2.55
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.55
+5	akọ̀wé	akọ̀wé	X	_	_	0	_	_	Ref=1CHR_2.55|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.55
+7	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.55
+8	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.55
+9	ń	ń	X	_	_	0	_	_	Ref=1CHR_2.55
+10	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_2.55
+11	ní	ní	X	_	_	0	_	_	Ref=1CHR_2.55
+12	Jábésì	Jábésì	PROPN	_	_	0	_	_	Ref=1CHR_2.55|SpaceAfter=No
+13	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_2.55
+14	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.55
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.55
+16	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_2.55
+17	Tírátì	Tírátì	PROPN	_	_	0	_	_	Ref=1CHR_2.55
+18	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.55
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.55
+20	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.55
+21	Ṣíméátì	Ṣíméátì	PROPN	_	_	0	_	_	Ref=1CHR_2.55
+22	àti	àti	X	_	_	0	_	_	Ref=1CHR_2.55
+23	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.55
+24	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.55
+25	Ṣúkátì	Ṣúkátì	PROPN	_	_	0	_	_	Ref=1CHR_2.55|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.55
+27	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.55
+28	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_2.55
+29	ni	ni	X	_	_	0	_	_	Ref=1CHR_2.55
+30	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_2.55
+31	ará	ará	X	_	_	0	_	_	Ref=1CHR_2.55
+32	Kénì	Kénì	PROPN	_	_	0	_	_	Ref=1CHR_2.55|SpaceAfter=No
+33	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.55
+34	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_2.55
+35	tí	tí	X	_	_	0	_	_	Ref=1CHR_2.55
+36	ó	ó	X	_	_	0	_	_	Ref=1CHR_2.55
+37	wá	wá	X	_	_	0	_	_	Ref=1CHR_2.55
+38	láti	láti	X	_	_	0	_	_	Ref=1CHR_2.55
+39	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=1CHR_2.55
+40	Hámátì	Hámátì	PROPN	_	_	0	_	_	Ref=1CHR_2.55|SpaceAfter=No
+41	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_2.55
+42	baba	baba	X	_	_	0	_	_	Ref=1CHR_2.55
+43	ilé	ilé	X	_	_	0	_	_	Ref=1CHR_2.55
+44	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=1CHR_2.55|SpaceAfter=No
+45	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_2.55
+

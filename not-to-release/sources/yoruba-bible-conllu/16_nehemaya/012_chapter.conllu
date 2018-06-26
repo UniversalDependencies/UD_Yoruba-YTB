@@ -1,0 +1,1262 @@
+# source = Bibeli Mimọ, Nehemáyà, Chapter 12
+# newdoc id = NEH_12
+# sent_id = NEH_12.1
+# text = Àwọn wọ̀nyí ni àwọn àlùfáà àti àwọn ọmọ Léfì tí ó bá Ṣérúbábélì ọmọ Ṣéálítíélì àti Jéṣúà padà: Ṣeraiáyà, Jeremáyà, Éṣírà,
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.1
+2	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NEH_12.1
+3	ni	ni	X	_	_	0	_	_	Ref=NEH_12.1
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.1
+5	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.1
+6	àti	àti	X	_	_	0	_	_	Ref=NEH_12.1
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.1
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.1
+9	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.1
+10	tí	tí	X	_	_	0	_	_	Ref=NEH_12.1
+11	ó	ó	X	_	_	0	_	_	Ref=NEH_12.1
+12	bá	bá	X	_	_	0	_	_	Ref=NEH_12.1
+13	Ṣérúbábélì	Ṣérúbábélì	PROPN	_	_	0	_	_	Ref=NEH_12.1
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.1
+15	Ṣéálítíélì	Ṣéálítíélì	PROPN	_	_	0	_	_	Ref=NEH_12.1
+16	àti	àti	X	_	_	0	_	_	Ref=NEH_12.1
+17	Jéṣúà	Jéṣúà	PROPN	_	_	0	_	_	Ref=NEH_12.1
+18	padà	padà	X	_	_	0	_	_	Ref=NEH_12.1|SpaceAfter=No
+19	:	:	PUNCT	_	_	0	punct	_	Ref=NEH_12.1
+20	Ṣeraiáyà	Ṣeraiáyà	PROPN	_	_	0	_	_	Ref=NEH_12.1|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.1
+22	Jeremáyà	Jeremáyà	PROPN	_	_	0	_	_	Ref=NEH_12.1|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.1
+24	Éṣírà	Éṣírà	PROPN	_	_	0	_	_	Ref=NEH_12.1|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.1
+
+# sent_id = NEH_12.2
+# text = Ámáríyà, Málúkì, Hátúsì,
+1	Ámáríyà	Ámáríyà	PROPN	_	_	0	_	_	Ref=NEH_12.2|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.2
+3	Málúkì	málúkì	X	_	_	0	_	_	Ref=NEH_12.2|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.2
+5	Hátúsì	Hátúsì	PROPN	_	_	0	_	_	Ref=NEH_12.2|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.2
+
+# sent_id = NEH_12.3
+# text = Ṣekánáyà, Réhúmù, Mérémótì,
+1	Ṣekánáyà	Ṣekánáyà	PROPN	_	_	0	_	_	Ref=NEH_12.3|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.3
+3	Réhúmù	Réhúmù	PROPN	_	_	0	_	_	Ref=NEH_12.3|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.3
+5	Mérémótì	Mérémótì	PROPN	_	_	0	_	_	Ref=NEH_12.3|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.3
+
+# sent_id = NEH_12.4
+# text = Ídò, Gínétónì, Ábíjà,
+1	Ídò	Ídò	PROPN	_	_	0	_	_	Ref=NEH_12.4|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.4
+3	Gínétónì	Gínétónì	PROPN	_	_	0	_	_	Ref=NEH_12.4|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.4
+5	Ábíjà	Ábíjà	PROPN	_	_	0	_	_	Ref=NEH_12.4|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.4
+
+# sent_id = NEH_12.5
+# text = Míjámínì, Móádáyà, Bílígà,
+1	Míjámínì	Míjámínì	PROPN	_	_	0	_	_	Ref=NEH_12.5|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.5
+3	Móádáyà	Móádáyà	PROPN	_	_	0	_	_	Ref=NEH_12.5|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.5
+5	Bílígà	Bílígà	PROPN	_	_	0	_	_	Ref=NEH_12.5|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.5
+
+# sent_id = NEH_12.6
+# text = Ṣémááyà, Jóíáríbù, Jédááyà,
+1	Ṣémááyà	ṣémááyà	X	_	_	0	_	_	Ref=NEH_12.6|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.6
+3	Jóíáríbù	Jóíáríbù	PROPN	_	_	0	_	_	Ref=NEH_12.6|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.6
+5	Jédááyà	Jédááyà	PROPN	_	_	0	_	_	Ref=NEH_12.6|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.6
+
+# sent_id = NEH_12.7
+# text = Ṣálù, Ámókì, Hílíkíyà, àti Jédáyà. Wọ̀nyí ni olóórí àwọn àlùfáà àti àwọn ẹlẹgbẹ́ ẹ wọn ní ìgbà ayé e Jéṣúà.
+1	Ṣálù	Ṣálù	PROPN	_	_	0	_	_	Ref=NEH_12.7|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.7
+3	Ámókì	Ámókì	PROPN	_	_	0	_	_	Ref=NEH_12.7|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.7
+5	Hílíkíyà	Hílíkíyà	PROPN	_	_	0	_	_	Ref=NEH_12.7|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.7
+7	àti	àti	X	_	_	0	_	_	Ref=NEH_12.7
+8	Jédáyà	Jédáyà	PROPN	_	_	0	_	_	Ref=NEH_12.7|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.7
+10	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NEH_12.7
+11	ni	ni	X	_	_	0	_	_	Ref=NEH_12.7
+12	olóórí	olóórí	X	_	_	0	_	_	Ref=NEH_12.7
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.7
+14	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.7
+15	àti	àti	X	_	_	0	_	_	Ref=NEH_12.7
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.7
+17	ẹlẹgbẹ́	ẹlẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.7
+18	ẹ	ẹ	X	_	_	0	_	_	Ref=NEH_12.7
+19	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.7
+20	ní	ní	X	_	_	0	_	_	Ref=NEH_12.7
+21	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NEH_12.7
+22	ayé	ayé	X	_	_	0	_	_	Ref=NEH_12.7
+23	e	e	X	_	_	0	_	_	Ref=NEH_12.7
+24	Jéṣúà	Jéṣúà	PROPN	_	_	0	_	_	Ref=NEH_12.7|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.7
+
+# sent_id = NEH_12.8
+# text = Àwọn ọmọ Léfì ni Jéṣúà, Bínúì, Kádímálì, Ṣérébíà, Júdà àti Mátaníyà ẹ̀ni tí òun pẹ̀lú àwọn ẹlẹgbẹ́ ẹ rẹ̀, ni àkóso orin ìdúpẹ́.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.8
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.8
+3	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.8
+4	ni	ni	X	_	_	0	_	_	Ref=NEH_12.8
+5	Jéṣúà	Jéṣúà	PROPN	_	_	0	_	_	Ref=NEH_12.8|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.8
+7	Bínúì	Bínúì	PROPN	_	_	0	_	_	Ref=NEH_12.8|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.8
+9	Kádímálì	Kádímálì	PROPN	_	_	0	_	_	Ref=NEH_12.8|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.8
+11	Ṣérébíà	Ṣérébíà	PROPN	_	_	0	_	_	Ref=NEH_12.8|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.8
+13	Júdà	júdà	X	_	_	0	_	_	Ref=NEH_12.8
+14	àti	àti	X	_	_	0	_	_	Ref=NEH_12.8
+15	Mátaníyà	Mátaníyà	PROPN	_	_	0	_	_	Ref=NEH_12.8
+16	ẹ̀ni	ẹ̀ni	X	_	_	0	_	_	Ref=NEH_12.8
+17	tí	tí	X	_	_	0	_	_	Ref=NEH_12.8
+18	òun	òun	X	_	_	0	_	_	Ref=NEH_12.8
+19	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.8
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.8
+21	ẹlẹgbẹ́	ẹlẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.8
+22	ẹ	ẹ	X	_	_	0	_	_	Ref=NEH_12.8
+23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NEH_12.8|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.8
+25	ni	ni	X	_	_	0	_	_	Ref=NEH_12.8
+26	àkóso	àkóso	X	_	_	0	_	_	Ref=NEH_12.8
+27	orin	orin	X	_	_	0	_	_	Ref=NEH_12.8
+28	ìdúpẹ́	ìdúpẹ́	X	_	_	0	_	_	Ref=NEH_12.8|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.8
+
+# sent_id = NEH_12.9
+# text = Bákíbúkíyà àti Húnì, àwọn ẹlẹgbẹ́ ẹ wọn dúró sí ìdojúkojú wọn nínú ìsìn.
+1	Bákíbúkíyà	Bákíbúkíyà	PROPN	_	_	0	_	_	Ref=NEH_12.9
+2	àti	àti	X	_	_	0	_	_	Ref=NEH_12.9
+3	Húnì	Húnì	PROPN	_	_	0	_	_	Ref=NEH_12.9|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.9
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.9
+6	ẹlẹgbẹ́	ẹlẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.9
+7	ẹ	ẹ	X	_	_	0	_	_	Ref=NEH_12.9
+8	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.9
+9	dúró	dúró	X	_	_	0	_	_	Ref=NEH_12.9
+10	sí	sí	X	_	_	0	_	_	Ref=NEH_12.9
+11	ìdojúkojú	ìdojúkojú	X	_	_	0	_	_	Ref=NEH_12.9
+12	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.9
+13	nínú	nínú	X	_	_	0	_	_	Ref=NEH_12.9
+14	ìsìn	ìsìn	X	_	_	0	_	_	Ref=NEH_12.9|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.9
+
+# sent_id = NEH_12.10
+# text = Jéṣúà ni baba Jòíákímù, Jòíákímù ni baba Élíáṣíbù, Élíáṣíbù ni baba Jóíádà,
+1	Jéṣúà	Jéṣúà	PROPN	_	_	0	_	_	Ref=NEH_12.10
+2	ni	ni	X	_	_	0	_	_	Ref=NEH_12.10
+3	baba	baba	X	_	_	0	_	_	Ref=NEH_12.10
+4	Jòíákímù	Jòíákímù	PROPN	_	_	0	_	_	Ref=NEH_12.10|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.10
+6	Jòíákímù	Jòíákímù	PROPN	_	_	0	_	_	Ref=NEH_12.10
+7	ni	ni	X	_	_	0	_	_	Ref=NEH_12.10
+8	baba	baba	X	_	_	0	_	_	Ref=NEH_12.10
+9	Élíáṣíbù	Élíáṣíbù	PROPN	_	_	0	_	_	Ref=NEH_12.10|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.10
+11	Élíáṣíbù	Élíáṣíbù	PROPN	_	_	0	_	_	Ref=NEH_12.10
+12	ni	ni	X	_	_	0	_	_	Ref=NEH_12.10
+13	baba	baba	X	_	_	0	_	_	Ref=NEH_12.10
+14	Jóíádà	Jóíádà	PROPN	_	_	0	_	_	Ref=NEH_12.10|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.10
+
+# sent_id = NEH_12.11
+# text = Jóíádà ni baba Jònátanì, Jònátanì sì ni baba Jádúà.
+1	Jóíádà	Jóíádà	PROPN	_	_	0	_	_	Ref=NEH_12.11
+2	ni	ni	X	_	_	0	_	_	Ref=NEH_12.11
+3	baba	baba	X	_	_	0	_	_	Ref=NEH_12.11
+4	Jònátanì	Jònátanì	PROPN	_	_	0	_	_	Ref=NEH_12.11|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.11
+6	Jònátanì	Jònátanì	PROPN	_	_	0	_	_	Ref=NEH_12.11
+7	sì	sì	X	_	_	0	_	_	Ref=NEH_12.11
+8	ni	ni	X	_	_	0	_	_	Ref=NEH_12.11
+9	baba	baba	X	_	_	0	_	_	Ref=NEH_12.11
+10	Jádúà	Jádúà	PROPN	_	_	0	_	_	Ref=NEH_12.11|SpaceAfter=No
+11	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.11
+
+# sent_id = NEH_12.12
+# text = Ní ìgbé ayé Jòíakímù, wọ̀nyí ni àwọn olórí àwọn ìdílé àwọn àlùfáà: ti ìdílé Ṣeráiáyà, Méráyà; ti ìdílé Jeremáyà, Hananíyà;
+1	Ní	ní	X	_	_	0	_	_	Ref=NEH_12.12
+2	ìgbé	ìgbé	X	_	_	0	_	_	Ref=NEH_12.12
+3	ayé	ayé	X	_	_	0	_	_	Ref=NEH_12.12
+4	Jòíakímù	Jòíakímù	PROPN	_	_	0	_	_	Ref=NEH_12.12|SpaceAfter=No
+5	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.12
+6	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NEH_12.12
+7	ni	ni	X	_	_	0	_	_	Ref=NEH_12.12
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.12
+9	olórí	olórí	X	_	_	0	_	_	Ref=NEH_12.12
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.12
+11	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.12
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.12
+13	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.12|SpaceAfter=No
+14	:	:	PUNCT	_	_	0	punct	_	Ref=NEH_12.12
+15	ti	ti	X	_	_	0	_	_	Ref=NEH_12.12
+16	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.12
+17	Ṣeráiáyà	Ṣeráiáyà	PROPN	_	_	0	_	_	Ref=NEH_12.12|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.12
+19	Méráyà	Méráyà	PROPN	_	_	0	_	_	Ref=NEH_12.12|SpaceAfter=No
+20	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.12
+21	ti	ti	X	_	_	0	_	_	Ref=NEH_12.12
+22	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.12
+23	Jeremáyà	Jeremáyà	PROPN	_	_	0	_	_	Ref=NEH_12.12|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.12
+25	Hananíyà	Hananíyà	PROPN	_	_	0	_	_	Ref=NEH_12.12|SpaceAfter=No
+26	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.12
+
+# sent_id = NEH_12.13
+# text = ti ìdílé Éṣírà, Mésúlámù; ti ìdílé Ámáráyà, Jéhóhánánì;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.13
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.13
+3	Éṣírà	Éṣírà	PROPN	_	_	0	_	_	Ref=NEH_12.13|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.13
+5	Mésúlámù	Mésúlámù	PROPN	_	_	0	_	_	Ref=NEH_12.13|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.13
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.13
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.13
+9	Ámáráyà	Ámáráyà	PROPN	_	_	0	_	_	Ref=NEH_12.13|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.13
+11	Jéhóhánánì	Jéhóhánánì	PROPN	_	_	0	_	_	Ref=NEH_12.13|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.13
+
+# sent_id = NEH_12.14
+# text = ti ìdílé Málúkì, Jònátanì; ti ìdílé Ṣékánáyà, Jóṣéfù;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.14
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.14
+3	Málúkì	málúkì	X	_	_	0	_	_	Ref=NEH_12.14|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.14
+5	Jònátanì	Jònátanì	PROPN	_	_	0	_	_	Ref=NEH_12.14|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.14
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.14
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.14
+9	Ṣékánáyà	Ṣékánáyà	PROPN	_	_	0	_	_	Ref=NEH_12.14|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.14
+11	Jóṣéfù	Jóṣéfù	PROPN	_	_	0	_	_	Ref=NEH_12.14|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.14
+
+# sent_id = NEH_12.15
+# text = ti ìdílé Hárímù, Ádíná; ti ìdílé Mérémótì Hélíkáyì;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.15
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.15
+3	Hárímù	Hárímù	PROPN	_	_	0	_	_	Ref=NEH_12.15|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.15
+5	Ádíná	Ádíná	PROPN	_	_	0	_	_	Ref=NEH_12.15|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.15
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.15
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.15
+9	Mérémótì	Mérémótì	PROPN	_	_	0	_	_	Ref=NEH_12.15
+10	Hélíkáyì	Hélíkáyì	PROPN	_	_	0	_	_	Ref=NEH_12.15|SpaceAfter=No
+11	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.15
+
+# sent_id = NEH_12.16
+# text = ti ìdílé Ídò, Ṣekaráyà; ti ìdílé Gínétónì, Mésúlámù;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.16
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.16
+3	Ídò	Ídò	PROPN	_	_	0	_	_	Ref=NEH_12.16|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.16
+5	Ṣekaráyà	Ṣekaráyà	PROPN	_	_	0	_	_	Ref=NEH_12.16|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.16
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.16
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.16
+9	Gínétónì	Gínétónì	PROPN	_	_	0	_	_	Ref=NEH_12.16|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.16
+11	Mésúlámù	Mésúlámù	PROPN	_	_	0	_	_	Ref=NEH_12.16|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.16
+
+# sent_id = NEH_12.17
+# text = ti ìdílé Ábíjà, Ṣíkírì; ti ìdílé Míníámínì àti ti ìdílé Móádíà, Pílítaì;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.17
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.17
+3	Ábíjà	Ábíjà	PROPN	_	_	0	_	_	Ref=NEH_12.17|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.17
+5	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=NEH_12.17|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.17
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.17
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.17
+9	Míníámínì	Míníámínì	PROPN	_	_	0	_	_	Ref=NEH_12.17
+10	àti	àti	X	_	_	0	_	_	Ref=NEH_12.17
+11	ti	ti	X	_	_	0	_	_	Ref=NEH_12.17
+12	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.17
+13	Móádíà	Móádíà	PROPN	_	_	0	_	_	Ref=NEH_12.17|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.17
+15	Pílítaì	Pílítaì	PROPN	_	_	0	_	_	Ref=NEH_12.17|SpaceAfter=No
+16	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.17
+
+# sent_id = NEH_12.18
+# text = ti ìdílé Bílígà, Ṣámúyà; ti ìdílé Ṣémáyà, Jéhónátanì;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.18
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.18
+3	Bílígà	Bílígà	PROPN	_	_	0	_	_	Ref=NEH_12.18|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.18
+5	Ṣámúyà	Ṣámúyà	PROPN	_	_	0	_	_	Ref=NEH_12.18|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.18
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.18
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.18
+9	Ṣémáyà	Ṣémáyà	PROPN	_	_	0	_	_	Ref=NEH_12.18|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.18
+11	Jéhónátanì	Jéhónátanì	PROPN	_	_	0	_	_	Ref=NEH_12.18|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.18
+
+# sent_id = NEH_12.19
+# text = ti ìdílé Jóíáríbù, Máténáyì; ti ìdílé Jédáíáyà, Húsì;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.19
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.19
+3	Jóíáríbù	Jóíáríbù	PROPN	_	_	0	_	_	Ref=NEH_12.19|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.19
+5	Máténáyì	Máténáyì	PROPN	_	_	0	_	_	Ref=NEH_12.19|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.19
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.19
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.19
+9	Jédáíáyà	Jédáíáyà	PROPN	_	_	0	_	_	Ref=NEH_12.19|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.19
+11	Húsì	Húsì	PROPN	_	_	0	_	_	Ref=NEH_12.19|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.19
+
+# sent_id = NEH_12.20
+# text = ti ìdílé Ṣálù, Káláyì; ti ìdílé Ámókì, Ébérì;
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.20
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.20
+3	Ṣálù	Ṣálù	PROPN	_	_	0	_	_	Ref=NEH_12.20|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.20
+5	Káláyì	Káláyì	PROPN	_	_	0	_	_	Ref=NEH_12.20|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.20
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.20
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.20
+9	Ámókì	Ámókì	PROPN	_	_	0	_	_	Ref=NEH_12.20|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.20
+11	Ébérì	Ébérì	PROPN	_	_	0	_	_	Ref=NEH_12.20|SpaceAfter=No
+12	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.20
+
+# sent_id = NEH_12.21
+# text = ti ìdílé Hílíkíáyà, Háṣábíáyà; ti ìdílé Jédáíáyà, Nétanẹ́lì.
+1	ti	ti	X	_	_	0	_	_	Ref=NEH_12.21
+2	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.21
+3	Hílíkíáyà	Hílíkíáyà	PROPN	_	_	0	_	_	Ref=NEH_12.21|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.21
+5	Háṣábíáyà	Háṣábíáyà	PROPN	_	_	0	_	_	Ref=NEH_12.21|SpaceAfter=No
+6	;	;	PUNCT	_	_	0	punct	_	Ref=NEH_12.21
+7	ti	ti	X	_	_	0	_	_	Ref=NEH_12.21
+8	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.21
+9	Jédáíáyà	Jédáíáyà	PROPN	_	_	0	_	_	Ref=NEH_12.21|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.21
+11	Nétanẹ́lì	Nétanẹ́lì	PROPN	_	_	0	_	_	Ref=NEH_12.21|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.21
+
+# sent_id = NEH_12.22
+# text = Àwọn olóórí ìdílé àwọn ọmọ Léfì ní ìgbà ayé Élíáṣíbù, Jóíádà, Jóhánánì àti Jádúà, àti pẹ̀lú ti àwọn àlùfáà ni a kọ sílẹ̀ ní ìgbà ìjọba Dáríúsì ará a Páṣíà.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.22
+2	olóórí	olóórí	X	_	_	0	_	_	Ref=NEH_12.22
+3	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.22
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.22
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.22
+6	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.22
+7	ní	ní	X	_	_	0	_	_	Ref=NEH_12.22
+8	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NEH_12.22
+9	ayé	ayé	X	_	_	0	_	_	Ref=NEH_12.22
+10	Élíáṣíbù	Élíáṣíbù	PROPN	_	_	0	_	_	Ref=NEH_12.22|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.22
+12	Jóíádà	Jóíádà	PROPN	_	_	0	_	_	Ref=NEH_12.22|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.22
+14	Jóhánánì	Jóhánánì	PROPN	_	_	0	_	_	Ref=NEH_12.22
+15	àti	àti	X	_	_	0	_	_	Ref=NEH_12.22
+16	Jádúà	Jádúà	PROPN	_	_	0	_	_	Ref=NEH_12.22|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.22
+18	àti	àti	X	_	_	0	_	_	Ref=NEH_12.22
+19	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.22
+20	ti	ti	X	_	_	0	_	_	Ref=NEH_12.22
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.22
+22	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.22
+23	ni	ni	X	_	_	0	_	_	Ref=NEH_12.22
+24	a	a	X	_	_	0	_	_	Ref=NEH_12.22
+25	kọ	kọ	X	_	_	0	_	_	Ref=NEH_12.22
+26	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=NEH_12.22
+27	ní	ní	X	_	_	0	_	_	Ref=NEH_12.22
+28	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NEH_12.22
+29	ìjọba	ìjọba	X	_	_	0	_	_	Ref=NEH_12.22
+30	Dáríúsì	Dáríúsì	PROPN	_	_	0	_	_	Ref=NEH_12.22
+31	ará	ará	X	_	_	0	_	_	Ref=NEH_12.22
+32	a	a	X	_	_	0	_	_	Ref=NEH_12.22
+33	Páṣíà	Páṣíà	PROPN	_	_	0	_	_	Ref=NEH_12.22|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.22
+
+# sent_id = NEH_12.23
+# text = Àwọn olórí ìdílé láàrin àwọn ọmọ Léfì títí di àkókò Jóhánánì ọmọ Élíáṣíbù ni a kọ sílẹ̀ nínú ìwé ìtàn.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.23
+2	olórí	olórí	X	_	_	0	_	_	Ref=NEH_12.23
+3	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NEH_12.23
+4	láàrin	láàrin	X	_	_	0	_	_	Ref=NEH_12.23
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.23
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.23
+7	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.23
+8	títí	títí	X	_	_	0	_	_	Ref=NEH_12.23
+9	di	di	X	_	_	0	_	_	Ref=NEH_12.23
+10	àkókò	àkókò	X	_	_	0	_	_	Ref=NEH_12.23
+11	Jóhánánì	Jóhánánì	PROPN	_	_	0	_	_	Ref=NEH_12.23
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.23
+13	Élíáṣíbù	Élíáṣíbù	PROPN	_	_	0	_	_	Ref=NEH_12.23
+14	ni	ni	X	_	_	0	_	_	Ref=NEH_12.23
+15	a	a	X	_	_	0	_	_	Ref=NEH_12.23
+16	kọ	kọ	X	_	_	0	_	_	Ref=NEH_12.23
+17	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=NEH_12.23
+18	nínú	nínú	X	_	_	0	_	_	Ref=NEH_12.23
+19	ìwé	ìwé	X	_	_	0	_	_	Ref=NEH_12.23
+20	ìtàn	ìtàn	X	_	_	0	_	_	Ref=NEH_12.23|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.23
+
+# sent_id = NEH_12.24
+# text = Àti àwọn olóórí àwọn ọmọ Léfì ni Háṣábáyà, Ṣérébáyà, Jéṣúà ọmọ Kádímíélì, àti àwọn ẹlẹgbẹ́ ẹ wọn, tí wọ́n dúró ní ìdojúkojúu wọn láti ròyìn àti láti dúpẹ́, apá kan ń dá èkejì lóhùn, gẹ́gẹ́ bí àṣẹ Dáfídì ènìyàn Ọlọ́run.
+1	Àti	àti	X	_	_	0	_	_	Ref=NEH_12.24
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.24
+3	olóórí	olóórí	X	_	_	0	_	_	Ref=NEH_12.24
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.24
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.24
+6	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.24
+7	ni	ni	X	_	_	0	_	_	Ref=NEH_12.24
+8	Háṣábáyà	Háṣábáyà	PROPN	_	_	0	_	_	Ref=NEH_12.24|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.24
+10	Ṣérébáyà	Ṣérébáyà	PROPN	_	_	0	_	_	Ref=NEH_12.24|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.24
+12	Jéṣúà	Jéṣúà	PROPN	_	_	0	_	_	Ref=NEH_12.24
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.24
+14	Kádímíélì	Kádímíélì	PROPN	_	_	0	_	_	Ref=NEH_12.24|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.24
+16	àti	àti	X	_	_	0	_	_	Ref=NEH_12.24
+17	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.24
+18	ẹlẹgbẹ́	ẹlẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.24
+19	ẹ	ẹ	X	_	_	0	_	_	Ref=NEH_12.24
+20	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.24|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.24
+22	tí	tí	X	_	_	0	_	_	Ref=NEH_12.24
+23	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.24
+24	dúró	dúró	X	_	_	0	_	_	Ref=NEH_12.24
+25	ní	ní	X	_	_	0	_	_	Ref=NEH_12.24
+26	ìdojúkojúu	ìdojúkojúu	X	_	_	0	_	_	Ref=NEH_12.24
+27	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.24
+28	láti	láti	X	_	_	0	_	_	Ref=NEH_12.24
+29	ròyìn	ròyìn	X	_	_	0	_	_	Ref=NEH_12.24
+30	àti	àti	X	_	_	0	_	_	Ref=NEH_12.24
+31	láti	láti	X	_	_	0	_	_	Ref=NEH_12.24
+32	dúpẹ́	dúpẹ́	X	_	_	0	_	_	Ref=NEH_12.24|SpaceAfter=No
+33	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.24
+34	apá	apá	X	_	_	0	_	_	Ref=NEH_12.24
+35	kan	kan	X	_	_	0	_	_	Ref=NEH_12.24
+36	ń	ń	X	_	_	0	_	_	Ref=NEH_12.24
+37	dá	dá	X	_	_	0	_	_	Ref=NEH_12.24
+38	èkejì	èkejì	X	_	_	0	_	_	Ref=NEH_12.24
+39	lóhùn	lóhùn	X	_	_	0	_	_	Ref=NEH_12.24|SpaceAfter=No
+40	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.24
+41	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NEH_12.24
+42	bí	bí	X	_	_	0	_	_	Ref=NEH_12.24
+43	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=NEH_12.24
+44	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=NEH_12.24
+45	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NEH_12.24
+46	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=NEH_12.24|SpaceAfter=No
+47	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.24
+
+# sent_id = NEH_12.25
+# text = Mátanáyà, Bákíbúkáyà, Ọbadáyà, Mésúlámù, Tálímónì àti Ákúbù ni aṣọ́nà tí wọ́n ń ṣọ yàrá ìpamọ́ ní ẹnu ibodè.
+1	Mátanáyà	Mátanáyà	PROPN	_	_	0	_	_	Ref=NEH_12.25|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.25
+3	Bákíbúkáyà	Bákíbúkáyà	PROPN	_	_	0	_	_	Ref=NEH_12.25|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.25
+5	Ọbadáyà	Ọbadáyà	PROPN	_	_	0	_	_	Ref=NEH_12.25|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.25
+7	Mésúlámù	Mésúlámù	PROPN	_	_	0	_	_	Ref=NEH_12.25|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.25
+9	Tálímónì	Tálímónì	PROPN	_	_	0	_	_	Ref=NEH_12.25
+10	àti	àti	X	_	_	0	_	_	Ref=NEH_12.25
+11	Ákúbù	Ákúbù	PROPN	_	_	0	_	_	Ref=NEH_12.25
+12	ni	ni	X	_	_	0	_	_	Ref=NEH_12.25
+13	aṣọ́nà	aṣọ́nà	X	_	_	0	_	_	Ref=NEH_12.25
+14	tí	tí	X	_	_	0	_	_	Ref=NEH_12.25
+15	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.25
+16	ń	ń	X	_	_	0	_	_	Ref=NEH_12.25
+17	ṣọ	ṣọ	X	_	_	0	_	_	Ref=NEH_12.25
+18	yàrá	yàrá	X	_	_	0	_	_	Ref=NEH_12.25
+19	ìpamọ́	ìpamọ́	X	_	_	0	_	_	Ref=NEH_12.25
+20	ní	ní	X	_	_	0	_	_	Ref=NEH_12.25
+21	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NEH_12.25
+22	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.25|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.25
+
+# sent_id = NEH_12.26
+# text = Wọ́n ṣiṣẹ́ ìránṣẹ́ ní ìgbà ayé e Jóíákímù ọmọ Jéṣúà, ọmọ Jósádákì, àti ní ọjọ́ ọ Nehemáyà baálẹ̀ àti ní ọjọ́ọ Ẹ́sírà àlùfáà àti akọ̀wé.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.26
+2	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NEH_12.26
+3	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=NEH_12.26
+4	ní	ní	X	_	_	0	_	_	Ref=NEH_12.26
+5	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NEH_12.26
+6	ayé	ayé	X	_	_	0	_	_	Ref=NEH_12.26
+7	e	e	X	_	_	0	_	_	Ref=NEH_12.26
+8	Jóíákímù	Jóíákímù	PROPN	_	_	0	_	_	Ref=NEH_12.26
+9	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.26
+10	Jéṣúà	Jéṣúà	PROPN	_	_	0	_	_	Ref=NEH_12.26|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.26
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.26
+13	Jósádákì	Jósádákì	PROPN	_	_	0	_	_	Ref=NEH_12.26|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.26
+15	àti	àti	X	_	_	0	_	_	Ref=NEH_12.26
+16	ní	ní	X	_	_	0	_	_	Ref=NEH_12.26
+17	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NEH_12.26
+18	ọ	ọ	X	_	_	0	_	_	Ref=NEH_12.26
+19	Nehemáyà	Nehemáyà	PROPN	_	_	0	_	_	Ref=NEH_12.26
+20	baálẹ̀	baálẹ̀	X	_	_	0	_	_	Ref=NEH_12.26
+21	àti	àti	X	_	_	0	_	_	Ref=NEH_12.26
+22	ní	ní	X	_	_	0	_	_	Ref=NEH_12.26
+23	ọjọ́ọ	ọjọ́ọ	X	_	_	0	_	_	Ref=NEH_12.26
+24	Ẹ́sírà	Ẹ́sírà	PROPN	_	_	0	_	_	Ref=NEH_12.26
+25	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.26
+26	àti	àti	X	_	_	0	_	_	Ref=NEH_12.26
+27	akọ̀wé	akọ̀wé	X	_	_	0	_	_	Ref=NEH_12.26|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.26
+
+# sent_id = NEH_12.27
+# text = Nígbà ìyàsímímọ́ odi Jérúsálẹ́mù a mú ọmọ Léfì jáde wá láti ibi tí wọ́n ń gbé, wọ́n sì mú wọn wá sí Jérúsálẹ́mù láti fi ayọ̀ ṣe ayẹyẹ ìyàsímímọ́ pẹ̀lú orin ìdúpẹ́ àti pẹ̀lú ohun èlò orin síḿbálì, háápù àti dùùrù.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=NEH_12.27
+2	ìyàsímímọ́	ìyàsímímọ́	X	_	_	0	_	_	Ref=NEH_12.27
+3	odi	odi	X	_	_	0	_	_	Ref=NEH_12.27
+4	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=NEH_12.27
+5	a	a	X	_	_	0	_	_	Ref=NEH_12.27
+6	mú	mú	X	_	_	0	_	_	Ref=NEH_12.27
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.27
+8	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.27
+9	jáde	jáde	X	_	_	0	_	_	Ref=NEH_12.27
+10	wá	wá	X	_	_	0	_	_	Ref=NEH_12.27
+11	láti	láti	X	_	_	0	_	_	Ref=NEH_12.27
+12	ibi	ibi	X	_	_	0	_	_	Ref=NEH_12.27
+13	tí	tí	X	_	_	0	_	_	Ref=NEH_12.27
+14	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.27
+15	ń	ń	X	_	_	0	_	_	Ref=NEH_12.27
+16	gbé	gbé	X	_	_	0	_	_	Ref=NEH_12.27|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.27
+18	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.27
+19	sì	sì	X	_	_	0	_	_	Ref=NEH_12.27
+20	mú	mú	X	_	_	0	_	_	Ref=NEH_12.27
+21	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.27
+22	wá	wá	X	_	_	0	_	_	Ref=NEH_12.27
+23	sí	sí	X	_	_	0	_	_	Ref=NEH_12.27
+24	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=NEH_12.27
+25	láti	láti	X	_	_	0	_	_	Ref=NEH_12.27
+26	fi	fi	X	_	_	0	_	_	Ref=NEH_12.27
+27	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=NEH_12.27
+28	ṣe	ṣe	X	_	_	0	_	_	Ref=NEH_12.27
+29	ayẹyẹ	ayẹyẹ	X	_	_	0	_	_	Ref=NEH_12.27
+30	ìyàsímímọ́	ìyàsímímọ́	X	_	_	0	_	_	Ref=NEH_12.27
+31	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.27
+32	orin	orin	X	_	_	0	_	_	Ref=NEH_12.27
+33	ìdúpẹ́	ìdúpẹ́	X	_	_	0	_	_	Ref=NEH_12.27
+34	àti	àti	X	_	_	0	_	_	Ref=NEH_12.27
+35	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.27
+36	ohun	ohun	X	_	_	0	_	_	Ref=NEH_12.27
+37	èlò	èlò	X	_	_	0	_	_	Ref=NEH_12.27
+38	orin	orin	X	_	_	0	_	_	Ref=NEH_12.27
+39	síḿbálì	síḿbálì	X	_	_	0	_	_	Ref=NEH_12.27|SpaceAfter=No
+40	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.27
+41	háápù	háápù	X	_	_	0	_	_	Ref=NEH_12.27
+42	àti	àti	X	_	_	0	_	_	Ref=NEH_12.27
+43	dùùrù	dùùrù	X	_	_	0	_	_	Ref=NEH_12.27|SpaceAfter=No
+44	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.27
+
+# sent_id = NEH_12.28
+# text = A kó àwọn akọrin náà jọ papọ̀ láti àwọn ìletò tí ó yí Jérúsálẹ́mù náà ká—láti àwọn abúlé Nétófátítì,
+1	A	a	X	_	_	0	_	_	Ref=NEH_12.28
+2	kó	kó	X	_	_	0	_	_	Ref=NEH_12.28
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.28
+4	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.28
+5	náà	náà	X	_	_	0	_	_	Ref=NEH_12.28
+6	jọ	jọ	X	_	_	0	_	_	Ref=NEH_12.28
+7	papọ̀	papọ̀	X	_	_	0	_	_	Ref=NEH_12.28
+8	láti	láti	X	_	_	0	_	_	Ref=NEH_12.28
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.28
+10	ìletò	ìletò	X	_	_	0	_	_	Ref=NEH_12.28
+11	tí	tí	X	_	_	0	_	_	Ref=NEH_12.28
+12	ó	ó	X	_	_	0	_	_	Ref=NEH_12.28
+13	yí	yí	X	_	_	0	_	_	Ref=NEH_12.28
+14	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=NEH_12.28
+15	náà	náà	X	_	_	0	_	_	Ref=NEH_12.28
+16	ká	ká	X	_	_	0	_	_	Ref=NEH_12.28|SpaceAfter=No
+17	—	—	PUNCT	_	_	0	punct	_	Ref=NEH_12.28|SpaceAfter=No
+18	láti	láti	X	_	_	0	_	_	Ref=NEH_12.28
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.28
+20	abúlé	abúlé	X	_	_	0	_	_	Ref=NEH_12.28
+21	Nétófátítì	Nétófátítì	PROPN	_	_	0	_	_	Ref=NEH_12.28|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.28
+
+# sent_id = NEH_12.29
+# text = Láti Bétì Gílígálì, àti láti àwọn agbègbè Gébà àti Ásímáfétì, nítorí àwọn akọrin ti kọ́ àwọn ìletò fún ra wọn ní agbégbé Jérúsálẹ́mù.
+1	Láti	láti	X	_	_	0	_	_	Ref=NEH_12.29
+2	Bétì	Bétì	PROPN	_	_	0	_	_	Ref=NEH_12.29
+3	Gílígálì	Gílígálì	PROPN	_	_	0	_	_	Ref=NEH_12.29|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.29
+5	àti	àti	X	_	_	0	_	_	Ref=NEH_12.29
+6	láti	láti	X	_	_	0	_	_	Ref=NEH_12.29
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.29
+8	agbègbè	agbègbè	X	_	_	0	_	_	Ref=NEH_12.29
+9	Gébà	Gébà	PROPN	_	_	0	_	_	Ref=NEH_12.29
+10	àti	àti	X	_	_	0	_	_	Ref=NEH_12.29
+11	Ásímáfétì	Ásímáfétì	PROPN	_	_	0	_	_	Ref=NEH_12.29|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.29
+13	nítorí	nítorí	X	_	_	0	_	_	Ref=NEH_12.29
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.29
+15	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.29
+16	ti	ti	X	_	_	0	_	_	Ref=NEH_12.29
+17	kọ́	kọ́	X	_	_	0	_	_	Ref=NEH_12.29
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.29
+19	ìletò	ìletò	X	_	_	0	_	_	Ref=NEH_12.29
+20	fún	fún	X	_	_	0	_	_	Ref=NEH_12.29
+21	ra	ra	X	_	_	0	_	_	Ref=NEH_12.29
+22	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.29
+23	ní	ní	X	_	_	0	_	_	Ref=NEH_12.29
+24	agbégbé	agbégbé	X	_	_	0	_	_	Ref=NEH_12.29
+25	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=NEH_12.29|SpaceAfter=No
+26	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.29
+
+# sent_id = NEH_12.30
+# text = Nígbà tí àwọn àlùfáà àti àwọn ọmọ Léfì ti ya ara wọn sí mímọ́, wọ́n ya àwọn ènìyàn sí mímọ́, àti ẹnu ibodè àti odi pẹ̀lú.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=NEH_12.30
+2	tí	tí	X	_	_	0	_	_	Ref=NEH_12.30
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.30
+4	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.30
+5	àti	àti	X	_	_	0	_	_	Ref=NEH_12.30
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.30
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.30
+8	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.30
+9	ti	ti	X	_	_	0	_	_	Ref=NEH_12.30
+10	ya	ya	X	_	_	0	_	_	Ref=NEH_12.30
+11	ara	ara	X	_	_	0	_	_	Ref=NEH_12.30
+12	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.30
+13	sí	sí	X	_	_	0	_	_	Ref=NEH_12.30
+14	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NEH_12.30|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.30
+16	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.30
+17	ya	ya	X	_	_	0	_	_	Ref=NEH_12.30
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.30
+19	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NEH_12.30
+20	sí	sí	X	_	_	0	_	_	Ref=NEH_12.30
+21	mímọ́	mímọ́	X	_	_	0	_	_	Ref=NEH_12.30|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.30
+23	àti	àti	X	_	_	0	_	_	Ref=NEH_12.30
+24	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NEH_12.30
+25	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.30
+26	àti	àti	X	_	_	0	_	_	Ref=NEH_12.30
+27	odi	odi	X	_	_	0	_	_	Ref=NEH_12.30
+28	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.30|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.30
+
+# sent_id = NEH_12.31
+# text = Mo sì tún yan àwọn olórí Júdà láti gun orí odi náà. Mo sì tún yan àwọn ẹgbẹ́ akọrin ńlá méjì láti dúpẹ́. Àwọn kan yóò gòkè odi lọ sí apá ọ̀tún sí ọ̀nà ibodè Ààtàn.
+1	Mo	mo	X	_	_	0	_	_	Ref=NEH_12.31
+2	sì	sì	X	_	_	0	_	_	Ref=NEH_12.31
+3	tún	tún	X	_	_	0	_	_	Ref=NEH_12.31
+4	yan	yan	X	_	_	0	_	_	Ref=NEH_12.31
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.31
+6	olórí	olórí	X	_	_	0	_	_	Ref=NEH_12.31
+7	Júdà	júdà	X	_	_	0	_	_	Ref=NEH_12.31
+8	láti	láti	X	_	_	0	_	_	Ref=NEH_12.31
+9	gun	gun	X	_	_	0	_	_	Ref=NEH_12.31
+10	orí	orí	X	_	_	0	_	_	Ref=NEH_12.31
+11	odi	odi	X	_	_	0	_	_	Ref=NEH_12.31
+12	náà	náà	X	_	_	0	_	_	Ref=NEH_12.31|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.31
+14	Mo	mo	X	_	_	0	_	_	Ref=NEH_12.31
+15	sì	sì	X	_	_	0	_	_	Ref=NEH_12.31
+16	tún	tún	X	_	_	0	_	_	Ref=NEH_12.31
+17	yan	yan	X	_	_	0	_	_	Ref=NEH_12.31
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.31
+19	ẹgbẹ́	ẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.31
+20	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.31
+21	ńlá	ńlá	X	_	_	0	_	_	Ref=NEH_12.31
+22	méjì	méjì	X	_	_	0	_	_	Ref=NEH_12.31
+23	láti	láti	X	_	_	0	_	_	Ref=NEH_12.31
+24	dúpẹ́	dúpẹ́	X	_	_	0	_	_	Ref=NEH_12.31|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.31
+26	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.31
+27	kan	kan	X	_	_	0	_	_	Ref=NEH_12.31
+28	yóò	yóò	X	_	_	0	_	_	Ref=NEH_12.31
+29	gòkè	gòkè	X	_	_	0	_	_	Ref=NEH_12.31
+30	odi	odi	X	_	_	0	_	_	Ref=NEH_12.31
+31	lọ	lọ	X	_	_	0	_	_	Ref=NEH_12.31
+32	sí	sí	X	_	_	0	_	_	Ref=NEH_12.31
+33	apá	apá	X	_	_	0	_	_	Ref=NEH_12.31
+34	ọ̀tún	ọ̀tún	X	_	_	0	_	_	Ref=NEH_12.31
+35	sí	sí	X	_	_	0	_	_	Ref=NEH_12.31
+36	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=NEH_12.31
+37	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.31
+38	Ààtàn	ààtàn	X	_	_	0	_	_	Ref=NEH_12.31|SpaceAfter=No
+39	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.31
+
+# sent_id = NEH_12.32
+# text = Hósáyà àti ìdajì àwọn olórí Júdà tẹ̀lé wọn,
+1	Hósáyà	hósáyà	X	_	_	0	_	_	Ref=NEH_12.32
+2	àti	àti	X	_	_	0	_	_	Ref=NEH_12.32
+3	ìdajì	ìdajì	X	_	_	0	_	_	Ref=NEH_12.32
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.32
+5	olórí	olórí	X	_	_	0	_	_	Ref=NEH_12.32
+6	Júdà	júdà	X	_	_	0	_	_	Ref=NEH_12.32
+7	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NEH_12.32
+8	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.32|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.32
+
+# sent_id = NEH_12.33
+# text = Àwọn wọ̀nyí náà sì lọ pẹ̀lúu wọn, Áṣáráyà, Éṣírà, Mésúlámù,
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.33
+2	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NEH_12.33
+3	náà	náà	X	_	_	0	_	_	Ref=NEH_12.33
+4	sì	sì	X	_	_	0	_	_	Ref=NEH_12.33
+5	lọ	lọ	X	_	_	0	_	_	Ref=NEH_12.33
+6	pẹ̀lúu	pẹ̀lúu	X	_	_	0	_	_	Ref=NEH_12.33
+7	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.33|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.33
+9	Áṣáráyà	Áṣáráyà	PROPN	_	_	0	_	_	Ref=NEH_12.33|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.33
+11	Éṣírà	Éṣírà	PROPN	_	_	0	_	_	Ref=NEH_12.33|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.33
+13	Mésúlámù	Mésúlámù	PROPN	_	_	0	_	_	Ref=NEH_12.33|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.33
+
+# sent_id = NEH_12.34
+# text = Júdà, Bẹ́ńjámínì, Ṣémáyà, Jeremáyà,
+1	Júdà	júdà	X	_	_	0	_	_	Ref=NEH_12.34|SpaceAfter=No
+2	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.34
+3	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=NEH_12.34|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.34
+5	Ṣémáyà	Ṣémáyà	PROPN	_	_	0	_	_	Ref=NEH_12.34|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.34
+7	Jeremáyà	Jeremáyà	PROPN	_	_	0	_	_	Ref=NEH_12.34|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.34
+
+# sent_id = NEH_12.35
+# text = Pẹ̀lú àwọn àlùfáà díẹ̀ pẹ̀lú ipè (kàkàkí), pẹ̀lúu Ṣakaráyà ọmọ Jónátanì, ọmọ Ṣémáyà, ọmọ Matanáyà, ọmọ Míkáyà, ọmọ Ṣákúrì, ọmọ Áṣáfì,
+1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.35
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.35
+3	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.35
+4	díẹ̀	díẹ̀	X	_	_	0	_	_	Ref=NEH_12.35
+5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.35
+6	ipè	ipè	X	_	_	0	_	_	Ref=NEH_12.35
+7	(	(	PUNCT	_	_	0	punct	_	Ref=NEH_12.35|SpaceAfter=No
+8	kàkàkí	kàkàkí	X	_	_	0	_	_	Ref=NEH_12.35|SpaceAfter=No
+9	)	)	PUNCT	_	_	0	punct	_	Ref=NEH_12.35|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.35
+11	pẹ̀lúu	pẹ̀lúu	X	_	_	0	_	_	Ref=NEH_12.35
+12	Ṣakaráyà	Ṣakaráyà	PROPN	_	_	0	_	_	Ref=NEH_12.35
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.35
+14	Jónátanì	Jónátanì	PROPN	_	_	0	_	_	Ref=NEH_12.35|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.35
+16	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.35
+17	Ṣémáyà	Ṣémáyà	PROPN	_	_	0	_	_	Ref=NEH_12.35|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.35
+19	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.35
+20	Matanáyà	Matanáyà	PROPN	_	_	0	_	_	Ref=NEH_12.35|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.35
+22	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.35
+23	Míkáyà	Míkáyà	PROPN	_	_	0	_	_	Ref=NEH_12.35|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.35
+25	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.35
+26	Ṣákúrì	Ṣákúrì	PROPN	_	_	0	_	_	Ref=NEH_12.35|SpaceAfter=No
+27	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.35
+28	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.35
+29	Áṣáfì	Áṣáfì	PROPN	_	_	0	_	_	Ref=NEH_12.35|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.35
+
+# sent_id = NEH_12.36
+# text = Àti àwọn ẹlẹgbẹ́ ẹ rẹ̀—Ṣémáyà, Áṣárélì, Míláláì, gíláláì, Mááì, Nétanélì, Júdà àti Hánánì—pẹ̀lú ohun èlò orin bí àṣẹ Dáfídì ènìyàn Ọlọ́run. Éṣírà akọ̀wé ni ó sáájúu wọn bí wọ́n ti ń tò lọ lọ́wọ̀ọ̀wọ́.
+1	Àti	àti	X	_	_	0	_	_	Ref=NEH_12.36
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.36
+3	ẹlẹgbẹ́	ẹlẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.36
+4	ẹ	ẹ	X	_	_	0	_	_	Ref=NEH_12.36
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+6	—	—	PUNCT	_	_	0	punct	_	Ref=NEH_12.36|SpaceAfter=No
+7	Ṣémáyà	Ṣémáyà	PROPN	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+9	Áṣárélì	Áṣárélì	PROPN	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+11	Míláláì	Míláláì	PROPN	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+13	gíláláì	gíláláì	X	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+15	Mááì	Mááì	PROPN	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+17	Nétanélì	Nétanélì	PROPN	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+18	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+19	Júdà	júdà	X	_	_	0	_	_	Ref=NEH_12.36
+20	àti	àti	X	_	_	0	_	_	Ref=NEH_12.36
+21	Hánánì	hánánì	X	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+22	—	—	PUNCT	_	_	0	punct	_	Ref=NEH_12.36|SpaceAfter=No
+23	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.36
+24	ohun	ohun	X	_	_	0	_	_	Ref=NEH_12.36
+25	èlò	èlò	X	_	_	0	_	_	Ref=NEH_12.36
+26	orin	orin	X	_	_	0	_	_	Ref=NEH_12.36
+27	bí	bí	X	_	_	0	_	_	Ref=NEH_12.36
+28	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=NEH_12.36
+29	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=NEH_12.36
+30	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NEH_12.36
+31	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+33	Éṣírà	Éṣírà	PROPN	_	_	0	_	_	Ref=NEH_12.36
+34	akọ̀wé	akọ̀wé	X	_	_	0	_	_	Ref=NEH_12.36
+35	ni	ni	X	_	_	0	_	_	Ref=NEH_12.36
+36	ó	ó	X	_	_	0	_	_	Ref=NEH_12.36
+37	sáájúu	sáájúu	X	_	_	0	_	_	Ref=NEH_12.36
+38	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.36
+39	bí	bí	X	_	_	0	_	_	Ref=NEH_12.36
+40	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.36
+41	ti	ti	X	_	_	0	_	_	Ref=NEH_12.36
+42	ń	ń	X	_	_	0	_	_	Ref=NEH_12.36
+43	tò	tò	X	_	_	0	_	_	Ref=NEH_12.36
+44	lọ	lọ	X	_	_	0	_	_	Ref=NEH_12.36
+45	lọ́wọ̀ọ̀wọ́	lọ́wọ̀ọ̀wọ́	X	_	_	0	_	_	Ref=NEH_12.36|SpaceAfter=No
+46	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.36
+
+# sent_id = NEH_12.37
+# text = Ní ẹnu ibodè oríṣun wọ́n ti ń lọ tààrà sí ọ̀nà ní orí àtẹ̀gùn ìlú Dáfídì ní orí òkè tí ó kángun sí odi, wọ́n sì gba ẹ̀gbẹ́ ilée Dáfídì kọjá títí dé ẹnu ibodè omi ní ìhà ìlà oòrùn.
+1	Ní	ní	X	_	_	0	_	_	Ref=NEH_12.37
+2	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NEH_12.37
+3	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.37
+4	oríṣun	oríṣun	X	_	_	0	_	_	Ref=NEH_12.37
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.37
+6	ti	ti	X	_	_	0	_	_	Ref=NEH_12.37
+7	ń	ń	X	_	_	0	_	_	Ref=NEH_12.37
+8	lọ	lọ	X	_	_	0	_	_	Ref=NEH_12.37
+9	tààrà	tààrà	X	_	_	0	_	_	Ref=NEH_12.37
+10	sí	sí	X	_	_	0	_	_	Ref=NEH_12.37
+11	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=NEH_12.37
+12	ní	ní	X	_	_	0	_	_	Ref=NEH_12.37
+13	orí	orí	X	_	_	0	_	_	Ref=NEH_12.37
+14	àtẹ̀gùn	àtẹ̀gùn	X	_	_	0	_	_	Ref=NEH_12.37
+15	ìlú	ìlú	X	_	_	0	_	_	Ref=NEH_12.37
+16	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=NEH_12.37
+17	ní	ní	X	_	_	0	_	_	Ref=NEH_12.37
+18	orí	orí	X	_	_	0	_	_	Ref=NEH_12.37
+19	òkè	òkè	X	_	_	0	_	_	Ref=NEH_12.37
+20	tí	tí	X	_	_	0	_	_	Ref=NEH_12.37
+21	ó	ó	X	_	_	0	_	_	Ref=NEH_12.37
+22	kángun	kángun	X	_	_	0	_	_	Ref=NEH_12.37
+23	sí	sí	X	_	_	0	_	_	Ref=NEH_12.37
+24	odi	odi	X	_	_	0	_	_	Ref=NEH_12.37|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.37
+26	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.37
+27	sì	sì	X	_	_	0	_	_	Ref=NEH_12.37
+28	gba	gba	X	_	_	0	_	_	Ref=NEH_12.37
+29	ẹ̀gbẹ́	ẹ̀gbẹ́	X	_	_	0	_	_	Ref=NEH_12.37
+30	ilée	ilée	X	_	_	0	_	_	Ref=NEH_12.37
+31	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=NEH_12.37
+32	kọjá	kọjá	X	_	_	0	_	_	Ref=NEH_12.37
+33	títí	títí	X	_	_	0	_	_	Ref=NEH_12.37
+34	dé	dé	X	_	_	0	_	_	Ref=NEH_12.37
+35	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NEH_12.37
+36	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.37
+37	omi	omi	X	_	_	0	_	_	Ref=NEH_12.37
+38	ní	ní	X	_	_	0	_	_	Ref=NEH_12.37
+39	ìhà	ìhà	X	_	_	0	_	_	Ref=NEH_12.37
+40	ìlà	ìlà	X	_	_	0	_	_	Ref=NEH_12.37
+41	oòrùn	oòrùn	X	_	_	0	_	_	Ref=NEH_12.37|SpaceAfter=No
+42	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.37
+
+# sent_id = NEH_12.38
+# text = Àwọn ẹgbẹ́ akọrin kejì gba ọ̀nà òdì kejì lọ. Mo tẹ̀lé wọn ní orí odi, pẹ̀lú ìdajì àwọn ènìyàn, kọjá ilé ìṣọ́ ìléru lọ sí odi fífẹ̀,
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.38
+2	ẹgbẹ́	ẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.38
+3	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.38
+4	kejì	kejì	X	_	_	0	_	_	Ref=NEH_12.38
+5	gba	gba	X	_	_	0	_	_	Ref=NEH_12.38
+6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=NEH_12.38
+7	òdì	òdì	X	_	_	0	_	_	Ref=NEH_12.38
+8	kejì	kejì	X	_	_	0	_	_	Ref=NEH_12.38
+9	lọ	lọ	X	_	_	0	_	_	Ref=NEH_12.38|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.38
+11	Mo	mo	X	_	_	0	_	_	Ref=NEH_12.38
+12	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NEH_12.38
+13	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.38
+14	ní	ní	X	_	_	0	_	_	Ref=NEH_12.38
+15	orí	orí	X	_	_	0	_	_	Ref=NEH_12.38
+16	odi	odi	X	_	_	0	_	_	Ref=NEH_12.38|SpaceAfter=No
+17	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.38
+18	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.38
+19	ìdajì	ìdajì	X	_	_	0	_	_	Ref=NEH_12.38
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.38
+21	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NEH_12.38|SpaceAfter=No
+22	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.38
+23	kọjá	kọjá	X	_	_	0	_	_	Ref=NEH_12.38
+24	ilé	ilé	X	_	_	0	_	_	Ref=NEH_12.38
+25	ìṣọ́	ìṣọ́	X	_	_	0	_	_	Ref=NEH_12.38
+26	ìléru	ìléru	X	_	_	0	_	_	Ref=NEH_12.38
+27	lọ	lọ	X	_	_	0	_	_	Ref=NEH_12.38
+28	sí	sí	X	_	_	0	_	_	Ref=NEH_12.38
+29	odi	odi	X	_	_	0	_	_	Ref=NEH_12.38
+30	fífẹ̀	fífẹ̀	X	_	_	0	_	_	Ref=NEH_12.38|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.38
+
+# sent_id = NEH_12.39
+# text = Kọjá ẹnu ibodè Éúfúrẹ́mù ibodè Jéṣánà, ẹnu ibodè ẹja, ilé ìṣọ́ Hánánélì àti ilé ìṣọ́ ọgọ́rùn—ún, títí dé ẹnu ibodè àgùntàn. Wọ́n sì dúró ní ibodè ìṣọ́.
+1	Kọjá	kọjá	X	_	_	0	_	_	Ref=NEH_12.39
+2	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NEH_12.39
+3	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.39
+4	Éúfúrẹ́mù	Éúfúrẹ́mù	PROPN	_	_	0	_	_	Ref=NEH_12.39
+5	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.39
+6	Jéṣánà	Jéṣánà	PROPN	_	_	0	_	_	Ref=NEH_12.39|SpaceAfter=No
+7	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.39
+8	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NEH_12.39
+9	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.39
+10	ẹja	ẹja	X	_	_	0	_	_	Ref=NEH_12.39|SpaceAfter=No
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.39
+12	ilé	ilé	X	_	_	0	_	_	Ref=NEH_12.39
+13	ìṣọ́	ìṣọ́	X	_	_	0	_	_	Ref=NEH_12.39
+14	Hánánélì	Hánánélì	PROPN	_	_	0	_	_	Ref=NEH_12.39
+15	àti	àti	X	_	_	0	_	_	Ref=NEH_12.39
+16	ilé	ilé	X	_	_	0	_	_	Ref=NEH_12.39
+17	ìṣọ́	ìṣọ́	X	_	_	0	_	_	Ref=NEH_12.39
+18	ọgọ́rùn	ọgọ́rùn	X	_	_	0	_	_	Ref=NEH_12.39|SpaceAfter=No
+19	—	—	PUNCT	_	_	0	punct	_	Ref=NEH_12.39|SpaceAfter=No
+20	ún	ún	X	_	_	0	_	_	Ref=NEH_12.39|SpaceAfter=No
+21	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.39
+22	títí	títí	X	_	_	0	_	_	Ref=NEH_12.39
+23	dé	dé	X	_	_	0	_	_	Ref=NEH_12.39
+24	ẹnu	ẹnu	X	_	_	0	_	_	Ref=NEH_12.39
+25	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.39
+26	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=NEH_12.39|SpaceAfter=No
+27	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.39
+28	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.39
+29	sì	sì	X	_	_	0	_	_	Ref=NEH_12.39
+30	dúró	dúró	X	_	_	0	_	_	Ref=NEH_12.39
+31	ní	ní	X	_	_	0	_	_	Ref=NEH_12.39
+32	ibodè	ibodè	X	_	_	0	_	_	Ref=NEH_12.39
+33	ìṣọ́	ìṣọ́	X	_	_	0	_	_	Ref=NEH_12.39|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.39
+
+# sent_id = NEH_12.40
+# text = Àwọn ẹgbẹ́ akọrin méjèèjì tí wọ́n dúpẹ́ wà ní ààyè nínú ilé Ọlọ́run, èmi náà sì dúró ní ààyè mi pẹ̀lú ìdajì àwọn ìjòyè,
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.40
+2	ẹgbẹ́	ẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.40
+3	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.40
+4	méjèèjì	méjèèjì	X	_	_	0	_	_	Ref=NEH_12.40
+5	tí	tí	X	_	_	0	_	_	Ref=NEH_12.40
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.40
+7	dúpẹ́	dúpẹ́	X	_	_	0	_	_	Ref=NEH_12.40
+8	wà	wà	X	_	_	0	_	_	Ref=NEH_12.40
+9	ní	ní	X	_	_	0	_	_	Ref=NEH_12.40
+10	ààyè	ààyè	X	_	_	0	_	_	Ref=NEH_12.40
+11	nínú	nínú	X	_	_	0	_	_	Ref=NEH_12.40
+12	ilé	ilé	X	_	_	0	_	_	Ref=NEH_12.40
+13	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=NEH_12.40|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.40
+15	èmi	èmi	X	_	_	0	_	_	Ref=NEH_12.40
+16	náà	náà	X	_	_	0	_	_	Ref=NEH_12.40
+17	sì	sì	X	_	_	0	_	_	Ref=NEH_12.40
+18	dúró	dúró	X	_	_	0	_	_	Ref=NEH_12.40
+19	ní	ní	X	_	_	0	_	_	Ref=NEH_12.40
+20	ààyè	ààyè	X	_	_	0	_	_	Ref=NEH_12.40
+21	mi	mi	X	_	_	0	_	_	Ref=NEH_12.40
+22	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.40
+23	ìdajì	ìdajì	X	_	_	0	_	_	Ref=NEH_12.40
+24	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.40
+25	ìjòyè	ìjòyè	X	_	_	0	_	_	Ref=NEH_12.40|SpaceAfter=No
+26	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.40
+
+# sent_id = NEH_12.41
+# text = Àti àwọn àlùfáà—Élíákímù, Máṣéyà, Míníámínì, Míkáyà, Éliánáyì, Ṣaráyà àti Hananáyà pẹ̀lú àwọn ìpèe (kàkàkí) wọn.
+1	Àti	àti	X	_	_	0	_	_	Ref=NEH_12.41
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.41
+3	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+4	—	—	PUNCT	_	_	0	punct	_	Ref=NEH_12.41|SpaceAfter=No
+5	Élíákímù	Élíákímù	PROPN	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.41
+7	Máṣéyà	Máṣéyà	PROPN	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.41
+9	Míníámínì	Míníámínì	PROPN	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.41
+11	Míkáyà	Míkáyà	PROPN	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.41
+13	Éliánáyì	Éliánáyì	PROPN	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.41
+15	Ṣaráyà	Ṣaráyà	PROPN	_	_	0	_	_	Ref=NEH_12.41
+16	àti	àti	X	_	_	0	_	_	Ref=NEH_12.41
+17	Hananáyà	Hananáyà	PROPN	_	_	0	_	_	Ref=NEH_12.41
+18	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.41
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.41
+20	ìpèe	ìpèe	X	_	_	0	_	_	Ref=NEH_12.41
+21	(	(	PUNCT	_	_	0	punct	_	Ref=NEH_12.41|SpaceAfter=No
+22	kàkàkí	kàkàkí	X	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+23	)	)	PUNCT	_	_	0	punct	_	Ref=NEH_12.41
+24	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.41|SpaceAfter=No
+25	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.41
+
+# sent_id = NEH_12.42
+# text = Àti pẹ̀lú Maáṣéyà, Ṣémáyà, Éṣérì. Àwọn ẹgbẹ́ akọrin ní abẹ́ ìṣàkóso Jéṣíráyà.
+1	Àti	àti	X	_	_	0	_	_	Ref=NEH_12.42
+2	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.42
+3	Maáṣéyà	Maáṣéyà	PROPN	_	_	0	_	_	Ref=NEH_12.42|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.42
+5	Ṣémáyà	Ṣémáyà	PROPN	_	_	0	_	_	Ref=NEH_12.42|SpaceAfter=No
+6	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.42
+7	Éṣérì	Éṣérì	PROPN	_	_	0	_	_	Ref=NEH_12.42|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.42
+9	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.42
+10	ẹgbẹ́	ẹgbẹ́	X	_	_	0	_	_	Ref=NEH_12.42
+11	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.42
+12	ní	ní	X	_	_	0	_	_	Ref=NEH_12.42
+13	abẹ́	abẹ́	X	_	_	0	_	_	Ref=NEH_12.42
+14	ìṣàkóso	ìṣàkóso	X	_	_	0	_	_	Ref=NEH_12.42
+15	Jéṣíráyà	Jéṣíráyà	PROPN	_	_	0	_	_	Ref=NEH_12.42|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.42
+
+# sent_id = NEH_12.43
+# text = Ní ọjọ́ náà wọ́n rú ẹbọ ńlá, wọ́n ṣe àjọyọ̀ nítorí Ọlọ́run ti fún wọn ní ayọ̀ ńlá. Àwọn obìnrin àti àwọn ọmọdé sì yọ̀ pẹ̀lú. A lè gbọ́ ariwo ayọ̀ tí ó jáde láti Jérúsálẹ́mù ní jìnnà réré.
+1	Ní	ní	X	_	_	0	_	_	Ref=NEH_12.43
+2	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NEH_12.43
+3	náà	náà	X	_	_	0	_	_	Ref=NEH_12.43
+4	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.43
+5	rú	rú	X	_	_	0	_	_	Ref=NEH_12.43
+6	ẹbọ	ẹbọ	X	_	_	0	_	_	Ref=NEH_12.43
+7	ńlá	ńlá	X	_	_	0	_	_	Ref=NEH_12.43|SpaceAfter=No
+8	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.43
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.43
+10	ṣe	ṣe	X	_	_	0	_	_	Ref=NEH_12.43
+11	àjọyọ̀	àjọyọ̀	X	_	_	0	_	_	Ref=NEH_12.43
+12	nítorí	nítorí	X	_	_	0	_	_	Ref=NEH_12.43
+13	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=NEH_12.43
+14	ti	ti	X	_	_	0	_	_	Ref=NEH_12.43
+15	fún	fún	X	_	_	0	_	_	Ref=NEH_12.43
+16	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.43
+17	ní	ní	X	_	_	0	_	_	Ref=NEH_12.43
+18	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=NEH_12.43
+19	ńlá	ńlá	X	_	_	0	_	_	Ref=NEH_12.43|SpaceAfter=No
+20	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.43
+21	Àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.43
+22	obìnrin	obìnrin	X	_	_	0	_	_	Ref=NEH_12.43
+23	àti	àti	X	_	_	0	_	_	Ref=NEH_12.43
+24	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.43
+25	ọmọdé	ọmọdé	X	_	_	0	_	_	Ref=NEH_12.43
+26	sì	sì	X	_	_	0	_	_	Ref=NEH_12.43
+27	yọ̀	yọ̀	X	_	_	0	_	_	Ref=NEH_12.43
+28	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NEH_12.43|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.43
+30	A	a	X	_	_	0	_	_	Ref=NEH_12.43
+31	lè	lè	X	_	_	0	_	_	Ref=NEH_12.43
+32	gbọ́	gbọ́	X	_	_	0	_	_	Ref=NEH_12.43
+33	ariwo	ariwo	X	_	_	0	_	_	Ref=NEH_12.43
+34	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=NEH_12.43
+35	tí	tí	X	_	_	0	_	_	Ref=NEH_12.43
+36	ó	ó	X	_	_	0	_	_	Ref=NEH_12.43
+37	jáde	jáde	X	_	_	0	_	_	Ref=NEH_12.43
+38	láti	láti	X	_	_	0	_	_	Ref=NEH_12.43
+39	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=NEH_12.43
+40	ní	ní	X	_	_	0	_	_	Ref=NEH_12.43
+41	jìnnà	jìnnà	X	_	_	0	_	_	Ref=NEH_12.43
+42	réré	réré	X	_	_	0	_	_	Ref=NEH_12.43|SpaceAfter=No
+43	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.43
+
+# sent_id = NEH_12.44
+# text = Ní àkókò náà, a yan àwọn ènìyàn láti jẹ́ alábojútó yàrá ìkó ẹrù fún àwọn ọrẹ àkọ́so èso àti àwọn ìdámẹ́wàá. Láti inú àwọn oko tí ó wà ní àyíká ìlú ni wọ́n ti ní láti mú wá sínú yàrá ìkó nǹkan sí ìpín tí òfin sọ fún àwọn àlùfáà àti àwọn ọmọ Léfì, nítorí inú un àwọn ará a Júdà yọ́ sí àwọn àlùfáà àti àwọn ọmọ, Léfì tó ń ṣiṣẹ ìránṣẹ.
+1	Ní	ní	X	_	_	0	_	_	Ref=NEH_12.44
+2	àkókò	àkókò	X	_	_	0	_	_	Ref=NEH_12.44
+3	náà	náà	X	_	_	0	_	_	Ref=NEH_12.44|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.44
+5	a	a	X	_	_	0	_	_	Ref=NEH_12.44
+6	yan	yan	X	_	_	0	_	_	Ref=NEH_12.44
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+8	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NEH_12.44
+9	láti	láti	X	_	_	0	_	_	Ref=NEH_12.44
+10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NEH_12.44
+11	alábojútó	alábojútó	X	_	_	0	_	_	Ref=NEH_12.44
+12	yàrá	yàrá	X	_	_	0	_	_	Ref=NEH_12.44
+13	ìkó	ìkó	X	_	_	0	_	_	Ref=NEH_12.44
+14	ẹrù	ẹrù	X	_	_	0	_	_	Ref=NEH_12.44
+15	fún	fún	X	_	_	0	_	_	Ref=NEH_12.44
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+17	ọrẹ	ọrẹ	X	_	_	0	_	_	Ref=NEH_12.44
+18	àkọ́so	àkọ́so	X	_	_	0	_	_	Ref=NEH_12.44
+19	èso	èso	X	_	_	0	_	_	Ref=NEH_12.44
+20	àti	àti	X	_	_	0	_	_	Ref=NEH_12.44
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+22	ìdámẹ́wàá	ìdámẹ́wàá	X	_	_	0	_	_	Ref=NEH_12.44|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.44
+24	Láti	láti	X	_	_	0	_	_	Ref=NEH_12.44
+25	inú	inú	X	_	_	0	_	_	Ref=NEH_12.44
+26	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+27	oko	oko	X	_	_	0	_	_	Ref=NEH_12.44
+28	tí	tí	X	_	_	0	_	_	Ref=NEH_12.44
+29	ó	ó	X	_	_	0	_	_	Ref=NEH_12.44
+30	wà	wà	X	_	_	0	_	_	Ref=NEH_12.44
+31	ní	ní	X	_	_	0	_	_	Ref=NEH_12.44
+32	àyíká	àyíká	X	_	_	0	_	_	Ref=NEH_12.44
+33	ìlú	ìlú	X	_	_	0	_	_	Ref=NEH_12.44
+34	ni	ni	X	_	_	0	_	_	Ref=NEH_12.44
+35	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.44
+36	ti	ti	X	_	_	0	_	_	Ref=NEH_12.44
+37	ní	ní	X	_	_	0	_	_	Ref=NEH_12.44
+38	láti	láti	X	_	_	0	_	_	Ref=NEH_12.44
+39	mú	mú	X	_	_	0	_	_	Ref=NEH_12.44
+40	wá	wá	X	_	_	0	_	_	Ref=NEH_12.44
+41	sínú	sínú	X	_	_	0	_	_	Ref=NEH_12.44
+42	yàrá	yàrá	X	_	_	0	_	_	Ref=NEH_12.44
+43	ìkó	ìkó	X	_	_	0	_	_	Ref=NEH_12.44
+44	nǹkan	nǹkan	X	_	_	0	_	_	Ref=NEH_12.44
+45	sí	sí	X	_	_	0	_	_	Ref=NEH_12.44
+46	ìpín	ìpín	X	_	_	0	_	_	Ref=NEH_12.44
+47	tí	tí	X	_	_	0	_	_	Ref=NEH_12.44
+48	òfin	òfin	X	_	_	0	_	_	Ref=NEH_12.44
+49	sọ	sọ	X	_	_	0	_	_	Ref=NEH_12.44
+50	fún	fún	X	_	_	0	_	_	Ref=NEH_12.44
+51	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+52	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.44
+53	àti	àti	X	_	_	0	_	_	Ref=NEH_12.44
+54	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+55	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.44
+56	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.44|SpaceAfter=No
+57	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.44
+58	nítorí	nítorí	X	_	_	0	_	_	Ref=NEH_12.44
+59	inú	inú	X	_	_	0	_	_	Ref=NEH_12.44
+60	un	un	X	_	_	0	_	_	Ref=NEH_12.44
+61	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+62	ará	ará	X	_	_	0	_	_	Ref=NEH_12.44
+63	a	a	X	_	_	0	_	_	Ref=NEH_12.44
+64	Júdà	júdà	X	_	_	0	_	_	Ref=NEH_12.44
+65	yọ́	yọ́	X	_	_	0	_	_	Ref=NEH_12.44
+66	sí	sí	X	_	_	0	_	_	Ref=NEH_12.44
+67	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+68	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NEH_12.44
+69	àti	àti	X	_	_	0	_	_	Ref=NEH_12.44
+70	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.44
+71	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.44|SpaceAfter=No
+72	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.44
+73	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.44
+74	tó	tó	X	_	_	0	_	_	Ref=NEH_12.44
+75	ń	ń	X	_	_	0	_	_	Ref=NEH_12.44
+76	ṣiṣẹ	ṣiṣẹ	X	_	_	0	_	_	Ref=NEH_12.44
+77	ìránṣẹ	ìránṣẹ	X	_	_	0	_	_	Ref=NEH_12.44|SpaceAfter=No
+78	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.44
+
+# sent_id = NEH_12.45
+# text = Wọ́n ń ṣiṣẹ́ Ọlọ́run wọn àti iṣẹ́ ìyàsímímọ́, bẹ́ẹ̀ náà ni fún àwọn akọrin àti àwọn aṣọ́nà, wọ́n ń ṣe gẹ́gẹ́ bí Dáfídì àti Sólómónì ọmọ rẹ̀ ti pa á láṣẹ fún wọn.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.45
+2	ń	ń	X	_	_	0	_	_	Ref=NEH_12.45
+3	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=NEH_12.45
+4	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=NEH_12.45
+5	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.45
+6	àti	àti	X	_	_	0	_	_	Ref=NEH_12.45
+7	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=NEH_12.45
+8	ìyàsímímọ́	ìyàsímímọ́	X	_	_	0	_	_	Ref=NEH_12.45|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.45
+10	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=NEH_12.45
+11	náà	náà	X	_	_	0	_	_	Ref=NEH_12.45
+12	ni	ni	X	_	_	0	_	_	Ref=NEH_12.45
+13	fún	fún	X	_	_	0	_	_	Ref=NEH_12.45
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.45
+15	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.45
+16	àti	àti	X	_	_	0	_	_	Ref=NEH_12.45
+17	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.45
+18	aṣọ́nà	aṣọ́nà	X	_	_	0	_	_	Ref=NEH_12.45|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.45
+20	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.45
+21	ń	ń	X	_	_	0	_	_	Ref=NEH_12.45
+22	ṣe	ṣe	X	_	_	0	_	_	Ref=NEH_12.45
+23	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NEH_12.45
+24	bí	bí	X	_	_	0	_	_	Ref=NEH_12.45
+25	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=NEH_12.45
+26	àti	àti	X	_	_	0	_	_	Ref=NEH_12.45
+27	Sólómónì	Sólómónì	PROPN	_	_	0	_	_	Ref=NEH_12.45
+28	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.45
+29	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NEH_12.45
+30	ti	ti	X	_	_	0	_	_	Ref=NEH_12.45
+31	pa	pa	X	_	_	0	_	_	Ref=NEH_12.45
+32	á	á	X	_	_	0	_	_	Ref=NEH_12.45
+33	láṣẹ	láṣẹ	X	_	_	0	_	_	Ref=NEH_12.45
+34	fún	fún	X	_	_	0	_	_	Ref=NEH_12.45
+35	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.45|SpaceAfter=No
+36	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.45
+
+# sent_id = NEH_12.46
+# text = Ní ọjọ́ pípẹ́ ṣẹ́yìn ní ìgbà Dáfídì àti Áṣáfì, ni àwọn atọ́nisọ́nà, ti wà fún àwọn akọrin àti fún orin ìyìn àti orin ọpẹ́ sí Ọlọ́run.
+1	Ní	ní	X	_	_	0	_	_	Ref=NEH_12.46
+2	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NEH_12.46
+3	pípẹ́	pípẹ́	X	_	_	0	_	_	Ref=NEH_12.46
+4	ṣẹ́yìn	ṣẹ́yìn	X	_	_	0	_	_	Ref=NEH_12.46
+5	ní	ní	X	_	_	0	_	_	Ref=NEH_12.46
+6	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NEH_12.46
+7	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=NEH_12.46
+8	àti	àti	X	_	_	0	_	_	Ref=NEH_12.46
+9	Áṣáfì	Áṣáfì	PROPN	_	_	0	_	_	Ref=NEH_12.46|SpaceAfter=No
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.46
+11	ni	ni	X	_	_	0	_	_	Ref=NEH_12.46
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.46
+13	atọ́nisọ́nà	atọ́nisọ́nà	X	_	_	0	_	_	Ref=NEH_12.46|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.46
+15	ti	ti	X	_	_	0	_	_	Ref=NEH_12.46
+16	wà	wà	X	_	_	0	_	_	Ref=NEH_12.46
+17	fún	fún	X	_	_	0	_	_	Ref=NEH_12.46
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.46
+19	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.46
+20	àti	àti	X	_	_	0	_	_	Ref=NEH_12.46
+21	fún	fún	X	_	_	0	_	_	Ref=NEH_12.46
+22	orin	orin	X	_	_	0	_	_	Ref=NEH_12.46
+23	ìyìn	ìyìn	X	_	_	0	_	_	Ref=NEH_12.46
+24	àti	àti	X	_	_	0	_	_	Ref=NEH_12.46
+25	orin	orin	X	_	_	0	_	_	Ref=NEH_12.46
+26	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=NEH_12.46
+27	sí	sí	X	_	_	0	_	_	Ref=NEH_12.46
+28	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=NEH_12.46|SpaceAfter=No
+29	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.46
+
+# sent_id = NEH_12.47
+# text = Nítorí náà ní ìgbà ayé Ṣérúbábélì àti Nehemáyà, gbogbo Ísírẹ́lì ni ó ń dá ìpín lójoojúmọ́ fún àwọn akọrin àti àwọn aṣọ́nà. Wọ́n sì tún yan ìpín mìíràn ṣọ́tọ̀ fún àwọn ọmọ Léfì tó kù àwọn ọmọ Léfì náà tún ya ìpín ti àwọn ọmọ Árónì sọ́tọ̀ fún wọn.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=NEH_12.47
+2	náà	náà	X	_	_	0	_	_	Ref=NEH_12.47
+3	ní	ní	X	_	_	0	_	_	Ref=NEH_12.47
+4	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NEH_12.47
+5	ayé	ayé	X	_	_	0	_	_	Ref=NEH_12.47
+6	Ṣérúbábélì	Ṣérúbábélì	PROPN	_	_	0	_	_	Ref=NEH_12.47
+7	àti	àti	X	_	_	0	_	_	Ref=NEH_12.47
+8	Nehemáyà	Nehemáyà	PROPN	_	_	0	_	_	Ref=NEH_12.47|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NEH_12.47
+10	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NEH_12.47
+11	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NEH_12.47
+12	ni	ni	X	_	_	0	_	_	Ref=NEH_12.47
+13	ó	ó	X	_	_	0	_	_	Ref=NEH_12.47
+14	ń	ń	X	_	_	0	_	_	Ref=NEH_12.47
+15	dá	dá	X	_	_	0	_	_	Ref=NEH_12.47
+16	ìpín	ìpín	X	_	_	0	_	_	Ref=NEH_12.47
+17	lójoojúmọ́	lójoojúmọ́	X	_	_	0	_	_	Ref=NEH_12.47
+18	fún	fún	X	_	_	0	_	_	Ref=NEH_12.47
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.47
+20	akọrin	akọrin	X	_	_	0	_	_	Ref=NEH_12.47
+21	àti	àti	X	_	_	0	_	_	Ref=NEH_12.47
+22	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.47
+23	aṣọ́nà	aṣọ́nà	X	_	_	0	_	_	Ref=NEH_12.47|SpaceAfter=No
+24	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.47
+25	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NEH_12.47
+26	sì	sì	X	_	_	0	_	_	Ref=NEH_12.47
+27	tún	tún	X	_	_	0	_	_	Ref=NEH_12.47
+28	yan	yan	X	_	_	0	_	_	Ref=NEH_12.47
+29	ìpín	ìpín	X	_	_	0	_	_	Ref=NEH_12.47
+30	mìíràn	mìíràn	X	_	_	0	_	_	Ref=NEH_12.47
+31	ṣọ́tọ̀	ṣọ́tọ̀	X	_	_	0	_	_	Ref=NEH_12.47
+32	fún	fún	X	_	_	0	_	_	Ref=NEH_12.47
+33	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.47
+34	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.47
+35	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.47
+36	tó	tó	X	_	_	0	_	_	Ref=NEH_12.47
+37	kù	kù	X	_	_	0	_	_	Ref=NEH_12.47
+38	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.47
+39	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.47
+40	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NEH_12.47
+41	náà	náà	X	_	_	0	_	_	Ref=NEH_12.47
+42	tún	tún	X	_	_	0	_	_	Ref=NEH_12.47
+43	ya	ya	X	_	_	0	_	_	Ref=NEH_12.47
+44	ìpín	ìpín	X	_	_	0	_	_	Ref=NEH_12.47
+45	ti	ti	X	_	_	0	_	_	Ref=NEH_12.47
+46	àwọn	àwọn	X	_	_	0	_	_	Ref=NEH_12.47
+47	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NEH_12.47
+48	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NEH_12.47
+49	sọ́tọ̀	sọ́tọ̀	X	_	_	0	_	_	Ref=NEH_12.47
+50	fún	fún	X	_	_	0	_	_	Ref=NEH_12.47
+51	wọn	wọn	X	_	_	0	_	_	Ref=NEH_12.47|SpaceAfter=No
+52	.	.	PUNCT	_	_	0	punct	_	Ref=NEH_12.47
+

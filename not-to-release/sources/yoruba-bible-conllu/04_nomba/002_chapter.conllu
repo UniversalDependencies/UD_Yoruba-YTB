@@ -1,0 +1,840 @@
+# source = Bibeli Mimọ, Nọ́ḿbà, Chapter 2
+# newdoc id = NUM_2
+# sent_id = NUM_2.1
+# text = Olúwa sọ fún Mósè àti Árónì pé:
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_2.1
+2	sọ	sọ	X	_	_	0	_	_	Ref=NUM_2.1
+3	fún	fún	X	_	_	0	_	_	Ref=NUM_2.1
+4	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_2.1
+5	àti	àti	X	_	_	0	_	_	Ref=NUM_2.1
+6	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_2.1
+7	pé	pé	X	_	_	0	_	_	Ref=NUM_2.1|SpaceAfter=No
+8	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_2.1
+
+# sent_id = NUM_2.2
+# text = “Kí àwọn ọmọ Ísírẹ́lì pa Àgọ́ wọn yí àgọ́ ìpàdé ká, kí wọ́n jẹ́ kí àgọ́ wọn jìnnà sí i díẹ̀, oníkálùkù lábẹ́ ọ̀págun pẹ̀lú àṣíá ìdílé wọn.”
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_2.2|SpaceAfter=No
+2	Kí	kí	X	_	_	0	_	_	Ref=NUM_2.2
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.2
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.2
+5	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_2.2
+6	pa	pa	X	_	_	0	_	_	Ref=NUM_2.2
+7	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_2.2
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.2
+9	yí	yí	X	_	_	0	_	_	Ref=NUM_2.2
+10	àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_2.2
+11	ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_2.2
+12	ká	ká	X	_	_	0	_	_	Ref=NUM_2.2|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.2
+14	kí	kí	X	_	_	0	_	_	Ref=NUM_2.2
+15	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_2.2
+16	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.2
+17	kí	kí	X	_	_	0	_	_	Ref=NUM_2.2
+18	àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_2.2
+19	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.2
+20	jìnnà	jìnnà	X	_	_	0	_	_	Ref=NUM_2.2
+21	sí	sí	X	_	_	0	_	_	Ref=NUM_2.2
+22	i	i	X	_	_	0	_	_	Ref=NUM_2.2
+23	díẹ̀	díẹ̀	X	_	_	0	_	_	Ref=NUM_2.2|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.2
+25	oníkálùkù	oníkálùkù	X	_	_	0	_	_	Ref=NUM_2.2
+26	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.2
+27	ọ̀págun	ọ̀págun	X	_	_	0	_	_	Ref=NUM_2.2
+28	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_2.2
+29	àṣíá	àṣíá	X	_	_	0	_	_	Ref=NUM_2.2
+30	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_2.2
+31	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.2|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.2|SpaceAfter=No
+33	”	”	PUNCT	_	_	0	punct	_	Ref=NUM_2.2
+
+# sent_id = NUM_2.3
+# text = Ní ìlà oòrùn, ní ìdojúkọ àtiyọ oòrùn ni kí ìpín ti Júdà pa ibùdó wọn sí lábẹ́ ọ̀págun wọn. Olórí Júdà ni Náṣónì ọmọ Ámínádábù.
+1	Ní	ní	X	_	_	0	_	_	Ref=NUM_2.3
+2	ìlà	ìlà	X	_	_	0	_	_	Ref=NUM_2.3
+3	oòrùn	oòrùn	X	_	_	0	_	_	Ref=NUM_2.3|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.3
+5	ní	ní	X	_	_	0	_	_	Ref=NUM_2.3
+6	ìdojúkọ	ìdojúkọ	X	_	_	0	_	_	Ref=NUM_2.3
+7	àtiyọ	àtiyọ	X	_	_	0	_	_	Ref=NUM_2.3
+8	oòrùn	oòrùn	X	_	_	0	_	_	Ref=NUM_2.3
+9	ni	ni	X	_	_	0	_	_	Ref=NUM_2.3
+10	kí	kí	X	_	_	0	_	_	Ref=NUM_2.3
+11	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.3
+12	ti	ti	X	_	_	0	_	_	Ref=NUM_2.3
+13	Júdà	júdà	X	_	_	0	_	_	Ref=NUM_2.3
+14	pa	pa	X	_	_	0	_	_	Ref=NUM_2.3
+15	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.3
+16	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.3
+17	sí	sí	X	_	_	0	_	_	Ref=NUM_2.3
+18	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.3
+19	ọ̀págun	ọ̀págun	X	_	_	0	_	_	Ref=NUM_2.3
+20	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.3|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.3
+22	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.3
+23	Júdà	júdà	X	_	_	0	_	_	Ref=NUM_2.3
+24	ni	ni	X	_	_	0	_	_	Ref=NUM_2.3
+25	Náṣónì	Náṣónì	PROPN	_	_	0	_	_	Ref=NUM_2.3
+26	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.3
+27	Ámínádábù	Ámínádábù	PROPN	_	_	0	_	_	Ref=NUM_2.3|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.3
+
+# sent_id = NUM_2.4
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá mẹ́tadínlógójì ó lé ẹgbẹ̀ta (74,600).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.4
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.4
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.4
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.4
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.4
+6	mẹ́tadínlógójì	mẹ́tadínlógójì	X	_	_	0	_	_	Ref=NUM_2.4
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_2.4
+8	lé	lé	X	_	_	0	_	_	Ref=NUM_2.4
+9	ẹgbẹ̀ta	ẹgbẹ̀ta	X	_	_	0	_	_	Ref=NUM_2.4
+10	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.4|SpaceAfter=No
+11	74	74	X	_	_	0	_	_	Ref=NUM_2.4|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.4|SpaceAfter=No
+13	600	600	X	_	_	0	_	_	Ref=NUM_2.4|SpaceAfter=No
+14	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.4|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.4
+
+# sent_id = NUM_2.5
+# text = Ẹ̀yà Ísákárì ni yóò pa ibùdó tẹ̀lé wọn. Olórí Ísákárì ni Nìtaníẹ́lì ọmọ Súárì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.5
+2	Ísákárì	Ísákárì	PROPN	_	_	0	_	_	Ref=NUM_2.5
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.5
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.5
+5	pa	pa	X	_	_	0	_	_	Ref=NUM_2.5
+6	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.5
+7	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NUM_2.5
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.5|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.5
+10	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.5
+11	Ísákárì	Ísákárì	PROPN	_	_	0	_	_	Ref=NUM_2.5
+12	ni	ni	X	_	_	0	_	_	Ref=NUM_2.5
+13	Nìtaníẹ́lì	Nìtaníẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_2.5
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.5
+15	Súárì	Súárì	PROPN	_	_	0	_	_	Ref=NUM_2.5|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.5
+
+# sent_id = NUM_2.6
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá mẹ́tadínlọ́gbọ̀n ó lé irínwó (54,400).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.6
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.6
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.6
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.6
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.6
+6	mẹ́tadínlọ́gbọ̀n	mẹ́tadínlọ́gbọ̀n	X	_	_	0	_	_	Ref=NUM_2.6
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_2.6
+8	lé	lé	X	_	_	0	_	_	Ref=NUM_2.6
+9	irínwó	irínwó	X	_	_	0	_	_	Ref=NUM_2.6
+10	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.6|SpaceAfter=No
+11	54	54	X	_	_	0	_	_	Ref=NUM_2.6|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.6|SpaceAfter=No
+13	400	400	X	_	_	0	_	_	Ref=NUM_2.6|SpaceAfter=No
+14	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.6|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.6
+
+# sent_id = NUM_2.7
+# text = Ẹ̀yà Sébúlúnì ni yóò tẹ̀lé e. Olórí Sébúlónì ni Élíábù ọmọ Hélónì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.7
+2	Sébúlúnì	Sébúlúnì	PROPN	_	_	0	_	_	Ref=NUM_2.7
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.7
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.7
+5	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NUM_2.7
+6	e	e	X	_	_	0	_	_	Ref=NUM_2.7|SpaceAfter=No
+7	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.7
+8	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.7
+9	Sébúlónì	Sébúlónì	PROPN	_	_	0	_	_	Ref=NUM_2.7
+10	ni	ni	X	_	_	0	_	_	Ref=NUM_2.7
+11	Élíábù	Élíábù	PROPN	_	_	0	_	_	Ref=NUM_2.7
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.7
+13	Hélónì	Hélónì	PROPN	_	_	0	_	_	Ref=NUM_2.7|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.7
+
+# sent_id = NUM_2.8
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá méjìdínlọ́gbọ̀n-ó-lé-egbéje (57,400).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.8
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.8
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.8
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.8
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.8
+6	méjìdínlọ́gbọ̀n	méjìdínlọ́gbọ̀n	X	_	_	0	_	_	Ref=NUM_2.8|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.8|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_2.8|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.8|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=NUM_2.8|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.8|SpaceAfter=No
+12	egbéje	egbéje	X	_	_	0	_	_	Ref=NUM_2.8
+13	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.8|SpaceAfter=No
+14	57	57	X	_	_	0	_	_	Ref=NUM_2.8|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.8|SpaceAfter=No
+16	400	400	X	_	_	0	_	_	Ref=NUM_2.8|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.8|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.8
+
+# sent_id = NUM_2.9
+# text = Gbogbo àwọn tí a yàn sí ibùdó Júdà, gẹ́gẹ́ bí ìpín wọn àpapọ̀ iye wọn jẹ́ ẹgbàá mẹ́taléláàdọ́rin ó lé irínwó (186,400). Àwọn ni yóò kọ́kọ́ ṣáájú.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_2.9
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.9
+3	tí	tí	X	_	_	0	_	_	Ref=NUM_2.9
+4	a	a	X	_	_	0	_	_	Ref=NUM_2.9
+5	yàn	yàn	X	_	_	0	_	_	Ref=NUM_2.9
+6	sí	sí	X	_	_	0	_	_	Ref=NUM_2.9
+7	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.9
+8	Júdà	júdà	X	_	_	0	_	_	Ref=NUM_2.9|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.9
+10	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_2.9
+11	bí	bí	X	_	_	0	_	_	Ref=NUM_2.9
+12	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.9
+13	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.9
+14	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=NUM_2.9
+15	iye	iye	X	_	_	0	_	_	Ref=NUM_2.9
+16	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.9
+17	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.9
+18	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.9
+19	mẹ́taléláàdọ́rin	mẹ́taléláàdọ́rin	X	_	_	0	_	_	Ref=NUM_2.9
+20	ó	ó	X	_	_	0	_	_	Ref=NUM_2.9
+21	lé	lé	X	_	_	0	_	_	Ref=NUM_2.9
+22	irínwó	irínwó	X	_	_	0	_	_	Ref=NUM_2.9
+23	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.9|SpaceAfter=No
+24	186	186	X	_	_	0	_	_	Ref=NUM_2.9|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.9|SpaceAfter=No
+26	400	400	X	_	_	0	_	_	Ref=NUM_2.9|SpaceAfter=No
+27	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.9|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.9
+29	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.9
+30	ni	ni	X	_	_	0	_	_	Ref=NUM_2.9
+31	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.9
+32	kọ́kọ́	kọ́kọ́	X	_	_	0	_	_	Ref=NUM_2.9
+33	ṣáájú	ṣáájú	X	_	_	0	_	_	Ref=NUM_2.9|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.9
+
+# sent_id = NUM_2.10
+# text = Ní ìhà gúsù ni ìpín ti Rúbẹ́nì pa ibùdó sí lábẹ́ ọ̀págun wọn. Olórí Rúbẹ́nì ni Elisúrì ọmọ Ṣedúérì.
+1	Ní	ní	X	_	_	0	_	_	Ref=NUM_2.10
+2	ìhà	ìhà	X	_	_	0	_	_	Ref=NUM_2.10
+3	gúsù	gúsù	X	_	_	0	_	_	Ref=NUM_2.10
+4	ni	ni	X	_	_	0	_	_	Ref=NUM_2.10
+5	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.10
+6	ti	ti	X	_	_	0	_	_	Ref=NUM_2.10
+7	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=NUM_2.10
+8	pa	pa	X	_	_	0	_	_	Ref=NUM_2.10
+9	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.10
+10	sí	sí	X	_	_	0	_	_	Ref=NUM_2.10
+11	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.10
+12	ọ̀págun	ọ̀págun	X	_	_	0	_	_	Ref=NUM_2.10
+13	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.10|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.10
+15	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.10
+16	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=NUM_2.10
+17	ni	ni	X	_	_	0	_	_	Ref=NUM_2.10
+18	Elisúrì	Elisúrì	PROPN	_	_	0	_	_	Ref=NUM_2.10
+19	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.10
+20	Ṣedúérì	Ṣedúérì	PROPN	_	_	0	_	_	Ref=NUM_2.10|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.10
+
+# sent_id = NUM_2.11
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá mẹ́talélógún ó lé ẹ̀ẹ́dẹ́gbẹ̀ta. (46,500).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.11
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.11
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.11
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.11
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.11
+6	mẹ́talélógún	mẹ́talélógún	X	_	_	0	_	_	Ref=NUM_2.11
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_2.11
+8	lé	lé	X	_	_	0	_	_	Ref=NUM_2.11
+9	ẹ̀ẹ́dẹ́gbẹ̀ta	ẹ̀ẹ́dẹ́gbẹ̀ta	X	_	_	0	_	_	Ref=NUM_2.11|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.11
+11	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.11|SpaceAfter=No
+12	46	46	X	_	_	0	_	_	Ref=NUM_2.11|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.11|SpaceAfter=No
+14	500	500	X	_	_	0	_	_	Ref=NUM_2.11|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.11|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.11
+
+# sent_id = NUM_2.12
+# text = Ẹ̀yà Símónì ni yóò pa ibùdó tẹ́lé wọn. Olórí Símónì ni Ṣélúmíélì ọmọ Surisadáì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.12
+2	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=NUM_2.12
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.12
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.12
+5	pa	pa	X	_	_	0	_	_	Ref=NUM_2.12
+6	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.12
+7	tẹ́lé	tẹ́lé	X	_	_	0	_	_	Ref=NUM_2.12
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.12|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.12
+10	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.12
+11	Símónì	Símónì	PROPN	_	_	0	_	_	Ref=NUM_2.12
+12	ni	ni	X	_	_	0	_	_	Ref=NUM_2.12
+13	Ṣélúmíélì	Ṣélúmíélì	PROPN	_	_	0	_	_	Ref=NUM_2.12
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.12
+15	Surisadáì	Surisadáì	PROPN	_	_	0	_	_	Ref=NUM_2.12|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.12
+
+# sent_id = NUM_2.13
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá mọ́kàndínlọ́gbọ̀n ó lé ẹ̀ẹ́dẹ́gbéje. (59,300).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.13
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.13
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.13
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.13
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.13
+6	mọ́kàndínlọ́gbọ̀n	mọ́kàndínlọ́gbọ̀n	X	_	_	0	_	_	Ref=NUM_2.13
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_2.13
+8	lé	lé	X	_	_	0	_	_	Ref=NUM_2.13
+9	ẹ̀ẹ́dẹ́gbéje	ẹ̀ẹ́dẹ́gbéje	X	_	_	0	_	_	Ref=NUM_2.13|SpaceAfter=No
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.13
+11	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.13|SpaceAfter=No
+12	59	59	X	_	_	0	_	_	Ref=NUM_2.13|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.13|SpaceAfter=No
+14	300	300	X	_	_	0	_	_	Ref=NUM_2.13|SpaceAfter=No
+15	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.13|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.13
+
+# sent_id = NUM_2.14
+# text = Ẹ̀yà Gáádì ló tẹ̀lé wọn. Olórí Gáádì ni Eliásáfì ọmọ Déúélì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.14
+2	Gáádì	Gáádì	PROPN	_	_	0	_	_	Ref=NUM_2.14
+3	ló	ló	X	_	_	0	_	_	Ref=NUM_2.14
+4	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NUM_2.14
+5	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.14|SpaceAfter=No
+6	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.14
+7	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.14
+8	Gáádì	Gáádì	PROPN	_	_	0	_	_	Ref=NUM_2.14
+9	ni	ni	X	_	_	0	_	_	Ref=NUM_2.14
+10	Eliásáfì	Eliásáfì	PROPN	_	_	0	_	_	Ref=NUM_2.14
+11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.14
+12	Déúélì	Déúélì	PROPN	_	_	0	_	_	Ref=NUM_2.14|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.14
+
+# sent_id = NUM_2.15
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá méjìlélógún ó lé àádọ́ta (45,650).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.15
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.15
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.15
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.15
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.15
+6	méjìlélógún	méjìlélógún	X	_	_	0	_	_	Ref=NUM_2.15
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_2.15
+8	lé	lé	X	_	_	0	_	_	Ref=NUM_2.15
+9	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_2.15
+10	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.15|SpaceAfter=No
+11	45	45	X	_	_	0	_	_	Ref=NUM_2.15|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.15|SpaceAfter=No
+13	650	650	X	_	_	0	_	_	Ref=NUM_2.15|SpaceAfter=No
+14	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.15|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.15
+
+# sent_id = NUM_2.16
+# text = Gbogbo ènìyàn tí a yàn sí ibùdó Rúbẹ́nì, gẹ́gẹ́ bí ìpín wọn àpapọ̀ iye wọn jẹ́ ẹgbàá márùndínlọ́gọ́rún ó lé àádọ́tàlélégbéje (151,450). Àwọn ni yóò jáde sìkéjì.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_2.16
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_2.16
+3	tí	tí	X	_	_	0	_	_	Ref=NUM_2.16
+4	a	a	X	_	_	0	_	_	Ref=NUM_2.16
+5	yàn	yàn	X	_	_	0	_	_	Ref=NUM_2.16
+6	sí	sí	X	_	_	0	_	_	Ref=NUM_2.16
+7	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.16
+8	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=NUM_2.16|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.16
+10	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_2.16
+11	bí	bí	X	_	_	0	_	_	Ref=NUM_2.16
+12	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.16
+13	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.16
+14	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=NUM_2.16
+15	iye	iye	X	_	_	0	_	_	Ref=NUM_2.16
+16	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.16
+17	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.16
+18	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.16
+19	márùndínlọ́gọ́rún	márùndínlọ́gọ́rún	X	_	_	0	_	_	Ref=NUM_2.16
+20	ó	ó	X	_	_	0	_	_	Ref=NUM_2.16
+21	lé	lé	X	_	_	0	_	_	Ref=NUM_2.16
+22	àádọ́tàlélégbéje	àádọ́tàlélégbéje	X	_	_	0	_	_	Ref=NUM_2.16
+23	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.16|SpaceAfter=No
+24	151	151	X	_	_	0	_	_	Ref=NUM_2.16|SpaceAfter=No
+25	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.16|SpaceAfter=No
+26	450	450	X	_	_	0	_	_	Ref=NUM_2.16|SpaceAfter=No
+27	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.16|SpaceAfter=No
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.16
+29	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.16
+30	ni	ni	X	_	_	0	_	_	Ref=NUM_2.16
+31	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.16
+32	jáde	jáde	X	_	_	0	_	_	Ref=NUM_2.16
+33	sìkéjì	sìkéjì	X	_	_	0	_	_	Ref=NUM_2.16|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.16
+
+# sent_id = NUM_2.17
+# text = Nígbà náà ni àwọn ọmọ Léfì Àti Àgọ́ ìpàdé yóò tẹ̀ṣíwájú láàrin ibùdó àwọn ènìyàn, wọn yóò tẹ̀ṣíwájú ní ṣíṣẹ̀ n tẹ̀lé gẹ́gẹ́ bí wọn ṣe pa ibùdó, olúkúlùkù láàyè rẹ̀, àti lábẹ́ ọ̀págun rẹ̀.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_2.17
+2	náà	náà	X	_	_	0	_	_	Ref=NUM_2.17
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.17
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.17
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.17
+6	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NUM_2.17
+7	Àti	àti	X	_	_	0	_	_	Ref=NUM_2.17
+8	Àgọ́	àgọ́	X	_	_	0	_	_	Ref=NUM_2.17
+9	ìpàdé	ìpàdé	X	_	_	0	_	_	Ref=NUM_2.17
+10	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.17
+11	tẹ̀ṣíwájú	tẹ̀ṣíwájú	X	_	_	0	_	_	Ref=NUM_2.17
+12	láàrin	láàrin	X	_	_	0	_	_	Ref=NUM_2.17
+13	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.17
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.17
+15	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_2.17|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.17
+17	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.17
+18	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.17
+19	tẹ̀ṣíwájú	tẹ̀ṣíwájú	X	_	_	0	_	_	Ref=NUM_2.17
+20	ní	ní	X	_	_	0	_	_	Ref=NUM_2.17
+21	ṣíṣẹ̀	ṣíṣẹ̀	X	_	_	0	_	_	Ref=NUM_2.17
+22	n	n	X	_	_	0	_	_	Ref=NUM_2.17
+23	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NUM_2.17
+24	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_2.17
+25	bí	bí	X	_	_	0	_	_	Ref=NUM_2.17
+26	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.17
+27	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_2.17
+28	pa	pa	X	_	_	0	_	_	Ref=NUM_2.17
+29	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.17|SpaceAfter=No
+30	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.17
+31	olúkúlùkù	olúkúlùkù	X	_	_	0	_	_	Ref=NUM_2.17
+32	láàyè	láàyè	X	_	_	0	_	_	Ref=NUM_2.17
+33	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.17|SpaceAfter=No
+34	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.17
+35	àti	àti	X	_	_	0	_	_	Ref=NUM_2.17
+36	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.17
+37	ọ̀págun	ọ̀págun	X	_	_	0	_	_	Ref=NUM_2.17
+38	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.17|SpaceAfter=No
+39	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.17
+
+# sent_id = NUM_2.18
+# text = Ní ìhà ìlà oòrùn ni ìpín Éfúráímù yóò pa ibùdó rẹ̀ sí lábẹ́ ọ́págun rẹ̀. Olórí Éfúráímù ni Élíṣámà ọmọ Ámíhúdì.
+1	Ní	ní	X	_	_	0	_	_	Ref=NUM_2.18
+2	ìhà	ìhà	X	_	_	0	_	_	Ref=NUM_2.18
+3	ìlà	ìlà	X	_	_	0	_	_	Ref=NUM_2.18
+4	oòrùn	oòrùn	X	_	_	0	_	_	Ref=NUM_2.18
+5	ni	ni	X	_	_	0	_	_	Ref=NUM_2.18
+6	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.18
+7	Éfúráímù	Éfúráímù	PROPN	_	_	0	_	_	Ref=NUM_2.18
+8	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.18
+9	pa	pa	X	_	_	0	_	_	Ref=NUM_2.18
+10	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.18
+11	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.18
+12	sí	sí	X	_	_	0	_	_	Ref=NUM_2.18
+13	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.18
+14	ọ́págun	ọ́págun	X	_	_	0	_	_	Ref=NUM_2.18
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.18|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.18
+17	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.18
+18	Éfúráímù	Éfúráímù	PROPN	_	_	0	_	_	Ref=NUM_2.18
+19	ni	ni	X	_	_	0	_	_	Ref=NUM_2.18
+20	Élíṣámà	Élíṣámà	PROPN	_	_	0	_	_	Ref=NUM_2.18
+21	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.18
+22	Ámíhúdì	Ámíhúdì	PROPN	_	_	0	_	_	Ref=NUM_2.18|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.18
+
+# sent_id = NUM_2.19
+# text = Iye ìpín rẹ̀ jẹ́ ọ̀kẹ́ méjì-ó-lé ẹ̀ẹ́dẹ́gbẹ̀ta. (40,500).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.19
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.19
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.19
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.19
+5	ọ̀kẹ́	ọ̀kẹ́	X	_	_	0	_	_	Ref=NUM_2.19
+6	méjì	méjì	X	_	_	0	_	_	Ref=NUM_2.19|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.19|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_2.19|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.19|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=NUM_2.19
+11	ẹ̀ẹ́dẹ́gbẹ̀ta	ẹ̀ẹ́dẹ́gbẹ̀ta	X	_	_	0	_	_	Ref=NUM_2.19|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.19
+13	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.19|SpaceAfter=No
+14	40	40	X	_	_	0	_	_	Ref=NUM_2.19|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.19|SpaceAfter=No
+16	500	500	X	_	_	0	_	_	Ref=NUM_2.19|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.19|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.19
+
+# sent_id = NUM_2.20
+# text = Ẹ̀yà Mánásè ni yóò tẹ̀lé wọn. Olórí Mánásè ni Gàmálíélì ọmọ Pedasúrì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.20
+2	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=NUM_2.20
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.20
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.20
+5	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NUM_2.20
+6	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.20|SpaceAfter=No
+7	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.20
+8	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.20
+9	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=NUM_2.20
+10	ni	ni	X	_	_	0	_	_	Ref=NUM_2.20
+11	Gàmálíélì	Gàmálíélì	PROPN	_	_	0	_	_	Ref=NUM_2.20
+12	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.20
+13	Pedasúrì	Pedasúrì	PROPN	_	_	0	_	_	Ref=NUM_2.20|SpaceAfter=No
+14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.20
+
+# sent_id = NUM_2.21
+# text = Iye ìpín rẹ̀ ni ẹgbàá mẹ́rìndínlógún-ó-lé-igba (32,200).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.21
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.21
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.21
+4	ni	ni	X	_	_	0	_	_	Ref=NUM_2.21
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.21
+6	mẹ́rìndínlógún	mẹ́rìndínlógún	X	_	_	0	_	_	Ref=NUM_2.21|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.21|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_2.21|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.21|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=NUM_2.21|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.21|SpaceAfter=No
+12	igba	igba	X	_	_	0	_	_	Ref=NUM_2.21
+13	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.21|SpaceAfter=No
+14	32	32	X	_	_	0	_	_	Ref=NUM_2.21|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.21|SpaceAfter=No
+16	200	200	X	_	_	0	_	_	Ref=NUM_2.21|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.21|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.21
+
+# sent_id = NUM_2.22
+# text = Ẹ̀yà Bẹ́ńjámínì ni yóò tẹ̀ lé e. Olórí Bẹ́ńjámínì ni Ábídánì ọmọ Gídíónì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.22
+2	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=NUM_2.22
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.22
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.22
+5	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=NUM_2.22
+6	lé	lé	X	_	_	0	_	_	Ref=NUM_2.22
+7	e	e	X	_	_	0	_	_	Ref=NUM_2.22|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.22
+9	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.22
+10	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=NUM_2.22
+11	ni	ni	X	_	_	0	_	_	Ref=NUM_2.22
+12	Ábídánì	Ábídánì	PROPN	_	_	0	_	_	Ref=NUM_2.22
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.22
+14	Gídíónì	Gídíónì	PROPN	_	_	0	_	_	Ref=NUM_2.22|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.22
+
+# sent_id = NUM_2.23
+# text = Iye ìpín rẹ̀ ni ẹgbàá mẹ́tadínlógún ó lé egbéje (35,400).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.23
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.23
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.23
+4	ni	ni	X	_	_	0	_	_	Ref=NUM_2.23
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.23
+6	mẹ́tadínlógún	mẹ́tadínlógún	X	_	_	0	_	_	Ref=NUM_2.23
+7	ó	ó	X	_	_	0	_	_	Ref=NUM_2.23
+8	lé	lé	X	_	_	0	_	_	Ref=NUM_2.23
+9	egbéje	egbéje	X	_	_	0	_	_	Ref=NUM_2.23
+10	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.23|SpaceAfter=No
+11	35	35	X	_	_	0	_	_	Ref=NUM_2.23|SpaceAfter=No
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.23|SpaceAfter=No
+13	400	400	X	_	_	0	_	_	Ref=NUM_2.23|SpaceAfter=No
+14	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.23|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.23
+
+# sent_id = NUM_2.24
+# text = Gbogbo ènìyàn tí a yàn sí ibùdó Éfúráímù, gẹ́gẹ́ bí ìpín wọn, àpapọ̀ iye wọn jẹ́ ẹgbàá mẹ́rìnléláàdọ́ta-ó-lé-ọgọ́rùn-ún (108,100). Àwọn ni yóò jáde sìkẹ́ta.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_2.24
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_2.24
+3	tí	tí	X	_	_	0	_	_	Ref=NUM_2.24
+4	a	a	X	_	_	0	_	_	Ref=NUM_2.24
+5	yàn	yàn	X	_	_	0	_	_	Ref=NUM_2.24
+6	sí	sí	X	_	_	0	_	_	Ref=NUM_2.24
+7	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.24
+8	Éfúráímù	Éfúráímù	PROPN	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.24
+10	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_2.24
+11	bí	bí	X	_	_	0	_	_	Ref=NUM_2.24
+12	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.24
+13	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.24
+15	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=NUM_2.24
+16	iye	iye	X	_	_	0	_	_	Ref=NUM_2.24
+17	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.24
+18	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.24
+19	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.24
+20	mẹ́rìnléláàdọ́ta	mẹ́rìnléláàdọ́ta	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+21	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.24|SpaceAfter=No
+22	ó	ó	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+23	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.24|SpaceAfter=No
+24	lé	lé	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+25	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.24|SpaceAfter=No
+26	ọgọ́rùn	ọgọ́rùn	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+27	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.24|SpaceAfter=No
+28	ún	ún	X	_	_	0	_	_	Ref=NUM_2.24
+29	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.24|SpaceAfter=No
+30	108	108	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.24|SpaceAfter=No
+32	100	100	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+33	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.24|SpaceAfter=No
+34	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.24
+35	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.24
+36	ni	ni	X	_	_	0	_	_	Ref=NUM_2.24
+37	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.24
+38	jáde	jáde	X	_	_	0	_	_	Ref=NUM_2.24
+39	sìkẹ́ta	sìkẹ́ta	X	_	_	0	_	_	Ref=NUM_2.24|SpaceAfter=No
+40	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.24
+
+# sent_id = NUM_2.25
+# text = Ní ìhà àríwá, ni ìpín Dánì yóò pa ibùdó sí lábẹ́ ọ̀págun wọn. Olóri Dánì ni Áyésérì ọmọ Ámíṣádáyì.
+1	Ní	ní	X	_	_	0	_	_	Ref=NUM_2.25
+2	ìhà	ìhà	X	_	_	0	_	_	Ref=NUM_2.25
+3	àríwá	àríwá	X	_	_	0	_	_	Ref=NUM_2.25|SpaceAfter=No
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.25
+5	ni	ni	X	_	_	0	_	_	Ref=NUM_2.25
+6	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.25
+7	Dánì	dánì	X	_	_	0	_	_	Ref=NUM_2.25
+8	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.25
+9	pa	pa	X	_	_	0	_	_	Ref=NUM_2.25
+10	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.25
+11	sí	sí	X	_	_	0	_	_	Ref=NUM_2.25
+12	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.25
+13	ọ̀págun	ọ̀págun	X	_	_	0	_	_	Ref=NUM_2.25
+14	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.25|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.25
+16	Olóri	olóri	X	_	_	0	_	_	Ref=NUM_2.25
+17	Dánì	dánì	X	_	_	0	_	_	Ref=NUM_2.25
+18	ni	ni	X	_	_	0	_	_	Ref=NUM_2.25
+19	Áyésérì	Áyésérì	PROPN	_	_	0	_	_	Ref=NUM_2.25
+20	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.25
+21	Ámíṣádáyì	Ámíṣádáyì	PROPN	_	_	0	_	_	Ref=NUM_2.25|SpaceAfter=No
+22	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.25
+
+# sent_id = NUM_2.26
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá mọ́kànlélógún-ó-lé-ẹ̀ẹ́dẹ́gbẹ̀rin. (62,700).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.26
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.26
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.26
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.26
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.26
+6	mọ́kànlélógún	mọ́kànlélógún	X	_	_	0	_	_	Ref=NUM_2.26|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.26|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_2.26|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.26|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=NUM_2.26|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.26|SpaceAfter=No
+12	ẹ̀ẹ́dẹ́gbẹ̀rin	ẹ̀ẹ́dẹ́gbẹ̀rin	X	_	_	0	_	_	Ref=NUM_2.26|SpaceAfter=No
+13	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.26
+14	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.26|SpaceAfter=No
+15	62	62	X	_	_	0	_	_	Ref=NUM_2.26|SpaceAfter=No
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.26|SpaceAfter=No
+17	700	700	X	_	_	0	_	_	Ref=NUM_2.26|SpaceAfter=No
+18	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.26|SpaceAfter=No
+19	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.26
+
+# sent_id = NUM_2.27
+# text = Ẹ̀yà Ásérì ni yóò pa ibùdó tẹ̀lé wọn. Olórí Ásérì ni Págíélì ọmọ Ókíránì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.27
+2	Ásérì	Ásérì	PROPN	_	_	0	_	_	Ref=NUM_2.27
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.27
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.27
+5	pa	pa	X	_	_	0	_	_	Ref=NUM_2.27
+6	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.27
+7	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=NUM_2.27
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.27|SpaceAfter=No
+9	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.27
+10	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.27
+11	Ásérì	Ásérì	PROPN	_	_	0	_	_	Ref=NUM_2.27
+12	ni	ni	X	_	_	0	_	_	Ref=NUM_2.27
+13	Págíélì	Págíélì	PROPN	_	_	0	_	_	Ref=NUM_2.27
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.27
+15	Ókíránì	Ókíránì	PROPN	_	_	0	_	_	Ref=NUM_2.27|SpaceAfter=No
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.27
+
+# sent_id = NUM_2.28
+# text = Iye ìpín rẹ̀ jẹ́ ọ̀kẹ́ méjì-ó-lé-ẹ̀ẹ́dẹ́gbẹ̀jọ (41,500).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.28
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.28
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.28
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.28
+5	ọ̀kẹ́	ọ̀kẹ́	X	_	_	0	_	_	Ref=NUM_2.28
+6	méjì	méjì	X	_	_	0	_	_	Ref=NUM_2.28|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.28|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_2.28|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.28|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=NUM_2.28|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.28|SpaceAfter=No
+12	ẹ̀ẹ́dẹ́gbẹ̀jọ	ẹ̀ẹ́dẹ́gbẹ̀jọ	X	_	_	0	_	_	Ref=NUM_2.28
+13	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.28|SpaceAfter=No
+14	41	41	X	_	_	0	_	_	Ref=NUM_2.28|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.28|SpaceAfter=No
+16	500	500	X	_	_	0	_	_	Ref=NUM_2.28|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.28|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.28
+
+# sent_id = NUM_2.29
+# text = Ẹ̀yà Náfítanì ni yóò kàn lẹ́yìn wọn. Olórí Náfítanì ni Áhírà ọmọ Énánì.
+1	Ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_2.29
+2	Náfítanì	Náfítanì	PROPN	_	_	0	_	_	Ref=NUM_2.29
+3	ni	ni	X	_	_	0	_	_	Ref=NUM_2.29
+4	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.29
+5	kàn	kàn	X	_	_	0	_	_	Ref=NUM_2.29
+6	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=NUM_2.29
+7	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.29|SpaceAfter=No
+8	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.29
+9	Olórí	olórí	X	_	_	0	_	_	Ref=NUM_2.29
+10	Náfítanì	Náfítanì	PROPN	_	_	0	_	_	Ref=NUM_2.29
+11	ni	ni	X	_	_	0	_	_	Ref=NUM_2.29
+12	Áhírà	Áhírà	PROPN	_	_	0	_	_	Ref=NUM_2.29
+13	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.29
+14	Énánì	Énánì	PROPN	_	_	0	_	_	Ref=NUM_2.29|SpaceAfter=No
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.29
+
+# sent_id = NUM_2.30
+# text = Iye ìpín rẹ̀ jẹ́ ẹgbàá mẹ́rìndínlógún-ó-lé-egbéje (53,400).
+1	Iye	iye	X	_	_	0	_	_	Ref=NUM_2.30
+2	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.30
+3	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.30
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.30
+5	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.30
+6	mẹ́rìndínlógún	mẹ́rìndínlógún	X	_	_	0	_	_	Ref=NUM_2.30|SpaceAfter=No
+7	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.30|SpaceAfter=No
+8	ó	ó	X	_	_	0	_	_	Ref=NUM_2.30|SpaceAfter=No
+9	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.30|SpaceAfter=No
+10	lé	lé	X	_	_	0	_	_	Ref=NUM_2.30|SpaceAfter=No
+11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.30|SpaceAfter=No
+12	egbéje	egbéje	X	_	_	0	_	_	Ref=NUM_2.30
+13	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.30|SpaceAfter=No
+14	53	53	X	_	_	0	_	_	Ref=NUM_2.30|SpaceAfter=No
+15	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.30|SpaceAfter=No
+16	400	400	X	_	_	0	_	_	Ref=NUM_2.30|SpaceAfter=No
+17	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.30|SpaceAfter=No
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.30
+
+# sent_id = NUM_2.31
+# text = Gbogbo ènìyàn tí a yàn sí ibùdó Dánì jẹ́ ẹgbàá méjìdínlọ́gọ̀rún-ó-lé-ẹgbẹ̀jọ (157,600). Àwọn ni yóò jáde kẹ́yìn lábẹ́ ọ̀págun wọn.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_2.31
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_2.31
+3	tí	tí	X	_	_	0	_	_	Ref=NUM_2.31
+4	a	a	X	_	_	0	_	_	Ref=NUM_2.31
+5	yàn	yàn	X	_	_	0	_	_	Ref=NUM_2.31
+6	sí	sí	X	_	_	0	_	_	Ref=NUM_2.31
+7	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.31
+8	Dánì	dánì	X	_	_	0	_	_	Ref=NUM_2.31
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.31
+10	ẹgbàá	ẹgbàá	X	_	_	0	_	_	Ref=NUM_2.31
+11	méjìdínlọ́gọ̀rún	méjìdínlọ́gọ̀rún	X	_	_	0	_	_	Ref=NUM_2.31|SpaceAfter=No
+12	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.31|SpaceAfter=No
+13	ó	ó	X	_	_	0	_	_	Ref=NUM_2.31|SpaceAfter=No
+14	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.31|SpaceAfter=No
+15	lé	lé	X	_	_	0	_	_	Ref=NUM_2.31|SpaceAfter=No
+16	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.31|SpaceAfter=No
+17	ẹgbẹ̀jọ	ẹgbẹ̀jọ	X	_	_	0	_	_	Ref=NUM_2.31
+18	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.31|SpaceAfter=No
+19	157	157	X	_	_	0	_	_	Ref=NUM_2.31|SpaceAfter=No
+20	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.31|SpaceAfter=No
+21	600	600	X	_	_	0	_	_	Ref=NUM_2.31|SpaceAfter=No
+22	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.31|SpaceAfter=No
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.31
+24	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.31
+25	ni	ni	X	_	_	0	_	_	Ref=NUM_2.31
+26	yóò	yóò	X	_	_	0	_	_	Ref=NUM_2.31
+27	jáde	jáde	X	_	_	0	_	_	Ref=NUM_2.31
+28	kẹ́yìn	kẹ́yìn	X	_	_	0	_	_	Ref=NUM_2.31
+29	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.31
+30	ọ̀págun	ọ̀págun	X	_	_	0	_	_	Ref=NUM_2.31
+31	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.31|SpaceAfter=No
+32	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.31
+
+# sent_id = NUM_2.32
+# text = Wọ̀nyí ni àwọn ọmọ Ísírẹ́lì tí wọ́n kà nípa ìdílé wọn. Gbogbo àwọn tó wà ní ibùdó, gẹ́gẹ́ bí ìpín wọn, wọ́n jẹ́ ọgbọ̀n ọ̀kẹ́-ó-lé-egbéjìdínlógún-dín àádọ́ta (603,550).
+1	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_2.32
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_2.32
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.32
+4	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.32
+5	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_2.32
+6	tí	tí	X	_	_	0	_	_	Ref=NUM_2.32
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_2.32
+8	kà	kà	X	_	_	0	_	_	Ref=NUM_2.32
+9	nípa	nípa	X	_	_	0	_	_	Ref=NUM_2.32
+10	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_2.32
+11	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.32
+13	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_2.32
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.32
+15	tó	tó	X	_	_	0	_	_	Ref=NUM_2.32
+16	wà	wà	X	_	_	0	_	_	Ref=NUM_2.32
+17	ní	ní	X	_	_	0	_	_	Ref=NUM_2.32
+18	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+19	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.32
+20	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_2.32
+21	bí	bí	X	_	_	0	_	_	Ref=NUM_2.32
+22	ìpín	ìpín	X	_	_	0	_	_	Ref=NUM_2.32
+23	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.32
+25	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_2.32
+26	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_2.32
+27	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=NUM_2.32
+28	ọ̀kẹ́	ọ̀kẹ́	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+29	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.32|SpaceAfter=No
+30	ó	ó	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+31	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.32|SpaceAfter=No
+32	lé	lé	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+33	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.32|SpaceAfter=No
+34	egbéjìdínlógún	egbéjìdínlógún	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+35	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_2.32|SpaceAfter=No
+36	dín	dín	X	_	_	0	_	_	Ref=NUM_2.32
+37	àádọ́ta	àádọ́ta	X	_	_	0	_	_	Ref=NUM_2.32
+38	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_2.32|SpaceAfter=No
+39	603	603	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+40	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.32|SpaceAfter=No
+41	550	550	X	_	_	0	_	_	Ref=NUM_2.32|SpaceAfter=No
+42	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_2.32|SpaceAfter=No
+43	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.32
+
+# sent_id = NUM_2.33
+# text = Ṣùgbọ́n a kò ka àwọn ọmọ Léfì papọ̀ mọ́ àwọn Ísírẹ́lì gẹ́gẹ́ bí Olúwa ti pa á láṣẹ fún Mósè.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=NUM_2.33
+2	a	a	X	_	_	0	_	_	Ref=NUM_2.33
+3	kò	kò	X	_	_	0	_	_	Ref=NUM_2.33
+4	ka	ka	X	_	_	0	_	_	Ref=NUM_2.33
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.33
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.33
+7	Léfì	Léfì	PROPN	_	_	0	_	_	Ref=NUM_2.33
+8	papọ̀	papọ̀	X	_	_	0	_	_	Ref=NUM_2.33
+9	mọ́	mọ́	X	_	_	0	_	_	Ref=NUM_2.33
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.33
+11	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_2.33
+12	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_2.33
+13	bí	bí	X	_	_	0	_	_	Ref=NUM_2.33
+14	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_2.33
+15	ti	ti	X	_	_	0	_	_	Ref=NUM_2.33
+16	pa	pa	X	_	_	0	_	_	Ref=NUM_2.33
+17	á	á	X	_	_	0	_	_	Ref=NUM_2.33
+18	láṣẹ	láṣẹ	X	_	_	0	_	_	Ref=NUM_2.33
+19	fún	fún	X	_	_	0	_	_	Ref=NUM_2.33
+20	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_2.33|SpaceAfter=No
+21	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.33
+
+# sent_id = NUM_2.34
+# text = Àwọn ọmọ Ísírẹ́lì se gbogbo ohun tí Olúwa pa láṣẹ fún Mósè, báyìí ni wọ́n ṣe pa ibùdó lábẹ́ ọ̀págun wọn, bẹ́ẹ̀ náà sì ni wọ́n ṣe jáde, oníkálùkù pẹ̀lú ẹbí àti ìdílé rẹ̀.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_2.34
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_2.34
+3	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_2.34
+4	se	se	X	_	_	0	_	_	Ref=NUM_2.34
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_2.34
+6	ohun	ohun	X	_	_	0	_	_	Ref=NUM_2.34
+7	tí	tí	X	_	_	0	_	_	Ref=NUM_2.34
+8	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_2.34
+9	pa	pa	X	_	_	0	_	_	Ref=NUM_2.34
+10	láṣẹ	láṣẹ	X	_	_	0	_	_	Ref=NUM_2.34
+11	fún	fún	X	_	_	0	_	_	Ref=NUM_2.34
+12	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_2.34|SpaceAfter=No
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.34
+14	báyìí	báyìí	X	_	_	0	_	_	Ref=NUM_2.34
+15	ni	ni	X	_	_	0	_	_	Ref=NUM_2.34
+16	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_2.34
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_2.34
+18	pa	pa	X	_	_	0	_	_	Ref=NUM_2.34
+19	ibùdó	ibùdó	X	_	_	0	_	_	Ref=NUM_2.34
+20	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=NUM_2.34
+21	ọ̀págun	ọ̀págun	X	_	_	0	_	_	Ref=NUM_2.34
+22	wọn	wọn	X	_	_	0	_	_	Ref=NUM_2.34|SpaceAfter=No
+23	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.34
+24	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=NUM_2.34
+25	náà	náà	X	_	_	0	_	_	Ref=NUM_2.34
+26	sì	sì	X	_	_	0	_	_	Ref=NUM_2.34
+27	ni	ni	X	_	_	0	_	_	Ref=NUM_2.34
+28	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_2.34
+29	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_2.34
+30	jáde	jáde	X	_	_	0	_	_	Ref=NUM_2.34|SpaceAfter=No
+31	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_2.34
+32	oníkálùkù	oníkálùkù	X	_	_	0	_	_	Ref=NUM_2.34
+33	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_2.34
+34	ẹbí	ẹbí	X	_	_	0	_	_	Ref=NUM_2.34
+35	àti	àti	X	_	_	0	_	_	Ref=NUM_2.34
+36	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_2.34
+37	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_2.34|SpaceAfter=No
+38	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_2.34
+
