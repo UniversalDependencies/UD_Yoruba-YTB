@@ -5,18 +5,66 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></total>
+    <total><sentences>100</sentences><tokens>2688</tokens><words>2688</words><fused>0</fused></total>
   </size>
-  <lemmas unique="0" /><!--  -->
-  <forms unique="0" /><!--  -->
+  <lemmas unique="424" /><!-- ,, ó, ., sì, tí, pé, wí, “, ”, àwọn, ní, wọn, kí, ni, náà -->
+  <forms unique="424" /><!-- ,, ó, ., sì, tí, pé, wí, “, ”, àwọn, ní, wọn, kí, ni, náà -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="0">
+  <tags unique="16">
+    <tag name="ADJ">50</tag><!-- dára, irú, rere, ńlá, ọ̀pọ̀, afọ́jú, gbígbẹ, kẹrin, mìíràn, púpọ̀ -->
+    <tag name="ADP">181</tag><!-- ní, fún, láti, nínú, sí, kúrò, inú, sọ́dọ̀, lẹ́yìn, lọ́wọ́ -->
+    <tag name="ADV">100</tag><!-- náà, nígbà, bẹ́ẹ̀, tún, Nítorí, níbẹ̀, onírúurú, òwúrọ̀, gbangba, gẹ́gẹ́ -->
+    <tag name="AUX">190</tag><!-- ni, ń, jẹ́, ti, kí, wà, yóò, í, lè, máa -->
+    <tag name="CCONJ">150</tag><!-- sì, àti, ṣùgbọ́n, náà, nítorí, wọ̀nyí -->
+    <tag name="DET">69</tag><!-- àwọn, gbogbo, yìí, náà, wọ̀nyí -->
+    <tag name="INTJ">4</tag><!-- lóòótọ́ -->
+    <tag name="NOUN">344</tag><!-- ọlọ́run, àgùntàn, ìmọ́lẹ̀, ilẹ̀, Baba, omi, iṣẹ́, ojú, ọ̀run, arákùnrin -->
+    <tag name="NUM">11</tag><!-- kan, Mẹ́ẹ̀dógún, kárùn, méjì, mẹ́rin, Ọ̀kan -->
+    <tag name="PART">34</tag><!-- kò, kì, mo -->
+    <tag name="PRON">473</tag><!-- ó, tí, wọn, rẹ̀, èmi, mi, i, ẹni, a, ohun -->
+    <tag name="PROPN">72</tag><!-- Jésù, Júù, Màríà, Olúwa, Lásárù, Màta, Jérúsálẹ́mù, Jòhánù, Kírísítì, Bétanì -->
+    <tag name="PUNCT">451</tag><!-- ,, ., “, ”, :, -, ?, ;, !, ( -->
+    <tag name="SCONJ">150</tag><!-- pé, nítorí, kí, bí, bá, à, Nígbà, tilẹ̀, tó, ìbáṣe -->
+    <tag name="VERB">408</tag><!-- wí, ṣe, rí, wá, gbọ́, dá, gbà, fi, ẹ, kú -->
+    <tag name="X">1</tag><!-- ọ̀dì -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="1">
+    <feat name="NumType" value="Card" upos="NUM">11</feat><!-- kan, Mẹ́ẹ̀dógún, kárùn, méjì, mẹ́rin, Ọ̀kan -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="0">
+  <deps unique="31">
+    <dep name="acl">11</dep>
+    <dep name="advcl">8</dep>
+    <dep name="advmod">87</dep>
+    <dep name="amod">41</dep>
+    <dep name="aux">160</dep>
+    <dep name="case">168</dep>
+    <dep name="cc">156</dep>
+    <dep name="ccomp">38</dep>
+    <dep name="compound">19</dep>
+    <dep name="compound:prt">2</dep>
+    <dep name="compound:svc">30</dep>
+    <dep name="conj">71</dep>
+    <dep name="cop">43</dep>
+    <dep name="csubj">31</dep>
+    <dep name="det">77</dep>
+    <dep name="discourse">28</dep>
+    <dep name="expl">31</dep>
+    <dep name="flat">1</dep>
+    <dep name="goeswith">36</dep>
+    <dep name="iobj">10</dep>
+    <dep name="list">1</dep>
+    <dep name="mark">212</dep>
+    <dep name="nmod">101</dep>
+    <dep name="nsubj">362</dep>
+    <dep name="nummod">10</dep>
+    <dep name="obj">213</dep>
+    <dep name="obl">42</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">436</dep>
+    <dep name="root">100</dep>
+    <dep name="xcomp">162</dep>
   </deps>
 </treebank>
