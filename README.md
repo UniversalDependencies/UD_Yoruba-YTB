@@ -25,7 +25,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Olúòkun, Adédayọ̀; Zeman, Daniel; Williams, Seyi
+Contributors: Olúòkun, Adédayọ̀; Zeman, Daniel; Williams, Seyi; Ishola, Ọlájídé
 Contributing: here
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
