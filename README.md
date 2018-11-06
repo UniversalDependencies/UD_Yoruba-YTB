@@ -14,6 +14,13 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 
 * (citation)
 
+
+# Changelog
+
+* 2018-11-15 v2.3
+  * Added pronoun types.
+  * Manually re-checked for annotation errors.
+
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.2
