@@ -954,7 +954,7 @@
 20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and
 21	máa	máa	AUX	_	_	22	aux	_	Gloss=be
 22	tọ̀	tọ̀	VERB	_	_	15	conj	_	Gloss=follow
-23	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes ###???	22	obj	_	Gloss=him
+23	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	22	obj	_	Gloss=him
 24	lẹ́yìn	lẹ́yìn	ADP	_	_	23	case	_	SpaceAfter=No|Gloss=after
 25	:	:	PUNCT	_	_	29	punct	_	Gloss=:
 26	nítorí	nítorí	SCONJ	_	_	29	mark	_	Gloss=for
@@ -1362,7 +1362,7 @@
 16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and
 17	dàrú	dàrú	VERB	_	_	5	xcomp	_	SpaceAfter=No|Gloss=troubled
 18	;	;	PUNCT	_	_	22	punct	_	Gloss=;
-19	èéṣe	èéṣe	PRON	_	PronType=Int # why	22	nsubj	_	Gloss=why
+19	èéṣe	èéṣe	PRON	_	PronType=Int	22	nsubj	_	Gloss=why
 20	tí	tí	PRON	_	PronType=Rel	22	mark	_	Gloss=that
 21	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	22	nsubj	_	Gloss=ye
 22	fi	fi	VERB	_	_	17	xcomp	_	Gloss=do
@@ -1621,7 +1621,7 @@
 20	wá	wá	VERB	_	_	13	compound:svc	_	SpaceAfter=No|Gloss=come
 21	;	;	PUNCT	_	_	27	punct	_	Gloss=;
 22	nítorí	nítorí	SCONJ	_	_	23	cc	_	Gloss=for
-23	èwo	èwo	PRON	_	PronType=Int # what	27	nsubj	_	Gloss=what
+23	èwo	èwo	PRON	_	PronType=Int	27	nsubj	_	Gloss=what
 24	nínú	nínú	ADP	_	_	25	case	_	Gloss=in
 25	iṣẹ́	iṣẹ́	NOUN	_	_	27	nsubj	_	Gloss=work
 26	wọ̀nyí	wọ̀nyí	DET	_	_	25	det	_	Gloss=these
@@ -1649,7 +1649,7 @@
 10	Àwa	àwa	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Gloss=we
 11	kò	kò	PART	_	_	12	discourse	_	Gloss=not
 12	sọ	sọ	VERB	_	_	4	csubj	_	Gloss=throw
-13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes ###???	12	obj	_	Gloss=him
+13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	12	obj	_	Gloss=him
 14	lókúta	lókúta	VERB	_	_	12	obl	_	Gloss=stoned
 15	nítorí	nítorí	SCONJ	_	_	16	cc	_	Gloss=for
 16	iṣẹ́	iṣẹ́	NOUN	_	_	12	obl	_	Gloss=work
@@ -1691,7 +1691,7 @@
 10	ha	ha	X	_	_	12	discourse	_	Gloss=?
 11	ti	ti	PRON	_	_	12	mark	_	Gloss=have
 12	kọ	kọ	VERB	_	_	2	csubj	_	Gloss=written
-13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes ###???	12	obj	_	Gloss=it
+13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	12	obj	_	Gloss=it
 14	nínú	nínú	ADP	_	_	15	case	_	Gloss=in
 15	òfin	òfin	NOUN	_	_	12	obl	_	Gloss=law
 16	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	15	nmod	_	Gloss=your
@@ -2464,7 +2464,7 @@
 28	sì	sì	CCONJ	_	_	30	cc	_	Gloss=and
 29	ń	ń	AUX	_	_	30	aux	_	Gloss=is
 30	pè	pè	VERB	_	_	25	conj	_	Gloss=calling
-31	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes ###???	30	obj	_	SpaceAfter=No|Gloss=thee
+31	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	30	obj	_	SpaceAfter=No|Gloss=thee
 32	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No|Gloss=.
 33	”	”	PUNCT	_	_	6	punct	_	Gloss=”
 
