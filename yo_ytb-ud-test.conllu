@@ -136,7 +136,7 @@
 8	òfuurufú	òfuurufú	NOUN	_	_	15	nsubj	_	Gloss=firmament
 9	kí	kí	AUX	_	_	15	aux	_	Gloss=let
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	expl	_	Gloss=it
-11	wà	wà	VERB	_	_	15	cop	_	Gloss=was
+11	wà	wà	AUX	_	_	15	cop	_	Gloss=was
 12	ní	ní	ADP	_	_	15	case	_	Gloss=in
 13	àárin	àárin	ADP	_	_	15	case	_	Gloss=midst
 14	àwọn	àwọn	DET	_	_	15	det	_	Gloss=the
@@ -1353,7 +1353,7 @@
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 8	“	“	PUNCT	_	_	10	punct	_	SpaceAfter=No|Gloss=“
 9	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=he
-10	ní	ní	ADP	_	_	12	cop	_	Gloss=have
+10	ní	ní	AUX	_	_	12	cop	_	Gloss=have
 11	ẹ̀mí	ẹ̀mí	NOUN	_	_	12	nmod	_	Gloss=spirit
 12	èṣù	èṣù	NOUN	_	_	5	xcomp	_	SpaceAfter=No|Gloss=devil
 13	,	,	PUNCT	_	_	17	punct	_	Gloss=,
@@ -1960,7 +1960,7 @@
 12	Àìsàn	Àìsàn	NOUN	_	_	15	nsubj	_	Gloss=sickness
 13	yìí	yìí	DET	_	_	12	det	_	Gloss=this
 14	kìí	kìí	PART	_	_	15	discourse	_	Gloss=was
-15	ṣe	ṣe	VERB	_	_	17	cop	_	Gloss=not
+15	ṣe	ṣe	AUX	_	_	17	cop	_	Gloss=not
 16	ti	ti	ADP	_	_	17	case	_	Gloss=of
 17	ikú	ikú	NOUN	_	_	8	xcomp	_	SpaceAfter=No|Gloss=death
 18	,	,	PUNCT	_	_	22	punct	_	Gloss=,
