@@ -13,9 +13,9 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">55</tag><!-- dára, irú, rere, ńlá, náà, ọ̀pọ̀, afọ́jú, gbígbẹ, kẹrin, mìíràn -->
-    <tag name="ADP">182</tag><!-- ní, fún, láti, nínú, sí, kúrò, ti, inú, sọ́dọ̀, lẹ́yìn -->
+    <tag name="ADP">181</tag><!-- ní, fún, láti, nínú, sí, kúrò, ti, inú, sọ́dọ̀, lẹ́yìn -->
     <tag name="ADV">98</tag><!-- náà, nígbà, bẹ́ẹ̀, tún, lóòótọ́, níbẹ̀, nítorí, onírúurú, òwúrọ̀, gbangba -->
-    <tag name="AUX">184</tag><!-- ni, ń, jẹ́, kí, ti, wà, yóò, lè, máa, ṣe -->
+    <tag name="AUX">187</tag><!-- ni, ń, jẹ́, kí, ti, wà, yóò, lè, máa, ṣe -->
     <tag name="CCONJ">149</tag><!-- sì, àti, ṣùgbọ́n, náà, nítorí, wọ̀nyí -->
     <tag name="DET">68</tag><!-- àwọn, gbogbo, yìí, náà, wọ̀nyí -->
     <tag name="NOUN">345</tag><!-- ọlọ́run, àgùntàn, ìmọ́lẹ̀, ilẹ̀, Baba, omi, iṣẹ́, ojú, ọ̀run, arákùnrin -->
@@ -25,7 +25,7 @@
     <tag name="PROPN">72</tag><!-- jésù, Olúwa, júù, màríà, mátà, lásárù, bẹ́tẹ́nì, jérúsálẹ́mù, jòhánù, kírísítì -->
     <tag name="PUNCT">449</tag><!-- ,, ., “, ”, :, ?, -, ;, !, ( -->
     <tag name="SCONJ">143</tag><!-- pé, nítorí, kí, bí, bá, à, nígbà, tilẹ̀, tó, ìbáṣe -->
-    <tag name="VERB">403</tag><!-- wí, ṣe, rí, wá, gbọ́, dá, gbà, fi, kú, ẹ -->
+    <tag name="VERB">401</tag><!-- wí, ṣe, rí, wá, gbọ́, dá, gbà, fi, kú, ẹ -->
     <tag name="X">2</tag><!-- ha, kí -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
