@@ -6,7 +6,7 @@
 # text_en =  in the beginning god created the heaven and the earth .
 1	ní	ní	ADP	_	_	2	case	_	Gloss=in
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning
-3	ohun	ohun	PRON	_	_	5	nmod	_	Gloss=things
+3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things
 4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all
 5	ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made
@@ -566,7 +566,7 @@
 12	kún	kún	VERB	_	_	3	csubj	_	Gloss=full
 13	fún	fún	ADP	_	_	15	case	_	Gloss=unto
 14	àwọn	àwọn	PRON	_	PronType=Ind	15	det	_	Gloss=them
-15	ohun	ohun	PRON	_	_	16	nmod	_	Gloss=things
+15	ohun	ohun	NOUN	_	_	16	nmod	_	Gloss=things
 16	alààyè	alààyè	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=living
 17	,	,	PUNCT	_	_	21	punct	_	Gloss=,
 18	kí	kí	SCONJ	_	_	26	mark	_	Gloss=let
@@ -601,11 +601,11 @@
 13	òkun	òkun	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=sea
 14	,	,	PUNCT	_	_	18	punct	_	Gloss=,
 15	àwọn	àwọn	PRON	_	PronType=Ind	16	det	_	Gloss=the
-16	ohun	ohun	PRON	_	_	17	nmod	_	Gloss=things
+16	ohun	ohun	NOUN	_	_	17	nmod	_	Gloss=things
 17	ẹlẹ́mìí	ẹlẹ́mìí	NOUN	_	_	4	csubj	_	Gloss=breatheth
 18	àti	àti	CCONJ	_	_	20	cc	_	Gloss=and
 19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the
-20	ohun	ohun	PRON	_	_	17	conj	_	Gloss=things
+20	ohun	ohun	NOUN	_	_	17	conj	_	Gloss=things
 21	tí	tí	PRON	_	PronType=Rel	23	mark	_	Gloss=that
 22	ń	ń	AUX	_	_	23	aux	_	Gloss=that
 23	rìn	rìn	VERB	_	_	17	csubj	_	Gloss=walk
@@ -706,7 +706,7 @@
 9	kí	kí	AUX	_	_	11	aux	_	Gloss=let
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he
 11	mú	mú	VERB	_	_	3	csubj	_	Gloss=brought
-12	ohun	ohun	PRON	_	_	13	nmod	_	Gloss=things
+12	ohun	ohun	NOUN	_	_	13	nmod	_	Gloss=things
 13	alààyè	alààyè	NOUN	_	_	11	obj	_	Gloss=living
 14	jáde	jáde	ADP	_	_	13	case	_	Gloss=out
 15	ní	ní	ADP	_	_	17	case	_	Gloss=in
@@ -718,7 +718,7 @@
 21	,	,	PUNCT	_	_	25	punct	_	Gloss=,
 22	à	à	SCONJ	_	_	25	det	_	SpaceAfter=No|Gloss=the
 23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	goeswith	_	Gloss=them
-24	ohun	ohun	PRON	_	_	25	nmod	_	Gloss=things
+24	ohun	ohun	NOUN	_	_	25	nmod	_	Gloss=things
 25	afàyàfà	afàyàfà	NOUN	_	_	11	xcomp	_	Gloss=creepeth
 26	àti	àti	CCONJ	_	_	28	cc	_	Gloss=and
 27	àwọn	àwọn	DET	_	_	28	det	_	Gloss=the
@@ -757,7 +757,7 @@
 13	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obl	_	Gloss=its
 14	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and
 15	gbogbo	gbogbo	DET	_	_	17	det	_	Gloss=all
-16	ohun	ohun	PRON	_	_	17	nmod	_	Gloss=things
+16	ohun	ohun	NOUN	_	_	17	nmod	_	Gloss=things
 17	alààyè	alààyè	NOUN	_	_	8	conj	_	Gloss=living
 18	tí	tí	PRON	_	PronType=Rel	20	mark	_	Gloss=that
 19	ń	ń	AUX	_	_	20	aux	_	Gloss=is
@@ -819,14 +819,14 @@
 36	ojú	ojú	NOUN	_	_	37	nmod	_	Gloss=face
 37	ọ̀run	ọ̀run	NOUN	_	_	35	nmod	_	SpaceAfter=No|Gloss=heaven
 38	,	,	PUNCT	_	_	40	punct	_	Gloss=,
-39	ohun	ohun	PRON	_	_	40	nmod	_	Gloss=things
+39	ohun	ohun	NOUN	_	_	40	nmod	_	Gloss=things
 40	ọ̀sìn	ọ̀sìn	NOUN	_	_	32	conj	_	SpaceAfter=No|Gloss=cattle
 41	,	,	PUNCT	_	_	43	punct	_	Gloss=,
 42	gbogbo	gbogbo	DET	_	_	43	det	_	Gloss=all
 43	ilẹ̀	ilẹ̀	NOUN	_	_	32	conj	_	Gloss=land
 44	àti	àti	CCONJ	_	_	46	cc	_	Gloss=and
 45	lórí	lórí	ADP	_	_	46	case	_	Gloss=upon
-46	ohun	ohun	PRON	_	_	32	conj	_	Gloss=things
+46	ohun	ohun	NOUN	_	_	32	conj	_	Gloss=things
 47	gbogbo	gbogbo	DET	_	_	46	det	_	Gloss=all
 48	tí	tí	PRON	_	PronType=Rel	50	nsubj	_	Gloss=that
 49	ń	ń	AUX	_	_	50	aux	_	Gloss=is
@@ -1004,7 +1004,7 @@
 8	:	:	PUNCT	_	_	15	punct	_	Gloss=:
 9	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	10	cc	_	Gloss=but
 10	òye	òye	NOUN	_	_	15	nsubj	_	Gloss=understanding
-11	ohun	ohun	PRON	_	_	10	nmod	_	Gloss=things
+11	ohun	ohun	NOUN	_	_	10	nmod	_	Gloss=things
 12	tí	tí	PRON	_	PronType=Rel	15	mark	_	Gloss=that
 13	nǹkan	nǹkan	NOUN	_	_	15	nsubj	_	Gloss=things
 14	wọ̀nyí	wọ̀nyí	CCONJ	_	_	13	det	_	Gloss=these
@@ -1824,7 +1824,7 @@
 22	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	24	cc	_	Gloss=but
 23	òtítọ́	òtítọ́	NOUN	_	_	24	nsubj	_	Gloss=truth
 24	ni	ni	AUX	_	_	17	xcomp	_	Gloss=is
-25	ohun	ohun	PRON	_	_	24	obj	_	Gloss=thing
+25	ohun	ohun	NOUN	_	_	24	obj	_	Gloss=thing
 26	gbogbo	gbogbo	DET	_	_	25	det	_	Gloss=all
 27	tí	tí	PRON	_	PronType=Rel	29	mark	_	Gloss=that
 28	Jòhánù	jòhánù	PROPN	_	_	29	nsubj	_	Gloss=john
