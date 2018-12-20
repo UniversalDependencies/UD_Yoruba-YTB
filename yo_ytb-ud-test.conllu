@@ -1,840 +1,812 @@
-# newdoc
-# newpar
-# sent_id = 1
-# text = ní ìbẹ̀rẹ̀ ohun gbogbo ọlọ́run dá àwọn ọ̀run àti ayé.
-# text_yor =  ní ìbẹ̀rẹ̀ ohun gbogbo ọlọ́run dá àwọn ọ̀run àti ayé .
-# text_en =  in the beginning god created the heaven and the earth .
-1	ní	ní	ADP	_	_	2	case	_	Gloss=in
-2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning
-3	ohun	ohun	PRON	_	_	5	nmod	_	Gloss=things
-4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all
-5	ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god
-6	dá	dá	VERB	_	_	0	root	_	Gloss=made
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the
-8	ọ̀run	ọ̀run	NOUN	_	_	6	obj	_	Gloss=heaven
-9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and
-10	ayé	ayé	NOUN	_	_	8	conj	_	SpaceAfter=No|Gloss=earth
-11	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+# source = Bibeli Mimọ, Jẹ́nẹ́sísì, Chapter 1
+# newdoc id = GEN_1
+# sent_id = GEN_1.1
+# text = Ní ìbẹ̀rẹ̀ ohun gbogbo Ọlọ́run dá àwọn ọ̀run àti ayé.
+# text_en = In the beginning god created the heaven and the earth.
+1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
+2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
+3	ohun	ohun	PRON	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
+4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
+5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
+6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
+7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=GEN_1.1
+8	ọ̀run	ọ̀run	NOUN	_	_	6	obj	_	Gloss=heaven|Ref=GEN_1.1
+9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.1
+10	ayé	ayé	NOUN	_	_	8	conj	_	Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	Gloss=.|Ref=GEN_1.1
 
-# sent_id = 2
-# text = ayé sì wà ní rúdurùdu, ó sì ṣófo, òkùnkùn sì wà lójú ibú omi, ẹ̀mí ọlọ́run sì ń rábàbà lójú omi gbogbo.
-# text_yor =  ayé sì wà ní rúdurùdu , ó sì ṣófo , òkùnkùn sì wà lójú ibú omi , ẹ̀mí ọlọ́run sì ń rábàbà lójú omi gbogbo .
-# text_en =  and the earth was without form , and void ; and darkness was upon the face of the deep . and the spirit of god moved upon the face of the waters .
-1	ayé	ayé	NOUN	_	_	5	nsubj	_	Gloss=earth
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	wà	wà	AUX	_	_	5	cop	_	Gloss=was
-4	ní	ní	ADP	_	_	5	case	_	Gloss=in
-5	rúdurùdu	rúdurùdu	NOUN	_	_	9	obl	_	SpaceAfter=No|Gloss=confusion
-6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he
-8	sì	sì	CCONJ	_	_	9	cc	_	Gloss=and
-9	ṣófo	ṣófo	ADJ	_	_	0	root	_	SpaceAfter=No|Gloss=empty
-10	,	,	PUNCT	_	_	11	punct	_	Gloss=,
-11	òkùnkùn	òkùnkùn	NOUN	_	_	16	nsubj	_	Gloss=darkness
-12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and
-13	wà	wà	AUX	_	_	16	cop	_	Gloss=was
-14	lójú	lójú	ADP	_	_	16	case	_	Gloss=sight
-15	ibú	ibú	ADJ	_	_	16	amod	_	Gloss=deep
-16	omi	omi	NOUN	_	_	9	nsubj	_	SpaceAfter=No|Gloss=water
-17	,	,	PUNCT	_	_	18	punct	_	Gloss=,
-18	ẹ̀mí	ẹ̀mí	NOUN	_	_	19	compound	_	Gloss=spirit
-19	ọlọ́run	ọlọ́run	NOUN	_	_	22	nsubj	_	Gloss=god
-20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and
-21	ń	ń	VERB	_	_	22	cop	_	Gloss=that
-22	rábàbà	rábàbà	NOUN	_	_	9	csubj	_	Gloss=sweeping
-23	lójú	lójú	ADP	_	_	24	case	_	Gloss=sight
-24	omi	omi	NOUN	_	_	22	obl	_	Gloss=water
-25	gbogbo	gbogbo	DET	_	_	24	det	_	SpaceAfter=No|Gloss=all
-26	.	.	PUNCT	_	_	9	punct	_	Gloss=.
+# sent_id = GEN_1.2
+# text = Ayé sì wà ní rúdurùdu, ó sì ṣófo, òkùnkùn sì wà lójú ibú omi, Ẹ̀mí Ọlọ́run sì ń rábàbà lójú omi gbogbo.
+# text_en = And the earth was without form, and void; and darkness was upon the face of the deep. and the spirit of god moved upon the face of the waters.
+1	Ayé	ayé	NOUN	_	_	5	nsubj	_	Gloss=earth|Ref=GEN_1.2
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.2
+3	wà	wà	AUX	_	_	5	cop	_	Gloss=was|Ref=GEN_1.2
+4	ní	ní	ADP	_	_	5	case	_	Gloss=in|Ref=GEN_1.2
+5	rúdurùdu	rúdurùdu	NOUN	_	_	9	obl	_	Gloss=confusion|Ref=GEN_1.2|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=GEN_1.2
+7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he|Ref=GEN_1.2
+8	sì	sì	CCONJ	_	_	9	cc	_	Gloss=and|Ref=GEN_1.2
+9	ṣófo	ṣófo	ADJ	_	_	0	root	_	Gloss=empty|Ref=GEN_1.2|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=GEN_1.2
+11	òkùnkùn	òkùnkùn	NOUN	_	_	16	nsubj	_	Gloss=darkness|Ref=GEN_1.2
+12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=GEN_1.2
+13	wà	wà	AUX	_	_	16	cop	_	Gloss=was|Ref=GEN_1.2
+14	lójú	lójú	ADP	_	_	16	case	_	Gloss=sight|Ref=GEN_1.2
+15	ibú	ibú	ADJ	_	_	16	amod	_	Gloss=deep|Ref=GEN_1.2
+16	omi	omi	NOUN	_	_	9	nsubj	_	Gloss=water|Ref=GEN_1.2|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=,|Ref=GEN_1.2
+18	Ẹ̀mí	ẹ̀mí	NOUN	_	_	19	compound	_	Gloss=spirit|Ref=GEN_1.2
+19	Ọlọ́run	ọlọ́run	NOUN	_	_	22	nsubj	_	Gloss=god|Ref=GEN_1.2
+20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and|Ref=GEN_1.2
+21	ń	ń	VERB	_	_	22	cop	_	Gloss=that|Ref=GEN_1.2
+22	rábàbà	rábàbà	NOUN	_	_	9	csubj	_	Gloss=sweeping|Ref=GEN_1.2
+23	lójú	lójú	ADP	_	_	24	case	_	Gloss=sight|Ref=GEN_1.2
+24	omi	omi	NOUN	_	_	22	obl	_	Gloss=water|Ref=GEN_1.2
+25	gbogbo	gbogbo	DET	_	_	24	det	_	Gloss=all|Ref=GEN_1.2|SpaceAfter=No
+26	.	.	PUNCT	_	_	9	punct	_	Gloss=.|Ref=GEN_1.2
 
-# sent_id = 3
-# text = ọlọ́run sì wí pé, “jẹ́ kí ìmọ́lẹ̀ kí ó wà,” ìmọ́lẹ̀ sì wà.
-# text_yor =  ọlọ́run sì wí pé , “ jẹ́ kí ìmọ́lẹ̀ kí ó wà , ” ìmọ́lẹ̀ sì wà.
-# text_en =  and god said , let there be light : and there was light .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=that
-5	,	,	PUNCT	_	_	9	punct	_	Gloss=,
-6	“	“	PUNCT	_	_	9	punct	_	SpaceAfter=No|Gloss=“
-7	jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let
-8	kí	kí	X	_	_	12	aux	_	Gloss=
-9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	12	nsubj	_	Gloss=light
-10	kí	kí	AUX	_	_	12	aux	_	Gloss=let
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he
-12	wà	wà	AUX	_	_	3	xcomp	_	SpaceAfter=No|Gloss=was
-13	,	,	PUNCT	_	_	3	punct	_	SpaceAfter=No|Gloss=,
-14	”	”	PUNCT	_	_	17	punct	_	Gloss=”
-15	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	17	nsubj	_	Gloss=light
-16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and
-17	wà	wà	VERB	_	_	3	xcomp	_	SpaceAfter=No|Gloss=was
-18	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.3
+# text = Ọlọ́run sì wí pé, “Jẹ́ kí ìmọ́lẹ̀ kí ó wà,” ìmọ́lẹ̀ sì wà.
+# text_en = And god said, let there be light: and there was light.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.3
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.3
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.3
+4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.3|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=GEN_1.3
+6	“	“	PUNCT	_	_	9	punct	_	Gloss=“|Ref=GEN_1.3|SpaceAfter=No
+7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
+8	kí	kí	X	_	_	12	aux	_	Gloss=|Ref=GEN_1.3
+9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	12	nsubj	_	Gloss=light|Ref=GEN_1.3
+10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he|Ref=GEN_1.3
+12	wà	wà	AUX	_	_	3	xcomp	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
+13	,	,	PUNCT	_	_	3	punct	_	Gloss=,|Ref=GEN_1.3|SpaceAfter=No
+14	”	”	PUNCT	_	_	17	punct	_	Gloss=”|Ref=GEN_1.3
+15	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	17	nsubj	_	Gloss=light|Ref=GEN_1.3
+16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.3
+17	wà	wà	VERB	_	_	3	xcomp	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.3
 
-# sent_id = 4
-# text = ọlọ́run rí i pé ìmọ́lẹ̀ náà dára, ó sì ya ìmọ́lẹ̀ náà sọ́tọ̀ kúrò lára òkùnkùn.
-# text_yor =  ọlọ́run rí i pé ìmọ́lẹ̀ náà dára , ó sì ya ìmọ́lẹ̀ náà sọ́tọ̀ kúrò lára òkùnkùn .
-# text_en =  and god saw the light , that it was good : and god divided the light from the darkness .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god
-2	rí	rí	VERB	_	_	0	root	_	Gloss=saw
-3	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	goeswith	_	Gloss=it
-4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that
-5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	csubj	_	Gloss=light
-6	náà	náà	ADJ	_	_	5	amod	_	Gloss=the
-7	dára	dára	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=good
-8	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he
-10	sì	sì	CCONJ	_	_	11	cc	_	Gloss=and
-11	ya	ya	VERB	_	_	2	xcomp	_	Gloss=seperate
-12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
-13	náà	náà	ADV	_	_	12	advmod	_	Gloss=the
-14	sọ́tọ̀	sọ́tọ̀	ADV	_	_	11	advmod	_	Gloss=aside
-15	kúrò	kúrò	ADP	_	_	17	case	_	Gloss=from
-16	lára	lára	ADP	_	_	17	case	_	Gloss=of
-17	òkùnkùn	òkùnkùn	NOUN	_	_	11	obl	_	SpaceAfter=No|Gloss=darkness
-18	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+# sent_id = GEN_1.4
+# text = Ọlọ́run rí i pé ìmọ́lẹ̀ náà dára, ó sì ya ìmọ́lẹ̀ náà sọ́tọ̀ kúrò lára òkùnkùn.
+# text_en = And god saw the light, that it was good: and god divided the light from the darkness.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.4
+2	rí	rí	VERB	_	_	0	root	_	Gloss=saw|Ref=GEN_1.4
+3	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	goeswith	_	Gloss=it|Ref=GEN_1.4
+4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that|Ref=GEN_1.4
+5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	csubj	_	Gloss=light|Ref=GEN_1.4
+6	náà	náà	ADJ	_	_	5	amod	_	Gloss=the|Ref=GEN_1.4
+7	dára	dára	ADJ	_	_	5	amod	_	Gloss=good|Ref=GEN_1.4|SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	Gloss=,|Ref=GEN_1.4
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he|Ref=GEN_1.4
+10	sì	sì	CCONJ	_	_	11	cc	_	Gloss=and|Ref=GEN_1.4
+11	ya	ya	VERB	_	_	2	xcomp	_	Gloss=seperate|Ref=GEN_1.4
+12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light|Ref=GEN_1.4
+13	náà	náà	ADV	_	_	12	advmod	_	Gloss=the|Ref=GEN_1.4
+14	sọ́tọ̀	sọ́tọ̀	ADV	_	_	11	advmod	_	Gloss=aside|Ref=GEN_1.4
+15	kúrò	kúrò	ADP	_	_	17	case	_	Gloss=from|Ref=GEN_1.4
+16	lára	lára	ADP	_	_	17	case	_	Gloss=of|Ref=GEN_1.4
+17	òkùnkùn	òkùnkùn	NOUN	_	_	11	obl	_	Gloss=darkness|Ref=GEN_1.4|SpaceAfter=No
+18	.	.	PUNCT	_	_	11	punct	_	Gloss=.|Ref=GEN_1.4
 
-# sent_id = 5
-# text = ọlọ́run sì pe ìmọ́lẹ̀ náà ní “ọ̀sán” àti òkùnkùn ní “òru.” àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kìn-ín-ní.
-# text_yor =  ọlọ́run sì pe ìmọ́lẹ̀ náà ní “ ọ̀sán ” àti òkùnkùn ní “ òru . ” àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kìn-ín -ní .
-# text_en =  and god called the light day , and the darkness he called night . and the evening and the morning were the first day .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	pe	pe	VERB	_	_	0	root	_	Gloss=called
-4	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	3	obj	_	Gloss=light
-5	náà	náà	ADJ	_	_	4	amod	_	Gloss=the
-6	ní	ní	ADP	_	_	8	case	_	Gloss=in
-7	“	“	PUNCT	_	_	8	punct	_	SpaceAfter=No|Gloss=“
-8	ọ̀sán	ọ̀sán	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=day
-9	”	”	PUNCT	_	_	11	punct	_	Gloss=.
-10	àti	àti	CCONJ	_	_	11	cc	_	Gloss=and
-11	òkùnkùn	òkùnkùn	NOUN	_	_	8	conj	_	Gloss=darkness
-12	ní	ní	ADP	_	_	14	case	_	Gloss=in
-13	“	“	PUNCT	_	_	14	punct	_	SpaceAfter=No|Gloss=“
-14	òru	òru	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=night
-15	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No|Gloss=.
-16	”	”	PUNCT	_	_	14	punct	_	Gloss=”
-17	àsálẹ́	àsálẹ́	NOUN	_	_	22	nsubj	_	Gloss=evening
-18	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and
-19	òwúrọ̀	òwúrọ̀	ADV	_	_	17	conj	_	Gloss=morning
-20	sì	sì	CCONJ	_	_	19	cc	_	Gloss=and
-21	jẹ́	jẹ́	AUX	_	_	22	cop	_	Gloss=be
-22	ọjọ́	ọjọ́	NOUN	_	_	3	ccomp	_	Gloss=day
-23	kìn-ín-ní	kìn-ín-ní	ADJ	_	_	22	amod	_	SpaceAfter=No|Gloss=first
-24	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.5
+# text = Ọlọ́run sì pe ìmọ́lẹ̀ náà ní “Ọ̀sán” àti òkùnkùn ní “Òru.” Àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kìn-ín-ní.
+# text_en = And god called the light day, and the darkness he called night. and the evening and the morning were the first day.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.5
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.5
+3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.5
+4	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	3	obj	_	Gloss=light|Ref=GEN_1.5
+5	náà	náà	ADJ	_	_	4	amod	_	Gloss=the|Ref=GEN_1.5
+6	ní	ní	ADP	_	_	8	case	_	Gloss=in|Ref=GEN_1.5
+7	“	“	PUNCT	_	_	8	punct	_	Gloss=“|Ref=GEN_1.5|SpaceAfter=No
+8	Ọ̀sán	ọ̀sán	NOUN	_	_	3	obl	_	Gloss=day|Ref=GEN_1.5|SpaceAfter=No
+9	”	”	PUNCT	_	_	11	punct	_	Gloss=.|Ref=GEN_1.5
+10	àti	àti	CCONJ	_	_	11	cc	_	Gloss=and|Ref=GEN_1.5
+11	òkùnkùn	òkùnkùn	NOUN	_	_	8	conj	_	Gloss=darkness|Ref=GEN_1.5
+12	ní	ní	ADP	_	_	14	case	_	Gloss=in|Ref=GEN_1.5
+13	“	“	PUNCT	_	_	14	punct	_	Gloss=“|Ref=GEN_1.5|SpaceAfter=No
+14	Òru	òru	NOUN	_	_	3	obl	_	Gloss=night|Ref=GEN_1.5|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	Gloss=.|Ref=GEN_1.5|SpaceAfter=No
+16	”	”	PUNCT	_	_	14	punct	_	Gloss=”|Ref=GEN_1.5
+17	Àsálẹ́	àsálẹ́	NOUN	_	_	22	nsubj	_	Gloss=evening|Ref=GEN_1.5
+18	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.5
+19	òwúrọ̀	òwúrọ̀	ADV	_	_	17	conj	_	Gloss=morning|Ref=GEN_1.5
+20	sì	sì	CCONJ	_	_	19	cc	_	Gloss=and|Ref=GEN_1.5
+21	jẹ́	jẹ́	AUX	_	_	22	cop	_	Gloss=be|Ref=GEN_1.5
+22	ọjọ́	ọjọ́	NOUN	_	_	3	ccomp	_	Gloss=day|Ref=GEN_1.5
+23	kìn-ín-ní	kìn-ín-ní	ADJ	_	_	22	amod	_	Gloss=first|Ref=GEN_1.5|SpaceAfter=No
+24	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.5
 
-# sent_id = 6
-# text = ọlọ́run sì wí pé “jẹ́ kí òfuurufú kí ó wà ní àárin àwọn omi láti pààlà sí àárin àwọn omi.”
-# text_yor =  ọlọ́run sì wí pé “ jẹ́ kí òfuurufú kí ó wà ní àárin àwọn omi láti pààlà sí àárin à wọn omi . ”
-# text_en =  and god said , let there be a firmament in the midst of the waters , and let it divide the waters from the waters .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	15	mark	_	Gloss=that
-5	“	“	PUNCT	_	_	15	punct	_	SpaceAfter=No|Gloss=“
-6	jẹ́	jẹ́	AUX	_	_	15	aux	_	Gloss=let
-7	kí	kí	AUX	_	_	15	aux	_	Gloss=X
-8	òfuurufú	òfuurufú	NOUN	_	_	15	nsubj	_	Gloss=firmament
-9	kí	kí	AUX	_	_	15	aux	_	Gloss=let
-10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	expl	_	Gloss=it
-11	wà	wà	AUX	_	_	15	cop	_	Gloss=was
-12	ní	ní	ADP	_	_	15	case	_	Gloss=in
-13	àárin	àárin	ADP	_	_	15	case	_	Gloss=midst
-14	àwọn	àwọn	DET	_	_	15	det	_	Gloss=the
-15	omi	omi	NOUN	_	_	3	ccomp	_	Gloss=water
-16	láti	láti	ADP	_	_	17	mark	_	Gloss=to
-17	pààlà	pààlà	VERB	_	_	15	advcl	_	Gloss=demacate
-18	sí	sí	ADP	_	_	22	case	_	Gloss=to
-19	àárin	àárin	ADP	_	_	22	case	_	Gloss=midst
-20	àwọn	àwọn	PRON	_	PronType=Ind	21	det	_	Gloss=them
-21	omi	omi	NOUN	_	_	17	obl	_	SpaceAfter=No|Gloss=water
-22	.	.	PUNCT	_	_	15	punct	_	SpaceAfter=No|Gloss=.
-23	”	”	PUNCT	_	_	15	punct	_	Gloss=”
+# sent_id = GEN_1.6
+# text = Ọlọ́run sì wí pé “Jẹ́ kí òfuurufú kí ó wà ní àárin àwọn omi láti pààlà sí àárin àwọn omi.”
+# text_en = And god said, let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.6
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.6
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.6
+4	pé	pé	SCONJ	_	_	15	mark	_	Gloss=that|Ref=GEN_1.6
+5	“	“	PUNCT	_	_	15	punct	_	Gloss=“|Ref=GEN_1.6|SpaceAfter=No
+6	Jẹ́	jẹ́	AUX	_	_	15	aux	_	Gloss=let|Ref=GEN_1.6
+7	kí	kí	AUX	_	_	15	aux	_	Gloss=X|Ref=GEN_1.6
+8	òfuurufú	òfuurufú	NOUN	_	_	15	nsubj	_	Gloss=firmament|Ref=GEN_1.6
+9	kí	kí	AUX	_	_	15	aux	_	Gloss=let|Ref=GEN_1.6
+10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	expl	_	Gloss=it|Ref=GEN_1.6
+11	wà	wà	AUX	_	_	15	cop	_	Gloss=was|Ref=GEN_1.6
+12	ní	ní	ADP	_	_	15	case	_	Gloss=in|Ref=GEN_1.6
+13	àárin	àárin	ADP	_	_	15	case	_	Gloss=midst|Ref=GEN_1.6
+14	àwọn	àwọn	DET	_	_	15	det	_	Gloss=the|Ref=GEN_1.6
+15	omi	omi	NOUN	_	_	3	ccomp	_	Gloss=water|Ref=GEN_1.6
+16	láti	láti	ADP	_	_	17	mark	_	Gloss=to|Ref=GEN_1.6
+17	pààlà	pààlà	VERB	_	_	15	advcl	_	Gloss=demacate|Ref=GEN_1.6
+18	sí	sí	ADP	_	_	22	case	_	Gloss=to|Ref=GEN_1.6
+19	àárin	àárin	ADP	_	_	22	case	_	Gloss=midst|Ref=GEN_1.6
+20	àwọn	àwọn	PRON	_	PronType=Ind	21	det	_	Gloss=them|Ref=GEN_1.6
+21	omi	omi	NOUN	_	_	17	obl	_	Gloss=water|Ref=GEN_1.6|SpaceAfter=No
+22	.	.	PUNCT	_	_	15	punct	_	Gloss=.|Ref=GEN_1.6|SpaceAfter=No
+23	”	”	PUNCT	_	_	15	punct	_	Gloss=”|Ref=GEN_1.6
 
-# sent_id = 7
-# text = ọlọ́run sì dá òfuurufú láti ya omi tí ó wà ní òkè òfuurufú kúrò lára omi tí ó wà ní orí ilẹ̀. ó sì rí bẹ́ẹ̀.
-# text_yor =  ọlọ́run sì dá òfuurufú láti ya omi tí ó wà ní òkè òfuurufú kúrò lára omi tí ó wà ní orí ilẹ̀ . ó sì rí bẹ́ẹ̀ .
-# text_en =  and god made the firmament , and divided the waters which were under the firmament from the waters which were above the firmament : and it was so .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	dá	dá	VERB	_	_	0	root	_	Gloss=made
-4	òfuurufú	òfuurufú	NOUN	_	_	3	obj	_	Gloss=firmament
-5	láti	láti	ADP	_	_	6	case	_	Gloss=to
-6	ya	ya	VERB	_	_	3	csubj	_	Gloss=separate
-7	omi	omi	NOUN	_	_	10	nsubj	_	Gloss=water
-8	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that
-9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=he
-10	wà	wà	AUX	_	_	12	cop	_	Gloss=was
-11	ní	ní	ADP	_	_	12	case	_	Gloss=in
-12	òkè	òkè	NOUN	_	_	13	compound	_	Gloss=mount
-13	òfuurufú	òfuurufú	NOUN	_	_	3	xcomp	_	Gloss=firmament
-14	kúrò	kúrò	ADP	_	_	16	case	_	Gloss=from
-15	lára	lára	ADP	_	_	16	case	_	Gloss=of
-16	omi	omi	NOUN	_	_	19	nsubj	_	Gloss=water
-17	tí	tí	PRON	_	PronType=Rel	19	nsubj	_	Gloss=that
-18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Gloss=he
-19	wà	wà	AUX	_	_	21	cop	_	Gloss=was
-20	ní	ní	ADP	_	_	21	case	_	Gloss=in
-21	orí	orí	ADP	_	_	3	goeswith	_	Gloss=on
-22	ilẹ̀	ilẹ̀	NOUN	_	_	21	compound	_	SpaceAfter=No|Gloss=land
-23	.	.	PUNCT	_	_	26	punct	_	Gloss=.
-24	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=he
-25	sì	sì	CCONJ	_	_	26	cc	_	Gloss=and
-26	rí	rí	VERB	_	_	19	ccomp	_	Gloss=become
-27	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	26	obj	_	SpaceAfter=No|Gloss=so
-28	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.7
+# text = Ọlọ́run sì dá òfuurufú láti ya omi tí ó wà ní òkè òfuurufú kúrò lára omi tí ó wà ní orí ilẹ̀. Ó sì rí bẹ́ẹ̀.
+# text_en = And god made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.7
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.7
+3	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.7
+4	òfuurufú	òfuurufú	NOUN	_	_	3	obj	_	Gloss=firmament|Ref=GEN_1.7
+5	láti	láti	ADP	_	_	6	case	_	Gloss=to|Ref=GEN_1.7
+6	ya	ya	VERB	_	_	3	csubj	_	Gloss=separate|Ref=GEN_1.7
+7	omi	omi	NOUN	_	_	10	nsubj	_	Gloss=water|Ref=GEN_1.7
+8	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=GEN_1.7
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=he|Ref=GEN_1.7
+10	wà	wà	AUX	_	_	12	cop	_	Gloss=was|Ref=GEN_1.7
+11	ní	ní	ADP	_	_	12	case	_	Gloss=in|Ref=GEN_1.7
+12	òkè	òkè	NOUN	_	_	13	compound	_	Gloss=mount|Ref=GEN_1.7
+13	òfuurufú	òfuurufú	NOUN	_	_	3	xcomp	_	Gloss=firmament|Ref=GEN_1.7
+14	kúrò	kúrò	ADP	_	_	16	case	_	Gloss=from|Ref=GEN_1.7
+15	lára	lára	ADP	_	_	16	case	_	Gloss=of|Ref=GEN_1.7
+16	omi	omi	NOUN	_	_	19	nsubj	_	Gloss=water|Ref=GEN_1.7
+17	tí	tí	PRON	_	PronType=Rel	19	nsubj	_	Gloss=that|Ref=GEN_1.7
+18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Gloss=he|Ref=GEN_1.7
+19	wà	wà	AUX	_	_	21	cop	_	Gloss=was|Ref=GEN_1.7
+20	ní	ní	ADP	_	_	21	case	_	Gloss=in|Ref=GEN_1.7
+21	orí	orí	ADP	_	_	3	goeswith	_	Gloss=on|Ref=GEN_1.7
+22	ilẹ̀	ilẹ̀	NOUN	_	_	21	compound	_	Gloss=land|Ref=GEN_1.7|SpaceAfter=No
+23	.	.	PUNCT	_	_	26	punct	_	Gloss=.|Ref=GEN_1.7
+24	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=he|Ref=GEN_1.7
+25	sì	sì	CCONJ	_	_	26	cc	_	Gloss=and|Ref=GEN_1.7
+26	rí	rí	VERB	_	_	19	ccomp	_	Gloss=become|Ref=GEN_1.7
+27	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	26	obj	_	Gloss=so|Ref=GEN_1.7|SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.7
 
-# sent_id = 8
-# text = ọlọ́run sì pe òfúurufú ní “ọ̀run,” àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kejì.
-# text_yor =  ọlọ́run sì pe òfúurufú ní “ ọ̀run , ” àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kejì .
-# text_en =  and god called the firmament heaven . and the evening and the morning were the second day .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	pe	pe	VERB	_	_	0	root	_	Gloss=called
-4	òfúurufú	òfúurufú	NOUN	_	_	3	obj	_	Gloss=firmament
-5	ní	ní	ADP	_	_	7	case	_	Gloss=it
-6	“	“	PUNCT	_	_	7	punct	_	SpaceAfter=No|Gloss=“
-7	ọ̀run	ọ̀run	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=heaven
-8	,	,	PUNCT	_	_	10	punct	_	SpaceAfter=No|Gloss=,
-9	”	”	PUNCT	_	_	10	punct	_	Gloss=”
-10	àsálẹ́	àsálẹ́	NOUN	_	_	14	nsubj	_	Gloss=evening
-11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and
-12	òwúrọ̀	òwúrọ̀	NOUN	_	_	10	conj	_	Gloss=morning
-13	sì	sì	AUX	_	_	14	aux	_	Gloss=was
-14	jẹ́	jẹ́	AUX	_	_	15	cop	_	Gloss=be
-15	ọjọ́	ọjọ́	NOUN	_	_	3	xcomp	_	Gloss=day
-16	kejì	kejì	ADJ	_	_	15	amod	_	SpaceAfter=No|Gloss=second
-17	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.8
+# text = Ọlọ́run sì pe òfúurufú ní “Ọ̀run,” àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kejì.
+# text_en = And god called the firmament heaven. and the evening and the morning were the second day.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.8
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.8
+3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.8
+4	òfúurufú	òfúurufú	NOUN	_	_	3	obj	_	Gloss=firmament|Ref=GEN_1.8
+5	ní	ní	ADP	_	_	7	case	_	Gloss=it|Ref=GEN_1.8
+6	“	“	PUNCT	_	_	7	punct	_	Gloss=“|Ref=GEN_1.8|SpaceAfter=No
+7	Ọ̀run	ọ̀run	NOUN	_	_	3	obl	_	Gloss=heaven|Ref=GEN_1.8|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=GEN_1.8|SpaceAfter=No
+9	”	”	PUNCT	_	_	10	punct	_	Gloss=”|Ref=GEN_1.8
+10	àsálẹ́	àsálẹ́	NOUN	_	_	14	nsubj	_	Gloss=evening|Ref=GEN_1.8
+11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and|Ref=GEN_1.8
+12	òwúrọ̀	òwúrọ̀	NOUN	_	_	10	conj	_	Gloss=morning|Ref=GEN_1.8
+13	sì	sì	AUX	_	_	14	aux	_	Gloss=was|Ref=GEN_1.8
+14	jẹ́	jẹ́	AUX	_	_	15	cop	_	Gloss=be|Ref=GEN_1.8
+15	ọjọ́	ọjọ́	NOUN	_	_	3	xcomp	_	Gloss=day|Ref=GEN_1.8
+16	kejì	kejì	ADJ	_	_	15	amod	_	Gloss=second|Ref=GEN_1.8|SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.8
 
-# sent_id = 9
-# text = ọlọ́run sì wí pé, “jẹ́ kí omi abẹ́ ọ̀run wọ́ papọ̀ sí ojúkan, kí ilẹ̀ gbígbẹ sì farahàn.” ó sì rí bẹ́ẹ̀.
-# text_yor =  ọlọ́run sì wí pé , “ jẹ́ kí omi abẹ́ ọ̀run wọ́ papọ̀ sí ojúkan , kí ilẹ̀ gbígbẹ sì farahà n . ” ó sì rí bẹ́ẹ̀ .
-# text_en =  and god said , let the waters under the heaven be gathered together unto one place , and let the dry land appear : and it was so .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=that
-5	,	,	PUNCT	_	_	12	punct	_	Gloss=,
-6	“	“	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=“
-7	jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let
-8	kí	kí	AUX	_	_	12	aux	_	Gloss=
-9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water
-10	abẹ́	abẹ́	ADP	_	_	11	case	_	Gloss=under
-11	ọ̀run	ọ̀run	NOUN	_	_	9	nmod	_	Gloss=heaven
-12	wọ́	wọ́	VERB	_	_	3	ccomp	_	Gloss=gather
-13	papọ̀	papọ̀	VERB	_	_	12	compound:svc	_	Gloss=together
-14	sí	sí	ADP	_	_	15	case	_	Gloss=to
-15	ojúkan	ojúkan	NOUN	_	_	12	obl	_	SpaceAfter=No|Gloss=place
-16	,	,	PUNCT	_	_	18	punct	_	Gloss=,
-17	kí	kí	SCONJ	_	_	18	case	_	Gloss=let
-18	ilẹ̀	ilẹ̀	NOUN	_	_	21	nsubj	_	Gloss=land
-19	gbígbẹ	gbígbẹ	ADJ	_	_	18	amod	_	Gloss=dry
-20	sì	sì	CCONJ	_	_	21	cc	_	Gloss=and
-21	farahàn	farahàn	VERB	_	_	12	conj	_	SpaceAfter=No|Gloss=appear
-22	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=.
-23	”	”	PUNCT	_	_	12	punct	_	Gloss=”
-24	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=he
-25	sì	sì	CCONJ	_	_	26	cc	_	Gloss=and
-26	rí	rí	VERB	_	_	3	conj	_	Gloss=become
-27	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	26	advmod	_	SpaceAfter=No|Gloss=so
-28	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.9
+# text = Ọlọ́run sì wí pé, “Jẹ́ kí omi abẹ́ ọ̀run wọ́ papọ̀ sí ojúkan, kí ilẹ̀ gbígbẹ sì farahàn.” Ó sì rí bẹ́ẹ̀.
+# text_en = And god said, let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.9
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.9
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.9
+4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.9|SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.9
+6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.9|SpaceAfter=No
+7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.9
+8	kí	kí	AUX	_	_	12	aux	_	Gloss=|Ref=GEN_1.9
+9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water|Ref=GEN_1.9
+10	abẹ́	abẹ́	ADP	_	_	11	case	_	Gloss=under|Ref=GEN_1.9
+11	ọ̀run	ọ̀run	NOUN	_	_	9	nmod	_	Gloss=heaven|Ref=GEN_1.9
+12	wọ́	wọ́	VERB	_	_	3	ccomp	_	Gloss=gather|Ref=GEN_1.9
+13	papọ̀	papọ̀	VERB	_	_	12	compound:svc	_	Gloss=together|Ref=GEN_1.9
+14	sí	sí	ADP	_	_	15	case	_	Gloss=to|Ref=GEN_1.9
+15	ojúkan	ojúkan	NOUN	_	_	12	obl	_	Gloss=place|Ref=GEN_1.9|SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	Gloss=,|Ref=GEN_1.9
+17	kí	kí	SCONJ	_	_	18	case	_	Gloss=let|Ref=GEN_1.9
+18	ilẹ̀	ilẹ̀	NOUN	_	_	21	nsubj	_	Gloss=land|Ref=GEN_1.9
+19	gbígbẹ	gbígbẹ	ADJ	_	_	18	amod	_	Gloss=dry|Ref=GEN_1.9
+20	sì	sì	CCONJ	_	_	21	cc	_	Gloss=and|Ref=GEN_1.9
+21	farahàn	farahàn	VERB	_	_	12	conj	_	Gloss=appear|Ref=GEN_1.9|SpaceAfter=No
+22	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=GEN_1.9|SpaceAfter=No
+23	”	”	PUNCT	_	_	12	punct	_	Gloss=”|Ref=GEN_1.9
+24	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=he|Ref=GEN_1.9
+25	sì	sì	CCONJ	_	_	26	cc	_	Gloss=and|Ref=GEN_1.9
+26	rí	rí	VERB	_	_	3	conj	_	Gloss=become|Ref=GEN_1.9
+27	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	26	advmod	_	Gloss=so|Ref=GEN_1.9|SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.9
 
-# sent_id = 10
-# text = ọlọ́run sì pe ilẹ̀ gbígbẹ náà ní “ilẹ̀” àti àpapọ̀ omi ní “òkun:” ọlórun sì rí i wí pé ó dára.
-# text_yor =  ọlọ́run sì pe ilẹ̀ gbígbẹ náà ní “ ilẹ̀ ” àti à papọ̀ omi ní “ òkun : ” ọlórun sì rí i wí pé ó dára .
-# text_en =  and god called the dry land earth ; and the gathering together of the waters called he seas : and god saw that it was good .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	pe	pe	VERB	_	_	0	root	_	Gloss=called
-4	ilẹ̀	ilẹ̀	NOUN	_	_	3	iobj	_	Gloss=land
-5	gbígbẹ	gbígbẹ	ADJ	_	_	4	amod	_	Gloss=dry
-6	náà	náà	ADJ	_	_	4	amod	_	Gloss=the
-7	ní	ní	ADP	_	_	9	case	_	Gloss=has
-8	“	“	PUNCT	_	_	9	punct	_	SpaceAfter=No|Gloss=“
-9	ilẹ̀	ilẹ̀	NOUN	_	_	3	obl	_	SpaceAfter=No|Gloss=land
-10	”	”	PUNCT	_	_	12	punct	_	Gloss=”
-11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and
-12	àpapọ̀	àpapọ̀	ADV	_	_	13	advmod	_	Gloss=altogether
-13	omi	omi	NOUN	_	_	3	conj	_	Gloss=water
-14	ní	ní	ADP	_	_	16	case	_	Gloss=in
-15	“	“	PUNCT	_	_	16	punct	_	SpaceAfter=No|Gloss=“
-16	òkun	òkun	NOUN	_	_	13	orphan	_	SpaceAfter=No|Gloss=sea
-17	:	:	PUNCT	_	_	20	punct	_	SpaceAfter=No|Gloss=:
-18	”	”	PUNCT	_	_	20	punct	_	Gloss=”
-19	ọlórun	ọlórun	NOUN	_	_	22	nsubj	_	Gloss=god
-20	sì	sì	CCONJ	_	_	21	cc	_	Gloss=and
-21	rí	rí	VERB	_	_	3	conj	_	Gloss=saw
-22	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=it
-23	wí	wí	VERB	_	_	26	mark	_	Gloss=that
-24	pé	pé	SCONJ	_	_	26	mark	_	Gloss=that
-25	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=it
-26	dára	dára	ADJ	_	_	22	acl	_	SpaceAfter=No|Gloss=good
-27	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.10
+# text = Ọlọ́run sì pe ilẹ̀ gbígbẹ náà ní “Ilẹ̀” àti àpapọ̀ omi ní “Òkun:” Ọlórun sì rí i wí pé ó dára.
+# text_en = And god called the dry land earth; and the gathering together of the waters called he seas: and god saw that it was good.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.10
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.10
+3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.10
+4	ilẹ̀	ilẹ̀	NOUN	_	_	3	iobj	_	Gloss=land|Ref=GEN_1.10
+5	gbígbẹ	gbígbẹ	ADJ	_	_	4	amod	_	Gloss=dry|Ref=GEN_1.10
+6	náà	náà	ADJ	_	_	4	amod	_	Gloss=the|Ref=GEN_1.10
+7	ní	ní	ADP	_	_	9	case	_	Gloss=has|Ref=GEN_1.10
+8	“	“	PUNCT	_	_	9	punct	_	Gloss=“|Ref=GEN_1.10|SpaceAfter=No
+9	Ilẹ̀	ilẹ̀	NOUN	_	_	3	obl	_	Gloss=land|Ref=GEN_1.10|SpaceAfter=No
+10	”	”	PUNCT	_	_	12	punct	_	Gloss=”|Ref=GEN_1.10
+11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and|Ref=GEN_1.10
+12	àpapọ̀	àpapọ̀	ADV	_	_	13	advmod	_	Gloss=altogether|Ref=GEN_1.10
+13	omi	omi	NOUN	_	_	3	conj	_	Gloss=water|Ref=GEN_1.10
+14	ní	ní	ADP	_	_	16	case	_	Gloss=in|Ref=GEN_1.10
+15	“	“	PUNCT	_	_	16	punct	_	Gloss=“|Ref=GEN_1.10|SpaceAfter=No
+16	Òkun	òkun	NOUN	_	_	13	orphan	_	Gloss=sea|Ref=GEN_1.10|SpaceAfter=No
+17	:	:	PUNCT	_	_	20	punct	_	Gloss=:|Ref=GEN_1.10|SpaceAfter=No
+18	”	”	PUNCT	_	_	20	punct	_	Gloss=”|Ref=GEN_1.10
+19	Ọlórun	ọlórun	NOUN	_	_	22	nsubj	_	Gloss=god|Ref=GEN_1.10
+20	sì	sì	CCONJ	_	_	21	cc	_	Gloss=and|Ref=GEN_1.10
+21	rí	rí	VERB	_	_	3	conj	_	Gloss=saw|Ref=GEN_1.10
+22	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=it|Ref=GEN_1.10
+23	wí	wí	VERB	_	_	26	mark	_	Gloss=that|Ref=GEN_1.10
+24	pé	pé	SCONJ	_	_	26	mark	_	Gloss=that|Ref=GEN_1.10
+25	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=it|Ref=GEN_1.10
+26	dára	dára	ADJ	_	_	22	acl	_	Gloss=good|Ref=GEN_1.10|SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.10
 
-# sent_id = 11
-# text = ọlọ́run sì wí pé, “jẹ́ kí ilẹ̀ kí ó hu ọ̀gbìn: ewéko tí yóò máa mú èṣo wá àti igi tí yóò máa so èṣo ní irú tirẹ̀, tí ó ní irúgbìn nínú.” ó sì rí bẹ́ẹ̀.
-# text_yor =  ọlọ́run sì wí pé , “ jẹ́ kí ilẹ̀ kí ó hu ọ̀gbìn : ewéko ti yóò máa mú èṣo wá àti igi tí yóò máa so èṣo ní irú tirẹ̀ , tí ó ní irúgbìn nínú . ” ó sì rí bẹ́ẹ̀ .
-# text_en =  and god said , let the earth bring forth grass , the herb yielding seed , and the fruit tree yielding fruit after his kind , whose seed is in itself , upon the earth : and it was so .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=that
-5	,	,	PUNCT	_	_	9	punct	_	Gloss=,
-6	“	“	PUNCT	_	_	9	punct	_	SpaceAfter=No|Gloss=“
-7	jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let
-8	kí	kí	AUX	_	_	12	aux	_	Gloss=
-9	ilẹ̀	ilẹ̀	NOUN	_	_	12	nsubj	_	Gloss=land
-10	kí	kí	AUX	_	_	12	aux	_	Gloss=let
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=it
-12	hu	hu	VERB	_	_	3	csubj	_	Gloss=germinate
-13	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=herb
-14	:	:	PUNCT	_	_	15	punct	_	Gloss=:
-15	ewéko	ewéko	NOUN	_	_	19	nsubj	_	Gloss=herb
-16	tí	tí	AUX	_	_	19	aux	_	Gloss=that
-17	yóò	yóò	VERB	_	_	19	aux	_	Gloss=shall
-18	máa	máa	VERB	_	_	19	aux	_	Gloss=be
-19	mú	mú	VERB	_	_	12	csubj	_	Gloss=bring
-20	èṣo	èṣo	NOUN	_	_	19	obj	_	Gloss=fruit
-21	wá	wá	VERB	_	_	19	goeswith	_	Gloss=forth
-22	àti	àti	CCONJ	_	_	23	cc	_	Gloss=and
-23	igi	igi	NOUN	_	_	15	conj	_	Gloss=tree
-24	tí	tí	PRON	_	PronType=Rel	27	mark	_	Gloss=that
-25	yóò	yóò	VERB	_	_	27	aux	_	Gloss=shall
-26	máa	máa	AUX	_	_	27	aux	_	Gloss=be
-27	so	so	VERB	_	_	19	csubj	_	Gloss=hanged
-28	èṣo	èṣo	NOUN	_	_	27	obj	_	Gloss=fruit
-29	ní	ní	ADP	_	_	30	case	_	Gloss=in
-30	irú	irú	ADJ	_	_	31	amod	_	Gloss=such
-31	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	27	iobj	_	SpaceAfter=No|Gloss=kind
-32	,	,	PUNCT	_	_	35	punct	_	Gloss=,
-33	tí	tí	PRON	_	PronType=Rel	35	mark	_	Gloss=that
-34	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	35	nsubj	_	Gloss=it
-35	ní	ní	AUX	_	_	36	cop	_	Gloss=has
-36	irúgbìn	irúgbìn	NOUN	_	_	27	xcomp	_	Gloss=seed
-37	nínú	nínú	ADP	_	_	36	case	_	SpaceAfter=No|Gloss=in
-38	.	.	PUNCT	_	_	42	punct	_	SpaceAfter=No|Gloss=.
-39	”	”	PUNCT	_	_	42	punct	_	Gloss=”
-40	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	Gloss=it
-41	sì	sì	CCONJ	_	_	42	cc	_	Gloss=and
-42	rí	rí	VERB	_	_	27	xcomp	_	Gloss=became
-43	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	42	advmod	_	SpaceAfter=No|Gloss=so
-44	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.11
+# text = Ọlọ́run sì wí pé, “Jẹ́ kí ilẹ̀ kí ó hu ọ̀gbìn: ewéko tí yóò máa mú èṣo wá àti igi tí yóò máa so èṣo ní irú tirẹ̀, tí ó ní irúgbìn nínú.” Ó sì rí bẹ́ẹ̀.
+# text_en = And god said, let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.11
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.11
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.11
+4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.11|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=GEN_1.11
+6	“	“	PUNCT	_	_	9	punct	_	Gloss=“|Ref=GEN_1.11|SpaceAfter=No
+7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.11
+8	kí	kí	AUX	_	_	12	aux	_	Gloss=|Ref=GEN_1.11
+9	ilẹ̀	ilẹ̀	NOUN	_	_	12	nsubj	_	Gloss=land|Ref=GEN_1.11
+10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.11
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=it|Ref=GEN_1.11
+12	hu	hu	VERB	_	_	3	csubj	_	Gloss=germinate|Ref=GEN_1.11
+13	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	12	obj	_	Gloss=herb|Ref=GEN_1.11|SpaceAfter=No
+14	:	:	PUNCT	_	_	15	punct	_	Gloss=:|Ref=GEN_1.11
+15	ewéko	ewéko	NOUN	_	_	19	nsubj	_	Gloss=herb|Ref=GEN_1.11
+16	tí	tí	AUX	_	_	19	aux	_	Gloss=that|Ref=GEN_1.11
+17	yóò	yóò	VERB	_	_	19	aux	_	Gloss=shall|Ref=GEN_1.11
+18	máa	máa	VERB	_	_	19	aux	_	Gloss=be|Ref=GEN_1.11
+19	mú	mú	VERB	_	_	12	csubj	_	Gloss=bring|Ref=GEN_1.11
+20	èṣo	èṣo	NOUN	_	_	19	obj	_	Gloss=fruit|Ref=GEN_1.11
+21	wá	wá	VERB	_	_	19	goeswith	_	Gloss=forth|Ref=GEN_1.11
+22	àti	àti	CCONJ	_	_	23	cc	_	Gloss=and|Ref=GEN_1.11
+23	igi	igi	NOUN	_	_	15	conj	_	Gloss=tree|Ref=GEN_1.11
+24	tí	tí	PRON	_	PronType=Rel	27	mark	_	Gloss=that|Ref=GEN_1.11
+25	yóò	yóò	VERB	_	_	27	aux	_	Gloss=shall|Ref=GEN_1.11
+26	máa	máa	AUX	_	_	27	aux	_	Gloss=be|Ref=GEN_1.11
+27	so	so	VERB	_	_	19	csubj	_	Gloss=hanged|Ref=GEN_1.11
+28	èṣo	èṣo	NOUN	_	_	27	obj	_	Gloss=fruit|Ref=GEN_1.11
+29	ní	ní	ADP	_	_	30	case	_	Gloss=in|Ref=GEN_1.11
+30	irú	irú	ADJ	_	_	31	amod	_	Gloss=such|Ref=GEN_1.11
+31	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	27	iobj	_	SpaceAfter=No|Gloss=kind|Ref=GEN_1.11
+32	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=GEN_1.11
+33	tí	tí	PRON	_	PronType=Rel	35	mark	_	Gloss=that|Ref=GEN_1.11
+34	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	35	nsubj	_	Gloss=it|Ref=GEN_1.11
+35	ní	ní	AUX	_	_	36	cop	_	Gloss=has|Ref=GEN_1.11
+36	irúgbìn	irúgbìn	NOUN	_	_	27	xcomp	_	Gloss=seed|Ref=GEN_1.11
+37	nínú	nínú	ADP	_	_	36	case	_	SpaceAfter=No|Gloss=in|Ref=GEN_1.11
+38	.	.	PUNCT	_	_	42	punct	_	SpaceAfter=No|Gloss=.|Ref=GEN_1.11
+39	”	”	PUNCT	_	_	42	punct	_	Gloss=”|Ref=GEN_1.11
+40	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	Gloss=it|Ref=GEN_1.11
+41	sì	sì	CCONJ	_	_	42	cc	_	Gloss=and|Ref=GEN_1.11
+42	rí	rí	VERB	_	_	27	xcomp	_	Gloss=became|Ref=GEN_1.11
+43	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	42	advmod	_	SpaceAfter=No|Gloss=so|Ref=GEN_1.11
+44	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.11
 
-# sent_id = 12
-# text = ilẹ̀ sì hu ọ̀gbìn: ewéko tí ó ń so èṣo ní irú tirẹ̀, àti igi tí ń so èṣo, tí ó ní irúgbìn nínú ní irú tirẹ̀. ọlọ́run sì ri pé ó dára.
-# text_yor =  ilẹ̀ sì hù ọ̀gbìn : ewéko tí ó ń so èṣo ní irú tirẹ̀ , àti igi tí ń so èṣo , tí ó ní irúgbìn nínú ní irú tirẹ̀ . ọlọ́run sì ri pé ó dára .
-# text_en =  and the earth brought forth grass , and herb yielding seed after his kind , and the tree yielding fruit , whose seed was in itself , after his kind : and god saw that it was good .
-1	ilẹ̀	ilẹ̀	NOUN	_	_	3	nsubj	_	Gloss=land
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
-3	hu	hu	NOUN	_	_	0	root	_	Gloss=grow
-4	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=herb
-5	:	:	PUNCT	_	_	6	punct	_	Gloss=:
-6	ewéko	ewéko	NOUN	_	_	10	nsubj	_	Gloss=herb
-7	tí	tí	PRON	_	PronType=Rel	10	mark	_	Gloss=that
-8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=is
-9	ń	ń	AUX	_	_	10	aux	_	Gloss=that
-10	so	so	VERB	_	_	3	csubj	_	Gloss=bear
-11	èṣo	èṣo	NOUN	_	_	10	obj	_	Gloss=fruit
-12	ní	ní	ADP	_	_	14	case	_	Gloss=in
-13	irú	irú	ADJ	_	_	14	amod	_	Gloss=such
-14	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No|Gloss=kind
-15	,	,	PUNCT	_	_	17	punct	_	Gloss=,
-16	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and
-17	igi	igi	NOUN	_	_	6	conj	_	Gloss=tree
-18	tí	tí	PRON	_	PronType=Rel	20	mark	_	Gloss=that
-19	ń	ń	AUX	_	_	20	aux	_	Gloss=is
-20	so	so	VERB	_	_	10	csubj	_	Gloss=bear
-21	èṣo	èṣo	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=fruit
-22	,	,	PUNCT	_	_	25	punct	_	Gloss=,
-23	tí	tí	PRON	_	PronType=Rel	25	mark	_	Gloss=that
-24	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	Gloss=it
-25	ní	ní	AUX	_	_	26	cop	_	Gloss=has
-26	irúgbìn	irúgbìn	NOUN	_	_	20	xcomp	_	Gloss=seed
-27	nínú	nínú	ADP	_	_	26	case	_	Gloss=inside
-28	ní	ní	ADP	_	_	30	case	_	Gloss=in
-29	irú	irú	ADJ	_	_	30	amod	_	Gloss=such
-30	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	xcomp	_	SpaceAfter=No|Gloss=kind
-31	.	.	PUNCT	_	_	32	punct	_	Gloss=.
-32	ọlọ́run	ọlọ́run	NOUN	_	_	34	nsubj	_	Gloss=god
-33	sì	sì	CCONJ	_	_	34	cc	_	Gloss=then
-34	ri	ri	VERB	_	_	20	csubj	_	Gloss=saw
-35	pé	pé	SCONJ	_	_	37	mark	_	Gloss=that
-36	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	Gloss=it
-37	dára	dára	ADJ	_	_	34	xcomp	_	SpaceAfter=No|Gloss=good
-38	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.12
+# text = Ilẹ̀ sì hù ọ̀gbìn: ewéko tí ó ń so èṣo ní irú tirẹ̀, àti igi tí ń so èṣo, tí ó ní irúgbìn nínú ní irú tirẹ̀. Ọlọ́run sì ri pé ó dára.
+# text_en = And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and god saw that it was good.
+1	Ilẹ̀	ilẹ̀	NOUN	_	_	3	nsubj	_	Gloss=land|Ref=GEN_1.12
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.12
+3	hu	hu	NOUN	_	_	0	root	_	Gloss=grow|Ref=GEN_1.12
+4	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=herb|Ref=GEN_1.12
+5	:	:	PUNCT	_	_	6	punct	_	Gloss=:|Ref=GEN_1.12
+6	ewéko	ewéko	NOUN	_	_	10	nsubj	_	Gloss=herb|Ref=GEN_1.12
+7	tí	tí	PRON	_	PronType=Rel	10	mark	_	Gloss=that|Ref=GEN_1.12
+8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=is|Ref=GEN_1.12
+9	ń	ń	AUX	_	_	10	aux	_	Gloss=that|Ref=GEN_1.12
+10	so	so	VERB	_	_	3	csubj	_	Gloss=bear|Ref=GEN_1.12
+11	èṣo	èṣo	NOUN	_	_	10	obj	_	Gloss=fruit|Ref=GEN_1.12
+12	ní	ní	ADP	_	_	14	case	_	Gloss=in|Ref=GEN_1.12
+13	irú	irú	ADJ	_	_	14	amod	_	Gloss=such|Ref=GEN_1.12
+14	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No|Gloss=kind|Ref=GEN_1.12
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=GEN_1.12
+16	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.12
+17	igi	igi	NOUN	_	_	6	conj	_	Gloss=tree|Ref=GEN_1.12
+18	tí	tí	PRON	_	PronType=Rel	20	mark	_	Gloss=that|Ref=GEN_1.12
+19	ń	ń	AUX	_	_	20	aux	_	Gloss=is|Ref=GEN_1.12
+20	so	so	VERB	_	_	10	csubj	_	Gloss=bear|Ref=GEN_1.12
+21	èṣo	èṣo	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=fruit|Ref=GEN_1.12
+22	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.12
+23	tí	tí	PRON	_	PronType=Rel	25	mark	_	Gloss=that|Ref=GEN_1.12
+24	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	Gloss=it|Ref=GEN_1.12
+25	ní	ní	AUX	_	_	26	cop	_	Gloss=has|Ref=GEN_1.12
+26	irúgbìn	irúgbìn	NOUN	_	_	20	xcomp	_	Gloss=seed|Ref=GEN_1.12
+27	nínú	nínú	ADP	_	_	26	case	_	Gloss=inside|Ref=GEN_1.12
+28	ní	ní	ADP	_	_	30	case	_	Gloss=in|Ref=GEN_1.12
+29	irú	irú	ADJ	_	_	30	amod	_	Gloss=such|Ref=GEN_1.12
+30	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	xcomp	_	SpaceAfter=No|Gloss=kind|Ref=GEN_1.12
+31	.	.	PUNCT	_	_	32	punct	_	Gloss=.|Ref=GEN_1.12
+32	Ọlọ́run	ọlọ́run	NOUN	_	_	34	nsubj	_	Gloss=god|Ref=GEN_1.12
+33	sì	sì	CCONJ	_	_	34	cc	_	Gloss=then|Ref=GEN_1.12
+34	ri	ri	VERB	_	_	20	csubj	_	Gloss=saw|Ref=GEN_1.12
+35	pé	pé	SCONJ	_	_	37	mark	_	Gloss=that|Ref=GEN_1.12
+36	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	Gloss=it|Ref=GEN_1.12
+37	dára	dára	ADJ	_	_	34	xcomp	_	SpaceAfter=No|Gloss=good|Ref=GEN_1.12
+38	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.12
 
-# sent_id = 13
-# text = àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kẹta.
-# text_yor =  àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kẹta .
-# text_en =  and the evening and the morning were the third day .
-1	àsálẹ́	àsálẹ́	NOUN	_	_	4	nsubj	_	Gloss=evening
-2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and
-3	òwúrọ̀	òwúrọ̀	ADV	_	_	1	conj	_	Gloss=morning
-4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be
-5	ọjọ́	ọjọ́	NOUN	_	_	0	root	_	Gloss=day
-6	kẹta	kẹta	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=third
-7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+# sent_id = GEN_1.13
+# text = Àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kẹta.
+# text_en = And the evening and the morning were the third day.
+1	Àsálẹ́	àsálẹ́	NOUN	_	_	4	nsubj	_	Gloss=evening|Ref=GEN_1.13
+2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.13
+3	òwúrọ̀	òwúrọ̀	ADV	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.13
+4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be|Ref=GEN_1.13
+5	ọjọ́	ọjọ́	NOUN	_	_	0	root	_	Gloss=day|Ref=GEN_1.13
+6	kẹta	kẹta	ADJ	_	_	5	amod	_	Gloss=third|Ref=GEN_1.13|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=GEN_1.13
 
-# sent_id = 14
-# text = ọlọ́run sì wí pé “jẹ́ kí ìmọ́lẹ̀ kí ó wà ní ojú ọ̀run, làti pààlà sí àárin ọ̀sán àti òru, kí wọn ó sì máa wà fún àmì láti mọ àwọn àsìkò, àti àwọn ọjọ́ àti àwọn ọdún,
-# text_yor =  ọlọ́run sì wí pé “ jẹ́ kí ìmọ́lẹ̀ kí ó wà ní ojú ọ̀run , làti pààlà sí àárin ọ̀sán àti òru , kí wọn ó sì máa wà fún àmì láti mọ à wọn àsìkò , àti àwọn ọjọ́ àti àwọn ọdún ,
-# text_en =  and god said , let there be lights in the firmament of the heaven to divide the day from the night ; and let them be for signs , and for seasons , and for days , and years :
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that
-5	“	“	PUNCT	_	_	11	punct	_	SpaceAfter=No|Gloss=“
-6	jẹ́	jẹ́	AUX	_	_	11	aux	_	Gloss=let
-7	kí	kí	AUX	_	_	11	aux	_	Gloss=
-8	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	nsubj	_	Gloss=light
-9	kí	kí	AUX	_	_	11	aux	_	Gloss=let
-10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=it
-11	wà	wà	VERB	_	_	3	csubj	_	Gloss=was
-12	ní	ní	ADP	_	_	13	case	_	Gloss=in
-13	ojú	ojú	NOUN	_	_	14	nmod	_	Gloss=face
-14	ọ̀run	ọ̀run	NOUN	_	_	11	obj	_	SpaceAfter=No|Gloss=heaven
-15	,	,	PUNCT	_	_	17	punct	_	Gloss=,
-16	làti	làti	ADP	_	_	17	case	_	Gloss=to
-17	pààlà	pààlà	VERB	_	_	11	csubj	_	Gloss=demacate
-18	sí	sí	ADP	_	_	20	case	_	Gloss=to
-19	àárin	àárin	ADP	_	_	20	case	_	Gloss=midst
-20	ọ̀sán	ọ̀sán	NOUN	_	_	17	obj	_	Gloss=day
-21	àti	àti	CCONJ	_	_	22	cc	_	Gloss=and
-22	òru	òru	NOUN	_	_	20	conj	_	SpaceAfter=No|Gloss=night
-23	,	,	PUNCT	_	_	28	punct	_	Gloss=,
-24	kí	kí	SCONJ	_	_	29	aux	_	Gloss=let
-25	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	Gloss=them
-26	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nmod	_	Gloss=
-27	sì	sì	CCONJ	_	_	28	cc	_	Gloss=and
-28	máa	máa	VERB	_	_	29	aux	_	Gloss=be
-29	wà	wà	VERB	_	_	17	csubj	_	Gloss=was
-30	fún	fún	ADP	_	_	31	case	_	Gloss=unto
-31	àmì	àmì	NOUN	_	_	29	obj	_	Gloss=sign
-32	láti	láti	ADP	_	_	33	case	_	Gloss=to
-33	mọ	mọ	VERB	_	_	29	ccomp	_	Gloss=know
-34	àwọn	àwọn	PRON	_	PronType=Ind	35	det	_	Gloss=them
-35	àsìkò	àsìkò	NOUN	_	_	33	obj	_	SpaceAfter=No|Gloss=time
-36	,	,	PUNCT	_	_	39	punct	_	Gloss=,
-37	àti	àti	CCONJ	_	_	39	cc	_	Gloss=and
-38	àwọn	àwọn	DET	_	_	39	det	_	Gloss=the
-39	ọjọ́	ọjọ́	NOUN	_	_	35	conj	_	Gloss=day
-40	àti	àti	CCONJ	_	_	42	cc	_	Gloss=and
-41	àwọn	àwọn	DET	_	_	42	det	_	Gloss=the
-42	ọdún	ọdún	NOUN	_	_	35	conj	_	SpaceAfter=No|Gloss=years
-43	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+# sent_id = GEN_1.14
+# text = Ọlọ́run sì wí pé “Jẹ́ kí ìmọ́lẹ̀ kí ó wà ní ojú ọ̀run, làti pààlà sí àárin ọ̀sán àti òru, kí wọn ó sì máa wà fún àmì láti mọ àwọn àsìkò, àti àwọn ọjọ́ àti àwọn ọdún,
+# text_en = And god said, let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.14
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.14
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.14
+4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that|Ref=GEN_1.14
+5	“	“	PUNCT	_	_	11	punct	_	Gloss=“|Ref=GEN_1.14|SpaceAfter=No
+6	Jẹ́	jẹ́	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.14
+7	kí	kí	AUX	_	_	11	aux	_	Gloss=|Ref=GEN_1.14
+8	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	nsubj	_	Gloss=light|Ref=GEN_1.14
+9	kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.14
+10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=it|Ref=GEN_1.14
+11	wà	wà	VERB	_	_	3	csubj	_	Gloss=was|Ref=GEN_1.14
+12	ní	ní	ADP	_	_	13	case	_	Gloss=in|Ref=GEN_1.14
+13	ojú	ojú	NOUN	_	_	14	nmod	_	Gloss=face|Ref=GEN_1.14
+14	ọ̀run	ọ̀run	NOUN	_	_	11	obj	_	Gloss=heaven|Ref=GEN_1.14|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=GEN_1.14
+16	làti	làti	ADP	_	_	17	case	_	Gloss=to|Ref=GEN_1.14
+17	pààlà	pààlà	VERB	_	_	11	csubj	_	Gloss=demacate|Ref=GEN_1.14
+18	sí	sí	ADP	_	_	20	case	_	Gloss=to|Ref=GEN_1.14
+19	àárin	àárin	ADP	_	_	20	case	_	Gloss=midst|Ref=GEN_1.14
+20	ọ̀sán	ọ̀sán	NOUN	_	_	17	obj	_	Gloss=day|Ref=GEN_1.14
+21	àti	àti	CCONJ	_	_	22	cc	_	Gloss=and|Ref=GEN_1.14
+22	òru	òru	NOUN	_	_	20	conj	_	Gloss=night|Ref=GEN_1.14|SpaceAfter=No
+23	,	,	PUNCT	_	_	28	punct	_	Gloss=,|Ref=GEN_1.14
+24	kí	kí	SCONJ	_	_	29	aux	_	Gloss=let|Ref=GEN_1.14
+25	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	Gloss=them|Ref=GEN_1.14
+26	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nmod	_	Gloss=|Ref=GEN_1.14
+27	sì	sì	CCONJ	_	_	28	cc	_	Gloss=and|Ref=GEN_1.14
+28	máa	máa	VERB	_	_	29	aux	_	Gloss=be|Ref=GEN_1.14
+29	wà	wà	VERB	_	_	17	csubj	_	Gloss=was|Ref=GEN_1.14
+30	fún	fún	ADP	_	_	31	case	_	Gloss=unto|Ref=GEN_1.14
+31	àmì	àmì	NOUN	_	_	29	obj	_	Gloss=sign|Ref=GEN_1.14
+32	láti	láti	ADP	_	_	33	case	_	Gloss=to|Ref=GEN_1.14
+33	mọ	mọ	VERB	_	_	29	ccomp	_	Gloss=know|Ref=GEN_1.14
+34	àwọn	àwọn	PRON	_	PronType=Ind	35	det	_	Gloss=them|Ref=GEN_1.14
+35	àsìkò	àsìkò	NOUN	_	_	33	obj	_	Gloss=time|Ref=GEN_1.14|SpaceAfter=No
+36	,	,	PUNCT	_	_	39	punct	_	Gloss=,|Ref=GEN_1.14
+37	àti	àti	CCONJ	_	_	39	cc	_	Gloss=and|Ref=GEN_1.14
+38	àwọn	àwọn	DET	_	_	39	det	_	Gloss=the|Ref=GEN_1.14
+39	ọjọ́	ọjọ́	NOUN	_	_	35	conj	_	Gloss=day|Ref=GEN_1.14
+40	àti	àti	CCONJ	_	_	42	cc	_	Gloss=and|Ref=GEN_1.14
+41	àwọn	àwọn	DET	_	_	42	det	_	Gloss=the|Ref=GEN_1.14
+42	ọdún	ọdún	NOUN	_	_	35	conj	_	Gloss=years|Ref=GEN_1.14|SpaceAfter=No
+43	,	,	PUNCT	_	_	3	punct	_	Gloss=,|Ref=GEN_1.14
 
-# sent_id = 15
-# text = kí wọn ó jẹ́ ìmọ́lẹ̀ ní ojú ọ̀run, láti tan ìmọ́lẹ̀ sí orí ilẹ̀.” ó sì rí bẹ́ẹ̀.
-# text_yor =  kí wọn ó jẹ́ ìmọ́lẹ̀ ní ojú ọ̀run , láti tan ìmọ́lẹ̀ sí orí ilẹ̀ . ” ó sì rí bẹ́ẹ̀ .
-# text_en =  and let them be for lights in the firmament of the heaven to give light upon the earth : and it was so .
-1	kí	kí	AUX	_	_	4	aux	_	Gloss=let
-2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=them
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=
-4	jẹ́	jẹ́	VERB	_	_	0	root	_	Gloss=be
-5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	4	obj	_	Gloss=light
-6	ní	ní	ADP	_	_	7	case	_	Gloss=in
-7	ojú	ojú	NOUN	_	_	8	nmod	_	Gloss=eyes
-8	ọ̀run	ọ̀run	NOUN	_	_	4	iobj	_	SpaceAfter=No|Gloss=heaven
-9	,	,	PUNCT	_	_	12	punct	_	Gloss=,
-10	láti	láti	ADP	_	_	12	case	_	Gloss=to
-11	tan	tan	VERB	_	_	4	csubj	_	Gloss=shine
-12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
-13	sí	sí	ADP	_	_	14	case	_	Gloss=to
-14	orí	orí	NOUN	_	_	11	iobj	_	Gloss=upon
-15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	SpaceAfter=No|Gloss=land
-16	.	.	PUNCT	_	_	20	punct	_	SpaceAfter=No|Gloss=.
-17	”	”	PUNCT	_	_	20	punct	_	Gloss=”
-18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=he
-19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=and
-20	rí	rí	VERB	_	_	11	xcomp	_	Gloss=saw
-21	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	20	advmod	_	SpaceAfter=No|Gloss=so
-22	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+# sent_id = GEN_1.15
+# text = Kí wọn ó jẹ́ ìmọ́lẹ̀ ní ojú ọ̀run, láti tan ìmọ́lẹ̀ sí orí ilẹ̀.” Ó sì rí bẹ́ẹ̀.
+# text_en = And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
+1	Kí	kí	AUX	_	_	4	aux	_	Gloss=let|Ref=GEN_1.15
+2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=them|Ref=GEN_1.15
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=|Ref=GEN_1.15
+4	jẹ́	jẹ́	VERB	_	_	0	root	_	Gloss=be|Ref=GEN_1.15
+5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	4	obj	_	Gloss=light|Ref=GEN_1.15
+6	ní	ní	ADP	_	_	7	case	_	Gloss=in|Ref=GEN_1.15
+7	ojú	ojú	NOUN	_	_	8	nmod	_	Gloss=eyes|Ref=GEN_1.15
+8	ọ̀run	ọ̀run	NOUN	_	_	4	iobj	_	Gloss=heaven|Ref=GEN_1.15|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.15
+10	láti	láti	ADP	_	_	12	case	_	Gloss=to|Ref=GEN_1.15
+11	tan	tan	VERB	_	_	4	csubj	_	Gloss=shine|Ref=GEN_1.15
+12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light|Ref=GEN_1.15
+13	sí	sí	ADP	_	_	14	case	_	Gloss=to|Ref=GEN_1.15
+14	orí	orí	NOUN	_	_	11	iobj	_	Gloss=upon|Ref=GEN_1.15
+15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	Gloss=land|Ref=GEN_1.15|SpaceAfter=No
+16	.	.	PUNCT	_	_	20	punct	_	Gloss=.|Ref=GEN_1.15|SpaceAfter=No
+17	”	”	PUNCT	_	_	20	punct	_	Gloss=”|Ref=GEN_1.15
+18	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=he|Ref=GEN_1.15
+19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=and|Ref=GEN_1.15
+20	rí	rí	VERB	_	_	11	xcomp	_	Gloss=saw|Ref=GEN_1.15
+21	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	20	advmod	_	Gloss=so|Ref=GEN_1.15|SpaceAfter=No
+22	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=GEN_1.15
 
-# sent_id = 16
-# text = ọlọ́run dá ìmọ́lẹ̀ ńlá-ńlá méjì, ìmọ́lẹ̀ tí ó tóbi láti ṣe àkóso ọ̀sán àti ìmọ́lẹ̀ tí ó kéré láti ṣe àkóso òru. ó sì dá àwọn ìràwọ̀ pẹ̀lú.
-# text_yor =  ọlọ́run dá ìmọ́lẹ̀ ńlá-ńlá méjì , ìmọ́lẹ̀ tí ó tóbi láti ṣe àkóso ọ̀sán àti ìmọ́lẹ̀ tí ó kéré láti ṣe àkóso òru . ó sì dá à wọn ìràwọ̀ pẹ̀lú .
-# text_en =  and god made two great lights ; the greater light to rule the day , and the lesser light to rule the night : he made the stars also .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god
-2	dá	dá	VERB	_	_	0	root	_	Gloss=made
-3	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	obj	_	Gloss=light
-4	ńlá	ńlá	ADJ	_	_	3	amod	_	SpaceAfter=No|Gloss=great
-5	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No|Gloss=the
-6	ńlá	ńlá	ADJ	_	_	7	amod	_	Gloss=great
-7	méjì	méjì	NUM	_	NumType=Card	3	nummod	_	SpaceAfter=No|Gloss=two
-8	,	,	PUNCT	_	_	9	punct	_	Gloss=,
-9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	csubj	_	Gloss=light
-10	tí	tí	PRON	_	PronType=Rel	14	mark	_	Gloss=that
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=he
-12	tóbi	tóbi	ADJ	_	_	11	amod	_	Gloss=great
-13	láti	láti	ADP	_	_	14	case	_	Gloss=to
-14	ṣe	ṣe	VERB	_	_	2	csubj	_	Gloss=do
-15	àkóso	àkóso	NOUN	_	_	16	nmod	_	Gloss=rule
-16	ọ̀sán	ọ̀sán	NOUN	_	_	14	obj	_	Gloss=day
-17	àti	àti	CCONJ	_	_	18	cc	_	Gloss=and
-18	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	16	conj	_	Gloss=light
-19	tí	tí	PRON	_	PronType=Rel	23	mark	_	Gloss=that
-20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	Gloss=he
-21	kéré	kéré	ADJ	_	_	20	amod	_	Gloss=least
-22	láti	láti	ADP	_	_	23	case	_	Gloss=to
-23	ṣe	ṣe	VERB	_	_	14	xcomp	_	Gloss=do
-24	àkóso	àkóso	NOUN	_	_	25	nmod	_	Gloss=rule
-25	òru	òru	NOUN	_	_	23	obj	_	SpaceAfter=No|Gloss=night
-26	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-27	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	Gloss=he
-28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and
-29	dá	dá	VERB	_	_	2	conj	_	Gloss=made
-30	à	à	SCONJ	_	_	32	det	_	SpaceAfter=No|Gloss=the
-31	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	30	goeswith	_	Gloss=them
-32	ìràwọ̀	ìràwọ̀	NOUN	_	_	29	obj	_	Gloss=stars
-33	pẹ̀lú	pẹ̀lú	ADP	_	_	32	case	_	SpaceAfter=No|Gloss=with
-34	.	.	PUNCT	_	_	29	punct	_	Gloss=.
+# sent_id = GEN_1.16
+# text = Ọlọ́run dá ìmọ́lẹ̀ ńlá-ńlá méjì, ìmọ́lẹ̀ tí ó tóbi láti ṣe àkóso ọ̀sán àti ìmọ́lẹ̀ tí ó kéré láti ṣe àkóso òru. Ó sì dá àwọn ìràwọ̀ pẹ̀lú.
+# text_en = And god made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.16
+2	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.16
+3	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	obj	_	Gloss=light|Ref=GEN_1.16
+4	ńlá	ńlá	ADJ	_	_	3	amod	_	Gloss=great|Ref=GEN_1.16|SpaceAfter=No
+5	-	-	PUNCT	_	_	7	punct	_	Gloss=the|Ref=GEN_1.16|SpaceAfter=No
+6	ńlá	ńlá	ADJ	_	_	7	amod	_	Gloss=great|Ref=GEN_1.16
+7	méjì	méjì	NUM	_	NumType=Card	3	nummod	_	Gloss=two|Ref=GEN_1.16|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=GEN_1.16
+9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	csubj	_	Gloss=light|Ref=GEN_1.16
+10	tí	tí	PRON	_	PronType=Rel	14	mark	_	Gloss=that|Ref=GEN_1.16
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=he|Ref=GEN_1.16
+12	tóbi	tóbi	ADJ	_	_	11	amod	_	Gloss=great|Ref=GEN_1.16
+13	láti	láti	ADP	_	_	14	case	_	Gloss=to|Ref=GEN_1.16
+14	ṣe	ṣe	VERB	_	_	2	csubj	_	Gloss=do|Ref=GEN_1.16
+15	àkóso	àkóso	NOUN	_	_	16	nmod	_	Gloss=rule|Ref=GEN_1.16
+16	ọ̀sán	ọ̀sán	NOUN	_	_	14	obj	_	Gloss=day|Ref=GEN_1.16
+17	àti	àti	CCONJ	_	_	18	cc	_	Gloss=and|Ref=GEN_1.16
+18	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	16	conj	_	Gloss=light|Ref=GEN_1.16
+19	tí	tí	PRON	_	PronType=Rel	23	mark	_	Gloss=that|Ref=GEN_1.16
+20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	Gloss=he|Ref=GEN_1.16
+21	kéré	kéré	ADJ	_	_	20	amod	_	Gloss=least|Ref=GEN_1.16
+22	láti	láti	ADP	_	_	23	case	_	Gloss=to|Ref=GEN_1.16
+23	ṣe	ṣe	VERB	_	_	14	xcomp	_	Gloss=do|Ref=GEN_1.16
+24	àkóso	àkóso	NOUN	_	_	25	nmod	_	Gloss=rule|Ref=GEN_1.16
+25	òru	òru	NOUN	_	_	23	obj	_	Gloss=night|Ref=GEN_1.16|SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=GEN_1.16
+27	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	Gloss=he|Ref=GEN_1.16
+28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=GEN_1.16
+29	dá	dá	VERB	_	_	2	conj	_	Gloss=made|Ref=GEN_1.16
+30	àwọn	à	SCONJ	_	_	31	det	_	Gloss=the|Ref=GEN_1.16|SpaceAfter=No
+31	ìràwọ̀	ìràwọ̀	NOUN	_	_	29	obj	_	Gloss=stars|Ref=GEN_1.16
+32	pẹ̀lú	pẹ̀lú	ADP	_	_	31	case	_	SpaceAfter=No|Gloss=with|Ref=GEN_1.16
+33	.	.	PUNCT	_	_	29	punct	_	Gloss=.|Ref=GEN_1.16
 
-# sent_id = 17
-# text = ọlọ́run sì ṣe wọ́n lọ́jọ̀ sí ojú ọ̀run láti máa tan ìmọ́lẹ̀ si orí ilẹ̀,
-# text_yor =  ọlọ́run sì ṣe wọ́n lọ́jọ̀ sí ojú ọ̀run láti máa tan ìmọ́lẹ̀ si orí ilẹ̀ ,
-# text_en =  and god set them in the firmament of the heaven to give light upon the earth ,
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do
-4	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	3	obj	_	Gloss=them
-5	lọ́jọ̀	lọ́jọ̀	VERB	_	_	4	acl	_	Gloss=preserve
-6	sí	sí	ADP	_	_	7	case	_	Gloss=to
-7	ojú	ojú	NOUN	_	_	11	nsubj	_	Gloss=face
-8	ọ̀run	ọ̀run	NOUN	_	_	7	nmod	_	Gloss=heaven
-9	láti	láti	ADP	_	_	12	case	_	Gloss=to
-10	máa	máa	AUX	_	_	11	aux	_	Gloss=be
-11	tan	tan	VERB	_	_	3	ccomp	_	Gloss=shine
-12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light
-13	si	si	ADP	_	_	14	case	_	Gloss=and
-14	orí	orí	NOUN	_	_	11	xcomp	_	Gloss=on
-15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	SpaceAfter=No|Gloss=land
-16	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+# sent_id = GEN_1.17
+# text = Ọlọ́run sì ṣe wọ́n lọ́jọ̀ sí ojú ọ̀run láti máa tan ìmọ́lẹ̀ si orí ilẹ̀,
+# text_en = And god set them in the firmament of the heaven to give light upon the earth,
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.17
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.17
+3	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=GEN_1.17
+4	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	3	obj	_	Gloss=them|Ref=GEN_1.17
+5	lọ́jọ̀	lọ́jọ̀	VERB	_	_	4	acl	_	Gloss=preserve|Ref=GEN_1.17
+6	sí	sí	ADP	_	_	7	case	_	Gloss=to|Ref=GEN_1.17
+7	ojú	ojú	NOUN	_	_	11	nsubj	_	Gloss=face|Ref=GEN_1.17
+8	ọ̀run	ọ̀run	NOUN	_	_	7	nmod	_	Gloss=heaven|Ref=GEN_1.17
+9	láti	láti	ADP	_	_	12	case	_	Gloss=to|Ref=GEN_1.17
+10	máa	máa	AUX	_	_	11	aux	_	Gloss=be|Ref=GEN_1.17
+11	tan	tan	VERB	_	_	3	ccomp	_	Gloss=shine|Ref=GEN_1.17
+12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light|Ref=GEN_1.17
+13	si	si	ADP	_	_	14	case	_	Gloss=and|Ref=GEN_1.17
+14	orí	orí	NOUN	_	_	11	xcomp	_	Gloss=on|Ref=GEN_1.17
+15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	Gloss=land|Ref=GEN_1.17|SpaceAfter=No
+16	,	,	PUNCT	_	_	3	punct	_	Gloss=,|Ref=GEN_1.17
 
-# sent_id = 18
-# text = láti ṣàkóso ọ̀sán àti òru àti láti pààlà sí àárin ìmọ́lẹ̀ àti òkùnkùn: ọlọ́run sì rí i pé ó dára.
-# text_yor =  láti ṣàkóso ọ̀sán àti òru àti láti pààlà sí àárin ìmọ́lẹ̀ àti òkùnkùn : ọlọ́run sì rí i pé ó dára .
-# text_en =  and to rule over the day and over the night , and to divide the light from the darkness : and god saw that it was good .
-1	láti	láti	ADP	_	_	3	case	_	Gloss=to
-2	ṣàkóso	ṣàkóso	VERB	_	_	0	root	_	Gloss=rule
-3	ọ̀sán	ọ̀sán	NOUN	_	_	2	obj	_	Gloss=day
-4	àti	àti	CCONJ	_	_	5	cc	_	Gloss=and
-5	òru	òru	NOUN	_	_	3	conj	_	Gloss=night
-6	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and
-7	láti	láti	ADP	_	_	11	case	_	Gloss=to
-8	pààlà	pààlà	VERB	_	_	2	csubj	_	Gloss=demacate
-9	sí	sí	ADP	_	_	10	case	_	Gloss=to
-10	àárin	àárin	ADP	_	_	11	case	_	Gloss=midst
-11	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	8	obj	_	Gloss=light
-12	àti	àti	CCONJ	_	_	13	cc	_	Gloss=and
-13	òkùnkùn	òkùnkùn	NOUN	_	_	11	conj	_	SpaceAfter=No|Gloss=darkness
-14	:	:	PUNCT	_	_	15	punct	_	Gloss=:
-15	ọlọ́run	ọlọ́run	NOUN	_	_	17	nsubj	_	Gloss=god
-16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and
-17	rí	rí	VERB	_	_	8	ccomp	_	Gloss=saw
-18	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	17	goeswith	_	Gloss=it
-19	pé	pé	SCONJ	_	_	21	mark	_	Gloss=that
-20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Gloss=it
-21	dára	dára	ADJ	_	_	17	xcomp	_	SpaceAfter=No|Gloss=good
-22	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+# sent_id = GEN_1.18
+# text = láti ṣàkóso ọ̀sán àti òru àti láti pààlà sí àárin ìmọ́lẹ̀ àti òkùnkùn: Ọlọ́run sì rí i pé ó dára.
+# text_en = And to rule over the day and over the night, and to divide the light from the darkness: and god saw that it was good.
+1	láti	láti	ADP	_	_	3	case	_	Gloss=to|Ref=GEN_1.18
+2	ṣàkóso	ṣàkóso	VERB	_	_	0	root	_	Gloss=rule|Ref=GEN_1.18
+3	ọ̀sán	ọ̀sán	NOUN	_	_	2	obj	_	Gloss=day|Ref=GEN_1.18
+4	àti	àti	CCONJ	_	_	5	cc	_	Gloss=and|Ref=GEN_1.18
+5	òru	òru	NOUN	_	_	3	conj	_	Gloss=night|Ref=GEN_1.18
+6	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.18
+7	láti	láti	ADP	_	_	11	case	_	Gloss=to|Ref=GEN_1.18
+8	pààlà	pààlà	VERB	_	_	2	csubj	_	Gloss=demacate|Ref=GEN_1.18
+9	sí	sí	ADP	_	_	10	case	_	Gloss=to|Ref=GEN_1.18
+10	àárin	àárin	ADP	_	_	11	case	_	Gloss=midst|Ref=GEN_1.18
+11	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	8	obj	_	Gloss=light|Ref=GEN_1.18
+12	àti	àti	CCONJ	_	_	13	cc	_	Gloss=and|Ref=GEN_1.18
+13	òkùnkùn	òkùnkùn	NOUN	_	_	11	conj	_	Gloss=darkness|Ref=GEN_1.18|SpaceAfter=No
+14	:	:	PUNCT	_	_	15	punct	_	Gloss=:|Ref=GEN_1.18
+15	Ọlọ́run	ọlọ́run	NOUN	_	_	17	nsubj	_	Gloss=god|Ref=GEN_1.18
+16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.18
+17	rí	rí	VERB	_	_	8	ccomp	_	Gloss=saw|Ref=GEN_1.18
+18	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	17	goeswith	_	Gloss=it|Ref=GEN_1.18
+19	pé	pé	SCONJ	_	_	21	mark	_	Gloss=that|Ref=GEN_1.18
+20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Gloss=it|Ref=GEN_1.18
+21	dára	dára	ADJ	_	_	17	xcomp	_	Gloss=good|Ref=GEN_1.18|SpaceAfter=No
+22	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=GEN_1.18
 
-# sent_id = 19
-# text = àsálẹ́ àti òwúrọ jẹ́ ọjọ́ kẹrin.
-# text_yor =  àsálẹ́ àti òwúrọ jẹ́ ọjọ́ kẹrin .
-# text_en =  and the evening and the morning were the fourth day .
-1	àsálẹ́	àsálẹ́	NOUN	_	_	5	nsubj	_	Gloss=evening
-2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and
-3	òwúrọ	òwúrọ	NOUN	_	_	1	conj	_	Gloss=morning
-4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be
-5	ọjọ́	ọjọ́	NOUN	_	_	0	root	_	Gloss=day
-6	kẹrin	kẹrin	ADJ	_	_	5	amod	_	SpaceAfter=No|Gloss=fourth
-7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+# sent_id = GEN_1.19
+# text = Àsálẹ́ àti òwúrọ jẹ́ ọjọ́ kẹrin.
+# text_en = And the evening and the morning were the fourth day.
+1	Àsálẹ́	àsálẹ́	NOUN	_	_	5	nsubj	_	Gloss=evening|Ref=GEN_1.19
+2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.19
+3	òwúrọ	òwúrọ	NOUN	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.19
+4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be|Ref=GEN_1.19
+5	ọjọ́	ọjọ́	NOUN	_	_	0	root	_	Gloss=day|Ref=GEN_1.19
+6	kẹrin	kẹrin	ADJ	_	_	5	amod	_	Gloss=fourth|Ref=GEN_1.19|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=GEN_1.19
 
-# sent_id = 20
-# text = ọlọ́run sì wí pé, “jẹ́ kí omi kí ó kún fún àwọn ohun alààyè, kí àwọn ẹyẹ kí ó sì máa fò ní òfuurufú.”
-# text_yor =  ọlọ́run sì wí pé , “ jẹ́ kí omi kí ó kún fún à wọn ohun alààyè , kí àwọn ẹyẹ kí ó sì máa fò ní òfuurufú . ”
-# text_en =  and god said , let the waters bring forth abundantly the moving creature that hath life , and fowl that may fly above the earth in the open firmament of heaven .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	12	mark	_	SpaceAfter=No|Gloss=that
-5	,	,	PUNCT	_	_	12	punct	_	Gloss=,
-6	“	“	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=“
-7	jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=be
-8	kí	kí	AUX	_	_	12	aux	_	Gloss=let
-9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water
-10	kí	kí	AUX	_	_	12	aux	_	Gloss=let
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he
-12	kún	kún	VERB	_	_	3	csubj	_	Gloss=full
-13	fún	fún	ADP	_	_	15	case	_	Gloss=unto
-14	àwọn	àwọn	PRON	_	PronType=Ind	15	det	_	Gloss=them
-15	ohun	ohun	PRON	_	_	16	nmod	_	Gloss=things
-16	alààyè	alààyè	NOUN	_	_	12	obj	_	SpaceAfter=No|Gloss=living
-17	,	,	PUNCT	_	_	21	punct	_	Gloss=,
-18	kí	kí	SCONJ	_	_	26	mark	_	Gloss=let
-19	àwọn	àwọn	DET	_	_	21	det	_	Gloss=the
-20	ẹyẹ	ẹyẹ	NOUN	_	_	26	nsubj	_	Gloss=birds
-21	kí	kí	SCONJ	_	_	26	aux	_	Gloss=let
-22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=it
-23	sì	sì	CCONJ	_	_	25	cc	_	Gloss=and
-24	máa	máa	AUX	_	_	26	aux	_	Gloss=be
-25	fò	fò	VERB	_	_	12	ccomp	_	Gloss=fly
-26	ní	ní	ADP	_	_	28	case	_	Gloss=in
-27	òfuurufú	òfuurufú	NOUN	_	_	26	obj	_	SpaceAfter=No|Gloss=firmament
-28	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=.
-29	”	”	PUNCT	_	_	3	punct	_	Gloss=”
+# sent_id = GEN_1.20
+# text = Ọlọ́run sì wí pé, “Jẹ́ kí omi kí ó kún fún àwọn ohun alààyè, kí àwọn ẹyẹ kí ó sì máa fò ní òfuurufú.”
+# text_en = And god said, let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.20
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.20
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.20
+4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.20|SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.20
+6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.20|SpaceAfter=No
+7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=be|Ref=GEN_1.20
+8	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.20
+9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water|Ref=GEN_1.20
+10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.20
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he|Ref=GEN_1.20
+12	kún	kún	VERB	_	_	3	csubj	_	Gloss=full|Ref=GEN_1.20
+13	fún	fún	ADP	_	_	15	case	_	Gloss=unto|Ref=GEN_1.20
+14	àwọn	àwọn	PRON	_	PronType=Ind	15	det	_	Gloss=them|Ref=GEN_1.20
+15	ohun	ohun	PRON	_	_	16	nmod	_	Gloss=things|Ref=GEN_1.20
+16	alààyè	alààyè	NOUN	_	_	12	obj	_	Gloss=living|Ref=GEN_1.20|SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	Gloss=,|Ref=GEN_1.20
+18	kí	kí	SCONJ	_	_	26	mark	_	Gloss=let|Ref=GEN_1.20
+19	àwọn	àwọn	DET	_	_	21	det	_	Gloss=the|Ref=GEN_1.20
+20	ẹyẹ	ẹyẹ	NOUN	_	_	26	nsubj	_	Gloss=birds|Ref=GEN_1.20
+21	kí	kí	SCONJ	_	_	26	aux	_	Gloss=let|Ref=GEN_1.20
+22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=it|Ref=GEN_1.20
+23	sì	sì	CCONJ	_	_	25	cc	_	Gloss=and|Ref=GEN_1.20
+24	máa	máa	AUX	_	_	26	aux	_	Gloss=be|Ref=GEN_1.20
+25	fò	fò	VERB	_	_	12	ccomp	_	Gloss=fly|Ref=GEN_1.20
+26	ní	ní	ADP	_	_	28	case	_	Gloss=in|Ref=GEN_1.20
+27	òfuurufú	òfuurufú	NOUN	_	_	26	obj	_	Gloss=firmament|Ref=GEN_1.20|SpaceAfter=No
+28	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=GEN_1.20|SpaceAfter=No
+29	”	”	PUNCT	_	_	3	punct	_	Gloss=”|Ref=GEN_1.20
 
-# sent_id = 21
-# text = Nítorí náà ọlọ́run dá àwọn ẹ̀dá alààyè ńlá-ńlá sí inú òkun, àwọn ohun ẹlẹ́mìí àti àwọn ohun tí ń rìn ní onírúurú tiwọn, àti àwọn ẹyẹ abìyẹ́ ní onírúurú tiwọn. ọlọ́run sì rí i pé ó dára.
-# text_yor =  Nítorí náà ọlọ́run dá àwọn ẹ̀dá alààyè ńlá - ńlá sí inú òkun , à wọn ohun ẹlẹ́mìí àti àwọn ohun tí ń rìn ní onírúurú tiwọn , àti àwọn ẹyẹ abìyẹ́ ní onírúurú tiwọn . ọlọ́run sì rí i pé ó dára .
-# text_en =  And god created great whales , and every living creature that moveth , which the waters brought forth abundantly , after their kind , and every winged fowl after his kind : and god saw that it was good .
-1	Nítorí	nítorí	CCONJ	_	_	3	cc	_	Gloss=for
-2	náà	náà	ADV	_	_	3	advmod	_	Gloss=the
-3	ọlọ́run	ọlọ́run	NOUN	_	_	4	nsubj	_	Gloss=god
-4	dá	dá	VERB	_	_	0	root	_	Gloss=made
-5	àwọn	àwọn	DET	_	_	6	det	_	Gloss=them
-6	ẹ̀dá	ẹ̀dá	NOUN	_	_	4	obj	_	Gloss=creature
-7	alààyè	alààyè	NOUN	_	_	6	nmod	_	Gloss=living
-8	ńlá	ńlá	ADJ	_	_	7	amod	_	SpaceAfter=No|Gloss=great
-9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No|Gloss=the
-10	ńlá	ńlá	ADJ	_	_	7	amod	_	Gloss=great
-11	sí	sí	ADP	_	_	13	case	_	Gloss=to
-12	inú	inú	ADP	_	_	13	case	_	Gloss=of
-13	òkun	òkun	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=sea
-14	,	,	PUNCT	_	_	18	punct	_	Gloss=,
-15	àwọn	àwọn	PRON	_	PronType=Ind	16	det	_	Gloss=the
-16	ohun	ohun	PRON	_	_	17	nmod	_	Gloss=things
-17	ẹlẹ́mìí	ẹlẹ́mìí	NOUN	_	_	4	csubj	_	Gloss=breatheth
-18	àti	àti	CCONJ	_	_	20	cc	_	Gloss=and
-19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the
-20	ohun	ohun	PRON	_	_	17	conj	_	Gloss=things
-21	tí	tí	PRON	_	PronType=Rel	23	mark	_	Gloss=that
-22	ń	ń	AUX	_	_	23	aux	_	Gloss=that
-23	rìn	rìn	VERB	_	_	17	csubj	_	Gloss=walk
-24	ní	ní	ADP	_	_	26	case	_	Gloss=in
-25	onírúurú	onírúurú	ADV	_	_	27	advmod	_	Gloss=manner
-26	tiwọn	tiwọn	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	23	obj	_	SpaceAfter=No|Gloss=their
-27	,	,	PUNCT	_	_	30	punct	_	Gloss=,
-28	àti	àti	CCONJ	_	_	30	cc	_	Gloss=and
-29	àwọn	àwọn	DET	_	_	30	det	_	Gloss=the
-30	ẹyẹ	ẹyẹ	NOUN	_	_	23	xcomp	_	Gloss=birds
-31	abìyẹ́	abìyẹ́	NOUN	_	_	30	nmod	_	Gloss=feathered
-32	ní	ní	ADP	_	_	34	case	_	Gloss=in
-33	onírúurú	onírúurú	ADV	_	_	35	advmod	_	Gloss=manner
-34	tiwọn	tiwọn	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	30	nmod	_	SpaceAfter=No|Gloss=their
-35	.	.	PUNCT	_	_	36	punct	_	Gloss=.
-36	ọlọ́run	ọlọ́run	NOUN	_	_	38	nsubj	_	Gloss=god
-37	sì	sì	CCONJ	_	_	38	cc	_	Gloss=then
-38	rí	rí	VERB	_	_	23	ccomp	_	Gloss=saw
-39	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	38	goeswith	_	Gloss=it
-40	pé	pé	SCONJ	_	_	42	mark	_	Gloss=that
-41	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	38	xcomp	_	Gloss=it
-42	dára	dára	ADJ	_	_	41	amod	_	SpaceAfter=No|Gloss=good
-43	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+# sent_id = GEN_1.21
+# text = Nítorí náà Ọlọ́run dá àwọn ẹ̀dá alààyè ńlá-ńlá sí inú òkun, àwọn ohun ẹlẹ́mìí àti àwọn ohun tí ń rìn ní onírúurú tiwọn, àti àwọn ẹyẹ abìyẹ́ ní onírúurú tiwọn. Ọlọ́run sì rí i pé ó dára.
+# text_en = And god created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and god saw that it was good.
+1	Nítorí	nítorí	CCONJ	_	_	3	cc	_	Gloss=for|Ref=GEN_1.21
+2	náà	náà	ADV	_	_	3	advmod	_	Gloss=the|Ref=GEN_1.21
+3	Ọlọ́run	ọlọ́run	NOUN	_	_	4	nsubj	_	Gloss=god|Ref=GEN_1.21
+4	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.21
+5	àwọn	àwọn	DET	_	_	6	det	_	Gloss=them|Ref=GEN_1.21
+6	ẹ̀dá	ẹ̀dá	NOUN	_	_	4	obj	_	Gloss=creature|Ref=GEN_1.21
+7	alààyè	alààyè	NOUN	_	_	6	nmod	_	Gloss=living|Ref=GEN_1.21
+8	ńlá	ńlá	ADJ	_	_	7	amod	_	Gloss=great|Ref=GEN_1.21|SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	Gloss=the|Ref=GEN_1.21|SpaceAfter=No
+10	ńlá	ńlá	ADJ	_	_	7	amod	_	Gloss=great|Ref=GEN_1.21
+11	sí	sí	ADP	_	_	13	case	_	Gloss=to|Ref=GEN_1.21
+12	inú	inú	ADP	_	_	13	case	_	Gloss=of|Ref=GEN_1.21
+13	òkun	òkun	NOUN	_	_	4	obl	_	Gloss=sea|Ref=GEN_1.21|SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	Gloss=,|Ref=GEN_1.21
+15	àwọn	àwọn	PRON	_	PronType=Ind	16	det	_	Gloss=the|Ref=GEN_1.21
+16	ohun	ohun	PRON	_	_	17	nmod	_	Gloss=things|Ref=GEN_1.21
+17	ẹlẹ́mìí	ẹlẹ́mìí	NOUN	_	_	4	csubj	_	Gloss=breatheth|Ref=GEN_1.21
+18	àti	àti	CCONJ	_	_	20	cc	_	Gloss=and|Ref=GEN_1.21
+19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the|Ref=GEN_1.21
+20	ohun	ohun	PRON	_	_	17	conj	_	Gloss=things|Ref=GEN_1.21
+21	tí	tí	PRON	_	PronType=Rel	23	mark	_	Gloss=that|Ref=GEN_1.21
+22	ń	ń	AUX	_	_	23	aux	_	Gloss=that|Ref=GEN_1.21
+23	rìn	rìn	VERB	_	_	17	csubj	_	Gloss=walk|Ref=GEN_1.21
+24	ní	ní	ADP	_	_	26	case	_	Gloss=in|Ref=GEN_1.21
+25	onírúurú	onírúurú	ADV	_	_	27	advmod	_	Gloss=manner|Ref=GEN_1.21
+26	tiwọn	tiwọn	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	23	obj	_	Gloss=their|Ref=GEN_1.21|SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	Gloss=,|Ref=GEN_1.21
+28	àti	àti	CCONJ	_	_	30	cc	_	Gloss=and|Ref=GEN_1.21
+29	àwọn	àwọn	DET	_	_	30	det	_	Gloss=the|Ref=GEN_1.21
+30	ẹyẹ	ẹyẹ	NOUN	_	_	23	xcomp	_	Gloss=birds|Ref=GEN_1.21
+31	abìyẹ́	abìyẹ́	NOUN	_	_	30	nmod	_	Gloss=feathered|Ref=GEN_1.21
+32	ní	ní	ADP	_	_	34	case	_	Gloss=in|Ref=GEN_1.21
+33	onírúurú	onírúurú	ADV	_	_	35	advmod	_	Gloss=manner|Ref=GEN_1.21
+34	tiwọn	tiwọn	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	30	nmod	_	Gloss=their|Ref=GEN_1.21|SpaceAfter=No
+35	.	.	PUNCT	_	_	36	punct	_	Gloss=.|Ref=GEN_1.21
+36	Ọlọ́run	ọlọ́run	NOUN	_	_	38	nsubj	_	Gloss=god|Ref=GEN_1.21
+37	sì	sì	CCONJ	_	_	38	cc	_	Gloss=then|Ref=GEN_1.21
+38	rí	rí	VERB	_	_	23	ccomp	_	Gloss=saw|Ref=GEN_1.21
+39	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	38	goeswith	_	Gloss=it|Ref=GEN_1.21
+40	pé	pé	SCONJ	_	_	42	mark	_	Gloss=that|Ref=GEN_1.21
+41	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	38	xcomp	_	Gloss=it|Ref=GEN_1.21
+42	dára	dára	ADJ	_	_	41	amod	_	Gloss=good|Ref=GEN_1.21|SpaceAfter=No
+43	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=GEN_1.21
 
-# sent_id = 22
-# text = ọlọ́run súre fún wọn, ó sì wí pé, “ẹ máa bí sí i, ẹ sì máa pọ̀ sí i, ẹ kún inú omi òkun, kí àwọn ẹyẹ náà sì máa pọ̀ sí i ní orí ilẹ̀.”
-# text_yor =  ọlọ́run súre fún wọn , ó sì wí pé , “ ẹ máa bí sí i , ẹ sì máa pọ̀ sí i , ẹ kún inú omi òkun , kí àwọn ẹyẹ náà sì máa pọ̀ sí i ní orí ilẹ̀ . ”
-# text_en =  and god blessed them , saying , be fruitful , and multiply , and fill the waters in the seas , and let fowl multiply in the earth .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god
-2	súre	súre	VERB	_	_	0	root	_	Gloss=blessed
-3	fún	fún	ADP	_	_	4	case	_	Gloss=for
-4	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	SpaceAfter=No|Gloss=them
-5	,	,	PUNCT	_	_	8	punct	_	Gloss=,
-6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he
-7	sì	sì	CCONJ	_	_	8	cc	_	Gloss=then
-8	wí	wí	VERB	_	_	2	ccomp	_	Gloss=said
-9	pé	pé	SCONJ	_	_	14	mark	_	SpaceAfter=No|Gloss=that
-10	,	,	PUNCT	_	_	14	punct	_	Gloss=,
-11	“	“	PUNCT	_	_	14	punct	_	SpaceAfter=No|Gloss=“
-12	ẹ	ẹ	VERB	_	_	14	nsubj	_	Gloss=ye
-13	máa	máa	AUX	_	_	14	aux	_	Gloss=be
-14	bí	bí	VERB	_	_	8	xcomp	_	Gloss=procreate
-15	sí	sí	ADP	_	_	16	case	_	Gloss=to
-16	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No|Gloss=him
-17	,	,	PUNCT	_	_	21	punct	_	Gloss=,
-18	ẹ	ẹ	VERB	_	_	21	nsubj	_	Gloss=ye
-19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=then
-20	máa	máa	AUX	_	_	21	aux	_	Gloss=be
-21	pọ̀	pọ̀	VERB	_	_	14	xcomp	_	Gloss=multiply
-22	sí	sí	ADP	_	_	23	case	_	Gloss=to
-23	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	SpaceAfter=No|Gloss=him
-24	,	,	PUNCT	_	_	25	punct	_	Gloss=,
-25	ẹ	ẹ	VERB	_	_	26	nsubj	_	Gloss=ye
-26	kún	kún	VERB	_	_	21	xcomp	_	Gloss=full
-27	inú	inú	ADP	_	_	28	case	_	Gloss=of
-28	omi	omi	NOUN	_	_	29	nmod	_	Gloss=water
-29	òkun	òkun	NOUN	_	_	26	obj	_	SpaceAfter=No|Gloss=sea
-30	,	,	PUNCT	_	_	33	punct	_	Gloss=,
-31	kí	kí	SCONJ	_	_	37	aux	_	Gloss=let
-32	àwọn	àwọn	DET	_	_	33	det	_	Gloss=the
-33	ẹyẹ	ẹyẹ	NOUN	_	_	26	ccomp	_	Gloss=bird
-34	náà	náà	ADV	_	_	33	advmod	_	Gloss=the
-35	sì	sì	CCONJ	_	_	36	cc	_	Gloss=and
-36	máa	máa	AUX	_	_	37	aux	_	Gloss=be
-37	pọ̀	pọ̀	VERB	_	_	26	ccomp	_	Gloss=together
-38	sí	sí	ADP	_	_	39	case	_	Gloss=to
-39	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	37	obj	_	Gloss=him
-40	ní	ní	ADP	_	_	41	case	_	Gloss=in
-41	orí	orí	NOUN	_	_	42	nmod	_	Gloss=on
-42	ilẹ̀	ilẹ̀	NOUN	_	_	37	obl	_	SpaceAfter=No|Gloss=land
-43	.	.	PUNCT	_	_	37	punct	_	SpaceAfter=No|Gloss=.
-44	”	”	PUNCT	_	_	2	punct	_	Gloss=”
+# sent_id = GEN_1.22
+# text = Ọlọ́run súre fún wọn, ó sì wí pé, “Ẹ máa bí sí i, ẹ sì máa pọ̀ sí i, ẹ kún inú omi òkun, kí àwọn ẹyẹ náà sì máa pọ̀ sí i ní orí ilẹ̀.”
+# text_en = And god blessed them, saying, be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.22
+2	súre	súre	VERB	_	_	0	root	_	Gloss=blessed|Ref=GEN_1.22
+3	fún	fún	ADP	_	_	4	case	_	Gloss=for|Ref=GEN_1.22
+4	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Gloss=them|Ref=GEN_1.22|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	Gloss=,|Ref=GEN_1.22
+6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he|Ref=GEN_1.22
+7	sì	sì	CCONJ	_	_	8	cc	_	Gloss=then|Ref=GEN_1.22
+8	wí	wí	VERB	_	_	2	ccomp	_	Gloss=said|Ref=GEN_1.22
+9	pé	pé	SCONJ	_	_	14	mark	_	Gloss=that|Ref=GEN_1.22|SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	Gloss=,|Ref=GEN_1.22
+11	“	“	PUNCT	_	_	14	punct	_	Gloss=“|Ref=GEN_1.22|SpaceAfter=No
+12	Ẹ	ẹ	VERB	_	_	14	nsubj	_	Gloss=ye|Ref=GEN_1.22
+13	máa	máa	AUX	_	_	14	aux	_	Gloss=be|Ref=GEN_1.22
+14	bí	bí	VERB	_	_	8	xcomp	_	Gloss=procreate|Ref=GEN_1.22
+15	sí	sí	ADP	_	_	16	case	_	Gloss=to|Ref=GEN_1.22
+16	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	14	obj	_	Gloss=him|Ref=GEN_1.22|SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	Gloss=,|Ref=GEN_1.22
+18	ẹ	ẹ	VERB	_	_	21	nsubj	_	Gloss=ye|Ref=GEN_1.22
+19	sì	sì	CCONJ	_	_	20	cc	_	Gloss=then|Ref=GEN_1.22
+20	máa	máa	AUX	_	_	21	aux	_	Gloss=be|Ref=GEN_1.22
+21	pọ̀	pọ̀	VERB	_	_	14	xcomp	_	Gloss=multiply|Ref=GEN_1.22
+22	sí	sí	ADP	_	_	23	case	_	Gloss=to|Ref=GEN_1.22
+23	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=him|Ref=GEN_1.22|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.22
+25	ẹ	ẹ	VERB	_	_	26	nsubj	_	Gloss=ye|Ref=GEN_1.22
+26	kún	kún	VERB	_	_	21	xcomp	_	Gloss=full|Ref=GEN_1.22
+27	inú	inú	ADP	_	_	28	case	_	Gloss=of|Ref=GEN_1.22
+28	omi	omi	NOUN	_	_	29	nmod	_	Gloss=water|Ref=GEN_1.22
+29	òkun	òkun	NOUN	_	_	26	obj	_	Gloss=sea|Ref=GEN_1.22|SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	Gloss=,|Ref=GEN_1.22
+31	kí	kí	SCONJ	_	_	37	aux	_	Gloss=let|Ref=GEN_1.22
+32	àwọn	àwọn	DET	_	_	33	det	_	Gloss=the|Ref=GEN_1.22
+33	ẹyẹ	ẹyẹ	NOUN	_	_	26	ccomp	_	Gloss=bird|Ref=GEN_1.22
+34	náà	náà	ADV	_	_	33	advmod	_	Gloss=the|Ref=GEN_1.22
+35	sì	sì	CCONJ	_	_	36	cc	_	Gloss=and|Ref=GEN_1.22
+36	máa	máa	AUX	_	_	37	aux	_	Gloss=be|Ref=GEN_1.22
+37	pọ̀	pọ̀	VERB	_	_	26	ccomp	_	Gloss=together|Ref=GEN_1.22
+38	sí	sí	ADP	_	_	39	case	_	Gloss=to|Ref=GEN_1.22
+39	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	37	obj	_	Gloss=him|Ref=GEN_1.22
+40	ní	ní	ADP	_	_	41	case	_	Gloss=in|Ref=GEN_1.22
+41	orí	orí	NOUN	_	_	42	nmod	_	Gloss=on|Ref=GEN_1.22
+42	ilẹ̀	ilẹ̀	NOUN	_	_	37	obl	_	Gloss=land|Ref=GEN_1.22|SpaceAfter=No
+43	.	.	PUNCT	_	_	37	punct	_	Gloss=.|Ref=GEN_1.22|SpaceAfter=No
+44	”	”	PUNCT	_	_	2	punct	_	Gloss=”|Ref=GEN_1.22
 
-# sent_id = 23
-# text = àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kárùn-ún.
-# text_yor =  àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kárùn-ún .
-# text_en =  and the evening and the morning were the fifth day .
-1	àsálẹ́	àsálẹ́	NOUN	_	_	4	nsubj	_	Gloss=evening
-2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and
-3	òwúrọ̀	òwúrọ̀	ADV	_	_	1	conj	_	Gloss=morning
-4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be
-5	ọjọ́	ọjọ́	NOUN	_	_	0	root	_	Gloss=day
-6	kárùn-ún	kárùn-ún	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No|Gloss=fifth
-7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+# sent_id = GEN_1.23
+# text = Àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kárùn-ún.
+# text_en = And the evening and the morning were the fifth day.
+1	Àsálẹ́	àsálẹ́	NOUN	_	_	4	nsubj	_	Gloss=evening|Ref=GEN_1.23
+2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.23
+3	òwúrọ̀	òwúrọ̀	ADV	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.23
+4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be|Ref=GEN_1.23
+5	ọjọ́	ọjọ́	NOUN	_	_	0	root	_	Gloss=day|Ref=GEN_1.23
+6	kárùn-ún	kárùn-ún	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No|Gloss=fifth|Ref=GEN_1.23
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=GEN_1.23
 
-# sent_id = 24
-# text = ọlọ́run sì wí pé, “kí ilẹ̀ kí ó mú ohun alààyè jáde ní onírúurú wọn: ẹran ọ̀sìn, àwọn ohun afàyàfà àti àwọn ẹran inú igbó, ọ̀kọ̀ọ̀kan ní irú tirẹ̀.” ó sì rí bẹ́ẹ̀.
-# text_yor =  ọlọ́run sì wí pé , “ kí ilẹ̀ kí ó mú ohun alààyè jáde ní onírúurú wọn : ẹran ọ̀sìn , à wọn ohun afàyàfà àti àwọn ẹran inú igbó , ọ̀kọ̀ọ̀kan ní irú tirẹ̀ . ” ó sì rí bẹ́ẹ̀ .
-# text_en =  and god said , let the earth bring forth the living creature after his kind , cattle , and creeping thing , and beast of the earth after his kind : and it was so .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
-3	wí	wí	VERB	_	_	0	root	_	Gloss=said
-4	pé	pé	SCONJ	_	_	11	mark	_	SpaceAfter=No|Gloss=that
-5	,	,	PUNCT	_	_	8	punct	_	Gloss=,
-6	“	“	PUNCT	_	_	8	punct	_	SpaceAfter=No|Gloss=“
-7	kí	kí	AUX	_	_	11	aux	_	Gloss=let
-8	ilẹ̀	ilẹ̀	NOUN	_	_	11	nsubj	_	Gloss=land
-9	kí	kí	AUX	_	_	11	aux	_	Gloss=let
-10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he
-11	mú	mú	VERB	_	_	3	csubj	_	Gloss=brought
-12	ohun	ohun	PRON	_	_	13	nmod	_	Gloss=things
-13	alààyè	alààyè	NOUN	_	_	11	obj	_	Gloss=living
-14	jáde	jáde	ADP	_	_	13	case	_	Gloss=out
-15	ní	ní	ADP	_	_	17	case	_	Gloss=in
-16	onírúurú	onírúurú	ADV	_	_	17	advmod	_	Gloss=various
-17	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obl	_	SpaceAfter=No|Gloss=them
-18	:	:	PUNCT	_	_	19	punct	_	Gloss=:
-19	ẹran	ẹran	NOUN	_	_	11	xcomp	_	Gloss=flesh
-20	ọ̀sìn	ọ̀sìn	NOUN	_	_	19	nmod	_	SpaceAfter=No|Gloss=cattle
-21	,	,	PUNCT	_	_	25	punct	_	Gloss=,
-22	à	à	SCONJ	_	_	25	det	_	SpaceAfter=No|Gloss=the
-23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	goeswith	_	Gloss=them
-24	ohun	ohun	PRON	_	_	25	nmod	_	Gloss=things
-25	afàyàfà	afàyàfà	NOUN	_	_	11	xcomp	_	Gloss=creepeth
-26	àti	àti	CCONJ	_	_	28	cc	_	Gloss=and
-27	àwọn	àwọn	DET	_	_	28	det	_	Gloss=the
-28	ẹran	ẹran	NOUN	_	_	25	conj	_	Gloss=flesh
-29	inú	inú	ADP	_	_	30	case	_	Gloss=of
-30	igbó	igbó	NOUN	_	_	28	nmod	_	SpaceAfter=No|Gloss=bush
-31	,	,	PUNCT	_	_	35	punct	_	Gloss=,
-32	ọ̀kọ̀ọ̀kan	ọ̀kọ̀ọ̀kan	ADJ	_	_	35	amod	_	Gloss=each
-33	ní	ní	ADP	_	_	35	case	_	Gloss=in
-34	irú	irú	ADJ	_	_	35	amod	_	Gloss=such
-35	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	xcomp	_	SpaceAfter=No|Gloss=its
-36	.	.	PUNCT	_	_	40	punct	_	SpaceAfter=No|Gloss=.
-37	”	”	PUNCT	_	_	40	punct	_	Gloss=”
-38	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	Gloss=it
-39	sì	sì	CCONJ	_	_	40	cc	_	Gloss=then
-40	rí	rí	VERB	_	_	11	ccomp	_	Gloss=be
-41	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	40	advmod	_	SpaceAfter=No|Gloss=so
-42	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.24
+# text = Ọlọ́run sì wí pé, “Kí ilẹ̀ kí ó mú ohun alààyè jáde ní onírúurú wọn: ẹran ọ̀sìn, àwọn ohun afàyàfà àti àwọn ẹran inú igbó, ọ̀kọ̀ọ̀kan ní irú tirẹ̀.” Ó sì rí bẹ́ẹ̀.
+# text_en = And god said, let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.24
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.24
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.24
+4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that|Ref=GEN_1.24|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	Gloss=,|Ref=GEN_1.24
+6	“	“	PUNCT	_	_	8	punct	_	Gloss=“|Ref=GEN_1.24|SpaceAfter=No
+7	Kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.24
+8	ilẹ̀	ilẹ̀	NOUN	_	_	11	nsubj	_	Gloss=land|Ref=GEN_1.24
+9	kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.24
+10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he|Ref=GEN_1.24
+11	mú	mú	VERB	_	_	3	csubj	_	Gloss=brought|Ref=GEN_1.24
+12	ohun	ohun	PRON	_	_	13	nmod	_	Gloss=things|Ref=GEN_1.24
+13	alààyè	alààyè	NOUN	_	_	11	obj	_	Gloss=living|Ref=GEN_1.24
+14	jáde	jáde	ADP	_	_	13	case	_	Gloss=out|Ref=GEN_1.24
+15	ní	ní	ADP	_	_	17	case	_	Gloss=in|Ref=GEN_1.24
+16	onírúurú	onírúurú	ADV	_	_	17	advmod	_	Gloss=various|Ref=GEN_1.24
+17	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obl	_	Gloss=them|Ref=GEN_1.24|SpaceAfter=No
+18	:	:	PUNCT	_	_	19	punct	_	Gloss=:|Ref=GEN_1.24
+19	ẹran	ẹran	NOUN	_	_	11	xcomp	_	Gloss=flesh|Ref=GEN_1.24
+20	ọ̀sìn	ọ̀sìn	NOUN	_	_	19	nmod	_	Gloss=cattle|Ref=GEN_1.24|SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.24
+22	àwọn	à	SCONJ	_	_	24	det	_	Gloss=the|Ref=GEN_1.24|SpaceAfter=No
+23	ohun	ohun	PRON	_	_	24	nmod	_	Gloss=things|Ref=GEN_1.24
+24	afàyàfà	afàyàfà	NOUN	_	_	11	xcomp	_	Gloss=creepeth|Ref=GEN_1.24
+25	àti	àti	CCONJ	_	_	27	cc	_	Gloss=and|Ref=GEN_1.24
+26	àwọn	àwọn	DET	_	_	27	det	_	Gloss=the|Ref=GEN_1.24
+27	ẹran	ẹran	NOUN	_	_	24	conj	_	Gloss=flesh|Ref=GEN_1.24
+28	inú	inú	ADP	_	_	29	case	_	Gloss=of|Ref=GEN_1.24
+29	igbó	igbó	NOUN	_	_	27	nmod	_	SpaceAfter=No|Gloss=bush|Ref=GEN_1.24
+30	,	,	PUNCT	_	_	34	punct	_	Gloss=,|Ref=GEN_1.24
+31	ọ̀kọ̀ọ̀kan	ọ̀kọ̀ọ̀kan	ADJ	_	_	34	amod	_	Gloss=each|Ref=GEN_1.24
+32	ní	ní	ADP	_	_	34	case	_	Gloss=in|Ref=GEN_1.24
+33	irú	irú	ADJ	_	_	34	amod	_	Gloss=such|Ref=GEN_1.24
+34	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	xcomp	_	SpaceAfter=No|Gloss=its|Ref=GEN_1.24
+35	.	.	PUNCT	_	_	39	punct	_	SpaceAfter=No|Gloss=.|Ref=GEN_1.24
+36	”	”	PUNCT	_	_	39	punct	_	Gloss=”|Ref=GEN_1.24
+37	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	39	nsubj	_	Gloss=it|Ref=GEN_1.24
+38	sì	sì	CCONJ	_	_	39	cc	_	Gloss=then|Ref=GEN_1.24
+39	rí	rí	VERB	_	_	11	ccomp	_	Gloss=be|Ref=GEN_1.24
+40	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	39	advmod	_	SpaceAfter=No|Gloss=so|Ref=GEN_1.24
+41	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.24
 
-# sent_id = 25
-# text = ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀. ọlọ́run sì rí i pé ó dára.
-# text_yor =  ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀ . ọlọ́run sì rí i pé ó dára .
-# text_en =  and god made the beast of the earth after his kind , and cattle after their kind , and every thing that creepeth upon the earth after his kind : and god saw that it was good .
-1	ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
-3	dá	dá	VERB	_	_	0	root	_	Gloss=made
-4	ẹranko	ẹranko	NOUN	_	_	3	obj	_	Gloss=animal
-5	inú	inú	ADP	_	_	6	case	_	Gloss=of
-6	igbó	igbó	NOUN	_	_	4	nmod	_	Gloss=bush
-7	àti	àti	CCONJ	_	_	8	cc	_	Gloss=and
-8	ẹran	ẹran	NOUN	_	_	6	conj	_	Gloss=animal
-9	ọ̀sìn	ọ̀sìn	NOUN	_	_	8	nmod	_	Gloss=domestic
-10	gbogbo	gbogbo	DET	_	_	8	det	_	Gloss=all
-11	ní	ní	ADP	_	_	13	case	_	Gloss=in
-12	irú	irú	ADJ	_	_	13	amod	_	Gloss=such
-13	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obl	_	Gloss=its
-14	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and
-15	gbogbo	gbogbo	DET	_	_	17	det	_	Gloss=all
-16	ohun	ohun	PRON	_	_	17	nmod	_	Gloss=things
-17	alààyè	alààyè	NOUN	_	_	8	conj	_	Gloss=living
-18	tí	tí	PRON	_	PronType=Rel	20	mark	_	Gloss=that
-19	ń	ń	AUX	_	_	20	aux	_	Gloss=is
-20	rìn	rìn	VERB	_	_	3	ccomp	_	Gloss=walk
-21	ní	ní	ADP	_	_	22	case	_	Gloss=in
-22	ilẹ̀	ilẹ̀	NOUN	_	_	20	obj	_	Gloss=land
-23	ní	ní	ADP	_	_	25	case	_	Gloss=of
-24	irú	irú	ADJ	_	_	25	amod	_	Gloss=such
-25	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	obl	_	SpaceAfter=No|Gloss=its
-26	.	.	PUNCT	_	_	27	punct	_	Gloss=.
-27	ọlọ́run	ọlọ́run	NOUN	_	_	29	nsubj	_	Gloss=god
-28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=then
-29	rí	rí	VERB	_	_	20	xcomp	_	Gloss=saw
-30	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	29	goeswith	_	Gloss=it
-31	pé	pé	SCONJ	_	_	33	mark	_	Gloss=that
-32	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	ccomp	_	Gloss=it
-33	dára	dára	ADJ	_	_	32	amod	_	SpaceAfter=No|Gloss=good
-34	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+# sent_id = GEN_1.25
+# text = Ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀. Ọlọ́run sì rí i pé ó dára.
+# text_en = And god made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and god saw that it was good.
+1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.25
+2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.25
+3	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.25
+4	ẹranko	ẹranko	NOUN	_	_	3	obj	_	Gloss=animal|Ref=GEN_1.25
+5	inú	inú	ADP	_	_	6	case	_	Gloss=of|Ref=GEN_1.25
+6	igbó	igbó	NOUN	_	_	4	nmod	_	Gloss=bush|Ref=GEN_1.25
+7	àti	àti	CCONJ	_	_	8	cc	_	Gloss=and|Ref=GEN_1.25
+8	ẹran	ẹran	NOUN	_	_	6	conj	_	Gloss=animal|Ref=GEN_1.25
+9	ọ̀sìn	ọ̀sìn	NOUN	_	_	8	nmod	_	Gloss=domestic|Ref=GEN_1.25
+10	gbogbo	gbogbo	DET	_	_	8	det	_	Gloss=all|Ref=GEN_1.25
+11	ní	ní	ADP	_	_	13	case	_	Gloss=in|Ref=GEN_1.25
+12	irú	irú	ADJ	_	_	13	amod	_	Gloss=such|Ref=GEN_1.25
+13	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obl	_	Gloss=its|Ref=GEN_1.25
+14	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.25
+15	gbogbo	gbogbo	DET	_	_	17	det	_	Gloss=all|Ref=GEN_1.25
+16	ohun	ohun	PRON	_	_	17	nmod	_	Gloss=things|Ref=GEN_1.25
+17	alààyè	alààyè	NOUN	_	_	8	conj	_	Gloss=living|Ref=GEN_1.25
+18	tí	tí	PRON	_	PronType=Rel	20	mark	_	Gloss=that|Ref=GEN_1.25
+19	ń	ń	AUX	_	_	20	aux	_	Gloss=is|Ref=GEN_1.25
+20	rìn	rìn	VERB	_	_	3	ccomp	_	Gloss=walk|Ref=GEN_1.25
+21	ní	ní	ADP	_	_	22	case	_	Gloss=in|Ref=GEN_1.25
+22	ilẹ̀	ilẹ̀	NOUN	_	_	20	obj	_	Gloss=land|Ref=GEN_1.25
+23	ní	ní	ADP	_	_	25	case	_	Gloss=of|Ref=GEN_1.25
+24	irú	irú	ADJ	_	_	25	amod	_	Gloss=such|Ref=GEN_1.25
+25	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	obl	_	Gloss=its|Ref=GEN_1.25|SpaceAfter=No
+26	.	.	PUNCT	_	_	27	punct	_	Gloss=.|Ref=GEN_1.25
+27	Ọlọ́run	ọlọ́run	NOUN	_	_	29	nsubj	_	Gloss=god|Ref=GEN_1.25
+28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=then|Ref=GEN_1.25
+29	rí	rí	VERB	_	_	20	xcomp	_	Gloss=saw|Ref=GEN_1.25
+30	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	29	goeswith	_	Gloss=it|Ref=GEN_1.25
+31	pé	pé	SCONJ	_	_	33	mark	_	Gloss=that|Ref=GEN_1.25
+32	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	ccomp	_	Gloss=it|Ref=GEN_1.25
+33	dára	dára	ADJ	_	_	32	amod	_	Gloss=good|Ref=GEN_1.25|SpaceAfter=No
+34	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.25
 
-# sent_id = 26
-# text = lẹ́yìn náà ni ọlọ́run wí pé, “ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa, gẹ́gẹ́ bí àwa ti rí, kí wọn kí ó jọba lórí ẹja òkun, ẹyẹ ojú ọ̀run, ohun ọ̀sìn, gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀.”
-# text_yor =  lẹ́yìn náà ni ọlọ́run wí pé , “ ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa , gẹ́gẹ́ bí àwa ti rí , kí wọn kí ó jọba lórí ẹja òkun , ẹyẹ ojú ọ̀run , ohun ọ̀sìn , gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀ . ”
-# text_en =  and god said , let us make man in our image , after our likeness : and let them have dominion over the fish of the sea , and over the fowl of the air , and over the cattle , and over all the earth , and over every creeping thing that creepeth upon the earth .
-1	lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	Gloss=after
-2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the
-3	ni	ni	AUX	_	_	5	aux	_	Gloss=is
-4	ọlọ́run	ọlọ́run	NOUN	_	_	5	nsubj	_	Gloss=god
-5	wí	wí	VERB	_	_	0	root	_	Gloss=said
-6	pé	pé	SCONJ	_	_	13	mark	_	SpaceAfter=No|Gloss=that
-7	,	,	PUNCT	_	_	13	punct	_	Gloss=,
-8	“	“	PUNCT	_	_	13	punct	_	SpaceAfter=No|Gloss=“
-9	ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	Gloss=ye
-10	jẹ́	jẹ́	AUX	_	_	13	aux	_	Gloss=be
-11	kí	kí	AUX	_	_	13	aux	_	Gloss=let
-12	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=be
-13	dá	dá	VERB	_	_	5	csubj	_	Gloss=made
-14	ènìyàn	ènìyàn	NOUN	_	_	13	obj	_	Gloss=people
-15	ní	ní	ADP	_	_	16	case	_	Gloss=in
-16	àwòrán	àwòrán	NOUN	_	_	13	obl	_	Gloss=image
-17	ara	ara	PRON	_	PronType=Emp	16	nmod	_	Gloss=self
-18	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	16	nmod	_	SpaceAfter=No|Gloss=our
-19	,	,	PUNCT	_	_	24	punct	_	Gloss=,
-20	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	24	advmod	_	Gloss=according
-21	bí	bí	SCONJ	_	_	22	cc	_	Gloss=as
-22	àwa	àwa	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	Gloss=we
-23	ti	ti	AUX	_	_	24	aux	_	Gloss=have
-24	rí	rí	VERB	_	_	13	advcl	_	SpaceAfter=No|Gloss=be
-25	,	,	PUNCT	_	_	30	punct	_	Gloss=,
-26	kí	kí	AUX	_	_	30	aux	_	Gloss=let
-27	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	Gloss=them
-28	kí	kí	AUX	_	_	30	aux	_	Gloss=let
-29	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	30	expl	_	Gloss=they
-30	jọba	jọba	VERB	_	_	13	conj	_	Gloss=reigned
-31	lórí	lórí	ADP	_	_	32	case	_	Gloss=upon
-32	ẹja	ẹja	NOUN	_	_	30	obl	_	Gloss=fish
-33	òkun	òkun	NOUN	_	_	32	nmod	_	SpaceAfter=No|Gloss=sea
-34	,	,	PUNCT	_	_	35	punct	_	Gloss=,
-35	ẹyẹ	ẹyẹ	NOUN	_	_	32	conj	_	Gloss=bird
-36	ojú	ojú	NOUN	_	_	37	nmod	_	Gloss=face
-37	ọ̀run	ọ̀run	NOUN	_	_	35	nmod	_	SpaceAfter=No|Gloss=heaven
-38	,	,	PUNCT	_	_	40	punct	_	Gloss=,
-39	ohun	ohun	PRON	_	_	40	nmod	_	Gloss=things
-40	ọ̀sìn	ọ̀sìn	NOUN	_	_	32	conj	_	SpaceAfter=No|Gloss=cattle
-41	,	,	PUNCT	_	_	43	punct	_	Gloss=,
-42	gbogbo	gbogbo	DET	_	_	43	det	_	Gloss=all
-43	ilẹ̀	ilẹ̀	NOUN	_	_	32	conj	_	Gloss=land
-44	àti	àti	CCONJ	_	_	46	cc	_	Gloss=and
-45	lórí	lórí	ADP	_	_	46	case	_	Gloss=upon
-46	ohun	ohun	PRON	_	_	32	conj	_	Gloss=things
-47	gbogbo	gbogbo	DET	_	_	46	det	_	Gloss=all
-48	tí	tí	PRON	_	PronType=Rel	50	nsubj	_	Gloss=that
-49	ń	ń	AUX	_	_	50	aux	_	Gloss=is
-50	rìn	rìn	VERB	_	_	46	acl	_	Gloss=walk
-51	lórí	lórí	ADP	_	_	52	case	_	Gloss=upon
-52	ilẹ̀	ilẹ̀	NOUN	_	_	50	obl	_	SpaceAfter=No|Gloss=land
-53	.	.	PUNCT	_	_	13	punct	_	SpaceAfter=No|Gloss=.
-54	”	”	PUNCT	_	_	13	punct	_	Gloss=”
+# sent_id = GEN_1.26
+# text = Lẹ́yìn náà ni Ọlọ́run wí pé, “Ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa, gẹ́gẹ́ bí àwa ti rí, kí wọn kí ó jọba lórí ẹja òkun, ẹyẹ ojú ọ̀run, ohun ọ̀sìn, gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀.”
+# text_en = And god said, let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
+1	Lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	Gloss=after|Ref=GEN_1.26
+2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the|Ref=GEN_1.26
+3	ni	ni	AUX	_	_	5	aux	_	Gloss=is|Ref=GEN_1.26
+4	Ọlọ́run	ọlọ́run	NOUN	_	_	5	nsubj	_	Gloss=god|Ref=GEN_1.26
+5	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.26
+6	pé	pé	SCONJ	_	_	13	mark	_	Gloss=that|Ref=GEN_1.26|SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=GEN_1.26
+8	“	“	PUNCT	_	_	13	punct	_	Gloss=“|Ref=GEN_1.26|SpaceAfter=No
+9	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	Gloss=ye|Ref=GEN_1.26
+10	jẹ́	jẹ́	AUX	_	_	13	aux	_	Gloss=be|Ref=GEN_1.26
+11	kí	kí	AUX	_	_	13	aux	_	Gloss=let|Ref=GEN_1.26
+12	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=be|Ref=GEN_1.26
+13	dá	dá	VERB	_	_	5	csubj	_	Gloss=made|Ref=GEN_1.26
+14	ènìyàn	ènìyàn	NOUN	_	_	13	obj	_	Gloss=people|Ref=GEN_1.26
+15	ní	ní	ADP	_	_	16	case	_	Gloss=in|Ref=GEN_1.26
+16	àwòrán	àwòrán	NOUN	_	_	13	obl	_	Gloss=image|Ref=GEN_1.26
+17	ara	ara	PRON	_	PronType=Emp	16	nmod	_	Gloss=self|Ref=GEN_1.26
+18	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	16	nmod	_	Gloss=our|Ref=GEN_1.26|SpaceAfter=No
+19	,	,	PUNCT	_	_	24	punct	_	Gloss=,|Ref=GEN_1.26
+20	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	24	advmod	_	Gloss=according|Ref=GEN_1.26
+21	bí	bí	SCONJ	_	_	22	cc	_	Gloss=as|Ref=GEN_1.26
+22	àwa	àwa	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	Gloss=we|Ref=GEN_1.26
+23	ti	ti	AUX	_	_	24	aux	_	Gloss=have|Ref=GEN_1.26
+24	rí	rí	VERB	_	_	13	advcl	_	Gloss=be|Ref=GEN_1.26|SpaceAfter=No
+25	,	,	PUNCT	_	_	30	punct	_	Gloss=,|Ref=GEN_1.26
+26	kí	kí	AUX	_	_	30	aux	_	Gloss=let|Ref=GEN_1.26
+27	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	Gloss=them|Ref=GEN_1.26
+28	kí	kí	AUX	_	_	30	aux	_	Gloss=let|Ref=GEN_1.26
+29	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	30	expl	_	Gloss=they|Ref=GEN_1.26
+30	jọba	jọba	VERB	_	_	13	conj	_	Gloss=reigned|Ref=GEN_1.26
+31	lórí	lórí	ADP	_	_	32	case	_	Gloss=upon|Ref=GEN_1.26
+32	ẹja	ẹja	NOUN	_	_	30	obl	_	Gloss=fish|Ref=GEN_1.26
+33	òkun	òkun	NOUN	_	_	32	nmod	_	Gloss=sea|Ref=GEN_1.26|SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=GEN_1.26
+35	ẹyẹ	ẹyẹ	NOUN	_	_	32	conj	_	Gloss=bird|Ref=GEN_1.26
+36	ojú	ojú	NOUN	_	_	37	nmod	_	Gloss=face|Ref=GEN_1.26
+37	ọ̀run	ọ̀run	NOUN	_	_	35	nmod	_	Gloss=heaven|Ref=GEN_1.26|SpaceAfter=No
+38	,	,	PUNCT	_	_	40	punct	_	Gloss=,|Ref=GEN_1.26
+39	ohun	ohun	PRON	_	_	40	nmod	_	Gloss=things|Ref=GEN_1.26
+40	ọ̀sìn	ọ̀sìn	NOUN	_	_	32	conj	_	Gloss=cattle|Ref=GEN_1.26|SpaceAfter=No
+41	,	,	PUNCT	_	_	43	punct	_	Gloss=,|Ref=GEN_1.26
+42	gbogbo	gbogbo	DET	_	_	43	det	_	Gloss=all|Ref=GEN_1.26
+43	ilẹ̀	ilẹ̀	NOUN	_	_	32	conj	_	Gloss=land|Ref=GEN_1.26
+44	àti	àti	CCONJ	_	_	46	cc	_	Gloss=and|Ref=GEN_1.26
+45	lórí	lórí	ADP	_	_	46	case	_	Gloss=upon|Ref=GEN_1.26
+46	ohun	ohun	PRON	_	_	32	conj	_	Gloss=things|Ref=GEN_1.26
+47	gbogbo	gbogbo	DET	_	_	46	det	_	Gloss=all|Ref=GEN_1.26
+48	tí	tí	PRON	_	PronType=Rel	50	nsubj	_	Gloss=that|Ref=GEN_1.26
+49	ń	ń	AUX	_	_	50	aux	_	Gloss=is|Ref=GEN_1.26
+50	rìn	rìn	VERB	_	_	46	acl	_	Gloss=walk|Ref=GEN_1.26
+51	lórí	lórí	ADP	_	_	52	case	_	Gloss=upon|Ref=GEN_1.26
+52	ilẹ̀	ilẹ̀	NOUN	_	_	50	obl	_	Gloss=land|Ref=GEN_1.26|SpaceAfter=No
+53	.	.	PUNCT	_	_	13	punct	_	Gloss=.|Ref=GEN_1.26|SpaceAfter=No
+54	”	”	PUNCT	_	_	13	punct	_	Gloss=”|Ref=GEN_1.26
 
 # newdoc id = JOHN_10
 # sent_id = JOHN_10.1
