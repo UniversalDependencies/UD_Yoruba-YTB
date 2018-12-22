@@ -812,6 +812,7 @@
 # sent_id = JOHN_10.1
 # text = “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Ẹni tí kò bá gba ẹnu ọ̀nà wọ inú agbo àgùntàn, ṣùgbọ́n tí ó bá gba ibòmíràn gun òkè, Òun náà ni olè àti ọlọ́sà.
 # source = Bibeli Mimọ, Jòhánù, Chapter 10
+# text_en = verily , verily , i say unto you , he that entereth not by the door into the sheepfold , but climbeth up some other way , the same is a thief and a robber .
 1	“	“	PUNCT	_	_	7	punct	_	SpaceAfter=No|Gloss=“
 2	Lóòótọ́	Lóòótọ́	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=verily
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
@@ -853,6 +854,7 @@
 
 # sent_id = JOHN_10.2
 # text = Ṣùgbọ́n ẹni tí ó bá ti ẹnu-ọ̀nà wọlé, Òun ni olùṣọ́ àwọn àgùntàn.
+# text_en = but he that entereth in by the door is the shepherd of the sheep .
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	10	cc	_	Gloss=but
 2	ẹni	ẹni	PRON	_	PronType=Ind	10	nsubj	_	Gloss=someone
 3	tí	tí	PRON	_	PronType=Rel	10	mark	_	Gloss=that
@@ -904,6 +906,7 @@
 
 # sent_id = JOHN_10.4
 # text = Nígbà tí ó bá sì ti mú àwọn àgùntàn tirẹ̀ jáde, yóò ṣíwájú wọn, àwọn àgùntàn yóò sì máa tọ̀ ọ́ lẹ́yìn: nítorí tí wọ́n mọ ohùn rẹ̀.
+# text_en = and when he putteth forth his own sheep , he goeth before them , and the sheep follow him : for they know his voice .
 1	Nígbà	nígbà	ADV	_	_	7	mark	_	Gloss=when
 2	tí	tí	PRON	_	PronType=Rel	7	mark	_	Gloss=that
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=he
@@ -939,6 +942,7 @@
 
 # sent_id = JOHN_10.5
 # text = Wọn kò jẹ́ tọ àlejò lẹ́yìn, ṣùgbọ́n wọn a sá kúrò lọ́dọ̀ rẹ̀: nítorí tí wọn kò mọ ohùn àlejò.”
+# text_en = and a stranger will they not follow , but will flee from him : for they know not the voice of strangers .
 1	Wọn	Wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=them
 2	kò	kò	PART	_	_	3	discourse	_	Gloss=not
 3	jẹ́	jẹ́	AUX	_	_	4	aux	_	Gloss=be
@@ -966,6 +970,7 @@
 
 # sent_id = JOHN_10.6
 # text = Òwe yìí ni Jésù pa fún wọn: ṣùgbọ́n òye ohun tí nǹkan wọ̀nyí jẹ́ tí ó ń sọ fún wọn kò yé wọn.
+# text_en = this parable spake jesus unto them : but they understood not what things they were which he spake unto them .
 1	Òwe	Òwe	NOUN	_	_	3	nsubj	_	Gloss=proverb
 2	yìí	yìí	DET	_	_	1	det	_	Gloss=this
 3	ni	ni	AUX	_	_	5	aux	_	Gloss=is
@@ -994,6 +999,7 @@
 
 # sent_id = JOHN_10.7
 # text = Nítorí náà Jésù tún wí fún wọn pé, “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Èmi ni ìlẹ̀kùn àwọn àgùntàn.
+# text_en = then said jesus unto them again , verily , verily , i say unto you , i am the door of the sheep .
 1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the
 3	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus
@@ -1022,6 +1028,7 @@
 
 # sent_id = JOHN_10.8
 # text = Olè àti ọlọ́sà ni gbogbo àwọn tí ó ti wà ṣáájú mi: ṣùgbọ́n àwọn àgùntàn kò gbọ́ ti wọn.
+# text_en = all that ever came before me are thieves and robbers : but the sheep did not hear them .
 1	Olè	Olè	NOUN	_	_	4	nsubj	_	Gloss=thief
 2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and
 3	ọlọ́sà	ọlọ́sà	NOUN	_	_	1	conj	_	Gloss=robbers
@@ -1046,6 +1053,7 @@
 
 # sent_id = JOHN_10.9
 # text = Èmi ni ìlẹ̀kùn: bí ẹnìkan bá bá ọ̀dọ̀ mi wọlé, Òun ni a ó gbà là, yóò wọlé, yóò sì jáde, yóò sì rí koríko.
+# text_en = i am the door : by me if any man enter in , he shall be saved , and shall go in and out , and find pasture .
 1	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=i
 2	ni	ni	AUX	_	_	3	cop	_	Gloss=is
 3	ìlẹ̀kùn	ìlẹ̀kùn	NOUN	_	_	11	xcomp	_	SpaceAfter=No|Gloss=doors
@@ -1080,6 +1088,7 @@
 
 # sent_id = JOHN_10.10
 # text = Olè kìí wá bí kò ṣe láti jalè, láti pa, àti láti parun: èmi wá kí wọn lè ní ìyè, àní kí wọn lè ní i lọ́pọ̀lọpọ̀.
+# text_en = the thief cometh not , but for to steal , and to kill , and to destroy : i am come that they might have life , and that they might have it more abundantly .
 1	Olè	Olè	NOUN	_	_	3	nsubj	_	Gloss=thief
 2	kìí	kìí	PART	_	_	3	advmod	_	Gloss=was
 3	wá	wá	VERB	_	_	0	root	_	Gloss=come
@@ -1115,6 +1124,7 @@
 
 # sent_id = JOHN_10.11
 # text = “Èmi ni olùṣọ́ àgùntàn rere: olùṣọ́-àgùntàn rere fi ọkàn rẹ̀ lélẹ̀ nítorí àwọn àgùntàn.
+# text_en = i am the good shepherd : the good shepherd giveth his life for the sheep .
 1	“	“	PUNCT	_	_	4	punct	_	SpaceAfter=No|Gloss=“
 2	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i
 3	ni	ni	AUX	_	_	4	cop	_	Gloss=am
@@ -1137,6 +1147,7 @@
 
 # sent_id = JOHN_10.12
 # text = Ṣùgbọ́n alágbàṣe, tí kìí ṣe olùṣọ́ àgùntàn, ẹni tí àwọn àgùntàn kìí ṣe tirẹ̀, ó rí ìkokò ń bọ̀, ó sì fi àgùntàn sílẹ̀, ó sì fọ́n wọn ká kiri.
+# text_en = but he that is an hireling , and not the shepherd , whose own the sheep are not , seeth the wolf coming , and leaveth the sheep , and fleeth : and the wolf catcheth them , and scattereth the sheep .
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	2	cc	_	Gloss=but
 2	alágbàṣe	alágbàṣe	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=hired
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,
@@ -1176,6 +1187,7 @@
 
 # sent_id = JOHN_10.13
 # text = Òun sá lọ nítorí tí ó jẹ́ alágbàṣe, kò sì náání àwọn àgùntàn.
+# text_en = the hireling fleeth , because he is an hireling , and careth not for the sheep .
 1	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
 2	sá	sá	VERB	_	_	0	root	_	Gloss=fled
 3	lọ	lọ	VERB	_	_	2	xcomp	_	Gloss=go
@@ -1194,6 +1206,7 @@
 
 # sent_id = JOHN_10.16
 # text = Èmi sì ní àwọn àgùntàn mìíràn, tí kìí ṣe agbo yìí: àwọn ni èmi yóò mú wá pẹ̀lú, wọn ó sì gbọ́ ohùn mi; wọn ó sì jẹ́ agbo kan, olùsọ́-àgùntàn kan.
+# text_en = and other sheep i have , which are not of this fold : them also i must bring , and they shall hear my voice ; and there shall be one fold , and one shepherd .
 1	Èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
 3	ní	ní	VERB	_	_	0	root	_	Gloss=have
@@ -1237,6 +1250,7 @@
 
 # sent_id = JOHN_10.17
 # text = Nítorí náà ni Baba mi ṣe fẹ́ràn mi, nítorí tí mo fi ẹ̀mí mi lélẹ̀, kí èmi lè tún gbà á.
+# text_en = therefore doth my father love me , because i lay down my life , that i might take it again .
 1	Nítorí	nítorí	SCONJ	_	_	7	mark	_	Gloss=for
 2	náà	náà	ADV	_	_	7	advmod	_	Gloss=that
 3	ni	ni	AUX	_	_	7	aux	_	Gloss=is
@@ -1264,6 +1278,7 @@
 
 # sent_id = JOHN_10.18
 # text = Ẹnìkan kò gbà á lọ́wọ́ mi, ṣùgbọ́n mo fi í lélẹ̀, mo sì lágbára láti tún gbà á. Àṣẹ yìí ni mo ti gbà wá láti ọ̀dọ̀ Baba mi.”
+# text_en = no man taketh it from me , but i lay it down of myself . i have power to lay it down , and i have power to take it again . this commandment have i received of my father .
 1	Ẹnìkan	Ẹnìkan	ADJ	_	_	3	nsubj	_	Gloss=someone
 2	kò	kò	PART	_	_	3	mark	_	Gloss=not
 3	gbà	gbà	VERB	_	_	0	root	_	Gloss=take
@@ -1301,6 +1316,7 @@
 
 # sent_id = JOHN_10.19
 # text = Nítorí náà ìyapa tún wà láàrin àwọn Júù nítorí ọ̀rọ̀ wọ̀nyí.
+# text_en = there was a division therefore again among the jews for these sayings .
 1	Nítorí	nítorí	SCONJ	_	_	8	mark	_	Gloss=for
 2	náà	náà	ADV	_	_	8	advmod	_	Gloss=that
 3	ìyapa	ìyapa	NOUN	_	_	8	nsubj	_	Gloss=separation
@@ -1316,6 +1332,7 @@
 
 # sent_id = JOHN_10.20
 # text = Ọ̀pọ̀ nínú wọn sì wí pé, “Ó ní ẹ̀mí èṣù, orí rẹ̀ sì dàrú; èéṣe tí ẹ̀yin fi ń gbọ́rọ̀ rẹ̀?”
+# text_en = and many of them said , he hath a devil , and is mad ; why hear ye him ?
 1	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	3	amod	_	Gloss=many
 2	nínú	nínú	ADP	_	_	3	case	_	Gloss=among
 3	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=them
@@ -1346,6 +1363,7 @@
 
 # sent_id = JOHN_10.21
 # text = Àwọn mìíràn wí pé, “Ìwọ̀nyí kìí ṣe ọ̀rọ̀ ẹni tí ó ní ẹ̀mí èṣù. Ẹ̀mi èṣù lè la ojú àwọn afọ́jú bí?”
+# text_en = others said , these are not the words of him that hath a devil . can a devil open the eyes of the blind ?
 1	Àwọn	Àwọn	DET	_	_	3	nsubj	_	Gloss=the
 2	mìíràn	mìíràn	ADJ	_	_	1	amod	_	Gloss=other
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said
@@ -1376,6 +1394,7 @@
 
 # sent_id = JOHN_10.22
 # text = Ó sì jẹ́ àjọ̀dún ìyàsímímọ́ ní Jérúsálẹ́mù, ìgbà òtútù ni.
+# text_en = and it was at jerusalem the feast of the dedication , and it was winter .
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=it
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and
 3	jẹ́	jẹ́	AUX	_	_	0	root	_	Gloss=be
@@ -1391,6 +1410,7 @@
 
 # sent_id = JOHN_10.23
 # text = Jésù sì ń rìn ní tẹ́mpílì, ní ìloro Sólómónì,
+# text_en = and jesus walked in the temple in solomon 's porch .
 1	Jésù	jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus
 2	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and
 3	ń	ń	AUX	_	_	4	aux	_	Gloss=is
@@ -1405,6 +1425,7 @@
 
 # sent_id = JOHN_10.24
 # text = Nítorí náà àwọn Júù wá dúró yí i ká, wọ́n sì wí fún un pé, “Ìwọ ó ti mú wa ṣe iyèméjì pẹ́ tó? Bí ìwọ bá ni Kírísítì náà, wí fún wa gbangba.”
+# text_en = then came the jews round about him , and said unto him , how long dost thou make us to doubt ? if thou be the christ , tell us plainly .
 1	Nítorí	nítorí	SCONJ	_	_	4	cc	_	Gloss=for
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
@@ -1449,6 +1470,7 @@
 
 # sent_id = JOHN_10.25
 # text = Jésù dá wọn lóhùn pé, “Èmi ti wí fún yín, ẹ̀yin kò sì gbàgbọ́; iṣẹ́ tí èmi ń ṣe lórúkọ Baba mi, àwọn ni ó ń jẹ́rìí mi.
+# text_en = jesus answered them , i told you , and ye believed not : the works that i do in my father 's name , they bear witness of me .
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
 2	dá	dá	VERB	_	_	0	root	_	Gloss=made
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Gloss=them
@@ -1486,6 +1508,7 @@
 
 # sent_id = JOHN_10.26
 # text = Ṣùgbọ́n ẹ̀yin kò gbàgbọ́, nítorí ẹ̀yin kò sí nínú àwọn àgùntàn mi, gẹ́gẹ́ bí mo tí wí fún yín.
+# text_en = but ye believe not , because ye are not of my sheep , as i said unto you .
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	2	cc	_	Gloss=but
 2	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=ye
 3	kò	kò	PART	_	_	4	discourse	_	Gloss=not
@@ -1511,6 +1534,7 @@
 
 # sent_id = JOHN_10.29
 # text = Baba mi, ẹni tí ó fi wọ́n fún mi pọ̀ ju gbogbo wọn lọ; kò sì sí ẹni tí ó lè já wọn gbà kúrò lọ́wọ́ Baba mi.
+# text_en = my father , which gave them me , is greater than all ; and no man is able to pluck them out of my father 's hand .
 1	Baba	Baba	NOUN	_	_	7	nsubj	_	Gloss=father
 2	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nmod	_	SpaceAfter=No|Gloss=my
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
@@ -1545,6 +1569,7 @@
 
 # sent_id = JOHN_10.30
 # text = Ọ̀kan ni èmi àti Baba mi.”
+# text_en = i and my father are one .
 1	Ọ̀kan	Ọ̀kan	NUM	_	NumType=Card	2	nsubj	_	Gloss=one
 2	ni	ni	AUX	_	_	3	cop	_	Gloss=is
 3	èmi	èmi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=i
@@ -1556,6 +1581,7 @@
 
 # sent_id = JOHN_10.31
 # text = Àwọn Júù sì tún he òkúta, láti sọ lù ú.
+# text_en = then the jews took up stones again to stone him .
 1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the
 2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews
 3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and
@@ -1571,6 +1597,7 @@
 
 # sent_id = JOHN_10.32
 # text = Jésù dá wọn lóhùn pé, “Ọ̀pọ̀lọpọ̀ iṣẹ́ rere ni mo fi hàn yín láti ọ̀dọ̀ Baba mi wá; nítorí èwo nínú iṣẹ́ wọ̀nyí ni ẹ̀yin ṣe sọ mí ní òkúta?”
+# text_en = jesus answered them , many good works have i shewed you from my father ; for which of those works do ye stone me ?
 1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
 2	dá	dá	VERB	_	_	0	root	_	Gloss=made
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Gloss=them
@@ -1684,6 +1711,7 @@
 
 # sent_id = JOHN_10.37
 # text = Bí èmi kò bá ṣe iṣẹ́ Baba mi, ẹ má ṣe gbà mí gbọ́.
+# text_en = if i do not the works of my father , believe me not .
 1	Bí	Bí	SCONJ	_	_	5	mark	_	Gloss=if
 2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=i
 3	kò	kò	PART	_	_	5	discourse	_	Gloss=not
@@ -1703,6 +1731,7 @@
 
 # sent_id = JOHN_10.38
 # text = Ṣùgbọ́n bí èmi bá ṣe wọ́n, bí ẹ̀yin kò tilẹ̀ gbà mí gbọ́, ẹ gbà iṣẹ́ náà gbọ́: kí ẹ̀yin baà lè mọ̀, kí ó sì lè yé yín pé, Baba wà nínú mi, èmi sì wà nínú rẹ̀.”
+# text_en = but if i do , though ye believe not me , believe the works : that ye may know , and believe , that the father is in me , and i in him .
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but
 2	bí	bí	SCONJ	_	_	5	mark	_	Gloss=if
 3	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=i
@@ -1753,6 +1782,7 @@
 
 # sent_id = JOHN_10.39
 # text = Wọ́n sì tún ń wá ọ̀nà láti mú un: ó sì bọ́ lọ́wọ́ wọn.
+# text_en = therefore they sought again to take him : but he escaped out of their hand ,
 1	Wọ́n	Wọ́n	VERB	_	_	5	nsubj	_	Gloss=they
 2	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then
 3	tún	tún	ADV	_	_	5	advmod	_	Gloss=again
@@ -1772,6 +1802,7 @@
 
 # sent_id = JOHN_10.41
 # text = Àwọn ènìyàn púpọ̀ sì wá sọ́dọ̀ rẹ̀, wọ́n sì wí pé, “Jòhánù kò ṣe iṣẹ́ àmì kan: Ṣùgbọ́n òtítọ́ ni ohun gbogbo tí Jòhánù sọ nípa ti ọkùnrin yìí.”
+# text_en = and many resorted unto him , and said , john did no miracle : but all things that john spake of this man were true .
 1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the
 2	ènìyàn	ènìyàn	NOUN	_	_	5	nsubj	_	Gloss=people
 3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many
@@ -1810,6 +1841,7 @@
 
 # sent_id = JOHN_10.42
 # text = Àwọn ènìyàn púpọ̀ níbẹ̀ sì gbàágbọ́.
+# text_en = and many believed on him there .
 1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the
 2	ènìyàn	ènìyàn	NOUN	_	_	6	nsubj	_	Gloss=people
 3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many
@@ -1847,6 +1879,7 @@
 
 # sent_id = JOHN_11.2
 # text = (Màríà náà ni ẹni tí ó fi òróró ìkunra kun Olúwa, tí ó sì fi irun orí rẹ̀ nù ún, arákùnrin rẹ̀ ni Lásárù í ṣe, ara ẹni tí kò dá.)
+# text_en = ( it was that mary which anointed the lord with ointment , and wiped his feet with her hair , whose brother lazarus was sick . )
 1	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No|Gloss=(
 2	Màríà	Màríà	PROPN	_	_	4	nsubj	_	Gloss=mary
 3	náà	náà	DET	_	_	2	det	_	Gloss=the
@@ -1887,6 +1920,7 @@
 
 # sent_id = JOHN_11.3
 # text = Nítorí náà, àwọn arákùnrin rẹ̀ ránsẹ́ sí i, wí pé, “Olúwa, wò ó, ara ẹni tí ìwọ fẹ́ràn kò dá.”
+# text_en = therefore his sisters sent unto him , saying , lord , behold , he whom thou lovest is sick .
 1	Nítorí	Nítorí	ADV	_	_	7	advmod	_	Gloss=for
 2	náà	náà	ADV	_	_	7	advmod	_	SpaceAfter=No|Gloss=the
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
@@ -1955,6 +1989,7 @@
 
 # sent_id = JOHN_11.10
 # text = Ṣùgbọ́n bí ẹnìkan bá rìn ní òru, yóò kọsẹ̀, nítorí tí kò sí ìmọ́lẹ̀ nínú rẹ̀.”
+# text_en = but if a man walk in the night , he stumbleth , because there is no light in him .
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but
 2	bí	bí	SCONJ	_	_	5	mark	_	Gloss=if
 3	ẹnìkan	ẹnìkan	ADJ	_	_	5	nsubj	_	Gloss=man
@@ -1978,6 +2013,7 @@
 
 # sent_id = JOHN_11.11
 # text = Nǹkan wọ̀nyí ni ó sọ: lẹ́yìn èyí nì ó sì wí fún wọn pé, “Lásárù ọ̀rẹ́ wa sùn; ṣùgbọ́n èmi ń lọ kí èmi kí ó lè jí i dìde nínú orun rẹ̀.”
+# text_en = these things said he : and after that he saith unto them , our friend lazarus sleepeth ; but i go , that i may awake him out of sleep .
 1	Nǹkan	Nǹkan	NOUN	_	_	5	nsubj	_	Gloss=things
 2	wọ̀nyí	wọ̀nyí	DET	_	_	1	det	_	Gloss=these
 3	ni	ni	AUX	_	_	5	aux	_	Gloss=is
@@ -2020,6 +2056,7 @@
 
 # sent_id = JOHN_11.12
 # text = Nítorí náà àwọn ọmọ-ẹ̀yìn rẹ̀ wí fún un pé, “Olúwa, bí ó bá se pé ó sùn, yóò sàn.”
+# text_en = then said his disciples , lord , if he sleep , he shall do well .
 1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	Gloss=for
 2	náà	náà	ADV	_	_	8	advmod	_	Gloss=that
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=his
@@ -2050,6 +2087,7 @@
 
 # sent_id = JOHN_11.13
 # text = Ṣùgbọ́n Jésù ń sọ ti ikú rẹ̀: ṣùgbọ́n wọ́n rò pé, ó ń sọ ti orun sísùn.
+# text_en = howbeit jesus spake of his death : but they thought that he had spoken of taking of rest in sleep .
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	4	cc	_	Gloss=but
 2	Jésù	Jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus
 3	ń	ń	AUX	_	_	4	aux	_	Gloss=is
@@ -2073,6 +2111,7 @@
 
 # sent_id = JOHN_11.14
 # text = Nígbà náà ni Jésù wí fún wọn gbangba pé, Lásárù kú,
+# text_en = then said jesus unto them plainly , lazarus is dead .
 1	Nígbà	Nígbà	SCONJ	_	_	5	mark	_	Gloss=when
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the
 3	ni	ni	AUX	_	_	5	aux	_	Gloss=is
@@ -2089,6 +2128,7 @@
 
 # sent_id = JOHN_11.15
 # text = Èmi sì yọ̀ nítorí yín, tí èmi kò sí níbẹ̀, Kí ẹ le gbàgbọ́; ṣùgbọ́n ẹ jẹ́ kí a lọ sọ́dọ̀ rẹ̀.
+# text_en = and i am glad for your sakes that i was not there , to the intent ye may believe ; nevertheless let us go unto him .
 1	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
 3	yọ̀	yọ̀	VERB	_	_	0	root	_	Gloss=rejoice
@@ -2118,6 +2158,7 @@
 
 # sent_id = JOHN_11.16
 # text = “Nítorí náà Tómásì, ẹni tí à ń pè ní Dídímù, wí fún àwọn ọmọ-ẹ̀yìn ẹgbẹ́ rẹ̀ pé, Ẹ jẹ́ kí àwa náà lọ, kí a lè bá a kú pẹ̀lú.”
+# text_en = then said thomas , which is called didymus , unto his fellowdisciples , let us also go , that we may die with him .
 1	“	“	PUNCT	_	_	10	punct	_	SpaceAfter=No|Gloss=“
 2	Nítorí	nítorí	SCONJ	_	_	10	mark	_	Gloss=for
 3	náà	náà	ADV	_	_	10	advmod	_	Gloss=that
@@ -2160,6 +2201,7 @@
 
 # sent_id = JOHN_11.17
 # text = Nítorí náà nígbà tí Jésù dé, ó rí i pé a ti tẹ́ ẹ sínú ibojì ní ijọ́ mẹ́rin ná,
+# text_en = then when jesus came , he found that he had lain in the grave four days already .
 1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that
 3	nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when
@@ -2276,6 +2318,7 @@
 
 # sent_id = JOHN_11.23
 # text = Jésù wí fún un pé, “Arákùnrin rẹ yóò jíǹde.”
+# text_en = jesus saith unto her , thy brother shall rise again .
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto
@@ -2312,6 +2355,7 @@
 
 # sent_id = JOHN_11.25
 # text = Jésù wí fún un pé, “Èmi ni àjíǹde àti ìyè: ẹni tí ó bá gbà mí gbọ́, bí ó tilẹ̀ kú, yóò yè:
+# text_en = jesus said unto her , i am the resurrection , and the life : he that believeth in me , though he were dead , yet shall he live :
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto
@@ -2344,6 +2388,7 @@
 
 # sent_id = JOHN_11.26
 # text = Ẹnikẹ́ni tí ó ń bẹ láàyè, tí ó sì gbà mí gbọ́, kì yóò kú láéláé ìwọ gbà èyí gbọ́?”
+# text_en = and whosoever liveth and believeth in me shall never die . believest thou this ?
 1	Ẹnikẹ́ni	ẹnikẹ́ni	ADJ	_	_	5	nsubj	_	Gloss=whosoever
 2	tí	tí	PRON	_	PronType=Rel	5	mark	_	Gloss=that
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=he
@@ -2371,6 +2416,7 @@
 
 # sent_id = JOHN_11.27
 # text = Ó wí fún un pé, “Bẹ́ẹ̀ ni, Olúwa: èmi gbàgbọ́ pé, ìwọ ni Kírísítì náà Ọmọ Ọlọ́run, ẹni tí ń bọ̀ wá sí ayé.”
+# text_en = she saith unto him , yea , lord : i believe that thou art the christ , the son of god , which should come into the world .
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto
@@ -2442,6 +2488,7 @@
 
 # sent_id = JOHN_11.29
 # text = Nígbà tí ó gbọ́, ó dìde lọ́gán, ó sì wá sọ́dọ̀ rẹ̀.
+# text_en = as soon as she heard that , she arose quickly , and came unto him .
 1	Nígbà	nígbà	ADV	_	_	4	advmod	_	Gloss=when
 2	tí	tí	PRON	_	PronType=Rel	4	mark	_	Gloss=that
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=she
@@ -2482,6 +2529,7 @@
 
 # sent_id = JOHN_11.31
 # text = Nígbà tí àwọn Júù tí ó wà lọ́dọ̀ rẹ̀ nínú ilé, tí wọ́n ń tù ú nínú rí Màríà tí ó dìde kánkán, tí ó sì jáde, wọ́n tẹ̀lé, wọ́n ṣebí ó ń lọ sí ibojì láti sọkún níbẹ̀.
+# text_en = the jews then which were with her in the house , and comforted her , when they saw mary , that she rose up hastily and went out , followed her , saying , she goeth unto the grave to weep there .
 1	Nígbà	nígbà	ADV	_	_	4	advmod	_	Gloss=when
 2	tí	tí	PRON	_	PronType=Rel	4	mark	_	Gloss=that
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
@@ -2529,6 +2577,7 @@
 
 # sent_id = JOHN_11.32
 # text = Nígbà tí Màríà sì dé ibi tí Jésù wà, tí ó sì rí i, ó wólẹ̀ lẹ́bàá ẹsẹ̀ rẹ̀, ó wí fún un pé, “Olúwa, ìbáṣe pé ìwọ ti wà níhín-ín, arákùnrin mi kì bá kú.”
+# text_en = then when mary was come where jesus was , and saw him , she fell down at his feet , saying unto him , lord , if thou hadst been here , my brother had not died .
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when
 2	tí	tí	PRON	_	PronType=Rel	5	mark	_	Gloss=that
 3	Màríà	màríà	PROPN	_	_	5	nsubj	_	Gloss=mary
@@ -2577,6 +2626,7 @@
 
 # sent_id = JOHN_11.34
 # text = Ó sì wí pé, “Níbo ni ẹ̀yin gbé tẹ́ ẹ sí?” Wọ́n sì wí fún un pé, “Olúwa, wá wò ó.”
+# text_en = and said , where have ye laid him ? they said unto him , lord , come and see .
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said
@@ -2610,12 +2660,14 @@
 
 # sent_id = JOHN_11.35
 # text = Jésù sọkún.
+# text_en = jesus wept .
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
 2	sọkún	sọkún	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=weep
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = JOHN_11.36
 # text = Nítorí náà àwọn Júù wí pé, “Sá wò ó bí ó ti fẹ́ràn rẹ̀ tó!”
+# text_en = then said the jews , behold how he loved him !
 1	Nítorí	nítorí	ADV	_	_	5	advmod	_	Gloss=for
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
@@ -2638,6 +2690,7 @@
 
 # sent_id = JOHN_11.37
 # text = Àwọn kan nínú wọn sì wí pé, “Ọkùnrin yìí, ẹni tí ó la ojú afọ́jú, kò lè ṣeé kí ọkùnrin yìí má kú bí?”
+# text_en = and some of them said , could not this man , which opened the eyes of the blind , have caused that even this man should not have died ?
 1	Àwọn	àwọn	PRON	_	PronType=Ind	6	nsubj	_	Gloss=some
 2	kan	kan	NUM	_	NumType=Card	1	nummod	_	Gloss=a
 3	nínú	nínú	ADP	_	_	4	case	_	Gloss=in
@@ -2671,6 +2724,7 @@
 
 # sent_id = JOHN_11.38
 # text = Nígbà náà ni Jésù tún kérora nínú ara rẹ̀, ó wá sí ibojì, ó sì jẹ́ ihò, a sì gbé òkúta lé ẹnu rẹ̀.
+# text_en = jesus therefore again groaning in himself cometh to the grave . it was a cave , and a stone lay upon it .
 1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that
 3	ni	ni	AUX	_	_	6	aux	_	Gloss=is
@@ -2702,6 +2756,7 @@
 
 # sent_id = JOHN_11.39
 # text = Jésù wí pé, “Ẹ gbé òkúta náà kúrò!” Màtá, arábìnrin ẹni tí ó kú náà wí fún un pé, “Olúwa, ó ti ń rùn nísinsin yìí: nítorí pé ó di ijọ́ kẹrin tí ó tí kú.”
+# text_en = jesus said , take ye away the stone . martha , the sister of him that was dead , saith unto him , lord , by this time he stinketh : for he hath been dead four days .
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said
 3	pé	pé	SCONJ	_	_	7	mark	_	SpaceAfter=No|Gloss=that
@@ -2752,6 +2807,7 @@
 
 # sent_id = JOHN_11.40
 # text = Jésù wí fún un pé, “Èmi kò ti wí fún ọ pé, bí ìwọ bá gbàgbọ́, ìwọ ó rí ògo Ọlọ́run?”
+# text_en = jesus saith unto her , said i not unto thee , that , if thou wouldest believe , thou shouldest see the glory of god ?
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto
@@ -2782,6 +2838,7 @@
 
 # sent_id = JOHN_11.41
 # text = Nígbà náà ni wọ́n gbé òkúta náà kúrò (níbi tí a tẹ́ ẹ sí). Jésù sì gbé ojú rẹ̀ sókè, ó sì wí pé, “Baba, mo dúpẹ́ lọ́wọ́ rẹ nítorí tí ìwọ gbọ́ tèmi.
+# text_en = then they took away the stone from the place where the dead was laid . and jesus lifted up his eyes , and said , father , i thank thee that thou hast heard me .
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that
 3	ni	ni	AUX	_	_	5	aux	_	Gloss=is
@@ -2827,6 +2884,7 @@
 
 # sent_id = JOHN_11.42
 # text = Èmi sì ti mọ̀ pé, ìwọ a máa gbọ́ ti èmi nígbà gbogbo: ṣùgbọ́n nítorí ìjọ ènìyàn tí ó dúró yìí ni mo ṣe wí i, kí wọn baà lè gbàgbọ́ pé ìwọ ni ó rán mi.”
+# text_en = and i knew that thou hearest me always : but because of the people which stand by i said it , that they may believe that thou hast sent me .
 1	Èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=i
 2	sì	sì	CCONJ	_	_	4	cc	_	Gloss=then
 3	ti	ti	AUX	_	_	4	aux	_	Gloss=have
@@ -2872,6 +2930,7 @@
 
 # sent_id = JOHN_11.43
 # text = Nígbà tí ó sì wí bẹ́ẹ̀ tan, ó kígbe lóhùn rara pé, “Lásárù, jáde wá.”
+# text_en = and when he thus had spoken , he cried with a loud voice , lazarus , come forth .
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when
 2	tí	tí	PRON	_	PronType=Rel	5	mark	_	Gloss=that
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he
@@ -2896,6 +2955,7 @@
 
 # sent_id = JOHN_11.44
 # text = Ẹni tí ó kú náà sì jáde wá, tí a fi aṣọ òkú dì tọwọ́ tẹsẹ̀ a sì fi gèlè dì í lójú. Jésù wí fún wọn pé, “Ẹ tú u, ẹ sì jẹ́ kí ó má a lọ!”
+# text_en = and he that was dead came forth , bound hand and foot with graveclothes : and his face was bound about with a napkin . jesus saith unto them , loose him , and let him go .
 1	Ẹni	ẹni	PRON	_	PronType=Ind	4	nsubj	_	Gloss=someone
 2	tí	tí	PRON	_	PronType=Rel	4	mark	_	Gloss=that
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl	_	Gloss=has
@@ -2945,6 +3005,7 @@
 
 # sent_id = JOHN_11.45
 # text = Nítorí náà ni ọ̀pọ̀ àwọn Júù tí ó wá sọ́dọ̀ Màríà, tí wọ́n rí ohun tí Jésù ṣe, ṣe gbà á gbọ́.
+# text_en = then many of the jews which came to mary , and had seen the things which jesus did , believed on him .
 1	Nítorí	nítorí	ADV	_	_	9	advmod	_	Gloss=for
 2	náà	náà	ADV	_	_	9	advcl	_	Gloss=that
 3	ni	ni	AUX	_	_	9	aux	_	Gloss=is
@@ -2973,6 +3034,7 @@
 
 # sent_id = JOHN_11.46
 # text = Ṣùgbọ́n àwọn ẹlòmíràn nínú wọn tọ àwọn Farisí lọ, wọ́n sì sọ fún wọn ohun tí Jésù ṣe.
+# text_en = but some of them went their ways to the pharisees , and told them what things jesus had done .
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	6	cc	_	Gloss=but
 2	àwọn	àwọn	DET	_	_	3	det	_	Gloss=the
 3	ẹlòmíràn	ẹlòmíràn	ADJ	_	_	6	nsubj	_	Gloss=others
