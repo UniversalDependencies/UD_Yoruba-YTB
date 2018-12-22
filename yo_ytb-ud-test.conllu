@@ -52,19 +52,19 @@
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.3
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.3
 4	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=GEN_1.3|SpaceAfter=No
-5	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=GEN_1.3
-6	“	“	PUNCT	_	_	9	punct	_	Gloss=“|Ref=GEN_1.3|SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.3
+6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.3|SpaceAfter=No
 7	Jẹ́	jẹ́	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
-8	kí	kí	X	_	_	12	aux	_	Gloss=|Ref=GEN_1.3
+8	kí	kí	AUX	_	_	12	aux	_	Gloss=|Ref=GEN_1.3
 9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	12	nsubj	_	Gloss=light|Ref=GEN_1.3
 10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he|Ref=GEN_1.3
-12	wà	wà	AUX	_	_	3	xcomp	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
-13	,	,	PUNCT	_	_	3	punct	_	Gloss=,|Ref=GEN_1.3|SpaceAfter=No
-14	”	”	PUNCT	_	_	17	punct	_	Gloss=”|Ref=GEN_1.3
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.3
+12	wà	wà	AUX	_	_	3	ccomp	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.3|SpaceAfter=No
+14	”	”	PUNCT	_	_	12	punct	_	Gloss=”|Ref=GEN_1.3
 15	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	17	nsubj	_	Gloss=light|Ref=GEN_1.3
 16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.3
-17	wà	wà	VERB	_	_	3	xcomp	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
+17	wà	wà	VERB	_	_	3	conj	_	Gloss=was|Ref=GEN_1.3|SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.3
 
 # sent_id = GEN_1.4
