@@ -659,7 +659,7 @@
 # sent_id = GEN_1.23
 # text = Àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kárùn-ún.
 # text_en = And the evening and the morning were the fifth day.
-1	Àsálẹ́	àsálẹ́	NOUN	_	_	4	nsubj	_	Gloss=evening|Ref=GEN_1.23
+1	Àsálẹ́	àsálẹ́	NOUN	_	_	5	nsubj	_	Gloss=evening|Ref=GEN_1.23
 2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.23
 3	òwúrọ̀	òwúrọ̀	ADV	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.23
 4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be|Ref=GEN_1.23
@@ -674,43 +674,43 @@
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.24
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.24
 4	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that|Ref=GEN_1.24|SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	Gloss=,|Ref=GEN_1.24
-6	“	“	PUNCT	_	_	8	punct	_	Gloss=“|Ref=GEN_1.24|SpaceAfter=No
+5	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=GEN_1.24
+6	“	“	PUNCT	_	_	11	punct	_	Gloss=“|Ref=GEN_1.24|SpaceAfter=No
 7	Kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.24
 8	ilẹ̀	ilẹ̀	NOUN	_	_	11	nsubj	_	Gloss=land|Ref=GEN_1.24
 9	kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.24
-10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he|Ref=GEN_1.24
-11	mú	mú	VERB	_	_	3	csubj	_	Gloss=brought|Ref=GEN_1.24
-12	ohun	ohun	PRON	_	_	13	nmod	_	Gloss=things|Ref=GEN_1.24
-13	alààyè	alààyè	NOUN	_	_	11	obj	_	Gloss=living|Ref=GEN_1.24
-14	jáde	jáde	ADP	_	_	13	case	_	Gloss=out|Ref=GEN_1.24
+10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	expl	_	Gloss=he|Ref=GEN_1.24
+11	mú	mú	VERB	_	_	3	ccomp	_	Gloss=brought|Ref=GEN_1.24
+12	ohun	ohun	PRON	_	_	11	obj	_	Gloss=things|Ref=GEN_1.24
+13	alààyè	alààyè	NOUN	_	_	12	nmod	_	Gloss=living|Ref=GEN_1.24
+14	jáde	jáde	ADP	_	_	12	case	_	Gloss=out|Ref=GEN_1.24
 15	ní	ní	ADP	_	_	17	case	_	Gloss=in|Ref=GEN_1.24
 16	onírúurú	onírúurú	ADV	_	_	17	advmod	_	Gloss=various|Ref=GEN_1.24
 17	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obl	_	Gloss=them|Ref=GEN_1.24|SpaceAfter=No
 18	:	:	PUNCT	_	_	19	punct	_	Gloss=:|Ref=GEN_1.24
-19	ẹran	ẹran	NOUN	_	_	11	xcomp	_	Gloss=flesh|Ref=GEN_1.24
+19	ẹran	ẹran	NOUN	_	_	12	appos	_	Gloss=flesh|Ref=GEN_1.24
 20	ọ̀sìn	ọ̀sìn	NOUN	_	_	19	nmod	_	Gloss=cattle|Ref=GEN_1.24|SpaceAfter=No
-21	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.24
-22	àwọn	à	SCONJ	_	_	24	det	_	Gloss=the|Ref=GEN_1.24
-23	ohun	ohun	PRON	_	_	24	nmod	_	Gloss=things|Ref=GEN_1.24
-24	afàyàfà	afàyàfà	NOUN	_	_	11	xcomp	_	Gloss=creepeth|Ref=GEN_1.24
+21	,	,	PUNCT	_	_	23	punct	_	Gloss=,|Ref=GEN_1.24
+22	àwọn	à	PRON	_	_	23	det	_	Gloss=the|Ref=GEN_1.24
+23	ohun	ohun	PRON	_	_	19	conj	_	Gloss=things|Ref=GEN_1.24
+24	afàyàfà	afàyàfà	NOUN	_	_	23	nmod	_	Gloss=creepeth|Ref=GEN_1.24
 25	àti	àti	CCONJ	_	_	27	cc	_	Gloss=and|Ref=GEN_1.24
 26	àwọn	àwọn	DET	_	_	27	det	_	Gloss=the|Ref=GEN_1.24
-27	ẹran	ẹran	NOUN	_	_	24	conj	_	Gloss=flesh|Ref=GEN_1.24
+27	ẹran	ẹran	NOUN	_	_	19	conj	_	Gloss=flesh|Ref=GEN_1.24
 28	inú	inú	ADP	_	_	29	case	_	Gloss=of|Ref=GEN_1.24
 29	igbó	igbó	NOUN	_	_	27	nmod	_	SpaceAfter=No|Gloss=bush|Ref=GEN_1.24
 30	,	,	PUNCT	_	_	34	punct	_	Gloss=,|Ref=GEN_1.24
-31	ọ̀kọ̀ọ̀kan	ọ̀kọ̀ọ̀kan	ADJ	_	_	34	amod	_	Gloss=each|Ref=GEN_1.24
+31	ọ̀kọ̀ọ̀kan	ọ̀kọ̀ọ̀kan	ADJ	_	_	34	nsubj	_	Gloss=each|Ref=GEN_1.24
 32	ní	ní	ADP	_	_	34	case	_	Gloss=in|Ref=GEN_1.24
 33	irú	irú	ADJ	_	_	34	amod	_	Gloss=such|Ref=GEN_1.24
-34	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	xcomp	_	SpaceAfter=No|Gloss=its|Ref=GEN_1.24
-35	.	.	PUNCT	_	_	39	punct	_	SpaceAfter=No|Gloss=.|Ref=GEN_1.24
-36	”	”	PUNCT	_	_	39	punct	_	Gloss=”|Ref=GEN_1.24
+34	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	advcl	_	SpaceAfter=No|Gloss=its|Ref=GEN_1.24
+35	.	.	PUNCT	_	_	11	punct	_	SpaceAfter=No|Gloss=.|Ref=GEN_1.24
+36	”	”	PUNCT	_	_	11	punct	_	Gloss=”|Ref=GEN_1.24
 37	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	39	nsubj	_	Gloss=it|Ref=GEN_1.24
 38	sì	sì	CCONJ	_	_	39	cc	_	Gloss=then|Ref=GEN_1.24
-39	rí	rí	VERB	_	_	11	ccomp	_	Gloss=be|Ref=GEN_1.24
+39	rí	rí	VERB	_	_	3	ccomp	_	Gloss=be|Ref=GEN_1.24
 40	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	39	advmod	_	SpaceAfter=No|Gloss=so|Ref=GEN_1.24
-41	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.24
+41	.	.	PUNCT	_	_	39	punct	_	Gloss=.|Ref=GEN_1.24
 
 # sent_id = GEN_1.25
 # text = Ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀. Ọlọ́run sì rí i pé ó dára.
