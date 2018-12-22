@@ -317,7 +317,7 @@
 4	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=herb|Ref=GEN_1.12
 5	:	:	PUNCT	_	_	10	punct	_	Gloss=:|Ref=GEN_1.12
 6	ewéko	ewéko	NOUN	_	_	10	nsubj	_	Gloss=herb|Ref=GEN_1.12
-7	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=GEN_1.12
+7	tí	tí	PRON	_	PronType=Rel	10	expl	_	Gloss=that|Ref=GEN_1.12
 8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=is|Ref=GEN_1.12
 9	ń	ń	AUX	_	_	10	aux	_	Gloss=that|Ref=GEN_1.12
 10	so	so	VERB	_	_	3	conj	_	Gloss=bear|Ref=GEN_1.12
@@ -387,7 +387,7 @@
 21	àti	àti	CCONJ	_	_	22	cc	_	Gloss=and|Ref=GEN_1.14
 22	òru	òru	NOUN	_	_	20	conj	_	Gloss=night|Ref=GEN_1.14|SpaceAfter=No
 23	,	,	PUNCT	_	_	29	punct	_	Gloss=,|Ref=GEN_1.14
-24	kí	kí	SCONJ	_	_	29	aux	_	Gloss=let|Ref=GEN_1.14
+24	kí	kí	AUX	_	_	29	aux	_	Gloss=let|Ref=GEN_1.14
 25	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	Gloss=them|Ref=GEN_1.14
 26	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nmod	_	Gloss=|Ref=GEN_1.14
 27	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=GEN_1.14
@@ -451,7 +451,7 @@
 12	tóbi	tóbi	ADJ	_	_	9	acl	_	Gloss=great|Ref=GEN_1.16
 13	láti	láti	ADP	_	_	14	case	_	Gloss=to|Ref=GEN_1.16
 14	ṣe	ṣe	VERB	_	_	9	acl	_	Gloss=do|Ref=GEN_1.16
-15	àkóso	àkóso	NOUN	_	_	14	compound:lvc	_	Gloss=rule|Ref=GEN_1.16
+15	àkóso	àkóso	NOUN	_	_	14	compound	_	Gloss=rule|Ref=GEN_1.16
 16	ọ̀sán	ọ̀sán	NOUN	_	_	14	obj	_	Gloss=day|Ref=GEN_1.16
 17	àti	àti	CCONJ	_	_	18	cc	_	Gloss=and|Ref=GEN_1.16
 18	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	9	conj	_	Gloss=light|Ref=GEN_1.16
@@ -460,13 +460,13 @@
 21	kéré	kéré	ADJ	_	_	18	acl	_	Gloss=least|Ref=GEN_1.16
 22	láti	láti	ADP	_	_	23	case	_	Gloss=to|Ref=GEN_1.16
 23	ṣe	ṣe	VERB	_	_	18	acl	_	Gloss=do|Ref=GEN_1.16
-24	àkóso	àkóso	NOUN	_	_	23	compound:lvc	_	Gloss=rule|Ref=GEN_1.16
+24	àkóso	àkóso	NOUN	_	_	23	compound	_	Gloss=rule|Ref=GEN_1.16
 25	òru	òru	NOUN	_	_	23	obj	_	Gloss=night|Ref=GEN_1.16|SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=GEN_1.16
 27	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	Gloss=he|Ref=GEN_1.16
 28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=GEN_1.16
 29	dá	dá	VERB	_	_	2	parataxis	_	Gloss=made|Ref=GEN_1.16
-30	àwọn	à	SCONJ	_	_	31	det	_	Gloss=the|Ref=GEN_1.16
+30	àwọn	à	DET	_	_	31	det	_	Gloss=the|Ref=GEN_1.16
 31	ìràwọ̀	ìràwọ̀	NOUN	_	_	29	obj	_	Gloss=stars|Ref=GEN_1.16
 32	pẹ̀lú	pẹ̀lú	ADP	_	_	31	case	_	SpaceAfter=No|Gloss=with|Ref=GEN_1.16
 33	.	.	PUNCT	_	_	29	punct	_	Gloss=.|Ref=GEN_1.16
@@ -478,43 +478,43 @@
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.17
 3	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=GEN_1.17
 4	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	3	obj	_	Gloss=them|Ref=GEN_1.17
-5	lọ́jọ̀	lọ́jọ̀	VERB	_	_	4	acl	_	Gloss=preserve|Ref=GEN_1.17
+5	lọ́jọ̀	lọ́jọ̀	VERB	_	_	3	xcomp	_	Gloss=preserve|Ref=GEN_1.17
 6	sí	sí	ADP	_	_	7	case	_	Gloss=to|Ref=GEN_1.17
-7	ojú	ojú	NOUN	_	_	11	nsubj	_	Gloss=face|Ref=GEN_1.17
+7	ojú	ojú	NOUN	_	_	5	obl	_	Gloss=face|Ref=GEN_1.17
 8	ọ̀run	ọ̀run	NOUN	_	_	7	nmod	_	Gloss=heaven|Ref=GEN_1.17
-9	láti	láti	ADP	_	_	12	case	_	Gloss=to|Ref=GEN_1.17
+9	láti	láti	ADP	_	_	11	case	_	Gloss=to|Ref=GEN_1.17
 10	máa	máa	AUX	_	_	11	aux	_	Gloss=be|Ref=GEN_1.17
-11	tan	tan	VERB	_	_	3	ccomp	_	Gloss=shine|Ref=GEN_1.17
+11	tan	tan	VERB	_	_	3	advcl	_	Gloss=shine|Ref=GEN_1.17
 12	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	obj	_	Gloss=light|Ref=GEN_1.17
 13	si	si	ADP	_	_	14	case	_	Gloss=and|Ref=GEN_1.17
-14	orí	orí	NOUN	_	_	11	xcomp	_	Gloss=on|Ref=GEN_1.17
-15	ilẹ̀	ilẹ̀	NOUN	_	_	14	compound	_	Gloss=land|Ref=GEN_1.17|SpaceAfter=No
+14	orí	orí	NOUN	_	_	11	obl	_	Gloss=on|Ref=GEN_1.17
+15	ilẹ̀	ilẹ̀	NOUN	_	_	14	nmod	_	Gloss=land|Ref=GEN_1.17|SpaceAfter=No
 16	,	,	PUNCT	_	_	3	punct	_	Gloss=,|Ref=GEN_1.17
 
 # sent_id = GEN_1.18
 # text = láti ṣàkóso ọ̀sán àti òru àti láti pààlà sí àárin ìmọ́lẹ̀ àti òkùnkùn: Ọlọ́run sì rí i pé ó dára.
 # text_en = And to rule over the day and over the night, and to divide the light from the darkness: and god saw that it was good.
-1	láti	láti	ADP	_	_	3	case	_	Gloss=to|Ref=GEN_1.18
+1	láti	láti	ADP	_	_	2	case	_	Gloss=to|Ref=GEN_1.18
 2	ṣàkóso	ṣàkóso	VERB	_	_	0	root	_	Gloss=rule|Ref=GEN_1.18
 3	ọ̀sán	ọ̀sán	NOUN	_	_	2	obj	_	Gloss=day|Ref=GEN_1.18
 4	àti	àti	CCONJ	_	_	5	cc	_	Gloss=and|Ref=GEN_1.18
 5	òru	òru	NOUN	_	_	3	conj	_	Gloss=night|Ref=GEN_1.18
-6	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.18
-7	láti	láti	ADP	_	_	11	case	_	Gloss=to|Ref=GEN_1.18
-8	pààlà	pààlà	VERB	_	_	2	csubj	_	Gloss=demacate|Ref=GEN_1.18
-9	sí	sí	ADP	_	_	10	case	_	Gloss=to|Ref=GEN_1.18
+6	àti	àti	CCONJ	_	_	8	cc	_	Gloss=and|Ref=GEN_1.18
+7	láti	láti	ADP	_	_	8	case	_	Gloss=to|Ref=GEN_1.18
+8	pààlà	pààlà	VERB	_	_	2	conj	_	Gloss=demacate|Ref=GEN_1.18
+9	sí	sí	ADP	_	_	11	case	_	Gloss=to|Ref=GEN_1.18
 10	àárin	àárin	ADP	_	_	11	case	_	Gloss=midst|Ref=GEN_1.18
-11	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	8	obj	_	Gloss=light|Ref=GEN_1.18
+11	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	8	obl	_	Gloss=light|Ref=GEN_1.18
 12	àti	àti	CCONJ	_	_	13	cc	_	Gloss=and|Ref=GEN_1.18
 13	òkùnkùn	òkùnkùn	NOUN	_	_	11	conj	_	Gloss=darkness|Ref=GEN_1.18|SpaceAfter=No
-14	:	:	PUNCT	_	_	15	punct	_	Gloss=:|Ref=GEN_1.18
+14	:	:	PUNCT	_	_	17	punct	_	Gloss=:|Ref=GEN_1.18
 15	Ọlọ́run	ọlọ́run	NOUN	_	_	17	nsubj	_	Gloss=god|Ref=GEN_1.18
 16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.18
-17	rí	rí	VERB	_	_	8	ccomp	_	Gloss=saw|Ref=GEN_1.18
-18	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	17	goeswith	_	Gloss=it|Ref=GEN_1.18
+17	rí	rí	VERB	_	_	2	parataxis	_	Gloss=saw|Ref=GEN_1.18
+18	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=it|Ref=GEN_1.18
 19	pé	pé	SCONJ	_	_	21	mark	_	Gloss=that|Ref=GEN_1.18
 20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Gloss=it|Ref=GEN_1.18
-21	dára	dára	ADJ	_	_	17	xcomp	_	Gloss=good|Ref=GEN_1.18|SpaceAfter=No
+21	dára	dára	ADJ	_	_	18	acl	_	Gloss=good|Ref=GEN_1.18|SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=GEN_1.18
 
 # sent_id = GEN_1.19
