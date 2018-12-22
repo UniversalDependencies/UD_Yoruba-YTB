@@ -541,25 +541,25 @@
 8	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.20
 9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water|Ref=GEN_1.20
 10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.20
-11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he|Ref=GEN_1.20
-12	kún	kún	VERB	_	_	3	csubj	_	Gloss=full|Ref=GEN_1.20
+11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.20
+12	kún	kún	VERB	_	_	3	ccomp	_	Gloss=full|Ref=GEN_1.20
 13	fún	fún	ADP	_	_	15	case	_	Gloss=unto|Ref=GEN_1.20
 14	àwọn	àwọn	PRON	_	PronType=Ind	15	det	_	Gloss=them|Ref=GEN_1.20
-15	ohun	ohun	PRON	_	_	16	nmod	_	Gloss=things|Ref=GEN_1.20
-16	alààyè	alààyè	NOUN	_	_	12	obj	_	Gloss=living|Ref=GEN_1.20|SpaceAfter=No
-17	,	,	PUNCT	_	_	21	punct	_	Gloss=,|Ref=GEN_1.20
-18	kí	kí	SCONJ	_	_	26	mark	_	Gloss=let|Ref=GEN_1.20
-19	àwọn	àwọn	DET	_	_	21	det	_	Gloss=the|Ref=GEN_1.20
-20	ẹyẹ	ẹyẹ	NOUN	_	_	26	nsubj	_	Gloss=birds|Ref=GEN_1.20
-21	kí	kí	SCONJ	_	_	26	aux	_	Gloss=let|Ref=GEN_1.20
-22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=it|Ref=GEN_1.20
+15	ohun	ohun	PRON	_	_	12	obj	_	Gloss=things|Ref=GEN_1.20
+16	alààyè	alààyè	NOUN	_	_	15	nmod	_	Gloss=living|Ref=GEN_1.20|SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.20
+18	kí	kí	SCONJ	_	_	25	mark	_	Gloss=let|Ref=GEN_1.20
+19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the|Ref=GEN_1.20
+20	ẹyẹ	ẹyẹ	NOUN	_	_	25	nsubj	_	Gloss=birds|Ref=GEN_1.20
+21	kí	kí	AUX	_	_	25	aux	_	Gloss=let|Ref=GEN_1.20
+22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	expl	_	Gloss=it|Ref=GEN_1.20
 23	sì	sì	CCONJ	_	_	25	cc	_	Gloss=and|Ref=GEN_1.20
-24	máa	máa	AUX	_	_	26	aux	_	Gloss=be|Ref=GEN_1.20
-25	fò	fò	VERB	_	_	12	ccomp	_	Gloss=fly|Ref=GEN_1.20
-26	ní	ní	ADP	_	_	28	case	_	Gloss=in|Ref=GEN_1.20
-27	òfuurufú	òfuurufú	NOUN	_	_	26	obj	_	Gloss=firmament|Ref=GEN_1.20|SpaceAfter=No
+24	máa	máa	AUX	_	_	25	aux	_	Gloss=be|Ref=GEN_1.20
+25	fò	fò	VERB	_	_	12	conj	_	Gloss=fly|Ref=GEN_1.20
+26	ní	ní	ADP	_	_	27	case	_	Gloss=in|Ref=GEN_1.20
+27	òfuurufú	òfuurufú	NOUN	_	_	25	obl	_	Gloss=firmament|Ref=GEN_1.20|SpaceAfter=No
 28	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=GEN_1.20|SpaceAfter=No
-29	”	”	PUNCT	_	_	3	punct	_	Gloss=”|Ref=GEN_1.20
+29	”	”	PUNCT	_	_	12	punct	_	Gloss=”|Ref=GEN_1.20
 
 # sent_id = GEN_1.21
 # text = Nítorí náà Ọlọ́run dá àwọn ẹ̀dá alààyè ńlá-ńlá sí inú òkun, àwọn ohun ẹlẹ́mìí àti àwọn ohun tí ń rìn ní onírúurú tiwọn, àti àwọn ẹyẹ abìyẹ́ ní onírúurú tiwọn. Ọlọ́run sì rí i pé ó dára.
