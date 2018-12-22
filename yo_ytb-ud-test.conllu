@@ -19,31 +19,31 @@
 # text = Ayé sì wà ní rúdurùdu, ó sì ṣófo, òkùnkùn sì wà lójú ibú omi, Ẹ̀mí Ọlọ́run sì ń rábàbà lójú omi gbogbo.
 # text_en = And the earth was without form, and void; and darkness was upon the face of the deep. and the spirit of god moved upon the face of the waters.
 1	Ayé	ayé	NOUN	_	_	5	nsubj	_	Gloss=earth|Ref=GEN_1.2
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.2
+2	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=GEN_1.2
 3	wà	wà	AUX	_	_	5	cop	_	Gloss=was|Ref=GEN_1.2
 4	ní	ní	ADP	_	_	5	case	_	Gloss=in|Ref=GEN_1.2
-5	rúdurùdu	rúdurùdu	NOUN	_	_	9	obl	_	Gloss=confusion|Ref=GEN_1.2|SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=GEN_1.2
+5	rúdurùdu	rúdurùdu	NOUN	_	_	0	root	_	Gloss=confusion|Ref=GEN_1.2|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=GEN_1.2
 7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he|Ref=GEN_1.2
 8	sì	sì	CCONJ	_	_	9	cc	_	Gloss=and|Ref=GEN_1.2
-9	ṣófo	ṣófo	ADJ	_	_	0	root	_	Gloss=empty|Ref=GEN_1.2|SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=GEN_1.2
+9	ṣófo	ṣófo	ADJ	_	_	5	conj	_	Gloss=empty|Ref=GEN_1.2|SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=GEN_1.2
 11	òkùnkùn	òkùnkùn	NOUN	_	_	16	nsubj	_	Gloss=darkness|Ref=GEN_1.2
-12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=and|Ref=GEN_1.2
+12	sì	sì	CCONJ	_	_	16	cc	_	Gloss=and|Ref=GEN_1.2
 13	wà	wà	AUX	_	_	16	cop	_	Gloss=was|Ref=GEN_1.2
 14	lójú	lójú	ADP	_	_	16	case	_	Gloss=sight|Ref=GEN_1.2
 15	ibú	ibú	ADJ	_	_	16	amod	_	Gloss=deep|Ref=GEN_1.2
-16	omi	omi	NOUN	_	_	9	nsubj	_	Gloss=water|Ref=GEN_1.2|SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	Gloss=,|Ref=GEN_1.2
+16	omi	omi	NOUN	_	_	5	conj	_	Gloss=water|Ref=GEN_1.2|SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	Gloss=,|Ref=GEN_1.2
 18	Ẹ̀mí	ẹ̀mí	NOUN	_	_	19	compound	_	Gloss=spirit|Ref=GEN_1.2
 19	Ọlọ́run	ọlọ́run	NOUN	_	_	22	nsubj	_	Gloss=god|Ref=GEN_1.2
 20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and|Ref=GEN_1.2
 21	ń	ń	VERB	_	_	22	cop	_	Gloss=that|Ref=GEN_1.2
-22	rábàbà	rábàbà	NOUN	_	_	9	csubj	_	Gloss=sweeping|Ref=GEN_1.2
+22	rábàbà	rábàbà	NOUN	_	_	5	conj	_	Gloss=sweeping|Ref=GEN_1.2
 23	lójú	lójú	ADP	_	_	24	case	_	Gloss=sight|Ref=GEN_1.2
 24	omi	omi	NOUN	_	_	22	obl	_	Gloss=water|Ref=GEN_1.2
 25	gbogbo	gbogbo	DET	_	_	24	det	_	Gloss=all|Ref=GEN_1.2|SpaceAfter=No
-26	.	.	PUNCT	_	_	9	punct	_	Gloss=.|Ref=GEN_1.2
+26	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=GEN_1.2
 
 # sent_id = GEN_1.3
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí ìmọ́lẹ̀ kí ó wà,” ìmọ́lẹ̀ sì wà.
