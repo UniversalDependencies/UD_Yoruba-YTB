@@ -926,7 +926,7 @@
 16	,	,	PUNCT	_	_	22	punct	_	Gloss=,|Ref=JOHN_10.4
 17	àwọn	àwọn	DET	_	_	18	det	_	Gloss=the|Ref=JOHN_10.4
 18	àgùntàn	àgùntàn	NOUN	_	_	22	nsubj	_	Gloss=sheep|Ref=JOHN_10.4
-19	yóò	yóò	ADV	_	_	22	aux	_	Gloss=shall|Ref=JOHN_10.4
+19	yóò	yóò	AUX	_	_	22	aux	_	Gloss=shall|Ref=JOHN_10.4
 20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and|Ref=JOHN_10.4
 21	máa	máa	AUX	_	_	22	aux	_	Gloss=be|Ref=JOHN_10.4
 22	tọ̀	tọ̀	VERB	_	_	15	conj	_	Gloss=follow|Ref=JOHN_10.4
@@ -944,26 +944,26 @@
 # sent_id = JOHN_10.5
 # text = Wọn kò jẹ́ tọ àlejò lẹ́yìn, ṣùgbọ́n wọn a sá kúrò lọ́dọ̀ rẹ̀: nítorí tí wọn kò mọ ohùn àlejò.”
 # text_en = And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
-1	Wọn	Wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Gloss=them|Ref=JOHN_10.5
-2	kò	kò	PART	_	_	3	discourse	_	Gloss=not|Ref=JOHN_10.5
+1	Wọn	Wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=them|Ref=JOHN_10.5
+2	kò	kò	PART	_	_	4	advmod	_	Gloss=not|Ref=JOHN_10.5
 3	jẹ́	jẹ́	AUX	_	_	4	aux	_	Gloss=be|Ref=JOHN_10.5
 4	tọ	tọ	ADP	_	_	0	root	_	Gloss=came|Ref=JOHN_10.5
-5	àlejò	àlejò	NOUN	_	_	4	obj	_	Gloss=stranger|Ref=JOHN_10.5
+5	àlejò	àlejò	NOUN	_	_	4	obl	_	Gloss=stranger|Ref=JOHN_10.5
 6	lẹ́yìn	lẹ́yìn	ADP	_	_	5	case	_	Gloss=after|Ref=JOHN_10.5|SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=JOHN_10.5
 8	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	11	cc	_	Gloss=but|Ref=JOHN_10.5
 9	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	Gloss=them|Ref=JOHN_10.5
 10	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	expl	_	Gloss=will|Ref=JOHN_10.5
-11	sá	sá	VERB	_	_	4	xcomp	_	Gloss=fled|Ref=JOHN_10.5
+11	sá	sá	VERB	_	_	4	conj	_	Gloss=fled|Ref=JOHN_10.5
 12	kúrò	kúrò	ADP	_	_	14	case	_	Gloss=from|Ref=JOHN_10.5
 13	lọ́dọ̀	lọ́dọ̀	ADP	_	_	14	case	_	Gloss=with|Ref=JOHN_10.5
-14	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	obj	_	Gloss=his|Ref=JOHN_10.5|SpaceAfter=No
+14	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	obl	_	Gloss=his|Ref=JOHN_10.5|SpaceAfter=No
 15	:	:	PUNCT	_	_	20	punct	_	Gloss=:|Ref=JOHN_10.5
 16	nítorí	nítorí	SCONJ	_	_	20	mark	_	Gloss=for|Ref=JOHN_10.5
-17	tí	tí	PRON	_	PronType=Rel	20	mark	_	Gloss=that|Ref=JOHN_10.5
-18	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	Gloss=them|Ref=JOHN_10.5
-19	kò	kò	PART	_	_	20	discourse	_	Gloss=not|Ref=JOHN_10.5
-20	mọ	mọ	VERB	_	_	11	xcomp	_	Gloss=know|Ref=JOHN_10.5
+17	tí	tí	PRON	_	PronType=Rel	20	nsubj	_	Gloss=that|Ref=JOHN_10.5
+18	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	expl	_	Gloss=them|Ref=JOHN_10.5
+19	kò	kò	PART	_	_	20	advmod	_	Gloss=not|Ref=JOHN_10.5
+20	mọ	mọ	VERB	_	_	4	advcl	_	Gloss=know|Ref=JOHN_10.5
 21	ohùn	ohùn	NOUN	_	_	20	obj	_	Gloss=voice|Ref=JOHN_10.5
 22	àlejò	àlejò	NOUN	_	_	21	nmod	_	Gloss=stranger|Ref=JOHN_10.5|SpaceAfter=No
 23	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=JOHN_10.5|SpaceAfter=No
