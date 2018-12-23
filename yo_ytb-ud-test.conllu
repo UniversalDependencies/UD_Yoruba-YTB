@@ -1955,7 +1955,7 @@
 28	”	”	PUNCT	_	_	7	punct	_	Gloss=”|Ref=JOHN_11.3
 
 # sent_id = JOHN_11.4
-# text = Nígbà tí Jésù sì gbọ́, ó wí pé, “Àìsàn yìí kì í ṣe sí ikú, ṣùgbọ́n fún Ògo Ọlọ́run, kí a lè yin Ọmọ Ọlọ́run lógo nípasẹ̀ rẹ̀.”
+# text = Nígbà tí Jésù sì gbọ́, ó wí pé, “Àìsàn yìí kìí ṣe sí ikú, ṣùgbọ́n fún Ògo Ọlọ́run, kí a lè yin Ọmọ Ọlọ́run lógo nípasẹ̀ rẹ̀.”
 # text_en = When Jesus heard that, he said, this sickness is not unto death, but for the glory of god, that the son of god might be glorified thereby.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.4
 2	tí	tí	PRON	_	PronType=Rel	5	mark	_	Gloss=which|Ref=JOHN_11.4
@@ -2234,7 +2234,7 @@
 # text = Ǹjẹ́ Bétanì sún mọ́ Jérúsálẹ́mù tó ibùsọ Mẹ́ẹ̀dógún:
 # text_en = Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:
 1	Ǹjẹ́	Ǹjẹ́	VERB	_	_	0	root	_	Gloss=is|Ref=JOHN_11.18
-2	Bẹ́tẹ́nì	bẹ́tẹ́nì	PROPN	_	_	1	nsubj	_	Gloss=bethany|Ref=JOHN_11.18
+2	Bétanì	bẹ́tẹ́nì	PROPN	_	Typo=Yes	1	nsubj	_	Gloss=bethany|Ref=JOHN_11.18
 3	súnmọ́	súnmọ́	ADV	_	_	1	advmod	_	Gloss=nigh|Ref=JOHN_11.18
 4	Jérúsálẹ́mù	jérúsálẹ́mù	PROPN	_	_	3	obj	_	Gloss=jerusalem|Ref=JOHN_11.18
 5	tó	tó	SCONJ	_	_	6	mark	_	Gloss=about|Ref=JOHN_11.18
