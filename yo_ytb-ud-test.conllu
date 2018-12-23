@@ -821,33 +821,33 @@
 6	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Gloss=i|Ref=JOHN_10.1
 7	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_10.1
 8	fún	fún	ADP	_	_	9	case	_	Gloss=unto|Ref=JOHN_10.1
-9	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	obj	_	Gloss=you|Ref=JOHN_10.1|SpaceAfter=No
-10	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=JOHN_10.1
-11	Ẹni	Ẹni	PRON	_	PronType=Ind	15	nsubj	_	Gloss=someone|Ref=JOHN_10.1
-12	tí	tí	PRON	_	PronType=Rel	15	mark	_	Gloss=that|Ref=JOHN_10.1
-13	kò	kò	PART	_	_	15	discourse	_	Gloss=not|Ref=JOHN_10.1
+9	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	obl	_	Gloss=you|Ref=JOHN_10.1|SpaceAfter=No
+10	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=JOHN_10.1
+11	Ẹni	Ẹni	PRON	_	PronType=Ind	35	nsubj	_	Gloss=someone|Ref=JOHN_10.1
+12	tí	tí	PRON	_	PronType=Rel	15	nsubj	_	Gloss=that|Ref=JOHN_10.1
+13	kò	kò	PART	_	_	15	advmod	_	Gloss=not|Ref=JOHN_10.1
 14	bá	bá	AUX	_	_	15	aux	_	Gloss=if|Ref=JOHN_10.1
-15	gba	gba	VERB	_	_	7	csubj	_	Gloss=pass|Ref=JOHN_10.1
+15	gba	gba	VERB	_	_	11	acl	_	Gloss=pass|Ref=JOHN_10.1
 16	ẹnu	ẹnu	NOUN	_	_	17	nmod	_	Gloss=mouth|Ref=JOHN_10.1
 17	ọ̀nà	ọ̀nà	NOUN	_	_	15	obj	_	Gloss=way|Ref=JOHN_10.1
 18	wọ	wọ	VERB	_	_	15	xcomp	_	Gloss=enter|Ref=JOHN_10.1
 19	inú	inú	ADP	_	_	20	case	_	Gloss=into|Ref=JOHN_10.1
-20	agbo	agbo	NOUN	_	_	21	nmod	_	Gloss=flock|Ref=JOHN_10.1
-21	àgùntàn	àgùntàn	NOUN	_	_	18	obj	_	Gloss=sheep|Ref=JOHN_10.1|SpaceAfter=No
+20	agbo	agbo	NOUN	_	_	18	obl	_	Gloss=flock|Ref=JOHN_10.1
+21	àgùntàn	àgùntàn	NOUN	_	_	20	nmod	_	Gloss=sheep|Ref=JOHN_10.1|SpaceAfter=No
 22	,	,	PUNCT	_	_	27	punct	_	Gloss=,|Ref=JOHN_10.1
-23	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	25	cc	_	Gloss=but|Ref=JOHN_10.1
-24	tí	tí	PRON	_	PronType=Rel	27	mark	_	Gloss=that|Ref=JOHN_10.1
-25	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	Gloss=he|Ref=JOHN_10.1
+23	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	27	cc	_	Gloss=but|Ref=JOHN_10.1
+24	tí	tí	PRON	_	PronType=Rel	27	nsubj	_	Gloss=that|Ref=JOHN_10.1
+25	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	27	expl	_	Gloss=he|Ref=JOHN_10.1
 26	bá	bá	AUX	_	_	27	aux	_	Gloss=if|Ref=JOHN_10.1
-27	gba	gba	VERB	_	_	18	csubj	_	Gloss=pass|Ref=JOHN_10.1
+27	gba	gba	VERB	_	_	15	conj	_	Gloss=pass|Ref=JOHN_10.1
 28	ibòmíràn	ibòmíràn	ADV	_	_	29	advmod	_	Gloss=elsewhere|Ref=JOHN_10.1
 29	gun	gun	VERB	_	_	27	xcomp	_	Gloss=climb|Ref=JOHN_10.1
 30	òkè	òkè	NOUN	_	_	27	obj	_	Gloss=up|Ref=JOHN_10.1|SpaceAfter=No
-31	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=JOHN_10.1
-32	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	Gloss=he|Ref=JOHN_10.1
+31	,	,	PUNCT	_	_	32	punct	_	Gloss=,|Ref=JOHN_10.1
+32	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	appos	_	Gloss=he|Ref=JOHN_10.1
 33	náà	náà	ADV	_	_	32	advmod	_	Gloss=that|Ref=JOHN_10.1
 34	ni	ni	AUX	_	_	35	cop	_	Gloss=is|Ref=JOHN_10.1
-35	olè	olè	NOUN	_	_	27	xcomp	_	Gloss=thief|Ref=JOHN_10.1
+35	olè	olè	NOUN	_	_	7	ccomp	_	Gloss=thief|Ref=JOHN_10.1
 36	àti	àti	CCONJ	_	_	37	cc	_	Gloss=and|Ref=JOHN_10.1
 37	ọlọ́sà	ọlọ́sà	NOUN	_	_	35	conj	_	Gloss=robbers|Ref=JOHN_10.1|SpaceAfter=No
 38	.	.	PUNCT	_	_	7	punct	_	Gloss=.|Ref=JOHN_10.1
@@ -855,23 +855,23 @@
 # sent_id = JOHN_10.2
 # text = Ṣùgbọ́n ẹni tí ó bá ti ẹnu-ọ̀nà wọlé, Òun ni olùṣọ́ àwọn àgùntàn.
 # text_en = But he that entereth in by the door is the shepherd of the sheep.
-1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	10	cc	_	Gloss=but|Ref=JOHN_10.2
-2	ẹni	ẹni	PRON	_	PronType=Ind	10	nsubj	_	Gloss=someone|Ref=JOHN_10.2
-3	tí	tí	PRON	_	PronType=Rel	10	mark	_	Gloss=that|Ref=JOHN_10.2
-4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=he|Ref=JOHN_10.2
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	14	cc	_	Gloss=but|Ref=JOHN_10.2
+2	ẹni	ẹni	PRON	_	PronType=Ind	14	nsubj	_	Gloss=someone|Ref=JOHN_10.2
+3	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=JOHN_10.2
+4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=he|Ref=JOHN_10.2
 5	bá	bá	AUX	_	_	10	aux	_	Gloss=if|Ref=JOHN_10.2
 6	ti	ti	AUX	_	_	10	aux	_	Gloss=have|Ref=JOHN_10.2
-7	ẹnu	ẹnu	NOUN	_	_	10	nsubj	_	Gloss=mouth|Ref=JOHN_10.2|SpaceAfter=No
+7	ẹnu	ẹnu	NOUN	_	_	10	obj	_	Gloss=mouth|Ref=JOHN_10.2|SpaceAfter=No
 8	-	-	PUNCT	_	_	9	punct	_	Gloss=-|Ref=JOHN_10.2|SpaceAfter=No
 9	ọ̀nà	ọ̀nà	NOUN	_	_	7	compound	_	Gloss=way|Ref=JOHN_10.2
-10	wọlé	wọlé	VERB	_	_	0	root	_	Gloss=enter|Ref=JOHN_10.2|SpaceAfter=No
+10	wọlé	wọlé	VERB	_	_	2	acl	_	Gloss=enter|Ref=JOHN_10.2|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=JOHN_10.2
-12	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Gloss=he|Ref=JOHN_10.2
+12	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	appos	_	Gloss=he|Ref=JOHN_10.2
 13	ni	ni	AUX	_	_	14	cop	_	Gloss=is|Ref=JOHN_10.2
-14	olùṣọ́	olùṣọ́	NOUN	_	_	16	nmod	_	Gloss=shepherd|Ref=JOHN_10.2
+14	olùṣọ́	olùṣọ́	NOUN	_	_	0	root	_	Gloss=shepherd|Ref=JOHN_10.2
 15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the|Ref=JOHN_10.2
-16	àgùntàn	àgùntàn	NOUN	_	_	10	obj	_	Gloss=sheep|Ref=JOHN_10.2|SpaceAfter=No
-17	.	.	PUNCT	_	_	10	punct	_	Gloss=.|Ref=JOHN_10.2
+16	àgùntàn	àgùntàn	NOUN	_	_	14	nmod	_	Gloss=sheep|Ref=JOHN_10.2|SpaceAfter=No
+17	.	.	PUNCT	_	_	14	punct	_	Gloss=.|Ref=JOHN_10.2
 
 # sent_id = JOHN_10.3
 # text = Òun ni osọ́nà yóò ṣílẹ̀kùn fún; àwọn àgùntàn gbọ́ ohùn rẹ̀: ó sì pe àwọn àgùntàn tirẹ̀ lórúkọ, ó sì se amọ̀nà wọn jáde.
