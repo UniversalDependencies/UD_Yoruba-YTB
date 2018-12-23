@@ -875,35 +875,35 @@
 
 # sent_id = JOHN_10.3
 # text = Òun ni osọ́nà yóò ṣílẹ̀kùn fún; àwọn àgùntàn gbọ́ ohùn rẹ̀: ó sì pe àwọn àgùntàn tirẹ̀ lórúkọ, ó sì se amọ̀nà wọn jáde.
-# text_en = But he that entereth in by the door is the shepherd of the sheep.
+# text_en = To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.
 1	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
-2	ni	ni	AUX	_	_	3	cop	_	Gloss=is|Ref=JOHN_10.3
+2	ni	ni	AUX	_	_	0	root	_	Gloss=is|Ref=JOHN_10.3
 3	osọ́nà	asọ́nà	NOUN	_	_	5	nsubj	_	Gloss=guard|Ref=JOHN_10.3
-4	yóò	yóò	VERB	_	_	5	aux	_	Gloss=shall|Ref=JOHN_10.3
-5	ṣílẹ̀kùn	ṣílẹ̀kùn	VERB	_	_	0	root	_	Gloss=open-door|Ref=JOHN_10.3
-6	fún	fún	ADP	_	_	5	obj	_	SpaceAfter=No|Gloss=unto|Ref=JOHN_10.3
+4	yóò	yóò	AUX	_	_	5	aux	_	Gloss=shall|Ref=JOHN_10.3
+5	ṣílẹ̀kùn	ṣílẹ̀kùn	VERB	_	_	2	xcomp	_	Gloss=open-door|Ref=JOHN_10.3
+6	fún	fún	ADP	_	_	5	obl	_	SpaceAfter=No|Gloss=unto|Ref=JOHN_10.3
 7	;	;	PUNCT	_	_	10	punct	_	Gloss=;|Ref=JOHN_10.3
 8	àwọn	àwọn	DET	_	_	9	det	_	Gloss=the|Ref=JOHN_10.3
 9	àgùntàn	àgùntàn	NOUN	_	_	10	nsubj	_	Gloss=sheep|Ref=JOHN_10.3
-10	gbọ́	gbọ́	VERB	_	_	5	conj	_	Gloss=heard|Ref=JOHN_10.3
-11	ohùn	ohùn	NOUN	_	_	12	nmod	_	Gloss=voice|Ref=JOHN_10.3
-12	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	obj	_	SpaceAfter=No|Gloss=his|Ref=JOHN_10.3
+10	gbọ́	gbọ́	VERB	_	_	2	conj	_	Gloss=heard|Ref=JOHN_10.3
+11	ohùn	ohùn	NOUN	_	_	10	obj	_	Gloss=voice|Ref=JOHN_10.3
+12	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod	_	SpaceAfter=No|Gloss=his|Ref=JOHN_10.3
 13	:	:	PUNCT	_	_	16	punct	_	Gloss=:|Ref=JOHN_10.3
 14	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Gloss=he|Ref=JOHN_10.3
 15	sì	sì	CCONJ	_	_	16	cc	_	Gloss=then|Ref=JOHN_10.3
-16	pe	pe	VERB	_	_	10	conj	_	Gloss=called|Ref=JOHN_10.3
+16	pe	pe	VERB	_	_	2	conj	_	Gloss=called|Ref=JOHN_10.3
 17	àwọn	àwọn	DET	_	_	18	det	_	Gloss=the|Ref=JOHN_10.3
 18	àgùntàn	àgùntàn	NOUN	_	_	16	obj	_	Gloss=sheep|Ref=JOHN_10.3
 19	tirẹ̀	tirẹ̀	ADJ	_	_	18	nmod	_	Gloss=his|Ref=JOHN_10.3
 20	lórúkọ	lórúkọ	NOUN	_	_	16	obl	_	SpaceAfter=No|Gloss=name|Ref=JOHN_10.3
 21	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=JOHN_10.3
 22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	Gloss=he|Ref=JOHN_10.3
-23	sì	sì	CCONJ	_	_	24	cc	_	Gloss=and|Ref=JOHN_10.3
+23	sì	sì	CCONJ	_	_	25	cc	_	Gloss=and|Ref=JOHN_10.3
 24	se	se	AUX	_	_	25	aux	_	Gloss=do|Ref=JOHN_10.3
-25	amọ̀nà	amọ̀nà	NOUN	_	_	16	obj	_	Gloss=guide|Ref=JOHN_10.3
+25	amọ̀nà	amọ̀nà	NOUN	_	_	2	conj	_	Gloss=guide|Ref=JOHN_10.3
 26	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	obj	_	Gloss=them|Ref=JOHN_10.3
 27	jáde	jáde	NOUN	_	_	25	obl	_	SpaceAfter=No|Gloss=out|Ref=JOHN_10.3
-28	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.3
+28	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_10.3
 
 # sent_id = JOHN_10.4
 # text = Nígbà tí ó bá sì ti mú àwọn àgùntàn tirẹ̀ jáde, yóò ṣíwájú wọn, àwọn àgùntàn yóò sì máa tọ̀ ọ́ lẹ́yìn: nítorí tí wọ́n mọ ohùn rẹ̀.
