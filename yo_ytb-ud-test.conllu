@@ -1972,7 +1972,7 @@
 13	yìí	yìí	DET	_	_	12	det	_	Gloss=this|Ref=JOHN_11.4
 14	kìí	kìí	PART	_	_	15	discourse	_	Gloss=was|Ref=JOHN_11.4
 15	ṣe	ṣe	AUX	_	_	17	cop	_	Gloss=not|Ref=JOHN_11.4
-16	ti	ti	ADP	_	_	17	case	_	Gloss=of|Ref=JOHN_11.4
+16	sí	ti	ADP	_	Typo=Yes	17	case	_	Gloss=of|Ref=JOHN_11.4
 17	ikú	ikú	NOUN	_	_	8	xcomp	_	SpaceAfter=No|Gloss=death|Ref=JOHN_11.4
 18	,	,	PUNCT	_	_	22	punct	_	Gloss=,|Ref=JOHN_11.4
 19	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	22	cc	_	Gloss=but|Ref=JOHN_11.4
@@ -2231,7 +2231,7 @@
 22	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_11.17
 
 # sent_id = JOHN_11.18
-# text = Ǹjẹ́ Bétanì sún mọ́ Jérúsálẹ́mù tó ibùsọ Mẹ́ẹ̀dógún:
+# text = Ǹjẹ́ Bétanì súnmọ́ Jérúsálẹ́mù tó ibùsọ Mẹ́ẹ̀dógún:
 # text_en = Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:
 1	Ǹjẹ́	Ǹjẹ́	VERB	_	_	0	root	_	Gloss=is|Ref=JOHN_11.18
 2	Bétanì	bẹ́tẹ́nì	PROPN	_	Typo=Yes	1	nsubj	_	Gloss=bethany|Ref=JOHN_11.18
