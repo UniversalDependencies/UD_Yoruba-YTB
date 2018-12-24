@@ -1372,26 +1372,26 @@
 5	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=JOHN_10.21
 6	“	“	PUNCT	_	_	9	punct	_	Gloss=“|Ref=JOHN_10.21|SpaceAfter=No
 7	Ìwọ̀nyí	Ìwọ̀nyí	NOUN	_	_	9	nsubj	_	Gloss=these|Ref=JOHN_10.21
-8	kìí	kìí	PART	_	_	9	mark	_	Gloss=was|Ref=JOHN_10.21
-9	ṣe	ṣe	VERB	_	_	3	xcomp	_	Gloss=not|Ref=JOHN_10.21
-10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	14	nsubj	_	Gloss=word|Ref=JOHN_10.21
+8	kìí	kìí	AUX	_	_	9	aux	_	Gloss=was|Ref=JOHN_10.21
+9	ṣe	ṣe	VERB	_	_	3	ccomp	_	Gloss=not|Ref=JOHN_10.21
+10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	9	obj	_	Gloss=word|Ref=JOHN_10.21
 11	ẹni	ẹni	PRON	_	PronType=Ind	10	nmod	_	Gloss=someone|Ref=JOHN_10.21
-12	tí	tí	PRON	_	PronType=Rel	14	mark	_	Gloss=that|Ref=JOHN_10.21
-13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=he|Ref=JOHN_10.21
-14	ní	ní	AUX	_	_	16	cop	_	Gloss=have|Ref=JOHN_10.21
-15	ẹ̀mí	ẹ̀mí	NOUN	_	_	16	nmod	_	Gloss=spirit|Ref=JOHN_10.21
-16	èṣù	èṣù	NOUN	_	_	9	xcomp	_	SpaceAfter=No|Gloss=devil|Ref=JOHN_10.21
-17	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=JOHN_10.21
-18	Ẹ̀mi	ẹ̀mi	NOUN	_	_	19	nmod	_	Gloss=spirit|Ref=JOHN_10.21
-19	èṣù	èṣù	NOUN	_	_	21	nsubj	_	Gloss=devil|Ref=JOHN_10.21
+12	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that|Ref=JOHN_10.21
+13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Gloss=he|Ref=JOHN_10.21
+14	ní	ní	VERB	_	_	11	acl	_	Gloss=have|Ref=JOHN_10.21
+15	ẹ̀mí	ẹ̀mí	NOUN	_	_	14	obj	_	Gloss=spirit|Ref=JOHN_10.21
+16	èṣù	èṣù	NOUN	_	_	15	nmod	_	SpaceAfter=No|Gloss=devil|Ref=JOHN_10.21
+17	.	.	PUNCT	_	_	9	punct	_	Gloss=.|Ref=JOHN_10.21
+18	Ẹ̀mi	ẹ̀mi	NOUN	_	_	21	nsubj	_	Gloss=spirit|Ref=JOHN_10.21
+19	èṣù	èṣù	NOUN	_	_	18	nmod	_	Gloss=devil|Ref=JOHN_10.21
 20	lè	lè	AUX	_	_	21	aux	_	Gloss=may|Ref=JOHN_10.21
-21	la	la	VERB	_	_	14	xcomp	_	Gloss=open|Ref=JOHN_10.21
+21	la	la	VERB	_	_	9	parataxis	_	Gloss=open|Ref=JOHN_10.21
 22	ojú	ojú	NOUN	_	_	21	obj	_	Gloss=eyes|Ref=JOHN_10.21
 23	àwọn	àwọn	DET	_	_	24	det	_	Gloss=the|Ref=JOHN_10.21
-24	afọ́jú	afọ́jú	ADJ	_	_	22	amod	_	Gloss=blind|Ref=JOHN_10.21
+24	afọ́jú	afọ́jú	ADJ	_	_	22	nmod	_	Gloss=blind|Ref=JOHN_10.21
 25	bí	bí	SCONJ	_	_	21	mark	_	SpaceAfter=No|Gloss=not|Ref=JOHN_10.21
 26	?	?	PUNCT	_	_	21	punct	_	SpaceAfter=No|Gloss=?|Ref=JOHN_10.21
-27	”	”	PUNCT	_	_	3	punct	_	Gloss=”|Ref=JOHN_10.21
+27	”	”	PUNCT	_	_	9	punct	_	Gloss=”|Ref=JOHN_10.21
 
 # sent_id = JOHN_10.22
 # text = Ó sì jẹ́ àjọ̀dún ìyàsímímọ́ ní Jérúsálẹ́mù, ìgbà òtútù ni.
