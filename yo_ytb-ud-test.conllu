@@ -985,7 +985,7 @@
 11	ohun	ohun	NOUN	_	_	10	nmod	_	Gloss=things|Ref=JOHN_10.6
 12	tí	tí	PRON	_	PronType=Rel	10	acl	_	Gloss=that|Ref=JOHN_10.6
 13	nǹkan	nǹkan	NOUN	_	_	12	nsubj	_	Gloss=things|Ref=JOHN_10.6
-14	wọ̀nyí	wọ̀nyí	CCONJ	_	_	13	det	_	Gloss=these|Ref=JOHN_10.6
+14	wọ̀nyí	wọ̀nyí	DET	_	_	13	det	_	Gloss=these|Ref=JOHN_10.6
 15	jẹ́	jẹ́	AUX	_	_	12	cop	_	Gloss=be|Ref=JOHN_10.6
 16	tí	tí	PRON	_	PronType=Rel	19	obj	_	Gloss=that|Ref=JOHN_10.6
 17	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Gloss=he|Ref=JOHN_10.6
@@ -1055,23 +1055,23 @@
 # sent_id = JOHN_10.9
 # text = Èmi ni ìlẹ̀kùn: bí ẹnìkan bá bá ọ̀dọ̀ mi wọlé, Òun ni a ó gbà là, yóò wọlé, yóò sì jáde, yóò sì rí koríko.
 # text_en = I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
-1	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=i|Ref=JOHN_10.9
+1	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=JOHN_10.9
 2	ni	ni	AUX	_	_	3	cop	_	Gloss=is|Ref=JOHN_10.9
-3	ìlẹ̀kùn	ìlẹ̀kùn	NOUN	_	_	11	xcomp	_	Gloss=doors|Ref=JOHN_10.9|SpaceAfter=No
-4	:	:	PUNCT	_	_	11	punct	_	Gloss=:|Ref=JOHN_10.9
+3	ìlẹ̀kùn	ìlẹ̀kùn	NOUN	_	_	0	root	_	Gloss=doors|Ref=JOHN_10.9|SpaceAfter=No
+4	:	:	PUNCT	_	_	17	punct	_	Gloss=:|Ref=JOHN_10.9
 5	bí	bí	SCONJ	_	_	11	mark	_	Gloss=if|Ref=JOHN_10.9
 6	ẹnìkan	ẹnìkan	PRON	_	PronType=Ind	11	nsubj	_	Gloss=someone|Ref=JOHN_10.9
 7	bá	bá	SCONJ	_	_	11	mark	_	Gloss=may|Ref=JOHN_10.9
 8	bá	bá	SCONJ	_	_	11	mark	_	Gloss=have|Ref=JOHN_10.9
-9	ọ̀dọ̀	ọ̀dọ̀	NOUN	_	_	11	obj	_	Gloss=from|Ref=JOHN_10.9
+9	ọ̀dọ̀	ọ̀dọ̀	NOUN	_	_	11	obl	_	Gloss=from|Ref=JOHN_10.9
 10	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	nmod	_	Gloss=my|Ref=JOHN_10.9
-11	wọlé	wọlé	VERB	_	_	0	root	_	Gloss=enter|Ref=JOHN_10.9|SpaceAfter=No
-12	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=JOHN_10.9
-13	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=he|Ref=JOHN_10.9
-14	ni	ni	AUX	_	_	17	cop	_	Gloss=is|Ref=JOHN_10.9
+11	wọlé	wọlé	VERB	_	_	17	advcl	_	Gloss=enter|Ref=JOHN_10.9|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=JOHN_10.9
+13	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=he|Ref=JOHN_10.9
+14	ni	ni	PART	_	_	13	case	_	Gloss=is|Ref=JOHN_10.9
 15	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	Gloss=we|Ref=JOHN_10.9
 16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	expl	_	Gloss=he|Ref=JOHN_10.9
-17	gbà	gbà	VERB	_	_	11	xcomp	_	Gloss=deliver|Ref=JOHN_10.9
+17	gbà	gbà	VERB	_	_	3	parataxis	_	Gloss=deliver|Ref=JOHN_10.9
 18	là	là	VERB	_	_	17	compound:svc	_	Gloss=save|Ref=JOHN_10.9|SpaceAfter=No
 19	,	,	PUNCT	_	_	21	punct	_	Gloss=,|Ref=JOHN_10.9
 20	yóò	yóò	AUX	_	_	21	aux	_	Gloss=shall|Ref=JOHN_10.9
@@ -1079,13 +1079,13 @@
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=JOHN_10.9
 23	yóò	yóò	AUX	_	_	25	aux	_	Gloss=shall|Ref=JOHN_10.9
 24	sì	sì	CCONJ	_	_	25	cc	_	Gloss=then|Ref=JOHN_10.9
-25	jáde	jáde	VERB	_	_	21	conj	_	Gloss=out|Ref=JOHN_10.9|SpaceAfter=No
+25	jáde	jáde	VERB	_	_	17	conj	_	Gloss=out|Ref=JOHN_10.9|SpaceAfter=No
 26	,	,	PUNCT	_	_	29	punct	_	Gloss=,|Ref=JOHN_10.9
 27	yóò	yóò	AUX	_	_	29	aux	_	Gloss=shall|Ref=JOHN_10.9
 28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=then|Ref=JOHN_10.9
-29	rí	rí	VERB	_	_	25	conj	_	Gloss=saw|Ref=JOHN_10.9
+29	rí	rí	VERB	_	_	17	conj	_	Gloss=saw|Ref=JOHN_10.9
 30	koríko	koríko	NOUN	_	_	29	obj	_	Gloss=grass|Ref=JOHN_10.9|SpaceAfter=No
-31	.	.	PUNCT	_	_	11	punct	_	Gloss=.|Ref=JOHN_10.9
+31	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=JOHN_10.9
 
 # sent_id = JOHN_10.10
 # text = Olè kìí wá bí kò ṣe láti jalè, láti pa, àti láti parun: èmi wá kí wọn lè ní ìyè, àní kí wọn lè ní i lọ́pọ̀lọpọ̀.
