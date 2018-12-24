@@ -1149,42 +1149,42 @@
 # sent_id = JOHN_10.12
 # text = Ṣùgbọ́n alágbàṣe, tí kìí ṣe olùṣọ́ àgùntàn, ẹni tí àwọn àgùntàn kìí ṣe tirẹ̀, ó rí ìkokò ń bọ̀, ó sì fi àgùntàn sílẹ̀, ó sì fọ́n wọn ká kiri.
 # text_en = But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.
-1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	2	cc	_	Gloss=but|Ref=JOHN_10.12
-2	alágbàṣe	alágbàṣe	NOUN	_	_	6	nsubj	_	SpaceAfter=No|Gloss=hired|Ref=JOHN_10.12
+1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	19	cc	_	Gloss=but|Ref=JOHN_10.12
+2	alágbàṣe	alágbàṣe	NOUN	_	_	19	nsubj	_	SpaceAfter=No|Gloss=hired|Ref=JOHN_10.12
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_10.12
-4	tí	tí	PRON	_	PronType=Rel	6	mark	_	Gloss=that|Ref=JOHN_10.12
-5	kìí	kìí	PART	_	_	6	mark	_	Gloss=was|Ref=JOHN_10.12
-6	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=not|Ref=JOHN_10.12
+4	tí	tí	PRON	_	PronType=Rel	6	nsubj	_	Gloss=that|Ref=JOHN_10.12
+5	kìí	kìí	AUX	_	_	6	aux	_	Gloss=was|Ref=JOHN_10.12
+6	ṣe	ṣe	VERB	_	_	2	acl	_	Gloss=not|Ref=JOHN_10.12
 7	olùṣọ́	olùṣọ́	NOUN	_	_	6	obj	_	Gloss=shepherd|Ref=JOHN_10.12
 8	àgùntàn	àgùntàn	NOUN	_	_	7	nmod	_	SpaceAfter=No|Gloss=sheep|Ref=JOHN_10.12
-9	,	,	PUNCT	_	_	11	punct	_	Gloss=,|Ref=JOHN_10.12
-10	ẹni	ẹni	PRON	_	PronType=Ind	15	nsubj	_	Gloss=someone|Ref=JOHN_10.12
-11	tí	tí	PRON	_	PronType=Rel	15	mark	_	Gloss=that|Ref=JOHN_10.12
-12	àwọn	àwọn	DET	_	_	15	det	_	Gloss=the|Ref=JOHN_10.12
+9	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.12
+10	ẹni	ẹni	PRON	_	PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_10.12
+11	tí	tí	PRON	_	PronType=Rel	15	expl	_	Gloss=that|Ref=JOHN_10.12
+12	àwọn	àwọn	DET	_	_	13	det	_	Gloss=the|Ref=JOHN_10.12
 13	àgùntàn	àgùntàn	NOUN	_	_	15	nsubj	_	Gloss=sheep|Ref=JOHN_10.12
 14	kìí	kìí	PART	_	_	15	mark	_	Gloss=was|Ref=JOHN_10.12
-15	ṣe	ṣe	VERB	_	_	6	ccomp	_	Gloss=not|Ref=JOHN_10.12
-16	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obj	_	SpaceAfter=No|Gloss=his|Ref=JOHN_10.12
-17	,	,	PUNCT	_	_	19	punct	_	Gloss=,|Ref=JOHN_10.12
-18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Gloss=he|Ref=JOHN_10.12
-19	rí	rí	VERB	_	_	15	xcomp	_	Gloss=saw|Ref=JOHN_10.12
+15	ṣe	ṣe	VERB	_	_	10	acl	_	Gloss=not|Ref=JOHN_10.12
+16	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	xcomp	_	SpaceAfter=No|Gloss=his|Ref=JOHN_10.12
+17	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.12
+18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	expl	_	Gloss=he|Ref=JOHN_10.12
+19	rí	rí	VERB	_	_	0	root	_	Gloss=saw|Ref=JOHN_10.12
 20	ìkokò	ìkokò	NOUN	_	_	19	obj	_	Gloss=wolf|Ref=JOHN_10.12
 21	ń	ń	AUX	_	_	22	aux	_	Gloss=that|Ref=JOHN_10.12
-22	bọ̀	bọ̀	VERB	_	_	19	ccomp	_	SpaceAfter=No|Gloss=come|Ref=JOHN_10.12
+22	bọ̀	bọ̀	VERB	_	_	19	xcomp	_	SpaceAfter=No|Gloss=come|Ref=JOHN_10.12
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=,|Ref=JOHN_10.12
 24	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	Gloss=he|Ref=JOHN_10.12
 25	sì	sì	CCONJ	_	_	26	cc	_	Gloss=then|Ref=JOHN_10.12
-26	fi	fi	VERB	_	_	22	xcomp	_	Gloss=put|Ref=JOHN_10.12
+26	fi	fi	VERB	_	_	19	conj	_	Gloss=put|Ref=JOHN_10.12
 27	àgùntàn	àgùntàn	NOUN	_	_	26	obj	_	Gloss=sheep|Ref=JOHN_10.12
-28	sílẹ̀	sílẹ̀	VERB	_	_	26	ccomp	_	SpaceAfter=No|Gloss=left|Ref=JOHN_10.12
+28	sílẹ̀	sílẹ̀	VERB	_	_	26	compound:svc	_	SpaceAfter=No|Gloss=left|Ref=JOHN_10.12
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=,|Ref=JOHN_10.12
 30	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	Gloss=he|Ref=JOHN_10.12
 31	sì	sì	CCONJ	_	_	32	cc	_	Gloss=and|Ref=JOHN_10.12
-32	fọ́n	fọ́n	VERB	_	_	26	xcomp	_	Gloss=spread|Ref=JOHN_10.12
+32	fọ́n	fọ́n	VERB	_	_	19	conj	_	Gloss=spread|Ref=JOHN_10.12
 33	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	32	obj	_	Gloss=them|Ref=JOHN_10.12
 34	ká	ká	ADV	_	_	32	advmod	_	Gloss=about|Ref=JOHN_10.12
 35	kiri	kiri	ADV	_	_	32	advmod	_	SpaceAfter=No|Gloss=sought|Ref=JOHN_10.12
-36	.	.	PUNCT	_	_	15	punct	_	Gloss=.|Ref=JOHN_10.12
+36	.	.	PUNCT	_	_	19	punct	_	Gloss=.|Ref=JOHN_10.12
 
 # sent_id = JOHN_10.13
 # text = Òun sá lọ nítorí tí ó jẹ́ alágbàṣe, kò sì náání àwọn àgùntàn.
