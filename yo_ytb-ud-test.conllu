@@ -1262,18 +1262,18 @@
 8	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	Gloss=me|Ref=JOHN_10.17|SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_10.17
 10	nítorí	nítorí	SCONJ	_	_	13	mark	_	Gloss=for|Ref=JOHN_10.17
-11	tí	tí	PRON	_	PronType=Rel	13	mark	_	Gloss=that|Ref=JOHN_10.17
+11	tí	tí	PRON	_	PronType=Rel	13	expl	_	Gloss=that|Ref=JOHN_10.17
 12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Gloss=i|Ref=JOHN_10.17
-13	fi	fi	VERB	_	_	7	xcomp	_	Gloss=gave|Ref=JOHN_10.17
+13	fi	fi	VERB	_	_	7	advcl	_	Gloss=gave|Ref=JOHN_10.17
 14	ẹ̀mí	ẹ̀mí	NOUN	_	_	13	obj	_	Gloss=life|Ref=JOHN_10.17
 15	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	nmod	_	Gloss=my|Ref=JOHN_10.17
 16	lélẹ̀	lélẹ̀	ADV	_	_	13	advmod	_	Gloss=laid|Ref=JOHN_10.17|SpaceAfter=No
 17	,	,	PUNCT	_	_	22	punct	_	Gloss=,|Ref=JOHN_10.17
 18	kí	kí	SCONJ	_	_	22	mark	_	Gloss=let|Ref=JOHN_10.17
-19	èmi	èmi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	nmod	_	Gloss=i|Ref=JOHN_10.17
+19	èmi	èmi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	Gloss=i|Ref=JOHN_10.17
 20	lè	lè	AUX	_	_	22	aux	_	Gloss=may|Ref=JOHN_10.17
 21	tún	tún	ADV	_	_	22	advmod	_	Gloss=again|Ref=JOHN_10.17
-22	gbà	gbà	VERB	_	_	13	xcomp	_	Gloss=receive|Ref=JOHN_10.17
+22	gbà	gbà	VERB	_	_	13	advcl	_	Gloss=receive|Ref=JOHN_10.17
 23	á	á	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	22	obj	_	Gloss=it|Ref=JOHN_10.17|SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	Gloss=.|Ref=JOHN_10.17
 
