@@ -1216,16 +1216,16 @@
 6	mìíràn	mìíràn	ADJ	_	_	5	amod	_	Gloss=other|Ref=JOHN_10.16|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.16
 8	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=JOHN_10.16
-9	kìí	kìí	PART	_	_	10	advmod	_	Gloss=was|Ref=JOHN_10.16
+9	kìí	kìí	AUX	_	_	10	aux	_	Gloss=was|Ref=JOHN_10.16
 10	ṣe	ṣe	VERB	_	_	5	acl	_	Gloss=do|Ref=JOHN_10.16
 11	agbo	agbo	NOUN	_	_	10	obj	_	Gloss=flock|Ref=JOHN_10.16
 12	yìí	yìí	DET	_	_	11	det	_	SpaceAfter=No|Gloss=this|Ref=JOHN_10.16
-13	:	:	PUNCT	_	_	15	punct	_	Gloss=:|Ref=JOHN_10.16
-14	àwọn	àwọn	PRON	_	PronType=Ind	15	nsubj	_	Gloss=the|Ref=JOHN_10.16
-15	ni	ni	AUX	_	_	10	parataxis	_	Gloss=is|Ref=JOHN_10.16
+13	:	:	PUNCT	_	_	18	punct	_	Gloss=:|Ref=JOHN_10.16
+14	àwọn	àwọn	PRON	_	PronType=Ind	18	obj	_	Gloss=the|Ref=JOHN_10.16
+15	ni	ni	PART	_	_	14	case	_	Gloss=is|Ref=JOHN_10.16
 16	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	Gloss=i|Ref=JOHN_10.16
 17	yóò	yóò	AUX	_	_	18	aux	_	Gloss=shall|Ref=JOHN_10.16
-18	mú	mú	VERB	_	_	15	xcomp	_	Gloss=brought|Ref=JOHN_10.16
+18	mú	mú	VERB	_	_	3	parataxis	_	Gloss=brought|Ref=JOHN_10.16
 19	wá	wá	VERB	_	_	18	compound:svc	_	Gloss=come|Ref=JOHN_10.16
 20	pẹ̀lú	pẹ̀lú	ADP	_	_	19	compound:prt	_	SpaceAfter=No|Gloss=with|Ref=JOHN_10.16
 21	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=JOHN_10.16
@@ -1235,18 +1235,18 @@
 25	gbọ́	gbọ́	VERB	_	_	18	conj	_	Gloss=heard|Ref=JOHN_10.16
 26	ohùn	ohùn	NOUN	_	_	25	obj	_	Gloss=voice|Ref=JOHN_10.16
 27	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	26	nmod	_	SpaceAfter=No|Gloss=my|Ref=JOHN_10.16
-28	;	;	PUNCT	_	_	32	punct	_	Gloss=;|Ref=JOHN_10.16
-29	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	Gloss=them|Ref=JOHN_10.16
-30	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	32	expl	_	Gloss=will|Ref=JOHN_10.16
-31	sì	sì	CCONJ	_	_	32	cc	_	Gloss=then|Ref=JOHN_10.16
-32	jẹ́	jẹ́	VERB	_	_	18	conj	_	Gloss=be|Ref=JOHN_10.16
-33	agbo	agbo	NOUN	_	_	32	obj	_	Gloss=flock|Ref=JOHN_10.16
+28	;	;	PUNCT	_	_	33	punct	_	Gloss=;|Ref=JOHN_10.16
+29	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	Gloss=them|Ref=JOHN_10.16
+30	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	33	expl	_	Gloss=will|Ref=JOHN_10.16
+31	sì	sì	CCONJ	_	_	33	cc	_	Gloss=then|Ref=JOHN_10.16
+32	jẹ́	jẹ́	AUX	_	_	33	cop	_	Gloss=be|Ref=JOHN_10.16
+33	agbo	agbo	NOUN	_	_	18	conj	_	Gloss=flock|Ref=JOHN_10.16
 34	kan	kan	NUM	_	NumType=Card	33	nummod	_	SpaceAfter=No|Gloss=one|Ref=JOHN_10.16
 35	,	,	PUNCT	_	_	36	punct	_	Gloss=,|Ref=JOHN_10.16
 36	olùsọ́	olùsọ́	NOUN	_	_	33	conj	_	SpaceAfter=No|Gloss=shepherd|Ref=JOHN_10.16
 37	-	-	PUNCT	_	_	38	punct	_	SpaceAfter=No|Gloss=the|Ref=JOHN_10.16
 38	àgùntàn	àgùntàn	NOUN	_	_	36	compound	_	Gloss=sheep|Ref=JOHN_10.16
-39	kan	kan	NUM	_	NumType=Card	38	nummod	_	SpaceAfter=No|Gloss=one|Ref=JOHN_10.16
+39	kan	kan	NUM	_	NumType=Card	36	nummod	_	SpaceAfter=No|Gloss=one|Ref=JOHN_10.16
 40	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=JOHN_10.16
 
 # sent_id = JOHN_10.17
