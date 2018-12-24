@@ -1396,18 +1396,18 @@
 # sent_id = JOHN_10.22
 # text = Ó sì jẹ́ àjọ̀dún ìyàsímímọ́ ní Jérúsálẹ́mù, ìgbà òtútù ni.
 # text_en = And it was at jerusalem the feast of the dedication, and it was winter.
-1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=it|Ref=JOHN_10.22
-2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=JOHN_10.22
-3	jẹ́	jẹ́	AUX	_	_	0	root	_	Gloss=be|Ref=JOHN_10.22
-4	àjọ̀dún	àjọ̀dún	NOUN	_	_	5	nmod	_	Gloss=feast|Ref=JOHN_10.22
-5	ìyàsímímọ́	ìyàsímímọ́	NOUN	_	_	3	obj	_	Gloss=dedication|Ref=JOHN_10.22
-6	ní	ní	ADP	_	_	7	nmod	_	Gloss=in|Ref=JOHN_10.22
-7	Jérúsálẹ́mù	jérúsálẹ́mù	PROPN	_	_	3	iobj	_	Gloss=jerusalem|Ref=JOHN_10.22|SpaceAfter=No
+1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=it|Ref=JOHN_10.22
+2	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and|Ref=JOHN_10.22
+3	jẹ́	jẹ́	AUX	_	_	4	cop	_	Gloss=be|Ref=JOHN_10.22
+4	àjọ̀dún	àjọ̀dún	NOUN	_	_	0	root	_	Gloss=feast|Ref=JOHN_10.22
+5	ìyàsímímọ́	ìyàsímímọ́	NOUN	_	_	4	nmod	_	Gloss=dedication|Ref=JOHN_10.22
+6	ní	ní	ADP	_	_	7	case	_	Gloss=in|Ref=JOHN_10.22
+7	Jérúsálẹ́mù	jérúsálẹ́mù	PROPN	_	_	4	nmod	_	Gloss=jerusalem|Ref=JOHN_10.22|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.22
 9	ìgbà	ìgbà	NOUN	_	_	10	nmod	_	Gloss=time|Ref=JOHN_10.22
-10	òtútù	òtútù	NOUN	_	_	3	iobj	_	Gloss=winter|Ref=JOHN_10.22
-11	ni	ni	AUX	_	_	3	aux	_	Gloss=is|Ref=JOHN_10.22|SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=JOHN_10.22
+10	òtútù	òtútù	NOUN	_	_	4	conj	_	Gloss=winter|Ref=JOHN_10.22
+11	ni	ni	AUX	_	_	10	aux	_	Gloss=is|Ref=JOHN_10.22|SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=JOHN_10.22
 
 # sent_id = JOHN_10.23
 # text = Jésù sì ń rìn ní tẹ́mpílì, ní ìloro Sólómónì,
@@ -1417,11 +1417,11 @@
 3	ń	ń	AUX	_	_	4	aux	_	Gloss=is|Ref=JOHN_10.23
 4	rìn	rìn	VERB	_	_	0	root	_	Gloss=walk|Ref=JOHN_10.23
 5	ní	ní	ADP	_	_	6	case	_	Gloss=in|Ref=JOHN_10.23
-6	tẹ́mpílì	tẹ́mpílì	NOUN	_	_	4	obj	_	Gloss=temple|Ref=JOHN_10.23|SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.23
+6	tẹ́mpílì	tẹ́mpílì	NOUN	_	_	4	obl	_	Gloss=temple|Ref=JOHN_10.23|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=JOHN_10.23
 8	ní	ní	ADP	_	_	9	case	_	Gloss=in|Ref=JOHN_10.23
-9	ìloro	ìloro	NOUN	_	_	10	nmod	_	Gloss=threshold|Ref=JOHN_10.23
-10	Sólómónì	sólómónì	PROPN	_	_	4	iobj	_	Gloss=solomon|Ref=JOHN_10.23|SpaceAfter=No
+9	ìloro	ìloro	NOUN	_	_	4	obl	_	Gloss=threshold|Ref=JOHN_10.23
+10	Sólómónì	sólómónì	PROPN	_	_	9	nmod	_	Gloss=solomon|Ref=JOHN_10.23|SpaceAfter=No
 11	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=JOHN_10.23
 
 # sent_id = JOHN_10.24
