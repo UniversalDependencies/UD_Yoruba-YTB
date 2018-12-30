@@ -5,7 +5,7 @@
 # text_en = In the beginning god created the heaven and the earth.
 1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
-3	ohun	ohun	PRON	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
+3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
 4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
@@ -477,7 +477,7 @@
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.17
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.17
 3	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=GEN_1.17
-4	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	3	obj	_	Gloss=them|Ref=GEN_1.17
+4	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	obj	_	Gloss=them|Ref=GEN_1.17
 5	lọ́jọ̀	lọ́jọ̀	VERB	_	_	3	xcomp	_	Gloss=preserve|Ref=GEN_1.17
 6	sí	sí	ADP	_	_	7	case	_	Gloss=to|Ref=GEN_1.17
 7	ojú	ojú	NOUN	_	_	5	obl	_	Gloss=face|Ref=GEN_1.17
@@ -545,7 +545,7 @@
 12	kún	kún	VERB	_	_	3	ccomp	_	Gloss=full|Ref=GEN_1.20
 13	fún	fún	ADP	_	_	15	case	_	Gloss=unto|Ref=GEN_1.20
 14	àwọn	àwọn	PRON	_	PronType=Ind	15	det	_	Gloss=them|Ref=GEN_1.20
-15	ohun	ohun	PRON	_	_	12	obj	_	Gloss=things|Ref=GEN_1.20
+15	ohun	ohun	NOUN	_	_	12	obj	_	Gloss=things|Ref=GEN_1.20
 16	alààyè	alààyè	NOUN	_	_	15	nmod	_	Gloss=living|Ref=GEN_1.20|SpaceAfter=No
 17	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.20
 18	kí	kí	SCONJ	_	_	25	mark	_	Gloss=let|Ref=GEN_1.20
@@ -578,12 +578,12 @@
 12	inú	inú	ADP	_	_	13	case	_	Gloss=of|Ref=GEN_1.21
 13	òkun	òkun	NOUN	_	_	6	nmod	_	Gloss=sea|Ref=GEN_1.21|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=GEN_1.21
-15	àwọn	àwọn	PRON	_	PronType=Ind	16	det	_	Gloss=the|Ref=GEN_1.21
-16	ohun	ohun	PRON	_	_	6	conj	_	Gloss=things|Ref=GEN_1.21
+15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the|Ref=GEN_1.21
+16	ohun	ohun	NOUN	_	_	6	obj	_	Gloss=things|Ref=GEN_1.21
 17	ẹlẹ́mìí	ẹlẹ́mìí	NOUN	_	_	16	nmod	_	Gloss=breatheth|Ref=GEN_1.21
 18	àti	àti	CCONJ	_	_	20	cc	_	Gloss=and|Ref=GEN_1.21
 19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the|Ref=GEN_1.21
-20	ohun	ohun	PRON	_	_	6	conj	_	Gloss=things|Ref=GEN_1.21
+20	ohun	ohun	NOUN	_	_	6	obj	_	Gloss=things|Ref=GEN_1.21
 21	tí	tí	PRON	_	PronType=Rel	23	nsubj	_	Gloss=that|Ref=GEN_1.21
 22	ń	ń	AUX	_	_	23	aux	_	Gloss=that|Ref=GEN_1.21
 23	rìn	rìn	VERB	_	_	20	acl	_	Gloss=walk|Ref=GEN_1.21
@@ -681,7 +681,7 @@
 9	kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.24
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	expl	_	Gloss=he|Ref=GEN_1.24
 11	mú	mú	VERB	_	_	3	ccomp	_	Gloss=brought|Ref=GEN_1.24
-12	ohun	ohun	PRON	_	_	11	obj	_	Gloss=things|Ref=GEN_1.24
+12	ohun	ohun	NOUN	_	_	11	obj	_	Gloss=things|Ref=GEN_1.24
 13	alààyè	alààyè	NOUN	_	_	12	nmod	_	Gloss=living|Ref=GEN_1.24
 14	jáde	jáde	ADP	_	_	12	case	_	Gloss=out|Ref=GEN_1.24
 15	ní	ní	ADP	_	_	17	case	_	Gloss=in|Ref=GEN_1.24
@@ -692,7 +692,7 @@
 20	ọ̀sìn	ọ̀sìn	NOUN	_	_	19	nmod	_	Gloss=cattle|Ref=GEN_1.24|SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	Gloss=,|Ref=GEN_1.24
 22	àwọn	à	PRON	_	_	23	det	_	Gloss=the|Ref=GEN_1.24
-23	ohun	ohun	PRON	_	_	19	conj	_	Gloss=things|Ref=GEN_1.24
+23	ohun	ohun	NOUN	_	_	19	conj	_	Gloss=things|Ref=GEN_1.24
 24	afàyàfà	afàyàfà	NOUN	_	_	23	nmod	_	Gloss=creepeth|Ref=GEN_1.24
 25	àti	àti	CCONJ	_	_	27	cc	_	Gloss=and|Ref=GEN_1.24
 26	àwọn	àwọn	DET	_	_	27	det	_	Gloss=the|Ref=GEN_1.24
@@ -730,7 +730,7 @@
 13	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Gloss=its|Ref=GEN_1.25
 14	àti	àti	CCONJ	_	_	16	cc	_	Gloss=and|Ref=GEN_1.25
 15	gbogbo	gbogbo	DET	_	_	16	det	_	Gloss=all|Ref=GEN_1.25
-16	ohun	ohun	PRON	_	_	4	conj	_	Gloss=things|Ref=GEN_1.25
+16	ohun	ohun	NOUN	_	_	4	conj	_	Gloss=things|Ref=GEN_1.25
 17	alààyè	alààyè	NOUN	_	_	16	nmod	_	Gloss=living|Ref=GEN_1.25
 18	tí	tí	PRON	_	PronType=Rel	20	nsubj	_	Gloss=that|Ref=GEN_1.25
 19	ń	ń	AUX	_	_	20	aux	_	Gloss=is|Ref=GEN_1.25
@@ -791,14 +791,14 @@
 36	ojú	ojú	NOUN	_	_	35	nmod	_	Gloss=face|Ref=GEN_1.26
 37	ọ̀run	ọ̀run	NOUN	_	_	36	nmod	_	Gloss=heaven|Ref=GEN_1.26|SpaceAfter=No
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=,|Ref=GEN_1.26
-39	ohun	ohun	PRON	_	_	32	conj	_	Gloss=things|Ref=GEN_1.26
+39	ohun	ohun	NOUN	_	_	32	conj	_	Gloss=things|Ref=GEN_1.26
 40	ọ̀sìn	ọ̀sìn	NOUN	_	_	39	nmod	_	Gloss=cattle|Ref=GEN_1.26|SpaceAfter=No
 41	,	,	PUNCT	_	_	43	punct	_	Gloss=,|Ref=GEN_1.26
 42	gbogbo	gbogbo	DET	_	_	43	det	_	Gloss=all|Ref=GEN_1.26
 43	ilẹ̀	ilẹ̀	NOUN	_	_	32	conj	_	Gloss=land|Ref=GEN_1.26
 44	àti	àti	CCONJ	_	_	46	cc	_	Gloss=and|Ref=GEN_1.26
 45	lórí	lórí	ADP	_	_	46	case	_	Gloss=upon|Ref=GEN_1.26
-46	ohun	ohun	PRON	_	_	32	conj	_	Gloss=things|Ref=GEN_1.26
+46	ohun	ohun	NOUN	_	_	32	conj	_	Gloss=things|Ref=GEN_1.26
 47	gbogbo	gbogbo	DET	_	_	46	det	_	Gloss=all|Ref=GEN_1.26
 48	tí	tí	PRON	_	PronType=Rel	50	nsubj	_	Gloss=that|Ref=GEN_1.26
 49	ń	ń	AUX	_	_	50	aux	_	Gloss=is|Ref=GEN_1.26
@@ -930,12 +930,12 @@
 20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and|Ref=JOHN_10.4
 21	máa	máa	AUX	_	_	22	aux	_	Gloss=be|Ref=JOHN_10.4
 22	tọ̀	tọ̀	VERB	_	_	15	conj	_	Gloss=follow|Ref=JOHN_10.4
-23	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	22	obl	_	Gloss=him|Ref=JOHN_10.4
+23	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	22	obl	_	Gloss=him|Ref=JOHN_10.4
 24	lẹ́yìn	lẹ́yìn	ADP	_	_	23	case	_	Gloss=after|Ref=JOHN_10.4|SpaceAfter=No
 25	:	:	PUNCT	_	_	29	punct	_	Gloss=:|Ref=JOHN_10.4
 26	nítorí	nítorí	SCONJ	_	_	29	mark	_	Gloss=for|Ref=JOHN_10.4
 27	tí	tí	PRON	_	PronType=Rel	29	nsubj	_	Gloss=that|Ref=JOHN_10.4
-28	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs|Typo=Yes	29	expl	_	Gloss=they|Ref=JOHN_10.4
+28	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	expl	_	Gloss=they|Ref=JOHN_10.4
 29	mọ	mọ	VERB	_	_	22	advcl	_	Gloss=know|Ref=JOHN_10.4
 30	ohùn	ohùn	NOUN	_	_	29	obj	_	Gloss=voice|Ref=JOHN_10.4
 31	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	30	nmod	_	Gloss=his|Ref=JOHN_10.4|SpaceAfter=No
@@ -1543,7 +1543,7 @@
 5	tí	tí	PRON	_	PronType=Rel	7	expl	_	Gloss=that|Ref=JOHN_10.29
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	expl	_	Gloss=he|Ref=JOHN_10.29
 7	fi	fi	VERB	_	_	1	acl	_	Gloss=give|Ref=JOHN_10.29
-8	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	7	obj	_	Gloss=they|Ref=JOHN_10.29
+8	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	Gloss=they|Ref=JOHN_10.29
 9	fún	fún	ADP	_	_	10	case	_	Gloss=unto|Ref=JOHN_10.29
 10	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	Gloss=me|Ref=JOHN_10.29
 11	pọ̀	pọ̀	ADJ	_	_	0	root	_	Gloss=more|Ref=JOHN_10.29
@@ -1650,7 +1650,7 @@
 10	Àwa	àwa	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Gloss=we|Ref=JOHN_10.33
 11	kò	kò	PART	_	_	12	advmod	_	Gloss=not|Ref=JOHN_10.33
 12	sọ	sọ	VERB	_	_	4	ccomp	_	Gloss=throw|Ref=JOHN_10.33
-13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	12	obj	_	Gloss=him|Ref=JOHN_10.33
+13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Gloss=him|Ref=JOHN_10.33
 14	lókúta	lókúta	VERB	_	_	12	compound:svc	_	Gloss=stoned|Ref=JOHN_10.33
 15	nítorí	nítorí	SCONJ	_	_	16	case	_	Gloss=for|Ref=JOHN_10.33
 16	iṣẹ́	iṣẹ́	NOUN	_	_	12	obl	_	Gloss=work|Ref=JOHN_10.33
@@ -1693,7 +1693,7 @@
 10	ha	ha	X	_	_	12	discourse	_	Gloss=?|Ref=JOHN_10.34
 11	ti	ti	AUX	_	_	12	aux	_	Gloss=have|Ref=JOHN_10.34
 12	kọ	kọ	VERB	_	_	2	ccomp	_	Gloss=written|Ref=JOHN_10.34
-13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	12	obj	_	Gloss=it|Ref=JOHN_10.34
+13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Gloss=it|Ref=JOHN_10.34
 14	nínú	nínú	ADP	_	_	15	case	_	Gloss=in|Ref=JOHN_10.34
 15	òfin	òfin	NOUN	_	_	12	obl	_	Gloss=law|Ref=JOHN_10.34
 16	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	15	nmod	_	Gloss=your|Ref=JOHN_10.34
@@ -1740,7 +1740,7 @@
 3	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=i|Ref=JOHN_10.38
 4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if|Ref=JOHN_10.38
 5	ṣe	ṣe	AUX	_	_	17	advcl	_	Gloss=be|Ref=JOHN_10.38
-6	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	5	obj	_	Gloss=they|Ref=JOHN_10.38|SpaceAfter=No
+6	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	obj	_	Gloss=they|Ref=JOHN_10.38|SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=JOHN_10.38
 8	bí	bí	SCONJ	_	_	12	mark	_	Gloss=if|Ref=JOHN_10.38
 9	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	Gloss=ye|Ref=JOHN_10.38
@@ -2102,7 +2102,7 @@
 7	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=his|Ref=JOHN_11.13|SpaceAfter=No
 8	:	:	PUNCT	_	_	11	punct	_	Gloss=:|Ref=JOHN_11.13
 9	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	11	cc	_	Gloss=but|Ref=JOHN_11.13
-10	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs|Typo=Yes	11	nsubj	_	Gloss=they|Ref=JOHN_11.13
+10	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	Gloss=they|Ref=JOHN_11.13
 11	rò	rò	VERB	_	_	4	conj	_	Gloss=think|Ref=JOHN_11.13
 12	pé	pé	SCONJ	_	_	16	mark	_	Gloss=that|Ref=JOHN_11.13|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=JOHN_11.13
@@ -2257,7 +2257,7 @@
 10	Màríà	màríà	PROPN	_	_	8	conj	_	Gloss=mary|Ref=JOHN_11.19
 11	láti	láti	ADP	_	_	12	mark	_	Gloss=to|Ref=JOHN_11.19
 12	tù	tù	VERB	_	_	6	advcl	_	Gloss=comfort|Ref=JOHN_11.19
-13	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|Typo=Yes	12	obj	_	Gloss=them|Ref=JOHN_11.19
+13	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs|
 14	nínú	nínú	ADP	_	_	17	case	_	Gloss=in|Ref=JOHN_11.19
 15	nítorí	nítorí	SCONJ	_	_	17	case	_	Gloss=for|Ref=JOHN_11.19
 16	ti	ti	ADP	_	_	17	case	_	Gloss=of|Ref=JOHN_11.19
@@ -2493,7 +2493,7 @@
 28	sì	sì	CCONJ	_	_	30	cc	_	Gloss=and|Ref=JOHN_11.28
 29	ń	ń	AUX	_	_	30	aux	_	Gloss=is|Ref=JOHN_11.28
 30	pè	pè	VERB	_	_	25	conj	_	Gloss=calling|Ref=JOHN_11.28
-31	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Typo=Yes	30	obj	_	SpaceAfter=No|Gloss=thee|Ref=JOHN_11.28
+31	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	30	obj	_	SpaceAfter=No|Gloss=thee|Ref=JOHN_11.28
 32	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No|Gloss=.|Ref=JOHN_11.28
 33	”	”	PUNCT	_	_	25	punct	_	Gloss=”|Ref=JOHN_11.28
 
@@ -2555,7 +2555,7 @@
 11	ilé	ilé	NOUN	_	_	4	acl	_	Gloss=house|Ref=JOHN_11.31|SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=JOHN_11.31
 13	tí	tí	PRON	_	PronType=Rel	16	nsubj	_	Gloss=that|Ref=JOHN_11.31
-14	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs|Typo=Yes	16	expl	_	Gloss=they|Ref=JOHN_11.31
+14	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	expl	_	Gloss=they|Ref=JOHN_11.31
 15	ń	ń	AUX	_	_	16	aux	_	Gloss=is|Ref=JOHN_11.31
 16	tù	tù	VERB	_	_	11	conj	_	Gloss=comfort|Ref=JOHN_11.31
 17	ú	ú	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	obj	_	Gloss=her|Ref=JOHN_11.31
@@ -2572,10 +2572,10 @@
 28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=JOHN_11.31
 29	jáde	jáde	VERB	_	_	23	conj	_	Gloss=out|Ref=JOHN_11.31|SpaceAfter=No
 30	,	,	PUNCT	_	_	19	punct	_	Gloss=,|Ref=JOHN_11.31
-31	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs|Typo=Yes	32	nsubj	_	Gloss=they|Ref=JOHN_11.31
+31	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	Gloss=they|Ref=JOHN_11.31
 32	tẹ̀lé	tẹ̀lé	VERB	_	_	0	root	_	Gloss=follow|Ref=JOHN_11.31|SpaceAfter=No
 33	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=JOHN_11.31
-34	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs|Typo=Yes	35	nsubj	_	Gloss=they|Ref=JOHN_11.31
+34	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	nsubj	_	Gloss=they|Ref=JOHN_11.31
 35	ṣebí	ṣebí	VERB	_	_	32	conj	_	Gloss=suppose|Ref=JOHN_11.31
 36	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	38	nsubj	_	Gloss=she|Ref=JOHN_11.31
 37	ń	ń	AUX	_	_	38	aux	_	Gloss=is|Ref=JOHN_11.31
@@ -2854,7 +2854,7 @@
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.41
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that|Ref=JOHN_11.41
 3	ni	ni	AUX	_	_	5	aux	_	Gloss=is|Ref=JOHN_11.41
-4	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs|Typo=Yes	5	nsubj	_	Gloss=they|Ref=JOHN_11.41
+4	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they|Ref=JOHN_11.41
 5	gbé	gbé	VERB	_	_	0	root	_	Gloss=carry|Ref=JOHN_11.41
 6	òkúta	òkúta	NOUN	_	_	5	obj	_	Gloss=stone|Ref=JOHN_11.41
 7	náà	náà	DET	_	_	6	det	_	Gloss=the|Ref=JOHN_11.41
