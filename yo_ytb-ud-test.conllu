@@ -278,12 +278,12 @@
 13	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	12	obj	_	Gloss=herb|Ref=GEN_1.11|SpaceAfter=No
 14	:	:	PUNCT	_	_	19	punct	_	Gloss=:|Ref=GEN_1.11
 15	ewéko	ewéko	NOUN	_	_	19	nsubj	_	Gloss=herb|Ref=GEN_1.11
-16	tí	tí	AUX	_	_	19	aux	_	Gloss=that|Ref=GEN_1.11
+16	tí	tí	PRON	_	_	19	expl	_	Gloss=that|Ref=GEN_1.11
 17	yóò	yóò	AUX	_	_	19	aux	_	Gloss=shall|Ref=GEN_1.11
 18	máa	máa	AUX	_	_	19	aux	_	Gloss=be|Ref=GEN_1.11
 19	mú	mú	VERB	_	_	12	parataxis	_	Gloss=bring|Ref=GEN_1.11
 20	èṣo	èṣo	NOUN	_	_	19	obj	_	Gloss=fruit|Ref=GEN_1.11
-21	wá	wá	AUX	_	_	19	aux	_	Gloss=forth|Ref=GEN_1.11
+21	wá	wá	VERB	_	_	19	compound:svc	_	Gloss=forth|Ref=GEN_1.11
 22	àti	àti	CCONJ	_	_	27	cc	_	Gloss=and|Ref=GEN_1.11
 23	igi	igi	NOUN	_	_	27	nsubj	_	Gloss=tree|Ref=GEN_1.11
 24	tí	tí	PRON	_	PronType=Rel	27	expl	_	Gloss=that|Ref=GEN_1.11
@@ -859,7 +859,7 @@
 2	ẹni	ẹni	PRON	_	PronType=Ind	14	nsubj	_	Gloss=someone|Ref=JOHN_10.2
 3	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=JOHN_10.2
 4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=he|Ref=JOHN_10.2
-5	bá	bá	AUX	_	_	10	aux	_	Gloss=if|Ref=JOHN_10.2
+5	bá	bá	SCONJ	_	_	10	mark	_	Gloss=if|Ref=JOHN_10.2
 6	ti	ti	AUX	_	_	10	aux	_	Gloss=have|Ref=JOHN_10.2
 7	ẹnu	ẹnu	NOUN	_	_	10	obj	_	Gloss=mouth|Ref=JOHN_10.2|SpaceAfter=No
 8	-	-	PUNCT	_	_	9	punct	_	Gloss=-|Ref=JOHN_10.2|SpaceAfter=No
@@ -896,13 +896,13 @@
 18	àgùntàn	àgùntàn	NOUN	_	_	16	obj	_	Gloss=sheep|Ref=JOHN_10.3
 19	tirẹ̀	tirẹ̀	ADJ	_	_	18	nmod	_	Gloss=his|Ref=JOHN_10.3
 20	lórúkọ	lórúkọ	NOUN	_	_	16	obl	_	SpaceAfter=No|Gloss=name|Ref=JOHN_10.3
-21	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=JOHN_10.3
-22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	Gloss=he|Ref=JOHN_10.3
-23	sì	sì	CCONJ	_	_	25	cc	_	Gloss=and|Ref=JOHN_10.3
-24	se	se	AUX	_	_	25	aux	_	Gloss=do|Ref=JOHN_10.3
-25	amọ̀nà	amọ̀nà	NOUN	_	_	5	conj	_	Gloss=guide|Ref=JOHN_10.3
-26	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	25	obj	_	Gloss=them|Ref=JOHN_10.3
-27	jáde	jáde	NOUN	_	_	25	obl	_	SpaceAfter=No|Gloss=out|Ref=JOHN_10.3
+21	,	,	PUNCT	_	_	24	punct	_	Gloss=,|Ref=JOHN_10.3
+22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	Gloss=he|Ref=JOHN_10.3
+23	sì	sì	CCONJ	_	_	24	cc	_	Gloss=and|Ref=JOHN_10.3
+24	se	ṣe	VERB	_	_	5	conj	_	Gloss=do|Ref=JOHN_10.3
+25	amọ̀nà	amọ̀nà	NOUN	_	_	24	compound	_	Gloss=guide|Ref=JOHN_10.3
+26	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	24	obj	_	Gloss=them|Ref=JOHN_10.3
+27	jáde	jáde	VERB	_	_	24	compound:svc	_	SpaceAfter=No|Gloss=out|Ref=JOHN_10.3
 28	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.3
 
 # sent_id = JOHN_10.4
@@ -2922,7 +2922,7 @@
 23	yìí	yìí	DET	_	_	22	obl	_	Gloss=this|Ref=JOHN_11.42
 24	ni	ni	PART	_	_	18	case	_	Gloss=is|Ref=JOHN_11.42
 25	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	Gloss=i|Ref=JOHN_11.42
-26	ṣe	ṣe	AUX	_	_	4	conj	_	Gloss=do|Ref=JOHN_11.42
+26	ṣe	ṣe	VERB	_	_	4	conj	_	Gloss=do|Ref=JOHN_11.42
 27	wí	wí	VERB	_	_	26	compound:svc	_	Gloss=said|Ref=JOHN_11.42
 28	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	27	obj	_	Gloss=it|Ref=JOHN_11.42|SpaceAfter=No
 29	,	,	PUNCT	_	_	34	punct	_	Gloss=,|Ref=JOHN_11.42
@@ -3018,12 +3018,12 @@
 # sent_id = JOHN_11.45
 # text = Nítorí náà ni ọ̀pọ̀ àwọn Júù tí ó wá sọ́dọ̀ Màríà, tí wọ́n rí ohun tí Jésù ṣe, ṣe gbà á gbọ́.
 # text_en = Then many of the jews which came to mary, and had seen the things which jesus did, believed on him.
-1	Nítorí	nítorí	ADV	_	_	22	advmod	_	Gloss=for|Ref=JOHN_11.45
-2	náà	náà	ADV	_	_	22	advcl	_	Gloss=that|Ref=JOHN_11.45
-3	ni	ni	AUX	_	_	22	aux	_	Gloss=is|Ref=JOHN_11.45
+1	Nítorí	nítorí	ADV	_	_	21	advmod	_	Gloss=for|Ref=JOHN_11.45
+2	náà	náà	ADV	_	_	21	advcl	_	Gloss=that|Ref=JOHN_11.45
+3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.45
 4	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	6	amod	_	Gloss=many|Ref=JOHN_11.45
 5	àwọn	àwọn	DET	_	_	6	det	_	Gloss=the|Ref=JOHN_11.45
-6	Júù	júù	PROPN	_	_	22	nsubj	_	Gloss=jews|Ref=JOHN_11.45
+6	Júù	júù	PROPN	_	_	21	nsubj	_	Gloss=jews|Ref=JOHN_11.45
 7	tí	tí	PRON	_	PronType=Rel	9	nsubj	_	Gloss=that|Ref=JOHN_11.45
 8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	expl	_	Gloss=has|Ref=JOHN_11.45
 9	wá	wá	VERB	_	_	6	acl	_	Gloss=come|Ref=JOHN_11.45
@@ -3038,11 +3038,11 @@
 18	Jésù	jésù	PROPN	_	_	19	nsubj	_	Gloss=jesus|Ref=JOHN_11.45
 19	ṣe	ṣe	VERB	_	_	16	acl	_	Gloss=do|Ref=JOHN_11.45|SpaceAfter=No
 20	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=JOHN_11.45
-21	ṣe	ṣe	AUX	_	_	22	aux	_	Gloss=do|Ref=JOHN_11.45
-22	gbà	gbà	VERB	_	_	0	root	_	Gloss=agree|Ref=JOHN_11.45
-23	á	á	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	22	obj	_	Gloss=him|Ref=JOHN_11.45
-24	gbọ́	gbọ́	VERB	_	_	22	compound:svc	_	Gloss=hear|Ref=JOHN_11.45|SpaceAfter=No
-25	.	.	PUNCT	_	_	22	punct	_	Gloss=.|Ref=JOHN_11.45
+21	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=JOHN_11.45
+22	gbà	gbà	VERB	_	_	21	compound:svc	_	Gloss=agree|Ref=JOHN_11.45
+23	á	á	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	21	obj	_	Gloss=him|Ref=JOHN_11.45
+24	gbọ́	gbọ́	VERB	_	_	21	compound:svc	_	Gloss=hear|Ref=JOHN_11.45|SpaceAfter=No
+25	.	.	PUNCT	_	_	21	punct	_	Gloss=.|Ref=JOHN_11.45
 
 # sent_id = JOHN_11.46
 # text = Ṣùgbọ́n àwọn ẹlòmíràn nínú wọn tọ àwọn Farisí lọ, wọ́n sì sọ fún wọn ohun tí Jésù ṣe.
