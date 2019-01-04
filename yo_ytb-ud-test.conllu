@@ -389,7 +389,7 @@
 23	,	,	PUNCT	_	_	29	punct	_	Gloss=,|Ref=GEN_1.14
 24	kí	kí	AUX	_	_	29	aux	_	Gloss=let|Ref=GEN_1.14
 25	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	Gloss=them|Ref=GEN_1.14
-26	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nmod	_	Gloss=|Ref=GEN_1.14
+26	ó	ó	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	aux	_	Gloss=|Ref=GEN_1.14
 27	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=GEN_1.14
 28	máa	máa	AUX	_	_	29	aux	_	Gloss=be|Ref=GEN_1.14
 29	wà	wà	VERB	_	_	11	conj	_	Gloss=was|Ref=GEN_1.14
@@ -413,7 +413,7 @@
 # text_en = And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
 1	Kí	kí	AUX	_	_	5	aux	_	Gloss=let|Ref=GEN_1.15
 2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=them|Ref=GEN_1.15
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=|Ref=GEN_1.15
+3	ó	ó	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	aux	_	Gloss=|Ref=GEN_1.15
 4	jẹ́	jẹ́	AUX	_	_	5	cop	_	Gloss=be|Ref=GEN_1.15
 5	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	0	root	_	Gloss=light|Ref=GEN_1.15
 6	ní	ní	ADP	_	_	7	case	_	Gloss=in|Ref=GEN_1.15
