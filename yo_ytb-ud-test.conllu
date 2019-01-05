@@ -158,8 +158,8 @@
 9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=he|Ref=GEN_1.7
 10	wà	wà	VERB	_	_	7	acl	_	Gloss=was|Ref=GEN_1.7
 11	ní	ní	ADP	_	_	12	case	_	Gloss=in|Ref=GEN_1.7
-12	òkè	òkè	NOUN	_	_	13	compound	_	Gloss=mount|Ref=GEN_1.7
-13	òfuurufú	òfuurufú	NOUN	_	_	10	obl	_	Gloss=firmament|Ref=GEN_1.7
+12	òkè	òkè	NOUN	_	_	10	obl	_	Gloss=mount|Ref=GEN_1.7
+13	òfuurufú	òfuurufú	NOUN	_	_	12	nmod	_	Gloss=firmament|Ref=GEN_1.7
 14	kúrò	kúrò	ADP	_	_	16	case	_	Gloss=from|Ref=GEN_1.7
 15	lára	lára	ADP	_	_	16	case	_	Gloss=of|Ref=GEN_1.7
 16	omi	omi	NOUN	_	_	6	obl	_	Gloss=water|Ref=GEN_1.7
@@ -276,20 +276,20 @@
 11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=it|Ref=GEN_1.11
 12	hu	hu	VERB	_	_	3	ccomp	_	Gloss=germinate|Ref=GEN_1.11
 13	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	12	obj	_	Gloss=herb|Ref=GEN_1.11|SpaceAfter=No
-14	:	:	PUNCT	_	_	19	punct	_	Gloss=:|Ref=GEN_1.11
-15	ewéko	ewéko	NOUN	_	_	19	nsubj	_	Gloss=herb|Ref=GEN_1.11
-16	tí	tí	PRON	_	_	19	expl	_	Gloss=that|Ref=GEN_1.11
+14	:	:	PUNCT	_	_	15	punct	_	Gloss=:|Ref=GEN_1.11
+15	ewéko	ewéko	NOUN	_	_	12	parataxis	_	Gloss=herb|Ref=GEN_1.11
+16	tí	tí	PRON	_	_	19	nsubj	_	Gloss=that|Ref=GEN_1.11
 17	yóò	yóò	AUX	_	_	19	aux	_	Gloss=shall|Ref=GEN_1.11
 18	máa	máa	AUX	_	_	19	aux	_	Gloss=be|Ref=GEN_1.11
-19	mú	mú	VERB	_	_	12	parataxis	_	Gloss=bring|Ref=GEN_1.11
+19	mú	mú	VERB	_	_	15	acl	_	Gloss=bring|Ref=GEN_1.11
 20	èṣo	èṣo	NOUN	_	_	19	obj	_	Gloss=fruit|Ref=GEN_1.11
 21	wá	wá	VERB	_	_	19	compound:svc	_	Gloss=forth|Ref=GEN_1.11
-22	àti	àti	CCONJ	_	_	27	cc	_	Gloss=and|Ref=GEN_1.11
-23	igi	igi	NOUN	_	_	27	nsubj	_	Gloss=tree|Ref=GEN_1.11
-24	tí	tí	PRON	_	PronType=Rel	27	expl	_	Gloss=that|Ref=GEN_1.11
+22	àti	àti	CCONJ	_	_	23	cc	_	Gloss=and|Ref=GEN_1.11
+23	igi	igi	NOUN	_	_	15	conj	_	Gloss=tree|Ref=GEN_1.11
+24	tí	tí	PRON	_	PronType=Rel	27	nsubj	_	Gloss=that|Ref=GEN_1.11
 25	yóò	yóò	AUX	_	_	27	aux	_	Gloss=shall|Ref=GEN_1.11
 26	máa	máa	AUX	_	_	27	aux	_	Gloss=be|Ref=GEN_1.11
-27	so	so	VERB	_	_	19	conj	_	Gloss=hanged|Ref=GEN_1.11
+27	so	so	VERB	_	_	23	acl	_	Gloss=hanged|Ref=GEN_1.11
 28	èṣo	èṣo	NOUN	_	_	27	obj	_	Gloss=fruit|Ref=GEN_1.11
 29	ní	ní	ADP	_	_	31	case	_	Gloss=in|Ref=GEN_1.11
 30	irú	irú	ADJ	_	_	31	amod	_	Gloss=such|Ref=GEN_1.11
@@ -297,7 +297,7 @@
 32	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=GEN_1.11
 33	tí	tí	PRON	_	PronType=Rel	35	nsubj	_	Gloss=that|Ref=GEN_1.11
 34	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	35	expl	_	Gloss=it|Ref=GEN_1.11
-35	ní	ní	VERB	_	_	27	advcl	_	Gloss=has|Ref=GEN_1.11
+35	ní	ní	VERB	_	_	27	conj	_	Gloss=has|Ref=GEN_1.11
 36	irúgbìn	irúgbìn	NOUN	_	_	35	obj	_	Gloss=seed|Ref=GEN_1.11
 37	nínú	nínú	ADP	_	_	35	obl	_	SpaceAfter=No|Gloss=in|Ref=GEN_1.11
 38	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No|Gloss=.|Ref=GEN_1.11
@@ -315,22 +315,22 @@
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.12
 3	hù	hu	NOUN	_	_	0	root	_	Gloss=grow|Ref=GEN_1.12
 4	ọ̀gbìn	ọ̀gbìn	NOUN	_	_	3	obj	_	SpaceAfter=No|Gloss=herb|Ref=GEN_1.12
-5	:	:	PUNCT	_	_	10	punct	_	Gloss=:|Ref=GEN_1.12
-6	ewéko	ewéko	NOUN	_	_	10	nsubj	_	Gloss=herb|Ref=GEN_1.12
-7	tí	tí	PRON	_	PronType=Rel	10	expl	_	Gloss=that|Ref=GEN_1.12
+5	:	:	PUNCT	_	_	6	punct	_	Gloss=:|Ref=GEN_1.12
+6	ewéko	ewéko	NOUN	_	_	3	parataxis	_	Gloss=herb|Ref=GEN_1.12
+7	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=GEN_1.12
 8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=is|Ref=GEN_1.12
 9	ń	ń	AUX	_	_	10	aux	_	Gloss=that|Ref=GEN_1.12
-10	so	so	VERB	_	_	3	conj	_	Gloss=bear|Ref=GEN_1.12
+10	so	so	VERB	_	_	6	acl	_	Gloss=bear|Ref=GEN_1.12
 11	èṣo	èṣo	NOUN	_	_	10	obj	_	Gloss=fruit|Ref=GEN_1.12
 12	ní	ní	ADP	_	_	14	case	_	Gloss=in|Ref=GEN_1.12
 13	irú	irú	ADJ	_	_	14	amod	_	Gloss=such|Ref=GEN_1.12
 14	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	obl	_	SpaceAfter=No|Gloss=kind|Ref=GEN_1.12
-15	,	,	PUNCT	_	_	20	punct	_	Gloss=,|Ref=GEN_1.12
-16	àti	àti	CCONJ	_	_	20	cc	_	Gloss=and|Ref=GEN_1.12
-17	igi	igi	NOUN	_	_	20	nsubj	_	Gloss=tree|Ref=GEN_1.12
-18	tí	tí	PRON	_	PronType=Rel	20	expl	_	Gloss=that|Ref=GEN_1.12
+15	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=GEN_1.12
+16	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and|Ref=GEN_1.12
+17	igi	igi	NOUN	_	_	6	conj	_	Gloss=tree|Ref=GEN_1.12
+18	tí	tí	PRON	_	PronType=Rel	20	nsubj	_	Gloss=that|Ref=GEN_1.12
 19	ń	ń	AUX	_	_	20	aux	_	Gloss=is|Ref=GEN_1.12
-20	so	so	VERB	_	_	10	conj	_	Gloss=bear|Ref=GEN_1.12
+20	so	so	VERB	_	_	17	acl	_	Gloss=bear|Ref=GEN_1.12
 21	èṣo	èṣo	NOUN	_	_	20	obj	_	SpaceAfter=No|Gloss=fruit|Ref=GEN_1.12
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.12
 23	tí	tí	PRON	_	PronType=Rel	25	nsubj	_	Gloss=that|Ref=GEN_1.12
@@ -828,8 +828,8 @@
 13	kò	kò	PART	_	_	15	advmod	_	Gloss=not|Ref=JOHN_10.1
 14	bá	bá	SCONJ	_	_	15	mark	_	Gloss=if|Ref=JOHN_10.1
 15	gba	gba	VERB	_	_	11	acl	_	Gloss=pass|Ref=JOHN_10.1
-16	ẹnu	ẹnu	NOUN	_	_	17	nmod	_	Gloss=mouth|Ref=JOHN_10.1
-17	ọ̀nà	ọ̀nà	NOUN	_	_	15	obj	_	Gloss=way|Ref=JOHN_10.1
+16	ẹnu	ẹnu	NOUN	_	_	15	obj	_	Gloss=mouth|Ref=JOHN_10.1
+17	ọ̀nà	ọ̀nà	NOUN	_	_	16	nmod	_	Gloss=way|Ref=JOHN_10.1
 18	wọ	wọ	VERB	_	_	15	xcomp	_	Gloss=enter|Ref=JOHN_10.1
 19	inú	inú	ADP	_	_	20	case	_	Gloss=into|Ref=JOHN_10.1
 20	agbo	agbo	NOUN	_	_	18	obl	_	Gloss=flock|Ref=JOHN_10.1
@@ -909,7 +909,7 @@
 # text = Nígbà tí ó bá sì ti mú àwọn àgùntàn tirẹ̀ jáde, yóò ṣíwájú wọn, àwọn àgùntàn yóò sì máa tọ̀ ọ́ lẹ́yìn: nítorí tí wọ́n mọ ohùn rẹ̀.
 # text_en = And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.
 1	Nígbà	nígbà	ADV	_	_	7	mark	_	Gloss=when|Ref=JOHN_10.4
-2	tí	tí	PRON	_	PronType=Rel	7	nsubj	_	Gloss=that|Ref=JOHN_10.4
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_10.4
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	expl	_	Gloss=he|Ref=JOHN_10.4
 4	bá	bá	SCONJ	_	_	7	mark	_	Gloss=if|Ref=JOHN_10.4
 5	sì	sì	CCONJ	_	_	7	cc	_	Gloss=and|Ref=JOHN_10.4
@@ -917,8 +917,8 @@
 7	mú	mú	VERB	_	_	15	advcl	_	Gloss=brought|Ref=JOHN_10.4
 8	àwọn	àwọn	DET	_	_	9	det	_	Gloss=the|Ref=JOHN_10.4
 9	àgùntàn	àgùntàn	NOUN	_	_	7	obj	_	Gloss=sheep|Ref=JOHN_10.4
-10	tirẹ̀	tirẹ̀	ADJ	_	_	9	nmod	_	Gloss=his|Ref=JOHN_10.4
-11	jáde	jáde	NOUN	_	_	7	obl	_	Gloss=out|Ref=JOHN_10.4|SpaceAfter=No
+10	tirẹ̀	tirẹ̀	ADJ	_	_	9	amod	_	Gloss=his|Ref=JOHN_10.4
+11	jáde	jáde	VERB	_	_	7	compound:svc	_	Gloss=out|Ref=JOHN_10.4|SpaceAfter=No
 12	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=JOHN_10.4
 13	yóò	yóò	AUX	_	_	15	cop	_	Gloss=shall|Ref=JOHN_10.4
 14	ṣíwájú	ṣíwájú	ADP	_	_	15	case	_	Gloss=before|Ref=JOHN_10.4
@@ -934,8 +934,8 @@
 24	lẹ́yìn	lẹ́yìn	ADP	_	_	23	case	_	Gloss=after|Ref=JOHN_10.4|SpaceAfter=No
 25	:	:	PUNCT	_	_	29	punct	_	Gloss=:|Ref=JOHN_10.4
 26	nítorí	nítorí	SCONJ	_	_	29	mark	_	Gloss=for|Ref=JOHN_10.4
-27	tí	tí	PRON	_	PronType=Rel	29	nsubj	_	Gloss=that|Ref=JOHN_10.4
-28	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	expl	_	Gloss=they|Ref=JOHN_10.4
+27	tí	tí	PRON	_	PronType=Rel	26	fixed	_	Gloss=that|Ref=JOHN_10.4
+28	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	Gloss=they|Ref=JOHN_10.4
 29	mọ	mọ	VERB	_	_	22	advcl	_	Gloss=know|Ref=JOHN_10.4
 30	ohùn	ohùn	NOUN	_	_	29	obj	_	Gloss=voice|Ref=JOHN_10.4
 31	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	30	nmod	_	Gloss=his|Ref=JOHN_10.4|SpaceAfter=No
@@ -960,8 +960,8 @@
 14	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	obl	_	Gloss=his|Ref=JOHN_10.5|SpaceAfter=No
 15	:	:	PUNCT	_	_	20	punct	_	Gloss=:|Ref=JOHN_10.5
 16	nítorí	nítorí	SCONJ	_	_	20	mark	_	Gloss=for|Ref=JOHN_10.5
-17	tí	tí	PRON	_	PronType=Rel	20	nsubj	_	Gloss=that|Ref=JOHN_10.5
-18	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	expl	_	Gloss=them|Ref=JOHN_10.5
+17	tí	tí	PRON	_	PronType=Rel	16	fixed	_	Gloss=that|Ref=JOHN_10.5
+18	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	Gloss=them|Ref=JOHN_10.5
 19	kò	kò	PART	_	_	20	advmod	_	Gloss=not|Ref=JOHN_10.5
 20	mọ	mọ	VERB	_	_	4	advcl	_	Gloss=know|Ref=JOHN_10.5
 21	ohùn	ohùn	NOUN	_	_	20	obj	_	Gloss=voice|Ref=JOHN_10.5
@@ -983,7 +983,7 @@
 9	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	23	cc	_	Gloss=but|Ref=JOHN_10.6
 10	òye	òye	NOUN	_	_	23	nsubj	_	Gloss=understanding|Ref=JOHN_10.6
 11	ohun	ohun	NOUN	_	_	10	nmod	_	Gloss=things|Ref=JOHN_10.6
-12	tí	tí	PRON	_	PronType=Rel	10	acl	_	Gloss=that|Ref=JOHN_10.6
+12	tí	tí	PRON	_	PronType=Rel	11	acl	_	Gloss=that|Ref=JOHN_10.6
 13	nǹkan	nǹkan	NOUN	_	_	12	nsubj	_	Gloss=things|Ref=JOHN_10.6
 14	wọ̀nyí	wọ̀nyí	DET	_	_	13	det	_	Gloss=these|Ref=JOHN_10.6
 15	jẹ́	jẹ́	AUX	_	_	12	cop	_	Gloss=be|Ref=JOHN_10.6
@@ -1159,7 +1159,7 @@
 8	àgùntàn	àgùntàn	NOUN	_	_	7	nmod	_	SpaceAfter=No|Gloss=sheep|Ref=JOHN_10.12
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.12
 10	ẹni	ẹni	PRON	_	PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_10.12
-11	tí	tí	PRON	_	PronType=Rel	15	expl	_	Gloss=that|Ref=JOHN_10.12
+11	tí	tí	PRON	_	PronType=Rel	15	obj	_	Gloss=that|Ref=JOHN_10.12
 12	àwọn	àwọn	DET	_	_	13	det	_	Gloss=the|Ref=JOHN_10.12
 13	àgùntàn	àgùntàn	NOUN	_	_	15	nsubj	_	Gloss=sheep|Ref=JOHN_10.12
 14	kìí	kìí	PART	_	_	15	mark	_	Gloss=was|Ref=JOHN_10.12
@@ -1193,8 +1193,8 @@
 2	sá	sá	VERB	_	_	0	root	_	Gloss=fled|Ref=JOHN_10.13
 3	lọ	lọ	VERB	_	_	2	compound:svc	_	Gloss=go|Ref=JOHN_10.13
 4	nítorí	nítorí	SCONJ	_	_	8	mark	_	Gloss=because|Ref=JOHN_10.13
-5	tí	tí	PRON	_	PronType=Rel	8	nsubj	_	Gloss=that|Ref=JOHN_10.13
-6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	expl	_	Gloss=he|Ref=JOHN_10.13
+5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	Gloss=that|Ref=JOHN_10.13
+6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he|Ref=JOHN_10.13
 7	jẹ́	jẹ́	AUX	_	_	8	cop	_	Gloss=be|Ref=JOHN_10.13
 8	alágbàṣe	alágbàṣe	NOUN	_	_	2	advcl	_	Gloss=hired|Ref=JOHN_10.13|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=JOHN_10.13
@@ -1262,7 +1262,7 @@
 8	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	Gloss=me|Ref=JOHN_10.17|SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_10.17
 10	nítorí	nítorí	SCONJ	_	_	13	mark	_	Gloss=for|Ref=JOHN_10.17
-11	tí	tí	PRON	_	PronType=Rel	13	expl	_	Gloss=that|Ref=JOHN_10.17
+11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	Gloss=that|Ref=JOHN_10.17
 12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Gloss=i|Ref=JOHN_10.17
 13	fi	fi	VERB	_	_	6	advcl	_	Gloss=gave|Ref=JOHN_10.17
 14	ẹ̀mí	ẹ̀mí	NOUN	_	_	13	obj	_	Gloss=life|Ref=JOHN_10.17
@@ -1353,7 +1353,7 @@
 17	dàrú	dàrú	VERB	_	_	10	conj	_	Gloss=troubled|Ref=JOHN_10.20|SpaceAfter=No
 18	;	;	PUNCT	_	_	22	punct	_	Gloss=;|Ref=JOHN_10.20
 19	èéṣe	èéṣe	PRON	_	PronType=Int	22	obl	_	Gloss=why|Ref=JOHN_10.20
-20	tí	tí	PRON	_	PronType=Rel	22	expl	_	Gloss=that|Ref=JOHN_10.20
+20	tí	tí	PRON	_	PronType=Rel	19	fixed	_	Gloss=that|Ref=JOHN_10.20
 21	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	22	nsubj	_	Gloss=ye|Ref=JOHN_10.20
 22	fi	fi	VERB	_	_	10	parataxis	_	Gloss=do|Ref=JOHN_10.20
 23	ń	ń	AUX	_	_	24	aux	_	Gloss=is|Ref=JOHN_10.20
@@ -1527,7 +1527,7 @@
 15	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	19	advmod	_	Gloss=according|Ref=JOHN_10.26
 16	bí	bí	SCONJ	_	_	19	mark	_	Gloss=as|Ref=JOHN_10.26
 17	mo	mo	VERB	_	_	19	nsubj	_	Gloss=i|Ref=JOHN_10.26
-18	tí	tí	PRON	_	PronType=Rel	19	obj	_	Gloss=that|Ref=JOHN_10.26
+18	tí	ti	AUX	_	PronType=Rel	19	aux	_	Gloss=that|Ref=JOHN_10.26
 19	wí	wí	VERB	_	_	9	advcl	_	Gloss=said|Ref=JOHN_10.26
 20	fún	fún	ADP	_	_	21	case	_	Gloss=unto|Ref=JOHN_10.26
 21	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	obl	_	Gloss=you|Ref=JOHN_10.26|SpaceAfter=No
@@ -1538,11 +1538,11 @@
 # text_en = My father, which gave them me, is greater than all; and no man is able to pluck them out of my father 's hand.
 1	Baba	Baba	NOUN	_	_	11	nsubj	_	Gloss=father|Ref=JOHN_10.29
 2	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Gloss=my|Ref=JOHN_10.29|SpaceAfter=No
-3	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=JOHN_10.29
-4	ẹni	ẹni	PRON	_	PronType=Ind	7	nsubj	_	Gloss=he|Ref=JOHN_10.29
-5	tí	tí	PRON	_	PronType=Rel	7	expl	_	Gloss=that|Ref=JOHN_10.29
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=JOHN_10.29
+4	ẹni	ẹni	PRON	_	PronType=Ind	1	appos	_	Gloss=he|Ref=JOHN_10.29
+5	tí	tí	PRON	_	PronType=Rel	7	nsubj	_	Gloss=that|Ref=JOHN_10.29
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	expl	_	Gloss=he|Ref=JOHN_10.29
-7	fi	fi	VERB	_	_	1	acl	_	Gloss=give|Ref=JOHN_10.29
+7	fi	fi	VERB	_	_	4	acl	_	Gloss=give|Ref=JOHN_10.29
 8	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	Gloss=they|Ref=JOHN_10.29
 9	fún	fún	ADP	_	_	10	case	_	Gloss=unto|Ref=JOHN_10.29
 10	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	Gloss=me|Ref=JOHN_10.29
@@ -1888,10 +1888,10 @@
 2	Màríà	Màríà	PROPN	_	_	0	root	_	Gloss=mary|Ref=JOHN_11.2
 3	náà	náà	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_11.2
 4	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.2
-5	ẹni	ẹni	PRON	_	PronType=Ind	8	nsubj	_	Gloss=someone|Ref=JOHN_11.2
-6	tí	tí	PRON	_	PronType=Rel	8	expl	_	Gloss=that|Ref=JOHN_11.2
+5	ẹni	ẹni	PRON	_	PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_11.2
+6	tí	tí	PRON	_	PronType=Rel	8	nsubj	_	Gloss=that|Ref=JOHN_11.2
 7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	expl	_	Gloss=she|Ref=JOHN_11.2
-8	fi	fi	VERB	_	_	2	acl	_	Gloss=with|Ref=JOHN_11.2
+8	fi	fi	VERB	_	_	5	acl	_	Gloss=with|Ref=JOHN_11.2
 9	òróró	òróró	NOUN	_	_	8	obj	_	Gloss=ointment|Ref=JOHN_11.2
 10	ìkunra	ìkunra	NOUN	_	_	9	nmod	_	Gloss=wipes|Ref=JOHN_11.2
 11	kun	kun	VERB	_	_	8	compound:svc	_	Gloss=wipe|Ref=JOHN_11.2
@@ -1913,12 +1913,12 @@
 27	Lásárù	Lásárù	PROPN	_	_	24	flat	_	Gloss=lazarus|Ref=JOHN_11.2
 28	í	í	PRON	_	_	29	expl	_	Gloss=is|Ref=JOHN_11.2
 29	ṣe	ṣe	VERB	_	_	17	xcomp	_	Gloss=be|Ref=JOHN_11.2|SpaceAfter=No
-30	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=JOHN_11.2
-31	ara	ara	PRON	_	PronType=Emp	35	nsubj	_	Gloss=body|Ref=JOHN_11.2
+30	,	,	PUNCT	_	_	31	punct	_	Gloss=,|Ref=JOHN_11.2
+31	ara	ara	PRON	_	PronType=Emp	27	appos	_	Gloss=body|Ref=JOHN_11.2
 32	ẹni	ẹni	PRON	_	PronType=Ind	31	nmod	_	Gloss=that|Ref=JOHN_11.2
-33	tí	tí	PRON	_	PronType=Rel	35	expl	_	Gloss=that|Ref=JOHN_11.2
+33	tí	tí	PRON	_	PronType=Rel	35	nsubj	_	Gloss=that|Ref=JOHN_11.2
 34	kò	kò	PART	_	_	35	advmod	_	Gloss=not|Ref=JOHN_11.2
-35	dá	dá	VERB	_	_	27	acl	_	Gloss=made|Ref=JOHN_11.2|SpaceAfter=No
+35	dá	dá	VERB	_	_	32	acl	_	Gloss=made|Ref=JOHN_11.2|SpaceAfter=No
 36	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_11.2|SpaceAfter=No
 37	)	)	PUNCT	_	_	2	punct	_	Gloss=)|Ref=JOHN_11.2
 
@@ -1948,7 +1948,7 @@
 21	ẹni	ẹni	PRON	_	PronType=Ind	20	nmod	_	Gloss=someone|Ref=JOHN_11.3
 22	tí	tí	PRON	_	PronType=Rel	24	obj	_	Gloss=that|Ref=JOHN_11.3
 23	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	Gloss=thou|Ref=JOHN_11.3
-24	fẹ́ràn	fẹ́ràn	VERB	_	_	20	acl	_	Gloss=love|Ref=JOHN_11.3
+24	fẹ́ràn	fẹ́ràn	VERB	_	_	21	acl	_	Gloss=love|Ref=JOHN_11.3
 25	kò	kò	PART	_	_	26	advmod	_	Gloss=not|Ref=JOHN_11.3
 26	dá	dá	VERB	_	_	17	conj	_	Gloss=sick|Ref=JOHN_11.3|SpaceAfter=No
 27	.	.	PUNCT	_	_	7	punct	_	Gloss=.|Ref=JOHN_11.3|SpaceAfter=No
@@ -1958,7 +1958,7 @@
 # text = Nígbà tí Jésù sì gbọ́, ó wí pé, “Àìsàn yìí kìí ṣe sí ikú, ṣùgbọ́n fún Ògo Ọlọ́run, kí a lè yin Ọmọ Ọlọ́run lógo nípasẹ̀ rẹ̀.”
 # text_en = When Jesus heard that, he said, this sickness is not unto death, but for the glory of god, that the son of god might be glorified thereby.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.4
-2	tí	tí	PRON	_	PronType=Rel	5	obj	_	Gloss=which|Ref=JOHN_11.4
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=which|Ref=JOHN_11.4
 3	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=JOHN_11.4
 4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_11.4
 5	gbọ́	gbọ́	VERB	_	_	8	advcl	_	Gloss=hear|Ref=JOHN_11.4|SpaceAfter=No
@@ -2007,7 +2007,7 @@
 10	kọsẹ̀	kọsẹ̀	VERB	_	_	0	root	_	Gloss=stumble|Ref=JOHN_11.10|SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=JOHN_11.10
 12	nítorí	nítorí	SCONJ	_	_	15	mark	_	Gloss=for|Ref=JOHN_11.10
-13	tí	tí	PRON	_	PronType=Rel	15	expl	_	Gloss=that|Ref=JOHN_11.10
+13	tí	tí	PRON	_	PronType=Rel	12	fixed	_	Gloss=that|Ref=JOHN_11.10
 14	kò	kò	PART	_	_	15	advmod	_	Gloss=not|Ref=JOHN_11.10
 15	sí	sí	VERB	_	_	10	advcl	_	Gloss=is|Ref=JOHN_11.10
 16	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	15	obj	_	Gloss=light|Ref=JOHN_11.10
@@ -2137,13 +2137,13 @@
 1	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=JOHN_11.15
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=JOHN_11.15
 3	yọ̀	yọ̀	VERB	_	_	0	root	_	Gloss=rejoice|Ref=JOHN_11.15
-4	nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=because|Ref=JOHN_11.15
+4	nítorí	nítorí	SCONJ	_	_	5	case	_	Gloss=because|Ref=JOHN_11.15
 5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	obl	_	Gloss=you|Ref=JOHN_11.15|SpaceAfter=No
 6	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_11.15
-7	tí	tí	PRON	_	PronType=Rel	10	expl	_	Gloss=that|Ref=JOHN_11.15
+7	tí	tí	PRON	_	PronType=Rel	10	obl	_	Gloss=that|Ref=JOHN_11.15
 8	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=i|Ref=JOHN_11.15
 9	kò	kò	PART	_	_	10	advmod	_	Gloss=did|Ref=JOHN_11.15
-10	sí	sí	VERB	_	_	3	ccomp	_	Gloss=not|Ref=JOHN_11.15
+10	sí	sí	VERB	_	_	3	advcl	_	Gloss=not|Ref=JOHN_11.15
 11	níbẹ̀	níbẹ̀	ADV	_	_	10	advmod	_	Gloss=there|Ref=JOHN_11.15|SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=JOHN_11.15
 13	Kí	Kí	SCONJ	_	_	16	mark	_	Gloss=so|Ref=JOHN_11.15
@@ -2210,7 +2210,7 @@
 1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=JOHN_11.17
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that|Ref=JOHN_11.17
 3	nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.17
-4	tí	tí	PRON	_	PronType=Rel	6	expl	_	Gloss=that|Ref=JOHN_11.17
+4	tí	tí	PRON	_	PronType=Rel	3	fixed	_	Gloss=that|Ref=JOHN_11.17
 5	Jésù	jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus|Ref=JOHN_11.17
 6	dé	dé	VERB	_	_	9	advcl	_	Gloss=come|Ref=JOHN_11.17|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_11.17
@@ -2272,7 +2272,7 @@
 2	náà	náà	ADV	_	_	15	advmod	_	Gloss=that|Ref=JOHN_11.20|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=JOHN_11.20
 4	nígbà	nígbà	ADV	_	_	7	advmod	_	Gloss=when|Ref=JOHN_11.20
-5	tí	tí	PRON	_	PronType=Rel	7	expl	_	Gloss=that|Ref=JOHN_11.20
+5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	Gloss=that|Ref=JOHN_11.20
 6	Mátà	mátà	PROPN	_	_	7	nsubj	_	Gloss=martha|Ref=JOHN_11.20
 7	gbọ́	gbọ́	VERB	_	_	15	advcl	_	Gloss=heard|Ref=JOHN_11.20
 8	pé	pé	SCONJ	_	_	11	mark	_	Gloss=that|Ref=JOHN_11.20
@@ -2464,8 +2464,8 @@
 # text = Nígbà tí ó sì ti wí èyí tán, ó lọ, ó sì pe Màríà arábìnrin rẹ̀ sẹ́yìn wí pé, “Olùkọ́ dé, ó sì ń pè ọ́.”
 # text_en = And when she had so said, she went her way, and called Mary her sister secretly, saying, the master is come, and calleth for thee.
 1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.28
-2	tí	tí	PRON	_	PronType=Rel	6	nsubj	_	Gloss=that|Ref=JOHN_11.28
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	expl	_	Gloss=she|Ref=JOHN_11.28
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.28
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=she|Ref=JOHN_11.28
 4	sì	sì	CCONJ	_	_	6	cc	_	Gloss=then|Ref=JOHN_11.28
 5	ti	ti	AUX	_	_	6	aux	_	Gloss=have|Ref=JOHN_11.28
 6	wí	wí	VERB	_	_	11	advcl	_	Gloss=said|Ref=JOHN_11.28
@@ -2501,8 +2501,8 @@
 # text = Nígbà tí ó gbọ́, ó dìde lọ́gán, ó sì wá sọ́dọ̀ rẹ̀.
 # text_en = As soon as she heard that, she arose quickly, and came unto him.
 1	Nígbà	nígbà	ADV	_	_	4	advmod	_	Gloss=when|Ref=JOHN_11.29
-2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	Gloss=that|Ref=JOHN_11.29
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl	_	Gloss=she|Ref=JOHN_11.29
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.29
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=she|Ref=JOHN_11.29
 4	gbọ́	gbọ́	VERB	_	_	7	advcl	_	Gloss=hear|Ref=JOHN_11.29|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=JOHN_11.29
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=she|Ref=JOHN_11.29
@@ -2543,7 +2543,7 @@
 # text = Nígbà tí àwọn Júù tí ó wà lọ́dọ̀ rẹ̀ nínú ilé, tí wọ́n ń tù ú nínú rí Màríà tí ó dìde kánkán, tí ó sì jáde, wọ́n tẹ̀lé, wọ́n ṣebí ó ń lọ sí ibojì láti sọkún níbẹ̀.
 # text_en = The jews then which were with her in the house, and comforted her, when they saw mary, that she rose up hastily and went out, followed her, saying, she goeth unto the grave to weep there.
 1	Nígbà	nígbà	ADV	_	_	19	advmod	_	Gloss=when|Ref=JOHN_11.31
-2	tí	tí	PRON	_	PronType=Rel	4	det	_	Gloss=that|Ref=JOHN_11.31
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.31
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.31
 4	Júù	júù	PROPN	_	_	19	nsubj	_	Gloss=jews|Ref=JOHN_11.31
 5	tí	tí	PRON	_	PronType=Rel	7	nsubj	_	Gloss=that|Ref=JOHN_11.31
@@ -2591,7 +2591,7 @@
 # text = Nígbà tí Màríà sì dé ibi tí Jésù wà, tí ó sì rí i, ó wólẹ̀ lẹ́bàá ẹsẹ̀ rẹ̀, ó wí fún un pé, “Olúwa, ìbáṣe pé ìwọ ti wà níhín-ín, arákùnrin mi kì bá kú.”
 # text_en = Then when mary was come where jesus was, and saw him, she fell down at his feet, saying unto him, lord, if thou hadst been here, my brother had not died.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.32
-2	tí	tí	PRON	_	PronType=Rel	5	expl	_	Gloss=that|Ref=JOHN_11.32
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.32
 3	Màríà	màríà	PROPN	_	_	5	nsubj	_	Gloss=mary|Ref=JOHN_11.32
 4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_11.32
 5	dé	dé	VERB	_	_	18	advcl	_	Gloss=arrive|Ref=JOHN_11.32
@@ -2600,10 +2600,10 @@
 8	Jésù	jésù	PROPN	_	_	9	nsubj	_	Gloss=jesus|Ref=JOHN_11.32
 9	wà	wà	VERB	_	_	6	acl	_	Gloss=was|Ref=JOHN_11.32|SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	Gloss=,|Ref=JOHN_11.32
-11	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that|Ref=JOHN_11.32
-12	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Gloss=she|Ref=JOHN_11.32
+11	tí	tí	PRON	_	PronType=Rel	14	obl	_	Gloss=that|Ref=JOHN_11.32
+12	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=she|Ref=JOHN_11.32
 13	sì	sì	CCONJ	_	_	14	cc	_	Gloss=then|Ref=JOHN_11.32
-14	rí	rí	VERB	_	_	5	conj	_	Gloss=saw|Ref=JOHN_11.32
+14	rí	rí	VERB	_	_	9	conj	_	Gloss=saw|Ref=JOHN_11.32
 15	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	14	obj	_	Gloss=him|Ref=JOHN_11.32|SpaceAfter=No
 16	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=JOHN_11.32
 17	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	Gloss=she|Ref=JOHN_11.32
@@ -2810,8 +2810,8 @@
 39	di	di	VERB	_	_	32	advcl	_	Gloss=be|Ref=JOHN_11.39
 40	ijọ́	ijọ́	NOUN	_	_	39	obj	_	Gloss=day|Ref=JOHN_11.39
 41	kẹrin	kẹrin	ADJ	_	_	40	amod	_	Gloss=fourth|Ref=JOHN_11.39
-42	tí	tí	PRON	_	PronType=Rel	45	nsubj	_	Gloss=that|Ref=JOHN_11.39
-43	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	45	expl	_	Gloss=he|Ref=JOHN_11.39
+42	tí	tí	PRON	_	PronType=Rel	45	obl	_	Gloss=that|Ref=JOHN_11.39
+43	ó	ó	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	45	nsubj	_	Gloss=he|Ref=JOHN_11.39
 44	tí	ti	AUX	_	PronType=Rel	45	aux	_	Gloss=that|Ref=JOHN_11.39
 45	kú	kú	VERB	_	_	40	acl	_	Gloss=die|Ref=JOHN_11.39|SpaceAfter=No
 46	.	.	PUNCT	_	_	32	punct	_	Gloss=.|Ref=JOHN_11.39|SpaceAfter=No
@@ -2861,8 +2861,8 @@
 8	kúrò	kúrò	ADP	_	_	5	compound:prt	_	Gloss=remove|Ref=JOHN_11.41
 9	(	(	PUNCT	_	_	13	punct	_	Gloss=(|Ref=JOHN_11.41|SpaceAfter=No
 10	níbi	níbi	ADV	_	_	13	advmod	_	Gloss=where|Ref=JOHN_11.41
-11	tí	tí	PRON	_	PronType=Rel	13	nsubj	_	Gloss=that|Ref=JOHN_11.41
-12	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	expl	_	Gloss=he|Ref=JOHN_11.41
+11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	Gloss=that|Ref=JOHN_11.41
+12	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=he|Ref=JOHN_11.41
 13	tẹ́	tẹ́	VERB	_	_	5	advcl	_	Gloss=laid|Ref=JOHN_11.41
 14	ẹ	ẹ	PRON	_	_	13	obj	_	Gloss=him|Ref=JOHN_11.41
 15	sí	sí	ADP	_	_	10	case	_	Gloss=to|Ref=JOHN_11.41|SpaceAfter=No
@@ -2888,7 +2888,7 @@
 35	lọ́wọ́	lọ́wọ́	ADP	_	_	36	case	_	Gloss=present|Ref=JOHN_11.41
 36	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	34	obl	_	Gloss=thy|Ref=JOHN_11.41
 37	nítorí	nítorí	SCONJ	_	_	40	mark	_	Gloss=for|Ref=JOHN_11.41
-38	tí	tí	PRON	_	PronType=Rel	40	expl	_	Gloss=that|Ref=JOHN_11.41
+38	tí	tí	PRON	_	PronType=Rel	37	fixed	_	Gloss=that|Ref=JOHN_11.41
 39	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	40	nsubj	_	Gloss=thou|Ref=JOHN_11.41
 40	gbọ́	gbọ́	VERB	_	_	34	advcl	_	Gloss=heard|Ref=JOHN_11.41
 41	tèmi	tèmi	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	40	obj	_	Gloss=mine|Ref=JOHN_11.41|SpaceAfter=No
@@ -2944,8 +2944,8 @@
 # text = Nígbà tí ó sì wí bẹ́ẹ̀ tan, ó kígbe lóhùn rara pé, “Lásárù, jáde wá.”
 # text_en = And when he thus had spoken, he cried with a loud voice, lazarus, come forth.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.43
-2	tí	tí	PRON	_	PronType=Rel	5	nsubj	_	Gloss=that|Ref=JOHN_11.43
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=he|Ref=JOHN_11.43
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.43
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|Ref=JOHN_11.43
 4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_11.43
 5	wí	wí	VERB	_	_	10	advcl	_	Gloss=said|Ref=JOHN_11.43
 6	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	5	advmod	_	Gloss=so|Ref=JOHN_11.43
@@ -2977,9 +2977,9 @@
 7	jáde	jáde	VERB	_	_	0	root	_	Gloss=out|Ref=JOHN_11.44
 8	wá	wá	VERB	_	_	7	compound:svc	_	Gloss=come|Ref=JOHN_11.44|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=JOHN_11.44
-10	tí	tí	PRON	_	PronType=Rel	12	expl	_	Gloss=that|Ref=JOHN_11.44
+10	tí	tí	PRON	_	PronType=Rel	12	obl	_	Gloss=that|Ref=JOHN_11.44
 11	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Gloss=we|Ref=JOHN_11.44
-12	fi	fi	VERB	_	_	7	conj	_	Gloss=used|Ref=JOHN_11.44
+12	fi	fi	VERB	_	_	4	conj	_	Gloss=used|Ref=JOHN_11.44
 13	aṣọ	aṣọ	NOUN	_	_	12	obj	_	Gloss=garments|Ref=JOHN_11.44
 14	òkú	òkú	NOUN	_	_	13	nmod	_	Gloss=dead|Ref=JOHN_11.44
 15	dì	dì	VERB	_	_	12	compound:svc	_	Gloss=wrap|Ref=JOHN_11.44
