@@ -2,7 +2,7 @@
 # newdoc id = GEN_1
 # sent_id = GEN_1.1
 # text = Ní ìbẹ̀rẹ̀ ohun gbogbo Ọlọ́run dá àwọn ọ̀run àti ayé.
-# text_en = In the beginning god created the heaven and the earth.
+# text_en = In the beginning God created the heaven and the earth.
 1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
 3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
@@ -17,7 +17,7 @@
 
 # sent_id = GEN_1.2
 # text = Ayé sì wà ní rúdurùdu, ó sì ṣófo, òkùnkùn sì wà lójú ibú omi, Ẹ̀mí Ọlọ́run sì ń rábàbà lójú omi gbogbo.
-# text_en = And the earth was without form, and void; and darkness was upon the face of the deep. and the spirit of god moved upon the face of the waters.
+# text_en = And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 1	Ayé	ayé	NOUN	_	_	3	nsubj	_	Gloss=earth|Ref=GEN_1.2
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.2
 3	wà	wà	VERB	_	_	0	root	_	Gloss=was|Ref=GEN_1.2
@@ -47,7 +47,7 @@
 
 # sent_id = GEN_1.3
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí ìmọ́lẹ̀ kí ó wà,” ìmọ́lẹ̀ sì wà.
-# text_en = And god said, let there be light: and there was light.
+# text_en = And God said, Let there be light: and there was light.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.3
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.3
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.3
@@ -69,7 +69,7 @@
 
 # sent_id = GEN_1.4
 # text = Ọlọ́run rí i pé ìmọ́lẹ̀ náà dára, ó sì ya ìmọ́lẹ̀ náà sọ́tọ̀ kúrò lára òkùnkùn.
-# text_en = And god saw the light, that it was good: and god divided the light from the darkness.
+# text_en = And God saw the light, that it was good: and God divided the light from the darkness.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.4
 2	rí	rí	VERB	_	_	0	root	_	Gloss=saw|Ref=GEN_1.4
 3	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=it|Ref=GEN_1.4
@@ -91,7 +91,7 @@
 
 # sent_id = GEN_1.5
 # text = Ọlọ́run sì pe ìmọ́lẹ̀ náà ní “Ọ̀sán” àti òkùnkùn ní “Òru.” Àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kìn-ín-ní.
-# text_en = And god called the light day, and the darkness he called night. and the evening and the morning were the first day.
+# text_en = And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.5
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.5
 3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.5
@@ -119,7 +119,7 @@
 
 # sent_id = GEN_1.6
 # text = Ọlọ́run sì wí pé “Jẹ́ kí òfuurufú kí ó wà ní àárin àwọn omi láti pààlà sí àárin àwọn omi.”
-# text_en = And god said, let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+# text_en = And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.6
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.6
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.6
@@ -146,7 +146,7 @@
 
 # sent_id = GEN_1.7
 # text = Ọlọ́run sì dá òfuurufú láti ya omi tí ó wà ní òkè òfuurufú kúrò lára omi tí ó wà ní orí ilẹ̀. Ó sì rí bẹ́ẹ̀.
-# text_en = And god made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
+# text_en = And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.7
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.7
 3	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.7
@@ -178,7 +178,7 @@
 
 # sent_id = GEN_1.8
 # text = Ọlọ́run sì pe òfúurufú ní “Ọ̀run,” àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kejì.
-# text_en = And god called the firmament heaven. and the evening and the morning were the second day.
+# text_en = And God called the firmament Heaven. And the evening and the morning were the second day.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.8
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.8
 3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.8
@@ -199,7 +199,7 @@
 
 # sent_id = GEN_1.9
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí omi abẹ́ ọ̀run wọ́ papọ̀ sí ojúkan, kí ilẹ̀ gbígbẹ sì farahàn.” Ó sì rí bẹ́ẹ̀.
-# text_en = And god said, let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
+# text_en = And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.9
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.9
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.9
@@ -231,7 +231,7 @@
 
 # sent_id = GEN_1.10
 # text = Ọlọ́run sì pe ilẹ̀ gbígbẹ náà ní “Ilẹ̀” àti àpapọ̀ omi ní “Òkun:” Ọlórun sì rí i wí pé ó dára.
-# text_en = And god called the dry land earth; and the gathering together of the waters called he seas: and god saw that it was good.
+# text_en = And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.10
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.10
 3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.10
@@ -262,7 +262,7 @@
 
 # sent_id = GEN_1.11
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí ilẹ̀ kí ó hu ọ̀gbìn: ewéko tí yóò máa mú èṣo wá àti igi tí yóò máa so èṣo ní irú tirẹ̀, tí ó ní irúgbìn nínú.” Ó sì rí bẹ́ẹ̀.
-# text_en = And god said, let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
+# text_en = And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.11
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.11
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.11
@@ -310,7 +310,7 @@
 
 # sent_id = GEN_1.12
 # text = Ilẹ̀ sì hù ọ̀gbìn: ewéko tí ó ń so èṣo ní irú tirẹ̀, àti igi tí ń so èṣo, tí ó ní irúgbìn nínú ní irú tirẹ̀. Ọlọ́run sì ri pé ó dára.
-# text_en = And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and god saw that it was good.
+# text_en = And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
 1	Ilẹ̀	ilẹ̀	NOUN	_	_	3	nsubj	_	Gloss=land|Ref=GEN_1.12
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.12
 3	hù	hu	NOUN	_	_	0	root	_	Gloss=grow|Ref=GEN_1.12
@@ -363,7 +363,7 @@
 
 # sent_id = GEN_1.14
 # text = Ọlọ́run sì wí pé “Jẹ́ kí ìmọ́lẹ̀ kí ó wà ní ojú ọ̀run, làti pààlà sí àárin ọ̀sán àti òru, kí wọn ó sì máa wà fún àmì láti mọ àwọn àsìkò, àti àwọn ọjọ́ àti àwọn ọdún,
-# text_en = And god said, let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+# text_en = And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.14
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.14
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.14
@@ -436,7 +436,7 @@
 
 # sent_id = GEN_1.16
 # text = Ọlọ́run dá ìmọ́lẹ̀ ńlá-ńlá méjì, ìmọ́lẹ̀ tí ó tóbi láti ṣe àkóso ọ̀sán àti ìmọ́lẹ̀ tí ó kéré láti ṣe àkóso òru. Ó sì dá àwọn ìràwọ̀ pẹ̀lú.
-# text_en = And god made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
+# text_en = And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.16
 2	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.16
 3	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	obj	_	Gloss=light|Ref=GEN_1.16
@@ -473,7 +473,7 @@
 
 # sent_id = GEN_1.17
 # text = Ọlọ́run sì ṣe wọ́n lọ́jọ̀ sí ojú ọ̀run láti máa tan ìmọ́lẹ̀ si orí ilẹ̀,
-# text_en = And god set them in the firmament of the heaven to give light upon the earth,
+# text_en = And God set them in the firmament of the heaven to give light upon the earth,
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.17
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.17
 3	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=GEN_1.17
@@ -493,7 +493,7 @@
 
 # sent_id = GEN_1.18
 # text = láti ṣàkóso ọ̀sán àti òru àti láti pààlà sí àárin ìmọ́lẹ̀ àti òkùnkùn: Ọlọ́run sì rí i pé ó dára.
-# text_en = And to rule over the day and over the night, and to divide the light from the darkness: and god saw that it was good.
+# text_en = And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
 1	láti	láti	ADP	_	_	2	case	_	Gloss=to|Ref=GEN_1.18
 2	ṣàkóso	ṣàkóso	VERB	_	_	0	root	_	Gloss=rule|Ref=GEN_1.18
 3	ọ̀sán	ọ̀sán	NOUN	_	_	2	obj	_	Gloss=day|Ref=GEN_1.18
@@ -530,7 +530,7 @@
 
 # sent_id = GEN_1.20
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí omi kí ó kún fún àwọn ohun alààyè, kí àwọn ẹyẹ kí ó sì máa fò ní òfuurufú.”
-# text_en = And god said, let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.
+# text_en = And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.20
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.20
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.20
@@ -563,7 +563,7 @@
 
 # sent_id = GEN_1.21
 # text = Nítorí náà Ọlọ́run dá àwọn ẹ̀dá alààyè ńlá-ńlá sí inú òkun, àwọn ohun ẹlẹ́mìí àti àwọn ohun tí ń rìn ní onírúurú tiwọn, àti àwọn ẹyẹ abìyẹ́ ní onírúurú tiwọn. Ọlọ́run sì rí i pé ó dára.
-# text_en = And god created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and god saw that it was good.
+# text_en = And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
 1	Nítorí	nítorí	CCONJ	_	_	4	cc	_	Gloss=for|Ref=GEN_1.21
 2	náà	náà	ADV	_	_	4	advmod	_	Gloss=the|Ref=GEN_1.21
 3	Ọlọ́run	ọlọ́run	NOUN	_	_	4	nsubj	_	Gloss=god|Ref=GEN_1.21
@@ -610,7 +610,7 @@
 
 # sent_id = GEN_1.22
 # text = Ọlọ́run súre fún wọn, ó sì wí pé, “Ẹ máa bí sí i, ẹ sì máa pọ̀ sí i, ẹ kún inú omi òkun, kí àwọn ẹyẹ náà sì máa pọ̀ sí i ní orí ilẹ̀.”
-# text_en = And god blessed them, saying, be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
+# text_en = And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.22
 2	súre	súre	VERB	_	_	0	root	_	Gloss=blessed|Ref=GEN_1.22
 3	fún	fún	ADP	_	_	4	case	_	Gloss=for|Ref=GEN_1.22
@@ -669,7 +669,7 @@
 
 # sent_id = GEN_1.24
 # text = Ọlọ́run sì wí pé, “Kí ilẹ̀ kí ó mú ohun alààyè jáde ní onírúurú wọn: ẹran ọ̀sìn, àwọn ohun afàyàfà àti àwọn ẹran inú igbó, ọ̀kọ̀ọ̀kan ní irú tirẹ̀.” Ó sì rí bẹ́ẹ̀.
-# text_en = And god said, let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
+# text_en = And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.24
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.24
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.24
@@ -714,7 +714,7 @@
 
 # sent_id = GEN_1.25
 # text = Ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀. Ọlọ́run sì rí i pé ó dára.
-# text_en = And god made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and god saw that it was good.
+# text_en = And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.25
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.25
 3	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.25
@@ -752,7 +752,7 @@
 
 # sent_id = GEN_1.26
 # text = Lẹ́yìn náà ni Ọlọ́run wí pé, “Ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa, gẹ́gẹ́ bí àwa ti rí, kí wọn kí ó jọba lórí ẹja òkun, ẹyẹ ojú ọ̀run, ohun ọ̀sìn, gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀.”
-# text_en = And god said, let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
+# text_en = And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 1	Lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	Gloss=after|Ref=GEN_1.26
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the|Ref=GEN_1.26
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=GEN_1.26
@@ -812,7 +812,7 @@
 # newdoc id = JOHN_10
 # sent_id = JOHN_10.1
 # text = “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Ẹni tí kò bá gba ẹnu ọ̀nà wọ inú agbo àgùntàn, ṣùgbọ́n tí ó bá gba ibòmíràn gun òkè, Òun náà ni olè àti ọlọ́sà.
-# text_en = Verily, verily, i say unto you, he that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
+# text_en = Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
 1	“	“	PUNCT	_	_	7	punct	_	Gloss=“|Ref=JOHN_10.1|SpaceAfter=No
 2	Lóòótọ́	Lóòótọ́	ADV	_	_	7	advmod	_	Gloss=verily|Ref=JOHN_10.1|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=JOHN_10.1
@@ -971,7 +971,7 @@
 
 # sent_id = JOHN_10.6
 # text = Òwe yìí ni Jésù pa fún wọn: ṣùgbọ́n òye ohun tí nǹkan wọ̀nyí jẹ́ tí ó ń sọ fún wọn kò yé wọn.
-# text_en = This parable spake jesus unto them: but they understood not what things they were which he spake unto them.
+# text_en = This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.
 1	Òwe	Òwe	NOUN	_	_	5	obj	_	Gloss=proverb|Ref=JOHN_10.6
 2	yìí	yìí	DET	_	_	1	det	_	Gloss=this|Ref=JOHN_10.6
 3	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=JOHN_10.6
@@ -1000,7 +1000,7 @@
 
 # sent_id = JOHN_10.7
 # text = Nítorí náà Jésù tún wí fún wọn pé, “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Èmi ni ìlẹ̀kùn àwọn àgùntàn.
-# text_en = Then said jesus unto them again, verily, verily, i say unto you, i am the door of the sheep.
+# text_en = Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.
 1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.7
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the|Ref=JOHN_10.7
 3	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=JOHN_10.7
@@ -1207,7 +1207,7 @@
 
 # sent_id = JOHN_10.16
 # text = Èmi sì ní àwọn àgùntàn mìíràn, tí kìí ṣe agbo yìí: àwọn ni èmi yóò mú wá pẹ̀lú, wọn ó sì gbọ́ ohùn mi; wọn ó sì jẹ́ agbo kan, olùsọ́-àgùntàn kan.
-# text_en = And other sheep i have, which are not of this fold: them also i must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
+# text_en = And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
 1	Èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=JOHN_10.16
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=JOHN_10.16
 3	ní	ní	VERB	_	_	0	root	_	Gloss=have|Ref=JOHN_10.16
@@ -1251,7 +1251,7 @@
 
 # sent_id = JOHN_10.17
 # text = Nítorí náà ni Baba mi ṣe fẹ́ràn mi, nítorí tí mo fi ẹ̀mí mi lélẹ̀, kí èmi lè tún gbà á.
-# text_en = Therefore doth my father love me, because i lay down my life, that i might take it again.
+# text_en = Therefore doth my Father love me, because I lay down my life, that I might take it again.
 1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=JOHN_10.17
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that|Ref=JOHN_10.17
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_10.17
@@ -1279,7 +1279,7 @@
 
 # sent_id = JOHN_10.18
 # text = Ẹnìkan kò gbà á lọ́wọ́ mi, ṣùgbọ́n mo fi í lélẹ̀, mo sì lágbára láti tún gbà á. Àṣẹ yìí ni mo ti gbà wá láti ọ̀dọ̀ Baba mi.”
-# text_en = No man taketh it from me, but i lay it down of myself. i have power to lay it down, and i have power to take it again. this commandment have i received of my father.
+# text_en = No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.
 1	Ẹnìkan	Ẹnìkan	ADJ	_	_	3	nsubj	_	Gloss=someone|Ref=JOHN_10.18
 2	kò	kò	PART	_	_	3	advmod	_	Gloss=not|Ref=JOHN_10.18
 3	gbà	gbà	VERB	_	_	0	root	_	Gloss=take|Ref=JOHN_10.18
@@ -1317,7 +1317,7 @@
 
 # sent_id = JOHN_10.19
 # text = Nítorí náà ìyapa tún wà láàrin àwọn Júù nítorí ọ̀rọ̀ wọ̀nyí.
-# text_en = There was a division therefore again among the jews for these sayings.
+# text_en = There was a division therefore again among the Jews for these sayings.
 1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.19
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that|Ref=JOHN_10.19
 3	ìyapa	ìyapa	NOUN	_	_	5	nsubj	_	Gloss=separation|Ref=JOHN_10.19
@@ -1333,7 +1333,7 @@
 
 # sent_id = JOHN_10.20
 # text = Ọ̀pọ̀ nínú wọn sì wí pé, “Ó ní ẹ̀mí èṣù, orí rẹ̀ sì dàrú; èéṣe tí ẹ̀yin fi ń gbọ́rọ̀ rẹ̀?”
-# text_en = And many of them said, he hath a devil, and is mad; why hear ye him ?
+# text_en = And many of them said, He hath a devil, and is mad; why hear ye him?
 1	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	5	nsubj	_	Gloss=many|Ref=JOHN_10.20
 2	nínú	nínú	ADP	_	_	3	case	_	Gloss=among|Ref=JOHN_10.20
 3	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nmod	_	Gloss=them|Ref=JOHN_10.20
@@ -1364,7 +1364,7 @@
 
 # sent_id = JOHN_10.21
 # text = Àwọn mìíràn wí pé, “Ìwọ̀nyí kìí ṣe ọ̀rọ̀ ẹni tí ó ní ẹ̀mí èṣù. Ẹ̀mi èṣù lè la ojú àwọn afọ́jú bí?”
-# text_en = Others said, these are not the words of him that hath a devil. Can a devil open the eyes of the blind?
+# text_en = Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?
 1	Àwọn	Àwọn	DET	_	_	3	nsubj	_	Gloss=the|Ref=JOHN_10.21
 2	mìíràn	mìíràn	ADJ	_	_	1	amod	_	Gloss=other|Ref=JOHN_10.21
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_10.21
@@ -1395,7 +1395,7 @@
 
 # sent_id = JOHN_10.22
 # text = Ó sì jẹ́ àjọ̀dún ìyàsímímọ́ ní Jérúsálẹ́mù, ìgbà òtútù ni.
-# text_en = And it was at jerusalem the feast of the dedication, and it was winter.
+# text_en = And it was at Jerusalem the feast of the dedication, and it was winter.
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=it|Ref=JOHN_10.22
 2	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and|Ref=JOHN_10.22
 3	jẹ́	jẹ́	AUX	_	_	4	cop	_	Gloss=be|Ref=JOHN_10.22
@@ -1411,7 +1411,7 @@
 
 # sent_id = JOHN_10.23
 # text = Jésù sì ń rìn ní tẹ́mpílì, ní ìloro Sólómónì,
-# text_en = And jesus walked in the temple in solomon 's porch.
+# text_en = And Jesus walked in the temple in Solomon's porch.
 1	Jésù	jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus|Ref=JOHN_10.23
 2	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and|Ref=JOHN_10.23
 3	ń	ń	AUX	_	_	4	aux	_	Gloss=is|Ref=JOHN_10.23
@@ -1426,7 +1426,7 @@
 
 # sent_id = JOHN_10.24
 # text = Nítorí náà àwọn Júù wá dúró yí i ká, wọ́n sì wí fún un pé, “Ìwọ ó ti mú wa ṣe iyèméjì pẹ́ tó? Bí ìwọ bá ni Kírísítì náà, wí fún wa gbangba.”
-# text_en = Then came the jews round about him, and said unto him, how long dost thou make us to doubt ? if thou be the christ, tell us plainly.
+# text_en = Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
 1	Nítorí	nítorí	SCONJ	_	_	5	cc	_	Gloss=for|Ref=JOHN_10.24
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that|Ref=JOHN_10.24
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_10.24
@@ -1471,7 +1471,7 @@
 
 # sent_id = JOHN_10.25
 # text = Jésù dá wọn lóhùn pé, “Èmi ti wí fún yín, ẹ̀yin kò sì gbàgbọ́; iṣẹ́ tí èmi ń ṣe lórúkọ Baba mi, àwọn ni ó ń jẹ́rìí mi.
-# text_en = Jesus answered them, i told you, and ye believed not: the works that i do in my father 's name, they bear witness of me.
+# text_en = Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=JOHN_10.25
 2	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=JOHN_10.25
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Gloss=them|Ref=JOHN_10.25
@@ -1509,7 +1509,7 @@
 
 # sent_id = JOHN_10.26
 # text = Ṣùgbọ́n ẹ̀yin kò gbàgbọ́, nítorí ẹ̀yin kò sí nínú àwọn àgùntàn mi, gẹ́gẹ́ bí mo tí wí fún yín.
-# text_en = But ye believe not, because ye are not of my sheep, as i said unto you.
+# text_en = But ye believe not, because ye are not of my sheep, as I said unto you.
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	4	cc	_	Gloss=but|Ref=JOHN_10.26
 2	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=ye|Ref=JOHN_10.26
 3	kò	kò	PART	_	_	4	advmod	_	Gloss=not|Ref=JOHN_10.26
@@ -1535,7 +1535,7 @@
 
 # sent_id = JOHN_10.29
 # text = Baba mi, ẹni tí ó fi wọ́n fún mi pọ̀ ju gbogbo wọn lọ; kò sì sí ẹni tí ó lè já wọn gbà kúrò lọ́wọ́ Baba mi.
-# text_en = My father, which gave them me, is greater than all; and no man is able to pluck them out of my father 's hand.
+# text_en = My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand.
 1	Baba	Baba	NOUN	_	_	11	nsubj	_	Gloss=father|Ref=JOHN_10.29
 2	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Gloss=my|Ref=JOHN_10.29|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=JOHN_10.29
@@ -1570,7 +1570,7 @@
 
 # sent_id = JOHN_10.30
 # text = Ọ̀kan ni èmi àti Baba mi.”
-# text_en = I and my father are one.
+# text_en = I and my Father are one.
 1	Ọ̀kan	Ọ̀kan	NUM	_	NumType=Card	0	root	_	Gloss=one|Ref=JOHN_10.30
 2	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=JOHN_10.30
 3	èmi	èmi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=i|Ref=JOHN_10.30
@@ -1582,7 +1582,7 @@
 
 # sent_id = JOHN_10.31
 # text = Àwọn Júù sì tún he òkúta, láti sọ lù ú.
-# text_en = Then the jews took up stones again to stone him.
+# text_en = Then the Jews took up stones again to stone him.
 1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.31
 2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_10.31
 3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and|Ref=JOHN_10.31
@@ -1598,7 +1598,7 @@
 
 # sent_id = JOHN_10.32
 # text = Jésù dá wọn lóhùn pé, “Ọ̀pọ̀lọpọ̀ iṣẹ́ rere ni mo fi hàn yín láti ọ̀dọ̀ Baba mi wá; nítorí èwo nínú iṣẹ́ wọ̀nyí ni ẹ̀yin ṣe sọ mí ní òkúta?”
-# text_en = Jesus answered them, many good works have i shewed you from my father; for which of those works do ye stone me ?
+# text_en = Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?
 1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=JOHN_10.32
 2	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=JOHN_10.32
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Gloss=them|Ref=JOHN_10.32
@@ -1637,7 +1637,7 @@
 
 # sent_id = JOHN_10.33
 # text = Àwọn Júù sì dá a lóhùn pé, “Àwa kò sọ ọ́ lókúta nítorí iṣẹ́ rere, ṣùgbọ́n nítorí ọ̀rọ̀-ọ̀dì: àti nítorí ìwọ tí í ṣe ènìyàn ń fi ara rẹ pe Ọlọ́run.”
-# text_en = The Jews answered him, saying, for a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself god.
+# text_en = The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.
 1	Àwọn	àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.33
 2	Júù	Júù	PROPN	_	_	4	nsubj	_	Gloss=jews|Ref=JOHN_10.33
 3	sì	sì	CCONJ	_	_	4	cc	_	Gloss=then|Ref=JOHN_10.33
@@ -1680,7 +1680,7 @@
 
 # sent_id = JOHN_10.34
 # text = Jésù dá wọn lóhùn pé, “A kò ha ti kọ ọ́ nínú òfin yín pé, ‘Mo ti wí pé, Ọlọ́run ni ẹ̀yin jẹ́’?
-# text_en = Jesus answered them, is it not written in your law, I said, ye are gods?
+# text_en = Jesus answered them, Is it not written in your law, I said, Ye are gods?
 1	Jésù	Jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=JOHN_10.34
 2	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=JOHN_10.34
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Gloss=them|Ref=JOHN_10.34
@@ -1714,7 +1714,7 @@
 
 # sent_id = JOHN_10.37
 # text = Bí èmi kò bá ṣe iṣẹ́ Baba mi, ẹ má ṣe gbà mí gbọ́.
-# text_en = If i do not the works of my father, believe me not.
+# text_en = If I do not the works of my Father, believe me not.
 1	Bí	Bí	SCONJ	_	_	5	mark	_	Gloss=if|Ref=JOHN_10.37
 2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=i|Ref=JOHN_10.37
 3	kò	kò	PART	_	_	5	advmod	_	Gloss=not|Ref=JOHN_10.37
@@ -1734,7 +1734,7 @@
 
 # sent_id = JOHN_10.38
 # text = Ṣùgbọ́n bí èmi bá ṣe wọ́n, bí ẹ̀yin kò tilẹ̀ gbà mí gbọ́, ẹ gbà iṣẹ́ náà gbọ́: kí ẹ̀yin baà lè mọ̀, kí ó sì lè yé yín pé, Baba wà nínú mi, èmi sì wà nínú rẹ̀.”
-# text_en = But if i do, though ye believe not me, believe the works: that ye may know, and believe, that the father is in me, and i in him.
+# text_en = But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	17	cc	_	Gloss=but|Ref=JOHN_10.38
 2	bí	bí	SCONJ	_	_	5	mark	_	Gloss=if|Ref=JOHN_10.38
 3	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=i|Ref=JOHN_10.38
@@ -1805,7 +1805,7 @@
 
 # sent_id = JOHN_10.41
 # text = Àwọn ènìyàn púpọ̀ sì wá sọ́dọ̀ rẹ̀, wọ́n sì wí pé, “Jòhánù kò ṣe iṣẹ́ àmì kan: Ṣùgbọ́n òtítọ́ ni ohun gbogbo tí Jòhánù sọ nípa ti ọkùnrin yìí.”
-# text_en = And many resorted unto him, and said, john did no miracle: but all things that john spake of this man were true.
+# text_en = And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.
 1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.41
 2	ènìyàn	ènìyàn	NOUN	_	_	5	nsubj	_	Gloss=people|Ref=JOHN_10.41
 3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many|Ref=JOHN_10.41
@@ -1883,7 +1883,7 @@
 
 # sent_id = JOHN_11.2
 # text = (Màríà náà ni ẹni tí ó fi òróró ìkunra kun Olúwa, tí ó sì fi irun orí rẹ̀ nù ún, arákùnrin rẹ̀ ni Lásárù í ṣe, ara ẹni tí kò dá.)
-# text_en = ( it was that mary which anointed the lord with ointment, and wiped his feet with her hair, whose brother lazarus was sick. )
+# text_en = (It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
 1	(	(	PUNCT	_	_	2	punct	_	Gloss=(|Ref=JOHN_11.2|SpaceAfter=No
 2	Màríà	Màríà	PROPN	_	_	0	root	_	Gloss=mary|Ref=JOHN_11.2
 3	náà	náà	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_11.2
@@ -1924,7 +1924,7 @@
 
 # sent_id = JOHN_11.3
 # text = Nítorí náà, àwọn arákùnrin rẹ̀ ránsẹ́ sí i, wí pé, “Olúwa, wò ó, ara ẹni tí ìwọ fẹ́ràn kò dá.”
-# text_en = Therefore his sisters sent unto him, saying, lord, behold, he whom thou lovest is sick.
+# text_en = Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.
 1	Nítorí	Nítorí	ADV	_	_	7	advmod	_	Gloss=for|Ref=JOHN_11.3
 2	náà	náà	ADV	_	_	7	advmod	_	Gloss=the|Ref=JOHN_11.3|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=JOHN_11.3
@@ -1956,7 +1956,7 @@
 
 # sent_id = JOHN_11.4
 # text = Nígbà tí Jésù sì gbọ́, ó wí pé, “Àìsàn yìí kìí ṣe sí ikú, ṣùgbọ́n fún Ògo Ọlọ́run, kí a lè yin Ọmọ Ọlọ́run lógo nípasẹ̀ rẹ̀.”
-# text_en = When Jesus heard that, he said, this sickness is not unto death, but for the glory of god, that the son of god might be glorified thereby.
+# text_en = When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.4
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=which|Ref=JOHN_11.4
 3	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=JOHN_11.4
@@ -2018,7 +2018,7 @@
 
 # sent_id = JOHN_11.11
 # text = Nǹkan wọ̀nyí ni ó sọ: lẹ́yìn èyí nì ó sì wí fún wọn pé, “Lásárù ọ̀rẹ́ wa sùn; ṣùgbọ́n èmi ń lọ kí èmi kí ó lè jí i dìde nínú orun rẹ̀.”
-# text_en = These things said he: and after that he saith unto them, our friend lazarus sleepeth; but i go, that i may awake him out of sleep.
+# text_en = These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.
 1	Nǹkan	Nǹkan	NOUN	_	_	5	obj	_	Gloss=things|Ref=JOHN_11.11
 2	wọ̀nyí	wọ̀nyí	DET	_	_	1	det	_	Gloss=these|Ref=JOHN_11.11
 3	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=JOHN_11.11
@@ -2061,7 +2061,7 @@
 
 # sent_id = JOHN_11.12
 # text = Nítorí náà àwọn ọmọ-ẹ̀yìn rẹ̀ wí fún un pé, “Olúwa, bí ó bá se pé ó sùn, yóò sàn.”
-# text_en = Then said his disciples, lord, if he sleep, he shall do well.
+# text_en = Then said his disciples, Lord, if he sleep, he shall do well.
 1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	Gloss=for|Ref=JOHN_11.12
 2	náà	náà	ADV	_	_	8	advmod	_	Gloss=that|Ref=JOHN_11.12
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=his|Ref=JOHN_11.12
@@ -2092,7 +2092,7 @@
 
 # sent_id = JOHN_11.13
 # text = Ṣùgbọ́n Jésù ń sọ ti ikú rẹ̀: ṣùgbọ́n wọ́n rò pé, ó ń sọ ti orun sísùn.
-# text_en = Howbeit jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
+# text_en = Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	4	cc	_	Gloss=but|Ref=JOHN_11.13
 2	Jésù	Jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus|Ref=JOHN_11.13
 3	ń	ń	AUX	_	_	4	aux	_	Gloss=is|Ref=JOHN_11.13
@@ -2116,7 +2116,7 @@
 
 # sent_id = JOHN_11.14
 # text = Nígbà náà ni Jésù wí fún wọn gbangba pé, Lásárù kú,
-# text_en = Then said jesus unto them plainly, lazarus is dead.
+# text_en = Then said Jesus unto them plainly, Lazarus is dead.
 1	Nígbà	Nígbà	SCONJ	_	_	5	mark	_	Gloss=when|Ref=JOHN_11.14
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=the|Ref=JOHN_11.14
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.14
@@ -2133,7 +2133,7 @@
 
 # sent_id = JOHN_11.15
 # text = Èmi sì yọ̀ nítorí yín, tí èmi kò sí níbẹ̀, Kí ẹ le gbàgbọ́; ṣùgbọ́n ẹ jẹ́ kí a lọ sọ́dọ̀ rẹ̀.
-# text_en = And i am glad for your sakes that i was not there, to the intent ye may believe; nevertheless let us go unto him.
+# text_en = And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
 1	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=JOHN_11.15
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=JOHN_11.15
 3	yọ̀	yọ̀	VERB	_	_	0	root	_	Gloss=rejoice|Ref=JOHN_11.15
@@ -2163,7 +2163,7 @@
 
 # sent_id = JOHN_11.16
 # text = “Nítorí náà Tómásì, ẹni tí à ń pè ní Dídímù, wí fún àwọn ọmọ-ẹ̀yìn ẹgbẹ́ rẹ̀ pé, Ẹ jẹ́ kí àwa náà lọ, kí a lè bá a kú pẹ̀lú.”
-# text_en = Then said thomas, which is called didymus, unto his fellowdisciples, let us also go, that we may die with him.
+# text_en = Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.
 1	“	“	PUNCT	_	_	14	punct	_	Gloss=“|Ref=JOHN_11.16|SpaceAfter=No
 2	Nítorí	nítorí	SCONJ	_	_	14	mark	_	Gloss=for|Ref=JOHN_11.16
 3	náà	náà	ADV	_	_	14	advmod	_	Gloss=that|Ref=JOHN_11.16
@@ -2206,7 +2206,7 @@
 
 # sent_id = JOHN_11.17
 # text = Nítorí náà nígbà tí Jésù dé, ó rí i pé a ti tẹ́ ẹ sínú ibojì ní ijọ́ mẹ́rin ná,
-# text_en = Then when jesus came, he found that he had lain in the grave four days already.
+# text_en = Then when Jesus came, he found that he had lain in the grave four days already.
 1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=JOHN_11.17
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that|Ref=JOHN_11.17
 3	nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.17
@@ -2296,7 +2296,7 @@
 
 # sent_id = JOHN_11.21
 # text = Nígbà náà, ni Mátà wí fún Jésù pé, “Olúwa, ìbá ṣe pé ìwọ ti wà níhìn-ín, arákùnrin mi kì bá kú.
-# text_en = Then said Martha unto Jesus, lord, if thou hadst been here, my brother had not died.
+# text_en = Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.
 1	Nígbà	nígbà	SCONJ	_	_	6	mark	_	Gloss=when|Ref=JOHN_11.21
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that|Ref=JOHN_11.21|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,|Ref=JOHN_11.21
@@ -2327,7 +2327,7 @@
 
 # sent_id = JOHN_11.23
 # text = Jésù wí fún un pé, “Arákùnrin rẹ yóò jíǹde.”
-# text_en = Jesus saith unto her, thy brother shall rise again.
+# text_en = Jesus saith unto her, Thy brother shall rise again.
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=JOHN_11.23
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.23
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto|Ref=JOHN_11.23
@@ -2365,7 +2365,7 @@
 
 # sent_id = JOHN_11.25
 # text = Jésù wí fún un pé, “Èmi ni àjíǹde àti ìyè: ẹni tí ó bá gbà mí gbọ́, bí ó tilẹ̀ kú, yóò yè:
-# text_en = Jesus said unto her, i am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
+# text_en = Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=JOHN_11.25
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.25
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto|Ref=JOHN_11.25
@@ -2398,7 +2398,7 @@
 
 # sent_id = JOHN_11.26
 # text = Ẹnikẹ́ni tí ó ń bẹ láàyè, tí ó sì gbà mí gbọ́, kì yóò kú láéláé ìwọ gbà èyí gbọ́?”
-# text_en = And whosoever liveth and believeth in me shall never die. believest thou this?
+# text_en = And whosoever liveth and believeth in me shall never die. Believest thou this?
 1	Ẹnikẹ́ni	ẹnikẹ́ni	ADJ	_	_	17	nsubj	_	Gloss=whosoever|Ref=JOHN_11.26
 2	tí	tí	PRON	_	PronType=Rel	5	nsubj	_	Gloss=that|Ref=JOHN_11.26
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=he|Ref=JOHN_11.26
@@ -2426,7 +2426,7 @@
 
 # sent_id = JOHN_11.27
 # text = Ó wí fún un pé, “Bẹ́ẹ̀ ni, Olúwa: èmi gbàgbọ́ pé, ìwọ ni Kírísítì náà Ọmọ Ọlọ́run, ẹni tí ń bọ̀ wá sí ayé.”
-# text_en = She saith unto him, yea, lord: i believe that thou art the christ, the son of god, which should come into the world.
+# text_en = She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=she|Ref=JOHN_11.27
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.27
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto|Ref=JOHN_11.27
@@ -2462,7 +2462,7 @@
 
 # sent_id = JOHN_11.28
 # text = Nígbà tí ó sì ti wí èyí tán, ó lọ, ó sì pe Màríà arábìnrin rẹ̀ sẹ́yìn wí pé, “Olùkọ́ dé, ó sì ń pè ọ́.”
-# text_en = And when she had so said, she went her way, and called Mary her sister secretly, saying, the master is come, and calleth for thee.
+# text_en = And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.
 1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.28
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.28
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=she|Ref=JOHN_11.28
@@ -2541,7 +2541,7 @@
 
 # sent_id = JOHN_11.31
 # text = Nígbà tí àwọn Júù tí ó wà lọ́dọ̀ rẹ̀ nínú ilé, tí wọ́n ń tù ú nínú rí Màríà tí ó dìde kánkán, tí ó sì jáde, wọ́n tẹ̀lé, wọ́n ṣebí ó ń lọ sí ibojì láti sọkún níbẹ̀.
-# text_en = The jews then which were with her in the house, and comforted her, when they saw mary, that she rose up hastily and went out, followed her, saying, she goeth unto the grave to weep there.
+# text_en = The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.
 1	Nígbà	nígbà	ADV	_	_	19	advmod	_	Gloss=when|Ref=JOHN_11.31
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.31
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.31
@@ -2589,7 +2589,7 @@
 
 # sent_id = JOHN_11.32
 # text = Nígbà tí Màríà sì dé ibi tí Jésù wà, tí ó sì rí i, ó wólẹ̀ lẹ́bàá ẹsẹ̀ rẹ̀, ó wí fún un pé, “Olúwa, ìbáṣe pé ìwọ ti wà níhín-ín, arákùnrin mi kì bá kú.”
-# text_en = Then when mary was come where jesus was, and saw him, she fell down at his feet, saying unto him, lord, if thou hadst been here, my brother had not died.
+# text_en = Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.32
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.32
 3	Màríà	màríà	PROPN	_	_	5	nsubj	_	Gloss=mary|Ref=JOHN_11.32
@@ -2638,7 +2638,7 @@
 
 # sent_id = JOHN_11.34
 # text = Ó sì wí pé, “Níbo ni ẹ̀yin gbé tẹ́ ẹ sí?” Wọ́n sì wí fún un pé, “Olúwa, wá wò ó.”
-# text_en = And said, where have ye laid him? they said unto him, lord, come and see.
+# text_en = And said, Where have ye laid him? They said unto him, Lord, come and see.
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|Ref=JOHN_11.34
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=JOHN_11.34
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.34
@@ -2679,7 +2679,7 @@
 
 # sent_id = JOHN_11.36
 # text = Nítorí náà àwọn Júù wí pé, “Sá wò ó bí ó ti fẹ́ràn rẹ̀ tó!”
-# text_en = Then said the jews, behold how he loved him!
+# text_en = Then said the Jews, Behold how he loved him!
 1	Nítorí	nítorí	ADV	_	_	5	advmod	_	Gloss=for|Ref=JOHN_11.36
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that|Ref=JOHN_11.36
 3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.36
@@ -2702,7 +2702,7 @@
 
 # sent_id = JOHN_11.37
 # text = Àwọn kan nínú wọn sì wí pé, “Ọkùnrin yìí, ẹni tí ó la ojú afọ́jú, kò lè ṣeé kí ọkùnrin yìí má kú bí?”
-# text_en = And some of them said, could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
+# text_en = And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
 1	Àwọn	àwọn	PRON	_	PronType=Ind	6	nsubj	_	Gloss=some|Ref=JOHN_11.37
 2	kan	kan	NUM	_	NumType=Card	1	nummod	_	Gloss=a|Ref=JOHN_11.37
 3	nínú	nínú	ADP	_	_	4	case	_	Gloss=in|Ref=JOHN_11.37
@@ -2736,7 +2736,7 @@
 
 # sent_id = JOHN_11.38
 # text = Nígbà náà ni Jésù tún kérora nínú ara rẹ̀, ó wá sí ibojì, ó sì jẹ́ ihò, a sì gbé òkúta lé ẹnu rẹ̀.
-# text_en = Jesus therefore again groaning in himself cometh to the grave. it was a cave, and a stone lay upon it.
+# text_en = Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.
 1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.38
 2	náà	náà	ADV	_	_	6	advmod	_	Gloss=that|Ref=JOHN_11.38
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.38
@@ -2768,7 +2768,7 @@
 
 # sent_id = JOHN_11.39
 # text = Jésù wí pé, “Ẹ gbé òkúta náà kúrò!” Màtá, arábìnrin ẹni tí ó kú náà wí fún un pé, “Olúwa, ó ti ń rùn nísinsin yìí: nítorí pé ó di ijọ́ kẹrin tí ó tí kú.”
-# text_en = Jesus said, take ye away the stone. martha, the sister of him that was dead, saith unto him, lord, by this time he stinketh: for he hath been dead four days.
+# text_en = Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=JOHN_11.39
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.39
 3	pé	pé	SCONJ	_	_	7	mark	_	Gloss=that|Ref=JOHN_11.39|SpaceAfter=No
@@ -2819,7 +2819,7 @@
 
 # sent_id = JOHN_11.40
 # text = Jésù wí fún un pé, “Èmi kò ti wí fún ọ pé, bí ìwọ bá gbàgbọ́, ìwọ ó rí ògo Ọlọ́run?”
-# text_en = Jesus saith unto her, said i not unto thee, that, if thou wouldest believe, thou shouldest see the glory of god?
+# text_en = Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=JOHN_11.40
 2	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.40
 3	fún	fún	ADP	_	_	4	case	_	Gloss=unto|Ref=JOHN_11.40
@@ -2850,7 +2850,7 @@
 
 # sent_id = JOHN_11.41
 # text = Nígbà náà ni wọ́n gbé òkúta náà kúrò (níbi tí a tẹ́ ẹ sí). Jésù sì gbé ojú rẹ̀ sókè, ó sì wí pé, “Baba, mo dúpẹ́ lọ́wọ́ rẹ nítorí tí ìwọ gbọ́ tèmi.
-# text_en = Then they took away the stone from the place where the dead was laid. and jesus lifted up his eyes, and said, father, i thank thee that thou hast heard me.
+# text_en = Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.41
 2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that|Ref=JOHN_11.41
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.41
@@ -2896,7 +2896,7 @@
 
 # sent_id = JOHN_11.42
 # text = Èmi sì ti mọ̀ pé, ìwọ a máa gbọ́ ti èmi nígbà gbogbo: ṣùgbọ́n nítorí ìjọ ènìyàn tí ó dúró yìí ni mo ṣe wí i, kí wọn baà lè gbàgbọ́ pé ìwọ ni ó rán mi.”
-# text_en = And i knew that thou hearest me always: but because of the people which stand by i said it, that they may believe that thou hast sent me.
+# text_en = And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.
 1	Èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=i|Ref=JOHN_11.42
 2	sì	sì	CCONJ	_	_	4	cc	_	Gloss=then|Ref=JOHN_11.42
 3	ti	ti	AUX	_	_	4	aux	_	Gloss=have|Ref=JOHN_11.42
@@ -2942,7 +2942,7 @@
 
 # sent_id = JOHN_11.43
 # text = Nígbà tí ó sì wí bẹ́ẹ̀ tan, ó kígbe lóhùn rara pé, “Lásárù, jáde wá.”
-# text_en = And when he thus had spoken, he cried with a loud voice, lazarus, come forth.
+# text_en = And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.
 1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=JOHN_11.43
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.43
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|Ref=JOHN_11.43
@@ -2967,7 +2967,7 @@
 
 # sent_id = JOHN_11.44
 # text = Ẹni tí ó kú náà sì jáde wá, tí a fi aṣọ òkú dì tọwọ́ tẹsẹ̀ a sì fi gèlè dì í lójú. Jésù wí fún wọn pé, “Ẹ tú u, ẹ sì jẹ́ kí ó má a lọ!”
-# text_en = And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. jesus saith unto them, loose him, and let him go.
+# text_en = And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
 1	Ẹni	ẹni	PRON	_	PronType=Ind	7	nsubj	_	Gloss=someone|Ref=JOHN_11.44
 2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	Gloss=that|Ref=JOHN_11.44
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl	_	Gloss=has|Ref=JOHN_11.44
@@ -3017,7 +3017,7 @@
 
 # sent_id = JOHN_11.45
 # text = Nítorí náà ni ọ̀pọ̀ àwọn Júù tí ó wá sọ́dọ̀ Màríà, tí wọ́n rí ohun tí Jésù ṣe, ṣe gbà á gbọ́.
-# text_en = Then many of the jews which came to mary, and had seen the things which jesus did, believed on him.
+# text_en = Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.
 1	Nítorí	nítorí	ADV	_	_	21	advmod	_	Gloss=for|Ref=JOHN_11.45
 2	náà	náà	ADV	_	_	21	advcl	_	Gloss=that|Ref=JOHN_11.45
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.45
@@ -3046,7 +3046,7 @@
 
 # sent_id = JOHN_11.46
 # text = Ṣùgbọ́n àwọn ẹlòmíràn nínú wọn tọ àwọn Farisí lọ, wọ́n sì sọ fún wọn ohun tí Jésù ṣe.
-# text_en = But some of them went their ways to the pharisees, and told them what things jesus had done.
+# text_en = But some of them went their ways to the Pharisees, and told them what things Jesus had done.
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	6	cc	_	Gloss=but|Ref=JOHN_11.46
 2	àwọn	àwọn	DET	_	_	3	det	_	Gloss=the|Ref=JOHN_11.46
 3	ẹlòmíràn	ẹlòmíràn	ADJ	_	_	6	nsubj	_	Gloss=others|Ref=JOHN_11.46
