@@ -2,157 +2,165 @@
 # newdoc id = PS_124
 # sent_id = PS_124.1
 # text = “Ìba má ṣe pé Olúwa tí ó ti wà fún wa” ni kí Ísírẹ́lì kí ó máa wí nísinsìn yìí;
-1	“	“	PUNCT	_	_	0	punct	_	Ref=PS_124.1|SpaceAfter=No
-2	Ìba	ìba	X	_	_	0	_	_	Ref=PS_124.1
-3	má	má	X	_	_	0	_	_	Ref=PS_124.1
-4	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_124.1
-5	pé	pé	X	_	_	0	_	_	Ref=PS_124.1
-6	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.1
-7	tí	tí	X	_	_	0	_	_	Ref=PS_124.1
-8	ó	ó	X	_	_	0	_	_	Ref=PS_124.1
-9	ti	ti	X	_	_	0	_	_	Ref=PS_124.1
-10	wà	wà	X	_	_	0	_	_	Ref=PS_124.1
-11	fún	fún	X	_	_	0	_	_	Ref=PS_124.1
-12	wa	wa	X	_	_	0	_	_	Ref=PS_124.1|SpaceAfter=No
-13	”	”	PUNCT	_	_	0	punct	_	Ref=PS_124.1
-14	ni	ni	X	_	_	0	_	_	Ref=PS_124.1
-15	kí	kí	X	_	_	0	_	_	Ref=PS_124.1
-16	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_124.1
-17	kí	kí	X	_	_	0	_	_	Ref=PS_124.1
-18	ó	ó	X	_	_	0	_	_	Ref=PS_124.1
-19	máa	máa	X	_	_	0	_	_	Ref=PS_124.1
-20	wí	wí	X	_	_	0	_	_	Ref=PS_124.1
-21	nísinsìn	nísinsìn	X	_	_	0	_	_	Ref=PS_124.1
-22	yìí	yìí	X	_	_	0	_	_	Ref=PS_124.1|SpaceAfter=No
-23	;	;	PUNCT	_	_	0	punct	_	Ref=PS_124.1
+# text_en = If it had not been the LORD who was on our side, now may Israel say;
+1	“	“	PUNCT	_	_	0	punct	_	Ref=PS_124.1|SpaceAfter=No|Gloss=“
+2	Ìba	ìba	X	_	_	0	_	_	Ref=PS_124.1|Gloss=null
+3	má	má	X	_	_	0	_	_	Ref=PS_124.1|Gloss=not
+4	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_124.1|Gloss=do
+5	pé	pé	X	_	_	0	_	_	Ref=PS_124.1|Gloss=saying
+6	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.1|Gloss=lord
+7	tí	tí	X	_	_	0	_	_	Ref=PS_124.1|Gloss=that
+8	ó	ó	X	_	_	0	_	_	Ref=PS_124.1|Gloss=he
+9	ti	ti	X	_	_	0	_	_	Ref=PS_124.1|Gloss=have
+10	wà	wà	X	_	_	0	_	_	Ref=PS_124.1|Gloss=was
+11	fún	fún	X	_	_	0	_	_	Ref=PS_124.1|Gloss=unto
+12	wa	wa	X	_	_	0	_	_	Ref=PS_124.1|SpaceAfter=No|Gloss=our
+13	”	”	PUNCT	_	_	0	punct	_	Ref=PS_124.1|Gloss=.
+14	ni	ni	X	_	_	0	_	_	Ref=PS_124.1|Gloss=is
+15	kí	kí	X	_	_	0	_	_	Ref=PS_124.1|Gloss=let
+16	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_124.1|Gloss=israel
+17	kí	kí	X	_	_	0	_	_	Ref=PS_124.1|Gloss=let
+18	ó	ó	X	_	_	0	_	_	Ref=PS_124.1|Gloss=he
+19	máa	máa	X	_	_	0	_	_	Ref=PS_124.1|Gloss=be
+20	wí	wí	X	_	_	0	_	_	Ref=PS_124.1|Gloss=said
+21	nísinsìn	nísinsìn	X	_	_	0	_	_	Ref=PS_124.1|Gloss=now
+22	yìí	yìí	X	_	_	0	_	_	Ref=PS_124.1|SpaceAfter=No|Gloss=this
+23	;	;	PUNCT	_	_	0	punct	_	Ref=PS_124.1|Gloss=;
 
 # sent_id = PS_124.2
 # text = “Ìbá má ṣe pé Olúwa tó wà ní tiwa,” Nígbà tí àwọn ènìyàn dúró sí wa:
-1	“	“	PUNCT	_	_	0	punct	_	Ref=PS_124.2|SpaceAfter=No
-2	Ìbá	ìbá	X	_	_	0	_	_	Ref=PS_124.2
-3	má	má	X	_	_	0	_	_	Ref=PS_124.2
-4	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_124.2
-5	pé	pé	X	_	_	0	_	_	Ref=PS_124.2
-6	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.2
-7	tó	tó	X	_	_	0	_	_	Ref=PS_124.2
-8	wà	wà	X	_	_	0	_	_	Ref=PS_124.2
-9	ní	ní	X	_	_	0	_	_	Ref=PS_124.2
-10	tiwa	tiwa	X	_	_	0	_	_	Ref=PS_124.2|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=PS_124.2|SpaceAfter=No
-12	”	”	PUNCT	_	_	0	punct	_	Ref=PS_124.2
-13	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.2
-14	tí	tí	X	_	_	0	_	_	Ref=PS_124.2
-15	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_124.2
-16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_124.2
-17	dúró	dúró	X	_	_	0	_	_	Ref=PS_124.2
-18	sí	sí	X	_	_	0	_	_	Ref=PS_124.2
-19	wa	wa	X	_	_	0	_	_	Ref=PS_124.2|SpaceAfter=No
-20	:	:	PUNCT	_	_	0	punct	_	Ref=PS_124.2
+# text_en = If it had not been the LORD who was on our side, when men rose up against us:
+1	“	“	PUNCT	_	_	0	punct	_	Ref=PS_124.2|SpaceAfter=No|Gloss=“
+2	Ìbá	ìbá	X	_	_	0	_	_	Ref=PS_124.2|Gloss=would
+3	má	má	X	_	_	0	_	_	Ref=PS_124.2|Gloss=not
+4	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_124.2|Gloss=do
+5	pé	pé	X	_	_	0	_	_	Ref=PS_124.2|Gloss=saying
+6	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.2|Gloss=lord
+7	tó	tó	X	_	_	0	_	_	Ref=PS_124.2|Gloss=that
+8	wà	wà	X	_	_	0	_	_	Ref=PS_124.2|Gloss=was
+9	ní	ní	X	_	_	0	_	_	Ref=PS_124.2|Gloss=in
+10	tiwa	tiwa	X	_	_	0	_	_	Ref=PS_124.2|SpaceAfter=No|Gloss=us
+11	,	,	PUNCT	_	_	0	punct	_	Ref=PS_124.2|SpaceAfter=No|Gloss=,
+12	”	”	PUNCT	_	_	0	punct	_	Ref=PS_124.2|Gloss=.
+13	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.2|Gloss=when
+14	tí	tí	X	_	_	0	_	_	Ref=PS_124.2|Gloss=that
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_124.2|Gloss=the
+16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_124.2|Gloss=people
+17	dúró	dúró	X	_	_	0	_	_	Ref=PS_124.2|Gloss=stood
+18	sí	sí	X	_	_	0	_	_	Ref=PS_124.2|Gloss=to
+19	wa	wa	X	_	_	0	_	_	Ref=PS_124.2|SpaceAfter=No|Gloss=our
+20	:	:	PUNCT	_	_	0	punct	_	Ref=PS_124.2|Gloss=:
 
 # sent_id = PS_124.3
 # text = Nígbà náà ni wọn ò bá gbé wà mì láàyè nígbà tí ìbínú wọn ru sí wá
-1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.3
-2	náà	náà	X	_	_	0	_	_	Ref=PS_124.3
-3	ni	ni	X	_	_	0	_	_	Ref=PS_124.3
-4	wọn	wọn	X	_	_	0	_	_	Ref=PS_124.3
-5	ò	ò	X	_	_	0	_	_	Ref=PS_124.3
-6	bá	bá	X	_	_	0	_	_	Ref=PS_124.3
-7	gbé	gbé	X	_	_	0	_	_	Ref=PS_124.3
-8	wà	wà	X	_	_	0	_	_	Ref=PS_124.3
-9	mì	mì	X	_	_	0	_	_	Ref=PS_124.3
-10	láàyè	láàyè	X	_	_	0	_	_	Ref=PS_124.3
-11	nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.3
-12	tí	tí	X	_	_	0	_	_	Ref=PS_124.3
-13	ìbínú	ìbínú	X	_	_	0	_	_	Ref=PS_124.3
-14	wọn	wọn	X	_	_	0	_	_	Ref=PS_124.3
-15	ru	ru	X	_	_	0	_	_	Ref=PS_124.3
-16	sí	sí	X	_	_	0	_	_	Ref=PS_124.3
-17	wá	wá	X	_	_	0	_	_	Ref=PS_124.3
+# text_en = Then they had swallowed us up quick, when their wrath was kindled against us:
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.3|Gloss=when
+2	náà	náà	X	_	_	0	_	_	Ref=PS_124.3|Gloss=the
+3	ni	ni	X	_	_	0	_	_	Ref=PS_124.3|Gloss=is
+4	wọn	wọn	X	_	_	0	_	_	Ref=PS_124.3|Gloss=them
+5	ò	ò	X	_	_	0	_	_	Ref=PS_124.3|Gloss=not
+6	bá	bá	X	_	_	0	_	_	Ref=PS_124.3|Gloss=if
+7	gbé	gbé	X	_	_	0	_	_	Ref=PS_124.3|Gloss=dwell
+8	wà	wà	X	_	_	0	_	_	Ref=PS_124.3|Gloss=was
+9	mì	mì	X	_	_	0	_	_	Ref=PS_124.3|Gloss=swallowed
+10	láàyè	láàyè	X	_	_	0	_	_	Ref=PS_124.3|Gloss=live
+11	nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.3|Gloss=when
+12	tí	tí	X	_	_	0	_	_	Ref=PS_124.3|Gloss=that
+13	ìbínú	ìbínú	X	_	_	0	_	_	Ref=PS_124.3|Gloss=wrath
+14	wọn	wọn	X	_	_	0	_	_	Ref=PS_124.3|Gloss=them
+15	ru	ru	X	_	_	0	_	_	Ref=PS_124.3|Gloss=bear
+16	sí	sí	X	_	_	0	_	_	Ref=PS_124.3|Gloss=to
+17	wá	wá	X	_	_	0	_	_	Ref=PS_124.3|Gloss=come
 
 # sent_id = PS_124.4
 # text = Nígbà náà ni omi wọ̀n-ọn-nì ìbá bò wá mọ́lẹ̀
-1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.4
-2	náà	náà	X	_	_	0	_	_	Ref=PS_124.4
-3	ni	ni	X	_	_	0	_	_	Ref=PS_124.4
-4	omi	omi	X	_	_	0	_	_	Ref=PS_124.4
-5	wọ̀n	wọ̀n	X	_	_	0	_	_	Ref=PS_124.4|SpaceAfter=No
-6	-	-	PUNCT	_	_	0	punct	_	Ref=PS_124.4|SpaceAfter=No
-7	ọn	ọn	X	_	_	0	_	_	Ref=PS_124.4|SpaceAfter=No
-8	-	-	PUNCT	_	_	0	punct	_	Ref=PS_124.4|SpaceAfter=No
-9	nì	nì	X	_	_	0	_	_	Ref=PS_124.4
-10	ìbá	ìbá	X	_	_	0	_	_	Ref=PS_124.4
-11	bò	bò	X	_	_	0	_	_	Ref=PS_124.4
-12	wá	wá	X	_	_	0	_	_	Ref=PS_124.4
-13	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=PS_124.4
+# text_en = Then the waters had overwhelmed us, the stream had gone over our soul:
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.4|Gloss=when
+2	náà	náà	X	_	_	0	_	_	Ref=PS_124.4|Gloss=the
+3	ni	ni	X	_	_	0	_	_	Ref=PS_124.4|Gloss=is
+4	omi	omi	X	_	_	0	_	_	Ref=PS_124.4|Gloss=water
+5	wọ̀n	wọ̀n	X	_	_	0	_	_	Ref=PS_124.4|SpaceAfter=No|Gloss=those
+6	-	-	PUNCT	_	_	0	punct	_	Ref=PS_124.4|SpaceAfter=No|Gloss=the
+7	ọn	ọn	X	_	_	0	_	_	Ref=PS_124.4|SpaceAfter=No|Gloss=him
+8	-	-	PUNCT	_	_	0	punct	_	Ref=PS_124.4|SpaceAfter=No|Gloss=the
+9	nì	nì	X	_	_	0	_	_	Ref=PS_124.4|Gloss=the
+10	ìbá	ìbá	X	_	_	0	_	_	Ref=PS_124.4|Gloss=would
+11	bò	bò	X	_	_	0	_	_	Ref=PS_124.4|Gloss=covered
+12	wá	wá	X	_	_	0	_	_	Ref=PS_124.4|Gloss=come
+13	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=PS_124.4|Gloss=trodden
 
 # sent_id = PS_124.5
 # text = Nígbà náà ni agbéraga omi ìbá borí ọkàn wa.
-1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.5
-2	náà	náà	X	_	_	0	_	_	Ref=PS_124.5
-3	ni	ni	X	_	_	0	_	_	Ref=PS_124.5
-4	agbéraga	agbéraga	X	_	_	0	_	_	Ref=PS_124.5
-5	omi	omi	X	_	_	0	_	_	Ref=PS_124.5
-6	ìbá	ìbá	X	_	_	0	_	_	Ref=PS_124.5
-7	borí	borí	X	_	_	0	_	_	Ref=PS_124.5
-8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PS_124.5
+# text_en = Then the proud waters had gone over our soul.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PS_124.5|Gloss=when
+2	náà	náà	X	_	_	0	_	_	Ref=PS_124.5|Gloss=the
+3	ni	ni	X	_	_	0	_	_	Ref=PS_124.5|Gloss=is
+4	agbéraga	agbéraga	X	_	_	0	_	_	Ref=PS_124.5|Gloss=proud
+5	omi	omi	X	_	_	0	_	_	Ref=PS_124.5|Gloss=water
+6	ìbá	ìbá	X	_	_	0	_	_	Ref=PS_124.5|Gloss=would
+7	borí	borí	X	_	_	0	_	_	Ref=PS_124.5|Gloss=prevailed
+8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PS_124.5|Gloss=heart
 9	wa	wa	X	_	_	0	_	_	Ref=PS_124.5|SpaceAfter=No
 10	.	.	PUNCT	_	_	0	punct	_	Ref=PS_124.5
 
 # sent_id = PS_124.6
 # text = Olùbùkún ni Olúwa , tí kò fi wá fún wọ́n bí ohun ọdẹ fún eyín wọn.
-1	Olùbùkún	olùbùkún	X	_	_	0	_	_	Ref=PS_124.6
-2	ni	ni	X	_	_	0	_	_	Ref=PS_124.6
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.6
-4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_124.6
-5	tí	tí	X	_	_	0	_	_	Ref=PS_124.6
-6	kò	kò	X	_	_	0	_	_	Ref=PS_124.6
-7	fi	fi	X	_	_	0	_	_	Ref=PS_124.6
-8	wá	wá	X	_	_	0	_	_	Ref=PS_124.6
-9	fún	fún	X	_	_	0	_	_	Ref=PS_124.6
-10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_124.6
-11	bí	bí	X	_	_	0	_	_	Ref=PS_124.6
-12	ohun	ohun	X	_	_	0	_	_	Ref=PS_124.6
-13	ọdẹ	ọdẹ	X	_	_	0	_	_	Ref=PS_124.6
-14	fún	fún	X	_	_	0	_	_	Ref=PS_124.6
-15	eyín	eyín	X	_	_	0	_	_	Ref=PS_124.6
-16	wọn	wọn	X	_	_	0	_	_	Ref=PS_124.6|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_124.6
+# text_en = Blessed be the LORD, who hath not given us as a prey to their teeth.
+1	Olùbùkún	olùbùkún	X	_	_	0	_	_	Ref=PS_124.6|Gloss=blessed
+2	ni	ni	X	_	_	0	_	_	Ref=PS_124.6|Gloss=is
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.6|Gloss=lord
+4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_124.6|Gloss=,
+5	tí	tí	X	_	_	0	_	_	Ref=PS_124.6|Gloss=that
+6	kò	kò	X	_	_	0	_	_	Ref=PS_124.6|Gloss=not
+7	fi	fi	X	_	_	0	_	_	Ref=PS_124.6|Gloss=with
+8	wá	wá	X	_	_	0	_	_	Ref=PS_124.6|Gloss=come
+9	fún	fún	X	_	_	0	_	_	Ref=PS_124.6|Gloss=unto
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_124.6|Gloss=they
+11	bí	bí	X	_	_	0	_	_	Ref=PS_124.6|Gloss=as
+12	ohun	ohun	X	_	_	0	_	_	Ref=PS_124.6|Gloss=things
+13	ọdẹ	ọdẹ	X	_	_	0	_	_	Ref=PS_124.6|Gloss=prey
+14	fún	fún	X	_	_	0	_	_	Ref=PS_124.6|Gloss=unto
+15	eyín	eyín	X	_	_	0	_	_	Ref=PS_124.6|Gloss=teeth
+16	wọn	wọn	X	_	_	0	_	_	Ref=PS_124.6|SpaceAfter=No|Gloss=them
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_124.6|Gloss=.
 
 # sent_id = PS_124.7
 # text = Ọkàn wa yọ bí ẹyẹ jáde kúrò nínú okùn apẹyẹ; okùn já àwa sì yọ.
-1	Ọkàn	ọkàn	X	_	_	0	_	_	Ref=PS_124.7
-2	wa	wa	X	_	_	0	_	_	Ref=PS_124.7
-3	yọ	yọ	X	_	_	0	_	_	Ref=PS_124.7
-4	bí	bí	X	_	_	0	_	_	Ref=PS_124.7
-5	ẹyẹ	ẹyẹ	X	_	_	0	_	_	Ref=PS_124.7
-6	jáde	jáde	X	_	_	0	_	_	Ref=PS_124.7
-7	kúrò	kúrò	X	_	_	0	_	_	Ref=PS_124.7
-8	nínú	nínú	X	_	_	0	_	_	Ref=PS_124.7
-9	okùn	okùn	X	_	_	0	_	_	Ref=PS_124.7
-10	apẹyẹ	apẹyẹ	X	_	_	0	_	_	Ref=PS_124.7|SpaceAfter=No
-11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_124.7
-12	okùn	okùn	X	_	_	0	_	_	Ref=PS_124.7
-13	já	já	X	_	_	0	_	_	Ref=PS_124.7
-14	àwa	àwa	X	_	_	0	_	_	Ref=PS_124.7
-15	sì	sì	X	_	_	0	_	_	Ref=PS_124.7
-16	yọ	yọ	X	_	_	0	_	_	Ref=PS_124.7|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_124.7
+# text_en = Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.
+1	Ọkàn	ọkàn	X	_	_	0	_	_	Ref=PS_124.7|Gloss=heart
+2	wa	wa	X	_	_	0	_	_	Ref=PS_124.7|Gloss=our
+3	yọ	yọ	X	_	_	0	_	_	Ref=PS_124.7|Gloss=out
+4	bí	bí	X	_	_	0	_	_	Ref=PS_124.7|Gloss=as
+5	ẹyẹ	ẹyẹ	X	_	_	0	_	_	Ref=PS_124.7|Gloss=fowls
+6	jáde	jáde	X	_	_	0	_	_	Ref=PS_124.7|Gloss=out
+7	kúrò	kúrò	X	_	_	0	_	_	Ref=PS_124.7|Gloss=from
+8	nínú	nínú	X	_	_	0	_	_	Ref=PS_124.7|Gloss=in
+9	okùn	okùn	X	_	_	0	_	_	Ref=PS_124.7|Gloss=cords
+10	apẹyẹ	apẹyẹ	X	_	_	0	_	_	Ref=PS_124.7|SpaceAfter=No|Gloss=fowlers
+11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_124.7|Gloss=;
+12	okùn	okùn	X	_	_	0	_	_	Ref=PS_124.7|Gloss=cords
+13	já	já	X	_	_	0	_	_	Ref=PS_124.7|Gloss=broken
+14	àwa	àwa	X	_	_	0	_	_	Ref=PS_124.7|Gloss=we
+15	sì	sì	X	_	_	0	_	_	Ref=PS_124.7|Gloss=and
+16	yọ	yọ	X	_	_	0	_	_	Ref=PS_124.7|SpaceAfter=No|Gloss=out
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_124.7|Gloss=.
 
 # sent_id = PS_124.8
 # text = Ìrànlọ́wọ́ wa ń bẹ ní orúkọ Olúwa , tí ó dá ọ̀run òun ayé.
+# text_en = Our help is in the name of the LORD, who made heaven and earth.
 1	Ìrànlọ́wọ́	ìrànlọ́wọ́	X	_	_	0	_	_	Ref=PS_124.8
-2	wa	wa	X	_	_	0	_	_	Ref=PS_124.8
-3	ń	ń	X	_	_	0	_	_	Ref=PS_124.8
-4	bẹ	bẹ	X	_	_	0	_	_	Ref=PS_124.8
-5	ní	ní	X	_	_	0	_	_	Ref=PS_124.8
-6	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PS_124.8
-7	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.8
-8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_124.8
-9	tí	tí	X	_	_	0	_	_	Ref=PS_124.8
-10	ó	ó	X	_	_	0	_	_	Ref=PS_124.8
-11	dá	dá	X	_	_	0	_	_	Ref=PS_124.8
-12	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_124.8
-13	òun	òun	X	_	_	0	_	_	Ref=PS_124.8
-14	ayé	ayé	X	_	_	0	_	_	Ref=PS_124.8|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_124.8
+2	wa	wa	X	_	_	0	_	_	Ref=PS_124.8|Gloss=our
+3	ń	ń	X	_	_	0	_	_	Ref=PS_124.8|Gloss=that
+4	bẹ	bẹ	X	_	_	0	_	_	Ref=PS_124.8|Gloss=is
+5	ní	ní	X	_	_	0	_	_	Ref=PS_124.8|Gloss=in
+6	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PS_124.8|Gloss=name
+7	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_124.8|Gloss=lord
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_124.8|Gloss=,
+9	tí	tí	X	_	_	0	_	_	Ref=PS_124.8|Gloss=that
+10	ó	ó	X	_	_	0	_	_	Ref=PS_124.8|Gloss=he
+11	dá	dá	X	_	_	0	_	_	Ref=PS_124.8|Gloss=made
+12	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_124.8|Gloss=heaven
+13	òun	òun	X	_	_	0	_	_	Ref=PS_124.8|Gloss=he
+14	ayé	ayé	X	_	_	0	_	_	Ref=PS_124.8|SpaceAfter=No|Gloss=earth
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_124.8|Gloss=.
 

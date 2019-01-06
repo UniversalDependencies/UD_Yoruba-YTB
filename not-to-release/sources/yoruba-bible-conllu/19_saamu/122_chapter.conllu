@@ -2,174 +2,183 @@
 # newdoc id = PS_122
 # sent_id = PS_122.1
 # text = Inú mi dùn nígbà tí wọ́n wí fún mi pé Ẹ jẹ́ kí a lọ sílé Olúwa .
-1	Inú	inú	X	_	_	0	_	_	Ref=PS_122.1
-2	mi	mi	X	_	_	0	_	_	Ref=PS_122.1
-3	dùn	dùn	X	_	_	0	_	_	Ref=PS_122.1
-4	nígbà	nígbà	X	_	_	0	_	_	Ref=PS_122.1
-5	tí	tí	X	_	_	0	_	_	Ref=PS_122.1
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_122.1
-7	wí	wí	X	_	_	0	_	_	Ref=PS_122.1
-8	fún	fún	X	_	_	0	_	_	Ref=PS_122.1
-9	mi	mi	X	_	_	0	_	_	Ref=PS_122.1
-10	pé	pé	X	_	_	0	_	_	Ref=PS_122.1
-11	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_122.1
-12	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PS_122.1
-13	kí	kí	X	_	_	0	_	_	Ref=PS_122.1
-14	a	a	X	_	_	0	_	_	Ref=PS_122.1
-15	lọ	lọ	X	_	_	0	_	_	Ref=PS_122.1
-16	sílé	sílé	X	_	_	0	_	_	Ref=PS_122.1
-17	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.1
-18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.1
+# text_en = I was glad when they said unto me, Let us go into the house of the LORD.
+1	Inú	inú	X	_	_	0	_	_	Ref=PS_122.1|Gloss=of
+2	mi	mi	X	_	_	0	_	_	Ref=PS_122.1|Gloss=my
+3	dùn	dùn	X	_	_	0	_	_	Ref=PS_122.1|Gloss=glad
+4	nígbà	nígbà	X	_	_	0	_	_	Ref=PS_122.1|Gloss=when
+5	tí	tí	X	_	_	0	_	_	Ref=PS_122.1|Gloss=that
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_122.1|Gloss=they
+7	wí	wí	X	_	_	0	_	_	Ref=PS_122.1|Gloss=said
+8	fún	fún	X	_	_	0	_	_	Ref=PS_122.1|Gloss=unto
+9	mi	mi	X	_	_	0	_	_	Ref=PS_122.1|Gloss=my
+10	pé	pé	X	_	_	0	_	_	Ref=PS_122.1|Gloss=saying
+11	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_122.1|Gloss=ye
+12	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PS_122.1|Gloss=be
+13	kí	kí	X	_	_	0	_	_	Ref=PS_122.1|Gloss=let
+14	a	a	X	_	_	0	_	_	Ref=PS_122.1|Gloss=be
+15	lọ	lọ	X	_	_	0	_	_	Ref=PS_122.1|Gloss=go
+16	sílé	sílé	X	_	_	0	_	_	Ref=PS_122.1|Gloss=house
+17	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.1|Gloss=lord
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.1|Gloss=.
 
 # sent_id = PS_122.2
 # text = Ẹsẹ̀ wa yóò dúró ní ẹnu ibodè Rẹ, ìwọ Jérúsálẹ́mù.
-1	Ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=PS_122.2
-2	wa	wa	X	_	_	0	_	_	Ref=PS_122.2
-3	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.2
-4	dúró	dúró	X	_	_	0	_	_	Ref=PS_122.2
-5	ní	ní	X	_	_	0	_	_	Ref=PS_122.2
-6	ẹnu	ẹnu	X	_	_	0	_	_	Ref=PS_122.2
-7	ibodè	ibodè	X	_	_	0	_	_	Ref=PS_122.2
-8	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_122.2|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.2
-10	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_122.2
-11	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_122.2|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.2
+# text_en = Our feet shall stand within thy gates, O Jerusalem.
+1	Ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=PS_122.2|Gloss=feet
+2	wa	wa	X	_	_	0	_	_	Ref=PS_122.2|Gloss=our
+3	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.2|Gloss=shall
+4	dúró	dúró	X	_	_	0	_	_	Ref=PS_122.2|Gloss=stood
+5	ní	ní	X	_	_	0	_	_	Ref=PS_122.2|Gloss=in
+6	ẹnu	ẹnu	X	_	_	0	_	_	Ref=PS_122.2|Gloss=mouth
+7	ibodè	ibodè	X	_	_	0	_	_	Ref=PS_122.2|Gloss=gate
+8	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_122.2|SpaceAfter=No|Gloss=thy
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.2|Gloss=,
+10	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_122.2|Gloss=thou
+11	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_122.2|SpaceAfter=No|Gloss=jerusalem
+12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.2|Gloss=.
 
 # sent_id = PS_122.3
 # text = Jérúsálẹ́mù, ìwọ tí a kọ́ bí ìlú tí o fi ara mọ́ra pọ̀ ṣọ̀kan
-1	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_122.3|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.3
-3	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_122.3
-4	tí	tí	X	_	_	0	_	_	Ref=PS_122.3
-5	a	a	X	_	_	0	_	_	Ref=PS_122.3
-6	kọ́	kọ́	X	_	_	0	_	_	Ref=PS_122.3
-7	bí	bí	X	_	_	0	_	_	Ref=PS_122.3
-8	ìlú	ìlú	X	_	_	0	_	_	Ref=PS_122.3
-9	tí	tí	X	_	_	0	_	_	Ref=PS_122.3
-10	o	o	X	_	_	0	_	_	Ref=PS_122.3
-11	fi	fi	X	_	_	0	_	_	Ref=PS_122.3
-12	ara	ara	X	_	_	0	_	_	Ref=PS_122.3
-13	mọ́ra	mọ́ra	X	_	_	0	_	_	Ref=PS_122.3
-14	pọ̀	pọ̀	X	_	_	0	_	_	Ref=PS_122.3
-15	ṣọ̀kan	ṣọ̀kan	X	_	_	0	_	_	Ref=PS_122.3
+# text_en = Jerusalem is builded as a city that is compact together:
+1	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_122.3|SpaceAfter=No|Gloss=jerusalem
+2	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.3|Gloss=,
+3	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_122.3|Gloss=thou
+4	tí	tí	X	_	_	0	_	_	Ref=PS_122.3|Gloss=that
+5	a	a	X	_	_	0	_	_	Ref=PS_122.3|Gloss=be
+6	kọ́	kọ́	X	_	_	0	_	_	Ref=PS_122.3|Gloss=build
+7	bí	bí	X	_	_	0	_	_	Ref=PS_122.3|Gloss=as
+8	ìlú	ìlú	X	_	_	0	_	_	Ref=PS_122.3|Gloss=city
+9	tí	tí	X	_	_	0	_	_	Ref=PS_122.3|Gloss=that
+10	o	o	X	_	_	0	_	_	Ref=PS_122.3|Gloss=thou
+11	fi	fi	X	_	_	0	_	_	Ref=PS_122.3|Gloss=with
+12	ara	ara	X	_	_	0	_	_	Ref=PS_122.3|Gloss=himself
+13	mọ́ra	mọ́ra	X	_	_	0	_	_	Ref=PS_122.3|Gloss=embrace
+14	pọ̀	pọ̀	X	_	_	0	_	_	Ref=PS_122.3|Gloss=together
+15	ṣọ̀kan	ṣọ̀kan	X	_	_	0	_	_	Ref=PS_122.3|Gloss=together
 
 # sent_id = PS_122.4
 # text = Níbi tí àwọn ẹ̀yà máa ń gòkè lọ, àwọn ẹ̀yà Olúwa , ẹ̀rí fún Ísírẹ́lì, láti máa dúpẹ́ fún orúkọ Olúwa .
-1	Níbi	níbi	X	_	_	0	_	_	Ref=PS_122.4
-2	tí	tí	X	_	_	0	_	_	Ref=PS_122.4
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.4
-4	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=PS_122.4
-5	máa	máa	X	_	_	0	_	_	Ref=PS_122.4
-6	ń	ń	X	_	_	0	_	_	Ref=PS_122.4
-7	gòkè	gòkè	X	_	_	0	_	_	Ref=PS_122.4
-8	lọ	lọ	X	_	_	0	_	_	Ref=PS_122.4|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.4
-10	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.4
-11	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=PS_122.4
-12	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.4
-13	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.4
-14	ẹ̀rí	ẹ̀rí	X	_	_	0	_	_	Ref=PS_122.4
-15	fún	fún	X	_	_	0	_	_	Ref=PS_122.4
-16	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_122.4|SpaceAfter=No
-17	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.4
-18	láti	láti	X	_	_	0	_	_	Ref=PS_122.4
-19	máa	máa	X	_	_	0	_	_	Ref=PS_122.4
-20	dúpẹ́	dúpẹ́	X	_	_	0	_	_	Ref=PS_122.4
-21	fún	fún	X	_	_	0	_	_	Ref=PS_122.4
-22	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PS_122.4
-23	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.4
-24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.4
+# text_en = Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.
+1	Níbi	níbi	X	_	_	0	_	_	Ref=PS_122.4|Gloss=where
+2	tí	tí	X	_	_	0	_	_	Ref=PS_122.4|Gloss=that
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.4|Gloss=the
+4	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=PS_122.4|Gloss=tribe
+5	máa	máa	X	_	_	0	_	_	Ref=PS_122.4|Gloss=be
+6	ń	ń	X	_	_	0	_	_	Ref=PS_122.4|Gloss=that
+7	gòkè	gòkè	X	_	_	0	_	_	Ref=PS_122.4|Gloss=up
+8	lọ	lọ	X	_	_	0	_	_	Ref=PS_122.4|SpaceAfter=No|Gloss=go
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.4|Gloss=,
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.4|Gloss=the
+11	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=PS_122.4|Gloss=tribe
+12	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.4|Gloss=lord
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.4|Gloss=,
+14	ẹ̀rí	ẹ̀rí	X	_	_	0	_	_	Ref=PS_122.4|Gloss=testimony
+15	fún	fún	X	_	_	0	_	_	Ref=PS_122.4|Gloss=unto
+16	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_122.4|SpaceAfter=No|Gloss=israel
+17	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.4|Gloss=,
+18	láti	láti	X	_	_	0	_	_	Ref=PS_122.4|Gloss=to
+19	máa	máa	X	_	_	0	_	_	Ref=PS_122.4|Gloss=be
+20	dúpẹ́	dúpẹ́	X	_	_	0	_	_	Ref=PS_122.4|Gloss=thanks
+21	fún	fún	X	_	_	0	_	_	Ref=PS_122.4|Gloss=unto
+22	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PS_122.4|Gloss=name
+23	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.4|Gloss=lord
+24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.4|Gloss=.
 
 # sent_id = PS_122.5
 # text = Nítorí ibẹ̀ ni a gbé ìtẹ́ ìdájọ́ kalẹ̀, àwọn ìtẹ́ ilé Dáfídì.
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_122.5
-2	ibẹ̀	ibẹ̀	X	_	_	0	_	_	Ref=PS_122.5
-3	ni	ni	X	_	_	0	_	_	Ref=PS_122.5
-4	a	a	X	_	_	0	_	_	Ref=PS_122.5
-5	gbé	gbé	X	_	_	0	_	_	Ref=PS_122.5
-6	ìtẹ́	ìtẹ́	X	_	_	0	_	_	Ref=PS_122.5
-7	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=PS_122.5
-8	kalẹ̀	kalẹ̀	X	_	_	0	_	_	Ref=PS_122.5|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.5
+# text_en = For there are set thrones of judgment, the thrones of the house of David.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_122.5|Gloss=for
+2	ibẹ̀	ibẹ̀	X	_	_	0	_	_	Ref=PS_122.5|Gloss=thence
+3	ni	ni	X	_	_	0	_	_	Ref=PS_122.5|Gloss=is
+4	a	a	X	_	_	0	_	_	Ref=PS_122.5|Gloss=be
+5	gbé	gbé	X	_	_	0	_	_	Ref=PS_122.5|Gloss=dwell
+6	ìtẹ́	ìtẹ́	X	_	_	0	_	_	Ref=PS_122.5|Gloss=throne
+7	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=PS_122.5|Gloss=judgment
+8	kalẹ̀	kalẹ̀	X	_	_	0	_	_	Ref=PS_122.5|SpaceAfter=No|Gloss=set
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.5|Gloss=,
 10	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.5
-11	ìtẹ́	ìtẹ́	X	_	_	0	_	_	Ref=PS_122.5
-12	ilé	ilé	X	_	_	0	_	_	Ref=PS_122.5
-13	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=PS_122.5|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.5
+11	ìtẹ́	ìtẹ́	X	_	_	0	_	_	Ref=PS_122.5|Gloss=throne
+12	ilé	ilé	X	_	_	0	_	_	Ref=PS_122.5|Gloss=house
+13	Dáfídì	Dáfídì	PROPN	_	_	0	_	_	Ref=PS_122.5|SpaceAfter=No|Gloss=david
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.5|Gloss=.
 
 # sent_id = PS_122.6
 # text = Gbàdúrà fún àlàáfíà Jérúsálẹ́mù; àwọn tí o fẹ́ ọ yóò ṣe rere.
-1	Gbàdúrà	gbàdúrà	X	_	_	0	_	_	Ref=PS_122.6
-2	fún	fún	X	_	_	0	_	_	Ref=PS_122.6
-3	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_122.6
-4	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_122.6|SpaceAfter=No
-5	;	;	PUNCT	_	_	0	punct	_	Ref=PS_122.6
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.6
-7	tí	tí	X	_	_	0	_	_	Ref=PS_122.6
-8	o	o	X	_	_	0	_	_	Ref=PS_122.6
-9	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PS_122.6
-10	ọ	ọ	X	_	_	0	_	_	Ref=PS_122.6
-11	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.6
-12	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_122.6
-13	rere	rere	X	_	_	0	_	_	Ref=PS_122.6|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.6
+# text_en = Pray for the peace of Jerusalem: they shall prosper that love thee.
+1	Gbàdúrà	gbàdúrà	X	_	_	0	_	_	Ref=PS_122.6|Gloss=pray
+2	fún	fún	X	_	_	0	_	_	Ref=PS_122.6|Gloss=unto
+3	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_122.6|Gloss=peace
+4	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_122.6|SpaceAfter=No|Gloss=jerusalem
+5	;	;	PUNCT	_	_	0	punct	_	Ref=PS_122.6|Gloss=;
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.6|Gloss=the
+7	tí	tí	X	_	_	0	_	_	Ref=PS_122.6|Gloss=that
+8	o	o	X	_	_	0	_	_	Ref=PS_122.6|Gloss=thou
+9	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PS_122.6|Gloss=would
+10	ọ	ọ	X	_	_	0	_	_	Ref=PS_122.6|Gloss=thee
+11	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.6|Gloss=shall
+12	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_122.6|Gloss=do
+13	rere	rere	X	_	_	0	_	_	Ref=PS_122.6|SpaceAfter=No|Gloss=good
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.6|Gloss=.
 
 # sent_id = PS_122.7
 # text = Kí àlàáfíà kí ó wà nínú odi Rẹ̀, àti ire nínú ààfin Rẹ̀.
-1	Kí	kí	X	_	_	0	_	_	Ref=PS_122.7
-2	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_122.7
-3	kí	kí	X	_	_	0	_	_	Ref=PS_122.7
-4	ó	ó	X	_	_	0	_	_	Ref=PS_122.7
-5	wà	wà	X	_	_	0	_	_	Ref=PS_122.7
-6	nínú	nínú	X	_	_	0	_	_	Ref=PS_122.7
-7	odi	odi	X	_	_	0	_	_	Ref=PS_122.7
-8	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_122.7|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.7
-10	àti	àti	X	_	_	0	_	_	Ref=PS_122.7
-11	ire	ire	X	_	_	0	_	_	Ref=PS_122.7
-12	nínú	nínú	X	_	_	0	_	_	Ref=PS_122.7
-13	ààfin	ààfin	X	_	_	0	_	_	Ref=PS_122.7
-14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_122.7|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.7
+# text_en = Peace be within thy walls, and prosperity within thy palaces.
+1	Kí	kí	X	_	_	0	_	_	Ref=PS_122.7|Gloss=let
+2	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_122.7|Gloss=the
+3	kí	kí	X	_	_	0	_	_	Ref=PS_122.7|Gloss=peace
+4	ó	ó	X	_	_	0	_	_	Ref=PS_122.7|Gloss=let
+5	wà	wà	X	_	_	0	_	_	Ref=PS_122.7|Gloss=he
+6	nínú	nínú	X	_	_	0	_	_	Ref=PS_122.7|Gloss=was
+7	odi	odi	X	_	_	0	_	_	Ref=PS_122.7|Gloss=in
+8	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_122.7|SpaceAfter=No|Gloss=wall
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.7|Gloss=his
+10	àti	àti	X	_	_	0	_	_	Ref=PS_122.7|Gloss=,
+11	ire	ire	X	_	_	0	_	_	Ref=PS_122.7|Gloss=and
+12	nínú	nínú	X	_	_	0	_	_	Ref=PS_122.7|Gloss=good
+13	ààfin	ààfin	X	_	_	0	_	_	Ref=PS_122.7|Gloss=in
+14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_122.7|SpaceAfter=No|Gloss=house
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.7|Gloss=.
 
 # sent_id = PS_122.8
 # text = Nítorí àwọn ọkùnrin àti àwọn ẹgbẹ́ mi èmi yóò wí nísinsìyí pé, kí àlàáfíà kí ó wà nínú Rẹ̀;
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_122.8
-2	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.8
-3	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=PS_122.8
-4	àti	àti	X	_	_	0	_	_	Ref=PS_122.8
-5	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.8
-6	ẹgbẹ́	ẹgbẹ́	X	_	_	0	_	_	Ref=PS_122.8
-7	mi	mi	X	_	_	0	_	_	Ref=PS_122.8
-8	èmi	èmi	X	_	_	0	_	_	Ref=PS_122.8
-9	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.8
-10	wí	wí	X	_	_	0	_	_	Ref=PS_122.8
-11	nísinsìyí	nísinsìyí	X	_	_	0	_	_	Ref=PS_122.8
-12	pé	pé	X	_	_	0	_	_	Ref=PS_122.8|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.8
-14	kí	kí	X	_	_	0	_	_	Ref=PS_122.8
-15	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_122.8
-16	kí	kí	X	_	_	0	_	_	Ref=PS_122.8
-17	ó	ó	X	_	_	0	_	_	Ref=PS_122.8
-18	wà	wà	X	_	_	0	_	_	Ref=PS_122.8
-19	nínú	nínú	X	_	_	0	_	_	Ref=PS_122.8
-20	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_122.8|SpaceAfter=No
-21	;	;	PUNCT	_	_	0	punct	_	Ref=PS_122.8
+# text_en = For my brethren and companions' sakes, I will now say, Peace be within thee.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_122.8|Gloss=for
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.8|Gloss=the
+3	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=PS_122.8|Gloss=man
+4	àti	àti	X	_	_	0	_	_	Ref=PS_122.8|Gloss=and
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_122.8|Gloss=the
+6	ẹgbẹ́	ẹgbẹ́	X	_	_	0	_	_	Ref=PS_122.8|Gloss=company
+7	mi	mi	X	_	_	0	_	_	Ref=PS_122.8|Gloss=my
+8	èmi	èmi	X	_	_	0	_	_	Ref=PS_122.8|Gloss=i
+9	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.8|Gloss=shall
+10	wí	wí	X	_	_	0	_	_	Ref=PS_122.8|Gloss=said
+11	nísinsìyí	nísinsìyí	X	_	_	0	_	_	Ref=PS_122.8|Gloss=null
+12	pé	pé	X	_	_	0	_	_	Ref=PS_122.8|SpaceAfter=No|Gloss=saying
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.8|Gloss=,
+14	kí	kí	X	_	_	0	_	_	Ref=PS_122.8|Gloss=let
+15	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_122.8|Gloss=peace
+16	kí	kí	X	_	_	0	_	_	Ref=PS_122.8|Gloss=let
+17	ó	ó	X	_	_	0	_	_	Ref=PS_122.8|Gloss=he
+18	wà	wà	X	_	_	0	_	_	Ref=PS_122.8|Gloss=was
+19	nínú	nínú	X	_	_	0	_	_	Ref=PS_122.8|Gloss=in
+20	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_122.8|SpaceAfter=No|Gloss=his
+21	;	;	PUNCT	_	_	0	punct	_	Ref=PS_122.8|Gloss=;
 
 # sent_id = PS_122.9
 # text = Nítorí ilé Olúwa Ọlọ́run wa, èmi yóò máa wá ire Rẹ̀.
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_122.9
-2	ilé	ilé	X	_	_	0	_	_	Ref=PS_122.9
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.9
-4	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_122.9
-5	wa	wa	X	_	_	0	_	_	Ref=PS_122.9|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.9
-7	èmi	èmi	X	_	_	0	_	_	Ref=PS_122.9
-8	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.9
-9	máa	máa	X	_	_	0	_	_	Ref=PS_122.9
-10	wá	wá	X	_	_	0	_	_	Ref=PS_122.9
-11	ire	ire	X	_	_	0	_	_	Ref=PS_122.9
+# text_en = Because of the house of the LORD our God I will seek thy good.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_122.9|Gloss=for
+2	ilé	ilé	X	_	_	0	_	_	Ref=PS_122.9|Gloss=house
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_122.9|Gloss=lord
+4	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_122.9|Gloss=god
+5	wa	wa	X	_	_	0	_	_	Ref=PS_122.9|SpaceAfter=No|Gloss=our
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PS_122.9|Gloss=,
+7	èmi	èmi	X	_	_	0	_	_	Ref=PS_122.9|Gloss=i
+8	yóò	yóò	X	_	_	0	_	_	Ref=PS_122.9|Gloss=shall
+9	máa	máa	X	_	_	0	_	_	Ref=PS_122.9|Gloss=be
+10	wá	wá	X	_	_	0	_	_	Ref=PS_122.9|Gloss=come
+11	ire	ire	X	_	_	0	_	_	Ref=PS_122.9|Gloss=good
 12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_122.9|SpaceAfter=No
 13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_122.9
 

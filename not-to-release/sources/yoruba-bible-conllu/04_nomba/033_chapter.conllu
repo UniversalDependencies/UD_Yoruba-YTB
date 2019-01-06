@@ -2,642 +2,677 @@
 # newdoc id = NUM_33
 # sent_id = NUM_33.1
 # text = Wọ̀nyí ni ìrìnàjò àwọn ọmọ Ísírẹ́lì ní ẹsẹẹsẹ, nígbà tí wọ́n tí ilẹ̀ Íjibítì jáde wá pẹ̀lú àwọn ogun wọn, nípa ọwọ́ Mósè àti Árónì.
-1	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_33.1
-2	ni	ni	X	_	_	0	_	_	Ref=NUM_33.1
+# text_en = These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
+1	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=these
+2	ni	ni	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=is
 3	ìrìnàjò	ìrìnàjò	X	_	_	0	_	_	Ref=NUM_33.1
-4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.1
-5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.1
-6	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.1
-7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.1
-8	ẹsẹẹsẹ	ẹsẹẹsẹ	X	_	_	0	_	_	Ref=NUM_33.1|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.1
-10	nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_33.1
-11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.1
-12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.1
-13	tí	tí	X	_	_	0	_	_	Ref=NUM_33.1
-14	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.1
-15	Íjibítì	Íjibítì	PROPN	_	_	0	_	_	Ref=NUM_33.1
-16	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.1
-17	wá	wá	X	_	_	0	_	_	Ref=NUM_33.1
-18	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_33.1
-19	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.1
-20	ogun	ogun	X	_	_	0	_	_	Ref=NUM_33.1
-21	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.1|SpaceAfter=No
-22	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.1
-23	nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.1
-24	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=NUM_33.1
-25	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_33.1
-26	àti	àti	X	_	_	0	_	_	Ref=NUM_33.1
-27	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_33.1|SpaceAfter=No
-28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.1
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=the
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=son
+6	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.1|Gloss=israel
+7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=in
+8	ẹsẹẹsẹ	ẹsẹẹsẹ	X	_	_	0	_	_	Ref=NUM_33.1|SpaceAfter=No|Gloss=journeys
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.1|Gloss=,
+10	nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=when
+11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=that
+12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=they
+13	tí	tí	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=that
+14	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=land
+15	Íjibítì	Íjibítì	PROPN	_	_	0	_	_	Ref=NUM_33.1|Gloss=null
+16	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=out
+17	wá	wá	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=come
+18	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=with
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=the
+20	ogun	ogun	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=war
+21	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.1|SpaceAfter=No|Gloss=them
+22	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.1|Gloss=,
+23	nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=by
+24	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=hand
+25	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=moses
+26	àti	àti	X	_	_	0	_	_	Ref=NUM_33.1|Gloss=and
+27	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_33.1|SpaceAfter=No|Gloss=aaron
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.1|Gloss=.
 
 # sent_id = NUM_33.2
 # text = Mósè sì kọ̀wé ìjáde lọ wọn ní ẹsẹẹsẹ gẹ́gẹ́ bí ìrìnàjò wọn, nípa àṣẹ Olúwa ; Wọ̀nyí sì ni ìrìnàjò wọn gẹ́gẹ́ bí ìjáde lọ wọn.
-1	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_33.2
-2	sì	sì	X	_	_	0	_	_	Ref=NUM_33.2
-3	kọ̀wé	kọ̀wé	X	_	_	0	_	_	Ref=NUM_33.2
-4	ìjáde	ìjáde	X	_	_	0	_	_	Ref=NUM_33.2
-5	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.2
-6	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2
-7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.2
-8	ẹsẹẹsẹ	ẹsẹẹsẹ	X	_	_	0	_	_	Ref=NUM_33.2
-9	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.2
-10	bí	bí	X	_	_	0	_	_	Ref=NUM_33.2
-11	ìrìnàjò	ìrìnàjò	X	_	_	0	_	_	Ref=NUM_33.2
-12	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.2
-14	nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.2
-15	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=NUM_33.2
-16	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.2
-17	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_33.2
-18	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_33.2
-19	sì	sì	X	_	_	0	_	_	Ref=NUM_33.2
-20	ni	ni	X	_	_	0	_	_	Ref=NUM_33.2
-21	ìrìnàjò	ìrìnàjò	X	_	_	0	_	_	Ref=NUM_33.2
-22	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2
-23	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.2
-24	bí	bí	X	_	_	0	_	_	Ref=NUM_33.2
-25	ìjáde	ìjáde	X	_	_	0	_	_	Ref=NUM_33.2
-26	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.2
-27	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2|SpaceAfter=No
-28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.2
+# text_en = And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out.
+1	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=moses
+2	sì	sì	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=and
+3	kọ̀wé	kọ̀wé	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=written
+4	ìjáde	ìjáde	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=goings
+5	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=go
+6	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=them
+7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=in
+8	ẹsẹẹsẹ	ẹsẹẹsẹ	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=journeys
+9	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=according
+10	bí	bí	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=as
+11	ìrìnàjò	ìrìnàjò	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=journey
+12	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2|SpaceAfter=No|Gloss=them
+13	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.2|Gloss=,
+14	nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=by
+15	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=commandment
+16	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=lord
+17	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_33.2|Gloss=;
+18	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=these
+19	sì	sì	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=and
+20	ni	ni	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=is
+21	ìrìnàjò	ìrìnàjò	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=journey
+22	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=them
+23	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=according
+24	bí	bí	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=as
+25	ìjáde	ìjáde	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=goings
+26	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.2|Gloss=go
+27	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.2|SpaceAfter=No|Gloss=them
+28	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.2|Gloss=.
 
 # sent_id = NUM_33.3
 # text = Àwọn ọmọ Ísírẹ́lì jáde kúrò láti Rámésesì ní ọjọ́ kẹ́ẹdógún osù kìn-ín-ní, ọjọ́ kan lẹ́yìn àjọ Ìrékọja. Wọ́n yan jáde pẹ̀lú ìgboyà níwájú gbogbo àwọn ará Éjíbítì.
-1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.3
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.3
-3	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.3
-4	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.3
-5	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.3
-6	láti	láti	X	_	_	0	_	_	Ref=NUM_33.3
-7	Rámésesì	Rámésesì	PROPN	_	_	0	_	_	Ref=NUM_33.3
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.3
-9	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.3
-10	kẹ́ẹdógún	kẹ́ẹdógún	X	_	_	0	_	_	Ref=NUM_33.3
-11	osù	osù	X	_	_	0	_	_	Ref=NUM_33.3
+# text_en = And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=the
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=son
+3	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.3|Gloss=israel
+4	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=out
+5	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=from
+6	láti	láti	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=to
+7	Rámésesì	Rámésesì	PROPN	_	_	0	_	_	Ref=NUM_33.3|Gloss=rameses
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=in
+9	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=day
+10	kẹ́ẹdógún	kẹ́ẹdógún	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=null
+11	osù	osù	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=month
 12	kìn	kìn	X	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No
-13	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.3|SpaceAfter=No
+13	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.3|SpaceAfter=No|Gloss=the
 14	ín	ín	X	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No
-15	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.3|SpaceAfter=No
-16	ní	ní	X	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No
-17	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.3
-18	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.3
-19	kan	kan	X	_	_	0	_	_	Ref=NUM_33.3
-20	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=NUM_33.3
-21	àjọ	àjọ	X	_	_	0	_	_	Ref=NUM_33.3
-22	Ìrékọja	ìrékọja	X	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.3
-24	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.3
-25	yan	yan	X	_	_	0	_	_	Ref=NUM_33.3
-26	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.3
-27	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_33.3
-28	ìgboyà	ìgboyà	X	_	_	0	_	_	Ref=NUM_33.3
-29	níwájú	níwájú	X	_	_	0	_	_	Ref=NUM_33.3
-30	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.3
-31	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.3
-32	ará	ará	X	_	_	0	_	_	Ref=NUM_33.3
-33	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No
-34	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.3
+15	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.3|SpaceAfter=No|Gloss=the
+16	ní	ní	X	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No|Gloss=in
+17	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.3|Gloss=,
+18	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=day
+19	kan	kan	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=a
+20	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=after
+21	àjọ	àjọ	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=congregation
+22	Ìrékọja	ìrékọja	X	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No|Gloss=null
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.3|Gloss=.
+24	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=they
+25	yan	yan	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=set
+26	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=out
+27	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=with
+28	ìgboyà	ìgboyà	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=boldly
+29	níwájú	níwájú	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=before
+30	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=all
+31	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=the
+32	ará	ará	X	_	_	0	_	_	Ref=NUM_33.3|Gloss=brethren
+33	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=NUM_33.3|SpaceAfter=No|Gloss=egypt
+34	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.3|Gloss=.
 
 # sent_id = NUM_33.4
 # text = Tí wọ́n sì ń sin gbogbo àkọ́bí wọn, ẹni tí Olúwa ti gbé lulẹ̀ láàrin wọn; nítorí tí Olúwa ti mú ẹ̀san wá sórí àwọn òrìṣà wọn.
-1	Tí	tí	X	_	_	0	_	_	Ref=NUM_33.4
-2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.4
-3	sì	sì	X	_	_	0	_	_	Ref=NUM_33.4
-4	ń	ń	X	_	_	0	_	_	Ref=NUM_33.4
-5	sin	sin	X	_	_	0	_	_	Ref=NUM_33.4
-6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.4
+# text_en = For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.
+1	Tí	tí	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=that
+2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=they
+3	sì	sì	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=and
+4	ń	ń	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=that
+5	sin	sin	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=buried
+6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=all
 7	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=NUM_33.4
-8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.4|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.4
-10	ẹni	ẹni	X	_	_	0	_	_	Ref=NUM_33.4
-11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.4
-12	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.4
-13	ti	ti	X	_	_	0	_	_	Ref=NUM_33.4
-14	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.4
-15	lulẹ̀	lulẹ̀	X	_	_	0	_	_	Ref=NUM_33.4
-16	láàrin	láàrin	X	_	_	0	_	_	Ref=NUM_33.4
-17	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.4|SpaceAfter=No
-18	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_33.4
-19	nítorí	nítorí	X	_	_	0	_	_	Ref=NUM_33.4
-20	tí	tí	X	_	_	0	_	_	Ref=NUM_33.4
-21	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.4
-22	ti	ti	X	_	_	0	_	_	Ref=NUM_33.4
-23	mú	mú	X	_	_	0	_	_	Ref=NUM_33.4
-24	ẹ̀san	ẹ̀san	X	_	_	0	_	_	Ref=NUM_33.4
-25	wá	wá	X	_	_	0	_	_	Ref=NUM_33.4
-26	sórí	sórí	X	_	_	0	_	_	Ref=NUM_33.4
-27	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.4
-28	òrìṣà	òrìṣà	X	_	_	0	_	_	Ref=NUM_33.4
-29	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.4|SpaceAfter=No
-30	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.4
+8	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.4|SpaceAfter=No|Gloss=them
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.4|Gloss=,
+10	ẹni	ẹni	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=that
+11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=that
+12	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=lord
+13	ti	ti	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=have
+14	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=dwell
+15	lulẹ̀	lulẹ̀	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=down
+16	láàrin	láàrin	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=among
+17	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.4|SpaceAfter=No|Gloss=them
+18	;	;	PUNCT	_	_	0	punct	_	Ref=NUM_33.4|Gloss=;
+19	nítorí	nítorí	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=for
+20	tí	tí	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=that
+21	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=lord
+22	ti	ti	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=have
+23	mú	mú	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=brought
+24	ẹ̀san	ẹ̀san	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=vengeance
+25	wá	wá	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=come
+26	sórí	sórí	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=upon
+27	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=the
+28	òrìṣà	òrìṣà	X	_	_	0	_	_	Ref=NUM_33.4|Gloss=gods
+29	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.4|SpaceAfter=No|Gloss=them
+30	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.4|Gloss=.
 
 # sent_id = NUM_33.5
 # text = Àwọn ọmọ Ísírẹ́lì kúrò ní Rámésesì wọ́n sì pàgọ́ sí Ṣúkótù.
+# text_en = And the children of Israel removed from Rameses, and pitched in Succoth.
 1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.5
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.5
-3	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.5
-4	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.5
-5	ní	ní	X	_	_	0	_	_	Ref=NUM_33.5
-6	Rámésesì	Rámésesì	PROPN	_	_	0	_	_	Ref=NUM_33.5
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.5
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.5
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.5
-10	sí	sí	X	_	_	0	_	_	Ref=NUM_33.5
-11	Ṣúkótù	ṣúkótù	X	_	_	0	_	_	Ref=NUM_33.5|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.5
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.5|Gloss=son
+3	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.5|Gloss=israel
+4	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.5|Gloss=from
+5	ní	ní	X	_	_	0	_	_	Ref=NUM_33.5|Gloss=in
+6	Rámésesì	Rámésesì	PROPN	_	_	0	_	_	Ref=NUM_33.5|Gloss=rameses
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.5|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.5|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.5|Gloss=pitched
+10	sí	sí	X	_	_	0	_	_	Ref=NUM_33.5|Gloss=to
+11	Ṣúkótù	ṣúkótù	X	_	_	0	_	_	Ref=NUM_33.5|SpaceAfter=No|Gloss=succoth
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.5|Gloss=.
 
 # sent_id = NUM_33.6
 # text = Wọ́n kúrò ní Súkótù, wọ́n sì pàgọ́ sí Étamù, ní ẹ̀bá ihà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.6
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.6
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.6
-4	Súkótù	Súkótù	PROPN	_	_	0	_	_	Ref=NUM_33.6|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.6
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.6
-7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.6
-8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.6
-9	sí	sí	X	_	_	0	_	_	Ref=NUM_33.6
-10	Étamù	Étamù	PROPN	_	_	0	_	_	Ref=NUM_33.6|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.6
-12	ní	ní	X	_	_	0	_	_	Ref=NUM_33.6
-13	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.6
-14	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.6|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.6
+# text_en = And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=in
+4	Súkótù	Súkótù	PROPN	_	_	0	_	_	Ref=NUM_33.6|SpaceAfter=No|Gloss=succoth
+5	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.6|Gloss=,
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=they
+7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=and
+8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=pitched
+9	sí	sí	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=to
+10	Étamù	Étamù	PROPN	_	_	0	_	_	Ref=NUM_33.6|SpaceAfter=No|Gloss=etham
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.6|Gloss=,
+12	ní	ní	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=in
+13	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.6|Gloss=by
+14	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.6|SpaceAfter=No|Gloss=wilderness
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.6|Gloss=.
 
 # sent_id = NUM_33.7
 # text = Wọ́n kúrò ní Étamù, wọ́n padà sí Háhírótù sí ìlà oòrùn Báálì ti Ṣéfónì, wọ́n sì pàgọ́ sí ẹ̀bá Mégídólù.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.7
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.7
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.7
-4	Étamù	Étamù	PROPN	_	_	0	_	_	Ref=NUM_33.7|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.7
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.7
-7	padà	padà	X	_	_	0	_	_	Ref=NUM_33.7
-8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.7
-9	Háhírótù	Háhírótù	PROPN	_	_	0	_	_	Ref=NUM_33.7
-10	sí	sí	X	_	_	0	_	_	Ref=NUM_33.7
-11	ìlà	ìlà	X	_	_	0	_	_	Ref=NUM_33.7
-12	oòrùn	oòrùn	X	_	_	0	_	_	Ref=NUM_33.7
-13	Báálì	báálì	X	_	_	0	_	_	Ref=NUM_33.7
-14	ti	ti	X	_	_	0	_	_	Ref=NUM_33.7
-15	Ṣéfónì	Ṣéfónì	PROPN	_	_	0	_	_	Ref=NUM_33.7|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.7
-17	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.7
-18	sì	sì	X	_	_	0	_	_	Ref=NUM_33.7
-19	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.7
-20	sí	sí	X	_	_	0	_	_	Ref=NUM_33.7
-21	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.7
-22	Mégídólù	Mégídólù	PROPN	_	_	0	_	_	Ref=NUM_33.7|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.7
+# text_en = And they removed from Etham, and turned again unto Pi-hahiroth, which is before Baal-zephon: and they pitched before Migdol.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=in
+4	Étamù	Étamù	PROPN	_	_	0	_	_	Ref=NUM_33.7|SpaceAfter=No|Gloss=etham
+5	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.7|Gloss=,
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=they
+7	padà	padà	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=return
+8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=to
+9	Háhírótù	Háhírótù	PROPN	_	_	0	_	_	Ref=NUM_33.7|Gloss=pi-hahiroth
+10	sí	sí	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=to
+11	ìlà	ìlà	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=east
+12	oòrùn	oòrùn	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=sun
+13	Báálì	báálì	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=baal
+14	ti	ti	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=have
+15	Ṣéfónì	Ṣéfónì	PROPN	_	_	0	_	_	Ref=NUM_33.7|SpaceAfter=No|Gloss=zephon
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.7|Gloss=,
+17	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=they
+18	sì	sì	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=and
+19	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=pitched
+20	sí	sí	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=to
+21	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.7|Gloss=by
+22	Mégídólù	Mégídólù	PROPN	_	_	0	_	_	Ref=NUM_33.7|SpaceAfter=No|Gloss=migdol
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.7|Gloss=.
 
 # sent_id = NUM_33.8
 # text = Wọ́n sì dìde láti lọ kúrò ní ìwájú Háhírótù, wọ́n sì la àárin òkun kọjá lọ sí ihà: Wọ́n sì rin ìrìn ọjọ́ mẹ́ta ní ihà Étamù, wọ́n sì pàgọ́ sí Márà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8
-2	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8
-3	dìde	dìde	X	_	_	0	_	_	Ref=NUM_33.8
-4	láti	láti	X	_	_	0	_	_	Ref=NUM_33.8
-5	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.8
-6	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.8
-7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.8
-8	ìwájú	ìwájú	X	_	_	0	_	_	Ref=NUM_33.8
-9	Háhírótù	Háhírótù	PROPN	_	_	0	_	_	Ref=NUM_33.8|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.8
-11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8
-12	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8
-13	la	la	X	_	_	0	_	_	Ref=NUM_33.8
-14	àárin	àárin	X	_	_	0	_	_	Ref=NUM_33.8
-15	òkun	òkun	X	_	_	0	_	_	Ref=NUM_33.8
-16	kọjá	kọjá	X	_	_	0	_	_	Ref=NUM_33.8
-17	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.8
-18	sí	sí	X	_	_	0	_	_	Ref=NUM_33.8
-19	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.8|SpaceAfter=No
-20	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_33.8
-21	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8
-22	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8
-23	rin	rin	X	_	_	0	_	_	Ref=NUM_33.8
-24	ìrìn	ìrìn	X	_	_	0	_	_	Ref=NUM_33.8
-25	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.8
-26	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=NUM_33.8
-27	ní	ní	X	_	_	0	_	_	Ref=NUM_33.8
-28	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.8
-29	Étamù	Étamù	PROPN	_	_	0	_	_	Ref=NUM_33.8|SpaceAfter=No
-30	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.8
-31	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8
-32	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8
-33	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.8
-34	sí	sí	X	_	_	0	_	_	Ref=NUM_33.8
+# text_en = And they departed from before Pi-hahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=they
+2	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=and
+3	dìde	dìde	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=arose
+4	láti	láti	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=to
+5	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=go
+6	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=from
+7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=in
+8	ìwájú	ìwájú	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=before
+9	Háhírótù	Háhírótù	PROPN	_	_	0	_	_	Ref=NUM_33.8|SpaceAfter=No|Gloss=pi-hahiroth
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.8|Gloss=,
+11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=they
+12	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=and
+13	la	la	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=through
+14	àárin	àárin	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=midst
+15	òkun	òkun	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=sea
+16	kọjá	kọjá	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=passed
+17	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=go
+18	sí	sí	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=to
+19	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.8|SpaceAfter=No|Gloss=wilderness
+20	:	:	PUNCT	_	_	0	punct	_	Ref=NUM_33.8|Gloss=:
+21	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=they
+22	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=and
+23	rin	rin	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=through
+24	ìrìn	ìrìn	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=journey
+25	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=day
+26	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=three
+27	ní	ní	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=in
+28	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=wilderness
+29	Étamù	Étamù	PROPN	_	_	0	_	_	Ref=NUM_33.8|SpaceAfter=No|Gloss=etham
+30	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.8|Gloss=,
+31	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=they
+32	sì	sì	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=and
+33	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=pitched
+34	sí	sí	X	_	_	0	_	_	Ref=NUM_33.8|Gloss=to
 35	Márà	Márà	PROPN	_	_	0	_	_	Ref=NUM_33.8|SpaceAfter=No
 36	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.8
 
 # sent_id = NUM_33.9
 # text = Wọ́n kúrò ní Márà wọ́n sì lọ sí Élímù, níbi tí orísun omi méjìlá (12) àti igi ọ̀pẹ àádọ́rin (70) gbé wà, wọ́n sì pàgọ́ níbẹ̀.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.9
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.9
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.9
-4	Márà	Márà	PROPN	_	_	0	_	_	Ref=NUM_33.9
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.9
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.9
-7	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.9
-8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.9
-9	Élímù	Élímù	PROPN	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.9
-11	níbi	níbi	X	_	_	0	_	_	Ref=NUM_33.9
-12	tí	tí	X	_	_	0	_	_	Ref=NUM_33.9
-13	orísun	orísun	X	_	_	0	_	_	Ref=NUM_33.9
-14	omi	omi	X	_	_	0	_	_	Ref=NUM_33.9
-15	méjìlá	méjìlá	X	_	_	0	_	_	Ref=NUM_33.9
-16	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|SpaceAfter=No
-17	12	12	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No
-18	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_33.9
-19	àti	àti	X	_	_	0	_	_	Ref=NUM_33.9
-20	igi	igi	X	_	_	0	_	_	Ref=NUM_33.9
-21	ọ̀pẹ	ọ̀pẹ	X	_	_	0	_	_	Ref=NUM_33.9
-22	àádọ́rin	àádọ́rin	X	_	_	0	_	_	Ref=NUM_33.9
-23	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|SpaceAfter=No
-24	70	70	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No
-25	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_33.9
-26	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.9
-27	wà	wà	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No
-28	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.9
-29	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.9
-30	sì	sì	X	_	_	0	_	_	Ref=NUM_33.9
-31	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.9
-32	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No
-33	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.9
+# text_en = And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=in
+4	Márà	Márà	PROPN	_	_	0	_	_	Ref=NUM_33.9|Gloss=marah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=and
+7	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=go
+8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=to
+9	Élímù	Élímù	PROPN	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No|Gloss=elim
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|Gloss=,
+11	níbi	níbi	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=where
+12	tí	tí	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=that
+13	orísun	orísun	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=fountain
+14	omi	omi	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=water
+15	méjìlá	méjìlá	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=twelve
+16	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|SpaceAfter=No|Gloss=hundred
+17	12	12	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No|Gloss=twelve
+18	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|Gloss=hundred
+19	àti	àti	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=and
+20	igi	igi	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=tree
+21	ọ̀pẹ	ọ̀pẹ	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=palm
+22	àádọ́rin	àádọ́rin	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=seventy
+23	(	(	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|SpaceAfter=No|Gloss=hundred
+24	70	70	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No|Gloss=bowl
+25	)	)	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|Gloss=hundred
+26	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=dwell
+27	wà	wà	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No|Gloss=was
+28	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|Gloss=,
+29	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=they
+30	sì	sì	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=and
+31	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.9|Gloss=pitched
+32	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=NUM_33.9|SpaceAfter=No|Gloss=there
+33	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.9|Gloss=.
 
 # sent_id = NUM_33.10
 # text = Wọ́n kúrò ní Élímù wọ́n sì pàgọ́ sí ẹ̀bá Òkun Pupa.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.10
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.10
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.10
-4	Élímù	Élímù	PROPN	_	_	0	_	_	Ref=NUM_33.10
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.10
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.10
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.10
-8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.10
-9	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.10
-10	Òkun	òkun	X	_	_	0	_	_	Ref=NUM_33.10
-11	Pupa	pupa	X	_	_	0	_	_	Ref=NUM_33.10|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.10
+# text_en = And they removed from Elim, and encamped by the Red sea.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=in
+4	Élímù	Élímù	PROPN	_	_	0	_	_	Ref=NUM_33.10|Gloss=elim
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=pitched
+8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=to
+9	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=by
+10	Òkun	òkun	X	_	_	0	_	_	Ref=NUM_33.10|Gloss=sea
+11	Pupa	pupa	X	_	_	0	_	_	Ref=NUM_33.10|SpaceAfter=No|Gloss=red
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.10|Gloss=.
 
 # sent_id = NUM_33.11
 # text = Wọ́n kúrò ní ẹ̀bá Òkun Pupa wọ́n sì pàgọ́ sínú ihà Ṣínì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.11
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.11
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.11
-4	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.11
-5	Òkun	òkun	X	_	_	0	_	_	Ref=NUM_33.11
-6	Pupa	pupa	X	_	_	0	_	_	Ref=NUM_33.11
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.11
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.11
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.11
-10	sínú	sínú	X	_	_	0	_	_	Ref=NUM_33.11
-11	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.11
-12	Ṣínì	Ṣínì	PROPN	_	_	0	_	_	Ref=NUM_33.11|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.11
+# text_en = And they removed from the Red sea, and encamped in the wilderness of Sin.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=in
+4	ẹ̀bá	ẹ̀bá	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=by
+5	Òkun	òkun	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=sea
+6	Pupa	pupa	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=red
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=pitched
+10	sínú	sínú	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=into
+11	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.11|Gloss=wilderness
+12	Ṣínì	Ṣínì	PROPN	_	_	0	_	_	Ref=NUM_33.11|SpaceAfter=No|Gloss=zin
+13	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.11|Gloss=.
 
 # sent_id = NUM_33.12
 # text = Wọ́n kúrò nínú ihà Ṣínì wọ́n sì pàgọ́ sí ihà Dófákà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.12
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.12
-3	nínú	nínú	X	_	_	0	_	_	Ref=NUM_33.12
-4	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.12
-5	Ṣínì	Ṣínì	PROPN	_	_	0	_	_	Ref=NUM_33.12
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.12
-7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.12
-8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.12
-9	sí	sí	X	_	_	0	_	_	Ref=NUM_33.12
-10	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.12
-11	Dófákà	Dófákà	PROPN	_	_	0	_	_	Ref=NUM_33.12|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.12
+# text_en = And they took their journey out of the wilderness of Sin, and encamped in Dophkah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=from
+3	nínú	nínú	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=in
+4	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=wilderness
+5	Ṣínì	Ṣínì	PROPN	_	_	0	_	_	Ref=NUM_33.12|Gloss=zin
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=they
+7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=and
+8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=pitched
+9	sí	sí	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=to
+10	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.12|Gloss=wilderness
+11	Dófákà	Dófákà	PROPN	_	_	0	_	_	Ref=NUM_33.12|SpaceAfter=No|Gloss=dophkah
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.12|Gloss=.
 
 # sent_id = NUM_33.13
 # text = Wọ́n kúrò ní Dófákà wọ́n sì pàgọ́ ní Álúṣì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.13
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.13
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.13
-4	Dófákà	Dófákà	PROPN	_	_	0	_	_	Ref=NUM_33.13
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.13
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.13
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.13
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.13
-9	Álúṣì	Álúṣì	PROPN	_	_	0	_	_	Ref=NUM_33.13|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.13
+# text_en = And they departed from Dophkah, and encamped in Alush.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.13|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.13|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.13|Gloss=in
+4	Dófákà	Dófákà	PROPN	_	_	0	_	_	Ref=NUM_33.13|Gloss=dophkah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.13|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.13|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.13|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.13|Gloss=in
+9	Álúṣì	Álúṣì	PROPN	_	_	0	_	_	Ref=NUM_33.13|SpaceAfter=No|Gloss=alush
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.13|Gloss=.
 
 # sent_id = NUM_33.14
 # text = Wọ́n kúrò ní Álúṣì wọ́n sì pàgọ́ ní Réfídímù níbi tí kò sí omi fún àwọn ènìyàn náà láti mu.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.14
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.14
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.14
-4	Álúṣì	Álúṣì	PROPN	_	_	0	_	_	Ref=NUM_33.14
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.14
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.14
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.14
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.14
-9	Réfídímù	Réfídímù	PROPN	_	_	0	_	_	Ref=NUM_33.14
-10	níbi	níbi	X	_	_	0	_	_	Ref=NUM_33.14
-11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.14
-12	kò	kò	X	_	_	0	_	_	Ref=NUM_33.14
-13	sí	sí	X	_	_	0	_	_	Ref=NUM_33.14
-14	omi	omi	X	_	_	0	_	_	Ref=NUM_33.14
-15	fún	fún	X	_	_	0	_	_	Ref=NUM_33.14
-16	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.14
-17	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_33.14
-18	náà	náà	X	_	_	0	_	_	Ref=NUM_33.14
-19	láti	láti	X	_	_	0	_	_	Ref=NUM_33.14
-20	mu	mu	X	_	_	0	_	_	Ref=NUM_33.14|SpaceAfter=No
-21	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.14
+# text_en = And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=in
+4	Álúṣì	Álúṣì	PROPN	_	_	0	_	_	Ref=NUM_33.14|Gloss=alush
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=in
+9	Réfídímù	Réfídímù	PROPN	_	_	0	_	_	Ref=NUM_33.14|Gloss=rephidim
+10	níbi	níbi	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=where
+11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=that
+12	kò	kò	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=not
+13	sí	sí	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=to
+14	omi	omi	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=water
+15	fún	fún	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=unto
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=the
+17	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=people
+18	náà	náà	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=the
+19	láti	láti	X	_	_	0	_	_	Ref=NUM_33.14|Gloss=to
+20	mu	mu	X	_	_	0	_	_	Ref=NUM_33.14|SpaceAfter=No|Gloss=drink
+21	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.14|Gloss=.
 
 # sent_id = NUM_33.15
 # text = Wọ́n kúrò ní Refídímù wọ́n sì pàgọ́ ní ihà Ṣínáì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.15
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.15
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.15
-4	Refídímù	Refídímù	PROPN	_	_	0	_	_	Ref=NUM_33.15
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.15
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.15
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.15
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.15
-9	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.15
-10	Ṣínáì	Ṣínáì	PROPN	_	_	0	_	_	Ref=NUM_33.15|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.15
+# text_en = And they departed from Rephidim, and pitched in the wilderness of Sinai.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=in
+4	Refídímù	Refídímù	PROPN	_	_	0	_	_	Ref=NUM_33.15|Gloss=rephidim
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=in
+9	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.15|Gloss=wilderness
+10	Ṣínáì	Ṣínáì	PROPN	_	_	0	_	_	Ref=NUM_33.15|SpaceAfter=No|Gloss=sinai
+11	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.15|Gloss=.
 
 # sent_id = NUM_33.16
 # text = Wọ́n kúrò ní ihà Ṣínáì wọ́n sì pàgọ́ ní Kabirotu-Hátafà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.16
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.16
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.16
-4	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.16
-5	Ṣínáì	Ṣínáì	PROPN	_	_	0	_	_	Ref=NUM_33.16
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.16
-7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.16
-8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.16
-9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.16
-10	Kabirotu	Kabirotu	PROPN	_	_	0	_	_	Ref=NUM_33.16|SpaceAfter=No
-11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.16|SpaceAfter=No
+# text_en = And they removed from the desert of Sinai, and pitched at Kibroth-hattaavah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=in
+4	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=wilderness
+5	Ṣínáì	Ṣínáì	PROPN	_	_	0	_	_	Ref=NUM_33.16|Gloss=sinai
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=they
+7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=and
+8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=pitched
+9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.16|Gloss=in
+10	Kabirotu	Kabirotu	PROPN	_	_	0	_	_	Ref=NUM_33.16|SpaceAfter=No|Gloss=kibroth
+11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.16|SpaceAfter=No|Gloss=the
 12	Hátafà	Hátafà	PROPN	_	_	0	_	_	Ref=NUM_33.16|SpaceAfter=No
 13	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.16
 
 # sent_id = NUM_33.17
 # text = Wọ́n kúrò ní Kabirotu-Hátafà wọ́n sì pàgọ́ ní Hásérótì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.17
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.17
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.17
-4	Kabirotu	Kabirotu	PROPN	_	_	0	_	_	Ref=NUM_33.17|SpaceAfter=No
-5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.17|SpaceAfter=No
-6	Hátafà	Hátafà	PROPN	_	_	0	_	_	Ref=NUM_33.17
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.17
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.17
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.17
-10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.17
-11	Hásérótì	Hásérótì	PROPN	_	_	0	_	_	Ref=NUM_33.17|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.17
+# text_en = And they departed from Kibroth-hattaavah, and encamped at Hazeroth.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.17|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.17|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.17|Gloss=in
+4	Kabirotu	Kabirotu	PROPN	_	_	0	_	_	Ref=NUM_33.17|SpaceAfter=No|Gloss=kibroth
+5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.17|SpaceAfter=No|Gloss=the
+6	Hátafà	Hátafà	PROPN	_	_	0	_	_	Ref=NUM_33.17|Gloss=hattaavah
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.17|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.17|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.17|Gloss=pitched
+10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.17|Gloss=in
+11	Hásérótì	Hásérótì	PROPN	_	_	0	_	_	Ref=NUM_33.17|SpaceAfter=No|Gloss=hazeroth
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.17|Gloss=.
 
 # sent_id = NUM_33.18
 # text = Wọ́n kúrò ní Hásérótì wọ́n sì pàgọ́ ní Rítímà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.18
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.18
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.18
-4	Hásérótì	Hásérótì	PROPN	_	_	0	_	_	Ref=NUM_33.18
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.18
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.18
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.18
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.18
-9	Rítímà	Rítímà	PROPN	_	_	0	_	_	Ref=NUM_33.18|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.18
+# text_en = And they departed from Hazeroth, and pitched in Rithmah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.18|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.18|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.18|Gloss=in
+4	Hásérótì	Hásérótì	PROPN	_	_	0	_	_	Ref=NUM_33.18|Gloss=hazeroth
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.18|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.18|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.18|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.18|Gloss=in
+9	Rítímà	Rítímà	PROPN	_	_	0	_	_	Ref=NUM_33.18|SpaceAfter=No|Gloss=rithmah
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.18|Gloss=.
 
 # sent_id = NUM_33.19
 # text = Wọ́n kúrò ní Rítímà wọ́n sì pàgọ́ ní Rímónì-Pérésì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.19
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.19
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.19
-4	Rítímà	Rítímà	PROPN	_	_	0	_	_	Ref=NUM_33.19
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.19
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.19
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.19
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.19
+# text_en = And they departed from Rithmah, and pitched at Rimmon-parez.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.19|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.19|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.19|Gloss=in
+4	Rítímà	Rítímà	PROPN	_	_	0	_	_	Ref=NUM_33.19|Gloss=rithmah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.19|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.19|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.19|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.19|Gloss=in
 9	Rímónì	rímónì	X	_	_	0	_	_	Ref=NUM_33.19|SpaceAfter=No
 10	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.19|SpaceAfter=No
-11	Pérésì	pérésì	X	_	_	0	_	_	Ref=NUM_33.19|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.19
+11	Pérésì	pérésì	X	_	_	0	_	_	Ref=NUM_33.19|SpaceAfter=No|Gloss=pharez
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.19|Gloss=.
 
 # sent_id = NUM_33.20
 # text = Wọ́n kúrò ní Rímóni Pérésì wọ́n sì pàgọ́ ní Líbínà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.20
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.20
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.20
-4	Rímóni	Rímóni	PROPN	_	_	0	_	_	Ref=NUM_33.20
-5	Pérésì	pérésì	X	_	_	0	_	_	Ref=NUM_33.20
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.20
-7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.20
-8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.20
-9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.20
-10	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=NUM_33.20|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.20
+# text_en = And they departed from Rimmon-parez, and pitched in Libnah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=in
+4	Rímóni	Rímóni	PROPN	_	_	0	_	_	Ref=NUM_33.20|Gloss=rimmon
+5	Pérésì	pérésì	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=pharez
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=they
+7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=and
+8	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=pitched
+9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.20|Gloss=in
+10	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=NUM_33.20|SpaceAfter=No|Gloss=libnah
+11	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.20|Gloss=.
 
 # sent_id = NUM_33.21
 # text = Wọ́n kúrò ní Líbínà wọ́n sì pàgọ́ ní Rísà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.21
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.21
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.21
-4	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=NUM_33.21
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.21
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.21
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.21
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.21
+# text_en = And they removed from Libnah, and pitched at Rissah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.21|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.21|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.21|Gloss=in
+4	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=NUM_33.21|Gloss=libnah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.21|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.21|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.21|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.21|Gloss=in
 9	Rísà	Rísà	PROPN	_	_	0	_	_	Ref=NUM_33.21|SpaceAfter=No
 10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.21
 
 # sent_id = NUM_33.22
 # text = Wọ́n kúrò ní Rísà wọ́n sì pàgọ́ ní Kehelátà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.22
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.22
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.22
-4	Rísà	Rísà	PROPN	_	_	0	_	_	Ref=NUM_33.22
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.22
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.22
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.22
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.22
-9	Kehelátà	Kehelátà	PROPN	_	_	0	_	_	Ref=NUM_33.22|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.22
+# text_en = And they journeyed from Rissah, and pitched in Kehelathah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.22|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.22|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.22|Gloss=in
+4	Rísà	Rísà	PROPN	_	_	0	_	_	Ref=NUM_33.22|Gloss=rissah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.22|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.22|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.22|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.22|Gloss=in
+9	Kehelátà	Kehelátà	PROPN	_	_	0	_	_	Ref=NUM_33.22|SpaceAfter=No|Gloss=kehelathah
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.22|Gloss=.
 
 # sent_id = NUM_33.23
 # text = Wọ́n kúrò ní Kehelátà wọ́n sì pàgọ́ ní orí òkè Ṣéférì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.23
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.23
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.23
-4	Kehelátà	Kehelátà	PROPN	_	_	0	_	_	Ref=NUM_33.23
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.23
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.23
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.23
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.23
-9	orí	orí	X	_	_	0	_	_	Ref=NUM_33.23
-10	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.23
-11	Ṣéférì	Ṣéférì	PROPN	_	_	0	_	_	Ref=NUM_33.23|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.23
+# text_en = And they went from Kehelathah, and pitched in mount Shapher.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=in
+4	Kehelátà	Kehelátà	PROPN	_	_	0	_	_	Ref=NUM_33.23|Gloss=kehelathah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=in
+9	orí	orí	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=head
+10	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.23|Gloss=mount
+11	Ṣéférì	Ṣéférì	PROPN	_	_	0	_	_	Ref=NUM_33.23|SpaceAfter=No|Gloss=shapher
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.23|Gloss=.
 
 # sent_id = NUM_33.24
 # text = Wọ́n kúrò lórí òkè Ṣéférì wọ́n sì págọ́ ní Hárádà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.24
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.24
-3	lórí	lórí	X	_	_	0	_	_	Ref=NUM_33.24
-4	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.24
-5	Ṣéférì	Ṣéférì	PROPN	_	_	0	_	_	Ref=NUM_33.24
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.24
-7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.24
-8	págọ́	págọ́	X	_	_	0	_	_	Ref=NUM_33.24
-9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.24
-10	Hárádà	Hárádà	PROPN	_	_	0	_	_	Ref=NUM_33.24|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.24
+# text_en = And they removed from mount Shapher, and encamped in Haradah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=from
+3	lórí	lórí	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=upon
+4	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=mount
+5	Ṣéférì	Ṣéférì	PROPN	_	_	0	_	_	Ref=NUM_33.24|Gloss=shapher
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=they
+7	sì	sì	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=and
+8	págọ́	págọ́	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=encamped
+9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.24|Gloss=in
+10	Hárádà	Hárádà	PROPN	_	_	0	_	_	Ref=NUM_33.24|SpaceAfter=No|Gloss=haradah
+11	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.24|Gloss=.
 
 # sent_id = NUM_33.25
 # text = Wọ́n kúrò ní Hárádà wọ́n sì pàgọ́ ní Mákélótì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.25
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.25
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.25
-4	Hárádà	Hárádà	PROPN	_	_	0	_	_	Ref=NUM_33.25
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.25
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.25
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.25
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.25
-9	Mákélótì	Mákélótì	PROPN	_	_	0	_	_	Ref=NUM_33.25|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.25
+# text_en = And they removed from Haradah, and pitched in Makheloth.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.25|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.25|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.25|Gloss=in
+4	Hárádà	Hárádà	PROPN	_	_	0	_	_	Ref=NUM_33.25|Gloss=haradah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.25|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.25|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.25|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.25|Gloss=in
+9	Mákélótì	Mákélótì	PROPN	_	_	0	_	_	Ref=NUM_33.25|SpaceAfter=No|Gloss=makheloth
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.25|Gloss=.
 
 # sent_id = NUM_33.26
 # text = Wọ́n kúrò ní Mákélótì wọ́n sì pàgọ́ ní Táhátì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.26
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.26
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.26
-4	Mákélótì	Mákélótì	PROPN	_	_	0	_	_	Ref=NUM_33.26
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.26
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.26
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.26
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.26
-9	Táhátì	Táhátì	PROPN	_	_	0	_	_	Ref=NUM_33.26|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.26
+# text_en = And they removed from Makheloth, and encamped at Tahath.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.26|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.26|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.26|Gloss=in
+4	Mákélótì	Mákélótì	PROPN	_	_	0	_	_	Ref=NUM_33.26|Gloss=makheloth
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.26|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.26|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.26|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.26|Gloss=in
+9	Táhátì	Táhátì	PROPN	_	_	0	_	_	Ref=NUM_33.26|SpaceAfter=No|Gloss=tahath
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.26|Gloss=.
 
 # sent_id = NUM_33.27
 # text = Wọ́n kúrò ní Táhátì wọ́n sì pàgọ́ ní Térà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.27
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.27
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.27
-4	Táhátì	Táhátì	PROPN	_	_	0	_	_	Ref=NUM_33.27
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.27
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.27
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.27
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.27
-9	Térà	Térà	PROPN	_	_	0	_	_	Ref=NUM_33.27|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.27
+# text_en = And they departed from Tahath, and pitched at Tarah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.27|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.27|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.27|Gloss=in
+4	Táhátì	Táhátì	PROPN	_	_	0	_	_	Ref=NUM_33.27|Gloss=tahath
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.27|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.27|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.27|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.27|Gloss=in
+9	Térà	Térà	PROPN	_	_	0	_	_	Ref=NUM_33.27|SpaceAfter=No|Gloss=tarah
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.27|Gloss=.
 
 # sent_id = NUM_33.28
 # text = Wọ́n kúrò ní Térà wọ́n sì pàgọ́ ní Mítíkà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.28
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.28
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.28
-4	Térà	Térà	PROPN	_	_	0	_	_	Ref=NUM_33.28
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.28
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.28
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.28
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.28
-9	Mítíkà	Mítíkà	PROPN	_	_	0	_	_	Ref=NUM_33.28|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.28
+# text_en = And they removed from Tarah, and pitched in Mithcah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.28|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.28|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.28|Gloss=in
+4	Térà	Térà	PROPN	_	_	0	_	_	Ref=NUM_33.28|Gloss=tarah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.28|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.28|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.28|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.28|Gloss=in
+9	Mítíkà	Mítíkà	PROPN	_	_	0	_	_	Ref=NUM_33.28|SpaceAfter=No|Gloss=mithcah
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.28|Gloss=.
 
 # sent_id = NUM_33.29
 # text = Wọ́n kúrò ní Mítíkà wọ́n pàgọ́ ní Hásímónà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.29
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.29
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.29
-4	Mítíkà	Mítíkà	PROPN	_	_	0	_	_	Ref=NUM_33.29
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.29
-6	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.29
-7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.29
-8	Hásímónà	Hásímónà	PROPN	_	_	0	_	_	Ref=NUM_33.29|SpaceAfter=No
-9	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.29
+# text_en = And they went from Mithcah, and pitched in Hashmonah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.29|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.29|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.29|Gloss=in
+4	Mítíkà	Mítíkà	PROPN	_	_	0	_	_	Ref=NUM_33.29|Gloss=mithcah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.29|Gloss=they
+6	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.29|Gloss=pitched
+7	ní	ní	X	_	_	0	_	_	Ref=NUM_33.29|Gloss=in
+8	Hásímónà	Hásímónà	PROPN	_	_	0	_	_	Ref=NUM_33.29|SpaceAfter=No|Gloss=hashmonah
+9	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.29|Gloss=.
 
 # sent_id = NUM_33.30
 # text = Wọ́n kúrò ní Hásímónà wọ́n sì pàgọ́ ní Mósérótù.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.30
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.30
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.30
-4	Hásímónà	Hásímónà	PROPN	_	_	0	_	_	Ref=NUM_33.30
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.30
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.30
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.30
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.30
-9	Mósérótù	Mósérótù	PROPN	_	_	0	_	_	Ref=NUM_33.30|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.30
+# text_en = And they departed from Hashmonah, and encamped at Moseroth.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.30|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.30|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.30|Gloss=in
+4	Hásímónà	Hásímónà	PROPN	_	_	0	_	_	Ref=NUM_33.30|Gloss=hashmonah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.30|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.30|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.30|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.30|Gloss=in
+9	Mósérótù	Mósérótù	PROPN	_	_	0	_	_	Ref=NUM_33.30|SpaceAfter=No|Gloss=moseroth
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.30|Gloss=.
 
 # sent_id = NUM_33.31
 # text = Wọ́n kúrò ní Mósérótù wọ́n sì pàgọ́ ní Bene-Jákánì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.31
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.31
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.31
-4	Mósérótù	Mósérótù	PROPN	_	_	0	_	_	Ref=NUM_33.31
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.31
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.31
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.31
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.31
-9	Bene	Bene	PROPN	_	_	0	_	_	Ref=NUM_33.31|SpaceAfter=No
-10	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.31|SpaceAfter=No
-11	Jákánì	Jákánì	PROPN	_	_	0	_	_	Ref=NUM_33.31|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.31
+# text_en = And they departed from Moseroth, and pitched in Bene-jaakan.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.31|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.31|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.31|Gloss=in
+4	Mósérótù	Mósérótù	PROPN	_	_	0	_	_	Ref=NUM_33.31|Gloss=moseroth
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.31|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.31|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.31|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.31|Gloss=in
+9	Bene	Bene	PROPN	_	_	0	_	_	Ref=NUM_33.31|SpaceAfter=No|Gloss=bene
+10	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.31|SpaceAfter=No|Gloss=the
+11	Jákánì	Jákánì	PROPN	_	_	0	_	_	Ref=NUM_33.31|SpaceAfter=No|Gloss=jaakan
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.31|Gloss=.
 
 # sent_id = NUM_33.32
 # text = Wọ́n kúrò ní Bene-Jákánì wọ́n sì pàgọ́ ní Hori-Hágidigádì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.32
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.32
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.32
-4	Bene	Bene	PROPN	_	_	0	_	_	Ref=NUM_33.32|SpaceAfter=No
-5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.32|SpaceAfter=No
-6	Jákánì	Jákánì	PROPN	_	_	0	_	_	Ref=NUM_33.32
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.32
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.32
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.32
-10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.32
+# text_en = And they removed from Bene-jaakan, and encamped at Hor-hagidgad.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.32|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.32|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.32|Gloss=in
+4	Bene	Bene	PROPN	_	_	0	_	_	Ref=NUM_33.32|SpaceAfter=No|Gloss=bene
+5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.32|SpaceAfter=No|Gloss=the
+6	Jákánì	Jákánì	PROPN	_	_	0	_	_	Ref=NUM_33.32|Gloss=jaakan
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.32|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.32|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.32|Gloss=pitched
+10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.32|Gloss=in
 11	Hori	Hori	PROPN	_	_	0	_	_	Ref=NUM_33.32|SpaceAfter=No
-12	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.32|SpaceAfter=No
-13	Hágidigádì	Hágidigádì	PROPN	_	_	0	_	_	Ref=NUM_33.32|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.32
+12	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.32|SpaceAfter=No|Gloss=the
+13	Hágidigádì	Hágidigádì	PROPN	_	_	0	_	_	Ref=NUM_33.32|SpaceAfter=No|Gloss=hagidgad
+14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.32|Gloss=.
 
 # sent_id = NUM_33.33
 # text = Wọ́n kúrò ní Hori-Hágidigádì wọ́n sí pàgọ́ ní Jótíbátà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.33
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.33
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.33
+# text_en = And they went from Hor-hagidgad, and pitched in Jotbathah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.33|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.33|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.33|Gloss=in
 4	Hori	Hori	PROPN	_	_	0	_	_	Ref=NUM_33.33|SpaceAfter=No
 5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.33|SpaceAfter=No
-6	Hágidigádì	Hágidigádì	PROPN	_	_	0	_	_	Ref=NUM_33.33
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.33
-8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.33
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.33
-10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.33
+6	Hágidigádì	Hágidigádì	PROPN	_	_	0	_	_	Ref=NUM_33.33|Gloss=hagidgad
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.33|Gloss=they
+8	sí	sí	X	_	_	0	_	_	Ref=NUM_33.33|Gloss=to
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.33|Gloss=pitched
+10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.33|Gloss=in
 11	Jótíbátà	Jótíbátà	PROPN	_	_	0	_	_	Ref=NUM_33.33|SpaceAfter=No
 12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.33
 
 # sent_id = NUM_33.34
 # text = Wọ́n kúrò ní Jótíbátà wọ́n sì pàgọ́ ní Ábírónà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.34
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.34
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.34
-4	Jótíbátà	Jótíbátà	PROPN	_	_	0	_	_	Ref=NUM_33.34
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.34
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.34
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.34
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.34
-9	Ábírónà	Ábírónà	PROPN	_	_	0	_	_	Ref=NUM_33.34|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.34
+# text_en = And they removed from Jotbathah, and encamped at Ebronah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.34|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.34|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.34|Gloss=in
+4	Jótíbátà	Jótíbátà	PROPN	_	_	0	_	_	Ref=NUM_33.34|Gloss=jotbathah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.34|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.34|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.34|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.34|Gloss=in
+9	Ábírónà	Ábírónà	PROPN	_	_	0	_	_	Ref=NUM_33.34|SpaceAfter=No|Gloss=ebronah
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.34|Gloss=.
 
 # sent_id = NUM_33.35
 # text = Wọ́n kúrò ní Ábírónà wọ́n sì pàgọ́ ní Esoni-Gébérì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.35
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.35
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.35
-4	Ábírónà	Ábírónà	PROPN	_	_	0	_	_	Ref=NUM_33.35
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.35
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.35
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.35
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.35
+# text_en = And they departed from Ebronah, and encamped at Ezion-gaber.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.35|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.35|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.35|Gloss=in
+4	Ábírónà	Ábírónà	PROPN	_	_	0	_	_	Ref=NUM_33.35|Gloss=ebronah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.35|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.35|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.35|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.35|Gloss=in
 9	Esoni	Esoni	PROPN	_	_	0	_	_	Ref=NUM_33.35|SpaceAfter=No
 10	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.35|SpaceAfter=No
 11	Gébérì	Gébérì	PROPN	_	_	0	_	_	Ref=NUM_33.35|SpaceAfter=No
@@ -645,537 +680,558 @@
 
 # sent_id = NUM_33.36
 # text = Wọ́n kúrò ní Esoni-Gébérì wọ́n sì pàgọ́ ní Kádésì nínú ihà Ṣínì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.36
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.36
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.36
-4	Esoni	Esoni	PROPN	_	_	0	_	_	Ref=NUM_33.36|SpaceAfter=No
-5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.36|SpaceAfter=No
-6	Gébérì	Gébérì	PROPN	_	_	0	_	_	Ref=NUM_33.36
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.36
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.36
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.36
-10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.36
-11	Kádésì	Kádésì	PROPN	_	_	0	_	_	Ref=NUM_33.36
-12	nínú	nínú	X	_	_	0	_	_	Ref=NUM_33.36
-13	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.36
-14	Ṣínì	Ṣínì	PROPN	_	_	0	_	_	Ref=NUM_33.36|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.36
+# text_en = And they removed from Ezion-gaber, and pitched in the wilderness of Zin, which is Kadesh.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=in
+4	Esoni	Esoni	PROPN	_	_	0	_	_	Ref=NUM_33.36|SpaceAfter=No|Gloss=null
+5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.36|SpaceAfter=No|Gloss=the
+6	Gébérì	Gébérì	PROPN	_	_	0	_	_	Ref=NUM_33.36|Gloss=geber
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=pitched
+10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=in
+11	Kádésì	Kádésì	PROPN	_	_	0	_	_	Ref=NUM_33.36|Gloss=kadesh
+12	nínú	nínú	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=in
+13	ihà	ihà	X	_	_	0	_	_	Ref=NUM_33.36|Gloss=wilderness
+14	Ṣínì	Ṣínì	PROPN	_	_	0	_	_	Ref=NUM_33.36|SpaceAfter=No|Gloss=zin
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.36|Gloss=.
 
 # sent_id = NUM_33.37
 # text = Wọ́n kúrò ní Kádésì wọ́n sì pàgọ́ ní orí òkè Hórì, lẹ́bá Édómù.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.37
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.37
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.37
-4	Kádésì	Kádésì	PROPN	_	_	0	_	_	Ref=NUM_33.37
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.37
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.37
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.37
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.37
-9	orí	orí	X	_	_	0	_	_	Ref=NUM_33.37
-10	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.37
-11	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.37|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.37
-13	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.37
-14	Édómù	Édómù	PROPN	_	_	0	_	_	Ref=NUM_33.37|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.37
+# text_en = And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=in
+4	Kádésì	Kádésì	PROPN	_	_	0	_	_	Ref=NUM_33.37|Gloss=kadesh
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=in
+9	orí	orí	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=head
+10	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=mount
+11	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.37|SpaceAfter=No|Gloss=hor
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.37|Gloss=,
+13	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.37|Gloss=by
+14	Édómù	Édómù	PROPN	_	_	0	_	_	Ref=NUM_33.37|SpaceAfter=No|Gloss=edom
+15	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.37|Gloss=.
 
 # sent_id = NUM_33.38
 # text = Nípa àsẹ Olúwa , Árónì àlùfáà gùn orí òkè Hórì, níbẹ̀ ni ó kú. Ní ọjọ́ kìn-ín-ní oṣù kárun, ọdún ogójì, lẹ́yìn tí àwọn ọmọ Ísírẹ́lì ti ilẹ̀ Éjíbítì jáde wá.
-1	Nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.38
-2	àsẹ	àsẹ	X	_	_	0	_	_	Ref=NUM_33.38
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.38
-4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38
-5	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_33.38
-6	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NUM_33.38
-7	gùn	gùn	X	_	_	0	_	_	Ref=NUM_33.38
-8	orí	orí	X	_	_	0	_	_	Ref=NUM_33.38
-9	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.38
-10	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38
-12	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=NUM_33.38
-13	ni	ni	X	_	_	0	_	_	Ref=NUM_33.38
-14	ó	ó	X	_	_	0	_	_	Ref=NUM_33.38
-15	kú	kú	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.38
-17	Ní	ní	X	_	_	0	_	_	Ref=NUM_33.38
-18	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.38
+# text_en = And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
+1	Nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=by
+2	àsẹ	àsẹ	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=statutes
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=lord
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|Gloss=,
+5	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_33.38|Gloss=aaron
+6	àlùfáà	àlùfáà	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=priest
+7	gùn	gùn	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=the
+8	orí	orí	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=head
+9	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=mount
+10	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No|Gloss=hor
+11	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|Gloss=,
+12	níbẹ̀	níbẹ̀	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=there
+13	ni	ni	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=is
+14	ó	ó	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=he
+15	kú	kú	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No|Gloss=die
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|Gloss=.
+17	Ní	ní	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=in
+18	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=day
 19	kìn	kìn	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No
-20	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|SpaceAfter=No
+20	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|SpaceAfter=No|Gloss=the
 21	ín	ín	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No
-22	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|SpaceAfter=No
-23	ní	ní	X	_	_	0	_	_	Ref=NUM_33.38
-24	oṣù	oṣù	X	_	_	0	_	_	Ref=NUM_33.38
-25	kárun	kárun	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No
-26	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38
-27	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_33.38
-28	ogójì	ogójì	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No
-29	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38
-30	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=NUM_33.38
-31	tí	tí	X	_	_	0	_	_	Ref=NUM_33.38
-32	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.38
-33	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.38
-34	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.38
-35	ti	ti	X	_	_	0	_	_	Ref=NUM_33.38
-36	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.38
-37	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=NUM_33.38
-38	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.38
+22	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|SpaceAfter=No|Gloss=the
+23	ní	ní	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=in
+24	oṣù	oṣù	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=month
+25	kárun	kárun	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No|Gloss=null
+26	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|Gloss=,
+27	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=years
+28	ogójì	ogójì	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No|Gloss=forty
+29	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|Gloss=,
+30	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=after
+31	tí	tí	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=that
+32	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=the
+33	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=son
+34	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.38|Gloss=israel
+35	ti	ti	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=have
+36	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=land
+37	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=NUM_33.38|Gloss=egypt
+38	jáde	jáde	X	_	_	0	_	_	Ref=NUM_33.38|Gloss=out
 39	wá	wá	X	_	_	0	_	_	Ref=NUM_33.38|SpaceAfter=No
-40	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.38
+40	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.38|Gloss=.
 
 # sent_id = NUM_33.39
 # text = Árónì jẹ́ ẹni ọgọ́fà ọdún ó lé mẹ́ta ní ìgbà tí ó kú sí orí òkè Hórì.
-1	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_33.39
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_33.39
-3	ẹni	ẹni	X	_	_	0	_	_	Ref=NUM_33.39
-4	ọgọ́fà	ọgọ́fà	X	_	_	0	_	_	Ref=NUM_33.39
-5	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_33.39
-6	ó	ó	X	_	_	0	_	_	Ref=NUM_33.39
-7	lé	lé	X	_	_	0	_	_	Ref=NUM_33.39
-8	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=NUM_33.39
-9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.39
-10	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NUM_33.39
-11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.39
-12	ó	ó	X	_	_	0	_	_	Ref=NUM_33.39
-13	kú	kú	X	_	_	0	_	_	Ref=NUM_33.39
-14	sí	sí	X	_	_	0	_	_	Ref=NUM_33.39
-15	orí	orí	X	_	_	0	_	_	Ref=NUM_33.39
-16	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.39
-17	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.39|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.39
+# text_en = And Aaron was an hundred and twenty and three years old when he died in mount Hor.
+1	Árónì	Árónì	PROPN	_	_	0	_	_	Ref=NUM_33.39|Gloss=aaron
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=be
+3	ẹni	ẹni	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=that
+4	ọgọ́fà	ọgọ́fà	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=twenty
+5	ọdún	ọdún	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=years
+6	ó	ó	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=he
+7	lé	lé	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=delivered
+8	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=three
+9	ní	ní	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=in
+10	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=time
+11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=that
+12	ó	ó	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=he
+13	kú	kú	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=die
+14	sí	sí	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=to
+15	orí	orí	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=head
+16	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.39|Gloss=mount
+17	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.39|SpaceAfter=No|Gloss=hor
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.39|Gloss=.
 
 # sent_id = NUM_33.40
 # text = Àwọn ará Kénánì, ọba Árádì, tí ń gbé ìhà gúṣù ní ilẹ̀ Kénánì gbọ́ pé àwọn ọmọ Ísírẹ́lì ń bọ̀.
-1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.40
-2	ará	ará	X	_	_	0	_	_	Ref=NUM_33.40
-3	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=NUM_33.40|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.40
-5	ọba	ọba	X	_	_	0	_	_	Ref=NUM_33.40
-6	Árádì	Árádì	PROPN	_	_	0	_	_	Ref=NUM_33.40|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.40
-8	tí	tí	X	_	_	0	_	_	Ref=NUM_33.40
-9	ń	ń	X	_	_	0	_	_	Ref=NUM_33.40
-10	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.40
-11	ìhà	ìhà	X	_	_	0	_	_	Ref=NUM_33.40
-12	gúṣù	gúṣù	X	_	_	0	_	_	Ref=NUM_33.40
-13	ní	ní	X	_	_	0	_	_	Ref=NUM_33.40
-14	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.40
-15	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=NUM_33.40
-16	gbọ́	gbọ́	X	_	_	0	_	_	Ref=NUM_33.40
-17	pé	pé	X	_	_	0	_	_	Ref=NUM_33.40
-18	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.40
-19	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.40
-20	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.40
-21	ń	ń	X	_	_	0	_	_	Ref=NUM_33.40
-22	bọ̀	bọ̀	X	_	_	0	_	_	Ref=NUM_33.40|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.40
+# text_en = And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=the
+2	ará	ará	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=them
+3	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=NUM_33.40|SpaceAfter=No|Gloss=brethren
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.40|Gloss=canaan
+5	ọba	ọba	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=,
+6	Árádì	Árádì	PROPN	_	_	0	_	_	Ref=NUM_33.40|SpaceAfter=No|Gloss=king
+7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.40|Gloss=arad
+8	tí	tí	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=,
+9	ń	ń	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=that
+10	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=that
+11	ìhà	ìhà	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=dwell
+12	gúṣù	gúṣù	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=side
+13	ní	ní	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=south
+14	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=in
+15	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=NUM_33.40|Gloss=land
+16	gbọ́	gbọ́	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=canaan
+17	pé	pé	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=heard
+18	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=saying
+19	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=the
+20	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.40|Gloss=son
+21	ń	ń	X	_	_	0	_	_	Ref=NUM_33.40|Gloss=israel
+22	bọ̀	bọ̀	X	_	_	0	_	_	Ref=NUM_33.40|SpaceAfter=No|Gloss=that
+23	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.40|Gloss=generations
 
 # sent_id = NUM_33.41
 # text = Wọ́n kúrò ní orí òkè Hórì, wọ́n sì pàgọ́ ní Ṣálímónà.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.41
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.41
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.41
-4	orí	orí	X	_	_	0	_	_	Ref=NUM_33.41
-5	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.41
-6	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.41|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.41
-8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.41
-9	sì	sì	X	_	_	0	_	_	Ref=NUM_33.41
-10	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.41
-11	ní	ní	X	_	_	0	_	_	Ref=NUM_33.41
-12	Ṣálímónà	Ṣálímónà	PROPN	_	_	0	_	_	Ref=NUM_33.41|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.41
+# text_en = And they departed from mount Hor, and pitched in Zalmonah.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=in
+4	orí	orí	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=head
+5	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=mount
+6	Hórì	Hórì	PROPN	_	_	0	_	_	Ref=NUM_33.41|SpaceAfter=No|Gloss=hor
+7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.41|Gloss=,
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=they
+9	sì	sì	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=and
+10	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=pitched
+11	ní	ní	X	_	_	0	_	_	Ref=NUM_33.41|Gloss=in
+12	Ṣálímónà	Ṣálímónà	PROPN	_	_	0	_	_	Ref=NUM_33.41|SpaceAfter=No|Gloss=zalmonah
+13	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.41|Gloss=.
 
 # sent_id = NUM_33.42
 # text = Wọ́n kúrò ní Ṣálímónà wọ́n sì pàgọ́ ní Púnónì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.42
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.42
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.42
-4	Ṣálímónà	Ṣálímónà	PROPN	_	_	0	_	_	Ref=NUM_33.42
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.42
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.42
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.42
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.42
-9	Púnónì	Púnónì	PROPN	_	_	0	_	_	Ref=NUM_33.42|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.42
+# text_en = And they departed from Zalmonah, and pitched in Punon.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.42|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.42|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.42|Gloss=in
+4	Ṣálímónà	Ṣálímónà	PROPN	_	_	0	_	_	Ref=NUM_33.42|Gloss=zalmonah
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.42|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.42|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.42|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.42|Gloss=in
+9	Púnónì	Púnónì	PROPN	_	_	0	_	_	Ref=NUM_33.42|SpaceAfter=No|Gloss=punon
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.42|Gloss=.
 
 # sent_id = NUM_33.43
 # text = Wọ́n kúrò ní Púnónì wọ́n sì pàgọ́ ní Óbótù.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.43
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.43
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.43
-4	Púnónì	Púnónì	PROPN	_	_	0	_	_	Ref=NUM_33.43
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.43
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.43
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.43
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.43
-9	Óbótù	Óbótù	PROPN	_	_	0	_	_	Ref=NUM_33.43|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.43
+# text_en = And they departed from Punon, and pitched in Oboth.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.43|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.43|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.43|Gloss=in
+4	Púnónì	Púnónì	PROPN	_	_	0	_	_	Ref=NUM_33.43|Gloss=punon
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.43|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.43|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.43|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.43|Gloss=in
+9	Óbótù	Óbótù	PROPN	_	_	0	_	_	Ref=NUM_33.43|SpaceAfter=No|Gloss=oboth
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.43|Gloss=.
 
 # sent_id = NUM_33.44
 # text = Wọ́n kúrò ní Óbótù wọ́n sì pàgọ́ ní Iye-Ábárímù, ní agbégbé Móábù.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.44
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.44
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.44
-4	Óbótù	Óbótù	PROPN	_	_	0	_	_	Ref=NUM_33.44
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.44
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.44
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.44
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.44
-9	Iye	iye	X	_	_	0	_	_	Ref=NUM_33.44|SpaceAfter=No
-10	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.44|SpaceAfter=No
-11	Ábárímù	Ábárímù	PROPN	_	_	0	_	_	Ref=NUM_33.44|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.44
-13	ní	ní	X	_	_	0	_	_	Ref=NUM_33.44
-14	agbégbé	agbégbé	X	_	_	0	_	_	Ref=NUM_33.44
-15	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.44|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.44
+# text_en = And they departed from Oboth, and pitched in Ije-abarim, in the border of Moab.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=in
+4	Óbótù	Óbótù	PROPN	_	_	0	_	_	Ref=NUM_33.44|Gloss=oboth
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=in
+9	Iye	iye	X	_	_	0	_	_	Ref=NUM_33.44|SpaceAfter=No|Gloss=number
+10	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.44|SpaceAfter=No|Gloss=the
+11	Ábárímù	Ábárímù	PROPN	_	_	0	_	_	Ref=NUM_33.44|SpaceAfter=No|Gloss=abarim
+12	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.44|Gloss=,
+13	ní	ní	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=in
+14	agbégbé	agbégbé	X	_	_	0	_	_	Ref=NUM_33.44|Gloss=side
+15	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.44|SpaceAfter=No|Gloss=moab
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.44|Gloss=.
 
 # sent_id = NUM_33.45
 # text = Wọ́n kúrò ní Íyímù wọ́n sì pàgọ́ ní Díbónì-Gádì.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.45
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.45
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.45
-4	Íyímù	Íyímù	PROPN	_	_	0	_	_	Ref=NUM_33.45
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.45
-6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.45
-7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.45
-8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.45
+# text_en = And they departed from Iim, and pitched in Dibon-gad.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.45|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.45|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.45|Gloss=in
+4	Íyímù	Íyímù	PROPN	_	_	0	_	_	Ref=NUM_33.45|Gloss=iim
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.45|Gloss=they
+6	sì	sì	X	_	_	0	_	_	Ref=NUM_33.45|Gloss=and
+7	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.45|Gloss=pitched
+8	ní	ní	X	_	_	0	_	_	Ref=NUM_33.45|Gloss=in
 9	Díbónì	Díbónì	PROPN	_	_	0	_	_	Ref=NUM_33.45|SpaceAfter=No
 10	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.45|SpaceAfter=No
-11	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=NUM_33.45|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.45
+11	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=NUM_33.45|SpaceAfter=No|Gloss=gad
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.45|Gloss=.
 
 # sent_id = NUM_33.46
 # text = Wọ́n kúrò ní Dibónì-Gádì wọ́n sì pàgọ́ ní Alimoni-Díbílátamù.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.46
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.46
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.46
-4	Dibónì	Dibónì	PROPN	_	_	0	_	_	Ref=NUM_33.46|SpaceAfter=No
-5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.46|SpaceAfter=No
-6	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=NUM_33.46
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.46
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.46
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.46
-10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.46
+# text_en = And they removed from Dibon-gad, and encamped in Almon-diblathaim.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.46|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.46|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.46|Gloss=in
+4	Dibónì	Dibónì	PROPN	_	_	0	_	_	Ref=NUM_33.46|SpaceAfter=No|Gloss=dibon
+5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.46|SpaceAfter=No|Gloss=the
+6	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=NUM_33.46|Gloss=gad
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.46|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.46|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.46|Gloss=pitched
+10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.46|Gloss=in
 11	Alimoni	Alimoni	PROPN	_	_	0	_	_	Ref=NUM_33.46|SpaceAfter=No
-12	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.46|SpaceAfter=No
+12	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.46|SpaceAfter=No|Gloss=the
 13	Díbílátamù	Díbílátamù	PROPN	_	_	0	_	_	Ref=NUM_33.46|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.46
+14	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.46|Gloss=.
 
 # sent_id = NUM_33.47
 # text = Wọ́n kúrò ní Alimoni-Díbílátaímù wọ́n sì pàgọ́ sí orí òkè Ábárímù lẹ́bá Nébò.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.47
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.47
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.47
+# text_en = And they removed from Almon-diblathaim, and pitched in the mountains of Abarim, before Nebo.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=in
 4	Alimoni	Alimoni	PROPN	_	_	0	_	_	Ref=NUM_33.47|SpaceAfter=No
 5	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.47|SpaceAfter=No
 6	Díbílátaímù	Díbílátaímù	PROPN	_	_	0	_	_	Ref=NUM_33.47
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.47
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.47
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.47
-10	sí	sí	X	_	_	0	_	_	Ref=NUM_33.47
-11	orí	orí	X	_	_	0	_	_	Ref=NUM_33.47
-12	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.47
-13	Ábárímù	Ábárímù	PROPN	_	_	0	_	_	Ref=NUM_33.47
-14	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.47
-15	Nébò	Nébò	PROPN	_	_	0	_	_	Ref=NUM_33.47|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.47
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=pitched
+10	sí	sí	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=to
+11	orí	orí	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=head
+12	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=mount
+13	Ábárímù	Ábárímù	PROPN	_	_	0	_	_	Ref=NUM_33.47|Gloss=abarim
+14	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.47|Gloss=by
+15	Nébò	Nébò	PROPN	_	_	0	_	_	Ref=NUM_33.47|SpaceAfter=No|Gloss=nebo
+16	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.47|Gloss=.
 
 # sent_id = NUM_33.48
 # text = Wọ́n kúrò ní orí òkè Ábárímù wọ́n sì pàgọ́ ní pẹ̀tẹ́lẹ̀ Móábù lẹ́bá Jọ́dánì ní ìkọjá Jẹ́ríkò.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.48
-2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.48
-3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.48
-4	orí	orí	X	_	_	0	_	_	Ref=NUM_33.48
-5	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.48
-6	Ábárímù	Ábárímù	PROPN	_	_	0	_	_	Ref=NUM_33.48
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.48
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.48
-9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.48
-10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.48
-11	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=NUM_33.48
-12	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.48
-13	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.48
-14	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.48
-15	ní	ní	X	_	_	0	_	_	Ref=NUM_33.48
-16	ìkọjá	ìkọjá	X	_	_	0	_	_	Ref=NUM_33.48
-17	Jẹ́ríkò	Jẹ́ríkò	PROPN	_	_	0	_	_	Ref=NUM_33.48|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.48
+# text_en = And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=they
+2	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=from
+3	ní	ní	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=in
+4	orí	orí	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=head
+5	òkè	òkè	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=mount
+6	Ábárímù	Ábárímù	PROPN	_	_	0	_	_	Ref=NUM_33.48|Gloss=abarim
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=they
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=and
+9	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=pitched
+10	ní	ní	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=in
+11	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=plain
+12	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.48|Gloss=moab
+13	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=by
+14	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.48|Gloss=jordan
+15	ní	ní	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=in
+16	ìkọjá	ìkọjá	X	_	_	0	_	_	Ref=NUM_33.48|Gloss=beyond
+17	Jẹ́ríkò	Jẹ́ríkò	PROPN	_	_	0	_	_	Ref=NUM_33.48|SpaceAfter=No|Gloss=jericho
+18	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.48|Gloss=.
 
 # sent_id = NUM_33.49
 # text = Níbí ní pẹ̀tẹ́lẹ̀ Móábù wọ́n pàgọ́ lẹ́gbẹ́ Jọ́dánì láti Bẹti-Jéíóù títí dé Abeli-Sítímù
-1	Níbí	níbí	X	_	_	0	_	_	Ref=NUM_33.49
-2	ní	ní	X	_	_	0	_	_	Ref=NUM_33.49
-3	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=NUM_33.49
-4	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.49
-5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.49
-6	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.49
-7	lẹ́gbẹ́	lẹ́gbẹ́	X	_	_	0	_	_	Ref=NUM_33.49
-8	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.49
-9	láti	láti	X	_	_	0	_	_	Ref=NUM_33.49
-10	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=NUM_33.49|SpaceAfter=No
-11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.49|SpaceAfter=No
-12	Jéíóù	Jéíóù	PROPN	_	_	0	_	_	Ref=NUM_33.49
-13	títí	títí	X	_	_	0	_	_	Ref=NUM_33.49
-14	dé	dé	X	_	_	0	_	_	Ref=NUM_33.49
+# text_en = And they pitched by Jordan, from Beth-jesimoth even unto Abel-shittim in the plains of Moab.
+1	Níbí	níbí	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=here
+2	ní	ní	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=in
+3	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=plain
+4	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.49|Gloss=moab
+5	wọ́n	wọ́n	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=they
+6	pàgọ́	pàgọ́	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=pitched
+7	lẹ́gbẹ́	lẹ́gbẹ́	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=jesimoth
+8	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.49|Gloss=jordan
+9	láti	láti	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=to
+10	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=NUM_33.49|SpaceAfter=No|Gloss=beth
+11	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.49|SpaceAfter=No|Gloss=the
+12	Jéíóù	Jéíóù	PROPN	_	_	0	_	_	Ref=NUM_33.49|Gloss=plains
+13	títí	títí	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=until
+14	dé	dé	X	_	_	0	_	_	Ref=NUM_33.49|Gloss=come
 15	Abeli	Abeli	PROPN	_	_	0	_	_	Ref=NUM_33.49|SpaceAfter=No
-16	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.49|SpaceAfter=No
+16	-	-	PUNCT	_	_	0	punct	_	Ref=NUM_33.49|SpaceAfter=No|Gloss=the
 17	Sítímù	Sítímù	PROPN	_	_	0	_	_	Ref=NUM_33.49
 
 # sent_id = NUM_33.50
 # text = Ní pẹ̀tẹ́lẹ̀ Móábù, lẹ́bá Jọ́dánì, létí Jẹ́ríkò, Olúwa sọ fún Mósè pé,
-1	Ní	ní	X	_	_	0	_	_	Ref=NUM_33.50
-2	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=NUM_33.50
-3	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50
-5	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.50
-6	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50
-8	létí	létí	X	_	_	0	_	_	Ref=NUM_33.50
-9	Jẹ́ríkò	Jẹ́ríkò	PROPN	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50
-11	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.50
-12	sọ	sọ	X	_	_	0	_	_	Ref=NUM_33.50
-13	fún	fún	X	_	_	0	_	_	Ref=NUM_33.50
-14	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_33.50
-15	pé	pé	X	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50
+# text_en = And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
+1	Ní	ní	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=in
+2	pẹ̀tẹ́lẹ̀	pẹ̀tẹ́lẹ̀	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=plain
+3	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No|Gloss=moab
+4	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50|Gloss=,
+5	lẹ́bá	lẹ́bá	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=by
+6	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No|Gloss=jordan
+7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50|Gloss=,
+8	létí	létí	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=ears
+9	Jẹ́ríkò	Jẹ́ríkò	PROPN	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No|Gloss=jericho
+10	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50|Gloss=,
+11	Olúwa	olúwa	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=lord
+12	sọ	sọ	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=spake
+13	fún	fún	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=unto
+14	Mósè	mósè	X	_	_	0	_	_	Ref=NUM_33.50|Gloss=moses
+15	pé	pé	X	_	_	0	_	_	Ref=NUM_33.50|SpaceAfter=No|Gloss=saying
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.50|Gloss=,
 
 # sent_id = NUM_33.51
 # text = “Sọ fún àwọn ọmọ Ísírẹ́lì kí o sì wí fún wọn pé, ‘Ní ìgbà tí ẹ̀yin bá ń rékọjá odò Jọ́dánì lọ sí Kénánì,
-1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_33.51|SpaceAfter=No
-2	Sọ	sọ	X	_	_	0	_	_	Ref=NUM_33.51
-3	fún	fún	X	_	_	0	_	_	Ref=NUM_33.51
-4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.51
-5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.51
-6	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.51
-7	kí	kí	X	_	_	0	_	_	Ref=NUM_33.51
-8	o	o	X	_	_	0	_	_	Ref=NUM_33.51
-9	sì	sì	X	_	_	0	_	_	Ref=NUM_33.51
-10	wí	wí	X	_	_	0	_	_	Ref=NUM_33.51
-11	fún	fún	X	_	_	0	_	_	Ref=NUM_33.51
-12	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.51
-13	pé	pé	X	_	_	0	_	_	Ref=NUM_33.51|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.51
-15	‘	‘	PUNCT	_	_	0	punct	_	Ref=NUM_33.51|SpaceAfter=No
-16	Ní	ní	X	_	_	0	_	_	Ref=NUM_33.51
-17	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NUM_33.51
-18	tí	tí	X	_	_	0	_	_	Ref=NUM_33.51
-19	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.51
-20	bá	bá	X	_	_	0	_	_	Ref=NUM_33.51
-21	ń	ń	X	_	_	0	_	_	Ref=NUM_33.51
-22	rékọjá	rékọjá	X	_	_	0	_	_	Ref=NUM_33.51
-23	odò	odò	X	_	_	0	_	_	Ref=NUM_33.51
-24	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.51
-25	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.51
-26	sí	sí	X	_	_	0	_	_	Ref=NUM_33.51
-27	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=NUM_33.51|SpaceAfter=No
-28	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.51
+# text_en = Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_33.51|SpaceAfter=No|Gloss=“
+2	Sọ	sọ	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=spake
+3	fún	fún	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=unto
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=the
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=son
+6	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=NUM_33.51|Gloss=israel
+7	kí	kí	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=let
+8	o	o	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=thou
+9	sì	sì	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=and
+10	wí	wí	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=said
+11	fún	fún	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=unto
+12	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=them
+13	pé	pé	X	_	_	0	_	_	Ref=NUM_33.51|SpaceAfter=No|Gloss=saying
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.51|Gloss=,
+15	‘	‘	PUNCT	_	_	0	punct	_	Ref=NUM_33.51|SpaceAfter=No|Gloss=say
+16	Ní	ní	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=in
+17	ìgbà	ìgbà	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=time
+18	tí	tí	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=that
+19	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=ye
+20	bá	bá	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=if
+21	ń	ń	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=that
+22	rékọjá	rékọjá	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=over
+23	odò	odò	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=river
+24	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=NUM_33.51|Gloss=jordan
+25	lọ	lọ	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=go
+26	sí	sí	X	_	_	0	_	_	Ref=NUM_33.51|Gloss=to
+27	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=NUM_33.51|SpaceAfter=No|Gloss=canaan
+28	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.51|Gloss=,
 
 # sent_id = NUM_33.52
 # text = Lé gbogbo àwọn ará ilẹ̀ náà kúrò níwájú yín. Run gbogbo àwòrán ère wọn àti gbogbo ère dídá wọn, kí ẹ sì wó gbogbo ibi gíga wọn palẹ̀.
-1	Lé	lé	X	_	_	0	_	_	Ref=NUM_33.52
-2	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.52
-4	ará	ará	X	_	_	0	_	_	Ref=NUM_33.52
-5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.52
-6	náà	náà	X	_	_	0	_	_	Ref=NUM_33.52
-7	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.52
-8	níwájú	níwájú	X	_	_	0	_	_	Ref=NUM_33.52
-9	yín	yín	X	_	_	0	_	_	Ref=NUM_33.52|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.52
-11	Run	run	X	_	_	0	_	_	Ref=NUM_33.52
-12	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52
-13	àwòrán	àwòrán	X	_	_	0	_	_	Ref=NUM_33.52
-14	ère	ère	X	_	_	0	_	_	Ref=NUM_33.52
-15	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.52
-16	àti	àti	X	_	_	0	_	_	Ref=NUM_33.52
-17	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52
-18	ère	ère	X	_	_	0	_	_	Ref=NUM_33.52
-19	dídá	dídá	X	_	_	0	_	_	Ref=NUM_33.52
-20	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.52|SpaceAfter=No
-21	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.52
-22	kí	kí	X	_	_	0	_	_	Ref=NUM_33.52
-23	ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.52
-24	sì	sì	X	_	_	0	_	_	Ref=NUM_33.52
-25	wó	wó	X	_	_	0	_	_	Ref=NUM_33.52
-26	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52
-27	ibi	ibi	X	_	_	0	_	_	Ref=NUM_33.52
-28	gíga	gíga	X	_	_	0	_	_	Ref=NUM_33.52
-29	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.52
-30	palẹ̀	palẹ̀	X	_	_	0	_	_	Ref=NUM_33.52|SpaceAfter=No
-31	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.52
+# text_en = Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:
+1	Lé	lé	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=delivered
+2	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=all
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=the
+4	ará	ará	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=brethren
+5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=land
+6	náà	náà	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=the
+7	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=from
+8	níwájú	níwájú	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=before
+9	yín	yín	X	_	_	0	_	_	Ref=NUM_33.52|SpaceAfter=No|Gloss=you
+10	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.52|Gloss=.
+11	Run	run	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=destroy
+12	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=all
+13	àwòrán	àwòrán	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=image
+14	ère	ère	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=graven
+15	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=them
+16	àti	àti	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=and
+17	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=all
+18	ère	ère	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=graven
+19	dídá	dídá	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=molten
+20	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.52|SpaceAfter=No|Gloss=them
+21	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.52|Gloss=,
+22	kí	kí	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=let
+23	ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=ye
+24	sì	sì	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=and
+25	wó	wó	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=broken
+26	gbogbo	gbogbo	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=all
+27	ibi	ibi	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=place
+28	gíga	gíga	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=high
+29	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.52|Gloss=them
+30	palẹ̀	palẹ̀	X	_	_	0	_	_	Ref=NUM_33.52|SpaceAfter=No|Gloss=down
+31	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.52|Gloss=.
 
 # sent_id = NUM_33.53
 # text = Ẹ gba ilẹ̀ náà, kí ẹ̀yin sì máa gbé inú ún rẹ̀, nítorí èmi ti fi ilẹ̀ náà fún yín gẹ́gẹ́ bí ìní yín.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.53
-2	gba	gba	X	_	_	0	_	_	Ref=NUM_33.53
-3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.53
-4	náà	náà	X	_	_	0	_	_	Ref=NUM_33.53|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.53
-6	kí	kí	X	_	_	0	_	_	Ref=NUM_33.53
-7	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.53
-8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.53
-9	máa	máa	X	_	_	0	_	_	Ref=NUM_33.53
-10	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.53
-11	inú	inú	X	_	_	0	_	_	Ref=NUM_33.53
-12	ún	ún	X	_	_	0	_	_	Ref=NUM_33.53
-13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_33.53|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.53
-15	nítorí	nítorí	X	_	_	0	_	_	Ref=NUM_33.53
-16	èmi	èmi	X	_	_	0	_	_	Ref=NUM_33.53
-17	ti	ti	X	_	_	0	_	_	Ref=NUM_33.53
-18	fi	fi	X	_	_	0	_	_	Ref=NUM_33.53
-19	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.53
-20	náà	náà	X	_	_	0	_	_	Ref=NUM_33.53
-21	fún	fún	X	_	_	0	_	_	Ref=NUM_33.53
-22	yín	yín	X	_	_	0	_	_	Ref=NUM_33.53
-23	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.53
-24	bí	bí	X	_	_	0	_	_	Ref=NUM_33.53
-25	ìní	ìní	X	_	_	0	_	_	Ref=NUM_33.53
-26	yín	yín	X	_	_	0	_	_	Ref=NUM_33.53|SpaceAfter=No
-27	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.53
+# text_en = And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=ye
+2	gba	gba	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=receive
+3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=land
+4	náà	náà	X	_	_	0	_	_	Ref=NUM_33.53|SpaceAfter=No|Gloss=the
+5	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.53|Gloss=,
+6	kí	kí	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=let
+7	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=ye
+8	sì	sì	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=and
+9	máa	máa	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=be
+10	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=dwell
+11	inú	inú	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=of
+12	ún	ún	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=fifth
+13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=NUM_33.53|SpaceAfter=No|Gloss=his
+14	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.53|Gloss=,
+15	nítorí	nítorí	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=for
+16	èmi	èmi	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=i
+17	ti	ti	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=have
+18	fi	fi	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=with
+19	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=land
+20	náà	náà	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=the
+21	fún	fún	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=unto
+22	yín	yín	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=you
+23	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=according
+24	bí	bí	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=as
+25	ìní	ìní	X	_	_	0	_	_	Ref=NUM_33.53|Gloss=inheritance
+26	yín	yín	X	_	_	0	_	_	Ref=NUM_33.53|SpaceAfter=No|Gloss=you
+27	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.53|Gloss=.
 
 # sent_id = NUM_33.54
 # text = Ẹ̀yin pín ilẹ̀ náà pẹ̀lú kèké, gẹ́gẹ́ bí ìdílé yín. Fún ọ̀pọ̀ ni kí ẹ̀yin ó fi ilẹ̀ ìní púpọ̀ fún, àti fún díẹ̀, ni kí ẹ̀yin kí ó fi ilẹ̀ ìní díẹ̀ fún. Ohunkóhun tí ó bá bọ́ sí ọ̀dọ̀ wọn nípa kèké yóò jẹ́ ti wọn. Pín wọn gẹ́gẹ́ bí ẹ̀yà ìran wọn.
-1	Ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.54
-2	pín	pín	X	_	_	0	_	_	Ref=NUM_33.54
-3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.54
-4	náà	náà	X	_	_	0	_	_	Ref=NUM_33.54
-5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_33.54
-6	kèké	kèké	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.54
-8	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.54
-9	bí	bí	X	_	_	0	_	_	Ref=NUM_33.54
-10	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_33.54
-11	yín	yín	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54
-13	Fún	fún	X	_	_	0	_	_	Ref=NUM_33.54
-14	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=NUM_33.54
-15	ni	ni	X	_	_	0	_	_	Ref=NUM_33.54
-16	kí	kí	X	_	_	0	_	_	Ref=NUM_33.54
-17	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.54
-18	ó	ó	X	_	_	0	_	_	Ref=NUM_33.54
-19	fi	fi	X	_	_	0	_	_	Ref=NUM_33.54
-20	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.54
-21	ìní	ìní	X	_	_	0	_	_	Ref=NUM_33.54
-22	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=NUM_33.54
-23	fún	fún	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No
-24	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.54
-25	àti	àti	X	_	_	0	_	_	Ref=NUM_33.54
-26	fún	fún	X	_	_	0	_	_	Ref=NUM_33.54
-27	díẹ̀	díẹ̀	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No
-28	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.54
-29	ni	ni	X	_	_	0	_	_	Ref=NUM_33.54
-30	kí	kí	X	_	_	0	_	_	Ref=NUM_33.54
-31	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.54
-32	kí	kí	X	_	_	0	_	_	Ref=NUM_33.54
-33	ó	ó	X	_	_	0	_	_	Ref=NUM_33.54
-34	fi	fi	X	_	_	0	_	_	Ref=NUM_33.54
-35	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.54
-36	ìní	ìní	X	_	_	0	_	_	Ref=NUM_33.54
-37	díẹ̀	díẹ̀	X	_	_	0	_	_	Ref=NUM_33.54
-38	fún	fún	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No
-39	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54
-40	Ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=NUM_33.54
-41	tí	tí	X	_	_	0	_	_	Ref=NUM_33.54
-42	ó	ó	X	_	_	0	_	_	Ref=NUM_33.54
-43	bá	bá	X	_	_	0	_	_	Ref=NUM_33.54
-44	bọ́	bọ́	X	_	_	0	_	_	Ref=NUM_33.54
-45	sí	sí	X	_	_	0	_	_	Ref=NUM_33.54
-46	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=NUM_33.54
-47	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54
-48	nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.54
-49	kèké	kèké	X	_	_	0	_	_	Ref=NUM_33.54
-50	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.54
-51	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_33.54
-52	ti	ti	X	_	_	0	_	_	Ref=NUM_33.54
-53	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No
-54	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54
-55	Pín	pín	X	_	_	0	_	_	Ref=NUM_33.54
-56	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54
-57	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.54
-58	bí	bí	X	_	_	0	_	_	Ref=NUM_33.54
-59	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_33.54
-60	ìran	ìran	X	_	_	0	_	_	Ref=NUM_33.54
-61	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No
-62	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54
+# text_en = And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man's inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
+1	Ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=ye
+2	pín	pín	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=divided
+3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=land
+4	náà	náà	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=the
+5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=with
+6	kèké	kèké	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No|Gloss=lot
+7	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.54|Gloss=,
+8	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=according
+9	bí	bí	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=as
+10	ìdílé	ìdílé	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=house
+11	yín	yín	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No|Gloss=you
+12	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54|Gloss=.
+13	Fún	fún	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=unto
+14	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=many
+15	ni	ni	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=is
+16	kí	kí	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=let
+17	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=ye
+18	ó	ó	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=he
+19	fi	fi	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=with
+20	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=land
+21	ìní	ìní	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=inheritance
+22	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=many
+23	fún	fún	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No|Gloss=unto
+24	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.54|Gloss=,
+25	àti	àti	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=and
+26	fún	fún	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=unto
+27	díẹ̀	díẹ̀	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No|Gloss=little
+28	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.54|Gloss=,
+29	ni	ni	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=is
+30	kí	kí	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=let
+31	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=ye
+32	kí	kí	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=let
+33	ó	ó	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=he
+34	fi	fi	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=with
+35	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=land
+36	ìní	ìní	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=inheritance
+37	díẹ̀	díẹ̀	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=little
+38	fún	fún	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No|Gloss=unto
+39	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54|Gloss=.
+40	Ohunkóhun	ohunkóhun	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=whatsoever
+41	tí	tí	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=that
+42	ó	ó	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=he
+43	bá	bá	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=if
+44	bọ́	bọ́	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=off
+45	sí	sí	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=to
+46	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=from
+47	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=them
+48	nípa	nípa	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=by
+49	kèké	kèké	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=lot
+50	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=shall
+51	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=be
+52	ti	ti	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=have
+53	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No|Gloss=them
+54	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54|Gloss=.
+55	Pín	pín	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=divided
+56	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=them
+57	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=according
+58	bí	bí	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=as
+59	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=tribe
+60	ìran	ìran	X	_	_	0	_	_	Ref=NUM_33.54|Gloss=generation
+61	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.54|SpaceAfter=No|Gloss=them
+62	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.54|Gloss=.
 
 # sent_id = NUM_33.55
 # text = “ ‘Ṣùgbọ́n bí ẹ kò bá lé àwọn ará ilẹ̀ náà kúrò níwájú yín, àwọn tí ẹ bá jẹ́ kí ó kù yóò di ọfà nínú ojú yín, àti ẹ̀gún ní ìhà yín. Wọn yóò fún yín ní wàhálà ní ilẹ̀ náà tí ẹ̀yin yóò gbé.
-1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_33.55
-2	‘	‘	PUNCT	_	_	0	punct	_	Ref=NUM_33.55|SpaceAfter=No
-3	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=NUM_33.55
-4	bí	bí	X	_	_	0	_	_	Ref=NUM_33.55
-5	ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.55
-6	kò	kò	X	_	_	0	_	_	Ref=NUM_33.55
-7	bá	bá	X	_	_	0	_	_	Ref=NUM_33.55
-8	lé	lé	X	_	_	0	_	_	Ref=NUM_33.55
+# text_en = But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=NUM_33.55|Gloss=“
+2	‘	‘	PUNCT	_	_	0	punct	_	Ref=NUM_33.55|SpaceAfter=No|Gloss=say
+3	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=but
+4	bí	bí	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=as
+5	ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=ye
+6	kò	kò	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=not
+7	bá	bá	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=if
+8	lé	lé	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=delivered
 9	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.55
-10	ará	ará	X	_	_	0	_	_	Ref=NUM_33.55
-11	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.55
-12	náà	náà	X	_	_	0	_	_	Ref=NUM_33.55
-13	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.55
-14	níwájú	níwájú	X	_	_	0	_	_	Ref=NUM_33.55
-15	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.55
+10	ará	ará	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=brethren
+11	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=land
+12	náà	náà	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=the
+13	kúrò	kúrò	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=from
+14	níwájú	níwájú	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=before
+15	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No|Gloss=you
+16	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.55|Gloss=,
 17	àwọn	àwọn	X	_	_	0	_	_	Ref=NUM_33.55
-18	tí	tí	X	_	_	0	_	_	Ref=NUM_33.55
-19	ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.55
-20	bá	bá	X	_	_	0	_	_	Ref=NUM_33.55
-21	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_33.55
-22	kí	kí	X	_	_	0	_	_	Ref=NUM_33.55
-23	ó	ó	X	_	_	0	_	_	Ref=NUM_33.55
-24	kù	kù	X	_	_	0	_	_	Ref=NUM_33.55
-25	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.55
-26	di	di	X	_	_	0	_	_	Ref=NUM_33.55
-27	ọfà	ọfà	X	_	_	0	_	_	Ref=NUM_33.55
-28	nínú	nínú	X	_	_	0	_	_	Ref=NUM_33.55
-29	ojú	ojú	X	_	_	0	_	_	Ref=NUM_33.55
-30	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No
-31	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.55
-32	àti	àti	X	_	_	0	_	_	Ref=NUM_33.55
-33	ẹ̀gún	ẹ̀gún	X	_	_	0	_	_	Ref=NUM_33.55
-34	ní	ní	X	_	_	0	_	_	Ref=NUM_33.55
-35	ìhà	ìhà	X	_	_	0	_	_	Ref=NUM_33.55
-36	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No
-37	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.55
-38	Wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.55
-39	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.55
-40	fún	fún	X	_	_	0	_	_	Ref=NUM_33.55
-41	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55
-42	ní	ní	X	_	_	0	_	_	Ref=NUM_33.55
-43	wàhálà	wàhálà	X	_	_	0	_	_	Ref=NUM_33.55
-44	ní	ní	X	_	_	0	_	_	Ref=NUM_33.55
-45	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.55
-46	náà	náà	X	_	_	0	_	_	Ref=NUM_33.55
-47	tí	tí	X	_	_	0	_	_	Ref=NUM_33.55
-48	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.55
-49	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.55
-50	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No
-51	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.55
+18	tí	tí	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=that
+19	ẹ	ẹ	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=ye
+20	bá	bá	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=if
+21	jẹ́	jẹ́	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=be
+22	kí	kí	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=let
+23	ó	ó	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=he
+24	kù	kù	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=left
+25	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=shall
+26	di	di	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=be
+27	ọfà	ọfà	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=arrows
+28	nínú	nínú	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=in
+29	ojú	ojú	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=eyes
+30	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No|Gloss=you
+31	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.55|Gloss=,
+32	àti	àti	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=and
+33	ẹ̀gún	ẹ̀gún	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=thorns
+34	ní	ní	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=in
+35	ìhà	ìhà	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=side
+36	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No|Gloss=you
+37	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.55|Gloss=.
+38	Wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=them
+39	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=shall
+40	fún	fún	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=unto
+41	yín	yín	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=you
+42	ní	ní	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=in
+43	wàhálà	wàhálà	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=labour
+44	ní	ní	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=in
+45	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=land
+46	náà	náà	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=the
+47	tí	tí	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=that
+48	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=ye
+49	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.55|Gloss=shall
+50	gbé	gbé	X	_	_	0	_	_	Ref=NUM_33.55|SpaceAfter=No|Gloss=dwell
+51	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.55|Gloss=.
 
 # sent_id = NUM_33.56
 # text = Nígbà náà, èmi yóò ṣe sí yín, ohun tí mo ti rò láti ṣe sí wọn.’ ”
-1	Nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_33.56
-2	náà	náà	X	_	_	0	_	_	Ref=NUM_33.56|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.56
-4	èmi	èmi	X	_	_	0	_	_	Ref=NUM_33.56
-5	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.56
-6	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_33.56
-7	sí	sí	X	_	_	0	_	_	Ref=NUM_33.56
-8	yín	yín	X	_	_	0	_	_	Ref=NUM_33.56|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.56
-10	ohun	ohun	X	_	_	0	_	_	Ref=NUM_33.56
-11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.56
-12	mo	mo	X	_	_	0	_	_	Ref=NUM_33.56
-13	ti	ti	X	_	_	0	_	_	Ref=NUM_33.56
-14	rò	rò	X	_	_	0	_	_	Ref=NUM_33.56
-15	láti	láti	X	_	_	0	_	_	Ref=NUM_33.56
-16	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_33.56
-17	sí	sí	X	_	_	0	_	_	Ref=NUM_33.56
-18	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.56|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.56|SpaceAfter=No
-20	’	’	PUNCT	_	_	0	punct	_	Ref=NUM_33.56
-21	”	”	PUNCT	_	_	0	punct	_	Ref=NUM_33.56
+# text_en = Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=when
+2	náà	náà	X	_	_	0	_	_	Ref=NUM_33.56|SpaceAfter=No|Gloss=the
+3	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.56|Gloss=,
+4	èmi	èmi	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=i
+5	yóò	yóò	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=shall
+6	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=do
+7	sí	sí	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=to
+8	yín	yín	X	_	_	0	_	_	Ref=NUM_33.56|SpaceAfter=No|Gloss=you
+9	,	,	PUNCT	_	_	0	punct	_	Ref=NUM_33.56|Gloss=,
+10	ohun	ohun	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=things
+11	tí	tí	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=that
+12	mo	mo	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=i
+13	ti	ti	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=have
+14	rò	rò	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=think
+15	láti	láti	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=to
+16	ṣe	ṣe	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=do
+17	sí	sí	X	_	_	0	_	_	Ref=NUM_33.56|Gloss=to
+18	wọn	wọn	X	_	_	0	_	_	Ref=NUM_33.56|SpaceAfter=No|Gloss=them
+19	.	.	PUNCT	_	_	0	punct	_	Ref=NUM_33.56|SpaceAfter=No|Gloss=.
+20	’	’	PUNCT	_	_	0	punct	_	Ref=NUM_33.56|Gloss=.
+21	”	”	PUNCT	_	_	0	punct	_	Ref=NUM_33.56|Gloss=.
 

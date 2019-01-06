@@ -2,1325 +2,1388 @@
 # newdoc id = JOSH_15
 # sent_id = JOSH_15.1
 # text = Ìpín fún ẹ̀yà Júdà, ní agbo ilé agbo ilé, títí dé agbégbé Édómù, títí dé ihà Síní ní òpin ìhà gúsù.
-1	Ìpín	ìpín	X	_	_	0	_	_	Ref=JOSH_15.1
-2	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.1
-3	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_15.1
-4	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1
-6	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.1
-7	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_15.1
-8	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_15.1
-9	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_15.1
-10	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1
-12	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.1
-13	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.1
-14	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.1
-15	Édómù	Édómù	PROPN	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1
-17	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.1
-18	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.1
-19	ihà	ihà	X	_	_	0	_	_	Ref=JOSH_15.1
-20	Síní	Síní	PROPN	_	_	0	_	_	Ref=JOSH_15.1
-21	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.1
-22	òpin	òpin	X	_	_	0	_	_	Ref=JOSH_15.1
-23	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.1
-24	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No
-25	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1
+# text_en = This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.
+1	Ìpín	ìpín	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=portion
+2	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=unto
+3	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=tribe
+4	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No|Gloss=judah
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1|Gloss=,
+6	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=in
+7	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=flock
+8	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=house
+9	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=flock
+10	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No|Gloss=house
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1|Gloss=,
+12	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=until
+13	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=come
+14	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=side
+15	Édómù	Édómù	PROPN	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No|Gloss=edom
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1|Gloss=,
+17	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=until
+18	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=come
+19	ihà	ihà	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=wilderness
+20	Síní	Síní	PROPN	_	_	0	_	_	Ref=JOSH_15.1|Gloss=null
+21	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=in
+22	òpin	òpin	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=end
+23	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.1|Gloss=side
+24	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.1|SpaceAfter=No|Gloss=south
+25	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.1|Gloss=.
 
 # sent_id = JOSH_15.2
 # text = Ààlà wọn ní ìhà gúsù bẹ̀rẹ̀ láti etí òpin ìhà gúsù Òkun Iyọ̀,
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.2
-2	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.2
-3	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.2
-4	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.2
-5	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.2
-6	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.2
-7	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.2
-8	etí	etí	X	_	_	0	_	_	Ref=JOSH_15.2
-9	òpin	òpin	X	_	_	0	_	_	Ref=JOSH_15.2
-10	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.2
-11	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.2
-12	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.2
-13	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_15.2|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.2
+# text_en = And their south border was from the shore of the salt sea, from the bay that looketh southward:
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=border
+2	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=them
+3	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=in
+4	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=side
+5	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=south
+6	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=began
+7	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=to
+8	etí	etí	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=ears
+9	òpin	òpin	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=end
+10	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=side
+11	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=south
+12	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.2|Gloss=sea
+13	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_15.2|SpaceAfter=No|Gloss=salt
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.2|Gloss=,
 
 # sent_id = JOSH_15.3
 # text = Ó sì lọ sí gúsù Sikopioni Pasi lọ títi dé Sínì àti sí iwájú ìhà gúsù Kadesi Báníyà. Nígbà náà ó sì tún kọjá Hésórónì lọ sí Ádárì, ó sì tún yípo yíká lọ sí Kákà.
-1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.3
-2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.3
-3	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3
-4	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3
-5	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.3
-6	Sikopioni	Sikopioni	PROPN	_	_	0	_	_	Ref=JOSH_15.3
-7	Pasi	Pasi	PROPN	_	_	0	_	_	Ref=JOSH_15.3
-8	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3
-9	títi	títi	X	_	_	0	_	_	Ref=JOSH_15.3
-10	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.3
-11	Sínì	Sínì	PROPN	_	_	0	_	_	Ref=JOSH_15.3
-12	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.3
-13	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3
-14	iwájú	iwájú	X	_	_	0	_	_	Ref=JOSH_15.3
-15	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.3
-16	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.3
-17	Kadesi	Kadesi	PROPN	_	_	0	_	_	Ref=JOSH_15.3
-18	Báníyà	Báníyà	PROPN	_	_	0	_	_	Ref=JOSH_15.3|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.3
-20	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_15.3
-21	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.3
-22	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.3
-23	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.3
-24	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.3
-25	kọjá	kọjá	X	_	_	0	_	_	Ref=JOSH_15.3
-26	Hésórónì	Hésórónì	PROPN	_	_	0	_	_	Ref=JOSH_15.3
-27	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3
-28	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3
-29	Ádárì	Ádárì	PROPN	_	_	0	_	_	Ref=JOSH_15.3|SpaceAfter=No
-30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.3
-31	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.3
-32	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.3
-33	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.3
-34	yípo	yípo	X	_	_	0	_	_	Ref=JOSH_15.3
-35	yíká	yíká	X	_	_	0	_	_	Ref=JOSH_15.3
-36	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3
-37	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3
-38	Kákà	Kákà	PROPN	_	_	0	_	_	Ref=JOSH_15.3|SpaceAfter=No
-39	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.3
+# text_en = And it went out to the south side to Maaleh-acrabbim, and passed along to Zin, and ascended up on the south side unto Kadesh-barnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
+1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=and
+3	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=go
+4	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=to
+5	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=south
+6	Sikopioni	Sikopioni	PROPN	_	_	0	_	_	Ref=JOSH_15.3|Gloss=null
+7	Pasi	Pasi	PROPN	_	_	0	_	_	Ref=JOSH_15.3|Gloss=null
+8	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=go
+9	títi	títi	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=null
+10	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=come
+11	Sínì	Sínì	PROPN	_	_	0	_	_	Ref=JOSH_15.3|Gloss=zin
+12	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=and
+13	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=to
+14	iwájú	iwájú	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=before
+15	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=side
+16	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=south
+17	Kadesi	Kadesi	PROPN	_	_	0	_	_	Ref=JOSH_15.3|Gloss=kadesh
+18	Báníyà	Báníyà	PROPN	_	_	0	_	_	Ref=JOSH_15.3|SpaceAfter=No|Gloss=barnea
+19	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.3|Gloss=.
+20	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=when
+21	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=the
+22	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=he
+23	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=and
+24	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=again
+25	kọjá	kọjá	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=passed
+26	Hésórónì	Hésórónì	PROPN	_	_	0	_	_	Ref=JOSH_15.3|Gloss=null
+27	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=go
+28	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=to
+29	Ádárì	Ádárì	PROPN	_	_	0	_	_	Ref=JOSH_15.3|SpaceAfter=No|Gloss=adar
+30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.3|Gloss=,
+31	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=he
+32	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=and
+33	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=again
+34	yípo	yípo	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=round
+35	yíká	yíká	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=round
+36	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=go
+37	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.3|Gloss=to
+38	Kákà	Kákà	PROPN	_	_	0	_	_	Ref=JOSH_15.3|SpaceAfter=No|Gloss=karkaa
+39	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.3|Gloss=.
 
 # sent_id = JOSH_15.4
 # text = Ó tún kọjá lọ sí Ásímónì, ó sì papọ̀ mọ́ Wádì ti Éjíbítì, ó parí sí òkun. Èyí ni ààlà wọn ní ìhà gúsù.
-1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.4
-2	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.4
-3	kọjá	kọjá	X	_	_	0	_	_	Ref=JOSH_15.4
-4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.4
-5	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.4
-6	Ásímónì	Ásímónì	PROPN	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4
-8	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.4
-9	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.4
-10	papọ̀	papọ̀	X	_	_	0	_	_	Ref=JOSH_15.4
-11	mọ́	mọ́	X	_	_	0	_	_	Ref=JOSH_15.4
-12	Wádì	Wádì	PROPN	_	_	0	_	_	Ref=JOSH_15.4
-13	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.4
-14	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4
-16	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.4
-17	parí	parí	X	_	_	0	_	_	Ref=JOSH_15.4
-18	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.4
-19	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4
-21	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.4
-22	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.4
-23	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.4
-24	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.4
-25	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.4
-26	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.4
-27	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No
-28	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4
+# text_en = From thence it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.
+1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=he
+2	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=again
+3	kọjá	kọjá	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=passed
+4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=go
+5	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=to
+6	Ásímónì	Ásímónì	PROPN	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No|Gloss=azmon
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4|Gloss=,
+8	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=he
+9	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=and
+10	papọ̀	papọ̀	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=together
+11	mọ́	mọ́	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=more
+12	Wádì	Wádì	PROPN	_	_	0	_	_	Ref=JOSH_15.4|Gloss=river
+13	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=have
+14	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No|Gloss=egypt
+15	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4|Gloss=,
+16	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=he
+17	parí	parí	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=finished
+18	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=to
+19	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No|Gloss=sea
+20	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4|Gloss=.
+21	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=this
+22	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=is
+23	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=border
+24	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=them
+25	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=in
+26	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.4|Gloss=side
+27	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.4|SpaceAfter=No|Gloss=south
+28	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.4|Gloss=.
 
 # sent_id = JOSH_15.5
 # text = Ààlà wọn ní ìhà ìlà-oòrùn ní Òkun Iyọ̀ títí dé ẹnu Jọ́dánì. Ààlà àríwá bẹ̀rẹ̀ láti etí òkun ní ẹnu Jọ́dánì,
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.5
-2	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.5
-3	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.5
-4	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.5
+# text_en = And the east border was the salt sea, even unto the end of Jordan. And their border in the north quarter was from the bay of the sea at the uttermost part of Jordan:
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=border
+2	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=them
+3	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=in
+4	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=side
 5	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_15.5|SpaceAfter=No
 6	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.5|SpaceAfter=No
-7	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.5
-8	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.5
-9	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.5
-10	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_15.5
-11	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.5
-12	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.5
-13	ẹnu	ẹnu	X	_	_	0	_	_	Ref=JOSH_15.5
-14	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_15.5|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.5
-16	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.5
-17	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.5
-18	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.5
-19	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.5
-20	etí	etí	X	_	_	0	_	_	Ref=JOSH_15.5
-21	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.5
-22	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.5
-23	ẹnu	ẹnu	X	_	_	0	_	_	Ref=JOSH_15.5
-24	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_15.5|SpaceAfter=No
-25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.5
+7	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=sun
+8	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=in
+9	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=sea
+10	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=salt
+11	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=until
+12	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=come
+13	ẹnu	ẹnu	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=mouth
+14	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_15.5|SpaceAfter=No|Gloss=jordan
+15	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.5|Gloss=.
+16	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=border
+17	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=north
+18	bẹ̀rẹ̀	bẹ̀rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=began
+19	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=to
+20	etí	etí	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=ears
+21	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=sea
+22	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=in
+23	ẹnu	ẹnu	X	_	_	0	_	_	Ref=JOSH_15.5|Gloss=mouth
+24	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_15.5|SpaceAfter=No|Gloss=jordan
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.5|Gloss=,
 
 # sent_id = JOSH_15.6
 # text = ààlà náà sì tún dé Bẹti-Hógílà, ó sì lọ sí ìhà àríwá Bẹti-Árábà. Ààlà náà sì tún dé ibi Òkúta Bóhánì ti ọmọ Rúbẹ́nì.
-1	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.6
-2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.6
-3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.6
-4	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.6
-5	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.6
+# text_en = And the border went up to Beth-hogla, and passed along by the north of Beth-arabah; and the border went up to the stone of Bohan the son of Reuben:
+1	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=border
+2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=the
+3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=and
+4	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=again
+5	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=come
 6	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.6|SpaceAfter=No
 7	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6|SpaceAfter=No
 8	Hógílà	Hógílà	PROPN	_	_	0	_	_	Ref=JOSH_15.6|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6
-10	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.6
-11	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.6
-12	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.6
-13	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.6
-14	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.6
-15	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.6
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6|Gloss=,
+10	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=he
+11	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=and
+12	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=go
+13	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=to
+14	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=side
+15	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=north
 16	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.6|SpaceAfter=No
 17	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6|SpaceAfter=No
 18	Árábà	Árábà	PROPN	_	_	0	_	_	Ref=JOSH_15.6|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6
-20	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.6
-21	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.6
-22	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.6
-23	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.6
-24	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.6
-25	ibi	ibi	X	_	_	0	_	_	Ref=JOSH_15.6
-26	Òkúta	òkúta	X	_	_	0	_	_	Ref=JOSH_15.6
-27	Bóhánì	Bóhánì	PROPN	_	_	0	_	_	Ref=JOSH_15.6
-28	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.6
-29	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.6
-30	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_15.6|SpaceAfter=No
-31	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6
+19	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6|Gloss=.
+20	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=border
+21	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=the
+22	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=and
+23	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=again
+24	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=come
+25	ibi	ibi	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=place
+26	Òkúta	òkúta	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=stone
+27	Bóhánì	Bóhánì	PROPN	_	_	0	_	_	Ref=JOSH_15.6|Gloss=bohan
+28	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=have
+29	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.6|Gloss=son
+30	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_15.6|SpaceAfter=No|Gloss=reuben
+31	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.6|Gloss=.
 
 # sent_id = JOSH_15.7
 # text = Ààlà náà gòkè lọ títí dé Débírì láti Àfonífojì Ákórì, ó sì yípadà sí àríwá Gílígálì, èyí tí ó dojú kọ iwájú Ádúmímù gúsù ti Gọ́ọ́jì. Ó sì tẹ̀síwájù sí apá omi Ẹbi Ṣéméṣì, ó sì jáde sí Ẹni Rógélì.
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.7
-2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.7
-3	gòkè	gòkè	X	_	_	0	_	_	Ref=JOSH_15.7
-4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.7
-5	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.7
-6	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.7
-7	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_15.7
-8	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.7
-9	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.7
-10	Ákórì	Ákórì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7
-12	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7
-13	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.7
-14	yípadà	yípadà	X	_	_	0	_	_	Ref=JOSH_15.7
-15	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.7
-16	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.7
-17	Gílígálì	Gílígálì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7
-19	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.7
-20	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.7
-21	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7
-22	dojú	dojú	X	_	_	0	_	_	Ref=JOSH_15.7
-23	kọ	kọ	X	_	_	0	_	_	Ref=JOSH_15.7
-24	iwájú	iwájú	X	_	_	0	_	_	Ref=JOSH_15.7
-25	Ádúmímù	Ádúmímù	PROPN	_	_	0	_	_	Ref=JOSH_15.7
-26	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.7
-27	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.7
-28	Gọ́ọ́jì	Gọ́ọ́jì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No
-29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7
-30	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7
-31	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.7
-32	tẹ̀síwájù	tẹ̀síwájù	X	_	_	0	_	_	Ref=JOSH_15.7
-33	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.7
-34	apá	apá	X	_	_	0	_	_	Ref=JOSH_15.7
-35	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.7
-36	Ẹbi	Ẹbi	PROPN	_	_	0	_	_	Ref=JOSH_15.7
-37	Ṣéméṣì	Ṣéméṣì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No
-38	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7
-39	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7
-40	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.7
-41	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.7
-42	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.7
-43	Ẹni	ẹni	X	_	_	0	_	_	Ref=JOSH_15.7
-44	Rógélì	Rógélì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No
-45	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7
+# text_en = And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that is before the going up to Adummim, which is on the south side of the river: and the border passed toward the waters of En-shemesh, and the goings out thereof were at En-rogel:
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=border
+2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=the
+3	gòkè	gòkè	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=up
+4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=go
+5	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=until
+6	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=come
+7	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|Gloss=debir
+8	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=to
+9	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=valley
+10	Ákórì	Ákórì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No|Gloss=achor
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7|Gloss=,
+12	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=he
+13	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=and
+14	yípadà	yípadà	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=turned
+15	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=to
+16	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=north
+17	Gílígálì	Gílígálì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No|Gloss=gilgal
+18	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7|Gloss=,
+19	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=this
+20	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=that
+21	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=he
+22	dojú	dojú	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=against
+23	kọ	kọ	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=written
+24	iwájú	iwájú	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=before
+25	Ádúmímù	Ádúmímù	PROPN	_	_	0	_	_	Ref=JOSH_15.7|Gloss=adummim
+26	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=south
+27	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=have
+28	Gọ́ọ́jì	Gọ́ọ́jì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No|Gloss=null
+29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7|Gloss=.
+30	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=he
+31	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=and
+32	tẹ̀síwájù	tẹ̀síwájù	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=null
+33	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=to
+34	apá	apá	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=arm
+35	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=water
+36	Ẹbi	Ẹbi	PROPN	_	_	0	_	_	Ref=JOSH_15.7|Gloss=en-rogel
+37	Ṣéméṣì	Ṣéméṣì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No|Gloss=null
+38	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7|Gloss=,
+39	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=he
+40	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=and
+41	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=out
+42	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=to
+43	Ẹni	ẹni	X	_	_	0	_	_	Ref=JOSH_15.7|Gloss=that
+44	Rógélì	Rógélì	PROPN	_	_	0	_	_	Ref=JOSH_15.7|SpaceAfter=No|Gloss=null
+45	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.7|Gloss=.
 
 # sent_id = JOSH_15.8
 # text = Ààlà náà sì tún gòkè lọ sí Àfonífojì Bẹni Hínómù ní ìhà gẹ̀rẹ́gẹ̀rẹ́ gúsù ti Jébúsì (tí í ṣe Jérúsálẹ́mù). Ó sì gòkè lọ sí orí òkè tí ó wà lórí Àfonífojì Hínómù ní òpín àríwá àfonífojì Réfáímù.
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.8
-2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.8
-3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.8
-4	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.8
-5	gòkè	gòkè	X	_	_	0	_	_	Ref=JOSH_15.8
-6	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.8
-7	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.8
-8	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.8
-9	Bẹni	Bẹni	PROPN	_	_	0	_	_	Ref=JOSH_15.8
-10	Hínómù	Hínómù	PROPN	_	_	0	_	_	Ref=JOSH_15.8
-11	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.8
-12	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.8
-13	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_15.8
-14	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.8
-15	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.8
-16	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_15.8
-17	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8|SpaceAfter=No
-18	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.8
-19	í	í	X	_	_	0	_	_	Ref=JOSH_15.8
-20	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.8
-21	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=JOSH_15.8|SpaceAfter=No
-22	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8
-24	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.8
-25	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.8
-26	gòkè	gòkè	X	_	_	0	_	_	Ref=JOSH_15.8
-27	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.8
-28	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.8
-29	orí	orí	X	_	_	0	_	_	Ref=JOSH_15.8
-30	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.8
-31	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.8
-32	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.8
-33	wà	wà	X	_	_	0	_	_	Ref=JOSH_15.8
-34	lórí	lórí	X	_	_	0	_	_	Ref=JOSH_15.8
-35	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.8
-36	Hínómù	Hínómù	PROPN	_	_	0	_	_	Ref=JOSH_15.8
-37	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.8
-38	òpín	òpín	X	_	_	0	_	_	Ref=JOSH_15.8
-39	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.8
-40	àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.8
-41	Réfáímù	Réfáímù	PROPN	_	_	0	_	_	Ref=JOSH_15.8|SpaceAfter=No
-42	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8
+# text_en = And the border went up by the valley of the son of Hinnom unto the south side of the Jebusite; the same is Jerusalem: and the border went up to the top of the mountain that lieth before the valley of Hinnom westward, which is at the end of the valley of the giants northward:
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=border
+2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=the
+3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=and
+4	tún	tún	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=again
+5	gòkè	gòkè	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=up
+6	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=go
+7	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=to
+8	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=valley
+9	Bẹni	Bẹni	PROPN	_	_	0	_	_	Ref=JOSH_15.8|Gloss=ben-
+10	Hínómù	Hínómù	PROPN	_	_	0	_	_	Ref=JOSH_15.8|Gloss=hinnom
+11	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=in
+12	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=side
+13	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=side
+14	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=south
+15	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=have
+16	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_15.8|Gloss=jebusites
+17	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8|SpaceAfter=No|Gloss=hundred
+18	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=that
+19	í	í	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=was
+20	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=do
+21	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=JOSH_15.8|SpaceAfter=No|Gloss=jerusalem
+22	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8|SpaceAfter=No|Gloss=hundred
+23	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8|Gloss=.
+24	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=he
+25	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=and
+26	gòkè	gòkè	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=up
+27	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=go
+28	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=to
+29	orí	orí	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=head
+30	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=mount
+31	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=that
+32	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=he
+33	wà	wà	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=was
+34	lórí	lórí	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=upon
+35	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=valley
+36	Hínómù	Hínómù	PROPN	_	_	0	_	_	Ref=JOSH_15.8|Gloss=hinnom
+37	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=in
+38	òpín	òpín	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=end
+39	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=north
+40	àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_15.8|Gloss=valley
+41	Réfáímù	Réfáímù	PROPN	_	_	0	_	_	Ref=JOSH_15.8|SpaceAfter=No|Gloss=rephaim
+42	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.8|Gloss=.
 
 # sent_id = JOSH_15.9
 # text = Ààlà náà sì lọ láti orí òkè lọ sí ìsun omi Néfítóà, ó sì jáde sí ìlú Okè Éífírónì, ó sì lọ sí apá ìṣàlẹ̀ Báálà, (tí í ṣe, Kiriati Jéárímù).
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.9
-2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.9
-3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.9
-4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.9
-5	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.9
-6	orí	orí	X	_	_	0	_	_	Ref=JOSH_15.9
-7	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.9
-8	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.9
-9	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.9
-10	ìsun	ìsun	X	_	_	0	_	_	Ref=JOSH_15.9
-11	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.9
-12	Néfítóà	Néfítóà	PROPN	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9
-14	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.9
-15	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.9
-16	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.9
-17	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.9
-18	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.9
-19	Okè	okè	X	_	_	0	_	_	Ref=JOSH_15.9
-20	Éífírónì	Éífírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No
-21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9
-22	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.9
-23	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.9
-24	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.9
-25	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.9
-26	apá	apá	X	_	_	0	_	_	Ref=JOSH_15.9
-27	ìṣàlẹ̀	ìṣàlẹ̀	X	_	_	0	_	_	Ref=JOSH_15.9
-28	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No
-29	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9
-30	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|SpaceAfter=No
-31	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.9
-32	í	í	X	_	_	0	_	_	Ref=JOSH_15.9
-33	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No
-34	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9
-35	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.9
-36	Jéárímù	jéárímù	X	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No
-37	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|SpaceAfter=No
-38	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9
+# text_en = And the border was drawn from the top of the hill unto the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which is Kirjath-jearim:
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=border
+2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=the
+3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=and
+4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=go
+5	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=to
+6	orí	orí	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=head
+7	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=mount
+8	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=go
+9	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=to
+10	ìsun	ìsun	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=issue
+11	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=water
+12	Néfítóà	Néfítóà	PROPN	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No|Gloss=null
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|Gloss=,
+14	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=he
+15	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=and
+16	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=out
+17	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=to
+18	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=city
+19	Okè	okè	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=mount
+20	Éífírónì	Éífírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No|Gloss=null
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|Gloss=,
+22	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=he
+23	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=and
+24	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=go
+25	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=to
+26	apá	apá	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=arm
+27	ìṣàlẹ̀	ìṣàlẹ̀	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=beneath
+28	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No|Gloss=baalah
+29	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|Gloss=,
+30	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|SpaceAfter=No|Gloss=hundred
+31	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=that
+32	í	í	X	_	_	0	_	_	Ref=JOSH_15.9|Gloss=was
+33	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No|Gloss=do
+34	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|Gloss=,
+35	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.9|Gloss=kirjath
+36	Jéárímù	jéárímù	X	_	_	0	_	_	Ref=JOSH_15.9|SpaceAfter=No|Gloss=jearim
+37	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|SpaceAfter=No|Gloss=hundred
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.9|Gloss=.
 
 # sent_id = JOSH_15.10
 # text = Ààlà tí ó yípo láti Báálà lọ sí ìhà ìwọ̀-oòrùn sí okè Séírì, ó sì lọ sí gẹ̀rẹ́gẹ̀rẹ́ àríwá òkè Jéárímù (tí íṣe, Késálónì), ó sì sọ̀kalẹ̀ lọ sí Bẹti-Sẹ́mẹ́sì, ó sì kọja lọ sí Tímínà.
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.10
-2	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.10
-3	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10
-4	yípo	yípo	X	_	_	0	_	_	Ref=JOSH_15.10
-5	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.10
-6	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.10
-7	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10
-8	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10
-9	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.10
-10	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No
-11	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No
-12	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.10
-13	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10
-14	okè	okè	X	_	_	0	_	_	Ref=JOSH_15.10
-15	Séírì	Séírì	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10
-17	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10
-18	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.10
-19	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10
-20	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10
-21	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_15.10
-22	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.10
-23	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.10
-24	Jéárímù	jéárímù	X	_	_	0	_	_	Ref=JOSH_15.10
-25	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No
-26	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.10
-27	íṣe	íṣe	X	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No
-28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10
-29	Késálónì	Késálónì	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No
-30	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No
-31	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10
-32	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10
-33	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.10
-34	sọ̀kalẹ̀	sọ̀kalẹ̀	X	_	_	0	_	_	Ref=JOSH_15.10
-35	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10
-36	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10
+# text_en = And the border compassed from Baalah westward unto mount Seir, and passed along unto the side of mount Jearim, which is Chesalon, on the north side, and went down to Beth-shemesh, and passed on to Timnah:
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=border
+2	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=he
+4	yípo	yípo	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=round
+5	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=to
+6	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.10|Gloss=baalah
+7	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=go
+8	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=to
+9	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=side
+10	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=west
+11	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=the
+12	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=sun
+13	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=to
+14	okè	okè	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=mount
+15	Séírì	Séírì	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=seir
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|Gloss=,
+17	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=he
+18	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=and
+19	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=go
+20	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=to
+21	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=side
+22	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=north
+23	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=mount
+24	Jéárímù	jéárímù	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=jearim
+25	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=hundred
+26	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=that
+27	íṣe	íṣe	X	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=which
+28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|Gloss=,
+29	Késálónì	Késálónì	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=null
+30	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=hundred
+31	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|Gloss=,
+32	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=he
+33	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=and
+34	sọ̀kalẹ̀	sọ̀kalẹ̀	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=down
+35	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=go
+36	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=to
 37	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No
-38	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No
+38	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=the
 39	Sẹ́mẹ́sì	Sẹ́mẹ́sì	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No
-40	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10
-41	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10
-42	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.10
-43	kọja	kọja	X	_	_	0	_	_	Ref=JOSH_15.10
-44	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10
-45	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10
-46	Tímínà	Tímínà	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No
-47	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10
+40	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|Gloss=,
+41	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=he
+42	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=and
+43	kọja	kọja	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=passed
+44	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=go
+45	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.10|Gloss=to
+46	Tímínà	Tímínà	PROPN	_	_	0	_	_	Ref=JOSH_15.10|SpaceAfter=No|Gloss=timnath
+47	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.10|Gloss=.
 
 # sent_id = JOSH_15.11
 # text = Ààlà náà sì lọ sí gẹ̀rẹ́gẹ̀rẹ́ àríwá òkè Ékírónì, ó sì yípadà lọ sí Síkerónì, ó sì yípadà lọ sí Okè Báálà, ó sì dé Jábínẹ́ẹ́lì, ààlà náà sì parí sí òkun.
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.11
-2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.11
-3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11
-4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.11
-5	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11
-6	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_15.11
-7	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.11
-8	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.11
-9	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11
-11	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.11
-12	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11
-13	yípadà	yípadà	X	_	_	0	_	_	Ref=JOSH_15.11
-14	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.11
-15	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11
-16	Síkerónì	Síkerónì	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No
-17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11
-18	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.11
-19	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11
-20	yípadà	yípadà	X	_	_	0	_	_	Ref=JOSH_15.11
-21	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.11
-22	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11
-23	Okè	okè	X	_	_	0	_	_	Ref=JOSH_15.11
-24	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No
-25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11
-26	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.11
-27	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11
-28	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.11
-29	Jábínẹ́ẹ́lì	Jábínẹ́ẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No
-30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11
-31	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.11
-32	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.11
-33	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11
-34	parí	parí	X	_	_	0	_	_	Ref=JOSH_15.11
-35	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11
-36	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No
-37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11
+# text_en = And the border went out unto the side of Ekron northward: and the border was drawn to Shicron, and passed along to mount Baalah, and went out unto Jabneel; and the goings out of the border were at the sea.
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=border
+2	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=the
+3	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=and
+4	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=go
+5	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=to
+6	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=side
+7	àríwá	àríwá	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=north
+8	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=mount
+9	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No|Gloss=ekron
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11|Gloss=,
+11	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=he
+12	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=and
+13	yípadà	yípadà	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=turned
+14	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=go
+15	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=to
+16	Síkerónì	Síkerónì	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No|Gloss=shicron
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11|Gloss=,
+18	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=he
+19	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=and
+20	yípadà	yípadà	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=turned
+21	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=go
+22	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=to
+23	Okè	okè	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=mount
+24	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No|Gloss=baalah
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11|Gloss=,
+26	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=he
+27	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=and
+28	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=come
+29	Jábínẹ́ẹ́lì	Jábínẹ́ẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No|Gloss=jabneel
+30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11|Gloss=,
+31	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=border
+32	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=the
+33	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=and
+34	parí	parí	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=finished
+35	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.11|Gloss=to
+36	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.11|SpaceAfter=No|Gloss=sea
+37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.11|Gloss=.
 
 # sent_id = JOSH_15.12
 # text = Ààlà ìwọ̀-oòrùn sì jẹ́ agbégbé Òkun ńlá. Ìwọ̀nyí ni ààlà àyíká ènìyàn Júdà ní agbo ilé wọn.
-1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.12
-2	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.12|SpaceAfter=No
-3	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.12|SpaceAfter=No
-4	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.12
-5	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.12
-6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_15.12
-7	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.12
-8	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.12
-9	ńlá	ńlá	X	_	_	0	_	_	Ref=JOSH_15.12|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.12
-11	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_15.12
-12	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.12
-13	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.12
-14	àyíká	àyíká	X	_	_	0	_	_	Ref=JOSH_15.12
-15	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_15.12
-16	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.12
-17	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.12
-18	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_15.12
-19	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_15.12
-20	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.12|SpaceAfter=No
-21	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.12
+# text_en = And the west border was to the great sea, and the coast thereof. This is the coast of the children of Judah round about according to their families.
+1	Ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=border
+2	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.12|SpaceAfter=No|Gloss=west
+3	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.12|SpaceAfter=No|Gloss=the
+4	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=sun
+5	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=and
+6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=be
+7	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=side
+8	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=sea
+9	ńlá	ńlá	X	_	_	0	_	_	Ref=JOSH_15.12|SpaceAfter=No|Gloss=great
+10	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.12|Gloss=.
+11	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=these
+12	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=is
+13	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=border
+14	àyíká	àyíká	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=round
+15	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=people
+16	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=judah
+17	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=in
+18	agbo	agbo	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=flock
+19	ilé	ilé	X	_	_	0	_	_	Ref=JOSH_15.12|Gloss=house
+20	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.12|SpaceAfter=No|Gloss=them
+21	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.12|Gloss=.
 
 # sent_id = JOSH_15.13
 # text = Gẹ́gẹ́ bí àṣẹ tí Olúwa pa fún Jóṣúà, ó fi ìpín fún Kélẹ́bù ọmọ Jéfúnè, ipin ní Júdà-Kiriati Áríbà, tí í ṣe Hébúrónì. (Áríbà sì ní baba ńlá Ánákì.)
-1	Gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_15.13
-2	bí	bí	X	_	_	0	_	_	Ref=JOSH_15.13
-3	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=JOSH_15.13
-4	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.13
-5	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_15.13
-6	pa	pa	X	_	_	0	_	_	Ref=JOSH_15.13
-7	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.13
-8	Jóṣúà	Jóṣúà	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13
-10	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.13
-11	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.13
-12	ìpín	ìpín	X	_	_	0	_	_	Ref=JOSH_15.13
-13	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.13
+# text_en = And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, even the city of Arba the father of Anak, which city is Hebron.
+1	Gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=according
+2	bí	bí	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=as
+3	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=commandment
+4	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=that
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=lord
+6	pa	pa	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=keep
+7	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=unto
+8	Jóṣúà	Jóṣúà	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No|Gloss=joshua
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|Gloss=,
+10	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=he
+11	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=with
+12	ìpín	ìpín	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=portion
+13	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=unto
 14	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.13
-15	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.13
-16	Jéfúnè	Jéfúnè	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No
-17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13
-18	ipin	ipin	X	_	_	0	_	_	Ref=JOSH_15.13
-19	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.13
+15	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=son
+16	Jéfúnè	Jéfúnè	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No|Gloss=jephunneh
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|Gloss=,
+18	ipin	ipin	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=null
+19	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=in
 20	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No
 21	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|SpaceAfter=No
 22	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.13
-23	Áríbà	Áríbà	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No
-24	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13
-25	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.13
-26	í	í	X	_	_	0	_	_	Ref=JOSH_15.13
-27	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.13
-28	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No
-29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13
-30	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|SpaceAfter=No
-31	Áríbà	Áríbà	PROPN	_	_	0	_	_	Ref=JOSH_15.13
-32	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.13
-33	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.13
-34	baba	baba	X	_	_	0	_	_	Ref=JOSH_15.13
-35	ńlá	ńlá	X	_	_	0	_	_	Ref=JOSH_15.13
-36	Ánákì	Ánákì	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No
-37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|SpaceAfter=No
-38	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13
+23	Áríbà	Áríbà	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No|Gloss=arba
+24	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|Gloss=,
+25	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=that
+26	í	í	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=was
+27	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=do
+28	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No|Gloss=hebron
+29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|Gloss=.
+30	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|SpaceAfter=No|Gloss=hundred
+31	Áríbà	Áríbà	PROPN	_	_	0	_	_	Ref=JOSH_15.13|Gloss=arba
+32	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=and
+33	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=in
+34	baba	baba	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=father
+35	ńlá	ńlá	X	_	_	0	_	_	Ref=JOSH_15.13|Gloss=great
+36	Ánákì	Ánákì	PROPN	_	_	0	_	_	Ref=JOSH_15.13|SpaceAfter=No|Gloss=anak
+37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|SpaceAfter=No|Gloss=.
+38	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.13|Gloss=hundred
 
 # sent_id = JOSH_15.14
 # text = Kélẹ́bù sì lé àwọn ọmọ Ánákì mẹ́ta jáde láti Hébúrónì-Ṣéṣáyì, Áhímónì, àti Tálímáì-ìran Ánákì.
-1	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.14
-2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.14
-3	lé	lé	X	_	_	0	_	_	Ref=JOSH_15.14
-4	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.14
-5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.14
-6	Ánákì	Ánákì	PROPN	_	_	0	_	_	Ref=JOSH_15.14
-7	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=JOSH_15.14
-8	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.14
-9	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.14
-10	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No
+# text_en = And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
+1	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.14|Gloss=caleb
+2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=and
+3	lé	lé	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=delivered
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=the
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=son
+6	Ánákì	Ánákì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|Gloss=anak
+7	mẹ́ta	mẹ́ta	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=three
+8	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=out
+9	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=to
+10	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No|Gloss=hebron
 11	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14|SpaceAfter=No
 12	Ṣéṣáyì	Ṣéṣáyì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14
-14	Áhímónì	Áhímónì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14
-16	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.14
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14|Gloss=,
+14	Áhímónì	Áhímónì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No|Gloss=talmai
+15	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14|Gloss=,
+16	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=and
 17	Tálímáì	Tálímáì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No
 18	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14|SpaceAfter=No
-19	ìran	ìran	X	_	_	0	_	_	Ref=JOSH_15.14
-20	Ánákì	Ánákì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No
-21	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14
+19	ìran	ìran	X	_	_	0	_	_	Ref=JOSH_15.14|Gloss=generation
+20	Ánákì	Ánákì	PROPN	_	_	0	_	_	Ref=JOSH_15.14|SpaceAfter=No|Gloss=anak
+21	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.14|Gloss=.
 
 # sent_id = JOSH_15.15
 # text = Ó sì wọ́de ogun láti ibẹ̀ lọ bá àwọn ènìyàn tí ń gbé ní Débírì (tí à ń pè ní Kiriati Séferì tẹ́lẹ̀).
-1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.15
-2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.15
-3	wọ́de	wọ́de	X	_	_	0	_	_	Ref=JOSH_15.15
-4	ogun	ogun	X	_	_	0	_	_	Ref=JOSH_15.15
-5	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.15
-6	ibẹ̀	ibẹ̀	X	_	_	0	_	_	Ref=JOSH_15.15
-7	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.15
-8	bá	bá	X	_	_	0	_	_	Ref=JOSH_15.15
-9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.15
-10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_15.15
-11	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.15
-12	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.15
-13	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_15.15
-14	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.15
-15	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_15.15
-16	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.15|SpaceAfter=No
-17	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.15
-18	à	à	X	_	_	0	_	_	Ref=JOSH_15.15
-19	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.15
-20	pè	pè	X	_	_	0	_	_	Ref=JOSH_15.15
-21	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.15
-22	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.15
-23	Séferì	Séferì	PROPN	_	_	0	_	_	Ref=JOSH_15.15
-24	tẹ́lẹ̀	tẹ́lẹ̀	X	_	_	0	_	_	Ref=JOSH_15.15|SpaceAfter=No
-25	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.15|SpaceAfter=No
-26	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.15
+# text_en = And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjath-sepher.
+1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=and
+3	wọ́de	wọ́de	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=null
+4	ogun	ogun	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=war
+5	láti	láti	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=to
+6	ibẹ̀	ibẹ̀	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=thence
+7	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=go
+8	bá	bá	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=if
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=the
+10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=people
+11	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=that
+12	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=that
+13	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=dwell
+14	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=in
+15	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_15.15|Gloss=debir
+16	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.15|SpaceAfter=No|Gloss=hundred
+17	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=that
+18	à	à	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=the
+19	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=that
+20	pè	pè	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=called
+21	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.15|Gloss=in
+22	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.15|Gloss=kirjath
+23	Séferì	Séferì	PROPN	_	_	0	_	_	Ref=JOSH_15.15|Gloss=sepher
+24	tẹ́lẹ̀	tẹ́lẹ̀	X	_	_	0	_	_	Ref=JOSH_15.15|SpaceAfter=No|Gloss=before
+25	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.15|SpaceAfter=No|Gloss=hundred
+26	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.15|Gloss=.
 
 # sent_id = JOSH_15.16
 # text = Kélẹ́bù sì wí pé, “Èmi yóò fi ọmọbìnrin mi Ákísà fún ọkùnrin tí ó bá kọlu Kiriati Séférì, tí ó sì gbà á ní ìgbeyàwó.”
-1	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.16
-2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.16
-3	wí	wí	X	_	_	0	_	_	Ref=JOSH_15.16
-4	pé	pé	X	_	_	0	_	_	Ref=JOSH_15.16|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16
-6	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16|SpaceAfter=No
-7	Èmi	èmi	X	_	_	0	_	_	Ref=JOSH_15.16
-8	yóò	yóò	X	_	_	0	_	_	Ref=JOSH_15.16
-9	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.16
-10	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=JOSH_15.16
-11	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.16
-12	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.16
-13	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.16
-14	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=JOSH_15.16
-15	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.16
-16	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.16
-17	bá	bá	X	_	_	0	_	_	Ref=JOSH_15.16
-18	kọlu	kọlu	X	_	_	0	_	_	Ref=JOSH_15.16
-19	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.16
-20	Séférì	Séférì	PROPN	_	_	0	_	_	Ref=JOSH_15.16|SpaceAfter=No
-21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16
-22	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.16
-23	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.16
-24	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.16
-25	gbà	gbà	X	_	_	0	_	_	Ref=JOSH_15.16
-26	á	á	X	_	_	0	_	_	Ref=JOSH_15.16
-27	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.16
-28	ìgbeyàwó	ìgbeyàwó	X	_	_	0	_	_	Ref=JOSH_15.16|SpaceAfter=No
-29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16|SpaceAfter=No
-30	”	”	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16
+# text_en = And Caleb said, He that smiteth Kirjath-sepher, and taketh it, to him will I give Achsah my daughter to wife.
+1	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.16|Gloss=caleb
+2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=and
+3	wí	wí	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=said
+4	pé	pé	X	_	_	0	_	_	Ref=JOSH_15.16|SpaceAfter=No|Gloss=saying
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16|Gloss=,
+6	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16|SpaceAfter=No|Gloss=“
+7	Èmi	èmi	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=i
+8	yóò	yóò	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=shall
+9	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=with
+10	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=daughter
+11	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=my
+12	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.16|Gloss=achsah
+13	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=unto
+14	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=man
+15	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=that
+16	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=he
+17	bá	bá	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=if
+18	kọlu	kọlu	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=smote
+19	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.16|Gloss=kirjath
+20	Séférì	Séférì	PROPN	_	_	0	_	_	Ref=JOSH_15.16|SpaceAfter=No|Gloss=null
+21	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16|Gloss=,
+22	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=that
+23	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=he
+24	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=and
+25	gbà	gbà	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=deliver
+26	á	á	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=it
+27	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.16|Gloss=in
+28	ìgbeyàwó	ìgbeyàwó	X	_	_	0	_	_	Ref=JOSH_15.16|SpaceAfter=No|Gloss=null
+29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16|SpaceAfter=No|Gloss=.
+30	”	”	PUNCT	_	_	0	punct	_	Ref=JOSH_15.16|Gloss=.
 
 # sent_id = JOSH_15.17
 # text = Ótíniẹ́lì ọmọ Kénásì, arákùnrin Kélẹ́bù, sì gbà á, báyìí ni Kélẹ́bù sì fi ọmọbìnrin rẹ̀ Ákísà fún un ní ìyàwó.
-1	Ótíniẹ́lì	ótíniẹ́lì	X	_	_	0	_	_	Ref=JOSH_15.17
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.17
-3	Kénásì	Kénásì	PROPN	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17
-5	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=JOSH_15.17
-6	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17
-8	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.17
-9	gbà	gbà	X	_	_	0	_	_	Ref=JOSH_15.17
-10	á	á	X	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17
-12	báyìí	báyìí	X	_	_	0	_	_	Ref=JOSH_15.17
-13	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.17
-14	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.17
-15	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.17
-16	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.17
-17	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=JOSH_15.17
-18	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.17
-19	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.17
-20	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.17
-21	un	un	X	_	_	0	_	_	Ref=JOSH_15.17
-22	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.17
-23	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No
-24	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17
+# text_en = And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
+1	Ótíniẹ́lì	ótíniẹ́lì	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=null
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=son
+3	Kénásì	Kénásì	PROPN	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No|Gloss=kenaz
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17|Gloss=,
+5	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=brother
+6	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No|Gloss=caleb
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17|Gloss=,
+8	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=and
+9	gbà	gbà	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=deliver
+10	á	á	X	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No|Gloss=it
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17|Gloss=,
+12	báyìí	báyìí	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=thus
+13	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=is
+14	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.17|Gloss=caleb
+15	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=and
+16	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=with
+17	ọmọbìnrin	ọmọbìnrin	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=daughter
+18	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=his
+19	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.17|Gloss=achsah
+20	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=unto
+21	un	un	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=him
+22	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.17|Gloss=in
+23	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=JOSH_15.17|SpaceAfter=No|Gloss=wife
+24	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.17|Gloss=.
 
 # sent_id = JOSH_15.18
 # text = Ní ọjọ́ kan, nígbà tí Ákísà lọ sí ọ̀dọ̀ Ótíniẹ̀lì, ó rọ̀ ọ́ kí ó béèrè ilẹ̀ oko lọ́wọ́ baba rẹ̀. Nígbà nàà ni Ákísà sọ̀kalẹ̀ ní orí kẹ́tẹ́kẹ́tẹ́ rẹ̀, Kélẹ́bù sì béèrè pé, “Kí ni kí èmi ṣe fún ọ?”
-1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.18
-2	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=JOSH_15.18
-3	kan	kan	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18
-5	nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_15.18
-6	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.18
-7	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.18
-8	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.18
-9	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.18
-10	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=JOSH_15.18
-11	Ótíniẹ̀lì	Ótíniẹ̀lì	PROPN	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18
-13	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.18
-14	rọ̀	rọ̀	X	_	_	0	_	_	Ref=JOSH_15.18
-15	ọ́	ọ́	X	_	_	0	_	_	Ref=JOSH_15.18
-16	kí	kí	X	_	_	0	_	_	Ref=JOSH_15.18
-17	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.18
-18	béèrè	béèrè	X	_	_	0	_	_	Ref=JOSH_15.18
-19	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18
-20	oko	oko	X	_	_	0	_	_	Ref=JOSH_15.18
-21	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=JOSH_15.18
-22	baba	baba	X	_	_	0	_	_	Ref=JOSH_15.18
-23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No
+# text_en = And it came to pass, as she came unto him, that she moved him to ask of her father a field: and she lighted off her ass; and Caleb said unto her, What wouldest thou?
+1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=in
+2	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=day
+3	kan	kan	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=a
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|Gloss=,
+5	nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=when
+6	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=that
+7	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.18|Gloss=achsah
+8	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=go
+9	sí	sí	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=to
+10	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=from
+11	Ótíniẹ̀lì	Ótíniẹ̀lì	PROPN	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=null
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|Gloss=,
+13	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=he
+14	rọ̀	rọ̀	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=hang
+15	ọ́	ọ́	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=thee
+16	kí	kí	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=let
+17	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=he
+18	béèrè	béèrè	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=said
+19	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=land
+20	oko	oko	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=field
+21	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=hand
+22	baba	baba	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=father
+23	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=his
 24	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18
-25	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_15.18
-26	nàà	nàà	X	_	_	0	_	_	Ref=JOSH_15.18
-27	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.18
-28	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.18
-29	sọ̀kalẹ̀	sọ̀kalẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18
-30	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.18
-31	orí	orí	X	_	_	0	_	_	Ref=JOSH_15.18
-32	kẹ́tẹ́kẹ́tẹ́	kẹ́tẹ́kẹ́tẹ́	X	_	_	0	_	_	Ref=JOSH_15.18
-33	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No
-34	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18
-35	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.18
-36	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.18
-37	béèrè	béèrè	X	_	_	0	_	_	Ref=JOSH_15.18
-38	pé	pé	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No
-39	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18
-40	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|SpaceAfter=No
-41	Kí	kí	X	_	_	0	_	_	Ref=JOSH_15.18
-42	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.18
-43	kí	kí	X	_	_	0	_	_	Ref=JOSH_15.18
-44	èmi	èmi	X	_	_	0	_	_	Ref=JOSH_15.18
-45	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.18
-46	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.18
-47	ọ	ọ	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No
-48	?	?	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|SpaceAfter=No
-49	”	”	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18
+25	Nígbà	nígbà	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=when
+26	nàà	nàà	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=null
+27	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=is
+28	Ákísà	Ákísà	PROPN	_	_	0	_	_	Ref=JOSH_15.18|Gloss=achsah
+29	sọ̀kalẹ̀	sọ̀kalẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=down
+30	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=in
+31	orí	orí	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=head
+32	kẹ́tẹ́kẹ́tẹ́	kẹ́tẹ́kẹ́tẹ́	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=ass
+33	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=his
+34	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|Gloss=,
+35	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.18|Gloss=caleb
+36	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=and
+37	béèrè	béèrè	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=said
+38	pé	pé	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=saying
+39	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|Gloss=,
+40	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=“
+41	Kí	kí	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=let
+42	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=is
+43	kí	kí	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=let
+44	èmi	èmi	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=i
+45	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=do
+46	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.18|Gloss=unto
+47	ọ	ọ	X	_	_	0	_	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=thee
+48	?	?	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|SpaceAfter=No|Gloss=?
+49	”	”	PUNCT	_	_	0	punct	_	Ref=JOSH_15.18|Gloss=.
 
 # sent_id = JOSH_15.19
 # text = Ó sì dáhùn pé, “Ṣe ojúrere àtàtà fún mi. Níwọ̀n ìgbà tí o ti fún mi ní ilẹ̀ ní Negefi fun mi ní ìsun omi pẹ̀lú.” Báyìí ni Kélẹ́bù fún un ní ìsun omi ti òkè àti ti ìṣàlẹ̀.
-1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.19
-2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.19
-3	dáhùn	dáhùn	X	_	_	0	_	_	Ref=JOSH_15.19
-4	pé	pé	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19
-6	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|SpaceAfter=No
-7	Ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.19
-8	ojúrere	ojúrere	X	_	_	0	_	_	Ref=JOSH_15.19
-9	àtàtà	àtàtà	X	_	_	0	_	_	Ref=JOSH_15.19
-10	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.19
-11	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19
-13	Níwọ̀n	níwọ̀n	X	_	_	0	_	_	Ref=JOSH_15.19
-14	ìgbà	ìgbà	X	_	_	0	_	_	Ref=JOSH_15.19
-15	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.19
-16	o	o	X	_	_	0	_	_	Ref=JOSH_15.19
-17	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.19
-18	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.19
-19	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.19
-20	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19
-21	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.19
-22	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19
-23	Negefi	Negefi	PROPN	_	_	0	_	_	Ref=JOSH_15.19
-24	fun	fun	X	_	_	0	_	_	Ref=JOSH_15.19
-25	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.19
-26	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19
-27	ìsun	ìsun	X	_	_	0	_	_	Ref=JOSH_15.19
-28	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.19
-29	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No
-30	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|SpaceAfter=No
-31	”	”	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19
-32	Báyìí	báyìí	X	_	_	0	_	_	Ref=JOSH_15.19
-33	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.19
-34	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.19
-35	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.19
-36	un	un	X	_	_	0	_	_	Ref=JOSH_15.19
-37	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19
-38	ìsun	ìsun	X	_	_	0	_	_	Ref=JOSH_15.19
-39	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.19
-40	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.19
-41	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.19
-42	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.19
-43	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.19
-44	ìṣàlẹ̀	ìṣàlẹ̀	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No
-45	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19
+# text_en = Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
+1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=and
+3	dáhùn	dáhùn	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=answered
+4	pé	pé	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No|Gloss=saying
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|Gloss=,
+6	“	“	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|SpaceAfter=No|Gloss=“
+7	Ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=do
+8	ojúrere	ojúrere	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=favour
+9	àtàtà	àtàtà	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=suits
+10	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=unto
+11	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No|Gloss=me
+12	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|Gloss=while
+13	Níwọ̀n	níwọ̀n	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=time
+14	ìgbà	ìgbà	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=that
+15	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=thou
+16	o	o	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=have
+17	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=unto
+18	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=my
+19	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=in
+20	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=land
+21	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=in
+22	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=null
+23	Negefi	Negefi	PROPN	_	_	0	_	_	Ref=JOSH_15.19|Gloss=unto
+24	fun	fun	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=my
+25	mi	mi	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=in
+26	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=issue
+27	ìsun	ìsun	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=water
+28	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=with
+29	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No|Gloss=.
+30	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|SpaceAfter=No|Gloss=.
+31	”	”	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|Gloss=thus
+32	Báyìí	báyìí	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=is
+33	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=caleb
+34	Kélẹ́bù	Kélẹ́bù	PROPN	_	_	0	_	_	Ref=JOSH_15.19|Gloss=brake
+35	fún	fún	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=unto
+36	un	un	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=him
+37	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=in
+38	ìsun	ìsun	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=issue
+39	omi	omi	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=water
+40	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=have
+41	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=mount
+42	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=and
+43	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.19|Gloss=have
+44	ìṣàlẹ̀	ìṣàlẹ̀	X	_	_	0	_	_	Ref=JOSH_15.19|SpaceAfter=No|Gloss=beneath
+45	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.19|Gloss=.
 
 # sent_id = JOSH_15.20
 # text = Èyí ni ilẹ̀ ini ẹ̀yà àwọn ọmọ Júdà gẹ́gẹ́ bi ìdílé wọn.
-1	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.20
-2	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.20
-3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.20
-4	ini	ini	X	_	_	0	_	_	Ref=JOSH_15.20
-5	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_15.20
+# text_en = This is the inheritance of the tribe of the children of Judah according to their families.
+1	Èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=this
+2	ni	ni	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=is
+3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=land
+4	ini	ini	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=inheritance
+5	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=tribe
 6	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.20
-7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.20
-8	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.20
-9	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_15.20
-10	bi	bi	X	_	_	0	_	_	Ref=JOSH_15.20
-11	ìdílé	ìdílé	X	_	_	0	_	_	Ref=JOSH_15.20
-12	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.20|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.20
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=son
+8	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=judah
+9	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=according
+10	bi	bi	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=as
+11	ìdílé	ìdílé	X	_	_	0	_	_	Ref=JOSH_15.20|Gloss=house
+12	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.20|SpaceAfter=No|Gloss=them
+13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.20|Gloss=.
 
 # sent_id = JOSH_15.21
 # text = Ìlú ìpẹ̀kun gúsù ti ẹ̀yà Júdà ní Négéfi ní ààlà Édómù niwọ̀nyí: Kabísélì, Édérì, Jágúrì,
-1	Ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.21
-2	ìpẹ̀kun	ìpẹ̀kun	X	_	_	0	_	_	Ref=JOSH_15.21
-3	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.21
-4	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.21
-5	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_15.21
-6	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.21
-7	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.21
-8	Négéfi	Négéfi	PROPN	_	_	0	_	_	Ref=JOSH_15.21
-9	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.21
-10	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.21
-11	Édómù	Édómù	PROPN	_	_	0	_	_	Ref=JOSH_15.21
-12	niwọ̀nyí	niwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No
-13	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21
-14	Kabísélì	Kabísélì	PROPN	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21
-16	Édérì	Édérì	PROPN	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No
-17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21
-18	Jágúrì	Jágúrì	PROPN	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No
-19	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21
+# text_en = And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,
+1	Ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=city
+2	ìpẹ̀kun	ìpẹ̀kun	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=end
+3	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=south
+4	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=have
+5	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=tribe
+6	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=judah
+7	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=in
+8	Négéfi	Négéfi	PROPN	_	_	0	_	_	Ref=JOSH_15.21|Gloss=the
+9	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=in
+10	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_15.21|Gloss=border
+11	Édómù	Édómù	PROPN	_	_	0	_	_	Ref=JOSH_15.21|Gloss=edom
+12	niwọ̀nyí	niwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No|Gloss=null
+13	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21|Gloss=:
+14	Kabísélì	Kabísélì	PROPN	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No|Gloss=kabzeel
+15	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21|Gloss=,
+16	Édérì	Édérì	PROPN	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No|Gloss=eder
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21|Gloss=,
+18	Jágúrì	Jágúrì	PROPN	_	_	0	_	_	Ref=JOSH_15.21|SpaceAfter=No|Gloss=jagur
+19	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.21|Gloss=,
 
 # sent_id = JOSH_15.22
 # text = Kínà, Dímónà, Ádádà,
-1	Kínà	kínà	X	_	_	0	_	_	Ref=JOSH_15.22|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.22
-3	Dímónà	Dímónà	PROPN	_	_	0	_	_	Ref=JOSH_15.22|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.22
-5	Ádádà	Ádádà	PROPN	_	_	0	_	_	Ref=JOSH_15.22|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.22
+# text_en = And Kinah, and Dimonah, and Adadah,
+1	Kínà	kínà	X	_	_	0	_	_	Ref=JOSH_15.22|SpaceAfter=No|Gloss=kinah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.22|Gloss=,
+3	Dímónà	Dímónà	PROPN	_	_	0	_	_	Ref=JOSH_15.22|SpaceAfter=No|Gloss=dimonah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.22|Gloss=,
+5	Ádádà	Ádádà	PROPN	_	_	0	_	_	Ref=JOSH_15.22|SpaceAfter=No|Gloss=adadah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.22|Gloss=,
 
 # sent_id = JOSH_15.23
 # text = Kédéṣì, Hásórì, Ítina,
-1	Kédéṣì	Kédéṣì	PROPN	_	_	0	_	_	Ref=JOSH_15.23|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.23
-3	Hásórì	Hásórì	PROPN	_	_	0	_	_	Ref=JOSH_15.23|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.23
-5	Ítina	Ítina	PROPN	_	_	0	_	_	Ref=JOSH_15.23|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.23
+# text_en = And Kedesh, and Hazor, and Ithnan,
+1	Kédéṣì	Kédéṣì	PROPN	_	_	0	_	_	Ref=JOSH_15.23|SpaceAfter=No|Gloss=kedesh
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.23|Gloss=,
+3	Hásórì	Hásórì	PROPN	_	_	0	_	_	Ref=JOSH_15.23|SpaceAfter=No|Gloss=hazor
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.23|Gloss=,
+5	Ítina	Ítina	PROPN	_	_	0	_	_	Ref=JOSH_15.23|SpaceAfter=No|Gloss=ithnan
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.23|Gloss=,
 
 # sent_id = JOSH_15.24
 # text = Sífì, Télémù, Bíálótì,
-1	Sífì	Sífì	PROPN	_	_	0	_	_	Ref=JOSH_15.24|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.24
-3	Télémù	Télémù	PROPN	_	_	0	_	_	Ref=JOSH_15.24|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.24
-5	Bíálótì	Bíálótì	PROPN	_	_	0	_	_	Ref=JOSH_15.24|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.24
+# text_en = Ziph, and Telem, and Bealoth,
+1	Sífì	Sífì	PROPN	_	_	0	_	_	Ref=JOSH_15.24|SpaceAfter=No|Gloss=ziph
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.24|Gloss=,
+3	Télémù	Télémù	PROPN	_	_	0	_	_	Ref=JOSH_15.24|SpaceAfter=No|Gloss=telem
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.24|Gloss=,
+5	Bíálótì	Bíálótì	PROPN	_	_	0	_	_	Ref=JOSH_15.24|SpaceAfter=No|Gloss=bealoth
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.24|Gloss=,
 
 # sent_id = JOSH_15.25
 # text = Hasori-Hádátà, Kerioti-Hésírónì (tí í ṣe Hásórì),
-1	Hasori	hasori	X	_	_	0	_	_	Ref=JOSH_15.25|SpaceAfter=No
-2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No
-3	Hádátà	Hádátà	PROPN	_	_	0	_	_	Ref=JOSH_15.25|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25
+# text_en = And Hazor, Hadattah, and Kerioth, and Hezron, which is Hazor,
+1	Hasori	hasori	X	_	_	0	_	_	Ref=JOSH_15.25|SpaceAfter=No|Gloss=null
+2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No|Gloss=the
+3	Hádátà	Hádátà	PROPN	_	_	0	_	_	Ref=JOSH_15.25|SpaceAfter=No|Gloss=hadattah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|Gloss=,
 5	Kerioti	Kerioti	PROPN	_	_	0	_	_	Ref=JOSH_15.25|SpaceAfter=No
-6	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No
+6	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No|Gloss=the
 7	Hésírónì	Hésírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.25
-8	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No
-9	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.25
-10	í	í	X	_	_	0	_	_	Ref=JOSH_15.25
-11	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.25
-12	Hásórì	Hásórì	PROPN	_	_	0	_	_	Ref=JOSH_15.25|SpaceAfter=No
-13	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25
+8	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No|Gloss=hundred
+9	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.25|Gloss=that
+10	í	í	X	_	_	0	_	_	Ref=JOSH_15.25|Gloss=was
+11	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.25|Gloss=do
+12	Hásórì	Hásórì	PROPN	_	_	0	_	_	Ref=JOSH_15.25|SpaceAfter=No|Gloss=hazor
+13	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|SpaceAfter=No|Gloss=hundred
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.25|Gloss=,
 
 # sent_id = JOSH_15.26
 # text = Ámámù, Sẹ́mà, Móládà,
-1	Ámámù	ámámù	X	_	_	0	_	_	Ref=JOSH_15.26|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.26
+# text_en = Amam, and Shema, and Moladah,
+1	Ámámù	ámámù	X	_	_	0	_	_	Ref=JOSH_15.26|SpaceAfter=No|Gloss=amam
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.26|Gloss=,
 3	Sẹ́mà	Sẹ́mà	PROPN	_	_	0	_	_	Ref=JOSH_15.26|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.26
-5	Móládà	Móládà	PROPN	_	_	0	_	_	Ref=JOSH_15.26|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.26
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.26|Gloss=,
+5	Móládà	Móládà	PROPN	_	_	0	_	_	Ref=JOSH_15.26|SpaceAfter=No|Gloss=moladah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.26|Gloss=,
 
 # sent_id = JOSH_15.27
 # text = Hasa-Gádà, Hésímónì, Bẹti-Pélétì,
-1	Hasa	hasa	X	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No
-2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27|SpaceAfter=No
-3	Gádà	Gádà	PROPN	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27
-5	Hésímónì	Hésímónì	PROPN	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27
+# text_en = And Hazar-gaddah, and Heshmon, and Beth-palet,
+1	Hasa	hasa	X	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No|Gloss=null
+2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27|SpaceAfter=No|Gloss=the
+3	Gádà	Gádà	PROPN	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No|Gloss=gaddah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27|Gloss=,
+5	Hésímónì	Hésímónì	PROPN	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No|Gloss=heshmon
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27|Gloss=,
 7	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No
-8	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27|SpaceAfter=No
-9	Pélétì	pélétì	X	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27
+8	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27|SpaceAfter=No|Gloss=the
+9	Pélétì	pélétì	X	_	_	0	_	_	Ref=JOSH_15.27|SpaceAfter=No|Gloss=pelethites
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.27|Gloss=,
 
 # sent_id = JOSH_15.28
 # text = Hasari-Ṣúálì, Bíáṣébà, Bísíótíyà,
-1	Hasari	Hasari	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No
-2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28|SpaceAfter=No
-3	Ṣúálì	Ṣúálì	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28
-5	Bíáṣébà	Bíáṣébà	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28
-7	Bísíótíyà	Bísíótíyà	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28
+# text_en = And Hazar-shual, and Beer-sheba, and Bizjothjah,
+1	Hasari	Hasari	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No|Gloss=hazar
+2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28|SpaceAfter=No|Gloss=the
+3	Ṣúálì	Ṣúálì	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No|Gloss=shual
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28|Gloss=,
+5	Bíáṣébà	Bíáṣébà	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No|Gloss=beer
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28|Gloss=,
+7	Bísíótíyà	Bísíótíyà	PROPN	_	_	0	_	_	Ref=JOSH_15.28|SpaceAfter=No|Gloss=bizjothjah
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.28|Gloss=,
 
 # sent_id = JOSH_15.29
 # text = Báálà, Hímù, Ésémù,
-1	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.29|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.29
-3	Hímù	Hímù	PROPN	_	_	0	_	_	Ref=JOSH_15.29|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.29
-5	Ésémù	Ésémù	PROPN	_	_	0	_	_	Ref=JOSH_15.29|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.29
+# text_en = Baalah, and Iim, and Azem,
+1	Báálà	Báálà	PROPN	_	_	0	_	_	Ref=JOSH_15.29|SpaceAfter=No|Gloss=baalah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.29|Gloss=,
+3	Hímù	Hímù	PROPN	_	_	0	_	_	Ref=JOSH_15.29|SpaceAfter=No|Gloss=iim
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.29|Gloss=,
+5	Ésémù	Ésémù	PROPN	_	_	0	_	_	Ref=JOSH_15.29|SpaceAfter=No|Gloss=azem
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.29|Gloss=,
 
 # sent_id = JOSH_15.30
 # text = Elitóládì, a Késílì, Hórímà,
-1	Elitóládì	elitóládì	X	_	_	0	_	_	Ref=JOSH_15.30|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.30
-3	a	a	X	_	_	0	_	_	Ref=JOSH_15.30
-4	Késílì	Késílì	PROPN	_	_	0	_	_	Ref=JOSH_15.30|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.30
-6	Hórímà	Hórímà	PROPN	_	_	0	_	_	Ref=JOSH_15.30|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.30
+# text_en = And Eltolad, and Chesil, and Hormah,
+1	Elitóládì	elitóládì	X	_	_	0	_	_	Ref=JOSH_15.30|SpaceAfter=No|Gloss=eltolad
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.30|Gloss=,
+3	a	a	X	_	_	0	_	_	Ref=JOSH_15.30|Gloss=be
+4	Késílì	Késílì	PROPN	_	_	0	_	_	Ref=JOSH_15.30|SpaceAfter=No|Gloss=chesil
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.30|Gloss=,
+6	Hórímà	Hórímà	PROPN	_	_	0	_	_	Ref=JOSH_15.30|SpaceAfter=No|Gloss=hormah
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.30|Gloss=,
 
 # sent_id = JOSH_15.31
 # text = Síkílágì, Mádímánà, Sánsánà,
-1	Síkílágì	síkílágì	X	_	_	0	_	_	Ref=JOSH_15.31|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.31
-3	Mádímánà	Mádímánà	PROPN	_	_	0	_	_	Ref=JOSH_15.31|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.31
-5	Sánsánà	Sánsánà	PROPN	_	_	0	_	_	Ref=JOSH_15.31|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.31
+# text_en = And Ziklag, and Madmannah, and Sansannah,
+1	Síkílágì	síkílágì	X	_	_	0	_	_	Ref=JOSH_15.31|SpaceAfter=No|Gloss=ziklag
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.31|Gloss=,
+3	Mádímánà	Mádímánà	PROPN	_	_	0	_	_	Ref=JOSH_15.31|SpaceAfter=No|Gloss=madmannah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.31|Gloss=,
+5	Sánsánà	Sánsánà	PROPN	_	_	0	_	_	Ref=JOSH_15.31|SpaceAfter=No|Gloss=sansannah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.31|Gloss=,
 
 # sent_id = JOSH_15.32
 # text = Lébáótì, Sílímù, Háínì àti Rímónì, àpapọ̀ ìlú mọ́kàndín ní ọgbọ̀n àti àwọn ìlétò wọn.
-1	Lébáótì	lébáótì	X	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32
-3	Sílímù	Sílímù	PROPN	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32
-5	Háínì	Háínì	PROPN	_	_	0	_	_	Ref=JOSH_15.32
-6	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.32
-7	Rímónì	rímónì	X	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32
+# text_en = And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages:
+1	Lébáótì	lébáótì	X	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No|Gloss=lebaoth
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32|Gloss=,
+3	Sílímù	Sílímù	PROPN	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No|Gloss=shilhim
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32|Gloss=,
+5	Háínì	Háínì	PROPN	_	_	0	_	_	Ref=JOSH_15.32|Gloss=ain
+6	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=and
+7	Rímónì	rímónì	X	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No|Gloss=rimmon
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32|Gloss=,
 9	àpapọ̀	àpapọ̀	X	_	_	0	_	_	Ref=JOSH_15.32
-10	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.32
-11	mọ́kàndín	mọ́kàndín	X	_	_	0	_	_	Ref=JOSH_15.32
-12	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.32
-13	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=JOSH_15.32
-14	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.32
-15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.32
-16	ìlétò	ìlétò	X	_	_	0	_	_	Ref=JOSH_15.32
-17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32
+10	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=city
+11	mọ́kàndín	mọ́kàndín	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=null
+12	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=in
+13	ọgbọ̀n	ọgbọ̀n	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=thirty
+14	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=and
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=the
+16	ìlétò	ìlétò	X	_	_	0	_	_	Ref=JOSH_15.32|Gloss=villages
+17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.32|SpaceAfter=No|Gloss=them
+18	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.32|Gloss=.
 
 # sent_id = JOSH_15.33
 # text = Ní ìhà ìwọ̀-oòrùn ẹsẹ̀ òkè: Ésítaólì, Sórà, Áṣínà,
-1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.33
-2	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.33
-3	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No
-4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33|SpaceAfter=No
-5	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.33
-6	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=JOSH_15.33
-7	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No
-8	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33
-9	Ésítaólì	Ésítaólì	PROPN	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33
-11	Sórà	Sórà	PROPN	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33
-13	Áṣínà	Áṣínà	PROPN	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33
+# text_en = And in the valley, Eshtaol, and Zoreah, and Ashnah,
+1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.33|Gloss=in
+2	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_15.33|Gloss=side
+3	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No|Gloss=west
+4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33|SpaceAfter=No|Gloss=the
+5	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.33|Gloss=sun
+6	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=JOSH_15.33|Gloss=feet
+7	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No|Gloss=mount
+8	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33|Gloss=:
+9	Ésítaólì	Ésítaólì	PROPN	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No|Gloss=eshtaol
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33|Gloss=,
+11	Sórà	Sórà	PROPN	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No|Gloss=zorah
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33|Gloss=,
+13	Áṣínà	Áṣínà	PROPN	_	_	0	_	_	Ref=JOSH_15.33|SpaceAfter=No|Gloss=ashnah
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.33|Gloss=,
 
 # sent_id = JOSH_15.34
 # text = Sánóà, Eni-Gánímù, Tápúà, Énámù,
-1	Sánóà	Sánóà	PROPN	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34
+# text_en = And Zanoah, and En-gannim, Tappuah, and Enam,
+1	Sánóà	Sánóà	PROPN	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No|Gloss=zanoah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34|Gloss=,
 3	Eni	eni	X	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No
 4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34|SpaceAfter=No
 5	Gánímù	Gánímù	PROPN	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34
-7	Tápúà	Tápúà	PROPN	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34
-9	Énámù	Énámù	PROPN	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34|Gloss=,
+7	Tápúà	Tápúà	PROPN	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No|Gloss=tappuah
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34|Gloss=,
+9	Énámù	Énámù	PROPN	_	_	0	_	_	Ref=JOSH_15.34|SpaceAfter=No|Gloss=enam
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.34|Gloss=,
 
 # sent_id = JOSH_15.35
 # text = Jámútì, Ádúlámù, Sókò, Ásekà,
-1	Jámútì	jámútì	X	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35
-3	Ádúlámù	Ádúlámù	PROPN	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35
-5	Sókò	sókò	X	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35
-7	Ásekà	Ásekà	PROPN	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35
+# text_en = Jarmuth, and Adullam, Socoh, and Azekah,
+1	Jámútì	jámútì	X	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No|Gloss=jarmuth
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35|Gloss=,
+3	Ádúlámù	Ádúlámù	PROPN	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No|Gloss=adullam
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35|Gloss=,
+5	Sókò	sókò	X	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No|Gloss=socoh
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35|Gloss=,
+7	Ásekà	Ásekà	PROPN	_	_	0	_	_	Ref=JOSH_15.35|SpaceAfter=No|Gloss=azekah
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.35|Gloss=,
 
 # sent_id = JOSH_15.36
 # text = Ṣááráímù, Ádítaímù àti Gédérà (tàbí Gérérótíámù), ìlú mẹ́rìnlá àti àwọn ìletò wọn.
-1	Ṣááráímù	ṣááráímù	X	_	_	0	_	_	Ref=JOSH_15.36|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36
-3	Ádítaímù	Ádítaímù	PROPN	_	_	0	_	_	Ref=JOSH_15.36
-4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.36
-5	Gédérà	Gédérà	PROPN	_	_	0	_	_	Ref=JOSH_15.36
-6	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36|SpaceAfter=No
+# text_en = And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:
+1	Ṣááráímù	ṣááráímù	X	_	_	0	_	_	Ref=JOSH_15.36|SpaceAfter=No|Gloss=null
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36|Gloss=,
+3	Ádítaímù	Ádítaímù	PROPN	_	_	0	_	_	Ref=JOSH_15.36|Gloss=sharaim
+4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.36|Gloss=and
+5	Gédérà	Gédérà	PROPN	_	_	0	_	_	Ref=JOSH_15.36|Gloss=adithaim
+6	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36|SpaceAfter=No|Gloss=hundred
 7	tàbí	tàbí	X	_	_	0	_	_	Ref=JOSH_15.36
-8	Gérérótíámù	Gérérótíámù	PROPN	_	_	0	_	_	Ref=JOSH_15.36|SpaceAfter=No
-9	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36
-11	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.36
-12	mẹ́rìnlá	mẹ́rìnlá	X	_	_	0	_	_	Ref=JOSH_15.36
-13	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.36
-14	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.36
-15	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.36
-16	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.36|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36
+8	Gérérótíámù	Gérérótíámù	PROPN	_	_	0	_	_	Ref=JOSH_15.36|SpaceAfter=No|Gloss=gederah
+9	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36|SpaceAfter=No|Gloss=hundred
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36|Gloss=,
+11	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.36|Gloss=city
+12	mẹ́rìnlá	mẹ́rìnlá	X	_	_	0	_	_	Ref=JOSH_15.36|Gloss=fourteen
+13	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.36|Gloss=and
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.36|Gloss=the
+15	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.36|Gloss=villages
+16	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.36|SpaceAfter=No|Gloss=them
+17	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.36|Gloss=.
 
 # sent_id = JOSH_15.37
 # text = Sénánì, Hádáṣà, Mígídánì-Gádì,
-1	Sénánì	sénánì	X	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37
-3	Hádáṣà	Hádáṣà	PROPN	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37
-5	Mígídánì	Mígídánì	PROPN	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No
-6	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37|SpaceAfter=No
-7	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37
+# text_en = Zenan, and Hadashah, and Migdal-gad,
+1	Sénánì	sénánì	X	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No|Gloss=zenan
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37|Gloss=,
+3	Hádáṣà	Hádáṣà	PROPN	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No|Gloss=hadashah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37|Gloss=,
+5	Mígídánì	Mígídánì	PROPN	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No|Gloss=migdal
+6	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37|SpaceAfter=No|Gloss=the
+7	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_15.37|SpaceAfter=No|Gloss=gad
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.37|Gloss=,
 
 # sent_id = JOSH_15.38
 # text = Díléánì, Mísípà, Jókítẹ́lì,
-1	Díléánì	díléánì	X	_	_	0	_	_	Ref=JOSH_15.38|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.38
-3	Mísípà	Mísípà	PROPN	_	_	0	_	_	Ref=JOSH_15.38|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.38
-5	Jókítẹ́lì	Jókítẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_15.38|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.38
+# text_en = And Dilean, and Mizpeh, and Joktheel,
+1	Díléánì	díléánì	X	_	_	0	_	_	Ref=JOSH_15.38|SpaceAfter=No|Gloss=dilean
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.38|Gloss=,
+3	Mísípà	Mísípà	PROPN	_	_	0	_	_	Ref=JOSH_15.38|SpaceAfter=No|Gloss=mizpah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.38|Gloss=,
+5	Jókítẹ́lì	Jókítẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_15.38|SpaceAfter=No|Gloss=joktheel
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.38|Gloss=,
 
 # sent_id = JOSH_15.39
 # text = Lákísì, Bósíkátì, Égílónì,
-1	Lákísì	Lákísì	PROPN	_	_	0	_	_	Ref=JOSH_15.39|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.39
-3	Bósíkátì	Bósíkátì	PROPN	_	_	0	_	_	Ref=JOSH_15.39|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.39
-5	Égílónì	Égílónì	PROPN	_	_	0	_	_	Ref=JOSH_15.39|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.39
+# text_en = Lachish, and Bozkath, and Eglon,
+1	Lákísì	Lákísì	PROPN	_	_	0	_	_	Ref=JOSH_15.39|SpaceAfter=No|Gloss=lachish
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.39|Gloss=,
+3	Bósíkátì	Bósíkátì	PROPN	_	_	0	_	_	Ref=JOSH_15.39|SpaceAfter=No|Gloss=bozkath
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.39|Gloss=,
+5	Égílónì	Égílónì	PROPN	_	_	0	_	_	Ref=JOSH_15.39|SpaceAfter=No|Gloss=eglon
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.39|Gloss=,
 
 # sent_id = JOSH_15.40
 # text = Kábónì, Lámásì, Kítílísì,
-1	Kábónì	kábónì	X	_	_	0	_	_	Ref=JOSH_15.40|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.40
-3	Lámásì	Lámásì	PROPN	_	_	0	_	_	Ref=JOSH_15.40|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.40
-5	Kítílísì	Kítílísì	PROPN	_	_	0	_	_	Ref=JOSH_15.40|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.40
+# text_en = And Cabbon, and Lahmam, and Kithlish,
+1	Kábónì	kábónì	X	_	_	0	_	_	Ref=JOSH_15.40|SpaceAfter=No|Gloss=cabbon
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.40|Gloss=,
+3	Lámásì	Lámásì	PROPN	_	_	0	_	_	Ref=JOSH_15.40|SpaceAfter=No|Gloss=lahmam
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.40|Gloss=,
+5	Kítílísì	Kítílísì	PROPN	_	_	0	_	_	Ref=JOSH_15.40|SpaceAfter=No|Gloss=kithlish
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.40|Gloss=,
 
 # sent_id = JOSH_15.41
 # text = Gédérótì, Bẹti-Dágónì, Náámà àti Mákédà, ìlú mẹ́rìndín ní ogún àti ìletò wọn.
-1	Gédérótì	Gédérótì	PROPN	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41
+# text_en = And Gederoth, Beth-dagon, and Naamah, and Makkedah; sixteen cities with their villages:
+1	Gédérótì	Gédérótì	PROPN	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No|Gloss=gederoth
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41|Gloss=,
 3	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No
 4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41|SpaceAfter=No
 5	Dágónì	Dágónì	PROPN	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41
-7	Náámà	Náámà	PROPN	_	_	0	_	_	Ref=JOSH_15.41
-8	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.41
-9	Mákédà	Mákédà	PROPN	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41
-11	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.41
-12	mẹ́rìndín	mẹ́rìndín	X	_	_	0	_	_	Ref=JOSH_15.41
-13	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.41
-14	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_15.41
-15	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.41
-16	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.41
-17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41|Gloss=,
+7	Náámà	Náámà	PROPN	_	_	0	_	_	Ref=JOSH_15.41|Gloss=naamah
+8	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.41|Gloss=and
+9	Mákédà	Mákédà	PROPN	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No|Gloss=makkedah
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41|Gloss=,
+11	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.41|Gloss=city
+12	mẹ́rìndín	mẹ́rìndín	X	_	_	0	_	_	Ref=JOSH_15.41|Gloss=null
+13	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.41|Gloss=in
+14	ogún	ogún	X	_	_	0	_	_	Ref=JOSH_15.41|Gloss=inheritance
+15	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.41|Gloss=and
+16	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.41|Gloss=villages
+17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.41|SpaceAfter=No|Gloss=them
+18	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.41|Gloss=.
 
 # sent_id = JOSH_15.42
 # text = Líbínà, Étíérì, Áṣánì,
-1	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=JOSH_15.42|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.42
-3	Étíérì	Étíérì	PROPN	_	_	0	_	_	Ref=JOSH_15.42|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.42
-5	Áṣánì	Áṣánì	PROPN	_	_	0	_	_	Ref=JOSH_15.42|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.42
+# text_en = Libnah, and Ether, and Ashan,
+1	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=JOSH_15.42|SpaceAfter=No|Gloss=libnah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.42|Gloss=,
+3	Étíérì	Étíérì	PROPN	_	_	0	_	_	Ref=JOSH_15.42|SpaceAfter=No|Gloss=ether
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.42|Gloss=,
+5	Áṣánì	Áṣánì	PROPN	_	_	0	_	_	Ref=JOSH_15.42|SpaceAfter=No|Gloss=ashan
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.42|Gloss=,
 
 # sent_id = JOSH_15.43
 # text = Hífítà, Ásínà, Nésíbù,
-1	Hífítà	hífítà	X	_	_	0	_	_	Ref=JOSH_15.43|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.43
-3	Ásínà	Ásínà	PROPN	_	_	0	_	_	Ref=JOSH_15.43|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.43
-5	Nésíbù	Nésíbù	PROPN	_	_	0	_	_	Ref=JOSH_15.43|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.43
+# text_en = And Jiphtah, and Ashnah, and Nezib,
+1	Hífítà	hífítà	X	_	_	0	_	_	Ref=JOSH_15.43|SpaceAfter=No|Gloss=jiphtah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.43|Gloss=,
+3	Ásínà	Ásínà	PROPN	_	_	0	_	_	Ref=JOSH_15.43|SpaceAfter=No|Gloss=ashnah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.43|Gloss=,
+5	Nésíbù	Nésíbù	PROPN	_	_	0	_	_	Ref=JOSH_15.43|SpaceAfter=No|Gloss=nezib
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.43|Gloss=,
 
 # sent_id = JOSH_15.44
 # text = Kéílà, Ákísíbì àti Máréṣà, ìlú mẹ́sàn àti àwọn ìletò wọn. (9)
-1	Kéílà	kéílà	X	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44
-3	Ákísíbì	Ákísíbì	PROPN	_	_	0	_	_	Ref=JOSH_15.44
-4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.44
-5	Máréṣà	Máréṣà	PROPN	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44
-7	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.44
-8	mẹ́sàn	mẹ́sàn	X	_	_	0	_	_	Ref=JOSH_15.44
-9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.44
-10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.44
-11	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.44
-12	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44
-14	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44|SpaceAfter=No
-15	9	9	X	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No
-16	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44
+# text_en = And Keilah, and Achzib, and Mareshah; nine cities with their villages:
+1	Kéílà	kéílà	X	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No|Gloss=keilah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44|Gloss=,
+3	Ákísíbì	Ákísíbì	PROPN	_	_	0	_	_	Ref=JOSH_15.44|Gloss=achzib
+4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.44|Gloss=and
+5	Máréṣà	Máréṣà	PROPN	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No|Gloss=mareshah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44|Gloss=,
+7	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.44|Gloss=city
+8	mẹ́sàn	mẹ́sàn	X	_	_	0	_	_	Ref=JOSH_15.44|Gloss=nine
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.44|Gloss=and
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.44|Gloss=the
+11	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.44|Gloss=villages
+12	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No|Gloss=them
+13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44|Gloss=.
+14	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44|SpaceAfter=No|Gloss=hundred
+15	9	9	X	_	_	0	_	_	Ref=JOSH_15.44|SpaceAfter=No|Gloss=null
+16	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.44|Gloss=hundred
 
 # sent_id = JOSH_15.45
 # text = Ékírónì, pẹ̀lú ibùgbé àti àwọn ìletò rẹ̀ tó yí i ká,
-1	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.45|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.45
-3	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.45
-4	ibùgbé	ibùgbé	X	_	_	0	_	_	Ref=JOSH_15.45
-5	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.45
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.45
-7	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.45
-8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.45
-9	tó	tó	X	_	_	0	_	_	Ref=JOSH_15.45
-10	yí	yí	X	_	_	0	_	_	Ref=JOSH_15.45
-11	i	i	X	_	_	0	_	_	Ref=JOSH_15.45
-12	ká	ká	X	_	_	0	_	_	Ref=JOSH_15.45|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.45
+# text_en = Ekron, with her towns and her villages:
+1	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.45|SpaceAfter=No|Gloss=ekron
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.45|Gloss=,
+3	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=with
+4	ibùgbé	ibùgbé	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=dwelling
+5	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=and
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=the
+7	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=villages
+8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=his
+9	tó	tó	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=that
+10	yí	yí	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=round
+11	i	i	X	_	_	0	_	_	Ref=JOSH_15.45|Gloss=him
+12	ká	ká	X	_	_	0	_	_	Ref=JOSH_15.45|SpaceAfter=No|Gloss=about
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.45|Gloss=,
 
 # sent_id = JOSH_15.46
 # text = ìwọ̀-oòrùn Ékírónì, gbogbo èyí tí ń bẹ nítòòsí Áṣídódù, pẹ̀lú àwọn ìletò wọn,
-1	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No
-2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46|SpaceAfter=No
-3	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.46
-4	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46
-6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_15.46
-7	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.46
-8	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.46
-9	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.46
-10	bẹ	bẹ	X	_	_	0	_	_	Ref=JOSH_15.46
-11	nítòòsí	nítòòsí	X	_	_	0	_	_	Ref=JOSH_15.46
-12	Áṣídódù	Áṣídódù	PROPN	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46
-14	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.46
-15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.46
-16	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.46
-17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46
+# text_en = From Ekron even unto the sea, all that lay near Ashdod, with their villages:
+1	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No|Gloss=west
+2	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46|SpaceAfter=No|Gloss=the
+3	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=sun
+4	Ékírónì	Ékírónì	PROPN	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No|Gloss=ekron
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46|Gloss=,
+6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=all
+7	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=this
+8	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=that
+9	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=that
+10	bẹ	bẹ	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=is
+11	nítòòsí	nítòòsí	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=slain
+12	Áṣídódù	Áṣídódù	PROPN	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No|Gloss=ashdod
+13	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46|Gloss=,
+14	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=with
+15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=the
+16	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.46|Gloss=villages
+17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.46|SpaceAfter=No|Gloss=them
+18	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.46|Gloss=,
 
 # sent_id = JOSH_15.47
 # text = Áṣídódù, agbégbé ìlú rẹ̀ àti ìletò; àti Gásà, ìlú rẹ̀ àti ìletò, títí ó fi dé Wádì ti Éjíbítì àti agbégbé òkun ńlá (òkun Mẹditareníà).
-1	Áṣídódù	Áṣídódù	PROPN	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47
-3	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.47
-4	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.47
-5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.47
-6	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47
-7	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No
-8	;	;	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47
-9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47
-10	Gásà	Gásà	PROPN	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47
-12	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.47
-13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.47
-14	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47
-15	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47
-17	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.47
-18	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.47
-19	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.47
-20	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.47
-21	Wádì	Wádì	PROPN	_	_	0	_	_	Ref=JOSH_15.47
-22	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.47
-23	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=JOSH_15.47
-24	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47
-25	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.47
-26	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.47
-27	ńlá	ńlá	X	_	_	0	_	_	Ref=JOSH_15.47
-28	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|SpaceAfter=No
-29	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.47
-30	Mẹditareníà	Mẹditareníà	PROPN	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No
-31	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|SpaceAfter=No
-32	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47
+# text_en = Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border thereof:
+1	Áṣídódù	Áṣídódù	PROPN	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No|Gloss=ashdod
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|Gloss=,
+3	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=side
+4	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=city
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=his
+6	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=and
+7	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No|Gloss=villages
+8	;	;	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|Gloss=;
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=and
+10	Gásà	Gásà	PROPN	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No|Gloss=gaza
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|Gloss=,
+12	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=city
+13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=his
+14	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=and
+15	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No|Gloss=villages
+16	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|Gloss=,
+17	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=until
+18	ó	ó	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=he
+19	fi	fi	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=with
+20	dé	dé	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=come
+21	Wádì	Wádì	PROPN	_	_	0	_	_	Ref=JOSH_15.47|Gloss=river
+22	ti	ti	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=have
+23	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=JOSH_15.47|Gloss=egypt
+24	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=and
+25	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=side
+26	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=sea
+27	ńlá	ńlá	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=great
+28	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|SpaceAfter=No|Gloss=hundred
+29	òkun	òkun	X	_	_	0	_	_	Ref=JOSH_15.47|Gloss=sea
+30	Mẹditareníà	Mẹditareníà	PROPN	_	_	0	_	_	Ref=JOSH_15.47|SpaceAfter=No|Gloss=null
+31	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|SpaceAfter=No|Gloss=hundred
+32	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.47|Gloss=.
 
 # sent_id = JOSH_15.48
 # text = Ní ilẹ̀ òkè náà: Ṣámírì, Játírì, Sókò,
-1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.48
-2	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.48
-3	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.48
-4	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No
-5	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48
-6	Ṣámírì	Ṣámírì	PROPN	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48
-8	Játírì	Játírì	PROPN	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48
-10	Sókò	sókò	X	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48
+# text_en = And in the mountains, Shamir, and Jattir, and Socoh,
+1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.48|Gloss=in
+2	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_15.48|Gloss=land
+3	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_15.48|Gloss=mount
+4	náà	náà	X	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No|Gloss=the
+5	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48|Gloss=:
+6	Ṣámírì	Ṣámírì	PROPN	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No|Gloss=shamir
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48|Gloss=,
+8	Játírì	Játírì	PROPN	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No|Gloss=jattir
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48|Gloss=,
+10	Sókò	sókò	X	_	_	0	_	_	Ref=JOSH_15.48|SpaceAfter=No|Gloss=socoh
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.48|Gloss=,
 
 # sent_id = JOSH_15.49
 # text = Dánà, Kíríátì-Sánà (tí í se Débírì),
-1	Dánà	dánà	X	_	_	0	_	_	Ref=JOSH_15.49|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49
+# text_en = And Dannah, and Kirjath-sannah, which is Debir,
+1	Dánà	dánà	X	_	_	0	_	_	Ref=JOSH_15.49|SpaceAfter=No|Gloss=dannah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49|Gloss=,
 3	Kíríátì	Kíríátì	PROPN	_	_	0	_	_	Ref=JOSH_15.49|SpaceAfter=No
 4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49|SpaceAfter=No
-5	Sánà	Sánà	PROPN	_	_	0	_	_	Ref=JOSH_15.49
-6	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49|SpaceAfter=No
-7	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.49
-8	í	í	X	_	_	0	_	_	Ref=JOSH_15.49
-9	se	se	X	_	_	0	_	_	Ref=JOSH_15.49
-10	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_15.49|SpaceAfter=No
-11	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49
+5	Sánà	Sánà	PROPN	_	_	0	_	_	Ref=JOSH_15.49|Gloss=null
+6	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49|SpaceAfter=No|Gloss=hundred
+7	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.49|Gloss=that
+8	í	í	X	_	_	0	_	_	Ref=JOSH_15.49|Gloss=was
+9	se	se	X	_	_	0	_	_	Ref=JOSH_15.49|Gloss=do
+10	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_15.49|SpaceAfter=No|Gloss=debir
+11	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49|SpaceAfter=No|Gloss=hundred
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.49|Gloss=,
 
 # sent_id = JOSH_15.50
 # text = Ánábù, Ésítémò, Ánímù,
-1	Ánábù	Ánábù	PROPN	_	_	0	_	_	Ref=JOSH_15.50|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.50
-3	Ésítémò	Ésítémò	PROPN	_	_	0	_	_	Ref=JOSH_15.50|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.50
-5	Ánímù	Ánímù	PROPN	_	_	0	_	_	Ref=JOSH_15.50|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.50
+# text_en = And Anab, and Eshtemoh, and Anim,
+1	Ánábù	Ánábù	PROPN	_	_	0	_	_	Ref=JOSH_15.50|SpaceAfter=No|Gloss=anab
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.50|Gloss=,
+3	Ésítémò	Ésítémò	PROPN	_	_	0	_	_	Ref=JOSH_15.50|SpaceAfter=No|Gloss=eshtemoh
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.50|Gloss=,
+5	Ánímù	Ánímù	PROPN	_	_	0	_	_	Ref=JOSH_15.50|SpaceAfter=No|Gloss=anim
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.50|Gloss=,
 
 # sent_id = JOSH_15.51
 # text = Gósénì, Hólónì àti Gílónì, ìlú mọ́kànlá àti ìletò wọn.
-1	Gósénì	Gósénì	PROPN	_	_	0	_	_	Ref=JOSH_15.51|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.51
-3	Hólónì	Hólónì	PROPN	_	_	0	_	_	Ref=JOSH_15.51
-4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.51
-5	Gílónì	Gílónì	PROPN	_	_	0	_	_	Ref=JOSH_15.51|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.51
-7	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.51
-8	mọ́kànlá	mọ́kànlá	X	_	_	0	_	_	Ref=JOSH_15.51
-9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.51
-10	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.51
-11	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.51|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.51
+# text_en = And Goshen, and Holon, and Giloh; eleven cities with their villages:
+1	Gósénì	Gósénì	PROPN	_	_	0	_	_	Ref=JOSH_15.51|SpaceAfter=No|Gloss=goshen
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.51|Gloss=,
+3	Hólónì	Hólónì	PROPN	_	_	0	_	_	Ref=JOSH_15.51|Gloss=holon
+4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.51|Gloss=and
+5	Gílónì	Gílónì	PROPN	_	_	0	_	_	Ref=JOSH_15.51|SpaceAfter=No|Gloss=giloh
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.51|Gloss=,
+7	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.51|Gloss=city
+8	mọ́kànlá	mọ́kànlá	X	_	_	0	_	_	Ref=JOSH_15.51|Gloss=eleven
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.51|Gloss=and
+10	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.51|Gloss=villages
+11	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.51|SpaceAfter=No|Gloss=them
+12	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.51|Gloss=.
 
 # sent_id = JOSH_15.52
 # text = Árabù, Dúmà, ṣ Éṣánì,
-1	Árabù	árabù	X	_	_	0	_	_	Ref=JOSH_15.52|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.52
-3	Dúmà	Dúmà	PROPN	_	_	0	_	_	Ref=JOSH_15.52|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.52
-5	ṣ	ṣ	X	_	_	0	_	_	Ref=JOSH_15.52
-6	Éṣánì	Éṣánì	PROPN	_	_	0	_	_	Ref=JOSH_15.52|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.52
+# text_en = Arab, and Dumah, and Eshean,
+1	Árabù	árabù	X	_	_	0	_	_	Ref=JOSH_15.52|SpaceAfter=No|Gloss=arab
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.52|Gloss=,
+3	Dúmà	Dúmà	PROPN	_	_	0	_	_	Ref=JOSH_15.52|SpaceAfter=No|Gloss=dumah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.52|Gloss=,
+5	ṣ	ṣ	X	_	_	0	_	_	Ref=JOSH_15.52|Gloss=null
+6	Éṣánì	Éṣánì	PROPN	_	_	0	_	_	Ref=JOSH_15.52|SpaceAfter=No|Gloss=eshean
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.52|Gloss=,
 
 # sent_id = JOSH_15.53
 # text = Jánímù, Bẹti-Tápúà, Áfékà,
-1	Jánímù	jánímù	X	_	_	0	_	_	Ref=JOSH_15.53|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.53
+# text_en = And Janum, and Beth-tappuah, and Aphekah,
+1	Jánímù	jánímù	X	_	_	0	_	_	Ref=JOSH_15.53|SpaceAfter=No|Gloss=janum
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.53|Gloss=,
 3	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.53|SpaceAfter=No
 4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.53|SpaceAfter=No
-5	Tápúà	Tápúà	PROPN	_	_	0	_	_	Ref=JOSH_15.53|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.53
-7	Áfékà	Áfékà	PROPN	_	_	0	_	_	Ref=JOSH_15.53|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.53
+5	Tápúà	Tápúà	PROPN	_	_	0	_	_	Ref=JOSH_15.53|SpaceAfter=No|Gloss=tappuah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.53|Gloss=,
+7	Áfékà	Áfékà	PROPN	_	_	0	_	_	Ref=JOSH_15.53|SpaceAfter=No|Gloss=aphekah
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.53|Gloss=,
 
 # sent_id = JOSH_15.54
 # text = Húmútà, Kíríátì Áríbà (tí í se, Hébúrónì) àti Síori: ìlú mẹ́sàn án àti àwọn ìletò rẹ̀
-1	Húmútà	húmútà	X	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54
-3	Kíríátì	Kíríátì	PROPN	_	_	0	_	_	Ref=JOSH_15.54
-4	Áríbà	Áríbà	PROPN	_	_	0	_	_	Ref=JOSH_15.54
-5	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54|SpaceAfter=No
-6	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.54
-7	í	í	X	_	_	0	_	_	Ref=JOSH_15.54
-8	se	se	X	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54
-10	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No
-11	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54
-12	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.54
-13	Síori	Síori	PROPN	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No
-14	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54
-15	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.54
-16	mẹ́sàn	mẹ́sàn	X	_	_	0	_	_	Ref=JOSH_15.54
-17	án	án	X	_	_	0	_	_	Ref=JOSH_15.54
-18	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.54
-19	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.54
-20	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.54
-21	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.54
+# text_en = And Humtah, and Kirjath-arba, which is Hebron, and Zior; nine cities with their villages:
+1	Húmútà	húmútà	X	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No|Gloss=humtah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54|Gloss=,
+3	Kíríátì	Kíríátì	PROPN	_	_	0	_	_	Ref=JOSH_15.54|Gloss=kirjath
+4	Áríbà	Áríbà	PROPN	_	_	0	_	_	Ref=JOSH_15.54|Gloss=arba
+5	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54|SpaceAfter=No|Gloss=hundred
+6	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=that
+7	í	í	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=was
+8	se	se	X	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No|Gloss=do
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54|Gloss=,
+10	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No|Gloss=hebron
+11	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54|Gloss=hundred
+12	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=and
+13	Síori	Síori	PROPN	_	_	0	_	_	Ref=JOSH_15.54|SpaceAfter=No|Gloss=zior
+14	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.54|Gloss=:
+15	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=city
+16	mẹ́sàn	mẹ́sàn	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=nine
+17	án	án	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=him
+18	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=and
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=the
+20	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=villages
+21	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOSH_15.54|Gloss=his
 
 # sent_id = JOSH_15.55
 # text = Máónì, Kámẹ́lì, Sífì, Jútà,
-1	Máónì	Máónì	PROPN	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55
-3	Kámẹ́lì	kámẹ́lì	X	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55
-5	Sífì	Sífì	PROPN	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55
-7	Jútà	Jútà	PROPN	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55
+# text_en = Maon, Carmel, and Ziph, and Juttah,
+1	Máónì	Máónì	PROPN	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No|Gloss=maon
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55|Gloss=,
+3	Kámẹ́lì	kámẹ́lì	X	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No|Gloss=carmel
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55|Gloss=,
+5	Sífì	Sífì	PROPN	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No|Gloss=ziph
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55|Gloss=,
+7	Jútà	Jútà	PROPN	_	_	0	_	_	Ref=JOSH_15.55|SpaceAfter=No|Gloss=juttah
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.55|Gloss=,
 
 # sent_id = JOSH_15.56
 # text = Jésérẹ́lì, Jókídíámù, Sánóà,
-1	Jésérẹ́lì	Jésérẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_15.56|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.56
-3	Jókídíámù	Jókídíámù	PROPN	_	_	0	_	_	Ref=JOSH_15.56|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.56
-5	Sánóà	Sánóà	PROPN	_	_	0	_	_	Ref=JOSH_15.56|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.56
+# text_en = And Jezreel, and Jokdeam, and Zanoah,
+1	Jésérẹ́lì	Jésérẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_15.56|SpaceAfter=No|Gloss=jezreel
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.56|Gloss=,
+3	Jókídíámù	Jókídíámù	PROPN	_	_	0	_	_	Ref=JOSH_15.56|SpaceAfter=No|Gloss=jokdeam
+4	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.56|Gloss=,
+5	Sánóà	Sánóà	PROPN	_	_	0	_	_	Ref=JOSH_15.56|SpaceAfter=No|Gloss=zanoah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.56|Gloss=,
 
 # sent_id = JOSH_15.57
 # text = Káínì, Gíbíátì àti Tímà: ìlú mẹ́wàá àti àwọn ìletò wọn.
-1	Káínì	Káínì	PROPN	_	_	0	_	_	Ref=JOSH_15.57|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.57
-3	Gíbíátì	Gíbíátì	PROPN	_	_	0	_	_	Ref=JOSH_15.57
-4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.57
-5	Tímà	Tímà	PROPN	_	_	0	_	_	Ref=JOSH_15.57|SpaceAfter=No
-6	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.57
-7	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.57
+# text_en = Cain, Gibeah, and Timnah; ten cities with their villages:
+1	Káínì	Káínì	PROPN	_	_	0	_	_	Ref=JOSH_15.57|SpaceAfter=No|Gloss=cain
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.57|Gloss=,
+3	Gíbíátì	Gíbíátì	PROPN	_	_	0	_	_	Ref=JOSH_15.57|Gloss=gibeah
+4	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.57|Gloss=and
+5	Tímà	Tímà	PROPN	_	_	0	_	_	Ref=JOSH_15.57|SpaceAfter=No|Gloss=timnah
+6	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.57|Gloss=:
+7	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.57|Gloss=city
 8	mẹ́wàá	mẹ́wàá	X	_	_	0	_	_	Ref=JOSH_15.57
-9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.57
-10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.57
-11	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.57
-12	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.57|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.57
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.57|Gloss=and
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.57|Gloss=the
+11	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.57|Gloss=villages
+12	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.57|SpaceAfter=No|Gloss=them
+13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.57|Gloss=.
 
 # sent_id = JOSH_15.58
 # text = Hálíúlì, Bẹti-Súrì, Gédórì,
-1	Hálíúlì	hálíúlì	X	_	_	0	_	_	Ref=JOSH_15.58|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.58
+# text_en = Halhul, Beth-zur, and Gedor,
+1	Hálíúlì	hálíúlì	X	_	_	0	_	_	Ref=JOSH_15.58|SpaceAfter=No|Gloss=halhul
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.58|Gloss=,
 3	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.58|SpaceAfter=No
 4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.58|SpaceAfter=No
-5	Súrì	Súrì	PROPN	_	_	0	_	_	Ref=JOSH_15.58|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.58
-7	Gédórì	Gédórì	PROPN	_	_	0	_	_	Ref=JOSH_15.58|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.58
+5	Súrì	Súrì	PROPN	_	_	0	_	_	Ref=JOSH_15.58|SpaceAfter=No|Gloss=shur
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.58|Gloss=,
+7	Gédórì	Gédórì	PROPN	_	_	0	_	_	Ref=JOSH_15.58|SpaceAfter=No|Gloss=gedor
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.58|Gloss=,
 
 # sent_id = JOSH_15.59
 # text = Máárátì, Bẹti-Ánótì àti Élítékónì: ìlú mẹ́fà àti àwọn ìletò wọn.
-1	Máárátì	máárátì	X	_	_	0	_	_	Ref=JOSH_15.59|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.59
+# text_en = And Maarath, and Beth-anoth, and Eltekon; six cities with their villages:
+1	Máárátì	máárátì	X	_	_	0	_	_	Ref=JOSH_15.59|SpaceAfter=No|Gloss=maarath
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.59|Gloss=,
 3	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.59|SpaceAfter=No
 4	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.59|SpaceAfter=No
 5	Ánótì	Ánótì	PROPN	_	_	0	_	_	Ref=JOSH_15.59
-6	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.59
-7	Élítékónì	Élítékónì	PROPN	_	_	0	_	_	Ref=JOSH_15.59|SpaceAfter=No
-8	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.59
-9	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.59
-10	mẹ́fà	mẹ́fà	X	_	_	0	_	_	Ref=JOSH_15.59
-11	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.59
-12	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.59
-13	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.59
-14	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.59|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.59
+6	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.59|Gloss=and
+7	Élítékónì	Élítékónì	PROPN	_	_	0	_	_	Ref=JOSH_15.59|SpaceAfter=No|Gloss=anoth
+8	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.59|Gloss=:
+9	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.59|Gloss=city
+10	mẹ́fà	mẹ́fà	X	_	_	0	_	_	Ref=JOSH_15.59|Gloss=six
+11	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.59|Gloss=and
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.59|Gloss=the
+13	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.59|Gloss=villages
+14	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.59|SpaceAfter=No|Gloss=them
+15	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.59|Gloss=.
 
 # sent_id = JOSH_15.60
 # text = Kiriati Báálì (tí í ṣe, Kiriati Jeárímù) àti Rábà ìlú méjì àti ìletò wọn.
-1	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.60
-2	Báálì	báálì	X	_	_	0	_	_	Ref=JOSH_15.60
-3	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60|SpaceAfter=No
-4	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.60
-5	í	í	X	_	_	0	_	_	Ref=JOSH_15.60
-6	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.60|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60
-8	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.60
-9	Jeárímù	Jeárímù	PROPN	_	_	0	_	_	Ref=JOSH_15.60|SpaceAfter=No
-10	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60
-11	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.60
-12	Rábà	Rábà	PROPN	_	_	0	_	_	Ref=JOSH_15.60
-13	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.60
-14	méjì	méjì	X	_	_	0	_	_	Ref=JOSH_15.60
-15	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.60
-16	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.60
-17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.60|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60
+# text_en = Kirjath-baal, which is Kirjath-jearim, and Rabbah; two cities with their villages:
+1	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.60|Gloss=kirjath
+2	Báálì	báálì	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=baal
+3	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60|SpaceAfter=No|Gloss=hundred
+4	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=that
+5	í	í	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=was
+6	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_15.60|SpaceAfter=No|Gloss=do
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60|Gloss=,
+8	Kiriati	Kiriati	PROPN	_	_	0	_	_	Ref=JOSH_15.60|Gloss=kirjath
+9	Jeárímù	Jeárímù	PROPN	_	_	0	_	_	Ref=JOSH_15.60|SpaceAfter=No|Gloss=null
+10	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60|Gloss=hundred
+11	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=and
+12	Rábà	Rábà	PROPN	_	_	0	_	_	Ref=JOSH_15.60|Gloss=rabbah
+13	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=city
+14	méjì	méjì	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=two
+15	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=and
+16	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.60|Gloss=villages
+17	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.60|SpaceAfter=No|Gloss=them
+18	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.60|Gloss=.
 
 # sent_id = JOSH_15.61
 # text = Ní asálẹ̀: Bẹti-Árábà, Mídínì, Sékákà,
-1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.61
-2	asálẹ̀	asálẹ̀	X	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No
-3	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61
+# text_en = In the wilderness, Beth-arabah, Middin, and Secacah,
+1	Ní	ní	X	_	_	0	_	_	Ref=JOSH_15.61|Gloss=in
+2	asálẹ̀	asálẹ̀	X	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No|Gloss=wilderness
+3	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61|Gloss=:
 4	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No
 5	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61|SpaceAfter=No
 6	Árábà	Árábà	PROPN	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61
-8	Mídínì	Mídínì	PROPN	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61
-10	Sékákà	Sékákà	PROPN	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61
+7	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61|Gloss=,
+8	Mídínì	Mídínì	PROPN	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No|Gloss=middin
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61|Gloss=,
+10	Sékákà	Sékákà	PROPN	_	_	0	_	_	Ref=JOSH_15.61|SpaceAfter=No|Gloss=secacah
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.61|Gloss=,
 
 # sent_id = JOSH_15.62
 # text = Níbíṣánì, Ìlú Iyọ̀ àti Ẹni-Gẹ́dì, ìlú mẹ́fà àti ìletò wọn.
-1	Níbíṣánì	níbíṣánì	X	_	_	0	_	_	Ref=JOSH_15.62|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.62
-3	Ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.62
-4	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_15.62
-5	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.62
-6	Ẹni	ẹni	X	_	_	0	_	_	Ref=JOSH_15.62|SpaceAfter=No
+# text_en = And Nibshan, and the city of Salt, and En-gedi; six cities with their villages.
+1	Níbíṣánì	níbíṣánì	X	_	_	0	_	_	Ref=JOSH_15.62|SpaceAfter=No|Gloss=nibshan
+2	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.62|Gloss=,
+3	Ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.62|Gloss=city
+4	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_15.62|Gloss=salt
+5	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.62|Gloss=and
+6	Ẹni	ẹni	X	_	_	0	_	_	Ref=JOSH_15.62|SpaceAfter=No|Gloss=that
 7	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_15.62|SpaceAfter=No
 8	Gẹ́dì	Gẹ́dì	PROPN	_	_	0	_	_	Ref=JOSH_15.62|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.62
-10	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.62
-11	mẹ́fà	mẹ́fà	X	_	_	0	_	_	Ref=JOSH_15.62
-12	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.62
-13	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.62
-14	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.62|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.62
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.62|Gloss=,
+10	ìlú	ìlú	X	_	_	0	_	_	Ref=JOSH_15.62|Gloss=city
+11	mẹ́fà	mẹ́fà	X	_	_	0	_	_	Ref=JOSH_15.62|Gloss=six
+12	àti	àti	X	_	_	0	_	_	Ref=JOSH_15.62|Gloss=and
+13	ìletò	ìletò	X	_	_	0	_	_	Ref=JOSH_15.62|Gloss=villages
+14	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_15.62|SpaceAfter=No|Gloss=them
+15	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.62|Gloss=.
 
 # sent_id = JOSH_15.63
 # text = Júdà kò lè lé àwọn ọmọ Jébúsì jáde, tí wọ́n ń gbé ní Jérúsálẹ́mù. Àwọn ará Jébúsì sì ń gbé pẹ̀lú àwọn ènìyàn Júdà títí dí òní.
-1	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.63
-2	kò	kò	X	_	_	0	_	_	Ref=JOSH_15.63
-3	lè	lè	X	_	_	0	_	_	Ref=JOSH_15.63
-4	lé	lé	X	_	_	0	_	_	Ref=JOSH_15.63
-5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.63
-6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.63
-7	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_15.63
-8	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.63|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.63
-10	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.63
-11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOSH_15.63
-12	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.63
-13	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_15.63
-14	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.63
-15	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=JOSH_15.63|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.63
-17	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.63
-18	ará	ará	X	_	_	0	_	_	Ref=JOSH_15.63
-19	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_15.63
-20	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.63
-21	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.63
-22	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_15.63
-23	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.63
-24	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.63
-25	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_15.63
-26	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.63
-27	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.63
-28	dí	dí	X	_	_	0	_	_	Ref=JOSH_15.63
-29	òní	òní	X	_	_	0	_	_	Ref=JOSH_15.63|SpaceAfter=No
-30	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.63
+# text_en = As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.
+1	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=judah
+2	kò	kò	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=not
+3	lè	lè	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=may
+4	lé	lé	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=delivered
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=the
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=son
+7	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_15.63|Gloss=jebusites
+8	jáde	jáde	X	_	_	0	_	_	Ref=JOSH_15.63|SpaceAfter=No|Gloss=out
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_15.63|Gloss=,
+10	tí	tí	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=that
+11	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=they
+12	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=that
+13	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=dwell
+14	ní	ní	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=in
+15	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=JOSH_15.63|SpaceAfter=No|Gloss=jerusalem
+16	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.63|Gloss=.
+17	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=the
+18	ará	ará	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=brethren
+19	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_15.63|Gloss=jebusites
+20	sì	sì	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=and
+21	ń	ń	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=that
+22	gbé	gbé	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=dwell
+23	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=with
+24	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=the
+25	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=people
+26	Júdà	júdà	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=judah
+27	títí	títí	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=until
+28	dí	dí	X	_	_	0	_	_	Ref=JOSH_15.63|Gloss=the
+29	òní	òní	X	_	_	0	_	_	Ref=JOSH_15.63|SpaceAfter=No|Gloss=day
+30	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_15.63|Gloss=.
 

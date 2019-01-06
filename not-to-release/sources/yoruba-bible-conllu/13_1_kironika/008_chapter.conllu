@@ -2,678 +2,718 @@
 # newdoc id = 1CHR_8
 # sent_id = 1CHR_8.1
 # text = Bẹ́ńjámínì jẹ́ bàbá Bélà àkọ́bí Rẹ̀, Áṣíbélì ọmọkùnrin ni ẹ̀ẹ̀kejì, Áhárá ẹ̀ẹ̀kẹ́ta,
-1	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=1CHR_8.1
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.1
-3	bàbá	bàbá	X	_	_	0	_	_	Ref=1CHR_8.1
-4	Bélà	Bélà	PROPN	_	_	0	_	_	Ref=1CHR_8.1
+# text_en = Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
+1	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=1CHR_8.1|Gloss=benjamin
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.1|Gloss=be
+3	bàbá	bàbá	X	_	_	0	_	_	Ref=1CHR_8.1|Gloss=father
+4	Bélà	Bélà	PROPN	_	_	0	_	_	Ref=1CHR_8.1|Gloss=bela
 5	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_8.1
-6	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.1|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.1
-8	Áṣíbélì	Áṣíbélì	PROPN	_	_	0	_	_	Ref=1CHR_8.1
-9	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.1
-10	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.1
-11	ẹ̀ẹ̀kejì	ẹ̀ẹ̀kejì	X	_	_	0	_	_	Ref=1CHR_8.1|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.1
-13	Áhárá	Áhárá	PROPN	_	_	0	_	_	Ref=1CHR_8.1
-14	ẹ̀ẹ̀kẹ́ta	ẹ̀ẹ̀kẹ́ta	X	_	_	0	_	_	Ref=1CHR_8.1|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.1
+6	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.1|SpaceAfter=No|Gloss=his
+7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.1|Gloss=,
+8	Áṣíbélì	Áṣíbélì	PROPN	_	_	0	_	_	Ref=1CHR_8.1|Gloss=ashbel
+9	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.1|Gloss=sons
+10	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.1|Gloss=is
+11	ẹ̀ẹ̀kejì	ẹ̀ẹ̀kejì	X	_	_	0	_	_	Ref=1CHR_8.1|SpaceAfter=No|Gloss=second
+12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.1|Gloss=,
+13	Áhárá	Áhárá	PROPN	_	_	0	_	_	Ref=1CHR_8.1|Gloss=aharah
+14	ẹ̀ẹ̀kẹ́ta	ẹ̀ẹ̀kẹ́ta	X	_	_	0	_	_	Ref=1CHR_8.1|SpaceAfter=No|Gloss=third
+15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.1|Gloss=,
 
 # sent_id = 1CHR_8.2
 # text = Nóhà ẹ̀ẹ̀kẹrin àti Ráfà ẹ̀ẹ̀karùnún.
-1	Nóhà	nóhà	X	_	_	0	_	_	Ref=1CHR_8.2
-2	ẹ̀ẹ̀kẹrin	ẹ̀ẹ̀kẹrin	X	_	_	0	_	_	Ref=1CHR_8.2
-3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.2
-4	Ráfà	ráfà	X	_	_	0	_	_	Ref=1CHR_8.2
-5	ẹ̀ẹ̀karùnún	ẹ̀ẹ̀karùnún	X	_	_	0	_	_	Ref=1CHR_8.2|SpaceAfter=No
-6	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.2
+# text_en = Nohah the fourth, and Rapha the fifth.
+1	Nóhà	nóhà	X	_	_	0	_	_	Ref=1CHR_8.2|Gloss=nohah
+2	ẹ̀ẹ̀kẹrin	ẹ̀ẹ̀kẹrin	X	_	_	0	_	_	Ref=1CHR_8.2|Gloss=fourth
+3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.2|Gloss=and
+4	Ráfà	ráfà	X	_	_	0	_	_	Ref=1CHR_8.2|Gloss=rapha
+5	ẹ̀ẹ̀karùnún	ẹ̀ẹ̀karùnún	X	_	_	0	_	_	Ref=1CHR_8.2|SpaceAfter=No|Gloss=null
+6	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.2|Gloss=.
 
 # sent_id = 1CHR_8.3
 # text = Àwọn ọmọ Bélà jẹ́: Ádárì, Gérà, Ábíhúdì,
+# text_en = And the sons of Bela were, Addar, and Gera, and Abihud,
 1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.3
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.3
-3	Bélà	Bélà	PROPN	_	_	0	_	_	Ref=1CHR_8.3
-4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No
-5	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3
-6	Ádárì	Ádárì	PROPN	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3
-8	Gérà	gérà	X	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3
-10	Ábíhúdì	Ábíhúdì	PROPN	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.3|Gloss=son
+3	Bélà	Bélà	PROPN	_	_	0	_	_	Ref=1CHR_8.3|Gloss=bela
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No|Gloss=be
+5	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3|Gloss=:
+6	Ádárì	Ádárì	PROPN	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No|Gloss=adar
+7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3|Gloss=,
+8	Gérà	gérà	X	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No|Gloss=gera
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3|Gloss=,
+10	Ábíhúdì	Ábíhúdì	PROPN	_	_	0	_	_	Ref=1CHR_8.3|SpaceAfter=No|Gloss=abihud
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.3|Gloss=,
 
 # sent_id = 1CHR_8.4
 # text = Ábísúà, Námánì, Áhóà,
-1	Ábísúà	Ábísúà	PROPN	_	_	0	_	_	Ref=1CHR_8.4|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.4
-3	Námánì	Námánì	PROPN	_	_	0	_	_	Ref=1CHR_8.4|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.4
-5	Áhóà	Áhóà	PROPN	_	_	0	_	_	Ref=1CHR_8.4|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.4
+# text_en = And Abishua, and Naaman, and Ahoah,
+1	Ábísúà	Ábísúà	PROPN	_	_	0	_	_	Ref=1CHR_8.4|SpaceAfter=No|Gloss=abishua
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.4|Gloss=,
+3	Námánì	Námánì	PROPN	_	_	0	_	_	Ref=1CHR_8.4|SpaceAfter=No|Gloss=naaman
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.4|Gloss=,
+5	Áhóà	Áhóà	PROPN	_	_	0	_	_	Ref=1CHR_8.4|SpaceAfter=No|Gloss=ahoah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.4|Gloss=,
 
 # sent_id = 1CHR_8.5
 # text = Gérà, Ṣéfúfánì àti Húrámù.
-1	Gérà	gérà	X	_	_	0	_	_	Ref=1CHR_8.5|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.5
-3	Ṣéfúfánì	Ṣéfúfánì	PROPN	_	_	0	_	_	Ref=1CHR_8.5
-4	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.5
-5	Húrámù	Húrámù	PROPN	_	_	0	_	_	Ref=1CHR_8.5|SpaceAfter=No
-6	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.5
+# text_en = And Gera, and Shephuphan, and Huram.
+1	Gérà	gérà	X	_	_	0	_	_	Ref=1CHR_8.5|SpaceAfter=No|Gloss=gera
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.5|Gloss=,
+3	Ṣéfúfánì	Ṣéfúfánì	PROPN	_	_	0	_	_	Ref=1CHR_8.5|Gloss=shephuphan
+4	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.5|Gloss=and
+5	Húrámù	Húrámù	PROPN	_	_	0	_	_	Ref=1CHR_8.5|SpaceAfter=No|Gloss=huram
+6	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.5|Gloss=.
 
 # sent_id = 1CHR_8.6
 # text = Wọ̀nyí ni àwọn ìran ọmọ Éhúdì, tí wọ́n jẹ́ olórí àwọn ìdílé tí ó ń gbé ní Gébà tí a sì lé kúrò lọ sí Mánáhátì:
-1	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.6
-2	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.6
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.6
-4	ìran	ìran	X	_	_	0	_	_	Ref=1CHR_8.6
-5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.6
-6	Éhúdì	Éhúdì	PROPN	_	_	0	_	_	Ref=1CHR_8.6|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.6
-8	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.6
-9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.6
-10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.6
-11	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.6
-12	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.6
-13	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.6
-14	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.6
-15	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.6
-16	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.6
-17	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.6
-18	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.6
-19	Gébà	Gébà	PROPN	_	_	0	_	_	Ref=1CHR_8.6
-20	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.6
-21	a	a	X	_	_	0	_	_	Ref=1CHR_8.6
-22	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.6
-23	lé	lé	X	_	_	0	_	_	Ref=1CHR_8.6
-24	kúrò	kúrò	X	_	_	0	_	_	Ref=1CHR_8.6
-25	lọ	lọ	X	_	_	0	_	_	Ref=1CHR_8.6
-26	sí	sí	X	_	_	0	_	_	Ref=1CHR_8.6
-27	Mánáhátì	Mánáhátì	PROPN	_	_	0	_	_	Ref=1CHR_8.6|SpaceAfter=No
-28	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.6
+# text_en = And these are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:
+1	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=these
+2	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=is
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=the
+4	ìran	ìran	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=generation
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=son
+6	Éhúdì	Éhúdì	PROPN	_	_	0	_	_	Ref=1CHR_8.6|SpaceAfter=No|Gloss=ehud
+7	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.6|Gloss=,
+8	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=that
+9	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=they
+10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=be
+11	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=chief
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=the
+13	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=house
+14	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=that
+15	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=he
+16	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=that
+17	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=dwell
+18	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=in
+19	Gébà	Gébà	PROPN	_	_	0	_	_	Ref=1CHR_8.6|Gloss=geba
+20	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=that
+21	a	a	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=be
+22	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=and
+23	lé	lé	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=delivered
+24	kúrò	kúrò	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=from
+25	lọ	lọ	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=go
+26	sí	sí	X	_	_	0	_	_	Ref=1CHR_8.6|Gloss=to
+27	Mánáhátì	Mánáhátì	PROPN	_	_	0	_	_	Ref=1CHR_8.6|SpaceAfter=No|Gloss=manahath
+28	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.6|Gloss=:
 
 # sent_id = 1CHR_8.7
 # text = Námánì Áhíjà àti Gérà, tí ó lé wọn kúrò ní ìlú, àti tí ó sì jẹ́ baba Úṣà àti Áhíhúdù.
-1	Námánì	Námánì	PROPN	_	_	0	_	_	Ref=1CHR_8.7
-2	Áhíjà	Áhíjà	PROPN	_	_	0	_	_	Ref=1CHR_8.7
-3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.7
-4	Gérà	gérà	X	_	_	0	_	_	Ref=1CHR_8.7|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.7
-6	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.7
-7	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.7
-8	lé	lé	X	_	_	0	_	_	Ref=1CHR_8.7
-9	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.7
-10	kúrò	kúrò	X	_	_	0	_	_	Ref=1CHR_8.7
-11	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.7
-12	ìlú	ìlú	X	_	_	0	_	_	Ref=1CHR_8.7|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.7
-14	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.7
-15	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.7
-16	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.7
-17	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.7
-18	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.7
-19	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.7
-20	Úṣà	Úṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.7
-21	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.7
-22	Áhíhúdù	Áhíhúdù	PROPN	_	_	0	_	_	Ref=1CHR_8.7|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.7
+# text_en = And Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud.
+1	Námánì	Námánì	PROPN	_	_	0	_	_	Ref=1CHR_8.7|Gloss=naaman
+2	Áhíjà	Áhíjà	PROPN	_	_	0	_	_	Ref=1CHR_8.7|Gloss=ahijah
+3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=and
+4	Gérà	gérà	X	_	_	0	_	_	Ref=1CHR_8.7|SpaceAfter=No|Gloss=gera
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.7|Gloss=,
+6	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=that
+7	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=he
+8	lé	lé	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=delivered
+9	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=them
+10	kúrò	kúrò	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=from
+11	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=in
+12	ìlú	ìlú	X	_	_	0	_	_	Ref=1CHR_8.7|SpaceAfter=No|Gloss=city
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.7|Gloss=,
+14	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=and
+15	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=that
+16	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=he
+17	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=and
+18	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=be
+19	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=father
+20	Úṣà	Úṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.7|Gloss=uzza
+21	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.7|Gloss=and
+22	Áhíhúdù	Áhíhúdù	PROPN	_	_	0	_	_	Ref=1CHR_8.7|SpaceAfter=No|Gloss=ahihud
+23	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.7|Gloss=.
 
 # sent_id = 1CHR_8.8
 # text = A bí àwọn ọmọkùnrin fún Ṣáháráímù ní Móábù lẹ́yìn tí ó ti kọ àwọn ìyàwó Rẹ̀ sílẹ̀, Húṣímù àti Báárà.
-1	A	a	X	_	_	0	_	_	Ref=1CHR_8.8
-2	bí	bí	X	_	_	0	_	_	Ref=1CHR_8.8
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.8
-4	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.8
-5	fún	fún	X	_	_	0	_	_	Ref=1CHR_8.8
-6	Ṣáháráímù	Ṣáháráímù	PROPN	_	_	0	_	_	Ref=1CHR_8.8
-7	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.8
-8	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=1CHR_8.8
-9	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=1CHR_8.8
-10	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.8
-11	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.8
-12	ti	ti	X	_	_	0	_	_	Ref=1CHR_8.8
-13	kọ	kọ	X	_	_	0	_	_	Ref=1CHR_8.8
-14	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.8
-15	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_8.8
-16	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.8
-17	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=1CHR_8.8|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.8
-19	Húṣímù	Húṣímù	PROPN	_	_	0	_	_	Ref=1CHR_8.8
-20	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.8
+# text_en = And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.
+1	A	a	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=be
+2	bí	bí	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=as
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=the
+4	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=sons
+5	fún	fún	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=unto
+6	Ṣáháráímù	Ṣáháráímù	PROPN	_	_	0	_	_	Ref=1CHR_8.8|Gloss=null
+7	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=in
+8	Móábù	Móábù	PROPN	_	_	0	_	_	Ref=1CHR_8.8|Gloss=moab
+9	lẹ́yìn	lẹ́yìn	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=after
+10	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=that
+11	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=he
+12	ti	ti	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=have
+13	kọ	kọ	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=written
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=the
+15	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=wife
+16	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=his
+17	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=1CHR_8.8|SpaceAfter=No|Gloss=left
+18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.8|Gloss=,
+19	Húṣímù	Húṣímù	PROPN	_	_	0	_	_	Ref=1CHR_8.8|Gloss=hushim
+20	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.8|Gloss=and
 21	Báárà	Báárà	PROPN	_	_	0	_	_	Ref=1CHR_8.8|SpaceAfter=No
 22	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.8
 
 # sent_id = 1CHR_8.9
 # text = Nípaṣẹ̀ ìyàwó Rẹ̀ Hódéṣì ó ní Jóbábù ṣíbíà, Méṣà, Málíkámà,
-1	Nípaṣẹ̀	nípaṣẹ̀	X	_	_	0	_	_	Ref=1CHR_8.9
-2	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_8.9
-3	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.9
-4	Hódéṣì	Hódéṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.9
-5	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.9
-6	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.9
-7	Jóbábù	Jóbábù	PROPN	_	_	0	_	_	Ref=1CHR_8.9
-8	ṣíbíà	ṣíbíà	X	_	_	0	_	_	Ref=1CHR_8.9|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.9
-10	Méṣà	Méṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.9|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.9
-12	Málíkámà	Málíkámà	PROPN	_	_	0	_	_	Ref=1CHR_8.9|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.9
+# text_en = And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,
+1	Nípaṣẹ̀	nípaṣẹ̀	X	_	_	0	_	_	Ref=1CHR_8.9|Gloss=by
+2	ìyàwó	ìyàwó	X	_	_	0	_	_	Ref=1CHR_8.9|Gloss=wife
+3	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.9|Gloss=his
+4	Hódéṣì	Hódéṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.9|Gloss=hodesh
+5	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.9|Gloss=he
+6	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.9|Gloss=in
+7	Jóbábù	Jóbábù	PROPN	_	_	0	_	_	Ref=1CHR_8.9|Gloss=jobab
+8	ṣíbíà	ṣíbíà	X	_	_	0	_	_	Ref=1CHR_8.9|SpaceAfter=No|Gloss=zibia
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.9|Gloss=,
+10	Méṣà	Méṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.9|SpaceAfter=No|Gloss=mesha
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.9|Gloss=,
+12	Málíkámà	Málíkámà	PROPN	_	_	0	_	_	Ref=1CHR_8.9|SpaceAfter=No|Gloss=malcham
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.9|Gloss=,
 
 # sent_id = 1CHR_8.10
 # text = Jéúṣì Ṣákíà àti Mírímà. Wọ̀nyí ni àwọn ọmọkùnrin Rẹ̀, olórí àwọn ìdílé.
-1	Jéúṣì	Jéúṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.10
-2	Ṣákíà	Ṣákíà	PROPN	_	_	0	_	_	Ref=1CHR_8.10
-3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.10
-4	Mírímà	Mírímà	PROPN	_	_	0	_	_	Ref=1CHR_8.10|SpaceAfter=No
-5	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.10
-6	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.10
-7	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.10
-8	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.10
-9	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.10
-10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.10|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.10
-12	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.10
-13	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.10
-14	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.10|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.10
+# text_en = And Jeuz, and Shachia, and Mirma. These were his sons, heads of the fathers.
+1	Jéúṣì	Jéúṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.10|Gloss=jeush
+2	Ṣákíà	Ṣákíà	PROPN	_	_	0	_	_	Ref=1CHR_8.10|Gloss=jeuz
+3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.10|Gloss=and
+4	Mírímà	Mírímà	PROPN	_	_	0	_	_	Ref=1CHR_8.10|SpaceAfter=No|Gloss=shachia
+5	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.10|Gloss=.
+6	Wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.10|Gloss=these
+7	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.10|Gloss=is
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.10|Gloss=the
+9	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.10|Gloss=sons
+10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.10|SpaceAfter=No|Gloss=his
+11	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.10|Gloss=,
+12	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.10|Gloss=chief
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.10|Gloss=the
+14	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.10|SpaceAfter=No|Gloss=house
+15	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.10|Gloss=.
 
 # sent_id = 1CHR_8.11
 # text = Nípaṣẹ̀ Húṣímù ó ní Ábítúbù àti Élípálì.
-1	Nípaṣẹ̀	nípaṣẹ̀	X	_	_	0	_	_	Ref=1CHR_8.11
-2	Húṣímù	Húṣímù	PROPN	_	_	0	_	_	Ref=1CHR_8.11
-3	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.11
-4	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.11
-5	Ábítúbù	Ábítúbù	PROPN	_	_	0	_	_	Ref=1CHR_8.11
-6	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.11
-7	Élípálì	Élípálì	PROPN	_	_	0	_	_	Ref=1CHR_8.11|SpaceAfter=No
-8	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.11
+# text_en = And of Hushim he begat Abitub, and Elpaal.
+1	Nípaṣẹ̀	nípaṣẹ̀	X	_	_	0	_	_	Ref=1CHR_8.11|Gloss=by
+2	Húṣímù	Húṣímù	PROPN	_	_	0	_	_	Ref=1CHR_8.11|Gloss=hushim
+3	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.11|Gloss=he
+4	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.11|Gloss=in
+5	Ábítúbù	Ábítúbù	PROPN	_	_	0	_	_	Ref=1CHR_8.11|Gloss=abitub
+6	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.11|Gloss=and
+7	Élípálì	Élípálì	PROPN	_	_	0	_	_	Ref=1CHR_8.11|SpaceAfter=No|Gloss=elpaal
+8	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.11|Gloss=.
 
 # sent_id = 1CHR_8.12
 # text = Àwọn ọmọ Élípálì: Ébérì, Míṣámì, Ṣémédù (ẹni tí ó kọ́ Ónò àti Lódì pẹ̀lú àwọn ìletò àyíká Rẹ̀.)
-1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.12
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.12
-3	Élípálì	Élípálì	PROPN	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No
-4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12
-5	Ébérì	Ébérì	PROPN	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12
-7	Míṣámì	Míṣámì	PROPN	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12
-9	Ṣémédù	Ṣémédù	PROPN	_	_	0	_	_	Ref=1CHR_8.12
-10	(	(	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|SpaceAfter=No
-11	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_8.12
-12	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.12
-13	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.12
-14	kọ́	kọ́	X	_	_	0	_	_	Ref=1CHR_8.12
-15	Ónò	Ónò	PROPN	_	_	0	_	_	Ref=1CHR_8.12
-16	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.12
-17	Lódì	Lódì	PROPN	_	_	0	_	_	Ref=1CHR_8.12
-18	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.12
-19	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.12
-20	ìletò	ìletò	X	_	_	0	_	_	Ref=1CHR_8.12
-21	àyíká	àyíká	X	_	_	0	_	_	Ref=1CHR_8.12
-22	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|SpaceAfter=No
-24	)	)	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12
+# text_en = The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof:
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=the
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=them
+3	Élípálì	Élípálì	PROPN	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No|Gloss=son
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|Gloss=elpaal
+5	Ébérì	Ébérì	PROPN	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No|Gloss=:
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|Gloss=eber
+7	Míṣámì	Míṣámì	PROPN	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No|Gloss=,
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|Gloss=misham
+9	Ṣémédù	Ṣémédù	PROPN	_	_	0	_	_	Ref=1CHR_8.12|Gloss=,
+10	(	(	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|SpaceAfter=No|Gloss=null
+11	ẹni	ẹni	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=hundred
+12	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=that
+13	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=that
+14	kọ́	kọ́	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=he
+15	Ónò	Ónò	PROPN	_	_	0	_	_	Ref=1CHR_8.12|Gloss=build
+16	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=ono
+17	Lódì	Lódì	PROPN	_	_	0	_	_	Ref=1CHR_8.12|Gloss=and
+18	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=lod
+19	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=with
+20	ìletò	ìletò	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=the
+21	àyíká	àyíká	X	_	_	0	_	_	Ref=1CHR_8.12|Gloss=villages
+22	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.12|SpaceAfter=No|Gloss=round
+23	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|SpaceAfter=No|Gloss=.
+24	)	)	PUNCT	_	_	0	punct	_	Ref=1CHR_8.12|Gloss=hundred
 
 # sent_id = 1CHR_8.13
 # text = Pẹ̀lú Béríà àti Ṣémà, tí wọ́n jẹ́ olórí àwọn ìdílé ti àwọn tí ó ń gbé ní Áíjálónì àti àwọn tí ó lé àwọn olùgbé Gátì kúrò.
-1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.13
-2	Béríà	Béríà	PROPN	_	_	0	_	_	Ref=1CHR_8.13
-3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.13
-4	Ṣémà	Ṣémà	PROPN	_	_	0	_	_	Ref=1CHR_8.13|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.13
-6	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.13
-7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.13
-8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.13
-9	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.13
-10	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13
-11	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.13
-12	ti	ti	X	_	_	0	_	_	Ref=1CHR_8.13
-13	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13
-14	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.13
-15	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.13
-16	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.13
-17	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.13
-18	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.13
-19	Áíjálónì	Áíjálónì	PROPN	_	_	0	_	_	Ref=1CHR_8.13
-20	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.13
-21	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13
-22	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.13
-23	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.13
-24	lé	lé	X	_	_	0	_	_	Ref=1CHR_8.13
-25	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13
-26	olùgbé	olùgbé	X	_	_	0	_	_	Ref=1CHR_8.13
-27	Gátì	Gátì	PROPN	_	_	0	_	_	Ref=1CHR_8.13
-28	kúrò	kúrò	X	_	_	0	_	_	Ref=1CHR_8.13|SpaceAfter=No
-29	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.13
+# text_en = Beriah also, and Shema, who were heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:
+1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=with
+2	Béríà	Béríà	PROPN	_	_	0	_	_	Ref=1CHR_8.13|Gloss=beriah
+3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=and
+4	Ṣémà	Ṣémà	PROPN	_	_	0	_	_	Ref=1CHR_8.13|SpaceAfter=No|Gloss=shema
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.13|Gloss=,
+6	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=that
+7	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=they
+8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=be
+9	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=chief
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=the
+11	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=house
+12	ti	ti	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=have
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=the
+14	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=that
+15	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=he
+16	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=that
+17	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=dwell
+18	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=in
+19	Áíjálónì	Áíjálónì	PROPN	_	_	0	_	_	Ref=1CHR_8.13|Gloss=aijalon
+20	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=and
+21	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=the
+22	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=that
+23	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=he
+24	lé	lé	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=delivered
+25	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=the
+26	olùgbé	olùgbé	X	_	_	0	_	_	Ref=1CHR_8.13|Gloss=inhabitants
+27	Gátì	Gátì	PROPN	_	_	0	_	_	Ref=1CHR_8.13|Gloss=gath
+28	kúrò	kúrò	X	_	_	0	_	_	Ref=1CHR_8.13|SpaceAfter=No|Gloss=from
+29	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.13|Gloss=.
 
 # sent_id = 1CHR_8.14
 # text = Áhíò, Ṣásákì Jérémílò,
-1	Áhíò	Áhíò	PROPN	_	_	0	_	_	Ref=1CHR_8.14|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.14
-3	Ṣásákì	Ṣásákì	PROPN	_	_	0	_	_	Ref=1CHR_8.14
-4	Jérémílò	Jérémílò	PROPN	_	_	0	_	_	Ref=1CHR_8.14|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.14
+# text_en = And Ahio, Shashak, and Jeremoth,
+1	Áhíò	Áhíò	PROPN	_	_	0	_	_	Ref=1CHR_8.14|SpaceAfter=No|Gloss=ahio
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.14|Gloss=,
+3	Ṣásákì	Ṣásákì	PROPN	_	_	0	_	_	Ref=1CHR_8.14|Gloss=shashak
+4	Jérémílò	Jérémílò	PROPN	_	_	0	_	_	Ref=1CHR_8.14|SpaceAfter=No|Gloss=jeremoth
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.14|Gloss=,
 
 # sent_id = 1CHR_8.15
 # text = Ṣébádíà, Árádì, Édérì
-1	Ṣébádíà	Ṣébádíà	PROPN	_	_	0	_	_	Ref=1CHR_8.15|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.15
-3	Árádì	Árádì	PROPN	_	_	0	_	_	Ref=1CHR_8.15|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.15
-5	Édérì	Édérì	PROPN	_	_	0	_	_	Ref=1CHR_8.15
+# text_en = And Zebadiah, and Arad, and Ader,
+1	Ṣébádíà	Ṣébádíà	PROPN	_	_	0	_	_	Ref=1CHR_8.15|SpaceAfter=No|Gloss=zebadiah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.15|Gloss=,
+3	Árádì	Árádì	PROPN	_	_	0	_	_	Ref=1CHR_8.15|SpaceAfter=No|Gloss=arad
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.15|Gloss=,
+5	Édérì	Édérì	PROPN	_	_	0	_	_	Ref=1CHR_8.15|Gloss=eder
 
 # sent_id = 1CHR_8.16
 # text = Míkáélì Íṣífà àti Jóhà jẹ́ àwọn ọmọ Béríà.
-1	Míkáélì	Míkáélì	PROPN	_	_	0	_	_	Ref=1CHR_8.16
-2	Íṣífà	Íṣífà	PROPN	_	_	0	_	_	Ref=1CHR_8.16
-3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.16
-4	Jóhà	Jóhà	PROPN	_	_	0	_	_	Ref=1CHR_8.16
-5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.16
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.16
-7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.16
-8	Béríà	Béríà	PROPN	_	_	0	_	_	Ref=1CHR_8.16|SpaceAfter=No
-9	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.16
+# text_en = And Michael, and Ispah, and Joha, the sons of Beriah;
+1	Míkáélì	Míkáélì	PROPN	_	_	0	_	_	Ref=1CHR_8.16|Gloss=michael
+2	Íṣífà	Íṣífà	PROPN	_	_	0	_	_	Ref=1CHR_8.16|Gloss=ishuah
+3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.16|Gloss=and
+4	Jóhà	Jóhà	PROPN	_	_	0	_	_	Ref=1CHR_8.16|Gloss=joha
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.16|Gloss=be
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.16|Gloss=the
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.16|Gloss=son
+8	Béríà	Béríà	PROPN	_	_	0	_	_	Ref=1CHR_8.16|SpaceAfter=No|Gloss=beriah
+9	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.16|Gloss=.
 
 # sent_id = 1CHR_8.17
 # text = Ṣébàdíáhì, Mésúlámù Hésékì, Hébérì
-1	Ṣébàdíáhì	ṣébàdíáhì	X	_	_	0	_	_	Ref=1CHR_8.17|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.17
-3	Mésúlámù	Mésúlámù	PROPN	_	_	0	_	_	Ref=1CHR_8.17
-4	Hésékì	Hésékì	PROPN	_	_	0	_	_	Ref=1CHR_8.17|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.17
-6	Hébérì	Hébérì	PROPN	_	_	0	_	_	Ref=1CHR_8.17
+# text_en = And Zebadiah, and Meshullam, and Hezeki, and Heber,
+1	Ṣébàdíáhì	ṣébàdíáhì	X	_	_	0	_	_	Ref=1CHR_8.17|SpaceAfter=No|Gloss=zebadiah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.17|Gloss=,
+3	Mésúlámù	Mésúlámù	PROPN	_	_	0	_	_	Ref=1CHR_8.17|Gloss=meshullam
+4	Hésékì	Hésékì	PROPN	_	_	0	_	_	Ref=1CHR_8.17|SpaceAfter=No|Gloss=hezeki
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.17|Gloss=,
+6	Hébérì	Hébérì	PROPN	_	_	0	_	_	Ref=1CHR_8.17|Gloss=heber
 
 # sent_id = 1CHR_8.18
 # text = Íṣíméráì, Íṣílíáhì àti Jóbábì jẹ́ àwọn ọmọ Élípálì.
-1	Íṣíméráì	íṣíméráì	X	_	_	0	_	_	Ref=1CHR_8.18|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.18
-3	Íṣílíáhì	Íṣílíáhì	PROPN	_	_	0	_	_	Ref=1CHR_8.18
-4	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.18
-5	Jóbábì	Jóbábì	PROPN	_	_	0	_	_	Ref=1CHR_8.18
-6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.18
+# text_en = Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;
+1	Íṣíméráì	íṣíméráì	X	_	_	0	_	_	Ref=1CHR_8.18|SpaceAfter=No|Gloss=ishmerai
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.18|Gloss=,
+3	Íṣílíáhì	Íṣílíáhì	PROPN	_	_	0	_	_	Ref=1CHR_8.18|Gloss=jezliah
+4	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.18|Gloss=and
+5	Jóbábì	Jóbábì	PROPN	_	_	0	_	_	Ref=1CHR_8.18|Gloss=null
+6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.18|Gloss=be
 7	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.18
-8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.18
-9	Élípálì	Élípálì	PROPN	_	_	0	_	_	Ref=1CHR_8.18|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.18
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.18|Gloss=son
+9	Élípálì	Élípálì	PROPN	_	_	0	_	_	Ref=1CHR_8.18|SpaceAfter=No|Gloss=elpaal
+10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.18|Gloss=.
 
 # sent_id = 1CHR_8.19
 # text = Jákímì, Ṣíkírì, Ṣábídì,
-1	Jákímì	jákímì	X	_	_	0	_	_	Ref=1CHR_8.19|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.19
-3	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=1CHR_8.19|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.19
-5	Ṣábídì	Ṣábídì	PROPN	_	_	0	_	_	Ref=1CHR_8.19|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.19
+# text_en = And Jakim, and Zichri, and Zabdi,
+1	Jákímì	jákímì	X	_	_	0	_	_	Ref=1CHR_8.19|SpaceAfter=No|Gloss=jakim
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.19|Gloss=,
+3	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=1CHR_8.19|SpaceAfter=No|Gloss=zichri
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.19|Gloss=,
+5	Ṣábídì	Ṣábídì	PROPN	_	_	0	_	_	Ref=1CHR_8.19|SpaceAfter=No|Gloss=zabdi
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.19|Gloss=,
 
 # sent_id = 1CHR_8.20
 # text = Élíénáì Ṣílétaì Élíélì,
-1	Élíénáì	élíénáì	X	_	_	0	_	_	Ref=1CHR_8.20
-2	Ṣílétaì	Ṣílétaì	PROPN	_	_	0	_	_	Ref=1CHR_8.20
-3	Élíélì	Élíélì	PROPN	_	_	0	_	_	Ref=1CHR_8.20|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.20
+# text_en = And Elienai, and Zilthai, and Eliel,
+1	Élíénáì	élíénáì	X	_	_	0	_	_	Ref=1CHR_8.20|Gloss=elienai
+2	Ṣílétaì	Ṣílétaì	PROPN	_	_	0	_	_	Ref=1CHR_8.20|Gloss=zilthai
+3	Élíélì	Élíélì	PROPN	_	_	0	_	_	Ref=1CHR_8.20|SpaceAfter=No|Gloss=eliel
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.20|Gloss=,
 
 # sent_id = 1CHR_8.21
 # text = Ádáyà, Béráíáhì àti Ṣímírátì jẹ́ àwọn ọmọ, Ṣíméhì.
-1	Ádáyà	Ádáyà	PROPN	_	_	0	_	_	Ref=1CHR_8.21|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.21
-3	Béráíáhì	Béráíáhì	PROPN	_	_	0	_	_	Ref=1CHR_8.21
-4	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.21
-5	Ṣímírátì	Ṣímírátì	PROPN	_	_	0	_	_	Ref=1CHR_8.21
-6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.21
-7	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.21
-8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.21|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.21
-10	Ṣíméhì	Ṣíméhì	PROPN	_	_	0	_	_	Ref=1CHR_8.21|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.21
+# text_en = And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;
+1	Ádáyà	Ádáyà	PROPN	_	_	0	_	_	Ref=1CHR_8.21|SpaceAfter=No|Gloss=adaiah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.21|Gloss=,
+3	Béráíáhì	Béráíáhì	PROPN	_	_	0	_	_	Ref=1CHR_8.21|Gloss=beraiah
+4	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.21|Gloss=and
+5	Ṣímírátì	Ṣímírátì	PROPN	_	_	0	_	_	Ref=1CHR_8.21|Gloss=shimrath
+6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.21|Gloss=be
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.21|Gloss=the
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.21|SpaceAfter=No|Gloss=son
+9	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.21|Gloss=,
+10	Ṣíméhì	Ṣíméhì	PROPN	_	_	0	_	_	Ref=1CHR_8.21|SpaceAfter=No|Gloss=shimei
+11	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.21|Gloss=.
 
 # sent_id = 1CHR_8.22
 # text = Íṣípánì Ébérì, Élíélì,
-1	Íṣípánì	íṣípánì	X	_	_	0	_	_	Ref=1CHR_8.22
-2	Ébérì	Ébérì	PROPN	_	_	0	_	_	Ref=1CHR_8.22|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.22
-4	Élíélì	Élíélì	PROPN	_	_	0	_	_	Ref=1CHR_8.22|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.22
+# text_en = And Ishpan, and Heber, and Eliel,
+1	Íṣípánì	íṣípánì	X	_	_	0	_	_	Ref=1CHR_8.22|Gloss=ishpan
+2	Ébérì	Ébérì	PROPN	_	_	0	_	_	Ref=1CHR_8.22|SpaceAfter=No|Gloss=eber
+3	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.22|Gloss=,
+4	Élíélì	Élíélì	PROPN	_	_	0	_	_	Ref=1CHR_8.22|SpaceAfter=No|Gloss=eliel
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.22|Gloss=,
 
 # sent_id = 1CHR_8.23
 # text = Ábídónì, Ṣíkírì, Hánánì,
-1	Ábídónì	Ábídónì	PROPN	_	_	0	_	_	Ref=1CHR_8.23|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.23
-3	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=1CHR_8.23|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.23
-5	Hánánì	hánánì	X	_	_	0	_	_	Ref=1CHR_8.23|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.23
+# text_en = And Abdon, and Zichri, and Hanan,
+1	Ábídónì	Ábídónì	PROPN	_	_	0	_	_	Ref=1CHR_8.23|SpaceAfter=No|Gloss=abdon
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.23|Gloss=,
+3	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=1CHR_8.23|SpaceAfter=No|Gloss=zichri
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.23|Gloss=,
+5	Hánánì	hánánì	X	_	_	0	_	_	Ref=1CHR_8.23|SpaceAfter=No|Gloss=hanan
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.23|Gloss=,
 
 # sent_id = 1CHR_8.24
 # text = Hánáníyà, Élámù, Ánítótíjáhì,
-1	Hánáníyà	Hánáníyà	PROPN	_	_	0	_	_	Ref=1CHR_8.24|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.24
-3	Élámù	Élámù	PROPN	_	_	0	_	_	Ref=1CHR_8.24|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.24
-5	Ánítótíjáhì	Ánítótíjáhì	PROPN	_	_	0	_	_	Ref=1CHR_8.24|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.24
+# text_en = And Hananiah, and Elam, and Antothijah,
+1	Hánáníyà	Hánáníyà	PROPN	_	_	0	_	_	Ref=1CHR_8.24|SpaceAfter=No|Gloss=hananiah
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.24|Gloss=,
+3	Élámù	Élámù	PROPN	_	_	0	_	_	Ref=1CHR_8.24|SpaceAfter=No|Gloss=elam
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.24|Gloss=,
+5	Ánítótíjáhì	Ánítótíjáhì	PROPN	_	_	0	_	_	Ref=1CHR_8.24|SpaceAfter=No|Gloss=antothijah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.24|Gloss=,
 
 # sent_id = 1CHR_8.25
 # text = Ífédíà Pénúélì jẹ́ àwọn ọmọ Ṣásákì.
-1	Ífédíà	ífédíà	X	_	_	0	_	_	Ref=1CHR_8.25
-2	Pénúélì	Pénúélì	PROPN	_	_	0	_	_	Ref=1CHR_8.25
-3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.25
+# text_en = And Iphedeiah, and Penuel, the sons of Shashak;
+1	Ífédíà	ífédíà	X	_	_	0	_	_	Ref=1CHR_8.25|Gloss=iphedeiah
+2	Pénúélì	Pénúélì	PROPN	_	_	0	_	_	Ref=1CHR_8.25|Gloss=penuel
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.25|Gloss=be
 4	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.25
-5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.25
-6	Ṣásákì	Ṣásákì	PROPN	_	_	0	_	_	Ref=1CHR_8.25|SpaceAfter=No
-7	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.25
+5	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.25|Gloss=son
+6	Ṣásákì	Ṣásákì	PROPN	_	_	0	_	_	Ref=1CHR_8.25|SpaceAfter=No|Gloss=shashak
+7	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.25|Gloss=.
 
 # sent_id = 1CHR_8.26
 # text = Ṣámíséráì, Ṣéháríà, Átalíà
-1	Ṣámíséráì	ṣámíséráì	X	_	_	0	_	_	Ref=1CHR_8.26|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.26
-3	Ṣéháríà	Ṣéháríà	PROPN	_	_	0	_	_	Ref=1CHR_8.26|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.26
-5	Átalíà	Átalíà	PROPN	_	_	0	_	_	Ref=1CHR_8.26
+# text_en = And Shamsherai, and Shehariah, and Athaliah,
+1	Ṣámíséráì	ṣámíséráì	X	_	_	0	_	_	Ref=1CHR_8.26|SpaceAfter=No|Gloss=shamsherai
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.26|Gloss=,
+3	Ṣéháríà	Ṣéháríà	PROPN	_	_	0	_	_	Ref=1CHR_8.26|SpaceAfter=No|Gloss=shehariah
+4	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.26|Gloss=,
+5	Átalíà	Átalíà	PROPN	_	_	0	_	_	Ref=1CHR_8.26|Gloss=athaliah
 
 # sent_id = 1CHR_8.27
 # text = Járéṣíà Élíjà àti Ṣíkírì jẹ́ àwọn ọmọ Jéróhámù.
-1	Járéṣíà	járéṣíà	X	_	_	0	_	_	Ref=1CHR_8.27
-2	Élíjà	Élíjà	PROPN	_	_	0	_	_	Ref=1CHR_8.27
-3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.27
-4	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=1CHR_8.27
-5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.27
+# text_en = And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
+1	Járéṣíà	járéṣíà	X	_	_	0	_	_	Ref=1CHR_8.27|Gloss=jaresiah
+2	Élíjà	Élíjà	PROPN	_	_	0	_	_	Ref=1CHR_8.27|Gloss=eliah
+3	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.27|Gloss=and
+4	Ṣíkírì	Ṣíkírì	PROPN	_	_	0	_	_	Ref=1CHR_8.27|Gloss=zichri
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.27|Gloss=be
 6	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.27
-7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.27
-8	Jéróhámù	Jéróhámù	PROPN	_	_	0	_	_	Ref=1CHR_8.27|SpaceAfter=No
-9	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.27
+7	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.27|Gloss=son
+8	Jéróhámù	Jéróhámù	PROPN	_	_	0	_	_	Ref=1CHR_8.27|SpaceAfter=No|Gloss=jeroham
+9	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.27|Gloss=.
 
 # sent_id = 1CHR_8.28
 # text = Gbogbo àwọn wọ̀nyí jẹ́ olórí àwọn ìdílé, olóyè gẹ́gẹ́ bí a ti kọ ó lẹ́sẹsẹ nínú ìtàn ìdílé láti ọ̀dọ̀ baba ńlá wọn, wọ́n sì ń gbé ní Jérúsálẹ́mù.
-1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.28
-2	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.28
-3	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.28
-4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.28
-5	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.28
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.28
-7	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.28|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.28
-9	olóyè	olóyè	X	_	_	0	_	_	Ref=1CHR_8.28
-10	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=1CHR_8.28
-11	bí	bí	X	_	_	0	_	_	Ref=1CHR_8.28
-12	a	a	X	_	_	0	_	_	Ref=1CHR_8.28
-13	ti	ti	X	_	_	0	_	_	Ref=1CHR_8.28
-14	kọ	kọ	X	_	_	0	_	_	Ref=1CHR_8.28
-15	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.28
-16	lẹ́sẹsẹ	lẹ́sẹsẹ	X	_	_	0	_	_	Ref=1CHR_8.28
-17	nínú	nínú	X	_	_	0	_	_	Ref=1CHR_8.28
-18	ìtàn	ìtàn	X	_	_	0	_	_	Ref=1CHR_8.28
-19	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.28
-20	láti	láti	X	_	_	0	_	_	Ref=1CHR_8.28
-21	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=1CHR_8.28
-22	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.28
-23	ńlá	ńlá	X	_	_	0	_	_	Ref=1CHR_8.28
-24	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.28|SpaceAfter=No
-25	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.28
-26	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.28
-27	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.28
-28	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.28
-29	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.28
-30	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.28
-31	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=1CHR_8.28|SpaceAfter=No
-32	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.28
+# text_en = These were heads of the fathers, by their generations, chief men. These dwelt in Jerusalem.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=all
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=the
+3	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=these
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=be
+5	olórí	olórí	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=chief
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=the
+7	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.28|SpaceAfter=No|Gloss=house
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.28|Gloss=,
+9	olóyè	olóyè	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=chief
+10	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=according
+11	bí	bí	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=as
+12	a	a	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=be
+13	ti	ti	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=have
+14	kọ	kọ	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=written
+15	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=he
+16	lẹ́sẹsẹ	lẹ́sẹsẹ	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=generations
+17	nínú	nínú	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=in
+18	ìtàn	ìtàn	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=chronicles
+19	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=house
+20	láti	láti	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=to
+21	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=from
+22	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=father
+23	ńlá	ńlá	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=great
+24	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.28|SpaceAfter=No|Gloss=them
+25	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.28|Gloss=,
+26	wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=they
+27	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=and
+28	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=that
+29	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=dwell
+30	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.28|Gloss=in
+31	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=1CHR_8.28|SpaceAfter=No|Gloss=jerusalem
+32	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.28|Gloss=.
 
 # sent_id = 1CHR_8.29
 # text = Jélíélì, baba a Gíbíónì ń gbé ní Gíbíónì. Ìyáwó o Rẹ̀ a má jẹ́ Mákà,
-1	Jélíélì	Jélíélì	PROPN	_	_	0	_	_	Ref=1CHR_8.29|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.29
-3	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.29
-4	a	a	X	_	_	0	_	_	Ref=1CHR_8.29
-5	Gíbíónì	Gíbíónì	PROPN	_	_	0	_	_	Ref=1CHR_8.29
-6	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.29
-7	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.29
-8	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.29
-9	Gíbíónì	Gíbíónì	PROPN	_	_	0	_	_	Ref=1CHR_8.29|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.29
-11	Ìyáwó	ìyáwó	X	_	_	0	_	_	Ref=1CHR_8.29
-12	o	o	X	_	_	0	_	_	Ref=1CHR_8.29
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.29
-14	a	a	X	_	_	0	_	_	Ref=1CHR_8.29
-15	má	má	X	_	_	0	_	_	Ref=1CHR_8.29
-16	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.29
-17	Mákà	Mákà	PROPN	_	_	0	_	_	Ref=1CHR_8.29|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.29
+# text_en = And at Gibeon dwelt the father of Gibeon; whose wife's name was Maachah:
+1	Jélíélì	Jélíélì	PROPN	_	_	0	_	_	Ref=1CHR_8.29|SpaceAfter=No|Gloss=jeiel
+2	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.29|Gloss=,
+3	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=father
+4	a	a	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=be
+5	Gíbíónì	Gíbíónì	PROPN	_	_	0	_	_	Ref=1CHR_8.29|Gloss=gibeon
+6	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=that
+7	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=dwell
+8	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=in
+9	Gíbíónì	Gíbíónì	PROPN	_	_	0	_	_	Ref=1CHR_8.29|SpaceAfter=No|Gloss=gibeon
+10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.29|Gloss=.
+11	Ìyáwó	ìyáwó	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=null
+12	o	o	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=thou
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=his
+14	a	a	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=be
+15	má	má	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=not
+16	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.29|Gloss=be
+17	Mákà	Mákà	PROPN	_	_	0	_	_	Ref=1CHR_8.29|SpaceAfter=No|Gloss=maachah
+18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.29|Gloss=,
 
 # sent_id = 1CHR_8.30
 # text = Àkọ́bí Rẹ̀ a sì má a jẹ́ Ábídónì wọ̀nyí sì ń tẹ̀lé Ṣúrì, Kíṣì, Báláhì, Nérì, Nádábù,
+# text_en = And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab,
 1	Àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_8.30
-2	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.30
-3	a	a	X	_	_	0	_	_	Ref=1CHR_8.30
-4	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.30
-5	má	má	X	_	_	0	_	_	Ref=1CHR_8.30
-6	a	a	X	_	_	0	_	_	Ref=1CHR_8.30
-7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.30
-8	Ábídónì	Ábídónì	PROPN	_	_	0	_	_	Ref=1CHR_8.30
-9	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.30
-10	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.30
-11	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.30
-12	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=1CHR_8.30
-13	Ṣúrì	Ṣúrì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30
-15	Kíṣì	Kíṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30
-17	Báláhì	Báláhì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30
-19	Nérì	Nérì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No
-20	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30
-21	Nádábù	Nádábù	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No
-22	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30
+2	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=his
+3	a	a	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=be
+4	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=and
+5	má	má	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=not
+6	a	a	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=be
+7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=be
+8	Ábídónì	Ábídónì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|Gloss=abdon
+9	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=these
+10	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=and
+11	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=that
+12	tẹ̀lé	tẹ̀lé	X	_	_	0	_	_	Ref=1CHR_8.30|Gloss=after
+13	Ṣúrì	Ṣúrì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No|Gloss=shur
+14	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30|Gloss=,
+15	Kíṣì	Kíṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No|Gloss=kish
+16	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30|Gloss=,
+17	Báláhì	Báláhì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No|Gloss=balah
+18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30|Gloss=,
+19	Nérì	Nérì	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No|Gloss=ner
+20	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30|Gloss=,
+21	Nádábù	Nádábù	PROPN	_	_	0	_	_	Ref=1CHR_8.30|SpaceAfter=No|Gloss=nadab
+22	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.30|Gloss=,
 
 # sent_id = 1CHR_8.31
 # text = Gédórì Áhíò, Ṣékérì
-1	Gédórì	Gédórì	PROPN	_	_	0	_	_	Ref=1CHR_8.31
-2	Áhíò	Áhíò	PROPN	_	_	0	_	_	Ref=1CHR_8.31|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.31
-4	Ṣékérì	Ṣékérì	PROPN	_	_	0	_	_	Ref=1CHR_8.31
+# text_en = And Gedor, and Ahio, and Zacher.
+1	Gédórì	Gédórì	PROPN	_	_	0	_	_	Ref=1CHR_8.31|Gloss=gedor
+2	Áhíò	Áhíò	PROPN	_	_	0	_	_	Ref=1CHR_8.31|SpaceAfter=No|Gloss=ahio
+3	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.31|Gloss=,
+4	Ṣékérì	Ṣékérì	PROPN	_	_	0	_	_	Ref=1CHR_8.31|Gloss=zacher
 
 # sent_id = 1CHR_8.32
 # text = Pẹ̀lú Míkílótì, tí ó jẹ́ bàbá Ṣíméà. Wọ́n ń gbé lébá ìbátan wọn ní Jérúsálẹ́mù.
-1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.32
-2	Míkílótì	Míkílótì	PROPN	_	_	0	_	_	Ref=1CHR_8.32|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.32
-4	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.32
-5	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.32
-6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.32
-7	bàbá	bàbá	X	_	_	0	_	_	Ref=1CHR_8.32
-8	Ṣíméà	Ṣíméà	PROPN	_	_	0	_	_	Ref=1CHR_8.32|SpaceAfter=No
-9	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.32
-10	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.32
-11	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.32
-12	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.32
-13	lébá	lébá	X	_	_	0	_	_	Ref=1CHR_8.32
-14	ìbátan	ìbátan	X	_	_	0	_	_	Ref=1CHR_8.32
-15	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.32
-16	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.32
-17	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=1CHR_8.32|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.32
+# text_en = And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.
+1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=with
+2	Míkílótì	Míkílótì	PROPN	_	_	0	_	_	Ref=1CHR_8.32|SpaceAfter=No|Gloss=mikloth
+3	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.32|Gloss=,
+4	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=that
+5	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=he
+6	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=be
+7	bàbá	bàbá	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=father
+8	Ṣíméà	Ṣíméà	PROPN	_	_	0	_	_	Ref=1CHR_8.32|SpaceAfter=No|Gloss=shimeah
+9	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.32|Gloss=.
+10	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=they
+11	ń	ń	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=that
+12	gbé	gbé	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=dwell
+13	lébá	lébá	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=null
+14	ìbátan	ìbátan	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=brethren
+15	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=them
+16	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.32|Gloss=in
+17	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=1CHR_8.32|SpaceAfter=No|Gloss=jerusalem
+18	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.32|Gloss=.
 
 # sent_id = 1CHR_8.33
 # text = Mérì jẹ́ baba Kíṣì, Kíṣì baba Ṣọ́ọ̀lù àti Ṣọ́ọ̀lù baba Jónátanì, Málìkíṣúà, Ábínádábù àti Ésíbálì.
-1	Mérì	mérì	X	_	_	0	_	_	Ref=1CHR_8.33
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.33
-3	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.33
-4	Kíṣì	Kíṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33
-6	Kíṣì	Kíṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.33
-7	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.33
-8	Ṣọ́ọ̀lù	Ṣọ́ọ̀lù	PROPN	_	_	0	_	_	Ref=1CHR_8.33
-9	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.33
-10	Ṣọ́ọ̀lù	Ṣọ́ọ̀lù	PROPN	_	_	0	_	_	Ref=1CHR_8.33
-11	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.33
-12	Jónátanì	Jónátanì	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33
-14	Málìkíṣúà	Málìkíṣúà	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33
-16	Ábínádábù	Ábínádábù	PROPN	_	_	0	_	_	Ref=1CHR_8.33
-17	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.33
-18	Ésíbálì	Ésíbálì	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33
+# text_en = And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchi-shua, and Abinadab, and Esh-baal.
+1	Mérì	mérì	X	_	_	0	_	_	Ref=1CHR_8.33|Gloss=null
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.33|Gloss=be
+3	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.33|Gloss=father
+4	Kíṣì	Kíṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No|Gloss=kish
+5	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33|Gloss=,
+6	Kíṣì	Kíṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.33|Gloss=kish
+7	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.33|Gloss=father
+8	Ṣọ́ọ̀lù	Ṣọ́ọ̀lù	PROPN	_	_	0	_	_	Ref=1CHR_8.33|Gloss=saul
+9	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.33|Gloss=and
+10	Ṣọ́ọ̀lù	Ṣọ́ọ̀lù	PROPN	_	_	0	_	_	Ref=1CHR_8.33|Gloss=saul
+11	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.33|Gloss=father
+12	Jónátanì	Jónátanì	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No|Gloss=jonathan
+13	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33|Gloss=,
+14	Málìkíṣúà	Málìkíṣúà	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No|Gloss=null
+15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33|Gloss=,
+16	Ábínádábù	Ábínádábù	PROPN	_	_	0	_	_	Ref=1CHR_8.33|Gloss=abinadab
+17	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.33|Gloss=and
+18	Ésíbálì	Ésíbálì	PROPN	_	_	0	_	_	Ref=1CHR_8.33|SpaceAfter=No|Gloss=esh-baal
+19	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.33|Gloss=.
 
 # sent_id = 1CHR_8.34
 # text = Ọmọ Jónátanì: Méríbáì tí ó jẹ́ baba Míkà.
-1	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.34
-2	Jónátanì	Jónátanì	PROPN	_	_	0	_	_	Ref=1CHR_8.34|SpaceAfter=No
-3	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.34
-4	Méríbáì	Méríbáì	PROPN	_	_	0	_	_	Ref=1CHR_8.34
-5	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.34
-6	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.34
-7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.34
-8	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.34
-9	Míkà	Míkà	PROPN	_	_	0	_	_	Ref=1CHR_8.34|SpaceAfter=No
-10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.34
+# text_en = And the son of Jonathan was Merib-baal; and Merib-baal begat Micah.
+1	Ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.34|Gloss=son
+2	Jónátanì	Jónátanì	PROPN	_	_	0	_	_	Ref=1CHR_8.34|SpaceAfter=No|Gloss=jonathan
+3	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.34|Gloss=:
+4	Méríbáì	Méríbáì	PROPN	_	_	0	_	_	Ref=1CHR_8.34|Gloss=merib-baal
+5	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.34|Gloss=that
+6	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.34|Gloss=he
+7	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.34|Gloss=be
+8	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.34|Gloss=father
+9	Míkà	Míkà	PROPN	_	_	0	_	_	Ref=1CHR_8.34|SpaceAfter=No|Gloss=micah
+10	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.34|Gloss=.
 
 # sent_id = 1CHR_8.35
 # text = Àwọn ọmọ Míkà: Pítónì, Mélékì, Táréà, àti Áhásì.
+# text_en = And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
 1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.35
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.35
-3	Míkà	Míkà	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No
-4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35
-5	Pítónì	Pítónì	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35
-7	Mélékì	Mélékì	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35
-9	Táréà	Táréà	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35
-11	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.35
-12	Áhásì	Áhásì	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.35|Gloss=son
+3	Míkà	Míkà	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No|Gloss=micah
+4	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35|Gloss=:
+5	Pítónì	Pítónì	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No|Gloss=pithon
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35|Gloss=,
+7	Mélékì	Mélékì	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No|Gloss=melech
+8	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35|Gloss=,
+9	Táréà	Táréà	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No|Gloss=tarea
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35|Gloss=,
+11	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.35|Gloss=and
+12	Áhásì	Áhásì	PROPN	_	_	0	_	_	Ref=1CHR_8.35|SpaceAfter=No|Gloss=ahaz
+13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.35|Gloss=.
 
 # sent_id = 1CHR_8.36
 # text = Áhásì jẹ́ bàbá a Jéhóádá, Jéhóádá jẹ́ baba a Álémétì Áṣíméfétì àti Ṣímírì, Ṣímírì sì jẹ́ baba a Móṣà.
-1	Áhásì	Áhásì	PROPN	_	_	0	_	_	Ref=1CHR_8.36
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.36
+# text_en = And Ahaz begat Jehoadah; and Jehoadah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza,
+1	Áhásì	Áhásì	PROPN	_	_	0	_	_	Ref=1CHR_8.36|Gloss=ahaz
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=be
 3	bàbá	bàbá	X	_	_	0	_	_	Ref=1CHR_8.36
-4	a	a	X	_	_	0	_	_	Ref=1CHR_8.36
-5	Jéhóádá	Jéhóádá	PROPN	_	_	0	_	_	Ref=1CHR_8.36|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.36
-7	Jéhóádá	Jéhóádá	PROPN	_	_	0	_	_	Ref=1CHR_8.36
-8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.36
-9	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.36
-10	a	a	X	_	_	0	_	_	Ref=1CHR_8.36
-11	Álémétì	Álémétì	PROPN	_	_	0	_	_	Ref=1CHR_8.36
-12	Áṣíméfétì	Áṣíméfétì	PROPN	_	_	0	_	_	Ref=1CHR_8.36
-13	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.36
-14	Ṣímírì	Ṣímírì	PROPN	_	_	0	_	_	Ref=1CHR_8.36|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.36
-16	Ṣímírì	Ṣímírì	PROPN	_	_	0	_	_	Ref=1CHR_8.36
-17	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.36
-18	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.36
-19	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.36
-20	a	a	X	_	_	0	_	_	Ref=1CHR_8.36
-21	Móṣà	Móṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.36|SpaceAfter=No
-22	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.36
+4	a	a	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=be
+5	Jéhóádá	Jéhóádá	PROPN	_	_	0	_	_	Ref=1CHR_8.36|SpaceAfter=No|Gloss=jehoadah
+6	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.36|Gloss=,
+7	Jéhóádá	Jéhóádá	PROPN	_	_	0	_	_	Ref=1CHR_8.36|Gloss=jehoadah
+8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=be
+9	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=father
+10	a	a	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=be
+11	Álémétì	Álémétì	PROPN	_	_	0	_	_	Ref=1CHR_8.36|Gloss=alemeth
+12	Áṣíméfétì	Áṣíméfétì	PROPN	_	_	0	_	_	Ref=1CHR_8.36|Gloss=null
+13	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=and
+14	Ṣímírì	Ṣímírì	PROPN	_	_	0	_	_	Ref=1CHR_8.36|SpaceAfter=No|Gloss=zimri
+15	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.36|Gloss=,
+16	Ṣímírì	Ṣímírì	PROPN	_	_	0	_	_	Ref=1CHR_8.36|Gloss=zimri
+17	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=and
+18	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=be
+19	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=father
+20	a	a	X	_	_	0	_	_	Ref=1CHR_8.36|Gloss=be
+21	Móṣà	Móṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.36|SpaceAfter=No|Gloss=moza
+22	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.36|Gloss=.
 
 # sent_id = 1CHR_8.37
 # text = Móṣà jẹ́ baba a Bínéà; Ráfà sì jẹ́ ọmọ Rẹ̀, Éléásà ọmọ Rẹ̀ àti Áṣélì ọmọ Rẹ̀.
-1	Móṣà	Móṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.37
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.37
-3	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.37
-4	a	a	X	_	_	0	_	_	Ref=1CHR_8.37
-5	Bínéà	Bínéà	PROPN	_	_	0	_	_	Ref=1CHR_8.37|SpaceAfter=No
-6	;	;	PUNCT	_	_	0	punct	_	Ref=1CHR_8.37
-7	Ráfà	ráfà	X	_	_	0	_	_	Ref=1CHR_8.37
-8	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.37
-9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.37
-10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.37
-11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.37|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.37
-13	Éléásà	Éléásà	PROPN	_	_	0	_	_	Ref=1CHR_8.37
-14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.37
-15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.37
-16	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.37
-17	Áṣélì	Áṣélì	PROPN	_	_	0	_	_	Ref=1CHR_8.37
-18	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.37
-19	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.37|SpaceAfter=No
+# text_en = And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:
+1	Móṣà	Móṣà	PROPN	_	_	0	_	_	Ref=1CHR_8.37|Gloss=moza
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=be
+3	baba	baba	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=father
+4	a	a	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=be
+5	Bínéà	Bínéà	PROPN	_	_	0	_	_	Ref=1CHR_8.37|SpaceAfter=No|Gloss=binea
+6	;	;	PUNCT	_	_	0	punct	_	Ref=1CHR_8.37|Gloss=;
+7	Ráfà	ráfà	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=rapha
+8	sì	sì	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=and
+9	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=be
+10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=son
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.37|SpaceAfter=No|Gloss=his
+12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.37|Gloss=,
+13	Éléásà	Éléásà	PROPN	_	_	0	_	_	Ref=1CHR_8.37|Gloss=eleasah
+14	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=son
+15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=his
+16	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=and
+17	Áṣélì	Áṣélì	PROPN	_	_	0	_	_	Ref=1CHR_8.37|Gloss=azel
+18	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.37|Gloss=son
+19	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.37|SpaceAfter=No|Gloss=his
 20	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.37
 
 # sent_id = 1CHR_8.38
 # text = Áṣélì ní ọmọ mẹ́fà pẹ̀lú wọ̀nyí ni orúkọ wọn: Áṣíríkámù, Bókérù, Íṣímáélì, Ṣéáríà, Ọbádáyà àti Hánánì. Gbogbo wọ̀nyí ni ọmọ Áṣélì.
-1	Áṣélì	Áṣélì	PROPN	_	_	0	_	_	Ref=1CHR_8.38
-2	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.38
-3	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.38
-4	mẹ́fà	mẹ́fà	X	_	_	0	_	_	Ref=1CHR_8.38
-5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.38
-6	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.38
-7	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.38
-8	orúkọ	orúkọ	X	_	_	0	_	_	Ref=1CHR_8.38
-9	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No
-10	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38
-11	Áṣíríkámù	Áṣíríkámù	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38
-13	Bókérù	Bókérù	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38
-15	Íṣímáélì	Íṣímáélì	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38
-17	Ṣéáríà	Ṣéáríà	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38
-19	Ọbádáyà	Ọbádáyà	PROPN	_	_	0	_	_	Ref=1CHR_8.38
-20	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.38
-21	Hánánì	hánánì	X	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No
-22	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38
-23	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.38
-24	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.38
-25	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.38
-26	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.38
-27	Áṣélì	Áṣélì	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No
-28	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38
+# text_en = And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel.
+1	Áṣélì	Áṣélì	PROPN	_	_	0	_	_	Ref=1CHR_8.38|Gloss=azel
+2	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=in
+3	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=son
+4	mẹ́fà	mẹ́fà	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=six
+5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=with
+6	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=these
+7	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=is
+8	orúkọ	orúkọ	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=name
+9	wọn	wọn	X	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No|Gloss=them
+10	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38|Gloss=:
+11	Áṣíríkámù	Áṣíríkámù	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No|Gloss=bocheru
+12	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38|Gloss=,
+13	Bókérù	Bókérù	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No|Gloss=null
+14	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38|Gloss=,
+15	Íṣímáélì	Íṣímáélì	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No|Gloss=ishmael
+16	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38|Gloss=,
+17	Ṣéáríà	Ṣéáríà	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No|Gloss=sheariah
+18	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38|Gloss=,
+19	Ọbádáyà	Ọbádáyà	PROPN	_	_	0	_	_	Ref=1CHR_8.38|Gloss=obadiah
+20	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=and
+21	Hánánì	hánánì	X	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No|Gloss=hanan
+22	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38|Gloss=.
+23	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=all
+24	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=these
+25	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=is
+26	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.38|Gloss=son
+27	Áṣélì	Áṣélì	PROPN	_	_	0	_	_	Ref=1CHR_8.38|SpaceAfter=No|Gloss=azel
+28	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.38|Gloss=.
 
 # sent_id = 1CHR_8.39
 # text = Àwọn ọmọ arákùnrin Rẹ̀ Éṣékì: Úlámù àkọ́bí Rẹ̀, Jéúṣì ọmọkùnrin ẹ̀ẹ̀kejì àti Élífélétì ẹ̀ẹ̀kẹ́ta.
+# text_en = And the sons of Eshek his brother were, Ulam his firstborn, Jehush the second, and Eliphelet the third.
 1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.39
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.39
-3	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=1CHR_8.39
-4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.39
-5	Éṣékì	Éṣékì	PROPN	_	_	0	_	_	Ref=1CHR_8.39|SpaceAfter=No
-6	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.39
-7	Úlámù	Úlámù	PROPN	_	_	0	_	_	Ref=1CHR_8.39
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.39|Gloss=son
+3	arákùnrin	arákùnrin	X	_	_	0	_	_	Ref=1CHR_8.39|Gloss=brother
+4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.39|Gloss=his
+5	Éṣékì	Éṣékì	PROPN	_	_	0	_	_	Ref=1CHR_8.39|SpaceAfter=No|Gloss=eshek
+6	:	:	PUNCT	_	_	0	punct	_	Ref=1CHR_8.39|Gloss=:
+7	Úlámù	Úlámù	PROPN	_	_	0	_	_	Ref=1CHR_8.39|Gloss=ulam
 8	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=1CHR_8.39
-9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.39|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.39
-11	Jéúṣì	Jéúṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.39
-12	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.39
-13	ẹ̀ẹ̀kejì	ẹ̀ẹ̀kejì	X	_	_	0	_	_	Ref=1CHR_8.39
-14	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.39
-15	Élífélétì	Élífélétì	PROPN	_	_	0	_	_	Ref=1CHR_8.39
-16	ẹ̀ẹ̀kẹ́ta	ẹ̀ẹ̀kẹ́ta	X	_	_	0	_	_	Ref=1CHR_8.39|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.39
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.39|SpaceAfter=No|Gloss=his
+10	,	,	PUNCT	_	_	0	punct	_	Ref=1CHR_8.39|Gloss=,
+11	Jéúṣì	Jéúṣì	PROPN	_	_	0	_	_	Ref=1CHR_8.39|Gloss=jeush
+12	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.39|Gloss=sons
+13	ẹ̀ẹ̀kejì	ẹ̀ẹ̀kejì	X	_	_	0	_	_	Ref=1CHR_8.39|Gloss=second
+14	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.39|Gloss=and
+15	Élífélétì	Élífélétì	PROPN	_	_	0	_	_	Ref=1CHR_8.39|Gloss=eliphelet
+16	ẹ̀ẹ̀kẹ́ta	ẹ̀ẹ̀kẹ́ta	X	_	_	0	_	_	Ref=1CHR_8.39|SpaceAfter=No|Gloss=third
+17	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.39|Gloss=.
 
 # sent_id = 1CHR_8.40
 # text = Àwọn ọmọ Úlámù jẹ́ ògboyà jagunjagun tí ó lè gbá orin mú. Wọ́n ní ọ̀pọ̀ ọmọkùnrin àti ọmọ ọmọkùnrin márùndínlọ́gọ́jọ ní gbogbo Rẹ̀. Gbogbo wọ̀nyí ni àwọn ìdílé ìran ọmọ Bẹ́ńjámínì.
-1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.40
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.40
-3	Úlámù	Úlámù	PROPN	_	_	0	_	_	Ref=1CHR_8.40
-4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.40
-5	ògboyà	ògboyà	X	_	_	0	_	_	Ref=1CHR_8.40
-6	jagunjagun	jagunjagun	X	_	_	0	_	_	Ref=1CHR_8.40
-7	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.40
-8	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.40
-9	lè	lè	X	_	_	0	_	_	Ref=1CHR_8.40
-10	gbá	gbá	X	_	_	0	_	_	Ref=1CHR_8.40
-11	orin	orin	X	_	_	0	_	_	Ref=1CHR_8.40
-12	mú	mú	X	_	_	0	_	_	Ref=1CHR_8.40|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.40
-14	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.40
-15	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.40
-16	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=1CHR_8.40
-17	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.40
-18	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.40
-19	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.40
-20	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.40
-21	márùndínlọ́gọ́jọ	márùndínlọ́gọ́jọ	X	_	_	0	_	_	Ref=1CHR_8.40
-22	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.40
-23	gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.40
-24	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.40|SpaceAfter=No
-25	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.40
-26	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.40
-27	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.40
-28	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.40
-29	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.40
-30	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.40
-31	ìran	ìran	X	_	_	0	_	_	Ref=1CHR_8.40
-32	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.40
-33	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=1CHR_8.40|SpaceAfter=No
-34	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.40
+# text_en = And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons' sons, an hundred and fifty. All these are of the sons of Benjamin.
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=the
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=them
+3	Úlámù	Úlámù	PROPN	_	_	0	_	_	Ref=1CHR_8.40|Gloss=son
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=ulam
+5	ògboyà	ògboyà	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=be
+6	jagunjagun	jagunjagun	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=null
+7	tí	tí	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=mighty
+8	ó	ó	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=that
+9	lè	lè	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=he
+10	gbá	gbá	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=may
+11	orin	orin	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=hold
+12	mú	mú	X	_	_	0	_	_	Ref=1CHR_8.40|SpaceAfter=No|Gloss=song
+13	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.40|Gloss=brought
+14	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=.
+15	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=they
+16	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=in
+17	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=many
+18	àti	àti	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=sons
+19	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=and
+20	ọmọkùnrin	ọmọkùnrin	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=son
+21	márùndínlọ́gọ́jọ	márùndínlọ́gọ́jọ	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=sons
+22	ní	ní	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=null
+23	gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=in
+24	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=1CHR_8.40|SpaceAfter=No|Gloss=all
+25	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.40|Gloss=.
+26	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=all
+27	wọ̀nyí	wọ̀nyí	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=these
+28	ni	ni	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=is
+29	àwọn	àwọn	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=the
+30	ìdílé	ìdílé	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=house
+31	ìran	ìran	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=generation
+32	ọmọ	ọmọ	X	_	_	0	_	_	Ref=1CHR_8.40|Gloss=son
+33	Bẹ́ńjámínì	Bẹ́ńjámínì	PROPN	_	_	0	_	_	Ref=1CHR_8.40|SpaceAfter=No|Gloss=benjamin
+34	.	.	PUNCT	_	_	0	punct	_	Ref=1CHR_8.40|Gloss=.
 
