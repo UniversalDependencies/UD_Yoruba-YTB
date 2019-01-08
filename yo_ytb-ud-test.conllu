@@ -1527,7 +1527,7 @@
 15	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	19	advmod	_	Gloss=according|Ref=JOHN_10.26
 16	bí	bí	SCONJ	_	_	19	mark	_	Gloss=as|Ref=JOHN_10.26
 17	mo	mo	VERB	_	_	19	nsubj	_	Gloss=i|Ref=JOHN_10.26
-18	tí	ti	AUX	_	PronType=Rel	19	aux	_	Gloss=that|Ref=JOHN_10.26
+18	tí	tí	AUX	_	=	19	aux	_	Gloss=that|Ref=JOHN_10.26
 19	wí	wí	VERB	_	_	9	advcl	_	Gloss=said|Ref=JOHN_10.26
 20	fún	fún	ADP	_	_	21	case	_	Gloss=unto|Ref=JOHN_10.26
 21	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	obl	_	Gloss=you|Ref=JOHN_10.26|SpaceAfter=No
@@ -2812,7 +2812,7 @@
 41	kẹrin	kẹrin	ADJ	_	_	40	amod	_	Gloss=fourth|Ref=JOHN_11.39
 42	tí	tí	PRON	_	PronType=Rel	45	obl	_	Gloss=that|Ref=JOHN_11.39
 43	ó	ó	AUX	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	45	nsubj	_	Gloss=he|Ref=JOHN_11.39
-44	tí	ti	AUX	_	PronType=Rel	45	aux	_	Gloss=that|Ref=JOHN_11.39
+44	tí	ti	AUX	_	Typo=Yes	45	aux	_	Gloss=that|Ref=JOHN_11.39
 45	kú	kú	VERB	_	_	40	acl	_	Gloss=die|Ref=JOHN_11.39|SpaceAfter=No
 46	.	.	PUNCT	_	_	32	punct	_	Gloss=.|Ref=JOHN_11.39|SpaceAfter=No
 47	”	”	PUNCT	_	_	32	punct	_	Gloss=”|Ref=JOHN_11.39
