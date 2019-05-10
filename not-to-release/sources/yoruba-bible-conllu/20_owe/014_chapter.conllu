@@ -2,746 +2,781 @@
 # newdoc id = PROV_14
 # sent_id = PROV_14.1
 # text = Ọlọ́gbọ́n obìnrin kọ́ ilé e rẹ̀, ṣùgbọ́n aláìgbọ́n obìnrin fi ọwọ́ ara rẹ̀ wó o.
-1	Ọlọ́gbọ́n	ọlọ́gbọ́n	X	_	_	0	_	_	Ref=PROV_14.1
-2	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PROV_14.1
-3	kọ́	kọ́	X	_	_	0	_	_	Ref=PROV_14.1
-4	ilé	ilé	X	_	_	0	_	_	Ref=PROV_14.1
-5	e	e	X	_	_	0	_	_	Ref=PROV_14.1
-6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.1|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.1
-8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.1
-9	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.1
-10	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PROV_14.1
-11	fi	fi	X	_	_	0	_	_	Ref=PROV_14.1
-12	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=PROV_14.1
-13	ara	ara	X	_	_	0	_	_	Ref=PROV_14.1
-14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.1
-15	wó	wó	X	_	_	0	_	_	Ref=PROV_14.1
+# text_en = Every wise woman buildeth her house: but the foolish plucketh it down with her hands.
+1	Ọlọ́gbọ́n	ọlọ́gbọ́n	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=wise
+2	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=woman
+3	kọ́	kọ́	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=build
+4	ilé	ilé	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=house
+5	e	e	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=him
+6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.1|SpaceAfter=No|Gloss=his
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.1|Gloss=,
+8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=but
+9	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=fool
+10	obìnrin	obìnrin	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=woman
+11	fi	fi	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=with
+12	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=hand
+13	ara	ara	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=himself
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=his
+15	wó	wó	X	_	_	0	_	_	Ref=PROV_14.1|Gloss=broken
 16	o	o	X	_	_	0	_	_	Ref=PROV_14.1|SpaceAfter=No
 17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.1
 
 # sent_id = PROV_14.2
 # text = Ẹni tí ń rìn déédé bẹ̀rù Olúwa , ṣùgbọ́n ẹni tí ọ̀nà rẹ̀ kò tọ́ kẹ́gàn Olúwa .
-1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.2
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.2
-3	ń	ń	X	_	_	0	_	_	Ref=PROV_14.2
-4	rìn	rìn	X	_	_	0	_	_	Ref=PROV_14.2
-5	déédé	déédé	X	_	_	0	_	_	Ref=PROV_14.2
-6	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.2
-7	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.2
-8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.2
-9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.2
-10	ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.2
-11	tí	tí	X	_	_	0	_	_	Ref=PROV_14.2
-12	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_14.2
-13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.2
-14	kò	kò	X	_	_	0	_	_	Ref=PROV_14.2
-15	tọ́	tọ́	X	_	_	0	_	_	Ref=PROV_14.2
-16	kẹ́gàn	kẹ́gàn	X	_	_	0	_	_	Ref=PROV_14.2
-17	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.2
-18	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.2
+# text_en = He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him.
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=that
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=that
+3	ń	ń	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=that
+4	rìn	rìn	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=walk
+5	déédé	déédé	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=the
+6	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=fear
+7	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=lord
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.2|Gloss=,
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=but
+10	ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=that
+11	tí	tí	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=that
+12	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=way
+13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=his
+14	kò	kò	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=not
+15	tọ́	tọ́	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=right
+16	kẹ́gàn	kẹ́gàn	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=despised
+17	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.2|Gloss=lord
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.2|Gloss=.
 
 # sent_id = PROV_14.3
 # text = Ọ̀rọ̀ aṣiwèrè a máa ṣokùnfà pàsán fún ẹ̀yìn rẹ̀, ṣùgbọ́n ọ̀rọ̀ ètè ọlọ́gbọ́n a máa dáàbò bò ó.
-1	Ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PROV_14.3
-2	aṣiwèrè	aṣiwèrè	X	_	_	0	_	_	Ref=PROV_14.3
-3	a	a	X	_	_	0	_	_	Ref=PROV_14.3
-4	máa	máa	X	_	_	0	_	_	Ref=PROV_14.3
-5	ṣokùnfà	ṣokùnfà	X	_	_	0	_	_	Ref=PROV_14.3
-6	pàsán	pàsán	X	_	_	0	_	_	Ref=PROV_14.3
-7	fún	fún	X	_	_	0	_	_	Ref=PROV_14.3
-8	ẹ̀yìn	ẹ̀yìn	X	_	_	0	_	_	Ref=PROV_14.3
-9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.3|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.3
-11	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.3
-12	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PROV_14.3
-13	ètè	ètè	X	_	_	0	_	_	Ref=PROV_14.3
-14	ọlọ́gbọ́n	ọlọ́gbọ́n	X	_	_	0	_	_	Ref=PROV_14.3
-15	a	a	X	_	_	0	_	_	Ref=PROV_14.3
-16	máa	máa	X	_	_	0	_	_	Ref=PROV_14.3
-17	dáàbò	dáàbò	X	_	_	0	_	_	Ref=PROV_14.3
-18	bò	bò	X	_	_	0	_	_	Ref=PROV_14.3
-19	ó	ó	X	_	_	0	_	_	Ref=PROV_14.3|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.3
+# text_en = In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.
+1	Ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=word
+2	aṣiwèrè	aṣiwèrè	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=fool
+3	a	a	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=be
+4	máa	máa	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=be
+5	ṣokùnfà	ṣokùnfà	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=null
+6	pàsán	pàsán	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=stripes
+7	fún	fún	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=unto
+8	ẹ̀yìn	ẹ̀yìn	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=back
+9	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.3|SpaceAfter=No|Gloss=his
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.3|Gloss=,
+11	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=but
+12	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=word
+13	ètè	ètè	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=lips
+14	ọlọ́gbọ́n	ọlọ́gbọ́n	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=wise
+15	a	a	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=be
+16	máa	máa	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=be
+17	dáàbò	dáàbò	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=defend
+18	bò	bò	X	_	_	0	_	_	Ref=PROV_14.3|Gloss=covered
+19	ó	ó	X	_	_	0	_	_	Ref=PROV_14.3|SpaceAfter=No|Gloss=covered
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.3|Gloss=.
 
 # sent_id = PROV_14.4
 # text = Níbi tí kò sí ẹran, ibùjẹ ẹran a máa mọ́ tónítóní ṣùgbọ́n, nípa agbára akọ màlúù ni ọ̀pọ̀ ìkórè ti ń wá.
-1	Níbi	níbi	X	_	_	0	_	_	Ref=PROV_14.4
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.4
-3	kò	kò	X	_	_	0	_	_	Ref=PROV_14.4
-4	sí	sí	X	_	_	0	_	_	Ref=PROV_14.4
-5	ẹran	ẹran	X	_	_	0	_	_	Ref=PROV_14.4|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.4
-7	ibùjẹ	ibùjẹ	X	_	_	0	_	_	Ref=PROV_14.4
-8	ẹran	ẹran	X	_	_	0	_	_	Ref=PROV_14.4
-9	a	a	X	_	_	0	_	_	Ref=PROV_14.4
-10	máa	máa	X	_	_	0	_	_	Ref=PROV_14.4
-11	mọ́	mọ́	X	_	_	0	_	_	Ref=PROV_14.4
-12	tónítóní	tónítóní	X	_	_	0	_	_	Ref=PROV_14.4
-13	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.4|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.4
-15	nípa	nípa	X	_	_	0	_	_	Ref=PROV_14.4
-16	agbára	agbára	X	_	_	0	_	_	Ref=PROV_14.4
-17	akọ	akọ	X	_	_	0	_	_	Ref=PROV_14.4
-18	màlúù	màlúù	X	_	_	0	_	_	Ref=PROV_14.4
-19	ni	ni	X	_	_	0	_	_	Ref=PROV_14.4
-20	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=PROV_14.4
-21	ìkórè	ìkórè	X	_	_	0	_	_	Ref=PROV_14.4
-22	ti	ti	X	_	_	0	_	_	Ref=PROV_14.4
-23	ń	ń	X	_	_	0	_	_	Ref=PROV_14.4
+# text_en = Where no oxen are, the crib is clean: but much increase is by the strength of the ox.
+1	Níbi	níbi	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=where
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=that
+3	kò	kò	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=not
+4	sí	sí	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=to
+5	ẹran	ẹran	X	_	_	0	_	_	Ref=PROV_14.4|SpaceAfter=No|Gloss=flesh
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.4|Gloss=,
+7	ibùjẹ	ibùjẹ	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=crib
+8	ẹran	ẹran	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=flesh
+9	a	a	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=be
+10	máa	máa	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=be
+11	mọ́	mọ́	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=more
+12	tónítóní	tónítóní	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=purer
+13	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.4|SpaceAfter=No|Gloss=but
+14	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.4|Gloss=,
+15	nípa	nípa	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=by
+16	agbára	agbára	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=power
+17	akọ	akọ	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=bullock
+18	màlúù	màlúù	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=oxen
+19	ni	ni	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=is
+20	ọ̀pọ̀	ọ̀pọ̀	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=many
+21	ìkórè	ìkórè	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=harvest
+22	ti	ti	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=have
+23	ń	ń	X	_	_	0	_	_	Ref=PROV_14.4|Gloss=that
 24	wá	wá	X	_	_	0	_	_	Ref=PROV_14.4|SpaceAfter=No
 25	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.4
 
 # sent_id = PROV_14.5
 # text = Ẹlẹ́rìí tí ń sòótọ́ kì í tan ni ṣùgbọ́n ẹlẹ́rìí èké a máa tú irọ́ jáde.
-1	Ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.5
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.5
-3	ń	ń	X	_	_	0	_	_	Ref=PROV_14.5
-4	sòótọ́	sòótọ́	X	_	_	0	_	_	Ref=PROV_14.5
-5	kì	kì	X	_	_	0	_	_	Ref=PROV_14.5
-6	í	í	X	_	_	0	_	_	Ref=PROV_14.5
-7	tan	tan	X	_	_	0	_	_	Ref=PROV_14.5
-8	ni	ni	X	_	_	0	_	_	Ref=PROV_14.5
-9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.5
-10	ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.5
-11	èké	èké	X	_	_	0	_	_	Ref=PROV_14.5
-12	a	a	X	_	_	0	_	_	Ref=PROV_14.5
-13	máa	máa	X	_	_	0	_	_	Ref=PROV_14.5
-14	tú	tú	X	_	_	0	_	_	Ref=PROV_14.5
-15	irọ́	irọ́	X	_	_	0	_	_	Ref=PROV_14.5
-16	jáde	jáde	X	_	_	0	_	_	Ref=PROV_14.5|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.5
+# text_en = A faithful witness will not lie: but a false witness will utter lies.
+1	Ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=witnesses
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=that
+3	ń	ń	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=that
+4	sòótọ́	sòótọ́	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=lip
+5	kì	kì	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=not
+6	í	í	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=was
+7	tan	tan	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=had
+8	ni	ni	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=is
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=but
+10	ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=witnesses
+11	èké	èké	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=false
+12	a	a	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=be
+13	máa	máa	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=be
+14	tú	tú	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=poured
+15	irọ́	irọ́	X	_	_	0	_	_	Ref=PROV_14.5|Gloss=lies
+16	jáde	jáde	X	_	_	0	_	_	Ref=PROV_14.5|SpaceAfter=No|Gloss=out
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.5|Gloss=.
 
 # sent_id = PROV_14.6
 # text = Ẹlẹ́gàn ń wá ọgbọ́n kò sì rí rárá, ṣùgbọ́n ìmọ̀ máa ń wà fún olóye.
-1	Ẹlẹ́gàn	ẹlẹ́gàn	X	_	_	0	_	_	Ref=PROV_14.6
-2	ń	ń	X	_	_	0	_	_	Ref=PROV_14.6
-3	wá	wá	X	_	_	0	_	_	Ref=PROV_14.6
-4	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.6
-5	kò	kò	X	_	_	0	_	_	Ref=PROV_14.6
-6	sì	sì	X	_	_	0	_	_	Ref=PROV_14.6
-7	rí	rí	X	_	_	0	_	_	Ref=PROV_14.6
-8	rárá	rárá	X	_	_	0	_	_	Ref=PROV_14.6|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.6
-10	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.6
-11	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=PROV_14.6
-12	máa	máa	X	_	_	0	_	_	Ref=PROV_14.6
-13	ń	ń	X	_	_	0	_	_	Ref=PROV_14.6
-14	wà	wà	X	_	_	0	_	_	Ref=PROV_14.6
-15	fún	fún	X	_	_	0	_	_	Ref=PROV_14.6
-16	olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.6|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.6
+# text_en = A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.
+1	Ẹlẹ́gàn	ẹlẹ́gàn	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=scorner
+2	ń	ń	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=that
+3	wá	wá	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=come
+4	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=wisdom
+5	kò	kò	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=not
+6	sì	sì	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=and
+7	rí	rí	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=saw
+8	rárá	rárá	X	_	_	0	_	_	Ref=PROV_14.6|SpaceAfter=No|Gloss=nay
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.6|Gloss=,
+10	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=but
+11	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=knowledge
+12	máa	máa	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=be
+13	ń	ń	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=that
+14	wà	wà	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=was
+15	fún	fún	X	_	_	0	_	_	Ref=PROV_14.6|Gloss=unto
+16	olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.6|SpaceAfter=No|Gloss=understanding
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.6|Gloss=.
 
 # sent_id = PROV_14.7
 # text = Má ṣe súnmọ́ aláìgbọ́n ènìyàn, nítorí ìwọ kì yóò rí ìmọ̀ ní ètè rẹ̀.
-1	Má	má	X	_	_	0	_	_	Ref=PROV_14.7
-2	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_14.7
-3	súnmọ́	súnmọ́	X	_	_	0	_	_	Ref=PROV_14.7
-4	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.7
-5	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.7|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.7
-7	nítorí	nítorí	X	_	_	0	_	_	Ref=PROV_14.7
-8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PROV_14.7
-9	kì	kì	X	_	_	0	_	_	Ref=PROV_14.7
-10	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.7
-11	rí	rí	X	_	_	0	_	_	Ref=PROV_14.7
-12	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=PROV_14.7
-13	ní	ní	X	_	_	0	_	_	Ref=PROV_14.7
-14	ètè	ètè	X	_	_	0	_	_	Ref=PROV_14.7
+# text_en = Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.
+1	Má	má	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=not
+2	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=do
+3	súnmọ́	súnmọ́	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=near
+4	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=fool
+5	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.7|SpaceAfter=No|Gloss=people
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.7|Gloss=,
+7	nítorí	nítorí	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=for
+8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=thou
+9	kì	kì	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=not
+10	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=shall
+11	rí	rí	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=saw
+12	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=knowledge
+13	ní	ní	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=in
+14	ètè	ètè	X	_	_	0	_	_	Ref=PROV_14.7|Gloss=lips
 15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.7|SpaceAfter=No
 16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.7
 
 # sent_id = PROV_14.8
 # text = Ọgbọ́n olóye ni láti ronú jinlẹ̀ nípa ọ̀nà an wọn ṣùgbọ́n ìwà òmùgọ̀ asìwèrè ni ìtànjẹ.
-1	Ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.8
-2	olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.8
-3	ni	ni	X	_	_	0	_	_	Ref=PROV_14.8
-4	láti	láti	X	_	_	0	_	_	Ref=PROV_14.8
-5	ronú	ronú	X	_	_	0	_	_	Ref=PROV_14.8
-6	jinlẹ̀	jinlẹ̀	X	_	_	0	_	_	Ref=PROV_14.8
-7	nípa	nípa	X	_	_	0	_	_	Ref=PROV_14.8
-8	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_14.8
-9	an	an	X	_	_	0	_	_	Ref=PROV_14.8
-10	wọn	wọn	X	_	_	0	_	_	Ref=PROV_14.8
-11	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.8
-12	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.8
-13	òmùgọ̀	òmùgọ̀	X	_	_	0	_	_	Ref=PROV_14.8
-14	asìwèrè	asìwèrè	X	_	_	0	_	_	Ref=PROV_14.8
-15	ni	ni	X	_	_	0	_	_	Ref=PROV_14.8
-16	ìtànjẹ	ìtànjẹ	X	_	_	0	_	_	Ref=PROV_14.8|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.8
+# text_en = The wisdom of the prudent is to understand his way: but the folly of fools is deceit.
+1	Ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=wisdom
+2	olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=understanding
+3	ni	ni	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=is
+4	láti	láti	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=to
+5	ronú	ronú	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=consider
+6	jinlẹ̀	jinlẹ̀	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=deeper
+7	nípa	nípa	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=by
+8	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=way
+9	an	an	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=him
+10	wọn	wọn	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=them
+11	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=but
+12	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=wickedness
+13	òmùgọ̀	òmùgọ̀	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=folly
+14	asìwèrè	asìwèrè	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=null
+15	ni	ni	X	_	_	0	_	_	Ref=PROV_14.8|Gloss=is
+16	ìtànjẹ	ìtànjẹ	X	_	_	0	_	_	Ref=PROV_14.8|SpaceAfter=No|Gloss=deceit
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.8|Gloss=.
 
 # sent_id = PROV_14.9
 # text = Aláìgbọ́n ń ṣẹ̀ṣẹ̀ nígbà tí ó yẹ kí ó ṣe àtúnṣe ẹ̀ṣẹ̀ rẹ̀ ṣùgbọ́n láàrin àwọn olódodo ni a ti rí ojú rere.
-1	Aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.9
-2	ń	ń	X	_	_	0	_	_	Ref=PROV_14.9
-3	ṣẹ̀ṣẹ̀	ṣẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.9
-4	nígbà	nígbà	X	_	_	0	_	_	Ref=PROV_14.9
-5	tí	tí	X	_	_	0	_	_	Ref=PROV_14.9
-6	ó	ó	X	_	_	0	_	_	Ref=PROV_14.9
-7	yẹ	yẹ	X	_	_	0	_	_	Ref=PROV_14.9
-8	kí	kí	X	_	_	0	_	_	Ref=PROV_14.9
-9	ó	ó	X	_	_	0	_	_	Ref=PROV_14.9
-10	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_14.9
-11	àtúnṣe	àtúnṣe	X	_	_	0	_	_	Ref=PROV_14.9
-12	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.9
-13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.9
-14	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.9
-15	láàrin	láàrin	X	_	_	0	_	_	Ref=PROV_14.9
+# text_en = Fools make a mock at sin: but among the righteous there is favour.
+1	Aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=fool
+2	ń	ń	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=that
+3	ṣẹ̀ṣẹ̀	ṣẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=null
+4	nígbà	nígbà	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=when
+5	tí	tí	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=that
+6	ó	ó	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=he
+7	yẹ	yẹ	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=worthy
+8	kí	kí	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=let
+9	ó	ó	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=he
+10	ṣe	ṣe	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=do
+11	àtúnṣe	àtúnṣe	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=repaired
+12	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=sin
+13	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=his
+14	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=but
+15	láàrin	láàrin	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=among
 16	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.9
-17	olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.9
-18	ni	ni	X	_	_	0	_	_	Ref=PROV_14.9
-19	a	a	X	_	_	0	_	_	Ref=PROV_14.9
-20	ti	ti	X	_	_	0	_	_	Ref=PROV_14.9
-21	rí	rí	X	_	_	0	_	_	Ref=PROV_14.9
-22	ojú	ojú	X	_	_	0	_	_	Ref=PROV_14.9
-23	rere	rere	X	_	_	0	_	_	Ref=PROV_14.9|SpaceAfter=No
-24	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.9
+17	olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=righteous
+18	ni	ni	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=is
+19	a	a	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=be
+20	ti	ti	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=have
+21	rí	rí	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=saw
+22	ojú	ojú	X	_	_	0	_	_	Ref=PROV_14.9|Gloss=eyes
+23	rere	rere	X	_	_	0	_	_	Ref=PROV_14.9|SpaceAfter=No|Gloss=good
+24	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.9|Gloss=.
 
 # sent_id = PROV_14.10
 # text = Ọkàn kọ̀ọ̀kan ló mọ ẹ̀dùn ọkàn tirẹ̀ kò sì sí ẹnìkan tó le è bá ọkàn mìíràn pín ayọ̀ rẹ̀.
-1	Ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.10
-2	kọ̀ọ̀kan	kọ̀ọ̀kan	X	_	_	0	_	_	Ref=PROV_14.10
-3	ló	ló	X	_	_	0	_	_	Ref=PROV_14.10
-4	mọ	mọ	X	_	_	0	_	_	Ref=PROV_14.10
-5	ẹ̀dùn	ẹ̀dùn	X	_	_	0	_	_	Ref=PROV_14.10
-6	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.10
-7	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=PROV_14.10
-8	kò	kò	X	_	_	0	_	_	Ref=PROV_14.10
-9	sì	sì	X	_	_	0	_	_	Ref=PROV_14.10
-10	sí	sí	X	_	_	0	_	_	Ref=PROV_14.10
-11	ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=PROV_14.10
-12	tó	tó	X	_	_	0	_	_	Ref=PROV_14.10
-13	le	le	X	_	_	0	_	_	Ref=PROV_14.10
-14	è	è	X	_	_	0	_	_	Ref=PROV_14.10
-15	bá	bá	X	_	_	0	_	_	Ref=PROV_14.10
-16	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.10
-17	mìíràn	mìíràn	X	_	_	0	_	_	Ref=PROV_14.10
-18	pín	pín	X	_	_	0	_	_	Ref=PROV_14.10
-19	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PROV_14.10
+# text_en = The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.
+1	Ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=heart
+2	kọ̀ọ̀kan	kọ̀ọ̀kan	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=every
+3	ló	ló	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=hath
+4	mọ	mọ	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=know
+5	ẹ̀dùn	ẹ̀dùn	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=bitterness
+6	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=heart
+7	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=his
+8	kò	kò	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=not
+9	sì	sì	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=and
+10	sí	sí	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=to
+11	ẹnìkan	ẹnìkan	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=man
+12	tó	tó	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=that
+13	le	le	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=may
+14	è	è	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=why
+15	bá	bá	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=if
+16	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=heart
+17	mìíràn	mìíràn	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=other
+18	pín	pín	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=divided
+19	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PROV_14.10|Gloss=joy
 20	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.10|SpaceAfter=No
 21	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.10
 
 # sent_id = PROV_14.11
 # text = A ó pa ilé ènìyàn búburú run Ṣùgbọ́n àgọ́ Olódodo yóò máa gbèrú síi.
-1	A	a	X	_	_	0	_	_	Ref=PROV_14.11
-2	ó	ó	X	_	_	0	_	_	Ref=PROV_14.11
-3	pa	pa	X	_	_	0	_	_	Ref=PROV_14.11
-4	ilé	ilé	X	_	_	0	_	_	Ref=PROV_14.11
-5	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.11
-6	búburú	búburú	X	_	_	0	_	_	Ref=PROV_14.11
-7	run	run	X	_	_	0	_	_	Ref=PROV_14.11
-8	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.11
-9	àgọ́	àgọ́	X	_	_	0	_	_	Ref=PROV_14.11
-10	Olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.11
-11	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.11
-12	máa	máa	X	_	_	0	_	_	Ref=PROV_14.11
-13	gbèrú	gbèrú	X	_	_	0	_	_	Ref=PROV_14.11
-14	síi	síi	X	_	_	0	_	_	Ref=PROV_14.11|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.11
+# text_en = The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.
+1	A	a	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=be
+2	ó	ó	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=he
+3	pa	pa	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=keep
+4	ilé	ilé	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=house
+5	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=people
+6	búburú	búburú	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=evil
+7	run	run	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=destroy
+8	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=but
+9	àgọ́	àgọ́	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=tabernacle
+10	Olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=righteous
+11	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=shall
+12	máa	máa	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=be
+13	gbèrú	gbèrú	X	_	_	0	_	_	Ref=PROV_14.11|Gloss=flourish
+14	síi	síi	X	_	_	0	_	_	Ref=PROV_14.11|SpaceAfter=No|Gloss=him
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.11|Gloss=.
 
 # sent_id = PROV_14.12
 # text = Ọ̀nà kan wà tí ó dàbí i pé ó dára lójú ènìyàn, ṣùgbọ́n ní ìgbẹ̀yìn gbẹ́yín, a máa já sí ikú.
+# text_en = There is a way which seemeth right unto a man, but the end thereof are the ways of death.
 1	Ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_14.12
-2	kan	kan	X	_	_	0	_	_	Ref=PROV_14.12
-3	wà	wà	X	_	_	0	_	_	Ref=PROV_14.12
-4	tí	tí	X	_	_	0	_	_	Ref=PROV_14.12
-5	ó	ó	X	_	_	0	_	_	Ref=PROV_14.12
+2	kan	kan	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=a
+3	wà	wà	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=was
+4	tí	tí	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=that
+5	ó	ó	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=he
 6	dàbí	dàbí	X	_	_	0	_	_	Ref=PROV_14.12
-7	i	i	X	_	_	0	_	_	Ref=PROV_14.12
-8	pé	pé	X	_	_	0	_	_	Ref=PROV_14.12
-9	ó	ó	X	_	_	0	_	_	Ref=PROV_14.12
-10	dára	dára	X	_	_	0	_	_	Ref=PROV_14.12
-11	lójú	lójú	X	_	_	0	_	_	Ref=PROV_14.12
-12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.12|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.12
-14	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.12
-15	ní	ní	X	_	_	0	_	_	Ref=PROV_14.12
-16	ìgbẹ̀yìn	ìgbẹ̀yìn	X	_	_	0	_	_	Ref=PROV_14.12
-17	gbẹ́yín	gbẹ́yín	X	_	_	0	_	_	Ref=PROV_14.12|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.12
-19	a	a	X	_	_	0	_	_	Ref=PROV_14.12
-20	máa	máa	X	_	_	0	_	_	Ref=PROV_14.12
-21	já	já	X	_	_	0	_	_	Ref=PROV_14.12
-22	sí	sí	X	_	_	0	_	_	Ref=PROV_14.12
-23	ikú	ikú	X	_	_	0	_	_	Ref=PROV_14.12|SpaceAfter=No
-24	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.12
+7	i	i	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=him
+8	pé	pé	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=saying
+9	ó	ó	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=he
+10	dára	dára	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=good
+11	lójú	lójú	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=sight
+12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.12|SpaceAfter=No|Gloss=people
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.12|Gloss=,
+14	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=but
+15	ní	ní	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=in
+16	ìgbẹ̀yìn	ìgbẹ̀yìn	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=end
+17	gbẹ́yín	gbẹ́yín	X	_	_	0	_	_	Ref=PROV_14.12|SpaceAfter=No|Gloss=null
+18	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.12|Gloss=,
+19	a	a	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=be
+20	máa	máa	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=be
+21	já	já	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=broken
+22	sí	sí	X	_	_	0	_	_	Ref=PROV_14.12|Gloss=to
+23	ikú	ikú	X	_	_	0	_	_	Ref=PROV_14.12|SpaceAfter=No|Gloss=death
+24	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.12|Gloss=.
 
 # sent_id = PROV_14.13
 # text = Kódà nígbà tí a ń rẹ́rìnín, ọkàn leè máa kérora; ayọ̀ sì leè yọrí sí ìbànújẹ́.
-1	Kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.13
-2	nígbà	nígbà	X	_	_	0	_	_	Ref=PROV_14.13
-3	tí	tí	X	_	_	0	_	_	Ref=PROV_14.13
-4	a	a	X	_	_	0	_	_	Ref=PROV_14.13
-5	ń	ń	X	_	_	0	_	_	Ref=PROV_14.13
-6	rẹ́rìnín	rẹ́rìnín	X	_	_	0	_	_	Ref=PROV_14.13|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.13
-8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.13
-9	leè	leè	X	_	_	0	_	_	Ref=PROV_14.13
-10	máa	máa	X	_	_	0	_	_	Ref=PROV_14.13
-11	kérora	kérora	X	_	_	0	_	_	Ref=PROV_14.13|SpaceAfter=No
-12	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_14.13
-13	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PROV_14.13
-14	sì	sì	X	_	_	0	_	_	Ref=PROV_14.13
-15	leè	leè	X	_	_	0	_	_	Ref=PROV_14.13
-16	yọrí	yọrí	X	_	_	0	_	_	Ref=PROV_14.13
-17	sí	sí	X	_	_	0	_	_	Ref=PROV_14.13
-18	ìbànújẹ́	ìbànújẹ́	X	_	_	0	_	_	Ref=PROV_14.13|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.13
+# text_en = Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.
+1	Kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=even
+2	nígbà	nígbà	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=when
+3	tí	tí	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=that
+4	a	a	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=be
+5	ń	ń	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=that
+6	rẹ́rìnín	rẹ́rìnín	X	_	_	0	_	_	Ref=PROV_14.13|SpaceAfter=No|Gloss=scorneth
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.13|Gloss=,
+8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=heart
+9	leè	leè	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=stand
+10	máa	máa	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=be
+11	kérora	kérora	X	_	_	0	_	_	Ref=PROV_14.13|SpaceAfter=No|Gloss=groan
+12	;	;	PUNCT	_	_	0	punct	_	Ref=PROV_14.13|Gloss=;
+13	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=joy
+14	sì	sì	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=and
+15	leè	leè	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=stand
+16	yọrí	yọrí	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=prosper
+17	sí	sí	X	_	_	0	_	_	Ref=PROV_14.13|Gloss=to
+18	ìbànújẹ́	ìbànújẹ́	X	_	_	0	_	_	Ref=PROV_14.13|SpaceAfter=No|Gloss=sorrow
+19	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.13|Gloss=.
 
 # sent_id = PROV_14.14
 # text = A ó san án lẹ́kùnrẹ́rẹ́ fún aláìgbàgbọ́ gẹ́gẹ́ bí ọ̀nà rẹ̀ Ènìyàn rere yóò sì gba èrè fún tirẹ̀.
-1	A	a	X	_	_	0	_	_	Ref=PROV_14.14
-2	ó	ó	X	_	_	0	_	_	Ref=PROV_14.14
-3	san	san	X	_	_	0	_	_	Ref=PROV_14.14
-4	án	án	X	_	_	0	_	_	Ref=PROV_14.14
-5	lẹ́kùnrẹ́rẹ́	lẹ́kùnrẹ́rẹ́	X	_	_	0	_	_	Ref=PROV_14.14
-6	fún	fún	X	_	_	0	_	_	Ref=PROV_14.14
-7	aláìgbàgbọ́	aláìgbàgbọ́	X	_	_	0	_	_	Ref=PROV_14.14
-8	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=PROV_14.14
-9	bí	bí	X	_	_	0	_	_	Ref=PROV_14.14
-10	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_14.14
-11	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.14
-12	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.14
-13	rere	rere	X	_	_	0	_	_	Ref=PROV_14.14
-14	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.14
-15	sì	sì	X	_	_	0	_	_	Ref=PROV_14.14
-16	gba	gba	X	_	_	0	_	_	Ref=PROV_14.14
-17	èrè	èrè	X	_	_	0	_	_	Ref=PROV_14.14
-18	fún	fún	X	_	_	0	_	_	Ref=PROV_14.14
-19	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=PROV_14.14|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.14
+# text_en = The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.
+1	A	a	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=be
+2	ó	ó	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=he
+3	san	san	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=pay
+4	án	án	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=him
+5	lẹ́kùnrẹ́rẹ́	lẹ́kùnrẹ́rẹ́	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=backslider
+6	fún	fún	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=unto
+7	aláìgbàgbọ́	aláìgbàgbọ́	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=faithless
+8	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=according
+9	bí	bí	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=as
+10	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=way
+11	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=his
+12	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=people
+13	rere	rere	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=good
+14	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=shall
+15	sì	sì	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=and
+16	gba	gba	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=receive
+17	èrè	èrè	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=reward
+18	fún	fún	X	_	_	0	_	_	Ref=PROV_14.14|Gloss=unto
+19	tirẹ̀	tirẹ̀	X	_	_	0	_	_	Ref=PROV_14.14|SpaceAfter=No|Gloss=his
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.14|Gloss=.
 
 # sent_id = PROV_14.15
 # text = Òpè ènìyàn gba ohun gbogbo gbọ́ ṣùgbọ́n Olóye ènìyàn ronú lórí àwọn ìgbéṣẹ̀ rẹ̀.
-1	Òpè	òpè	X	_	_	0	_	_	Ref=PROV_14.15
-2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.15
-3	gba	gba	X	_	_	0	_	_	Ref=PROV_14.15
-4	ohun	ohun	X	_	_	0	_	_	Ref=PROV_14.15
-5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PROV_14.15
-6	gbọ́	gbọ́	X	_	_	0	_	_	Ref=PROV_14.15
-7	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.15
-8	Olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.15
-9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.15
-10	ronú	ronú	X	_	_	0	_	_	Ref=PROV_14.15
-11	lórí	lórí	X	_	_	0	_	_	Ref=PROV_14.15
-12	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.15
-13	ìgbéṣẹ̀	ìgbéṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.15
+# text_en = The simple believeth every word: but the prudent man looketh well to his going.
+1	Òpè	òpè	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=simple
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=people
+3	gba	gba	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=receive
+4	ohun	ohun	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=things
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=all
+6	gbọ́	gbọ́	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=heard
+7	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=but
+8	Olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=understanding
+9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=people
+10	ronú	ronú	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=consider
+11	lórí	lórí	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=upon
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=the
+13	ìgbéṣẹ̀	ìgbéṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.15|Gloss=going
 14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.15|SpaceAfter=No
 15	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.15
 
 # sent_id = PROV_14.16
 # text = Ọlọgbọ́n bẹ̀rù Ọlọ́run ó sì kórìíra ibi ṣùgbọ́n aláìgbọ́n jẹ́ alágídí àti aláìṣọ́ra.
-1	Ọlọgbọ́n	ọlọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.16
-2	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.16
-3	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PROV_14.16
-4	ó	ó	X	_	_	0	_	_	Ref=PROV_14.16
-5	sì	sì	X	_	_	0	_	_	Ref=PROV_14.16
-6	kórìíra	kórìíra	X	_	_	0	_	_	Ref=PROV_14.16
-7	ibi	ibi	X	_	_	0	_	_	Ref=PROV_14.16
-8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.16
-9	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.16
-10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.16
-11	alágídí	alágídí	X	_	_	0	_	_	Ref=PROV_14.16
-12	àti	àti	X	_	_	0	_	_	Ref=PROV_14.16
-13	aláìṣọ́ra	aláìṣọ́ra	X	_	_	0	_	_	Ref=PROV_14.16|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.16
+# text_en = A wise man feareth, and departeth from evil: but the fool rageth, and is confident.
+1	Ọlọgbọ́n	ọlọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=wise
+2	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=fear
+3	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=god
+4	ó	ó	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=he
+5	sì	sì	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=and
+6	kórìíra	kórìíra	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=hate
+7	ibi	ibi	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=place
+8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=but
+9	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=fool
+10	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=be
+11	alágídí	alágídí	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=stiffnecked
+12	àti	àti	X	_	_	0	_	_	Ref=PROV_14.16|Gloss=and
+13	aláìṣọ́ra	aláìṣọ́ra	X	_	_	0	_	_	Ref=PROV_14.16|SpaceAfter=No|Gloss=confident
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.16|Gloss=.
 
 # sent_id = PROV_14.17
 # text = Ẹni tí ó máa ń tètè bínú máa ń hùwà aṣiwèrè, a sì kórìíra eléte ènìyàn:
-1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.17
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.17
-3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.17
-4	máa	máa	X	_	_	0	_	_	Ref=PROV_14.17
-5	ń	ń	X	_	_	0	_	_	Ref=PROV_14.17
-6	tètè	tètè	X	_	_	0	_	_	Ref=PROV_14.17
-7	bínú	bínú	X	_	_	0	_	_	Ref=PROV_14.17
-8	máa	máa	X	_	_	0	_	_	Ref=PROV_14.17
-9	ń	ń	X	_	_	0	_	_	Ref=PROV_14.17
-10	hùwà	hùwà	X	_	_	0	_	_	Ref=PROV_14.17
-11	aṣiwèrè	aṣiwèrè	X	_	_	0	_	_	Ref=PROV_14.17|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.17
-13	a	a	X	_	_	0	_	_	Ref=PROV_14.17
-14	sì	sì	X	_	_	0	_	_	Ref=PROV_14.17
-15	kórìíra	kórìíra	X	_	_	0	_	_	Ref=PROV_14.17
-16	eléte	eléte	X	_	_	0	_	_	Ref=PROV_14.17
-17	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.17|SpaceAfter=No
-18	:	:	PUNCT	_	_	0	punct	_	Ref=PROV_14.17
+# text_en = He that is soon angry dealeth foolishly: and a man of wicked devices is hated.
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=that
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=he
+4	máa	máa	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=be
+5	ń	ń	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=that
+6	tètè	tètè	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=first
+7	bínú	bínú	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=angry
+8	máa	máa	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=be
+9	ń	ń	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=that
+10	hùwà	hùwà	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=do
+11	aṣiwèrè	aṣiwèrè	X	_	_	0	_	_	Ref=PROV_14.17|SpaceAfter=No|Gloss=fool
+12	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.17|Gloss=,
+13	a	a	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=be
+14	sì	sì	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=and
+15	kórìíra	kórìíra	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=hate
+16	eléte	eléte	X	_	_	0	_	_	Ref=PROV_14.17|Gloss=devices
+17	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.17|SpaceAfter=No|Gloss=people
+18	:	:	PUNCT	_	_	0	punct	_	Ref=PROV_14.17|Gloss=:
 
 # sent_id = PROV_14.18
 # text = Òpè jogún ìwà òmùgọ̀ ṣùgbọ́n a dé ọlọgbọ́n ní adé ìmọ̀.
-1	Òpè	òpè	X	_	_	0	_	_	Ref=PROV_14.18
-2	jogún	jogún	X	_	_	0	_	_	Ref=PROV_14.18
-3	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.18
-4	òmùgọ̀	òmùgọ̀	X	_	_	0	_	_	Ref=PROV_14.18
-5	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.18
-6	a	a	X	_	_	0	_	_	Ref=PROV_14.18
-7	dé	dé	X	_	_	0	_	_	Ref=PROV_14.18
-8	ọlọgbọ́n	ọlọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.18
-9	ní	ní	X	_	_	0	_	_	Ref=PROV_14.18
-10	adé	adé	X	_	_	0	_	_	Ref=PROV_14.18
+# text_en = The simple inherit folly: but the prudent are crowned with knowledge.
+1	Òpè	òpè	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=simple
+2	jogún	jogún	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=inherit
+3	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=wickedness
+4	òmùgọ̀	òmùgọ̀	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=folly
+5	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=but
+6	a	a	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=be
+7	dé	dé	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=come
+8	ọlọgbọ́n	ọlọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=wise
+9	ní	ní	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=in
+10	adé	adé	X	_	_	0	_	_	Ref=PROV_14.18|Gloss=crown
 11	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=PROV_14.18|SpaceAfter=No
 12	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.18
 
 # sent_id = PROV_14.19
 # text = Ènìyàn ìkà yóò tẹríba níwájú àwọn ènìyàn rere àti ènìyàn búburú níbi ìlẹ̀kùn àwọn olódodo.
-1	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.19
-2	ìkà	ìkà	X	_	_	0	_	_	Ref=PROV_14.19
-3	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.19
-4	tẹríba	tẹríba	X	_	_	0	_	_	Ref=PROV_14.19
-5	níwájú	níwájú	X	_	_	0	_	_	Ref=PROV_14.19
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.19
-7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.19
-8	rere	rere	X	_	_	0	_	_	Ref=PROV_14.19
-9	àti	àti	X	_	_	0	_	_	Ref=PROV_14.19
-10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.19
-11	búburú	búburú	X	_	_	0	_	_	Ref=PROV_14.19
-12	níbi	níbi	X	_	_	0	_	_	Ref=PROV_14.19
-13	ìlẹ̀kùn	ìlẹ̀kùn	X	_	_	0	_	_	Ref=PROV_14.19
-14	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.19
-15	olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.19|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.19
+# text_en = The evil bow before the good; and the wicked at the gates of the righteous.
+1	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=people
+2	ìkà	ìkà	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=wicked
+3	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=shall
+4	tẹríba	tẹríba	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=bowed
+5	níwájú	níwájú	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=before
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=the
+7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=people
+8	rere	rere	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=good
+9	àti	àti	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=and
+10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=people
+11	búburú	búburú	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=evil
+12	níbi	níbi	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=where
+13	ìlẹ̀kùn	ìlẹ̀kùn	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=doors
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.19|Gloss=the
+15	olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.19|SpaceAfter=No|Gloss=righteous
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.19|Gloss=.
 
 # sent_id = PROV_14.20
 # text = Kódà àwọn aládùúgbò o talákà kò fẹ́ràn rẹ̀ ṣùgbọ́n, Ọlọ́rọ̀ ní ọ̀rẹ́ púpọ̀.
-1	Kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.20
+# text_en = The poor is hated even of his own neighbour: but the rich hath many friends.
+1	Kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=even
 2	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.20
-3	aládùúgbò	aládùúgbò	X	_	_	0	_	_	Ref=PROV_14.20
-4	o	o	X	_	_	0	_	_	Ref=PROV_14.20
-5	talákà	talákà	X	_	_	0	_	_	Ref=PROV_14.20
-6	kò	kò	X	_	_	0	_	_	Ref=PROV_14.20
-7	fẹ́ràn	fẹ́ràn	X	_	_	0	_	_	Ref=PROV_14.20
-8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.20
-9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.20|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.20
-11	Ọlọ́rọ̀	ọlọ́rọ̀	X	_	_	0	_	_	Ref=PROV_14.20
-12	ní	ní	X	_	_	0	_	_	Ref=PROV_14.20
-13	ọ̀rẹ́	ọ̀rẹ́	X	_	_	0	_	_	Ref=PROV_14.20
-14	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PROV_14.20|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.20
+3	aládùúgbò	aládùúgbò	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=neighbour
+4	o	o	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=thou
+5	talákà	talákà	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=poor
+6	kò	kò	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=not
+7	fẹ́ràn	fẹ́ràn	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=love
+8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=his
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.20|SpaceAfter=No|Gloss=but
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.20|Gloss=,
+11	Ọlọ́rọ̀	ọlọ́rọ̀	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=rich
+12	ní	ní	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=in
+13	ọ̀rẹ́	ọ̀rẹ́	X	_	_	0	_	_	Ref=PROV_14.20|Gloss=friend
+14	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PROV_14.20|SpaceAfter=No|Gloss=many
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.20|Gloss=.
 
 # sent_id = PROV_14.21
 # text = Ẹni tí ó kẹ́gàn aládùúgbò o rẹ̀ ti dẹ́ṣẹ̀ ṣùgbọ́n ìbùkún ni fún ẹni tí ó ṣàánú àwọn aláìní.
-1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.21
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.21
-3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.21
-4	kẹ́gàn	kẹ́gàn	X	_	_	0	_	_	Ref=PROV_14.21
-5	aládùúgbò	aládùúgbò	X	_	_	0	_	_	Ref=PROV_14.21
-6	o	o	X	_	_	0	_	_	Ref=PROV_14.21
-7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.21
-8	ti	ti	X	_	_	0	_	_	Ref=PROV_14.21
-9	dẹ́ṣẹ̀	dẹ́ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.21
-10	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.21
-11	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=PROV_14.21
-12	ni	ni	X	_	_	0	_	_	Ref=PROV_14.21
-13	fún	fún	X	_	_	0	_	_	Ref=PROV_14.21
-14	ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.21
-15	tí	tí	X	_	_	0	_	_	Ref=PROV_14.21
-16	ó	ó	X	_	_	0	_	_	Ref=PROV_14.21
-17	ṣàánú	ṣàánú	X	_	_	0	_	_	Ref=PROV_14.21
+# text_en = He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=that
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=he
+4	kẹ́gàn	kẹ́gàn	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=despised
+5	aládùúgbò	aládùúgbò	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=neighbour
+6	o	o	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=thou
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=his
+8	ti	ti	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=have
+9	dẹ́ṣẹ̀	dẹ́ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=sin
+10	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=but
+11	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=blessed
+12	ni	ni	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=is
+13	fún	fún	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=unto
+14	ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=that
+15	tí	tí	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=that
+16	ó	ó	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=he
+17	ṣàánú	ṣàánú	X	_	_	0	_	_	Ref=PROV_14.21|Gloss=mercy
 18	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.21
-19	aláìní	aláìní	X	_	_	0	_	_	Ref=PROV_14.21|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.21
+19	aláìní	aláìní	X	_	_	0	_	_	Ref=PROV_14.21|SpaceAfter=No|Gloss=fatherless
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.21|Gloss=.
 
 # sent_id = PROV_14.22
 # text = Ǹjẹ́ àwọn tí ń pète ibi kì í sìnà? Ṣùgbọ́n àwọn tí ń gbérò ohun rere ń rí ìfẹ́ àti òtítọ́.
-1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=PROV_14.22
-2	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.22
-3	tí	tí	X	_	_	0	_	_	Ref=PROV_14.22
-4	ń	ń	X	_	_	0	_	_	Ref=PROV_14.22
-5	pète	pète	X	_	_	0	_	_	Ref=PROV_14.22
-6	ibi	ibi	X	_	_	0	_	_	Ref=PROV_14.22
-7	kì	kì	X	_	_	0	_	_	Ref=PROV_14.22
-8	í	í	X	_	_	0	_	_	Ref=PROV_14.22
-9	sìnà	sìnà	X	_	_	0	_	_	Ref=PROV_14.22|SpaceAfter=No
-10	?	?	PUNCT	_	_	0	punct	_	Ref=PROV_14.22
-11	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.22
-12	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.22
-13	tí	tí	X	_	_	0	_	_	Ref=PROV_14.22
-14	ń	ń	X	_	_	0	_	_	Ref=PROV_14.22
-15	gbérò	gbérò	X	_	_	0	_	_	Ref=PROV_14.22
-16	ohun	ohun	X	_	_	0	_	_	Ref=PROV_14.22
-17	rere	rere	X	_	_	0	_	_	Ref=PROV_14.22
-18	ń	ń	X	_	_	0	_	_	Ref=PROV_14.22
-19	rí	rí	X	_	_	0	_	_	Ref=PROV_14.22
-20	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=PROV_14.22
-21	àti	àti	X	_	_	0	_	_	Ref=PROV_14.22
-22	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=PROV_14.22|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.22
+# text_en = Do they not err that devise evil? but mercy and truth shall be to them that devise good.
+1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=now
+2	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=the
+3	tí	tí	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=that
+4	ń	ń	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=that
+5	pète	pète	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=deviseth
+6	ibi	ibi	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=place
+7	kì	kì	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=not
+8	í	í	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=was
+9	sìnà	sìnà	X	_	_	0	_	_	Ref=PROV_14.22|SpaceAfter=No|Gloss=err
+10	?	?	PUNCT	_	_	0	punct	_	Ref=PROV_14.22|Gloss=?
+11	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=but
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=the
+13	tí	tí	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=that
+14	ń	ń	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=that
+15	gbérò	gbérò	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=devise
+16	ohun	ohun	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=things
+17	rere	rere	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=good
+18	ń	ń	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=that
+19	rí	rí	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=saw
+20	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=love
+21	àti	àti	X	_	_	0	_	_	Ref=PROV_14.22|Gloss=and
+22	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=PROV_14.22|SpaceAfter=No|Gloss=truth
+23	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.22|Gloss=.
 
 # sent_id = PROV_14.23
 # text = Gbogbo iṣẹ́ àṣekára ló máa ń mú èrè wá ṣùgbọ́n ẹjọ́ rírò lásán máa ń ta ni lósì ni.
-1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=PROV_14.23
-2	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=PROV_14.23
-3	àṣekára	àṣekára	X	_	_	0	_	_	Ref=PROV_14.23
-4	ló	ló	X	_	_	0	_	_	Ref=PROV_14.23
-5	máa	máa	X	_	_	0	_	_	Ref=PROV_14.23
-6	ń	ń	X	_	_	0	_	_	Ref=PROV_14.23
-7	mú	mú	X	_	_	0	_	_	Ref=PROV_14.23
-8	èrè	èrè	X	_	_	0	_	_	Ref=PROV_14.23
-9	wá	wá	X	_	_	0	_	_	Ref=PROV_14.23
-10	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.23
-11	ẹjọ́	ẹjọ́	X	_	_	0	_	_	Ref=PROV_14.23
-12	rírò	rírò	X	_	_	0	_	_	Ref=PROV_14.23
-13	lásán	lásán	X	_	_	0	_	_	Ref=PROV_14.23
-14	máa	máa	X	_	_	0	_	_	Ref=PROV_14.23
-15	ń	ń	X	_	_	0	_	_	Ref=PROV_14.23
-16	ta	ta	X	_	_	0	_	_	Ref=PROV_14.23
-17	ni	ni	X	_	_	0	_	_	Ref=PROV_14.23
-18	lósì	lósì	X	_	_	0	_	_	Ref=PROV_14.23
-19	ni	ni	X	_	_	0	_	_	Ref=PROV_14.23|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.23
+# text_en = In all labour there is profit: but the talk of the lips tendeth only to penury.
+1	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=all
+2	iṣẹ́	iṣẹ́	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=work
+3	àṣekára	àṣekára	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=labour
+4	ló	ló	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=hath
+5	máa	máa	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=be
+6	ń	ń	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=that
+7	mú	mú	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=brought
+8	èrè	èrè	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=reward
+9	wá	wá	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=come
+10	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=but
+11	ẹjọ́	ẹjọ́	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=matter
+12	rírò	rírò	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=talk
+13	lásán	lásán	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=vain
+14	máa	máa	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=be
+15	ń	ń	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=that
+16	ta	ta	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=who
+17	ni	ni	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=is
+18	lósì	lósì	X	_	_	0	_	_	Ref=PROV_14.23|Gloss=penury
+19	ni	ni	X	_	_	0	_	_	Ref=PROV_14.23|SpaceAfter=No|Gloss=is
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.23|Gloss=.
 
 # sent_id = PROV_14.24
 # text = Ọrọ̀ Ọlọgbọ́n ènìyàn ni adé orí wọn ṣùgbọ́n ìwà aláìgbọ́n ń mú ìwà òmùgọ̀ wá.
-1	Ọrọ̀	ọrọ̀	X	_	_	0	_	_	Ref=PROV_14.24
-2	Ọlọgbọ́n	ọlọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.24
-3	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.24
-4	ni	ni	X	_	_	0	_	_	Ref=PROV_14.24
-5	adé	adé	X	_	_	0	_	_	Ref=PROV_14.24
-6	orí	orí	X	_	_	0	_	_	Ref=PROV_14.24
-7	wọn	wọn	X	_	_	0	_	_	Ref=PROV_14.24
-8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.24
-9	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.24
-10	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.24
-11	ń	ń	X	_	_	0	_	_	Ref=PROV_14.24
-12	mú	mú	X	_	_	0	_	_	Ref=PROV_14.24
-13	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.24
-14	òmùgọ̀	òmùgọ̀	X	_	_	0	_	_	Ref=PROV_14.24
+# text_en = The crown of the wise is their riches: but the foolishness of fools is folly.
+1	Ọrọ̀	ọrọ̀	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=riches
+2	Ọlọgbọ́n	ọlọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=wise
+3	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=people
+4	ni	ni	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=is
+5	adé	adé	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=crown
+6	orí	orí	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=head
+7	wọn	wọn	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=them
+8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=but
+9	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=wickedness
+10	aláìgbọ́n	aláìgbọ́n	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=fool
+11	ń	ń	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=that
+12	mú	mú	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=brought
+13	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=wickedness
+14	òmùgọ̀	òmùgọ̀	X	_	_	0	_	_	Ref=PROV_14.24|Gloss=folly
 15	wá	wá	X	_	_	0	_	_	Ref=PROV_14.24|SpaceAfter=No
 16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.24
 
 # sent_id = PROV_14.25
 # text = Ẹlẹ́rìí tí ó ṣòótọ́ gba ẹ̀mí là ṣùgbọ́n ẹlẹ́rìí èké jẹ́ ẹlẹ́tàn.
-1	Ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.25
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.25
-3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.25
-4	ṣòótọ́	ṣòótọ́	X	_	_	0	_	_	Ref=PROV_14.25
-5	gba	gba	X	_	_	0	_	_	Ref=PROV_14.25
-6	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=PROV_14.25
-7	là	là	X	_	_	0	_	_	Ref=PROV_14.25
-8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.25
-9	ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.25
-10	èké	èké	X	_	_	0	_	_	Ref=PROV_14.25
-11	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.25
-12	ẹlẹ́tàn	ẹlẹ́tàn	X	_	_	0	_	_	Ref=PROV_14.25|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.25
+# text_en = A true witness delivereth souls: but a deceitful witness speaketh lies.
+1	Ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=witnesses
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=he
+4	ṣòótọ́	ṣòótọ́	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=delivereth
+5	gba	gba	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=receive
+6	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=spirit
+7	là	là	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=save
+8	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=but
+9	ẹlẹ́rìí	ẹlẹ́rìí	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=witnesses
+10	èké	èké	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=false
+11	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.25|Gloss=be
+12	ẹlẹ́tàn	ẹlẹ́tàn	X	_	_	0	_	_	Ref=PROV_14.25|SpaceAfter=No|Gloss=deceiver
+13	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.25|Gloss=.
 
 # sent_id = PROV_14.26
 # text = Ẹni tí ó bẹ̀rù Olúwa ni ilé ìṣọ́ ààbò yóò sì tún jẹ́ ààbò fún àwọn ọmọ rẹ̀.
-1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.26
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.26
-3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.26
-4	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.26
-5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.26
-6	ni	ni	X	_	_	0	_	_	Ref=PROV_14.26
-7	ilé	ilé	X	_	_	0	_	_	Ref=PROV_14.26
-8	ìṣọ́	ìṣọ́	X	_	_	0	_	_	Ref=PROV_14.26
+# text_en = In the fear of the LORD is strong confidence: and his children shall have a place of refuge.
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=that
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=he
+4	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=fear
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=lord
+6	ni	ni	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=is
+7	ilé	ilé	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=house
+8	ìṣọ́	ìṣọ́	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=tower
 9	ààbò	ààbò	X	_	_	0	_	_	Ref=PROV_14.26
-10	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.26
-11	sì	sì	X	_	_	0	_	_	Ref=PROV_14.26
-12	tún	tún	X	_	_	0	_	_	Ref=PROV_14.26
-13	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.26
+10	yóò	yóò	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=shall
+11	sì	sì	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=and
+12	tún	tún	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=again
+13	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=be
 14	ààbò	ààbò	X	_	_	0	_	_	Ref=PROV_14.26
-15	fún	fún	X	_	_	0	_	_	Ref=PROV_14.26
-16	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.26
-17	ọmọ	ọmọ	X	_	_	0	_	_	Ref=PROV_14.26
+15	fún	fún	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=unto
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=the
+17	ọmọ	ọmọ	X	_	_	0	_	_	Ref=PROV_14.26|Gloss=son
 18	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.26|SpaceAfter=No
 19	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.26
 
 # sent_id = PROV_14.27
 # text = Ìbẹ̀rù Olúwa jẹ́ oríṣun ìyè, tí ń yí ènìyàn padà kúrò nínú ìkẹ́kùn ikú.
-1	Ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.27
-2	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.27
-3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.27
-4	oríṣun	oríṣun	X	_	_	0	_	_	Ref=PROV_14.27
-5	ìyè	ìyè	X	_	_	0	_	_	Ref=PROV_14.27|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.27
-7	tí	tí	X	_	_	0	_	_	Ref=PROV_14.27
-8	ń	ń	X	_	_	0	_	_	Ref=PROV_14.27
-9	yí	yí	X	_	_	0	_	_	Ref=PROV_14.27
-10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.27
-11	padà	padà	X	_	_	0	_	_	Ref=PROV_14.27
-12	kúrò	kúrò	X	_	_	0	_	_	Ref=PROV_14.27
-13	nínú	nínú	X	_	_	0	_	_	Ref=PROV_14.27
-14	ìkẹ́kùn	ìkẹ́kùn	X	_	_	0	_	_	Ref=PROV_14.27
-15	ikú	ikú	X	_	_	0	_	_	Ref=PROV_14.27|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.27
+# text_en = The fear of the LORD is a fountain of life, to depart from the snares of death.
+1	Ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=fear
+2	Olúwa	olúwa	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=lord
+3	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=be
+4	oríṣun	oríṣun	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=fountain
+5	ìyè	ìyè	X	_	_	0	_	_	Ref=PROV_14.27|SpaceAfter=No|Gloss=life
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.27|Gloss=,
+7	tí	tí	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=that
+8	ń	ń	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=that
+9	yí	yí	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=round
+10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=people
+11	padà	padà	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=return
+12	kúrò	kúrò	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=from
+13	nínú	nínú	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=in
+14	ìkẹ́kùn	ìkẹ́kùn	X	_	_	0	_	_	Ref=PROV_14.27|Gloss=snares
+15	ikú	ikú	X	_	_	0	_	_	Ref=PROV_14.27|SpaceAfter=No|Gloss=death
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.27|Gloss=.
 
 # sent_id = PROV_14.28
 # text = Ènìyàn púpọ̀ ní ìlú jẹ́ ògo Ọba, ṣùgbọ́n láì sí ìjòyè, Ọba á parun.
-1	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.28
-2	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PROV_14.28
-3	ní	ní	X	_	_	0	_	_	Ref=PROV_14.28
-4	ìlú	ìlú	X	_	_	0	_	_	Ref=PROV_14.28
-5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.28
-6	ògo	ògo	X	_	_	0	_	_	Ref=PROV_14.28
-7	Ọba	ọba	X	_	_	0	_	_	Ref=PROV_14.28|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.28
-9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.28
-10	láì	láì	X	_	_	0	_	_	Ref=PROV_14.28
-11	sí	sí	X	_	_	0	_	_	Ref=PROV_14.28
-12	ìjòyè	ìjòyè	X	_	_	0	_	_	Ref=PROV_14.28|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.28
-14	Ọba	ọba	X	_	_	0	_	_	Ref=PROV_14.28
-15	á	á	X	_	_	0	_	_	Ref=PROV_14.28
-16	parun	parun	X	_	_	0	_	_	Ref=PROV_14.28|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.28
+# text_en = In the multitude of people is the king's honour: but in the want of people is the destruction of the prince.
+1	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=people
+2	púpọ̀	púpọ̀	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=many
+3	ní	ní	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=in
+4	ìlú	ìlú	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=city
+5	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=be
+6	ògo	ògo	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=glory
+7	Ọba	ọba	X	_	_	0	_	_	Ref=PROV_14.28|SpaceAfter=No|Gloss=king
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.28|Gloss=,
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=but
+10	láì	láì	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=not
+11	sí	sí	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=to
+12	ìjòyè	ìjòyè	X	_	_	0	_	_	Ref=PROV_14.28|SpaceAfter=No|Gloss=princes
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.28|Gloss=,
+14	Ọba	ọba	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=king
+15	á	á	X	_	_	0	_	_	Ref=PROV_14.28|Gloss=it
+16	parun	parun	X	_	_	0	_	_	Ref=PROV_14.28|SpaceAfter=No|Gloss=destroyed
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.28|Gloss=.
 
 # sent_id = PROV_14.29
 # text = Onísùúrù ènìyàn ní òye tí ó pọ̀, ṣùgbọ́n onínú fùfù ènìyàn máa ń fi ìwà aṣiwèrè hàn.
-1	Onísùúrù	onísùúrù	X	_	_	0	_	_	Ref=PROV_14.29
-2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.29
-3	ní	ní	X	_	_	0	_	_	Ref=PROV_14.29
-4	òye	òye	X	_	_	0	_	_	Ref=PROV_14.29
-5	tí	tí	X	_	_	0	_	_	Ref=PROV_14.29
-6	ó	ó	X	_	_	0	_	_	Ref=PROV_14.29
-7	pọ̀	pọ̀	X	_	_	0	_	_	Ref=PROV_14.29|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.29
-9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.29
-10	onínú	onínú	X	_	_	0	_	_	Ref=PROV_14.29
-11	fùfù	fùfù	X	_	_	0	_	_	Ref=PROV_14.29
-12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.29
-13	máa	máa	X	_	_	0	_	_	Ref=PROV_14.29
-14	ń	ń	X	_	_	0	_	_	Ref=PROV_14.29
-15	fi	fi	X	_	_	0	_	_	Ref=PROV_14.29
-16	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.29
-17	aṣiwèrè	aṣiwèrè	X	_	_	0	_	_	Ref=PROV_14.29
+# text_en = He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.
+1	Onísùúrù	onísùúrù	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=patient
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=people
+3	ní	ní	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=in
+4	òye	òye	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=understanding
+5	tí	tí	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=that
+6	ó	ó	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=he
+7	pọ̀	pọ̀	X	_	_	0	_	_	Ref=PROV_14.29|SpaceAfter=No|Gloss=together
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.29|Gloss=,
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=but
+10	onínú	onínú	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=stirreth
+11	fùfù	fùfù	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=hasty
+12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=people
+13	máa	máa	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=be
+14	ń	ń	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=that
+15	fi	fi	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=with
+16	ìwà	ìwà	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=wickedness
+17	aṣiwèrè	aṣiwèrè	X	_	_	0	_	_	Ref=PROV_14.29|Gloss=fool
 18	hàn	hàn	X	_	_	0	_	_	Ref=PROV_14.29|SpaceAfter=No
 19	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.29
 
 # sent_id = PROV_14.30
 # text = Ọkàn tí ó lálàáfíà fi ìyè mú kí ọjọ́ ayé gùn fún ara, ṣùgbọ́n ìlara mú kí egungun jẹrà.
-1	Ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.30
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.30
-3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.30
-4	lálàáfíà	lálàáfíà	X	_	_	0	_	_	Ref=PROV_14.30
-5	fi	fi	X	_	_	0	_	_	Ref=PROV_14.30
-6	ìyè	ìyè	X	_	_	0	_	_	Ref=PROV_14.30
-7	mú	mú	X	_	_	0	_	_	Ref=PROV_14.30
-8	kí	kí	X	_	_	0	_	_	Ref=PROV_14.30
-9	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=PROV_14.30
-10	ayé	ayé	X	_	_	0	_	_	Ref=PROV_14.30
-11	gùn	gùn	X	_	_	0	_	_	Ref=PROV_14.30
-12	fún	fún	X	_	_	0	_	_	Ref=PROV_14.30
-13	ara	ara	X	_	_	0	_	_	Ref=PROV_14.30|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.30
-15	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.30
-16	ìlara	ìlara	X	_	_	0	_	_	Ref=PROV_14.30
-17	mú	mú	X	_	_	0	_	_	Ref=PROV_14.30
-18	kí	kí	X	_	_	0	_	_	Ref=PROV_14.30
-19	egungun	egungun	X	_	_	0	_	_	Ref=PROV_14.30
-20	jẹrà	jẹrà	X	_	_	0	_	_	Ref=PROV_14.30|SpaceAfter=No
-21	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.30
+# text_en = A sound heart is the life of the flesh: but envy the rottenness of the bones.
+1	Ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=heart
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=he
+4	lálàáfíà	lálàáfíà	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=null
+5	fi	fi	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=with
+6	ìyè	ìyè	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=life
+7	mú	mú	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=brought
+8	kí	kí	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=let
+9	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=day
+10	ayé	ayé	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=earth
+11	gùn	gùn	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=the
+12	fún	fún	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=unto
+13	ara	ara	X	_	_	0	_	_	Ref=PROV_14.30|SpaceAfter=No|Gloss=himself
+14	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.30|Gloss=,
+15	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=but
+16	ìlara	ìlara	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=envy
+17	mú	mú	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=brought
+18	kí	kí	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=let
+19	egungun	egungun	X	_	_	0	_	_	Ref=PROV_14.30|Gloss=bones
+20	jẹrà	jẹrà	X	_	_	0	_	_	Ref=PROV_14.30|SpaceAfter=No|Gloss=rot
+21	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.30|Gloss=.
 
 # sent_id = PROV_14.31
 # text = Ẹni tí ó fi ìyà jẹ aláìní ń fi ìkórìíra hàn ṣùgbọ́n ẹnikẹ́ni tí ó ṣoore fún aláìní bu ọlá fún Ọlọ́run.
-1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.31
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.31
-3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.31
-4	fi	fi	X	_	_	0	_	_	Ref=PROV_14.31
-5	ìyà	ìyà	X	_	_	0	_	_	Ref=PROV_14.31
-6	jẹ	jẹ	X	_	_	0	_	_	Ref=PROV_14.31
-7	aláìní	aláìní	X	_	_	0	_	_	Ref=PROV_14.31
-8	ń	ń	X	_	_	0	_	_	Ref=PROV_14.31
-9	fi	fi	X	_	_	0	_	_	Ref=PROV_14.31
-10	ìkórìíra	ìkórìíra	X	_	_	0	_	_	Ref=PROV_14.31
-11	hàn	hàn	X	_	_	0	_	_	Ref=PROV_14.31
-12	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.31
-13	ẹnikẹ́ni	ẹnikẹ́ni	X	_	_	0	_	_	Ref=PROV_14.31
-14	tí	tí	X	_	_	0	_	_	Ref=PROV_14.31
-15	ó	ó	X	_	_	0	_	_	Ref=PROV_14.31
-16	ṣoore	ṣoore	X	_	_	0	_	_	Ref=PROV_14.31
-17	fún	fún	X	_	_	0	_	_	Ref=PROV_14.31
-18	aláìní	aláìní	X	_	_	0	_	_	Ref=PROV_14.31
-19	bu	bu	X	_	_	0	_	_	Ref=PROV_14.31
-20	ọlá	ọlá	X	_	_	0	_	_	Ref=PROV_14.31
-21	fún	fún	X	_	_	0	_	_	Ref=PROV_14.31
-22	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PROV_14.31|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.31
+# text_en = He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=that
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=he
+4	fi	fi	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=with
+5	ìyà	ìyà	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=punish
+6	jẹ	jẹ	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=eat
+7	aláìní	aláìní	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=fatherless
+8	ń	ń	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=that
+9	fi	fi	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=with
+10	ìkórìíra	ìkórìíra	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=hatred
+11	hàn	hàn	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=shew
+12	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=but
+13	ẹnikẹ́ni	ẹnikẹ́ni	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=whosoever
+14	tí	tí	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=that
+15	ó	ó	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=he
+16	ṣoore	ṣoore	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=good
+17	fún	fún	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=unto
+18	aláìní	aláìní	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=fatherless
+19	bu	bu	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=did
+20	ọlá	ọlá	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=honour
+21	fún	fún	X	_	_	0	_	_	Ref=PROV_14.31|Gloss=unto
+22	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PROV_14.31|SpaceAfter=No|Gloss=god
+23	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.31|Gloss=.
 
 # sent_id = PROV_14.32
 # text = Nígbà tí ìyọnu bá dé, a fa àwọn búburú lulẹ̀, kódà nínú ikú àwọn olódodo ni ààbò.
-1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PROV_14.32
-2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.32
-3	ìyọnu	ìyọnu	X	_	_	0	_	_	Ref=PROV_14.32
-4	bá	bá	X	_	_	0	_	_	Ref=PROV_14.32
-5	dé	dé	X	_	_	0	_	_	Ref=PROV_14.32|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.32
-7	a	a	X	_	_	0	_	_	Ref=PROV_14.32
-8	fa	fa	X	_	_	0	_	_	Ref=PROV_14.32
-9	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.32
-10	búburú	búburú	X	_	_	0	_	_	Ref=PROV_14.32
-11	lulẹ̀	lulẹ̀	X	_	_	0	_	_	Ref=PROV_14.32|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.32
-13	kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.32
-14	nínú	nínú	X	_	_	0	_	_	Ref=PROV_14.32
-15	ikú	ikú	X	_	_	0	_	_	Ref=PROV_14.32
-16	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.32
-17	olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.32
-18	ni	ni	X	_	_	0	_	_	Ref=PROV_14.32
+# text_en = The wicked is driven away in his wickedness: but the righteous hath hope in his death.
+1	Nígbà	nígbà	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=when
+2	tí	tí	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=that
+3	ìyọnu	ìyọnu	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=plagues
+4	bá	bá	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=if
+5	dé	dé	X	_	_	0	_	_	Ref=PROV_14.32|SpaceAfter=No|Gloss=come
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.32|Gloss=,
+7	a	a	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=be
+8	fa	fa	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=rent
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=the
+10	búburú	búburú	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=evil
+11	lulẹ̀	lulẹ̀	X	_	_	0	_	_	Ref=PROV_14.32|SpaceAfter=No|Gloss=down
+12	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.32|Gloss=,
+13	kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=even
+14	nínú	nínú	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=in
+15	ikú	ikú	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=death
+16	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=the
+17	olódodo	olódodo	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=righteous
+18	ni	ni	X	_	_	0	_	_	Ref=PROV_14.32|Gloss=is
 19	ààbò	ààbò	X	_	_	0	_	_	Ref=PROV_14.32|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.32
+20	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.32|Gloss=.
 
 # sent_id = PROV_14.33
 # text = Ọgbọ́n wà nínú ọkàn olóye kódà láàrin àwọn aláìlóye, ó jẹ́ kí wọn mọ òun.
-1	Ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.33
-2	wà	wà	X	_	_	0	_	_	Ref=PROV_14.33
-3	nínú	nínú	X	_	_	0	_	_	Ref=PROV_14.33
-4	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.33
-5	olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.33
-6	kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.33
-7	láàrin	láàrin	X	_	_	0	_	_	Ref=PROV_14.33
-8	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.33
-9	aláìlóye	aláìlóye	X	_	_	0	_	_	Ref=PROV_14.33|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.33
-11	ó	ó	X	_	_	0	_	_	Ref=PROV_14.33
-12	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.33
-13	kí	kí	X	_	_	0	_	_	Ref=PROV_14.33
-14	wọn	wọn	X	_	_	0	_	_	Ref=PROV_14.33
-15	mọ	mọ	X	_	_	0	_	_	Ref=PROV_14.33
-16	òun	òun	X	_	_	0	_	_	Ref=PROV_14.33|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.33
+# text_en = Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.
+1	Ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=wisdom
+2	wà	wà	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=was
+3	nínú	nínú	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=in
+4	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=heart
+5	olóye	olóye	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=understanding
+6	kódà	kódà	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=even
+7	láàrin	láàrin	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=among
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=the
+9	aláìlóye	aláìlóye	X	_	_	0	_	_	Ref=PROV_14.33|SpaceAfter=No|Gloss=brutish
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.33|Gloss=,
+11	ó	ó	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=he
+12	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=be
+13	kí	kí	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=let
+14	wọn	wọn	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=them
+15	mọ	mọ	X	_	_	0	_	_	Ref=PROV_14.33|Gloss=know
+16	òun	òun	X	_	_	0	_	_	Ref=PROV_14.33|SpaceAfter=No|Gloss=he
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.33|Gloss=.
 
 # sent_id = PROV_14.34
 # text = Ododo a máa gbé orílẹ̀ èdè ga, ṣùgbọ́n ìtìjú ni ẹ̀ṣẹ̀ jẹ́ fún àwùjọ káwùjọ.
-1	Ododo	ododo	X	_	_	0	_	_	Ref=PROV_14.34
-2	a	a	X	_	_	0	_	_	Ref=PROV_14.34
-3	máa	máa	X	_	_	0	_	_	Ref=PROV_14.34
-4	gbé	gbé	X	_	_	0	_	_	Ref=PROV_14.34
-5	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PROV_14.34
-6	èdè	èdè	X	_	_	0	_	_	Ref=PROV_14.34
-7	ga	ga	X	_	_	0	_	_	Ref=PROV_14.34|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.34
-9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.34
-10	ìtìjú	ìtìjú	X	_	_	0	_	_	Ref=PROV_14.34
-11	ni	ni	X	_	_	0	_	_	Ref=PROV_14.34
-12	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.34
-13	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.34
-14	fún	fún	X	_	_	0	_	_	Ref=PROV_14.34
+# text_en = Righteousness exalteth a nation: but sin is a reproach to any people.
+1	Ododo	ododo	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=righteousness
+2	a	a	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=be
+3	máa	máa	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=be
+4	gbé	gbé	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=dwell
+5	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=nations
+6	èdè	èdè	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=nations
+7	ga	ga	X	_	_	0	_	_	Ref=PROV_14.34|SpaceAfter=No|Gloss=exalted
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PROV_14.34|Gloss=,
+9	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=but
+10	ìtìjú	ìtìjú	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=shame
+11	ni	ni	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=is
+12	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=sin
+13	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=be
+14	fún	fún	X	_	_	0	_	_	Ref=PROV_14.34|Gloss=unto
 15	àwùjọ	àwùjọ	X	_	_	0	_	_	Ref=PROV_14.34
-16	káwùjọ	káwùjọ	X	_	_	0	_	_	Ref=PROV_14.34|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.34
+16	káwùjọ	káwùjọ	X	_	_	0	_	_	Ref=PROV_14.34|SpaceAfter=No|Gloss=people
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.34|Gloss=.
 
 # sent_id = PROV_14.35
 # text = Ọba a máa ní inú dídùn sí ìránṣẹ́ tí ó gbọ́n ṣùgbọ́n ìbínú rẹ̀ wá sórí ìránṣẹ́ adójútini.
-1	Ọba	ọba	X	_	_	0	_	_	Ref=PROV_14.35
-2	a	a	X	_	_	0	_	_	Ref=PROV_14.35
-3	máa	máa	X	_	_	0	_	_	Ref=PROV_14.35
-4	ní	ní	X	_	_	0	_	_	Ref=PROV_14.35
-5	inú	inú	X	_	_	0	_	_	Ref=PROV_14.35
-6	dídùn	dídùn	X	_	_	0	_	_	Ref=PROV_14.35
-7	sí	sí	X	_	_	0	_	_	Ref=PROV_14.35
-8	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PROV_14.35
-9	tí	tí	X	_	_	0	_	_	Ref=PROV_14.35
-10	ó	ó	X	_	_	0	_	_	Ref=PROV_14.35
-11	gbọ́n	gbọ́n	X	_	_	0	_	_	Ref=PROV_14.35
-12	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.35
-13	ìbínú	ìbínú	X	_	_	0	_	_	Ref=PROV_14.35
-14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.35
-15	wá	wá	X	_	_	0	_	_	Ref=PROV_14.35
-16	sórí	sórí	X	_	_	0	_	_	Ref=PROV_14.35
-17	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PROV_14.35
-18	adójútini	adójútini	X	_	_	0	_	_	Ref=PROV_14.35|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.35
+# text_en = The king's favour is toward a wise servant: but his wrath is against him that causeth shame.
+1	Ọba	ọba	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=king
+2	a	a	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=be
+3	máa	máa	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=be
+4	ní	ní	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=in
+5	inú	inú	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=of
+6	dídùn	dídùn	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=sweet
+7	sí	sí	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=to
+8	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=servant
+9	tí	tí	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=that
+10	ó	ó	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=he
+11	gbọ́n	gbọ́n	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=wise
+12	ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=but
+13	ìbínú	ìbínú	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=wrath
+14	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=his
+15	wá	wá	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=come
+16	sórí	sórí	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=upon
+17	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PROV_14.35|Gloss=servant
+18	adójútini	adójútini	X	_	_	0	_	_	Ref=PROV_14.35|SpaceAfter=No|Gloss=causeth
+19	.	.	PUNCT	_	_	0	punct	_	Ref=PROV_14.35|Gloss=.
 

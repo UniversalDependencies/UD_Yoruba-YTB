@@ -2,482 +2,508 @@
 # newdoc id = PS_136
 # sent_id = PS_136.1
 # text = Ẹ fi ọpẹ́ fún Olúwa nítorí tí ó ṣeun; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.1
-2	fi	fi	X	_	_	0	_	_	Ref=PS_136.1
-3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.1
-4	fún	fún	X	_	_	0	_	_	Ref=PS_136.1
-5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_136.1
-6	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.1
-7	tí	tí	X	_	_	0	_	_	Ref=PS_136.1
-8	ó	ó	X	_	_	0	_	_	Ref=PS_136.1
-9	ṣeun	ṣeun	X	_	_	0	_	_	Ref=PS_136.1|SpaceAfter=No
-10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.1
-11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.1
-12	tí	tí	X	_	_	0	_	_	Ref=PS_136.1
-13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.1
-14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.1
-15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.1
-16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.1|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.1
+# text_en = O give thanks unto the LORD; for he is good: for his mercy endureth for ever.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.1|Gloss=ye
+2	fi	fi	X	_	_	0	_	_	Ref=PS_136.1|Gloss=with
+3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.1|Gloss=thanks
+4	fún	fún	X	_	_	0	_	_	Ref=PS_136.1|Gloss=unto
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_136.1|Gloss=lord
+6	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.1|Gloss=for
+7	tí	tí	X	_	_	0	_	_	Ref=PS_136.1|Gloss=that
+8	ó	ó	X	_	_	0	_	_	Ref=PS_136.1|Gloss=he
+9	ṣeun	ṣeun	X	_	_	0	_	_	Ref=PS_136.1|SpaceAfter=No|Gloss=good
+10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.1|Gloss=;
+11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.1|Gloss=for
+12	tí	tí	X	_	_	0	_	_	Ref=PS_136.1|Gloss=that
+13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.1|Gloss=mercy
+14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.1|Gloss=his
+15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.1|Gloss=stood
+16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.1|SpaceAfter=No|Gloss=ever
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.1|Gloss=.
 
 # sent_id = PS_136.2
 # text = Ẹ fi ọpẹ́ fún Ọlọ́run àwọn ọlọ́run: nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.2
-2	fi	fi	X	_	_	0	_	_	Ref=PS_136.2
-3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.2
-4	fún	fún	X	_	_	0	_	_	Ref=PS_136.2
-5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_136.2
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.2
-7	ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_136.2|SpaceAfter=No
-8	:	:	PUNCT	_	_	0	punct	_	Ref=PS_136.2
-9	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.2
-10	tí	tí	X	_	_	0	_	_	Ref=PS_136.2
-11	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.2
-12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.2
-13	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.2
-14	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.2|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.2
+# text_en = O give thanks unto the God of gods: for his mercy endureth for ever.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.2|Gloss=ye
+2	fi	fi	X	_	_	0	_	_	Ref=PS_136.2|Gloss=with
+3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.2|Gloss=thanks
+4	fún	fún	X	_	_	0	_	_	Ref=PS_136.2|Gloss=unto
+5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_136.2|Gloss=god
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.2|Gloss=the
+7	ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_136.2|SpaceAfter=No|Gloss=god
+8	:	:	PUNCT	_	_	0	punct	_	Ref=PS_136.2|Gloss=:
+9	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.2|Gloss=for
+10	tí	tí	X	_	_	0	_	_	Ref=PS_136.2|Gloss=that
+11	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.2|Gloss=mercy
+12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.2|Gloss=his
+13	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.2|Gloss=stood
+14	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.2|SpaceAfter=No|Gloss=ever
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.2|Gloss=.
 
 # sent_id = PS_136.3
 # text = Ẹ fi ọpẹ́ fún Olúwa àwọn Olúwa , nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.3
-2	fi	fi	X	_	_	0	_	_	Ref=PS_136.3
-3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.3
-4	fún	fún	X	_	_	0	_	_	Ref=PS_136.3
-5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_136.3
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.3
-7	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_136.3
-8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.3
-9	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.3
-10	tí	tí	X	_	_	0	_	_	Ref=PS_136.3
-11	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.3
-12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.3
-13	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.3
-14	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.3|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.3
+# text_en = O give thanks to the Lord of lords: for his mercy endureth for ever.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.3|Gloss=ye
+2	fi	fi	X	_	_	0	_	_	Ref=PS_136.3|Gloss=with
+3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.3|Gloss=thanks
+4	fún	fún	X	_	_	0	_	_	Ref=PS_136.3|Gloss=unto
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_136.3|Gloss=lord
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.3|Gloss=the
+7	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_136.3|Gloss=lord
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.3|Gloss=,
+9	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.3|Gloss=for
+10	tí	tí	X	_	_	0	_	_	Ref=PS_136.3|Gloss=that
+11	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.3|Gloss=mercy
+12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.3|Gloss=his
+13	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.3|Gloss=stood
+14	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.3|SpaceAfter=No|Gloss=ever
+15	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.3|Gloss=.
 
 # sent_id = PS_136.4
 # text = Fún Òun nìkan tí ń ṣiṣẹ́ ìyanu ńlá; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.4
-2	Òun	òun	X	_	_	0	_	_	Ref=PS_136.4
-3	nìkan	nìkan	X	_	_	0	_	_	Ref=PS_136.4
-4	tí	tí	X	_	_	0	_	_	Ref=PS_136.4
-5	ń	ń	X	_	_	0	_	_	Ref=PS_136.4
-6	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=PS_136.4
-7	ìyanu	ìyanu	X	_	_	0	_	_	Ref=PS_136.4
-8	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_136.4|SpaceAfter=No
-9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.4
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.4
-11	tí	tí	X	_	_	0	_	_	Ref=PS_136.4
-12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.4
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.4
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.4
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.4|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.4
+# text_en = To him who alone doeth great wonders: for his mercy endureth for ever.
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.4|Gloss=unto
+2	Òun	òun	X	_	_	0	_	_	Ref=PS_136.4|Gloss=he
+3	nìkan	nìkan	X	_	_	0	_	_	Ref=PS_136.4|Gloss=only
+4	tí	tí	X	_	_	0	_	_	Ref=PS_136.4|Gloss=that
+5	ń	ń	X	_	_	0	_	_	Ref=PS_136.4|Gloss=that
+6	ṣiṣẹ́	ṣiṣẹ́	X	_	_	0	_	_	Ref=PS_136.4|Gloss=work
+7	ìyanu	ìyanu	X	_	_	0	_	_	Ref=PS_136.4|Gloss=wonders
+8	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_136.4|SpaceAfter=No|Gloss=great
+9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.4|Gloss=;
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.4|Gloss=for
+11	tí	tí	X	_	_	0	_	_	Ref=PS_136.4|Gloss=that
+12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.4|Gloss=mercy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.4|Gloss=his
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.4|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.4|SpaceAfter=No|Gloss=ever
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.4|Gloss=.
 
 # sent_id = PS_136.5
 # text = Fún ẹni tí ó fi ọgbọ́n dá ọ̀run; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.5
-2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.5
-3	tí	tí	X	_	_	0	_	_	Ref=PS_136.5
-4	ó	ó	X	_	_	0	_	_	Ref=PS_136.5
-5	fi	fi	X	_	_	0	_	_	Ref=PS_136.5
-6	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PS_136.5
-7	dá	dá	X	_	_	0	_	_	Ref=PS_136.5
-8	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_136.5|SpaceAfter=No
-9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.5
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.5
-11	tí	tí	X	_	_	0	_	_	Ref=PS_136.5
-12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.5
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.5
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.5
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.5|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.5
+# text_en = To him that by wisdom made the heavens: for his mercy endureth for ever.
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.5|Gloss=unto
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.5|Gloss=that
+3	tí	tí	X	_	_	0	_	_	Ref=PS_136.5|Gloss=that
+4	ó	ó	X	_	_	0	_	_	Ref=PS_136.5|Gloss=he
+5	fi	fi	X	_	_	0	_	_	Ref=PS_136.5|Gloss=with
+6	ọgbọ́n	ọgbọ́n	X	_	_	0	_	_	Ref=PS_136.5|Gloss=wisdom
+7	dá	dá	X	_	_	0	_	_	Ref=PS_136.5|Gloss=made
+8	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_136.5|SpaceAfter=No|Gloss=heaven
+9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.5|Gloss=;
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.5|Gloss=for
+11	tí	tí	X	_	_	0	_	_	Ref=PS_136.5|Gloss=that
+12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.5|Gloss=mercy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.5|Gloss=his
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.5|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.5|SpaceAfter=No|Gloss=ever
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.5|Gloss=.
 
 # sent_id = PS_136.6
 # text = Fún ẹni tí ó tẹ́ ilẹ̀ lórí omi; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.6
-2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.6
-3	tí	tí	X	_	_	0	_	_	Ref=PS_136.6
-4	ó	ó	X	_	_	0	_	_	Ref=PS_136.6
-5	tẹ́	tẹ́	X	_	_	0	_	_	Ref=PS_136.6
-6	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=PS_136.6
-7	lórí	lórí	X	_	_	0	_	_	Ref=PS_136.6
-8	omi	omi	X	_	_	0	_	_	Ref=PS_136.6|SpaceAfter=No
-9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.6
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.6
-11	tí	tí	X	_	_	0	_	_	Ref=PS_136.6
-12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.6
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.6
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.6
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.6|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.6
+# text_en = To him that stretched out the earth above the waters: for his mercy endureth for ever.
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.6|Gloss=unto
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.6|Gloss=that
+3	tí	tí	X	_	_	0	_	_	Ref=PS_136.6|Gloss=that
+4	ó	ó	X	_	_	0	_	_	Ref=PS_136.6|Gloss=he
+5	tẹ́	tẹ́	X	_	_	0	_	_	Ref=PS_136.6|Gloss=laid
+6	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=PS_136.6|Gloss=land
+7	lórí	lórí	X	_	_	0	_	_	Ref=PS_136.6|Gloss=upon
+8	omi	omi	X	_	_	0	_	_	Ref=PS_136.6|SpaceAfter=No|Gloss=water
+9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.6|Gloss=;
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.6|Gloss=for
+11	tí	tí	X	_	_	0	_	_	Ref=PS_136.6|Gloss=that
+12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.6|Gloss=mercy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.6|Gloss=his
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.6|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.6|SpaceAfter=No|Gloss=ever
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.6|Gloss=.
 
 # sent_id = PS_136.7
 # text = Fún ẹni tí ó dá àwọn ìmọ́lẹ̀ ńlá; nítorí tí àánú Rẹ̀ dúró láéláé
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.7
-2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.7
-3	tí	tí	X	_	_	0	_	_	Ref=PS_136.7
-4	ó	ó	X	_	_	0	_	_	Ref=PS_136.7
-5	dá	dá	X	_	_	0	_	_	Ref=PS_136.7
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.7
-7	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=PS_136.7
-8	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_136.7|SpaceAfter=No
-9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.7
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.7
-11	tí	tí	X	_	_	0	_	_	Ref=PS_136.7
-12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.7
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.7
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.7
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.7
+# text_en = To him that made great lights: for his mercy endureth for ever:
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.7|Gloss=unto
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.7|Gloss=that
+3	tí	tí	X	_	_	0	_	_	Ref=PS_136.7|Gloss=that
+4	ó	ó	X	_	_	0	_	_	Ref=PS_136.7|Gloss=he
+5	dá	dá	X	_	_	0	_	_	Ref=PS_136.7|Gloss=made
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.7|Gloss=the
+7	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=PS_136.7|Gloss=light
+8	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_136.7|SpaceAfter=No|Gloss=great
+9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.7|Gloss=;
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.7|Gloss=for
+11	tí	tí	X	_	_	0	_	_	Ref=PS_136.7|Gloss=that
+12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.7|Gloss=mercy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.7|Gloss=his
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.7|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.7|Gloss=ever
 
 # sent_id = PS_136.8
 # text = Òòrùn láti jọba ọ̀sán; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Òòrùn	òòrùn	X	_	_	0	_	_	Ref=PS_136.8
-2	láti	láti	X	_	_	0	_	_	Ref=PS_136.8
-3	jọba	jọba	X	_	_	0	_	_	Ref=PS_136.8
-4	ọ̀sán	ọ̀sán	X	_	_	0	_	_	Ref=PS_136.8|SpaceAfter=No
-5	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.8
-6	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.8
-7	tí	tí	X	_	_	0	_	_	Ref=PS_136.8
-8	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.8
-9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.8
-10	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.8
-11	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.8|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.8
+# text_en = The sun to rule by day: for his mercy endureth for ever:
+1	Òòrùn	òòrùn	X	_	_	0	_	_	Ref=PS_136.8|Gloss=sun
+2	láti	láti	X	_	_	0	_	_	Ref=PS_136.8|Gloss=to
+3	jọba	jọba	X	_	_	0	_	_	Ref=PS_136.8|Gloss=reigned
+4	ọ̀sán	ọ̀sán	X	_	_	0	_	_	Ref=PS_136.8|SpaceAfter=No|Gloss=day
+5	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.8|Gloss=;
+6	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.8|Gloss=for
+7	tí	tí	X	_	_	0	_	_	Ref=PS_136.8|Gloss=that
+8	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.8|Gloss=mercy
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.8|Gloss=his
+10	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.8|Gloss=stood
+11	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.8|SpaceAfter=No|Gloss=ever
+12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.8|Gloss=.
 
 # sent_id = PS_136.9
 # text = Òsùpá àti ìràwọ̀ láti jọba òru; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Òsùpá	òsùpá	X	_	_	0	_	_	Ref=PS_136.9
-2	àti	àti	X	_	_	0	_	_	Ref=PS_136.9
-3	ìràwọ̀	ìràwọ̀	X	_	_	0	_	_	Ref=PS_136.9
-4	láti	láti	X	_	_	0	_	_	Ref=PS_136.9
-5	jọba	jọba	X	_	_	0	_	_	Ref=PS_136.9
-6	òru	òru	X	_	_	0	_	_	Ref=PS_136.9|SpaceAfter=No
-7	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.9
-8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.9
-9	tí	tí	X	_	_	0	_	_	Ref=PS_136.9
-10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.9
-11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.9
-12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.9
-13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.9|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.9
+# text_en = The moon and stars to rule by night: for his mercy endureth for ever.
+1	Òsùpá	òsùpá	X	_	_	0	_	_	Ref=PS_136.9|Gloss=moon
+2	àti	àti	X	_	_	0	_	_	Ref=PS_136.9|Gloss=and
+3	ìràwọ̀	ìràwọ̀	X	_	_	0	_	_	Ref=PS_136.9|Gloss=stars
+4	láti	láti	X	_	_	0	_	_	Ref=PS_136.9|Gloss=to
+5	jọba	jọba	X	_	_	0	_	_	Ref=PS_136.9|Gloss=reigned
+6	òru	òru	X	_	_	0	_	_	Ref=PS_136.9|SpaceAfter=No|Gloss=night
+7	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.9|Gloss=;
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.9|Gloss=for
+9	tí	tí	X	_	_	0	_	_	Ref=PS_136.9|Gloss=that
+10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.9|Gloss=mercy
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.9|Gloss=his
+12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.9|Gloss=stood
+13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.9|SpaceAfter=No|Gloss=ever
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.9|Gloss=.
 
 # sent_id = PS_136.10
 # text = Fún ẹni tí ó kọlu Éjíbítì lára àwọn àkọ́bí wọn; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.10
-2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.10
-3	tí	tí	X	_	_	0	_	_	Ref=PS_136.10
-4	ó	ó	X	_	_	0	_	_	Ref=PS_136.10
-5	kọlu	kọlu	X	_	_	0	_	_	Ref=PS_136.10
-6	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=PS_136.10
-7	lára	lára	X	_	_	0	_	_	Ref=PS_136.10
-8	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.10
-9	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=PS_136.10
-10	wọn	wọn	X	_	_	0	_	_	Ref=PS_136.10|SpaceAfter=No
-11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.10
-12	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.10
-13	tí	tí	X	_	_	0	_	_	Ref=PS_136.10
-14	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.10
-15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.10
-16	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.10
-17	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.10|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.10
+# text_en = To him that smote Egypt in their firstborn: for his mercy endureth for ever:
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.10|Gloss=unto
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.10|Gloss=that
+3	tí	tí	X	_	_	0	_	_	Ref=PS_136.10|Gloss=that
+4	ó	ó	X	_	_	0	_	_	Ref=PS_136.10|Gloss=he
+5	kọlu	kọlu	X	_	_	0	_	_	Ref=PS_136.10|Gloss=smote
+6	Éjíbítì	Éjíbítì	PROPN	_	_	0	_	_	Ref=PS_136.10|Gloss=egypt
+7	lára	lára	X	_	_	0	_	_	Ref=PS_136.10|Gloss=of
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.10|Gloss=the
+9	àkọ́bí	àkọ́bí	X	_	_	0	_	_	Ref=PS_136.10|Gloss=firstborn
+10	wọn	wọn	X	_	_	0	_	_	Ref=PS_136.10|SpaceAfter=No|Gloss=them
+11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.10|Gloss=;
+12	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.10|Gloss=for
+13	tí	tí	X	_	_	0	_	_	Ref=PS_136.10|Gloss=that
+14	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.10|Gloss=mercy
+15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.10|Gloss=his
+16	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.10|Gloss=stood
+17	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.10|SpaceAfter=No|Gloss=ever
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.10|Gloss=.
 
 # sent_id = PS_136.11
 # text = Ó sì mú Ísírẹ́lì jáde kúrò láàrin wọn; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.11
-2	sì	sì	X	_	_	0	_	_	Ref=PS_136.11
-3	mú	mú	X	_	_	0	_	_	Ref=PS_136.11
-4	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_136.11
-5	jáde	jáde	X	_	_	0	_	_	Ref=PS_136.11
-6	kúrò	kúrò	X	_	_	0	_	_	Ref=PS_136.11
-7	láàrin	láàrin	X	_	_	0	_	_	Ref=PS_136.11
-8	wọn	wọn	X	_	_	0	_	_	Ref=PS_136.11|SpaceAfter=No
-9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.11
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.11
-11	tí	tí	X	_	_	0	_	_	Ref=PS_136.11
-12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.11
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.11
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.11
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.11|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.11
+# text_en = And brought out Israel from among them: for his mercy endureth for ever:
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.11|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=PS_136.11|Gloss=and
+3	mú	mú	X	_	_	0	_	_	Ref=PS_136.11|Gloss=brought
+4	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_136.11|Gloss=israel
+5	jáde	jáde	X	_	_	0	_	_	Ref=PS_136.11|Gloss=out
+6	kúrò	kúrò	X	_	_	0	_	_	Ref=PS_136.11|Gloss=from
+7	láàrin	láàrin	X	_	_	0	_	_	Ref=PS_136.11|Gloss=among
+8	wọn	wọn	X	_	_	0	_	_	Ref=PS_136.11|SpaceAfter=No|Gloss=them
+9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.11|Gloss=;
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.11|Gloss=for
+11	tí	tí	X	_	_	0	_	_	Ref=PS_136.11|Gloss=that
+12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.11|Gloss=mercy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.11|Gloss=his
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.11|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.11|SpaceAfter=No|Gloss=ever
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.11|Gloss=.
 
 # sent_id = PS_136.12
 # text = Pẹ̀lú ọwọ́ agbára àti apá nínà; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_136.12
-2	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=PS_136.12
-3	agbára	agbára	X	_	_	0	_	_	Ref=PS_136.12
-4	àti	àti	X	_	_	0	_	_	Ref=PS_136.12
-5	apá	apá	X	_	_	0	_	_	Ref=PS_136.12
-6	nínà	nínà	X	_	_	0	_	_	Ref=PS_136.12|SpaceAfter=No
-7	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.12
-8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.12
-9	tí	tí	X	_	_	0	_	_	Ref=PS_136.12
-10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.12
-11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.12
-12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.12
-13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.12|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.12
+# text_en = With a strong hand, and with a stretched out arm: for his mercy endureth for ever.
+1	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_136.12|Gloss=with
+2	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=PS_136.12|Gloss=hand
+3	agbára	agbára	X	_	_	0	_	_	Ref=PS_136.12|Gloss=power
+4	àti	àti	X	_	_	0	_	_	Ref=PS_136.12|Gloss=and
+5	apá	apá	X	_	_	0	_	_	Ref=PS_136.12|Gloss=arm
+6	nínà	nínà	X	_	_	0	_	_	Ref=PS_136.12|SpaceAfter=No|Gloss=stretched
+7	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.12|Gloss=;
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.12|Gloss=for
+9	tí	tí	X	_	_	0	_	_	Ref=PS_136.12|Gloss=that
+10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.12|Gloss=mercy
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.12|Gloss=his
+12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.12|Gloss=stood
+13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.12|SpaceAfter=No|Gloss=ever
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.12|Gloss=.
 
 # sent_id = PS_136.13
 # text = Fún ẹni tí ó pín òkun pupa ní ìyà; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.13
-2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.13
-3	tí	tí	X	_	_	0	_	_	Ref=PS_136.13
-4	ó	ó	X	_	_	0	_	_	Ref=PS_136.13
-5	pín	pín	X	_	_	0	_	_	Ref=PS_136.13
-6	òkun	òkun	X	_	_	0	_	_	Ref=PS_136.13
-7	pupa	pupa	X	_	_	0	_	_	Ref=PS_136.13
-8	ní	ní	X	_	_	0	_	_	Ref=PS_136.13
-9	ìyà	ìyà	X	_	_	0	_	_	Ref=PS_136.13|SpaceAfter=No
-10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.13
-11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.13
-12	tí	tí	X	_	_	0	_	_	Ref=PS_136.13
-13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.13
-14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.13
-15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.13
-16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.13|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.13
+# text_en = To him which divided the Red sea into parts: for his mercy endureth for ever:
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.13|Gloss=unto
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.13|Gloss=that
+3	tí	tí	X	_	_	0	_	_	Ref=PS_136.13|Gloss=that
+4	ó	ó	X	_	_	0	_	_	Ref=PS_136.13|Gloss=he
+5	pín	pín	X	_	_	0	_	_	Ref=PS_136.13|Gloss=divided
+6	òkun	òkun	X	_	_	0	_	_	Ref=PS_136.13|Gloss=sea
+7	pupa	pupa	X	_	_	0	_	_	Ref=PS_136.13|Gloss=red
+8	ní	ní	X	_	_	0	_	_	Ref=PS_136.13|Gloss=in
+9	ìyà	ìyà	X	_	_	0	_	_	Ref=PS_136.13|SpaceAfter=No|Gloss=punish
+10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.13|Gloss=;
+11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.13|Gloss=for
+12	tí	tí	X	_	_	0	_	_	Ref=PS_136.13|Gloss=that
+13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.13|Gloss=mercy
+14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.13|Gloss=his
+15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.13|Gloss=stood
+16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.13|SpaceAfter=No|Gloss=ever
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.13|Gloss=.
 
 # sent_id = PS_136.14
 # text = Ó sì mú Ísírẹ́lì kọjá láàrin Rẹ̀ nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.14
-2	sì	sì	X	_	_	0	_	_	Ref=PS_136.14
-3	mú	mú	X	_	_	0	_	_	Ref=PS_136.14
-4	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_136.14
-5	kọjá	kọjá	X	_	_	0	_	_	Ref=PS_136.14
-6	láàrin	láàrin	X	_	_	0	_	_	Ref=PS_136.14
-7	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.14
-8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.14
-9	tí	tí	X	_	_	0	_	_	Ref=PS_136.14
-10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.14
-11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.14
-12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.14
-13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.14|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.14
+# text_en = And made Israel to pass through the midst of it: for his mercy endureth for ever:
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.14|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=PS_136.14|Gloss=and
+3	mú	mú	X	_	_	0	_	_	Ref=PS_136.14|Gloss=brought
+4	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_136.14|Gloss=israel
+5	kọjá	kọjá	X	_	_	0	_	_	Ref=PS_136.14|Gloss=passed
+6	láàrin	láàrin	X	_	_	0	_	_	Ref=PS_136.14|Gloss=among
+7	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.14|Gloss=his
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.14|Gloss=for
+9	tí	tí	X	_	_	0	_	_	Ref=PS_136.14|Gloss=that
+10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.14|Gloss=mercy
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.14|Gloss=his
+12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.14|Gloss=stood
+13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.14|SpaceAfter=No|Gloss=ever
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.14|Gloss=.
 
 # sent_id = PS_136.15
 # text = Ṣùgbọ́n ó bi Fáráò àti ogun Rẹ̀ ṣubú nínú òkun pupa; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PS_136.15
-2	ó	ó	X	_	_	0	_	_	Ref=PS_136.15
-3	bi	bi	X	_	_	0	_	_	Ref=PS_136.15
-4	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=PS_136.15
-5	àti	àti	X	_	_	0	_	_	Ref=PS_136.15
-6	ogun	ogun	X	_	_	0	_	_	Ref=PS_136.15
-7	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.15
-8	ṣubú	ṣubú	X	_	_	0	_	_	Ref=PS_136.15
-9	nínú	nínú	X	_	_	0	_	_	Ref=PS_136.15
-10	òkun	òkun	X	_	_	0	_	_	Ref=PS_136.15
-11	pupa	pupa	X	_	_	0	_	_	Ref=PS_136.15|SpaceAfter=No
-12	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.15
-13	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.15
-14	tí	tí	X	_	_	0	_	_	Ref=PS_136.15
-15	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.15
-16	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.15
-17	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.15
-18	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.15|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.15
+# text_en = But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.
+1	Ṣùgbọ́n	ṣùgbọ́n	X	_	_	0	_	_	Ref=PS_136.15|Gloss=but
+2	ó	ó	X	_	_	0	_	_	Ref=PS_136.15|Gloss=he
+3	bi	bi	X	_	_	0	_	_	Ref=PS_136.15|Gloss=as
+4	Fáráò	Fáráò	PROPN	_	_	0	_	_	Ref=PS_136.15|Gloss=pharaoh
+5	àti	àti	X	_	_	0	_	_	Ref=PS_136.15|Gloss=and
+6	ogun	ogun	X	_	_	0	_	_	Ref=PS_136.15|Gloss=war
+7	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.15|Gloss=his
+8	ṣubú	ṣubú	X	_	_	0	_	_	Ref=PS_136.15|Gloss=fall
+9	nínú	nínú	X	_	_	0	_	_	Ref=PS_136.15|Gloss=in
+10	òkun	òkun	X	_	_	0	_	_	Ref=PS_136.15|Gloss=sea
+11	pupa	pupa	X	_	_	0	_	_	Ref=PS_136.15|SpaceAfter=No|Gloss=red
+12	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.15|Gloss=;
+13	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.15|Gloss=for
+14	tí	tí	X	_	_	0	_	_	Ref=PS_136.15|Gloss=that
+15	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.15|Gloss=mercy
+16	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.15|Gloss=his
+17	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.15|Gloss=stood
+18	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.15|SpaceAfter=No|Gloss=ever
+19	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.15|Gloss=.
 
 # sent_id = PS_136.16
 # text = Fún ẹni tí ó sin àwọn ènìyàn Rẹ̀ la ihà já nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.16
-2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.16
-3	tí	tí	X	_	_	0	_	_	Ref=PS_136.16
-4	ó	ó	X	_	_	0	_	_	Ref=PS_136.16
-5	sin	sin	X	_	_	0	_	_	Ref=PS_136.16
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.16
-7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_136.16
-8	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.16
-9	la	la	X	_	_	0	_	_	Ref=PS_136.16
-10	ihà	ihà	X	_	_	0	_	_	Ref=PS_136.16
-11	já	já	X	_	_	0	_	_	Ref=PS_136.16
-12	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.16
-13	tí	tí	X	_	_	0	_	_	Ref=PS_136.16
-14	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.16
-15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.16
-16	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.16
-17	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.16|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.16
+# text_en = To him which led his people through the wilderness: for his mercy endureth for ever.
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.16|Gloss=unto
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.16|Gloss=that
+3	tí	tí	X	_	_	0	_	_	Ref=PS_136.16|Gloss=that
+4	ó	ó	X	_	_	0	_	_	Ref=PS_136.16|Gloss=he
+5	sin	sin	X	_	_	0	_	_	Ref=PS_136.16|Gloss=buried
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.16|Gloss=the
+7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_136.16|Gloss=people
+8	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.16|Gloss=his
+9	la	la	X	_	_	0	_	_	Ref=PS_136.16|Gloss=through
+10	ihà	ihà	X	_	_	0	_	_	Ref=PS_136.16|Gloss=wilderness
+11	já	já	X	_	_	0	_	_	Ref=PS_136.16|Gloss=broken
+12	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.16|Gloss=for
+13	tí	tí	X	_	_	0	_	_	Ref=PS_136.16|Gloss=that
+14	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.16|Gloss=mercy
+15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.16|Gloss=his
+16	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.16|Gloss=stood
+17	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.16|SpaceAfter=No|Gloss=ever
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.16|Gloss=.
 
 # sent_id = PS_136.17
 # text = Fún ẹni tí ó kọ lu àwọn ọba ńlá; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.17
-2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.17
-3	tí	tí	X	_	_	0	_	_	Ref=PS_136.17
-4	ó	ó	X	_	_	0	_	_	Ref=PS_136.17
-5	kọ	kọ	X	_	_	0	_	_	Ref=PS_136.17
-6	lu	lu	X	_	_	0	_	_	Ref=PS_136.17
-7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.17
-8	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.17
-9	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_136.17|SpaceAfter=No
-10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.17
-11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.17
-12	tí	tí	X	_	_	0	_	_	Ref=PS_136.17
-13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.17
-14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.17
-15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.17
-16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.17|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.17
+# text_en = To him which smote great kings: for his mercy endureth for ever:
+1	Fún	fún	X	_	_	0	_	_	Ref=PS_136.17|Gloss=unto
+2	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.17|Gloss=that
+3	tí	tí	X	_	_	0	_	_	Ref=PS_136.17|Gloss=that
+4	ó	ó	X	_	_	0	_	_	Ref=PS_136.17|Gloss=he
+5	kọ	kọ	X	_	_	0	_	_	Ref=PS_136.17|Gloss=written
+6	lu	lu	X	_	_	0	_	_	Ref=PS_136.17|Gloss=smote
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.17|Gloss=the
+8	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.17|Gloss=king
+9	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_136.17|SpaceAfter=No|Gloss=great
+10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.17|Gloss=;
+11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.17|Gloss=for
+12	tí	tí	X	_	_	0	_	_	Ref=PS_136.17|Gloss=that
+13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.17|Gloss=mercy
+14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.17|Gloss=his
+15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.17|Gloss=stood
+16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.17|SpaceAfter=No|Gloss=ever
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.17|Gloss=.
 
 # sent_id = PS_136.18
 # text = Ó sì pa àwọn ọba olókìkí nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.18
-2	sì	sì	X	_	_	0	_	_	Ref=PS_136.18
-3	pa	pa	X	_	_	0	_	_	Ref=PS_136.18
-4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.18
-5	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.18
-6	olókìkí	olókìkí	X	_	_	0	_	_	Ref=PS_136.18
-7	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.18
-8	tí	tí	X	_	_	0	_	_	Ref=PS_136.18
-9	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.18
-10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.18
-11	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.18
-12	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.18|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.18
+# text_en = And slew famous kings: for his mercy endureth for ever:
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.18|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=PS_136.18|Gloss=and
+3	pa	pa	X	_	_	0	_	_	Ref=PS_136.18|Gloss=keep
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.18|Gloss=the
+5	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.18|Gloss=king
+6	olókìkí	olókìkí	X	_	_	0	_	_	Ref=PS_136.18|Gloss=great
+7	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.18|Gloss=for
+8	tí	tí	X	_	_	0	_	_	Ref=PS_136.18|Gloss=that
+9	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.18|Gloss=mercy
+10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.18|Gloss=his
+11	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.18|Gloss=stood
+12	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.18|SpaceAfter=No|Gloss=ever
+13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.18|Gloss=.
 
 # sent_id = PS_136.19
 # text = Síónì, ọba àwọn ará Ámórì nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Síónì	síónì	X	_	_	0	_	_	Ref=PS_136.19|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.19
-3	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.19
-4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.19
-5	ará	ará	X	_	_	0	_	_	Ref=PS_136.19
-6	Ámórì	Ámórì	PROPN	_	_	0	_	_	Ref=PS_136.19
-7	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.19
-8	tí	tí	X	_	_	0	_	_	Ref=PS_136.19
-9	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.19
-10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.19
-11	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.19
-12	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.19|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.19
+# text_en = Sihon king of the Amorites: for his mercy endureth for ever:
+1	Síónì	síónì	X	_	_	0	_	_	Ref=PS_136.19|SpaceAfter=No|Gloss=zion
+2	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.19|Gloss=,
+3	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.19|Gloss=king
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.19|Gloss=the
+5	ará	ará	X	_	_	0	_	_	Ref=PS_136.19|Gloss=brethren
+6	Ámórì	Ámórì	PROPN	_	_	0	_	_	Ref=PS_136.19|Gloss=amorites
+7	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.19|Gloss=for
+8	tí	tí	X	_	_	0	_	_	Ref=PS_136.19|Gloss=that
+9	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.19|Gloss=mercy
+10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.19|Gloss=his
+11	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.19|Gloss=stood
+12	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.19|SpaceAfter=No|Gloss=ever
+13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.19|Gloss=.
 
 # sent_id = PS_136.20
 # text = Àti Ógù, ọba Báṣánì; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Àti	àti	X	_	_	0	_	_	Ref=PS_136.20
-2	Ógù	ógù	X	_	_	0	_	_	Ref=PS_136.20|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.20
-4	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.20
-5	Báṣánì	Báṣánì	PROPN	_	_	0	_	_	Ref=PS_136.20|SpaceAfter=No
-6	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.20
-7	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.20
-8	tí	tí	X	_	_	0	_	_	Ref=PS_136.20
-9	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.20
-10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.20
-11	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.20
-12	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.20|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.20
+# text_en = And Og the king of Bashan: for his mercy endureth for ever:
+1	Àti	àti	X	_	_	0	_	_	Ref=PS_136.20|Gloss=and
+2	Ógù	ógù	X	_	_	0	_	_	Ref=PS_136.20|SpaceAfter=No|Gloss=og
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.20|Gloss=,
+4	ọba	ọba	X	_	_	0	_	_	Ref=PS_136.20|Gloss=king
+5	Báṣánì	Báṣánì	PROPN	_	_	0	_	_	Ref=PS_136.20|SpaceAfter=No|Gloss=bashan
+6	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.20|Gloss=;
+7	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.20|Gloss=for
+8	tí	tí	X	_	_	0	_	_	Ref=PS_136.20|Gloss=that
+9	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.20|Gloss=mercy
+10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.20|Gloss=his
+11	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.20|Gloss=stood
+12	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.20|SpaceAfter=No|Gloss=ever
+13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.20|Gloss=.
 
 # sent_id = PS_136.21
 # text = Ó sì fi ilẹ̀ wọn fúnni ní ìní, nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.21
-2	sì	sì	X	_	_	0	_	_	Ref=PS_136.21
-3	fi	fi	X	_	_	0	_	_	Ref=PS_136.21
-4	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=PS_136.21
-5	wọn	wọn	X	_	_	0	_	_	Ref=PS_136.21
-6	fúnni	fúnni	X	_	_	0	_	_	Ref=PS_136.21
-7	ní	ní	X	_	_	0	_	_	Ref=PS_136.21
-8	ìní	ìní	X	_	_	0	_	_	Ref=PS_136.21|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.21
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.21
-11	tí	tí	X	_	_	0	_	_	Ref=PS_136.21
-12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.21
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.21
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.21
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.21|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.21
+# text_en = And gave their land for an heritage: for his mercy endureth for ever:
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.21|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=PS_136.21|Gloss=and
+3	fi	fi	X	_	_	0	_	_	Ref=PS_136.21|Gloss=with
+4	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=PS_136.21|Gloss=land
+5	wọn	wọn	X	_	_	0	_	_	Ref=PS_136.21|Gloss=them
+6	fúnni	fúnni	X	_	_	0	_	_	Ref=PS_136.21|Gloss=gave
+7	ní	ní	X	_	_	0	_	_	Ref=PS_136.21|Gloss=in
+8	ìní	ìní	X	_	_	0	_	_	Ref=PS_136.21|SpaceAfter=No|Gloss=inheritance
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.21|Gloss=,
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.21|Gloss=for
+11	tí	tí	X	_	_	0	_	_	Ref=PS_136.21|Gloss=that
+12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.21|Gloss=mercy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.21|Gloss=his
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.21|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.21|SpaceAfter=No|Gloss=ever
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.21|Gloss=.
 
 # sent_id = PS_136.22
 # text = Ìní fún Ísírẹ́lì, ìránṣẹ́ Rẹ̀, nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ìní	ìní	X	_	_	0	_	_	Ref=PS_136.22
-2	fún	fún	X	_	_	0	_	_	Ref=PS_136.22
-3	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_136.22|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.22
-5	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PS_136.22
-6	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.22|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.22
-8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.22
-9	tí	tí	X	_	_	0	_	_	Ref=PS_136.22
-10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.22
-11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.22
-12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.22
-13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.22|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.22
+# text_en = Even an heritage unto Israel his servant: for his mercy endureth for ever.
+1	Ìní	ìní	X	_	_	0	_	_	Ref=PS_136.22|Gloss=inheritance
+2	fún	fún	X	_	_	0	_	_	Ref=PS_136.22|Gloss=unto
+3	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_136.22|SpaceAfter=No|Gloss=israel
+4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.22|Gloss=,
+5	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PS_136.22|Gloss=servant
+6	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.22|SpaceAfter=No|Gloss=his
+7	,	,	PUNCT	_	_	0	punct	_	Ref=PS_136.22|Gloss=,
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.22|Gloss=for
+9	tí	tí	X	_	_	0	_	_	Ref=PS_136.22|Gloss=that
+10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.22|Gloss=mercy
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.22|Gloss=his
+12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.22|Gloss=stood
+13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.22|SpaceAfter=No|Gloss=ever
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.22|Gloss=.
 
 # sent_id = PS_136.23
 # text = Ẹni tí ó rántí wa ní ìwà ìrẹ̀lẹ̀ wa; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.23
-2	tí	tí	X	_	_	0	_	_	Ref=PS_136.23
-3	ó	ó	X	_	_	0	_	_	Ref=PS_136.23
-4	rántí	rántí	X	_	_	0	_	_	Ref=PS_136.23
-5	wa	wa	X	_	_	0	_	_	Ref=PS_136.23
-6	ní	ní	X	_	_	0	_	_	Ref=PS_136.23
-7	ìwà	ìwà	X	_	_	0	_	_	Ref=PS_136.23
-8	ìrẹ̀lẹ̀	ìrẹ̀lẹ̀	X	_	_	0	_	_	Ref=PS_136.23
-9	wa	wa	X	_	_	0	_	_	Ref=PS_136.23|SpaceAfter=No
-10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.23
-11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.23
-12	tí	tí	X	_	_	0	_	_	Ref=PS_136.23
-13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.23
-14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.23
-15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.23
-16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.23|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.23
+# text_en = Who remembered us in our low estate: for his mercy endureth for ever:
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.23|Gloss=that
+2	tí	tí	X	_	_	0	_	_	Ref=PS_136.23|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PS_136.23|Gloss=he
+4	rántí	rántí	X	_	_	0	_	_	Ref=PS_136.23|Gloss=remember
+5	wa	wa	X	_	_	0	_	_	Ref=PS_136.23|Gloss=our
+6	ní	ní	X	_	_	0	_	_	Ref=PS_136.23|Gloss=in
+7	ìwà	ìwà	X	_	_	0	_	_	Ref=PS_136.23|Gloss=wickedness
+8	ìrẹ̀lẹ̀	ìrẹ̀lẹ̀	X	_	_	0	_	_	Ref=PS_136.23|Gloss=humility
+9	wa	wa	X	_	_	0	_	_	Ref=PS_136.23|SpaceAfter=No|Gloss=our
+10	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.23|Gloss=;
+11	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.23|Gloss=for
+12	tí	tí	X	_	_	0	_	_	Ref=PS_136.23|Gloss=that
+13	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.23|Gloss=mercy
+14	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.23|Gloss=his
+15	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.23|Gloss=stood
+16	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.23|SpaceAfter=No|Gloss=ever
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.23|Gloss=.
 
 # sent_id = PS_136.24
 # text = Ó sì dá wa ní ìdè lọ́wọ́ àwọn ọ̀tá wa; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.24
-2	sì	sì	X	_	_	0	_	_	Ref=PS_136.24
-3	dá	dá	X	_	_	0	_	_	Ref=PS_136.24
-4	wa	wa	X	_	_	0	_	_	Ref=PS_136.24
-5	ní	ní	X	_	_	0	_	_	Ref=PS_136.24
-6	ìdè	ìdè	X	_	_	0	_	_	Ref=PS_136.24
-7	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PS_136.24
-8	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.24
-9	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=PS_136.24
-10	wa	wa	X	_	_	0	_	_	Ref=PS_136.24|SpaceAfter=No
-11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.24
-12	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.24
-13	tí	tí	X	_	_	0	_	_	Ref=PS_136.24
-14	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.24
-15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.24
-16	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.24
-17	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.24|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.24
+# text_en = And hath redeemed us from our enemies: for his mercy endureth for ever.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_136.24|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=PS_136.24|Gloss=and
+3	dá	dá	X	_	_	0	_	_	Ref=PS_136.24|Gloss=made
+4	wa	wa	X	_	_	0	_	_	Ref=PS_136.24|Gloss=our
+5	ní	ní	X	_	_	0	_	_	Ref=PS_136.24|Gloss=in
+6	ìdè	ìdè	X	_	_	0	_	_	Ref=PS_136.24|Gloss=bonds
+7	lọ́wọ́	lọ́wọ́	X	_	_	0	_	_	Ref=PS_136.24|Gloss=hand
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.24|Gloss=the
+9	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=PS_136.24|Gloss=enemies
+10	wa	wa	X	_	_	0	_	_	Ref=PS_136.24|SpaceAfter=No|Gloss=our
+11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.24|Gloss=;
+12	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.24|Gloss=for
+13	tí	tí	X	_	_	0	_	_	Ref=PS_136.24|Gloss=that
+14	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.24|Gloss=mercy
+15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.24|Gloss=his
+16	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.24|Gloss=stood
+17	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.24|SpaceAfter=No|Gloss=ever
+18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.24|Gloss=.
 
 # sent_id = PS_136.25
 # text = Ẹni tí ó fi oúnjẹ fún àwọn ẹ̀dá gbogbo nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.25
-2	tí	tí	X	_	_	0	_	_	Ref=PS_136.25
-3	ó	ó	X	_	_	0	_	_	Ref=PS_136.25
-4	fi	fi	X	_	_	0	_	_	Ref=PS_136.25
-5	oúnjẹ	oúnjẹ	X	_	_	0	_	_	Ref=PS_136.25
-6	fún	fún	X	_	_	0	_	_	Ref=PS_136.25
-7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.25
-8	ẹ̀dá	ẹ̀dá	X	_	_	0	_	_	Ref=PS_136.25
-9	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_136.25
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.25
-11	tí	tí	X	_	_	0	_	_	Ref=PS_136.25
-12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.25
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.25
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.25
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.25|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.25
+# text_en = Who giveth food to all flesh: for his mercy endureth for ever.
+1	Ẹni	ẹni	X	_	_	0	_	_	Ref=PS_136.25|Gloss=that
+2	tí	tí	X	_	_	0	_	_	Ref=PS_136.25|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PS_136.25|Gloss=he
+4	fi	fi	X	_	_	0	_	_	Ref=PS_136.25|Gloss=with
+5	oúnjẹ	oúnjẹ	X	_	_	0	_	_	Ref=PS_136.25|Gloss=bread
+6	fún	fún	X	_	_	0	_	_	Ref=PS_136.25|Gloss=unto
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_136.25|Gloss=the
+8	ẹ̀dá	ẹ̀dá	X	_	_	0	_	_	Ref=PS_136.25|Gloss=creature
+9	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_136.25|Gloss=all
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.25|Gloss=for
+11	tí	tí	X	_	_	0	_	_	Ref=PS_136.25|Gloss=that
+12	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.25|Gloss=mercy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.25|Gloss=his
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.25|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.25|SpaceAfter=No|Gloss=ever
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.25|Gloss=.
 
 # sent_id = PS_136.26
 # text = Ẹ fi ọpẹ́ fún Ọlọ́run ọ̀run; nítorí tí àánú Rẹ̀ dúró láéláé.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.26
-2	fi	fi	X	_	_	0	_	_	Ref=PS_136.26
-3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.26
-4	fún	fún	X	_	_	0	_	_	Ref=PS_136.26
-5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_136.26
-6	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_136.26|SpaceAfter=No
-7	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.26
-8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.26
-9	tí	tí	X	_	_	0	_	_	Ref=PS_136.26
-10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.26
-11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.26
-12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.26
-13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.26|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.26
+# text_en = O give thanks unto the God of heaven: for his mercy endureth for ever.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_136.26|Gloss=ye
+2	fi	fi	X	_	_	0	_	_	Ref=PS_136.26|Gloss=with
+3	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_136.26|Gloss=thanks
+4	fún	fún	X	_	_	0	_	_	Ref=PS_136.26|Gloss=unto
+5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_136.26|Gloss=god
+6	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_136.26|SpaceAfter=No|Gloss=heaven
+7	;	;	PUNCT	_	_	0	punct	_	Ref=PS_136.26|Gloss=;
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_136.26|Gloss=for
+9	tí	tí	X	_	_	0	_	_	Ref=PS_136.26|Gloss=that
+10	àánú	àánú	X	_	_	0	_	_	Ref=PS_136.26|Gloss=mercy
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_136.26|Gloss=his
+12	dúró	dúró	X	_	_	0	_	_	Ref=PS_136.26|Gloss=stood
+13	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_136.26|SpaceAfter=No|Gloss=ever
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_136.26|Gloss=.
 

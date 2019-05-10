@@ -2,508 +2,532 @@
 # newdoc id = JOSH_12
 # sent_id = JOSH_12.1
 # text = Ìwọ̀nyí ní àwọn ọba ilẹ̀ náà tí àwọn ará Ísírẹ́lì ṣẹ́gun, tí wọ́n sì gba ilẹ̀ wọn ní ìlà-oòrùn Jọ́dánì, láti Ánónì-Gọ́gi dé Okè Hámónì, pẹ̀lú gbogbo ìhà ìlà-oòrùn aginjù:
-1	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_12.1
-2	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.1
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.1
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.1
-5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.1
-6	náà	náà	X	_	_	0	_	_	Ref=JOSH_12.1
-7	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.1
-8	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.1
-9	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.1
-10	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.1
-11	ṣẹ́gun	ṣẹ́gun	X	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1
-13	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.1
-14	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOSH_12.1
-15	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.1
-16	gba	gba	X	_	_	0	_	_	Ref=JOSH_12.1
-17	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.1
-18	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.1
-19	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.1
+# text_en = Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:
+1	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=these
+2	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=in
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=the
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=king
+5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=land
+6	náà	náà	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=the
+7	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=that
+8	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=the
+9	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=brethren
+10	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.1|Gloss=israel
+11	ṣẹ́gun	ṣẹ́gun	X	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=smote
+12	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|Gloss=,
+13	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=that
+14	wọ́n	wọ́n	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=they
+15	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=and
+16	gba	gba	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=receive
+17	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=land
+18	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=them
+19	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=in
 20	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No
-21	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|SpaceAfter=No
-22	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.1
-23	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No
-24	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1
-25	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.1
-26	Ánónì	Ánónì	PROPN	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No
-27	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|SpaceAfter=No
-28	Gọ́gi	Gọ́gi	PROPN	_	_	0	_	_	Ref=JOSH_12.1
-29	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.1
-30	Okè	okè	X	_	_	0	_	_	Ref=JOSH_12.1
-31	Hámónì	Hámónì	PROPN	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No
-32	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1
-33	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_12.1
-34	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_12.1
-35	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.1
+21	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=the
+22	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=sun
+23	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=jordan
+24	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|Gloss=,
+25	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=to
+26	Ánónì	Ánónì	PROPN	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=arnon
+27	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=the
+28	Gọ́gi	Gọ́gi	PROPN	_	_	0	_	_	Ref=JOSH_12.1|Gloss=null
+29	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=come
+30	Okè	okè	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=mount
+31	Hámónì	Hámónì	PROPN	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=hermon
+32	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|Gloss=,
+33	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=with
+34	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=all
+35	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=side
 36	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No
-37	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|SpaceAfter=No
-38	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.1
-39	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No
-40	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1
+37	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=the
+38	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.1|Gloss=sun
+39	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.1|SpaceAfter=No|Gloss=plain
+40	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.1|Gloss=:
 
 # sent_id = JOSH_12.2
 # text = Síhónì ọba àwọn Ámorì, tí ó jọba ní Hésíbónì. Ó ṣe àkóso láti Ároérì tí ń bẹ ní etí Anoni-Gọ́gì, láti àárin Jọ́ọ́jì dé Odò Jábókì, èyí tí ó jẹ́ ààlà àwọn ọmọ Ámónì. Pẹ̀lú ìdajì àwọn ará Gílíádì.
-1	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_12.2
-2	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.2
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.2
-4	Ámorì	Ámorì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2
-6	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.2
-7	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.2
-8	jọba	jọba	X	_	_	0	_	_	Ref=JOSH_12.2
-9	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.2
-10	Hésíbónì	Hésíbónì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2
-12	Ó	ó	X	_	_	0	_	_	Ref=JOSH_12.2
-13	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_12.2
-14	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_12.2
-15	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.2
-16	Ároérì	Ároérì	PROPN	_	_	0	_	_	Ref=JOSH_12.2
-17	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.2
-18	ń	ń	X	_	_	0	_	_	Ref=JOSH_12.2
-19	bẹ	bẹ	X	_	_	0	_	_	Ref=JOSH_12.2
-20	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.2
-21	etí	etí	X	_	_	0	_	_	Ref=JOSH_12.2
-22	Anoni	Anoni	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No
-23	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|SpaceAfter=No
-24	Gọ́gì	Gọ́gì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No
-25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2
-26	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.2
-27	àárin	àárin	X	_	_	0	_	_	Ref=JOSH_12.2
-28	Jọ́ọ́jì	Jọ́ọ́jì	PROPN	_	_	0	_	_	Ref=JOSH_12.2
-29	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.2
-30	Odò	odò	X	_	_	0	_	_	Ref=JOSH_12.2
-31	Jábókì	Jábókì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No
-32	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2
-33	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_12.2
-34	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.2
-35	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.2
-36	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_12.2
-37	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_12.2
-38	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.2
-39	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_12.2
-40	Ámónì	Ámónì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No
-41	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2
-42	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_12.2
-43	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_12.2
-44	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.2
-45	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.2
-46	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No
-47	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2
+# text_en = Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;
+1	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|Gloss=sihon
+2	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=king
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=the
+4	Ámorì	Ámorì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=amorites
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|Gloss=,
+6	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=that
+7	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=he
+8	jọba	jọba	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=reigned
+9	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=in
+10	Hésíbónì	Hésíbónì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=heshbon
+11	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|Gloss=.
+12	Ó	ó	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=he
+13	ṣe	ṣe	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=do
+14	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=rule
+15	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=to
+16	Ároérì	Ároérì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|Gloss=null
+17	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=that
+18	ń	ń	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=that
+19	bẹ	bẹ	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=is
+20	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=in
+21	etí	etí	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=ears
+22	Anoni	Anoni	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=null
+23	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=the
+24	Gọ́gì	Gọ́gì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=null
+25	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|Gloss=,
+26	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=to
+27	àárin	àárin	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=midst
+28	Jọ́ọ́jì	Jọ́ọ́jì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|Gloss=river
+29	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=come
+30	Odò	odò	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=river
+31	Jábókì	Jábókì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=null
+32	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|Gloss=,
+33	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=this
+34	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=that
+35	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=he
+36	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=be
+37	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=border
+38	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=the
+39	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=son
+40	Ámónì	Ámónì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=ammon
+41	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|Gloss=.
+42	Pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=with
+43	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=half
+44	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=the
+45	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.2|Gloss=brethren
+46	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=JOSH_12.2|SpaceAfter=No|Gloss=gilead
+47	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.2|Gloss=.
 
 # sent_id = JOSH_12.3
 # text = Ó sì se àkóso ní orí ìlà-oòrùn aginjù láti Òkun Kínẹ́rétì sí ìhà Òkun ti aginjù (Òkun Iyọ̀), sí Bẹti-Jésímótù, àti láti gúsù lọ dé ìsàlẹ̀ ẹsẹ̀ òkè Písígà.
-1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_12.3
-2	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.3
-3	se	se	X	_	_	0	_	_	Ref=JOSH_12.3
-4	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_12.3
-5	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.3
-6	orí	orí	X	_	_	0	_	_	Ref=JOSH_12.3
+# text_en = And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Beth-jeshimoth; and from the south, under Ashdoth-pisgah:
+1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=and
+3	se	se	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=do
+4	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=rule
+5	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=in
+6	orí	orí	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=head
 7	ìlà	ìlà	X	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No
 8	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|SpaceAfter=No
-9	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.3
-10	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.3
-11	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.3
-12	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_12.3
-13	Kínẹ́rétì	Kínẹ́rétì	PROPN	_	_	0	_	_	Ref=JOSH_12.3
-14	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.3
-15	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.3
-16	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_12.3
-17	ti	ti	X	_	_	0	_	_	Ref=JOSH_12.3
-18	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.3
-19	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|SpaceAfter=No
-20	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_12.3
-21	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No
-22	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|SpaceAfter=No
-23	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3
-24	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.3
+9	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=sun
+10	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=plain
+11	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=to
+12	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=sea
+13	Kínẹ́rétì	Kínẹ́rétì	PROPN	_	_	0	_	_	Ref=JOSH_12.3|Gloss=null
+14	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=to
+15	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=side
+16	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=sea
+17	ti	ti	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=have
+18	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=plain
+19	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|SpaceAfter=No|Gloss=hundred
+20	Òkun	òkun	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=sea
+21	Iyọ̀	iyọ̀	X	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No|Gloss=salt
+22	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|SpaceAfter=No|Gloss=hundred
+23	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|Gloss=,
+24	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=to
 25	Bẹti	Bẹti	PROPN	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No
 26	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|SpaceAfter=No
-27	Jésímótù	Jésímótù	PROPN	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No
-28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3
-29	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.3
-30	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.3
-31	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_12.3
-32	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_12.3
-33	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.3
-34	ìsàlẹ̀	ìsàlẹ̀	X	_	_	0	_	_	Ref=JOSH_12.3
-35	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=JOSH_12.3
-36	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.3
-37	Písígà	Písígà	PROPN	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No
-38	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3
+27	Jésímótù	Jésímótù	PROPN	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No|Gloss=null
+28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|Gloss=,
+29	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=and
+30	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=to
+31	gúsù	gúsù	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=south
+32	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=go
+33	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=come
+34	ìsàlẹ̀	ìsàlẹ̀	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=bottom
+35	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=feet
+36	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.3|Gloss=mount
+37	Písígà	Písígà	PROPN	_	_	0	_	_	Ref=JOSH_12.3|SpaceAfter=No|Gloss=pisgah
+38	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.3|Gloss=.
 
 # sent_id = JOSH_12.4
 # text = Àti agbégbé Ógù ọba Básánì, ọ̀kan nínú àwọn tí ó kù nínú àwọn ará Ráfíátì, ẹni tí ó jọba ní Ásítarótù àti Édírì.
-1	Àti	àti	X	_	_	0	_	_	Ref=JOSH_12.4
-2	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_12.4
-3	Ógù	ógù	X	_	_	0	_	_	Ref=JOSH_12.4
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.4
-5	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_12.4|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.4
-7	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.4
-8	nínú	nínú	X	_	_	0	_	_	Ref=JOSH_12.4
-9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.4
-10	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.4
-11	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.4
-12	kù	kù	X	_	_	0	_	_	Ref=JOSH_12.4
-13	nínú	nínú	X	_	_	0	_	_	Ref=JOSH_12.4
-14	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.4
-15	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.4
-16	Ráfíátì	Ráfíátì	PROPN	_	_	0	_	_	Ref=JOSH_12.4|SpaceAfter=No
-17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.4
-18	ẹni	ẹni	X	_	_	0	_	_	Ref=JOSH_12.4
-19	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.4
-20	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.4
-21	jọba	jọba	X	_	_	0	_	_	Ref=JOSH_12.4
-22	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.4
-23	Ásítarótù	Ásítarótù	PROPN	_	_	0	_	_	Ref=JOSH_12.4
-24	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.4
-25	Édírì	Édírì	PROPN	_	_	0	_	_	Ref=JOSH_12.4|SpaceAfter=No
-26	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.4
+# text_en = And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
+1	Àti	àti	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=and
+2	agbégbé	agbégbé	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=side
+3	Ógù	ógù	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=og
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=king
+5	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_12.4|SpaceAfter=No|Gloss=bashan
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.4|Gloss=,
+7	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=one
+8	nínú	nínú	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=in
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=the
+10	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=that
+11	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=he
+12	kù	kù	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=left
+13	nínú	nínú	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=in
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=the
+15	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=brethren
+16	Ráfíátì	Ráfíátì	PROPN	_	_	0	_	_	Ref=JOSH_12.4|SpaceAfter=No|Gloss=null
+17	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.4|Gloss=,
+18	ẹni	ẹni	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=that
+19	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=that
+20	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=he
+21	jọba	jọba	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=reigned
+22	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=in
+23	Ásítarótù	Ásítarótù	PROPN	_	_	0	_	_	Ref=JOSH_12.4|Gloss=ashtaroth
+24	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.4|Gloss=and
+25	Édírì	Édírì	PROPN	_	_	0	_	_	Ref=JOSH_12.4|SpaceAfter=No|Gloss=null
+26	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.4|Gloss=.
 
 # sent_id = JOSH_12.5
 # text = Ó se àkóso ní orí Okè Hámónì, Sálékà, Básánì títí dé ààlà àwọn ènìyàn Gésúrì àti Máákà, àti ìdajì Gílíádì dé ààlà Síhónì ọba Hésíbónì.
-1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_12.5
-2	se	se	X	_	_	0	_	_	Ref=JOSH_12.5
-3	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_12.5
-4	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.5
-5	orí	orí	X	_	_	0	_	_	Ref=JOSH_12.5
-6	Okè	okè	X	_	_	0	_	_	Ref=JOSH_12.5
-7	Hámónì	Hámónì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5
-9	Sálékà	Sálékà	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5
-11	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_12.5
-12	títí	títí	X	_	_	0	_	_	Ref=JOSH_12.5
-13	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.5
-14	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_12.5
+# text_en = And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon.
+1	Ó	ó	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=he
+2	se	se	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=do
+3	àkóso	àkóso	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=rule
+4	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=in
+5	orí	orí	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=head
+6	Okè	okè	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=mount
+7	Hámónì	Hámónì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No|Gloss=hermon
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5|Gloss=,
+9	Sálékà	Sálékà	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No|Gloss=null
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5|Gloss=,
+11	Básánì	Básánì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|Gloss=bashan
+12	títí	títí	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=until
+13	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=come
+14	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=border
 15	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.5
-16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_12.5
-17	Gésúrì	Gésúrì	PROPN	_	_	0	_	_	Ref=JOSH_12.5
-18	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.5
-19	Máákà	Máákà	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No
-20	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5
-21	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.5
-22	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_12.5
-23	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=JOSH_12.5
-24	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.5
-25	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_12.5
-26	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_12.5
-27	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.5
-28	Hésíbónì	Hésíbónì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No
-29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5
+16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=people
+17	Gésúrì	Gésúrì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|Gloss=geshur
+18	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=and
+19	Máákà	Máákà	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No|Gloss=maachah
+20	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5|Gloss=,
+21	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=and
+22	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=half
+23	Gílíádì	Gílíádì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|Gloss=gilead
+24	dé	dé	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=come
+25	ààlà	ààlà	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=border
+26	Síhónì	Síhónì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|Gloss=sihon
+27	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.5|Gloss=king
+28	Hésíbónì	Hésíbónì	PROPN	_	_	0	_	_	Ref=JOSH_12.5|SpaceAfter=No|Gloss=heshbon
+29	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.5|Gloss=.
 
 # sent_id = JOSH_12.6
 # text = Mósè ìránṣẹ́ Olúwa àti àwọn ọmọ Ísírẹ́lì sì borí wọn. Mósè ìránṣẹ́ Olúwa sì fi ilẹ̀ wọn fún àwọn ẹ̀yà Rúbẹ́nì, àwọn ẹ̀yà Gádì àti ìdajì ẹ̀yà Mánásè kí ó jẹ́ ohun ìní wọn.
-1	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_12.6
-2	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=JOSH_12.6
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_12.6
-4	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.6
-5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.6
-6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_12.6
-7	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.6
-8	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.6
-9	borí	borí	X	_	_	0	_	_	Ref=JOSH_12.6
-10	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.6|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.6
-12	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_12.6
-13	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=JOSH_12.6
-14	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_12.6
-15	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.6
-16	fi	fi	X	_	_	0	_	_	Ref=JOSH_12.6
-17	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.6
-18	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.6
-19	fún	fún	X	_	_	0	_	_	Ref=JOSH_12.6
-20	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.6
-21	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.6
-22	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_12.6|SpaceAfter=No
-23	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.6
-24	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.6
-25	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.6
-26	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_12.6
-27	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.6
-28	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_12.6
-29	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.6
-30	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=JOSH_12.6
-31	kí	kí	X	_	_	0	_	_	Ref=JOSH_12.6
-32	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.6
-33	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_12.6
-34	ohun	ohun	X	_	_	0	_	_	Ref=JOSH_12.6
-35	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_12.6
-36	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.6|SpaceAfter=No
-37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.6
+# text_en = Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.
+1	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=moses
+2	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=servant
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=lord
+4	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=and
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=the
+6	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=son
+7	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.6|Gloss=israel
+8	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=and
+9	borí	borí	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=prevailed
+10	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.6|SpaceAfter=No|Gloss=them
+11	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.6|Gloss=.
+12	Mósè	mósè	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=moses
+13	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=servant
+14	Olúwa	olúwa	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=lord
+15	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=and
+16	fi	fi	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=with
+17	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=land
+18	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=them
+19	fún	fún	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=unto
+20	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=the
+21	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=tribe
+22	Rúbẹ́nì	Rúbẹ́nì	PROPN	_	_	0	_	_	Ref=JOSH_12.6|SpaceAfter=No|Gloss=reuben
+23	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.6|Gloss=,
+24	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=the
+25	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=tribe
+26	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_12.6|Gloss=gad
+27	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=and
+28	ìdajì	ìdajì	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=half
+29	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=tribe
+30	Mánásè	Mánásè	PROPN	_	_	0	_	_	Ref=JOSH_12.6|Gloss=manasseh
+31	kí	kí	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=let
+32	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=he
+33	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=be
+34	ohun	ohun	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=things
+35	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_12.6|Gloss=inheritance
+36	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.6|SpaceAfter=No|Gloss=them
+37	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.6|Gloss=.
 
 # sent_id = JOSH_12.7
 # text = Ìwọ̀nyí ní àwọn ọba ilẹ̀ náà tí Jóṣúà àti àwọn ọmọ Ísírẹ́lì sẹ́gun ní ìhà ìwọ̀-oòrùn Jọ́dánì, láti Báálì Gádì ní Àfonífojì Lẹ́bánónì sí Okè Hálákì, èyí tí O lọ sí ọ̀nà Sérì (Jóṣúà sì fi ilẹ̀ wọn fún àwọn ẹ̀yà Ísírẹ́lì ní ilẹ̀ ìní gẹ́gẹ́ bí ìpín ẹ̀yà wọn:
-1	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_12.7
-2	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.7
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.7
-5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.7
-6	náà	náà	X	_	_	0	_	_	Ref=JOSH_12.7
-7	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.7
-8	Jóṣúà	Jóṣúà	PROPN	_	_	0	_	_	Ref=JOSH_12.7
-9	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.7
-10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.7
-11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_12.7
-12	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.7
-13	sẹ́gun	sẹ́gun	X	_	_	0	_	_	Ref=JOSH_12.7
-14	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7
-15	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.7
-16	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No
-17	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7|SpaceAfter=No
-18	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.7
-19	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No
-20	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7
-21	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.7
-22	Báálì	báálì	X	_	_	0	_	_	Ref=JOSH_12.7
-23	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_12.7
-24	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7
-25	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_12.7
-26	Lẹ́bánónì	Lẹ́bánónì	PROPN	_	_	0	_	_	Ref=JOSH_12.7
-27	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.7
-28	Okè	okè	X	_	_	0	_	_	Ref=JOSH_12.7
-29	Hálákì	Hálákì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No
-30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7
-31	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_12.7
-32	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.7
-33	O	o	X	_	_	0	_	_	Ref=JOSH_12.7
-34	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_12.7
-35	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.7
-36	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOSH_12.7
-37	Sérì	Sérì	PROPN	_	_	0	_	_	Ref=JOSH_12.7
-38	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7|SpaceAfter=No
-39	Jóṣúà	Jóṣúà	PROPN	_	_	0	_	_	Ref=JOSH_12.7
-40	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.7
-41	fi	fi	X	_	_	0	_	_	Ref=JOSH_12.7
-42	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.7
-43	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.7
-44	fún	fún	X	_	_	0	_	_	Ref=JOSH_12.7
-45	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.7
-46	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.7
-47	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.7
-48	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7
-49	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.7
-50	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_12.7
-51	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_12.7
-52	bí	bí	X	_	_	0	_	_	Ref=JOSH_12.7
-53	ìpín	ìpín	X	_	_	0	_	_	Ref=JOSH_12.7
-54	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.7
-55	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No
-56	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7
+# text_en = And these are the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baal-gad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;
+1	Ìwọ̀nyí	ìwọ̀nyí	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=these
+2	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=in
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=the
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=king
+5	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=land
+6	náà	náà	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=the
+7	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=that
+8	Jóṣúà	Jóṣúà	PROPN	_	_	0	_	_	Ref=JOSH_12.7|Gloss=joshua
+9	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=and
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=the
+11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=son
+12	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|Gloss=israel
+13	sẹ́gun	sẹ́gun	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=smote
+14	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=in
+15	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=side
+16	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No|Gloss=west
+17	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7|SpaceAfter=No|Gloss=the
+18	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=sun
+19	Jọ́dánì	Jọ́dánì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No|Gloss=jordan
+20	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7|Gloss=,
+21	láti	láti	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=to
+22	Báálì	báálì	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=baal
+23	Gádì	Gádì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|Gloss=gad
+24	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=in
+25	Àfonífojì	àfonífojì	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=valley
+26	Lẹ́bánónì	Lẹ́bánónì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|Gloss=lebanon
+27	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=to
+28	Okè	okè	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=mount
+29	Hálákì	Hálákì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No|Gloss=null
+30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7|Gloss=,
+31	èyí	èyí	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=this
+32	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=that
+33	O	o	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=thou
+34	lọ	lọ	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=go
+35	sí	sí	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=to
+36	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=way
+37	Sérì	Sérì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|Gloss=null
+38	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7|SpaceAfter=No|Gloss=hundred
+39	Jóṣúà	Jóṣúà	PROPN	_	_	0	_	_	Ref=JOSH_12.7|Gloss=joshua
+40	sì	sì	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=and
+41	fi	fi	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=with
+42	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=land
+43	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=them
+44	fún	fún	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=unto
+45	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=the
+46	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=tribe
+47	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=JOSH_12.7|Gloss=israel
+48	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=in
+49	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=land
+50	ìní	ìní	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=inheritance
+51	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=according
+52	bí	bí	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=as
+53	ìpín	ìpín	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=portion
+54	ẹ̀yà	ẹ̀yà	X	_	_	0	_	_	Ref=JOSH_12.7|Gloss=tribe
+55	wọn	wọn	X	_	_	0	_	_	Ref=JOSH_12.7|SpaceAfter=No|Gloss=them
+56	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.7|Gloss=:
 
 # sent_id = JOSH_12.8
 # text = ilẹ̀ òkè, ní ẹsẹ̀ òkè ní ìhà ìwọ̀-oòrùn òkè aginjù, ní gẹ̀rẹ́gẹ̀rẹ́ òkè, ní asálẹ̀ àti Négéfi ilẹ̀ àwọn ará: Hítì, Ámórì, Kénánì, Pérísì, Hífì àti àwọn ará Jébúsì):
-1	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8
-2	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-4	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8
-5	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8
-6	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8
-7	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8
-8	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.8
-9	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-10	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|SpaceAfter=No
-11	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.8
-12	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8
-13	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-15	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8
-16	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_12.8
-17	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-18	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-19	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8
-20	asálẹ̀	asálẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8
-21	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.8
-22	Négéfi	Négéfi	PROPN	_	_	0	_	_	Ref=JOSH_12.8
-23	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8
-24	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.8
-25	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-26	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-27	Hítì	Hítì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-29	Ámórì	Ámórì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-31	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-32	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-33	Pérísì	Pérísì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-34	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
-35	Hífì	Hífì	PROPN	_	_	0	_	_	Ref=JOSH_12.8
-36	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.8
-37	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.8
-38	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.8
-39	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No
-40	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|SpaceAfter=No
-41	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8
+# text_en = In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:
+1	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=land
+2	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=mount
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=,
+4	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=in
+5	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=feet
+6	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=mount
+7	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=in
+8	ìhà	ìhà	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=side
+9	ìwọ̀	ìwọ̀	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=west
+10	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=the
+11	oòrùn	oòrùn	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=sun
+12	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=mount
+13	aginjù	aginjù	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=plain
+14	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=,
+15	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=in
+16	gẹ̀rẹ́gẹ̀rẹ́	gẹ̀rẹ́gẹ̀rẹ́	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=side
+17	òkè	òkè	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=mount
+18	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=,
+19	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=in
+20	asálẹ̀	asálẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=wilderness
+21	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=and
+22	Négéfi	Négéfi	PROPN	_	_	0	_	_	Ref=JOSH_12.8|Gloss=the
+23	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=land
+24	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=the
+25	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=brethren
+26	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=:
+27	Hítì	Hítì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=hittite
+28	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=,
+29	Ámórì	Ámórì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=amorites
+30	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=,
+31	Kénánì	Kénánì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=canaan
+32	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=,
+33	Pérísì	Pérísì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=perizzites
+34	,	,	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=,
+35	Hífì	Hífì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|Gloss=hivites
+36	àti	àti	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=and
+37	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=the
+38	ará	ará	X	_	_	0	_	_	Ref=JOSH_12.8|Gloss=brethren
+39	Jébúsì	Jébúsì	PROPN	_	_	0	_	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=jebusites
+40	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|SpaceAfter=No|Gloss=hundred
+41	:	:	PUNCT	_	_	0	punct	_	Ref=JOSH_12.8|Gloss=:
 
 # sent_id = JOSH_12.9
 # text = ọba Jẹ́ríkò ọ̀kan ọba Áì (tí ó wà nítòòsí Bétélì) ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.9
-2	Jẹ́ríkò	Jẹ́ríkò	PROPN	_	_	0	_	_	Ref=JOSH_12.9
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.9
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.9
-5	Áì	Áì	PROPN	_	_	0	_	_	Ref=JOSH_12.9
-6	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.9|SpaceAfter=No
-7	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.9
-8	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.9
-9	wà	wà	X	_	_	0	_	_	Ref=JOSH_12.9
-10	nítòòsí	nítòòsí	X	_	_	0	_	_	Ref=JOSH_12.9
-11	Bétélì	Bétélì	PROPN	_	_	0	_	_	Ref=JOSH_12.9|SpaceAfter=No
-12	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.9
-13	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.9
+# text_en = The king of Jericho, one; the king of Ai, which is beside Bethel, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=king
+2	Jẹ́ríkò	Jẹ́ríkò	PROPN	_	_	0	_	_	Ref=JOSH_12.9|Gloss=jericho
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=king
+5	Áì	Áì	PROPN	_	_	0	_	_	Ref=JOSH_12.9|Gloss=ai
+6	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.9|SpaceAfter=No|Gloss=hundred
+7	tí	tí	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=that
+8	ó	ó	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=he
+9	wà	wà	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=was
+10	nítòòsí	nítòòsí	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=slain
+11	Bétélì	Bétélì	PROPN	_	_	0	_	_	Ref=JOSH_12.9|SpaceAfter=No|Gloss=bethel
+12	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.9|Gloss=hundred
+13	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.9|Gloss=one
 
 # sent_id = JOSH_12.10
 # text = ọba Jérúsálẹ́mù ọ̀kan ọba Hébúrónì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.10
-2	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=JOSH_12.10
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.10
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.10
-5	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_12.10
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.10
+# text_en = The king of Jerusalem, one; the king of Hebron, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.10|Gloss=king
+2	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=JOSH_12.10|Gloss=jerusalem
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.10|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.10|Gloss=king
+5	Hébúrónì	Hébúrónì	PROPN	_	_	0	_	_	Ref=JOSH_12.10|Gloss=hebron
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.10|Gloss=one
 
 # sent_id = JOSH_12.11
 # text = ọba Jámútù ọ̀kan ọba Lákíṣì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.11
-2	Jámútù	Jámútù	PROPN	_	_	0	_	_	Ref=JOSH_12.11
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.11
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.11
-5	Lákíṣì	Lákíṣì	PROPN	_	_	0	_	_	Ref=JOSH_12.11
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.11
+# text_en = The king of Jarmuth, one; the king of Lachish, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.11|Gloss=king
+2	Jámútù	Jámútù	PROPN	_	_	0	_	_	Ref=JOSH_12.11|Gloss=jarmuth
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.11|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.11|Gloss=king
+5	Lákíṣì	Lákíṣì	PROPN	_	_	0	_	_	Ref=JOSH_12.11|Gloss=lachish
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.11|Gloss=one
 
 # sent_id = JOSH_12.12
 # text = ọba Égílónì ọ̀kan ọba Gésérì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.12
-2	Égílónì	Égílónì	PROPN	_	_	0	_	_	Ref=JOSH_12.12
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.12
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.12
-5	Gésérì	Gésérì	PROPN	_	_	0	_	_	Ref=JOSH_12.12
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.12
+# text_en = The king of Eglon, one; the king of Gezer, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.12|Gloss=king
+2	Égílónì	Égílónì	PROPN	_	_	0	_	_	Ref=JOSH_12.12|Gloss=eglon
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.12|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.12|Gloss=king
+5	Gésérì	Gésérì	PROPN	_	_	0	_	_	Ref=JOSH_12.12|Gloss=gezer
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.12|Gloss=one
 
 # sent_id = JOSH_12.13
 # text = ọba Débírì ọ̀kan ọba Gédérì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.13
-2	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_12.13
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.13
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.13
-5	Gédérì	Gédérì	PROPN	_	_	0	_	_	Ref=JOSH_12.13
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.13
+# text_en = The king of Debir, one; the king of Geder, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.13|Gloss=king
+2	Débírì	Débírì	PROPN	_	_	0	_	_	Ref=JOSH_12.13|Gloss=debir
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.13|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.13|Gloss=king
+5	Gédérì	Gédérì	PROPN	_	_	0	_	_	Ref=JOSH_12.13|Gloss=geder
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.13|Gloss=one
 
 # sent_id = JOSH_12.14
 # text = ọba Hómà ọ̀kan ọba Árádì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.14
-2	Hómà	Hómà	PROPN	_	_	0	_	_	Ref=JOSH_12.14
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.14
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.14
-5	Árádì	Árádì	PROPN	_	_	0	_	_	Ref=JOSH_12.14
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.14
+# text_en = The king of Hormah, one; the king of Arad, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.14|Gloss=king
+2	Hómà	Hómà	PROPN	_	_	0	_	_	Ref=JOSH_12.14|Gloss=hormah
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.14|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.14|Gloss=king
+5	Árádì	Árádì	PROPN	_	_	0	_	_	Ref=JOSH_12.14|Gloss=arad
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.14|Gloss=one
 
 # sent_id = JOSH_12.15
 # text = ọba Líbínà ọ̀kan ọba Ádúlámù ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.15
-2	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=JOSH_12.15
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.15
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.15
-5	Ádúlámù	Ádúlámù	PROPN	_	_	0	_	_	Ref=JOSH_12.15
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.15
+# text_en = The king of Libnah, one; the king of Adullam, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.15|Gloss=king
+2	Líbínà	Líbínà	PROPN	_	_	0	_	_	Ref=JOSH_12.15|Gloss=libnah
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.15|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.15|Gloss=king
+5	Ádúlámù	Ádúlámù	PROPN	_	_	0	_	_	Ref=JOSH_12.15|Gloss=adullam
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.15|Gloss=one
 
 # sent_id = JOSH_12.16
 # text = ọba Mákedà ọ̀kan ọba Bétélì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.16
-2	Mákedà	Mákedà	PROPN	_	_	0	_	_	Ref=JOSH_12.16
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.16
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.16
-5	Bétélì	Bétélì	PROPN	_	_	0	_	_	Ref=JOSH_12.16
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.16
+# text_en = The king of Makkedah, one; the king of Bethel, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.16|Gloss=king
+2	Mákedà	Mákedà	PROPN	_	_	0	_	_	Ref=JOSH_12.16|Gloss=makkedah
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.16|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.16|Gloss=king
+5	Bétélì	Bétélì	PROPN	_	_	0	_	_	Ref=JOSH_12.16|Gloss=bethel
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.16|Gloss=one
 
 # sent_id = JOSH_12.17
 # text = ọba Tápuà ọ̀kan ọba Héférì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.17
-2	Tápuà	Tápuà	PROPN	_	_	0	_	_	Ref=JOSH_12.17
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.17
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.17
-5	Héférì	Héférì	PROPN	_	_	0	_	_	Ref=JOSH_12.17
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.17
+# text_en = The king of Tappuah, one; the king of Hepher, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.17|Gloss=king
+2	Tápuà	Tápuà	PROPN	_	_	0	_	_	Ref=JOSH_12.17|Gloss=tappuah
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.17|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.17|Gloss=king
+5	Héférì	Héférì	PROPN	_	_	0	_	_	Ref=JOSH_12.17|Gloss=hepher
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.17|Gloss=one
 
 # sent_id = JOSH_12.18
 # text = ọba Áfẹ́kì ọ̀kan ọba Lásárónì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.18
-2	Áfẹ́kì	Áfẹ́kì	PROPN	_	_	0	_	_	Ref=JOSH_12.18
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.18
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.18
-5	Lásárónì	Lásárónì	PROPN	_	_	0	_	_	Ref=JOSH_12.18
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.18
+# text_en = The king of Aphek, one; the king of Lasharon, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.18|Gloss=king
+2	Áfẹ́kì	Áfẹ́kì	PROPN	_	_	0	_	_	Ref=JOSH_12.18|Gloss=aphek
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.18|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.18|Gloss=king
+5	Lásárónì	Lásárónì	PROPN	_	_	0	_	_	Ref=JOSH_12.18|Gloss=lasharon
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.18|Gloss=one
 
 # sent_id = JOSH_12.19
 # text = ọba Mádónì ọ̀kan ọba Hásórù ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.19
-2	Mádónì	Mádónì	PROPN	_	_	0	_	_	Ref=JOSH_12.19
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.19
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.19
-5	Hásórù	Hásórù	PROPN	_	_	0	_	_	Ref=JOSH_12.19
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.19
+# text_en = The king of Madon, one; the king of Hazor, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.19|Gloss=king
+2	Mádónì	Mádónì	PROPN	_	_	0	_	_	Ref=JOSH_12.19|Gloss=madon
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.19|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.19|Gloss=king
+5	Hásórù	Hásórù	PROPN	_	_	0	_	_	Ref=JOSH_12.19|Gloss=hazor
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.19|Gloss=one
 
 # sent_id = JOSH_12.20
 # text = ọba Símírónì-Mérónì ọ̀kan ọba Ákísáfù ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.20
+# text_en = The king of Shimron-meron, one; the king of Achshaph, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.20|Gloss=king
 2	Símírónì	Símírónì	PROPN	_	_	0	_	_	Ref=JOSH_12.20|SpaceAfter=No
 3	-	-	PUNCT	_	_	0	punct	_	Ref=JOSH_12.20|SpaceAfter=No
-4	Mérónì	Mérónì	PROPN	_	_	0	_	_	Ref=JOSH_12.20
-5	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.20
-6	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.20
-7	Ákísáfù	Ákísáfù	PROPN	_	_	0	_	_	Ref=JOSH_12.20
-8	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.20
+4	Mérónì	Mérónì	PROPN	_	_	0	_	_	Ref=JOSH_12.20|Gloss=meron
+5	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.20|Gloss=one
+6	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.20|Gloss=king
+7	Ákísáfù	Ákísáfù	PROPN	_	_	0	_	_	Ref=JOSH_12.20|Gloss=achshaph
+8	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.20|Gloss=one
 
 # sent_id = JOSH_12.21
 # text = ọba Tánáákì ọ̀kan ọba Mégídò ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.21
-2	Tánáákì	Tánáákì	PROPN	_	_	0	_	_	Ref=JOSH_12.21
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.21
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.21
-5	Mégídò	Mégídò	PROPN	_	_	0	_	_	Ref=JOSH_12.21
-6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.21
+# text_en = The king of Taanach, one; the king of Megiddo, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.21|Gloss=king
+2	Tánáákì	Tánáákì	PROPN	_	_	0	_	_	Ref=JOSH_12.21|Gloss=taanach
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.21|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.21|Gloss=king
+5	Mégídò	Mégídò	PROPN	_	_	0	_	_	Ref=JOSH_12.21|Gloss=megiddo
+6	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.21|Gloss=one
 
 # sent_id = JOSH_12.22
 # text = ọba Kádésì ọ̀kan ọba Jókínámù ni Kamẹli ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.22
-2	Kádésì	Kádésì	PROPN	_	_	0	_	_	Ref=JOSH_12.22
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.22
-4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.22
-5	Jókínámù	Jókínámù	PROPN	_	_	0	_	_	Ref=JOSH_12.22
-6	ni	ni	X	_	_	0	_	_	Ref=JOSH_12.22
-7	Kamẹli	Kamẹli	PROPN	_	_	0	_	_	Ref=JOSH_12.22
-8	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.22
+# text_en = The king of Kedesh, one; the king of Jokneam of Carmel, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.22|Gloss=king
+2	Kádésì	Kádésì	PROPN	_	_	0	_	_	Ref=JOSH_12.22|Gloss=kadesh
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.22|Gloss=one
+4	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.22|Gloss=king
+5	Jókínámù	Jókínámù	PROPN	_	_	0	_	_	Ref=JOSH_12.22|Gloss=jokneam
+6	ni	ni	X	_	_	0	_	_	Ref=JOSH_12.22|Gloss=is
+7	Kamẹli	Kamẹli	PROPN	_	_	0	_	_	Ref=JOSH_12.22|Gloss=carmel
+8	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.22|Gloss=one
 
 # sent_id = JOSH_12.23
 # text = ọba Dórì (ní Nafoti Dórì) ọ̀kan ọba Góyímì ní Gílígálì ọ̀kan
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.23
-2	Dórì	Dórì	PROPN	_	_	0	_	_	Ref=JOSH_12.23
-3	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.23|SpaceAfter=No
-4	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.23
-5	Nafoti	Nafoti	PROPN	_	_	0	_	_	Ref=JOSH_12.23
-6	Dórì	Dórì	PROPN	_	_	0	_	_	Ref=JOSH_12.23|SpaceAfter=No
-7	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.23
-8	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.23
-9	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.23
-10	Góyímì	Góyímì	PROPN	_	_	0	_	_	Ref=JOSH_12.23
-11	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.23
-12	Gílígálì	Gílígálì	PROPN	_	_	0	_	_	Ref=JOSH_12.23
-13	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.23
+# text_en = The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.23|Gloss=king
+2	Dórì	Dórì	PROPN	_	_	0	_	_	Ref=JOSH_12.23|Gloss=dor
+3	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.23|SpaceAfter=No|Gloss=hundred
+4	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.23|Gloss=in
+5	Nafoti	Nafoti	PROPN	_	_	0	_	_	Ref=JOSH_12.23|Gloss=null
+6	Dórì	Dórì	PROPN	_	_	0	_	_	Ref=JOSH_12.23|SpaceAfter=No|Gloss=dor
+7	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.23|Gloss=hundred
+8	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.23|Gloss=one
+9	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.23|Gloss=king
+10	Góyímì	Góyímì	PROPN	_	_	0	_	_	Ref=JOSH_12.23|Gloss=nations
+11	ní	ní	X	_	_	0	_	_	Ref=JOSH_12.23|Gloss=in
+12	Gílígálì	Gílígálì	PROPN	_	_	0	_	_	Ref=JOSH_12.23|Gloss=gilgal
+13	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.23|Gloss=one
 
 # sent_id = JOSH_12.24
 # text = ọba Tásà ọ̀kan gbogbo àwọn ọba náà jẹ́ mọ́kànlélọ́gbọ̀n (31).
-1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.24
-2	Tásà	Tásà	PROPN	_	_	0	_	_	Ref=JOSH_12.24
-3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.24
-4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_12.24
-5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.24
-6	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.24
-7	náà	náà	X	_	_	0	_	_	Ref=JOSH_12.24
-8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_12.24
-9	mọ́kànlélọ́gbọ̀n	mọ́kànlélọ́gbọ̀n	X	_	_	0	_	_	Ref=JOSH_12.24
-10	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.24|SpaceAfter=No
-11	31	31	X	_	_	0	_	_	Ref=JOSH_12.24|SpaceAfter=No
-12	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.24|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.24
+# text_en = The king of Tirzah, one: all the kings thirty and one.
+1	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=king
+2	Tásà	Tásà	PROPN	_	_	0	_	_	Ref=JOSH_12.24|Gloss=tirzah
+3	ọ̀kan	ọ̀kan	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=one
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=all
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=the
+6	ọba	ọba	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=king
+7	náà	náà	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=the
+8	jẹ́	jẹ́	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=be
+9	mọ́kànlélọ́gbọ̀n	mọ́kànlélọ́gbọ̀n	X	_	_	0	_	_	Ref=JOSH_12.24|Gloss=thirty
+10	(	(	PUNCT	_	_	0	punct	_	Ref=JOSH_12.24|SpaceAfter=No|Gloss=hundred
+11	31	31	X	_	_	0	_	_	Ref=JOSH_12.24|SpaceAfter=No|Gloss=thirty
+12	)	)	PUNCT	_	_	0	punct	_	Ref=JOSH_12.24|SpaceAfter=No|Gloss=hundred
+13	.	.	PUNCT	_	_	0	punct	_	Ref=JOSH_12.24|Gloss=.
 

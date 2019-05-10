@@ -2,44 +2,46 @@
 # newdoc id = PS_117
 # sent_id = PS_117.1
 # text = Ẹ yin Olúwa , gbogbo ẹ̀yin orílẹ̀ èdè; ẹ pòkìkí Rẹ̀, gbogbo ẹ̀yin ènìyàn.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_117.1
-2	yin	yin	X	_	_	0	_	_	Ref=PS_117.1
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_117.1
-4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_117.1
-5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_117.1
-6	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_117.1
-7	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_117.1
-8	èdè	èdè	X	_	_	0	_	_	Ref=PS_117.1|SpaceAfter=No
-9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_117.1
-10	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_117.1
-11	pòkìkí	pòkìkí	X	_	_	0	_	_	Ref=PS_117.1
-12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_117.1|SpaceAfter=No
-13	,	,	PUNCT	_	_	0	punct	_	Ref=PS_117.1
-14	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_117.1
-15	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_117.1
-16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_117.1|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_117.1
+# text_en = O praise the LORD, all ye nations: praise him, all ye people.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_117.1|Gloss=ye
+2	yin	yin	X	_	_	0	_	_	Ref=PS_117.1|Gloss=you
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_117.1|Gloss=lord
+4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_117.1|Gloss=,
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_117.1|Gloss=all
+6	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_117.1|Gloss=ye
+7	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_117.1|Gloss=nations
+8	èdè	èdè	X	_	_	0	_	_	Ref=PS_117.1|SpaceAfter=No|Gloss=nations
+9	;	;	PUNCT	_	_	0	punct	_	Ref=PS_117.1|Gloss=;
+10	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_117.1|Gloss=ye
+11	pòkìkí	pòkìkí	X	_	_	0	_	_	Ref=PS_117.1|Gloss=praise
+12	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_117.1|SpaceAfter=No|Gloss=his
+13	,	,	PUNCT	_	_	0	punct	_	Ref=PS_117.1|Gloss=,
+14	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_117.1|Gloss=all
+15	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_117.1|Gloss=ye
+16	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_117.1|SpaceAfter=No|Gloss=people
+17	.	.	PUNCT	_	_	0	punct	_	Ref=PS_117.1|Gloss=.
 
 # sent_id = PS_117.2
 # text = Nítorí ìfẹ́ ńlá Rẹ̀ tí ó ní sí wa, àti òtítọ́ Olúwa dúró láéláé. Ẹ yin Olúwa !
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_117.2
-2	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=PS_117.2
-3	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_117.2
-4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_117.2
-5	tí	tí	X	_	_	0	_	_	Ref=PS_117.2
-6	ó	ó	X	_	_	0	_	_	Ref=PS_117.2
-7	ní	ní	X	_	_	0	_	_	Ref=PS_117.2
-8	sí	sí	X	_	_	0	_	_	Ref=PS_117.2
-9	wa	wa	X	_	_	0	_	_	Ref=PS_117.2|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_117.2
-11	àti	àti	X	_	_	0	_	_	Ref=PS_117.2
-12	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=PS_117.2
-13	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_117.2
-14	dúró	dúró	X	_	_	0	_	_	Ref=PS_117.2
-15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_117.2|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_117.2
-17	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_117.2
-18	yin	yin	X	_	_	0	_	_	Ref=PS_117.2
-19	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_117.2
-20	!	!	PUNCT	_	_	0	punct	_	Ref=PS_117.2
+# text_en = For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_117.2|Gloss=for
+2	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=PS_117.2|Gloss=love
+3	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_117.2|Gloss=great
+4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_117.2|Gloss=his
+5	tí	tí	X	_	_	0	_	_	Ref=PS_117.2|Gloss=that
+6	ó	ó	X	_	_	0	_	_	Ref=PS_117.2|Gloss=he
+7	ní	ní	X	_	_	0	_	_	Ref=PS_117.2|Gloss=in
+8	sí	sí	X	_	_	0	_	_	Ref=PS_117.2|Gloss=to
+9	wa	wa	X	_	_	0	_	_	Ref=PS_117.2|SpaceAfter=No|Gloss=our
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_117.2|Gloss=,
+11	àti	àti	X	_	_	0	_	_	Ref=PS_117.2|Gloss=and
+12	òtítọ́	òtítọ́	X	_	_	0	_	_	Ref=PS_117.2|Gloss=truth
+13	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_117.2|Gloss=lord
+14	dúró	dúró	X	_	_	0	_	_	Ref=PS_117.2|Gloss=stood
+15	láéláé	láéláé	X	_	_	0	_	_	Ref=PS_117.2|SpaceAfter=No|Gloss=ever
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_117.2|Gloss=.
+17	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_117.2|Gloss=ye
+18	yin	yin	X	_	_	0	_	_	Ref=PS_117.2|Gloss=you
+19	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_117.2|Gloss=lord
+20	!	!	PUNCT	_	_	0	punct	_	Ref=PS_117.2|Gloss=.
 

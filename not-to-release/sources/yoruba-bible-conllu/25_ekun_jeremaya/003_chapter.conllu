@@ -2,1201 +2,1267 @@
 # newdoc id = LAM_3
 # sent_id = LAM_3.1
 # text = Èmi ni ọkùnrin tí ó rí ìpọ́njú pẹ̀lú ọ̀pá ìbínú.
-1	Èmi	èmi	X	_	_	0	_	_	Ref=LAM_3.1
-2	ni	ni	X	_	_	0	_	_	Ref=LAM_3.1
-3	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=LAM_3.1
-4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.1
-5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.1
-6	rí	rí	X	_	_	0	_	_	Ref=LAM_3.1
-7	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=LAM_3.1
-8	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.1
-9	ọ̀pá	ọ̀pá	X	_	_	0	_	_	Ref=LAM_3.1
-10	ìbínú	ìbínú	X	_	_	0	_	_	Ref=LAM_3.1|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.1
+# text_en = I am the man that hath seen affliction by the rod of his wrath.
+1	Èmi	èmi	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=i
+2	ni	ni	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=is
+3	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=man
+4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=that
+5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=he
+6	rí	rí	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=saw
+7	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=affliction
+8	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=with
+9	ọ̀pá	ọ̀pá	X	_	_	0	_	_	Ref=LAM_3.1|Gloss=rod
+10	ìbínú	ìbínú	X	_	_	0	_	_	Ref=LAM_3.1|SpaceAfter=No|Gloss=wrath
+11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.1|Gloss=.
 
 # sent_id = LAM_3.2
 # text = Ó ti lémi jáde ó sì mú mi rìn nínú òkùnkùn ju ti ìmọ́lẹ̀;
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.2
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.2
-3	lémi	lémi	X	_	_	0	_	_	Ref=LAM_3.2
-4	jáde	jáde	X	_	_	0	_	_	Ref=LAM_3.2
-5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.2
-6	sì	sì	X	_	_	0	_	_	Ref=LAM_3.2
-7	mú	mú	X	_	_	0	_	_	Ref=LAM_3.2
-8	mi	mi	X	_	_	0	_	_	Ref=LAM_3.2
-9	rìn	rìn	X	_	_	0	_	_	Ref=LAM_3.2
-10	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.2
-11	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=LAM_3.2
-12	ju	ju	X	_	_	0	_	_	Ref=LAM_3.2
-13	ti	ti	X	_	_	0	_	_	Ref=LAM_3.2
-14	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.2|SpaceAfter=No
-15	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.2
+# text_en = He hath led me, and brought me into darkness, but not into light.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=he
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=have
+3	lémi	lémi	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=led
+4	jáde	jáde	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=out
+5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=he
+6	sì	sì	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=and
+7	mú	mú	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=brought
+8	mi	mi	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=my
+9	rìn	rìn	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=walk
+10	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=in
+11	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=darkness
+12	ju	ju	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=than
+13	ti	ti	X	_	_	0	_	_	Ref=LAM_3.2|Gloss=have
+14	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.2|SpaceAfter=No|Gloss=light
+15	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.2|Gloss=;
 
 # sent_id = LAM_3.3
 # text = Nítòótọ́, ó ti yí ọwọ́ padà sí mi síwájú àti síwájú sí i ní gbogbo ọjọ́.
-1	Nítòótọ́	nítòótọ́	X	_	_	0	_	_	Ref=LAM_3.3|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.3
-3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.3
-4	ti	ti	X	_	_	0	_	_	Ref=LAM_3.3
-5	yí	yí	X	_	_	0	_	_	Ref=LAM_3.3
-6	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LAM_3.3
-7	padà	padà	X	_	_	0	_	_	Ref=LAM_3.3
-8	sí	sí	X	_	_	0	_	_	Ref=LAM_3.3
-9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.3
-10	síwájú	síwájú	X	_	_	0	_	_	Ref=LAM_3.3
-11	àti	àti	X	_	_	0	_	_	Ref=LAM_3.3
-12	síwájú	síwájú	X	_	_	0	_	_	Ref=LAM_3.3
-13	sí	sí	X	_	_	0	_	_	Ref=LAM_3.3
-14	i	i	X	_	_	0	_	_	Ref=LAM_3.3
-15	ní	ní	X	_	_	0	_	_	Ref=LAM_3.3
-16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.3
-17	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LAM_3.3|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.3
+# text_en = Surely against me is he turned; he turneth his hand against me all the day.
+1	Nítòótọ́	nítòótọ́	X	_	_	0	_	_	Ref=LAM_3.3|SpaceAfter=No|Gloss=surely
+2	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.3|Gloss=,
+3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=he
+4	ti	ti	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=have
+5	yí	yí	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=round
+6	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=hand
+7	padà	padà	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=return
+8	sí	sí	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=to
+9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=my
+10	síwájú	síwájú	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=before
+11	àti	àti	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=and
+12	síwájú	síwájú	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=before
+13	sí	sí	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=to
+14	i	i	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=him
+15	ní	ní	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=in
+16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.3|Gloss=all
+17	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LAM_3.3|SpaceAfter=No|Gloss=day
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.3|Gloss=.
 
 # sent_id = LAM_3.4
 # text = Ó jẹ́ kí àwọ̀ mi àti ẹran ara mi gbó ó sì tún ṣẹ́ egungun mi.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.4
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.4
-3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.4
-4	àwọ̀	àwọ̀	X	_	_	0	_	_	Ref=LAM_3.4
-5	mi	mi	X	_	_	0	_	_	Ref=LAM_3.4
-6	àti	àti	X	_	_	0	_	_	Ref=LAM_3.4
-7	ẹran	ẹran	X	_	_	0	_	_	Ref=LAM_3.4
-8	ara	ara	X	_	_	0	_	_	Ref=LAM_3.4
-9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.4
-10	gbó	gbó	X	_	_	0	_	_	Ref=LAM_3.4
-11	ó	ó	X	_	_	0	_	_	Ref=LAM_3.4
-12	sì	sì	X	_	_	0	_	_	Ref=LAM_3.4
-13	tún	tún	X	_	_	0	_	_	Ref=LAM_3.4
-14	ṣẹ́	ṣẹ́	X	_	_	0	_	_	Ref=LAM_3.4
-15	egungun	egungun	X	_	_	0	_	_	Ref=LAM_3.4
-16	mi	mi	X	_	_	0	_	_	Ref=LAM_3.4|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.4
+# text_en = My flesh and my skin hath he made old; he hath broken my bones.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=he
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=be
+3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=let
+4	àwọ̀	àwọ̀	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=skin
+5	mi	mi	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=my
+6	àti	àti	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=and
+7	ẹran	ẹran	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=flesh
+8	ara	ara	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=himself
+9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=my
+10	gbó	gbó	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=old
+11	ó	ó	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=he
+12	sì	sì	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=and
+13	tún	tún	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=again
+14	ṣẹ́	ṣẹ́	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=break
+15	egungun	egungun	X	_	_	0	_	_	Ref=LAM_3.4|Gloss=bones
+16	mi	mi	X	_	_	0	_	_	Ref=LAM_3.4|SpaceAfter=No|Gloss=my
+17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.4|Gloss=.
 
 # sent_id = LAM_3.5
 # text = Ó ti fi mí sí ìgbèkùn ó sì ti yí mi ká pẹ̀lú ìkorò àti làálàá.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.5
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.5
-3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.5
-4	mí	mí	X	_	_	0	_	_	Ref=LAM_3.5
-5	sí	sí	X	_	_	0	_	_	Ref=LAM_3.5
-6	ìgbèkùn	ìgbèkùn	X	_	_	0	_	_	Ref=LAM_3.5
-7	ó	ó	X	_	_	0	_	_	Ref=LAM_3.5
-8	sì	sì	X	_	_	0	_	_	Ref=LAM_3.5
-9	ti	ti	X	_	_	0	_	_	Ref=LAM_3.5
-10	yí	yí	X	_	_	0	_	_	Ref=LAM_3.5
-11	mi	mi	X	_	_	0	_	_	Ref=LAM_3.5
-12	ká	ká	X	_	_	0	_	_	Ref=LAM_3.5
-13	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.5
-14	ìkorò	ìkorò	X	_	_	0	_	_	Ref=LAM_3.5
-15	àti	àti	X	_	_	0	_	_	Ref=LAM_3.5
-16	làálàá	làálàá	X	_	_	0	_	_	Ref=LAM_3.5|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.5
+# text_en = He hath builded against me, and compassed me with gall and travail.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=he
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=have
+3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=with
+4	mí	mí	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=me
+5	sí	sí	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=to
+6	ìgbèkùn	ìgbèkùn	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=captivity
+7	ó	ó	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=he
+8	sì	sì	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=and
+9	ti	ti	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=have
+10	yí	yí	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=round
+11	mi	mi	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=my
+12	ká	ká	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=about
+13	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=with
+14	ìkorò	ìkorò	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=bitter
+15	àti	àti	X	_	_	0	_	_	Ref=LAM_3.5|Gloss=and
+16	làálàá	làálàá	X	_	_	0	_	_	Ref=LAM_3.5|SpaceAfter=No|Gloss=labour
+17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.5|Gloss=.
 
 # sent_id = LAM_3.6
 # text = Ó mú mi gbé nínú òkùnkùn bí ti àwọn tó ti kú fún ìgbà pípẹ́.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.6
-2	mú	mú	X	_	_	0	_	_	Ref=LAM_3.6
-3	mi	mi	X	_	_	0	_	_	Ref=LAM_3.6
-4	gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.6
-5	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.6
-6	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=LAM_3.6
-7	bí	bí	X	_	_	0	_	_	Ref=LAM_3.6
-8	ti	ti	X	_	_	0	_	_	Ref=LAM_3.6
-9	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.6
-10	tó	tó	X	_	_	0	_	_	Ref=LAM_3.6
-11	ti	ti	X	_	_	0	_	_	Ref=LAM_3.6
-12	kú	kú	X	_	_	0	_	_	Ref=LAM_3.6
-13	fún	fún	X	_	_	0	_	_	Ref=LAM_3.6
-14	ìgbà	ìgbà	X	_	_	0	_	_	Ref=LAM_3.6
-15	pípẹ́	pípẹ́	X	_	_	0	_	_	Ref=LAM_3.6|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.6
+# text_en = He hath set me in dark places, as they that be dead of old.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=he
+2	mú	mú	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=brought
+3	mi	mi	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=my
+4	gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=dwell
+5	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=in
+6	òkùnkùn	òkùnkùn	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=darkness
+7	bí	bí	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=as
+8	ti	ti	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=have
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=the
+10	tó	tó	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=that
+11	ti	ti	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=have
+12	kú	kú	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=die
+13	fún	fún	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=unto
+14	ìgbà	ìgbà	X	_	_	0	_	_	Ref=LAM_3.6|Gloss=time
+15	pípẹ́	pípẹ́	X	_	_	0	_	_	Ref=LAM_3.6|SpaceAfter=No|Gloss=long
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.6|Gloss=.
 
 # sent_id = LAM_3.7
 # text = Ó ti tì mí mọ́lé nítorí náà n kò le è sálọ; ó ti fi ẹ̀wọ̀n mú mi mọ́lẹ̀
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.7
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.7
-3	tì	tì	X	_	_	0	_	_	Ref=LAM_3.7
-4	mí	mí	X	_	_	0	_	_	Ref=LAM_3.7
-5	mọ́lé	mọ́lé	X	_	_	0	_	_	Ref=LAM_3.7
-6	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.7
-7	náà	náà	X	_	_	0	_	_	Ref=LAM_3.7
-8	n	n	X	_	_	0	_	_	Ref=LAM_3.7
-9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.7
-10	le	le	X	_	_	0	_	_	Ref=LAM_3.7
-11	è	è	X	_	_	0	_	_	Ref=LAM_3.7
-12	sálọ	sálọ	X	_	_	0	_	_	Ref=LAM_3.7|SpaceAfter=No
-13	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.7
-14	ó	ó	X	_	_	0	_	_	Ref=LAM_3.7
-15	ti	ti	X	_	_	0	_	_	Ref=LAM_3.7
-16	fi	fi	X	_	_	0	_	_	Ref=LAM_3.7
-17	ẹ̀wọ̀n	ẹ̀wọ̀n	X	_	_	0	_	_	Ref=LAM_3.7
-18	mú	mú	X	_	_	0	_	_	Ref=LAM_3.7
-19	mi	mi	X	_	_	0	_	_	Ref=LAM_3.7
-20	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.7
+# text_en = He hath hedged me about, that I cannot get out: he hath made my chain heavy.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=he
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=have
+3	tì	tì	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=ashamed
+4	mí	mí	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=me
+5	mọ́lé	mọ́lé	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=hedged
+6	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=for
+7	náà	náà	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=the
+8	n	n	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=i
+9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=not
+10	le	le	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=may
+11	è	è	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=why
+12	sálọ	sálọ	X	_	_	0	_	_	Ref=LAM_3.7|SpaceAfter=No|Gloss=fled
+13	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.7|Gloss=;
+14	ó	ó	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=he
+15	ti	ti	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=have
+16	fi	fi	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=with
+17	ẹ̀wọ̀n	ẹ̀wọ̀n	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=chains
+18	mú	mú	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=brought
+19	mi	mi	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=my
+20	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.7|Gloss=trodden
 
 # sent_id = LAM_3.8
 # text = Pàápàá nígbà tí mo ké fún ìrànlọ́wọ́, ó kọ àdúrà mi.
+# text_en = Also when I cry and shout, he shutteth out my prayer.
 1	Pàápàá	pàápàá	X	_	_	0	_	_	Ref=LAM_3.8
-2	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.8
-3	tí	tí	X	_	_	0	_	_	Ref=LAM_3.8
-4	mo	mo	X	_	_	0	_	_	Ref=LAM_3.8
-5	ké	ké	X	_	_	0	_	_	Ref=LAM_3.8
-6	fún	fún	X	_	_	0	_	_	Ref=LAM_3.8
+2	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=when
+3	tí	tí	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=that
+4	mo	mo	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=i
+5	ké	ké	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=cut
+6	fún	fún	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=unto
 7	ìrànlọ́wọ́	ìrànlọ́wọ́	X	_	_	0	_	_	Ref=LAM_3.8|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.8
-9	ó	ó	X	_	_	0	_	_	Ref=LAM_3.8
-10	kọ	kọ	X	_	_	0	_	_	Ref=LAM_3.8
-11	àdúrà	àdúrà	X	_	_	0	_	_	Ref=LAM_3.8
-12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.8|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.8
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.8|Gloss=,
+9	ó	ó	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=he
+10	kọ	kọ	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=written
+11	àdúrà	àdúrà	X	_	_	0	_	_	Ref=LAM_3.8|Gloss=prayer
+12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.8|SpaceAfter=No|Gloss=my
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.8|Gloss=.
 
 # sent_id = LAM_3.9
 # text = Ó fi búlọ́kù òkúta dí ọ̀nà mi; ó sì mú ọ̀nà mi wọ́
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.9
-2	fi	fi	X	_	_	0	_	_	Ref=LAM_3.9
-3	búlọ́kù	búlọ́kù	X	_	_	0	_	_	Ref=LAM_3.9
-4	òkúta	òkúta	X	_	_	0	_	_	Ref=LAM_3.9
-5	dí	dí	X	_	_	0	_	_	Ref=LAM_3.9
-6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.9
-7	mi	mi	X	_	_	0	_	_	Ref=LAM_3.9|SpaceAfter=No
-8	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.9
-9	ó	ó	X	_	_	0	_	_	Ref=LAM_3.9
-10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.9
-11	mú	mú	X	_	_	0	_	_	Ref=LAM_3.9
-12	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.9
-13	mi	mi	X	_	_	0	_	_	Ref=LAM_3.9
-14	wọ́	wọ́	X	_	_	0	_	_	Ref=LAM_3.9
+# text_en = He hath inclosed my ways with hewn stone, he hath made my paths crooked.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=he
+2	fi	fi	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=with
+3	búlọ́kù	búlọ́kù	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=inclosed
+4	òkúta	òkúta	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=stone
+5	dí	dí	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=the
+6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=way
+7	mi	mi	X	_	_	0	_	_	Ref=LAM_3.9|SpaceAfter=No|Gloss=my
+8	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.9|Gloss=;
+9	ó	ó	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=he
+10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=and
+11	mú	mú	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=brought
+12	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=way
+13	mi	mi	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=my
+14	wọ́	wọ́	X	_	_	0	_	_	Ref=LAM_3.9|Gloss=confess
 
 # sent_id = LAM_3.10
 # text = Bí i béárì tí ó dùbúlẹ̀, bí i kìnnìún tí ó sá pamọ́.
-1	Bí	bí	X	_	_	0	_	_	Ref=LAM_3.10
-2	i	i	X	_	_	0	_	_	Ref=LAM_3.10
-3	béárì	béárì	X	_	_	0	_	_	Ref=LAM_3.10
-4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.10
-5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.10
-6	dùbúlẹ̀	dùbúlẹ̀	X	_	_	0	_	_	Ref=LAM_3.10|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.10
-8	bí	bí	X	_	_	0	_	_	Ref=LAM_3.10
-9	i	i	X	_	_	0	_	_	Ref=LAM_3.10
-10	kìnnìún	kìnnìún	X	_	_	0	_	_	Ref=LAM_3.10
-11	tí	tí	X	_	_	0	_	_	Ref=LAM_3.10
-12	ó	ó	X	_	_	0	_	_	Ref=LAM_3.10
-13	sá	sá	X	_	_	0	_	_	Ref=LAM_3.10
-14	pamọ́	pamọ́	X	_	_	0	_	_	Ref=LAM_3.10|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.10
+# text_en = He was unto me as a bear lying in wait, and as a lion in secret places.
+1	Bí	bí	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=as
+2	i	i	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=him
+3	béárì	béárì	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=bear
+4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=that
+5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=he
+6	dùbúlẹ̀	dùbúlẹ̀	X	_	_	0	_	_	Ref=LAM_3.10|SpaceAfter=No|Gloss=lie
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.10|Gloss=,
+8	bí	bí	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=as
+9	i	i	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=him
+10	kìnnìún	kìnnìún	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=lion
+11	tí	tí	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=that
+12	ó	ó	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=he
+13	sá	sá	X	_	_	0	_	_	Ref=LAM_3.10|Gloss=fled
+14	pamọ́	pamọ́	X	_	_	0	_	_	Ref=LAM_3.10|SpaceAfter=No|Gloss=hid
+15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.10|Gloss=.
 
 # sent_id = LAM_3.11
 # text = Ó wọ́ mi kúrò ní ọ̀nà, ó tẹ̀ mí mọ́lẹ̀ ó fi mi sílẹ̀ láì sí ìrànlọ́wọ́.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.11
-2	wọ́	wọ́	X	_	_	0	_	_	Ref=LAM_3.11
-3	mi	mi	X	_	_	0	_	_	Ref=LAM_3.11
-4	kúrò	kúrò	X	_	_	0	_	_	Ref=LAM_3.11
-5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.11
-6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.11|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.11
-8	ó	ó	X	_	_	0	_	_	Ref=LAM_3.11
-9	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=LAM_3.11
-10	mí	mí	X	_	_	0	_	_	Ref=LAM_3.11
-11	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.11
-12	ó	ó	X	_	_	0	_	_	Ref=LAM_3.11
-13	fi	fi	X	_	_	0	_	_	Ref=LAM_3.11
-14	mi	mi	X	_	_	0	_	_	Ref=LAM_3.11
-15	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=LAM_3.11
-16	láì	láì	X	_	_	0	_	_	Ref=LAM_3.11
-17	sí	sí	X	_	_	0	_	_	Ref=LAM_3.11
+# text_en = He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=he
+2	wọ́	wọ́	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=confess
+3	mi	mi	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=my
+4	kúrò	kúrò	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=from
+5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=in
+6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.11|SpaceAfter=No|Gloss=way
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.11|Gloss=,
+8	ó	ó	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=he
+9	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=tread
+10	mí	mí	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=me
+11	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=trodden
+12	ó	ó	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=he
+13	fi	fi	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=with
+14	mi	mi	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=my
+15	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=left
+16	láì	láì	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=not
+17	sí	sí	X	_	_	0	_	_	Ref=LAM_3.11|Gloss=to
 18	ìrànlọ́wọ́	ìrànlọ́wọ́	X	_	_	0	_	_	Ref=LAM_3.11|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.11
+19	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.11|Gloss=.
 
 # sent_id = LAM_3.12
 # text = Ó fa ọfà rẹ̀ yọ ó sì fi mí sohun ìtafàsí.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.12
-2	fa	fa	X	_	_	0	_	_	Ref=LAM_3.12
-3	ọfà	ọfà	X	_	_	0	_	_	Ref=LAM_3.12
-4	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.12
-5	yọ	yọ	X	_	_	0	_	_	Ref=LAM_3.12
-6	ó	ó	X	_	_	0	_	_	Ref=LAM_3.12
-7	sì	sì	X	_	_	0	_	_	Ref=LAM_3.12
-8	fi	fi	X	_	_	0	_	_	Ref=LAM_3.12
-9	mí	mí	X	_	_	0	_	_	Ref=LAM_3.12
-10	sohun	sohun	X	_	_	0	_	_	Ref=LAM_3.12
-11	ìtafàsí	ìtafàsí	X	_	_	0	_	_	Ref=LAM_3.12|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.12
+# text_en = He hath bent his bow, and set me as a mark for the arrow.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=he
+2	fa	fa	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=rent
+3	ọfà	ọfà	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=arrows
+4	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=his
+5	yọ	yọ	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=out
+6	ó	ó	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=he
+7	sì	sì	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=and
+8	fi	fi	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=with
+9	mí	mí	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=me
+10	sohun	sohun	X	_	_	0	_	_	Ref=LAM_3.12|Gloss=null
+11	ìtafàsí	ìtafàsí	X	_	_	0	_	_	Ref=LAM_3.12|SpaceAfter=No|Gloss=arrow
+12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.12|Gloss=.
 
 # sent_id = LAM_3.13
 # text = Ó fa ọkàn mí ya pẹ̀lú ọfà nínú àkọ̀ rẹ̀.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.13
-2	fa	fa	X	_	_	0	_	_	Ref=LAM_3.13
-3	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.13
-4	mí	mí	X	_	_	0	_	_	Ref=LAM_3.13
-5	ya	ya	X	_	_	0	_	_	Ref=LAM_3.13
-6	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.13
-7	ọfà	ọfà	X	_	_	0	_	_	Ref=LAM_3.13
-8	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.13
-9	àkọ̀	àkọ̀	X	_	_	0	_	_	Ref=LAM_3.13
+# text_en = He hath caused the arrows of his quiver to enter into my reins.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=he
+2	fa	fa	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=rent
+3	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=heart
+4	mí	mí	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=me
+5	ya	ya	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=sanctify
+6	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=with
+7	ọfà	ọfà	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=arrows
+8	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=in
+9	àkọ̀	àkọ̀	X	_	_	0	_	_	Ref=LAM_3.13|Gloss=sheath
 10	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.13|SpaceAfter=No
 11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.13
 
 # sent_id = LAM_3.14
 # text = Mo di ẹni yẹ̀yẹ́ láàrin àwọn ènìyàn mi; wọn yẹ̀yẹ́ mi pẹ̀lú orin ní gbogbo ọjọ́.
-1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.14
-2	di	di	X	_	_	0	_	_	Ref=LAM_3.14
-3	ẹni	ẹni	X	_	_	0	_	_	Ref=LAM_3.14
-4	yẹ̀yẹ́	yẹ̀yẹ́	X	_	_	0	_	_	Ref=LAM_3.14
-5	láàrin	láàrin	X	_	_	0	_	_	Ref=LAM_3.14
-6	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.14
-7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.14
-8	mi	mi	X	_	_	0	_	_	Ref=LAM_3.14|SpaceAfter=No
-9	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.14
-10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.14
-11	yẹ̀yẹ́	yẹ̀yẹ́	X	_	_	0	_	_	Ref=LAM_3.14
-12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.14
-13	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.14
-14	orin	orin	X	_	_	0	_	_	Ref=LAM_3.14
-15	ní	ní	X	_	_	0	_	_	Ref=LAM_3.14
-16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.14
-17	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LAM_3.14|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.14
+# text_en = I was a derision to all my people; and their song all the day.
+1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=i
+2	di	di	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=be
+3	ẹni	ẹni	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=that
+4	yẹ̀yẹ́	yẹ̀yẹ́	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=derision
+5	láàrin	láàrin	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=among
+6	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=the
+7	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=people
+8	mi	mi	X	_	_	0	_	_	Ref=LAM_3.14|SpaceAfter=No|Gloss=my
+9	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.14|Gloss=;
+10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=them
+11	yẹ̀yẹ́	yẹ̀yẹ́	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=derision
+12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=my
+13	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=with
+14	orin	orin	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=song
+15	ní	ní	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=in
+16	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.14|Gloss=all
+17	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LAM_3.14|SpaceAfter=No|Gloss=day
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.14|Gloss=.
 
 # sent_id = LAM_3.15
 # text = Ó ti kún mi pẹ̀lú ewé kíkorò àti ìdààmú bí omi.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.15
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.15
-3	kún	kún	X	_	_	0	_	_	Ref=LAM_3.15
-4	mi	mi	X	_	_	0	_	_	Ref=LAM_3.15
-5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.15
-6	ewé	ewé	X	_	_	0	_	_	Ref=LAM_3.15
-7	kíkorò	kíkorò	X	_	_	0	_	_	Ref=LAM_3.15
-8	àti	àti	X	_	_	0	_	_	Ref=LAM_3.15
-9	ìdààmú	ìdààmú	X	_	_	0	_	_	Ref=LAM_3.15
-10	bí	bí	X	_	_	0	_	_	Ref=LAM_3.15
-11	omi	omi	X	_	_	0	_	_	Ref=LAM_3.15|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.15
+# text_en = He hath filled me with bitterness, he hath made me drunken with wormwood.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=he
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=have
+3	kún	kún	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=full
+4	mi	mi	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=my
+5	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=with
+6	ewé	ewé	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=leaves
+7	kíkorò	kíkorò	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=bitter
+8	àti	àti	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=and
+9	ìdààmú	ìdààmú	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=calamity
+10	bí	bí	X	_	_	0	_	_	Ref=LAM_3.15|Gloss=as
+11	omi	omi	X	_	_	0	_	_	Ref=LAM_3.15|SpaceAfter=No|Gloss=water
+12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.15|Gloss=.
 
 # sent_id = LAM_3.16
 # text = Ó ti fi òkúta kán ẹyín mi; ó ti tẹ̀ mí mọ́lẹ̀ nínú eruku.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.16
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.16
-3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.16
-4	òkúta	òkúta	X	_	_	0	_	_	Ref=LAM_3.16
-5	kán	kán	X	_	_	0	_	_	Ref=LAM_3.16
-6	ẹyín	ẹyín	X	_	_	0	_	_	Ref=LAM_3.16
-7	mi	mi	X	_	_	0	_	_	Ref=LAM_3.16|SpaceAfter=No
-8	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.16
-9	ó	ó	X	_	_	0	_	_	Ref=LAM_3.16
-10	ti	ti	X	_	_	0	_	_	Ref=LAM_3.16
-11	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=LAM_3.16
-12	mí	mí	X	_	_	0	_	_	Ref=LAM_3.16
-13	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.16
-14	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.16
-15	eruku	eruku	X	_	_	0	_	_	Ref=LAM_3.16|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.16
+# text_en = He hath also broken my teeth with gravel stones, he hath covered me with ashes.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=he
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=have
+3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=with
+4	òkúta	òkúta	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=stone
+5	kán	kán	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=down
+6	ẹyín	ẹyín	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=teeth
+7	mi	mi	X	_	_	0	_	_	Ref=LAM_3.16|SpaceAfter=No|Gloss=my
+8	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.16|Gloss=;
+9	ó	ó	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=he
+10	ti	ti	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=have
+11	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=tread
+12	mí	mí	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=me
+13	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=trodden
+14	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.16|Gloss=in
+15	eruku	eruku	X	_	_	0	_	_	Ref=LAM_3.16|SpaceAfter=No|Gloss=dust
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.16|Gloss=.
 
 # sent_id = LAM_3.17
 # text = Mo ti jìnnà sí àlàáfíà; Mo ti gbàgbé ohun tí àṣeyege ń ṣe.
-1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.17
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.17
+# text_en = And thou hast removed my soul far off from peace: I forgat prosperity.
+1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=i
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=have
 3	jìnnà	jìnnà	X	_	_	0	_	_	Ref=LAM_3.17
-4	sí	sí	X	_	_	0	_	_	Ref=LAM_3.17
-5	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=LAM_3.17|SpaceAfter=No
-6	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.17
-7	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.17
-8	ti	ti	X	_	_	0	_	_	Ref=LAM_3.17
-9	gbàgbé	gbàgbé	X	_	_	0	_	_	Ref=LAM_3.17
-10	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.17
-11	tí	tí	X	_	_	0	_	_	Ref=LAM_3.17
-12	àṣeyege	àṣeyege	X	_	_	0	_	_	Ref=LAM_3.17
-13	ń	ń	X	_	_	0	_	_	Ref=LAM_3.17
-14	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.17|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.17
+4	sí	sí	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=to
+5	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=LAM_3.17|SpaceAfter=No|Gloss=peace
+6	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.17|Gloss=;
+7	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=i
+8	ti	ti	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=have
+9	gbàgbé	gbàgbé	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=forget
+10	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=things
+11	tí	tí	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=that
+12	àṣeyege	àṣeyege	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=forgat
+13	ń	ń	X	_	_	0	_	_	Ref=LAM_3.17|Gloss=that
+14	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.17|SpaceAfter=No|Gloss=do
+15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.17|Gloss=.
 
 # sent_id = LAM_3.18
 # text = Nítorí náà mo wí pé, “Ògo mi ti lọ àti ìrètí mi nínú Olúwa .”
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.18
-2	náà	náà	X	_	_	0	_	_	Ref=LAM_3.18
-3	mo	mo	X	_	_	0	_	_	Ref=LAM_3.18
-4	wí	wí	X	_	_	0	_	_	Ref=LAM_3.18
-5	pé	pé	X	_	_	0	_	_	Ref=LAM_3.18|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.18
-7	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.18|SpaceAfter=No
-8	Ògo	ògo	X	_	_	0	_	_	Ref=LAM_3.18
-9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.18
-10	ti	ti	X	_	_	0	_	_	Ref=LAM_3.18
-11	lọ	lọ	X	_	_	0	_	_	Ref=LAM_3.18
-12	àti	àti	X	_	_	0	_	_	Ref=LAM_3.18
-13	ìrètí	ìrètí	X	_	_	0	_	_	Ref=LAM_3.18
-14	mi	mi	X	_	_	0	_	_	Ref=LAM_3.18
-15	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.18
-16	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.18
-17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.18|SpaceAfter=No
-18	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.18
+# text_en = And I said, My strength and my hope is perished from the LORD:
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=for
+2	náà	náà	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=the
+3	mo	mo	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=i
+4	wí	wí	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=said
+5	pé	pé	X	_	_	0	_	_	Ref=LAM_3.18|SpaceAfter=No|Gloss=saying
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.18|Gloss=,
+7	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.18|SpaceAfter=No|Gloss=“
+8	Ògo	ògo	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=glory
+9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=my
+10	ti	ti	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=have
+11	lọ	lọ	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=go
+12	àti	àti	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=and
+13	ìrètí	ìrètí	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=hope
+14	mi	mi	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=my
+15	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=in
+16	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.18|Gloss=lord
+17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.18|SpaceAfter=No|Gloss=.
+18	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.18|Gloss=.
 
 # sent_id = LAM_3.19
 # text = Mo ṣe ìrántí ìpọ́njú àti ìdààmú mi, ìkorò àti ìbànújẹ́.
-1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.19
-2	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.19
-3	ìrántí	ìrántí	X	_	_	0	_	_	Ref=LAM_3.19
-4	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=LAM_3.19
-5	àti	àti	X	_	_	0	_	_	Ref=LAM_3.19
-6	ìdààmú	ìdààmú	X	_	_	0	_	_	Ref=LAM_3.19
-7	mi	mi	X	_	_	0	_	_	Ref=LAM_3.19|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.19
-9	ìkorò	ìkorò	X	_	_	0	_	_	Ref=LAM_3.19
-10	àti	àti	X	_	_	0	_	_	Ref=LAM_3.19
-11	ìbànújẹ́	ìbànújẹ́	X	_	_	0	_	_	Ref=LAM_3.19|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.19
+# text_en = Remembering mine affliction and my misery, the wormwood and the gall.
+1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=i
+2	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=do
+3	ìrántí	ìrántí	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=memorial
+4	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=affliction
+5	àti	àti	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=and
+6	ìdààmú	ìdààmú	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=calamity
+7	mi	mi	X	_	_	0	_	_	Ref=LAM_3.19|SpaceAfter=No|Gloss=my
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.19|Gloss=,
+9	ìkorò	ìkorò	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=bitter
+10	àti	àti	X	_	_	0	_	_	Ref=LAM_3.19|Gloss=and
+11	ìbànújẹ́	ìbànújẹ́	X	_	_	0	_	_	Ref=LAM_3.19|SpaceAfter=No|Gloss=sorrow
+12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.19|Gloss=.
 
 # sent_id = LAM_3.20
 # text = Mo ṣèrántí wọn, ọkàn mi sì gbọgbẹ́ nínú mi.
-1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.20
-2	ṣèrántí	ṣèrántí	X	_	_	0	_	_	Ref=LAM_3.20
-3	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.20|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.20
-5	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.20
-6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.20
-7	sì	sì	X	_	_	0	_	_	Ref=LAM_3.20
-8	gbọgbẹ́	gbọgbẹ́	X	_	_	0	_	_	Ref=LAM_3.20
-9	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.20
-10	mi	mi	X	_	_	0	_	_	Ref=LAM_3.20|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.20
+# text_en = My soul hath them still in remembrance, and is humbled in me.
+1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.20|Gloss=i
+2	ṣèrántí	ṣèrántí	X	_	_	0	_	_	Ref=LAM_3.20|Gloss=soul
+3	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.20|SpaceAfter=No|Gloss=them
+4	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.20|Gloss=,
+5	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.20|Gloss=heart
+6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.20|Gloss=my
+7	sì	sì	X	_	_	0	_	_	Ref=LAM_3.20|Gloss=and
+8	gbọgbẹ́	gbọgbẹ́	X	_	_	0	_	_	Ref=LAM_3.20|Gloss=wounded
+9	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.20|Gloss=in
+10	mi	mi	X	_	_	0	_	_	Ref=LAM_3.20|SpaceAfter=No|Gloss=my
+11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.20|Gloss=.
 
 # sent_id = LAM_3.21
 # text = Síbẹ̀, èyí ni mo ní ní ọkàn àti nítorí náà ní mo nírètí.
-1	Síbẹ̀	síbẹ̀	X	_	_	0	_	_	Ref=LAM_3.21|SpaceAfter=No
-2	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.21
-3	èyí	èyí	X	_	_	0	_	_	Ref=LAM_3.21
-4	ni	ni	X	_	_	0	_	_	Ref=LAM_3.21
-5	mo	mo	X	_	_	0	_	_	Ref=LAM_3.21
-6	ní	ní	X	_	_	0	_	_	Ref=LAM_3.21
-7	ní	ní	X	_	_	0	_	_	Ref=LAM_3.21
-8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.21
-9	àti	àti	X	_	_	0	_	_	Ref=LAM_3.21
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.21
-11	náà	náà	X	_	_	0	_	_	Ref=LAM_3.21
-12	ní	ní	X	_	_	0	_	_	Ref=LAM_3.21
-13	mo	mo	X	_	_	0	_	_	Ref=LAM_3.21
-14	nírètí	nírètí	X	_	_	0	_	_	Ref=LAM_3.21|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.21
+# text_en = This I recall to my mind, therefore have I hope.
+1	Síbẹ̀	síbẹ̀	X	_	_	0	_	_	Ref=LAM_3.21|SpaceAfter=No|Gloss=yet
+2	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.21|Gloss=,
+3	èyí	èyí	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=this
+4	ni	ni	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=is
+5	mo	mo	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=i
+6	ní	ní	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=in
+7	ní	ní	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=in
+8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=heart
+9	àti	àti	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=and
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=for
+11	náà	náà	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=the
+12	ní	ní	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=in
+13	mo	mo	X	_	_	0	_	_	Ref=LAM_3.21|Gloss=i
+14	nírètí	nírètí	X	_	_	0	_	_	Ref=LAM_3.21|SpaceAfter=No|Gloss=hope
+15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.21|Gloss=.
 
 # sent_id = LAM_3.22
 # text = Nítorí ìfẹ́ Olúwa tí ó lágbára ni àwa kò fi ṣègbé, nítorí àánú rẹ kì í kùnà.
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.22
-2	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=LAM_3.22
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.22
-4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.22
-5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.22
-6	lágbára	lágbára	X	_	_	0	_	_	Ref=LAM_3.22
-7	ni	ni	X	_	_	0	_	_	Ref=LAM_3.22
+# text_en = It is of the LORD's mercies that we are not consumed, because his compassions fail not.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=for
+2	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=love
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=lord
+4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=that
+5	ó	ó	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=he
+6	lágbára	lágbára	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=strong
+7	ni	ni	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=is
 8	àwa	àwa	X	_	_	0	_	_	Ref=LAM_3.22
-9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.22
-10	fi	fi	X	_	_	0	_	_	Ref=LAM_3.22
-11	ṣègbé	ṣègbé	X	_	_	0	_	_	Ref=LAM_3.22|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.22
-13	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.22
-14	àánú	àánú	X	_	_	0	_	_	Ref=LAM_3.22
-15	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.22
-16	kì	kì	X	_	_	0	_	_	Ref=LAM_3.22
-17	í	í	X	_	_	0	_	_	Ref=LAM_3.22
-18	kùnà	kùnà	X	_	_	0	_	_	Ref=LAM_3.22|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.22
+9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=not
+10	fi	fi	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=with
+11	ṣègbé	ṣègbé	X	_	_	0	_	_	Ref=LAM_3.22|SpaceAfter=No|Gloss=perish
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.22|Gloss=,
+13	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=for
+14	àánú	àánú	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=mercy
+15	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=thy
+16	kì	kì	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=not
+17	í	í	X	_	_	0	_	_	Ref=LAM_3.22|Gloss=was
+18	kùnà	kùnà	X	_	_	0	_	_	Ref=LAM_3.22|SpaceAfter=No|Gloss=fail
+19	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.22|Gloss=.
 
 # sent_id = LAM_3.23
 # text = Wọ́n jẹ́ ọ̀tún ní àárọ̀; títóbi ni òdodo rẹ̀.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.23
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.23
-3	ọ̀tún	ọ̀tún	X	_	_	0	_	_	Ref=LAM_3.23
-4	ní	ní	X	_	_	0	_	_	Ref=LAM_3.23
-5	àárọ̀	àárọ̀	X	_	_	0	_	_	Ref=LAM_3.23|SpaceAfter=No
-6	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.23
-7	títóbi	títóbi	X	_	_	0	_	_	Ref=LAM_3.23
-8	ni	ni	X	_	_	0	_	_	Ref=LAM_3.23
-9	òdodo	òdodo	X	_	_	0	_	_	Ref=LAM_3.23
+# text_en = They are new every morning: great is thy faithfulness.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.23|Gloss=they
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.23|Gloss=be
+3	ọ̀tún	ọ̀tún	X	_	_	0	_	_	Ref=LAM_3.23|Gloss=right
+4	ní	ní	X	_	_	0	_	_	Ref=LAM_3.23|Gloss=in
+5	àárọ̀	àárọ̀	X	_	_	0	_	_	Ref=LAM_3.23|SpaceAfter=No|Gloss=morning
+6	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.23|Gloss=;
+7	títóbi	títóbi	X	_	_	0	_	_	Ref=LAM_3.23|Gloss=great
+8	ni	ni	X	_	_	0	_	_	Ref=LAM_3.23|Gloss=is
+9	òdodo	òdodo	X	_	_	0	_	_	Ref=LAM_3.23|Gloss=righteousness
 10	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.23|SpaceAfter=No
 11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.23
 
 # sent_id = LAM_3.24
 # text = Mo wí fún ara mi, ìpín mi ni Olúwa ; nítorí náà èmi yóò dúró dè ọ́
-1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.24
-2	wí	wí	X	_	_	0	_	_	Ref=LAM_3.24
-3	fún	fún	X	_	_	0	_	_	Ref=LAM_3.24
-4	ara	ara	X	_	_	0	_	_	Ref=LAM_3.24
-5	mi	mi	X	_	_	0	_	_	Ref=LAM_3.24|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.24
-7	ìpín	ìpín	X	_	_	0	_	_	Ref=LAM_3.24
-8	mi	mi	X	_	_	0	_	_	Ref=LAM_3.24
-9	ni	ni	X	_	_	0	_	_	Ref=LAM_3.24
-10	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.24
-11	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.24
-12	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.24
-13	náà	náà	X	_	_	0	_	_	Ref=LAM_3.24
-14	èmi	èmi	X	_	_	0	_	_	Ref=LAM_3.24
-15	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.24
-16	dúró	dúró	X	_	_	0	_	_	Ref=LAM_3.24
-17	dè	dè	X	_	_	0	_	_	Ref=LAM_3.24
-18	ọ́	ọ́	X	_	_	0	_	_	Ref=LAM_3.24
+# text_en = The LORD is my portion, saith my soul; therefore will I hope in him.
+1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=i
+2	wí	wí	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=said
+3	fún	fún	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=unto
+4	ara	ara	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=himself
+5	mi	mi	X	_	_	0	_	_	Ref=LAM_3.24|SpaceAfter=No|Gloss=my
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.24|Gloss=,
+7	ìpín	ìpín	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=portion
+8	mi	mi	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=my
+9	ni	ni	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=is
+10	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=lord
+11	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.24|Gloss=;
+12	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=for
+13	náà	náà	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=the
+14	èmi	èmi	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=i
+15	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=shall
+16	dúró	dúró	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=stood
+17	dè	dè	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=bound
+18	ọ́	ọ́	X	_	_	0	_	_	Ref=LAM_3.24|Gloss=thee
 
 # sent_id = LAM_3.25
 # text = Dídára ni Olúwa fún àwọn tí ó ní ìrètí nínú rẹ̀, sí àwọn tí ó ń wá a.
-1	Dídára	dídára	X	_	_	0	_	_	Ref=LAM_3.25
-2	ni	ni	X	_	_	0	_	_	Ref=LAM_3.25
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.25
-4	fún	fún	X	_	_	0	_	_	Ref=LAM_3.25
-5	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.25
-6	tí	tí	X	_	_	0	_	_	Ref=LAM_3.25
-7	ó	ó	X	_	_	0	_	_	Ref=LAM_3.25
-8	ní	ní	X	_	_	0	_	_	Ref=LAM_3.25
-9	ìrètí	ìrètí	X	_	_	0	_	_	Ref=LAM_3.25
-10	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.25
-11	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.25|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.25
-13	sí	sí	X	_	_	0	_	_	Ref=LAM_3.25
-14	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.25
-15	tí	tí	X	_	_	0	_	_	Ref=LAM_3.25
-16	ó	ó	X	_	_	0	_	_	Ref=LAM_3.25
-17	ń	ń	X	_	_	0	_	_	Ref=LAM_3.25
-18	wá	wá	X	_	_	0	_	_	Ref=LAM_3.25
-19	a	a	X	_	_	0	_	_	Ref=LAM_3.25|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.25
+# text_en = The LORD is good unto them that wait for him, to the soul that seeketh him.
+1	Dídára	dídára	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=pleasant
+2	ni	ni	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=is
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=lord
+4	fún	fún	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=unto
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=the
+6	tí	tí	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=that
+7	ó	ó	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=he
+8	ní	ní	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=in
+9	ìrètí	ìrètí	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=hope
+10	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=in
+11	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.25|SpaceAfter=No|Gloss=his
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.25|Gloss=,
+13	sí	sí	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=to
+14	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=the
+15	tí	tí	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=that
+16	ó	ó	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=he
+17	ń	ń	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=that
+18	wá	wá	X	_	_	0	_	_	Ref=LAM_3.25|Gloss=come
+19	a	a	X	_	_	0	_	_	Ref=LAM_3.25|SpaceAfter=No|Gloss=be
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.25|Gloss=.
 
 # sent_id = LAM_3.26
 # text = Ó dára kí a ní ṣùúrù fún ìgbàlà Olúwa .
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.26
-2	dára	dára	X	_	_	0	_	_	Ref=LAM_3.26
-3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.26
-4	a	a	X	_	_	0	_	_	Ref=LAM_3.26
-5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.26
-6	ṣùúrù	ṣùúrù	X	_	_	0	_	_	Ref=LAM_3.26
-7	fún	fún	X	_	_	0	_	_	Ref=LAM_3.26
-8	ìgbàlà	ìgbàlà	X	_	_	0	_	_	Ref=LAM_3.26
-9	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.26
-10	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.26
+# text_en = It is good that a man should both hope and quietly wait for the salvation of the LORD.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=he
+2	dára	dára	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=good
+3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=let
+4	a	a	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=be
+5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=in
+6	ṣùúrù	ṣùúrù	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=spirit
+7	fún	fún	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=unto
+8	ìgbàlà	ìgbàlà	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=salvation
+9	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.26|Gloss=lord
+10	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.26|Gloss=.
 
 # sent_id = LAM_3.27
 # text = Ó dára fún ènìyàn láti gbé àjàgà nígbà tí ó wà ní èwe.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.27
-2	dára	dára	X	_	_	0	_	_	Ref=LAM_3.27
-3	fún	fún	X	_	_	0	_	_	Ref=LAM_3.27
-4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.27
-5	láti	láti	X	_	_	0	_	_	Ref=LAM_3.27
-6	gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.27
-7	àjàgà	àjàgà	X	_	_	0	_	_	Ref=LAM_3.27
-8	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.27
-9	tí	tí	X	_	_	0	_	_	Ref=LAM_3.27
-10	ó	ó	X	_	_	0	_	_	Ref=LAM_3.27
-11	wà	wà	X	_	_	0	_	_	Ref=LAM_3.27
-12	ní	ní	X	_	_	0	_	_	Ref=LAM_3.27
-13	èwe	èwe	X	_	_	0	_	_	Ref=LAM_3.27|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.27
+# text_en = It is good for a man that he bear the yoke in his youth.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=he
+2	dára	dára	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=good
+3	fún	fún	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=unto
+4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=people
+5	láti	láti	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=to
+6	gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=dwell
+7	àjàgà	àjàgà	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=yoke
+8	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=when
+9	tí	tí	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=that
+10	ó	ó	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=he
+11	wà	wà	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=was
+12	ní	ní	X	_	_	0	_	_	Ref=LAM_3.27|Gloss=in
+13	èwe	èwe	X	_	_	0	_	_	Ref=LAM_3.27|SpaceAfter=No|Gloss=youth
+14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.27|Gloss=.
 
 # sent_id = LAM_3.28
 # text = Jẹ́ kí ó jókòó ní ìdákẹ́jẹ́, nítorí Olúwa ti fi fún un.
-1	Jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.28
-2	kí	kí	X	_	_	0	_	_	Ref=LAM_3.28
-3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.28
-4	jókòó	jókòó	X	_	_	0	_	_	Ref=LAM_3.28
-5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.28
-6	ìdákẹ́jẹ́	ìdákẹ́jẹ́	X	_	_	0	_	_	Ref=LAM_3.28|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.28
-8	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.28
-9	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.28
-10	ti	ti	X	_	_	0	_	_	Ref=LAM_3.28
-11	fi	fi	X	_	_	0	_	_	Ref=LAM_3.28
-12	fún	fún	X	_	_	0	_	_	Ref=LAM_3.28
-13	un	un	X	_	_	0	_	_	Ref=LAM_3.28|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.28
+# text_en = He sitteth alone and keepeth silence, because he hath borne it upon him.
+1	Jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=be
+2	kí	kí	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=let
+3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=he
+4	jókòó	jókòó	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=sat
+5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=in
+6	ìdákẹ́jẹ́	ìdákẹ́jẹ́	X	_	_	0	_	_	Ref=LAM_3.28|SpaceAfter=No|Gloss=quietness
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.28|Gloss=,
+8	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=for
+9	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=lord
+10	ti	ti	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=have
+11	fi	fi	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=with
+12	fún	fún	X	_	_	0	_	_	Ref=LAM_3.28|Gloss=unto
+13	un	un	X	_	_	0	_	_	Ref=LAM_3.28|SpaceAfter=No|Gloss=him
+14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.28|Gloss=.
 
 # sent_id = LAM_3.29
 # text = Jẹ́ kí ó bò ojú rẹ̀ sínú eruku— ìrètí sì lè wà.
-1	Jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.29
-2	kí	kí	X	_	_	0	_	_	Ref=LAM_3.29
-3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.29
-4	bò	bò	X	_	_	0	_	_	Ref=LAM_3.29
-5	ojú	ojú	X	_	_	0	_	_	Ref=LAM_3.29
-6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.29
-7	sínú	sínú	X	_	_	0	_	_	Ref=LAM_3.29
+# text_en = He putteth his mouth in the dust; if so be there may be hope.
+1	Jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=be
+2	kí	kí	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=let
+3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=he
+4	bò	bò	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=covered
+5	ojú	ojú	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=eyes
+6	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=his
+7	sínú	sínú	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=into
 8	eruku	eruku	X	_	_	0	_	_	Ref=LAM_3.29|SpaceAfter=No
 9	—	—	PUNCT	_	_	0	punct	_	Ref=LAM_3.29
-10	ìrètí	ìrètí	X	_	_	0	_	_	Ref=LAM_3.29
-11	sì	sì	X	_	_	0	_	_	Ref=LAM_3.29
-12	lè	lè	X	_	_	0	_	_	Ref=LAM_3.29
+10	ìrètí	ìrètí	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=hope
+11	sì	sì	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=and
+12	lè	lè	X	_	_	0	_	_	Ref=LAM_3.29|Gloss=may
 13	wà	wà	X	_	_	0	_	_	Ref=LAM_3.29|SpaceAfter=No
 14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.29
 
 # sent_id = LAM_3.30
 # text = Jẹ́ kí ó fi ẹ̀rẹ̀kẹ́ fún àwọn tí yóò gbá a, sì jẹ́ kí ó wà ní ìdójútì.
-1	Jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.30
-2	kí	kí	X	_	_	0	_	_	Ref=LAM_3.30
-3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.30
-4	fi	fi	X	_	_	0	_	_	Ref=LAM_3.30
-5	ẹ̀rẹ̀kẹ́	ẹ̀rẹ̀kẹ́	X	_	_	0	_	_	Ref=LAM_3.30
-6	fún	fún	X	_	_	0	_	_	Ref=LAM_3.30
+# text_en = He giveth his cheek to him that smiteth him: he is filled full with reproach.
+1	Jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=be
+2	kí	kí	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=let
+3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=he
+4	fi	fi	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=with
+5	ẹ̀rẹ̀kẹ́	ẹ̀rẹ̀kẹ́	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=cheeks
+6	fún	fún	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=unto
 7	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.30
-8	tí	tí	X	_	_	0	_	_	Ref=LAM_3.30
-9	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.30
-10	gbá	gbá	X	_	_	0	_	_	Ref=LAM_3.30
-11	a	a	X	_	_	0	_	_	Ref=LAM_3.30|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.30
-13	sì	sì	X	_	_	0	_	_	Ref=LAM_3.30
-14	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.30
-15	kí	kí	X	_	_	0	_	_	Ref=LAM_3.30
-16	ó	ó	X	_	_	0	_	_	Ref=LAM_3.30
-17	wà	wà	X	_	_	0	_	_	Ref=LAM_3.30
-18	ní	ní	X	_	_	0	_	_	Ref=LAM_3.30
-19	ìdójútì	ìdójútì	X	_	_	0	_	_	Ref=LAM_3.30|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.30
+8	tí	tí	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=that
+9	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=shall
+10	gbá	gbá	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=hold
+11	a	a	X	_	_	0	_	_	Ref=LAM_3.30|SpaceAfter=No|Gloss=be
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.30|Gloss=,
+13	sì	sì	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=and
+14	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=be
+15	kí	kí	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=let
+16	ó	ó	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=he
+17	wà	wà	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=was
+18	ní	ní	X	_	_	0	_	_	Ref=LAM_3.30|Gloss=in
+19	ìdójútì	ìdójútì	X	_	_	0	_	_	Ref=LAM_3.30|SpaceAfter=No|Gloss=reproach
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.30|Gloss=.
 
 # sent_id = LAM_3.31
 # text = Ènìyàn kò di ìtanù lọ́dọ̀ Olúwa títí láé.
-1	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.31
-2	kò	kò	X	_	_	0	_	_	Ref=LAM_3.31
-3	di	di	X	_	_	0	_	_	Ref=LAM_3.31
-4	ìtanù	ìtanù	X	_	_	0	_	_	Ref=LAM_3.31
-5	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=LAM_3.31
-6	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.31
-7	títí	títí	X	_	_	0	_	_	Ref=LAM_3.31
-8	láé	láé	X	_	_	0	_	_	Ref=LAM_3.31|SpaceAfter=No
-9	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.31
+# text_en = For the Lord will not cast off for ever:
+1	Ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.31|Gloss=people
+2	kò	kò	X	_	_	0	_	_	Ref=LAM_3.31|Gloss=not
+3	di	di	X	_	_	0	_	_	Ref=LAM_3.31|Gloss=be
+4	ìtanù	ìtanù	X	_	_	0	_	_	Ref=LAM_3.31|Gloss=will
+5	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=LAM_3.31|Gloss=with
+6	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.31|Gloss=lord
+7	títí	títí	X	_	_	0	_	_	Ref=LAM_3.31|Gloss=until
+8	láé	láé	X	_	_	0	_	_	Ref=LAM_3.31|SpaceAfter=No|Gloss=ever
+9	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.31|Gloss=.
 
 # sent_id = LAM_3.32
 # text = Lóòtọ́ ó mú ìbànújẹ́ wá, yóò fi àánú hàn, nítorí náà títóbi ni ìfẹ́ rẹ̀.
-1	Lóòtọ́	lóòtọ́	X	_	_	0	_	_	Ref=LAM_3.32
-2	ó	ó	X	_	_	0	_	_	Ref=LAM_3.32
-3	mú	mú	X	_	_	0	_	_	Ref=LAM_3.32
-4	ìbànújẹ́	ìbànújẹ́	X	_	_	0	_	_	Ref=LAM_3.32
-5	wá	wá	X	_	_	0	_	_	Ref=LAM_3.32|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.32
-7	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.32
-8	fi	fi	X	_	_	0	_	_	Ref=LAM_3.32
-9	àánú	àánú	X	_	_	0	_	_	Ref=LAM_3.32
-10	hàn	hàn	X	_	_	0	_	_	Ref=LAM_3.32|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.32
-12	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.32
-13	náà	náà	X	_	_	0	_	_	Ref=LAM_3.32
-14	títóbi	títóbi	X	_	_	0	_	_	Ref=LAM_3.32
-15	ni	ni	X	_	_	0	_	_	Ref=LAM_3.32
-16	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=LAM_3.32
+# text_en = But though he cause grief, yet will he have compassion according to the multitude of his mercies.
+1	Lóòtọ́	lóòtọ́	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=verily
+2	ó	ó	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=he
+3	mú	mú	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=brought
+4	ìbànújẹ́	ìbànújẹ́	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=sorrow
+5	wá	wá	X	_	_	0	_	_	Ref=LAM_3.32|SpaceAfter=No|Gloss=come
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.32|Gloss=,
+7	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=shall
+8	fi	fi	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=with
+9	àánú	àánú	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=mercy
+10	hàn	hàn	X	_	_	0	_	_	Ref=LAM_3.32|SpaceAfter=No|Gloss=shew
+11	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.32|Gloss=,
+12	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=for
+13	náà	náà	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=the
+14	títóbi	títóbi	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=great
+15	ni	ni	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=is
+16	ìfẹ́	ìfẹ́	X	_	_	0	_	_	Ref=LAM_3.32|Gloss=love
 17	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.32|SpaceAfter=No
 18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.32
 
 # sent_id = LAM_3.33
 # text = Nítorí kò mọ̀ọ́mọ̀ mú ìpọ́njú wá tàbí ìrora wá fún ọmọ ènìyàn.
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.33
-2	kò	kò	X	_	_	0	_	_	Ref=LAM_3.33
-3	mọ̀ọ́mọ̀	mọ̀ọ́mọ̀	X	_	_	0	_	_	Ref=LAM_3.33
-4	mú	mú	X	_	_	0	_	_	Ref=LAM_3.33
-5	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=LAM_3.33
-6	wá	wá	X	_	_	0	_	_	Ref=LAM_3.33
+# text_en = For he doth not afflict willingly nor grieve the children of men.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=for
+2	kò	kò	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=not
+3	mọ̀ọ́mọ̀	mọ̀ọ́mọ̀	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=willingly
+4	mú	mú	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=brought
+5	ìpọ́njú	ìpọ́njú	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=affliction
+6	wá	wá	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=come
 7	tàbí	tàbí	X	_	_	0	_	_	Ref=LAM_3.33
-8	ìrora	ìrora	X	_	_	0	_	_	Ref=LAM_3.33
-9	wá	wá	X	_	_	0	_	_	Ref=LAM_3.33
-10	fún	fún	X	_	_	0	_	_	Ref=LAM_3.33
-11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LAM_3.33
-12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.33|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.33
+8	ìrora	ìrora	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=pain
+9	wá	wá	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=come
+10	fún	fún	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=unto
+11	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LAM_3.33|Gloss=son
+12	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.33|SpaceAfter=No|Gloss=people
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.33|Gloss=.
 
 # sent_id = LAM_3.34
 # text = Kí ó tẹ̀ lábẹ́ ẹsẹ̀ gbogbo àwọn ẹlẹ́wọ̀n ní ilẹ̀ náà.
-1	Kí	kí	X	_	_	0	_	_	Ref=LAM_3.34
-2	ó	ó	X	_	_	0	_	_	Ref=LAM_3.34
-3	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=LAM_3.34
-4	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=LAM_3.34
-5	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=LAM_3.34
-6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.34
+# text_en = To crush under his feet all the prisoners of the earth,
+1	Kí	kí	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=let
+2	ó	ó	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=he
+3	tẹ̀	tẹ̀	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=tread
+4	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=under
+5	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=feet
+6	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=all
 7	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.34
 8	ẹlẹ́wọ̀n	ẹlẹ́wọ̀n	X	_	_	0	_	_	Ref=LAM_3.34
-9	ní	ní	X	_	_	0	_	_	Ref=LAM_3.34
-10	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=LAM_3.34
-11	náà	náà	X	_	_	0	_	_	Ref=LAM_3.34|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.34
+9	ní	ní	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=in
+10	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=LAM_3.34|Gloss=land
+11	náà	náà	X	_	_	0	_	_	Ref=LAM_3.34|SpaceAfter=No|Gloss=the
+12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.34|Gloss=.
 
 # sent_id = LAM_3.35
 # text = Láti ṣẹ́ ọmọ ènìyàn fún ẹ̀tọ́ rẹ̀ níwájú ẹni ńlá.
-1	Láti	láti	X	_	_	0	_	_	Ref=LAM_3.35
-2	ṣẹ́	ṣẹ́	X	_	_	0	_	_	Ref=LAM_3.35
-3	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LAM_3.35
-4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.35
-5	fún	fún	X	_	_	0	_	_	Ref=LAM_3.35
-6	ẹ̀tọ́	ẹ̀tọ́	X	_	_	0	_	_	Ref=LAM_3.35
-7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.35
-8	níwájú	níwájú	X	_	_	0	_	_	Ref=LAM_3.35
-9	ẹni	ẹni	X	_	_	0	_	_	Ref=LAM_3.35
-10	ńlá	ńlá	X	_	_	0	_	_	Ref=LAM_3.35|SpaceAfter=No
-11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.35
+# text_en = To turn aside the right of a man before the face of the most High,
+1	Láti	láti	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=to
+2	ṣẹ́	ṣẹ́	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=break
+3	ọmọ	ọmọ	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=son
+4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=people
+5	fún	fún	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=unto
+6	ẹ̀tọ́	ẹ̀tọ́	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=judgment
+7	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=his
+8	níwájú	níwájú	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=before
+9	ẹni	ẹni	X	_	_	0	_	_	Ref=LAM_3.35|Gloss=that
+10	ńlá	ńlá	X	_	_	0	_	_	Ref=LAM_3.35|SpaceAfter=No|Gloss=great
+11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.35|Gloss=.
 
 # sent_id = LAM_3.36
 # text = Láti yí ìdájọ́ ènìyàn po, Ǹjẹ́ Olúwa kò rí ohun bẹ́ẹ̀.
-1	Láti	láti	X	_	_	0	_	_	Ref=LAM_3.36
-2	yí	yí	X	_	_	0	_	_	Ref=LAM_3.36
-3	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=LAM_3.36
-4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.36
-5	po	po	X	_	_	0	_	_	Ref=LAM_3.36|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.36
-7	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=LAM_3.36
-8	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.36
-9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.36
-10	rí	rí	X	_	_	0	_	_	Ref=LAM_3.36
-11	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.36
-12	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=LAM_3.36|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.36
+# text_en = To subvert a man in his cause, the Lord approveth not.
+1	Láti	láti	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=to
+2	yí	yí	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=round
+3	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=judgment
+4	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=people
+5	po	po	X	_	_	0	_	_	Ref=LAM_3.36|SpaceAfter=No|Gloss=it
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.36|Gloss=,
+7	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=now
+8	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=lord
+9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=not
+10	rí	rí	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=saw
+11	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.36|Gloss=things
+12	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=LAM_3.36|SpaceAfter=No|Gloss=so
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.36|Gloss=.
 
 # sent_id = LAM_3.37
 # text = Ta ni yóò sọ̀rọ̀ tí yóò rí bẹ́ẹ̀ tí Olúwa kò bá fàṣẹ sí i.
-1	Ta	ta	X	_	_	0	_	_	Ref=LAM_3.37
-2	ni	ni	X	_	_	0	_	_	Ref=LAM_3.37
-3	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.37
-4	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=LAM_3.37
-5	tí	tí	X	_	_	0	_	_	Ref=LAM_3.37
-6	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.37
-7	rí	rí	X	_	_	0	_	_	Ref=LAM_3.37
-8	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=LAM_3.37
-9	tí	tí	X	_	_	0	_	_	Ref=LAM_3.37
-10	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.37
-11	kò	kò	X	_	_	0	_	_	Ref=LAM_3.37
-12	bá	bá	X	_	_	0	_	_	Ref=LAM_3.37
-13	fàṣẹ	fàṣẹ	X	_	_	0	_	_	Ref=LAM_3.37
-14	sí	sí	X	_	_	0	_	_	Ref=LAM_3.37
-15	i	i	X	_	_	0	_	_	Ref=LAM_3.37|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.37
+# text_en = Who is he that saith, and it cometh to pass, when the Lord commandeth it not?
+1	Ta	ta	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=who
+2	ni	ni	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=is
+3	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=shall
+4	sọ̀rọ̀	sọ̀rọ̀	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=speak
+5	tí	tí	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=that
+6	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=shall
+7	rí	rí	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=saw
+8	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=so
+9	tí	tí	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=that
+10	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=lord
+11	kò	kò	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=not
+12	bá	bá	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=if
+13	fàṣẹ	fàṣẹ	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=commandeth
+14	sí	sí	X	_	_	0	_	_	Ref=LAM_3.37|Gloss=to
+15	i	i	X	_	_	0	_	_	Ref=LAM_3.37|SpaceAfter=No|Gloss=him
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.37|Gloss=.
 
 # sent_id = LAM_3.38
 # text = Ǹjẹ́ kì í ṣe láti ẹnu ẹni ńlá ni dídára àti búburú tí ń wá?
-1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=LAM_3.38
-2	kì	kì	X	_	_	0	_	_	Ref=LAM_3.38
-3	í	í	X	_	_	0	_	_	Ref=LAM_3.38
-4	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.38
-5	láti	láti	X	_	_	0	_	_	Ref=LAM_3.38
-6	ẹnu	ẹnu	X	_	_	0	_	_	Ref=LAM_3.38
-7	ẹni	ẹni	X	_	_	0	_	_	Ref=LAM_3.38
-8	ńlá	ńlá	X	_	_	0	_	_	Ref=LAM_3.38
-9	ni	ni	X	_	_	0	_	_	Ref=LAM_3.38
-10	dídára	dídára	X	_	_	0	_	_	Ref=LAM_3.38
-11	àti	àti	X	_	_	0	_	_	Ref=LAM_3.38
-12	búburú	búburú	X	_	_	0	_	_	Ref=LAM_3.38
-13	tí	tí	X	_	_	0	_	_	Ref=LAM_3.38
-14	ń	ń	X	_	_	0	_	_	Ref=LAM_3.38
-15	wá	wá	X	_	_	0	_	_	Ref=LAM_3.38|SpaceAfter=No
-16	?	?	PUNCT	_	_	0	punct	_	Ref=LAM_3.38
+# text_en = Out of the mouth of the most High proceedeth not evil and good?
+1	Ǹjẹ́	ǹjẹ́	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=now
+2	kì	kì	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=not
+3	í	í	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=was
+4	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=do
+5	láti	láti	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=to
+6	ẹnu	ẹnu	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=mouth
+7	ẹni	ẹni	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=that
+8	ńlá	ńlá	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=great
+9	ni	ni	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=is
+10	dídára	dídára	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=pleasant
+11	àti	àti	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=and
+12	búburú	búburú	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=evil
+13	tí	tí	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=that
+14	ń	ń	X	_	_	0	_	_	Ref=LAM_3.38|Gloss=that
+15	wá	wá	X	_	_	0	_	_	Ref=LAM_3.38|SpaceAfter=No|Gloss=come
+16	?	?	PUNCT	_	_	0	punct	_	Ref=LAM_3.38|Gloss=?
 
 # sent_id = LAM_3.39
 # text = Kí ló dé tí ẹ̀dá alàyè ṣe ń kùn nígbà tí ó bá ń jìyà ẹ̀ṣẹ̀ rẹ̀.
-1	Kí	kí	X	_	_	0	_	_	Ref=LAM_3.39
-2	ló	ló	X	_	_	0	_	_	Ref=LAM_3.39
-3	dé	dé	X	_	_	0	_	_	Ref=LAM_3.39
-4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.39
-5	ẹ̀dá	ẹ̀dá	X	_	_	0	_	_	Ref=LAM_3.39
-6	alàyè	alàyè	X	_	_	0	_	_	Ref=LAM_3.39
-7	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.39
-8	ń	ń	X	_	_	0	_	_	Ref=LAM_3.39
-9	kùn	kùn	X	_	_	0	_	_	Ref=LAM_3.39
-10	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.39
-11	tí	tí	X	_	_	0	_	_	Ref=LAM_3.39
-12	ó	ó	X	_	_	0	_	_	Ref=LAM_3.39
-13	bá	bá	X	_	_	0	_	_	Ref=LAM_3.39
-14	ń	ń	X	_	_	0	_	_	Ref=LAM_3.39
-15	jìyà	jìyà	X	_	_	0	_	_	Ref=LAM_3.39
-16	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=LAM_3.39
+# text_en = Wherefore doth a living man complain, a man for the punishment of his sins?
+1	Kí	kí	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=let
+2	ló	ló	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=hath
+3	dé	dé	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=come
+4	tí	tí	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=that
+5	ẹ̀dá	ẹ̀dá	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=creature
+6	alàyè	alàyè	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=quickeneth
+7	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=do
+8	ń	ń	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=that
+9	kùn	kùn	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=murmured
+10	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=when
+11	tí	tí	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=that
+12	ó	ó	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=he
+13	bá	bá	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=if
+14	ń	ń	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=that
+15	jìyà	jìyà	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=suffer
+16	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=LAM_3.39|Gloss=sin
 17	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=LAM_3.39|SpaceAfter=No
 18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.39
 
 # sent_id = LAM_3.40
 # text = Ẹ jẹ́ kí a yẹ ọ̀nà wa kí a sì dán an wò, kí a sì tọ Olúwa lọ.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=LAM_3.40
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.40
-3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.40
-4	a	a	X	_	_	0	_	_	Ref=LAM_3.40
-5	yẹ	yẹ	X	_	_	0	_	_	Ref=LAM_3.40
-6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.40
-7	wa	wa	X	_	_	0	_	_	Ref=LAM_3.40
-8	kí	kí	X	_	_	0	_	_	Ref=LAM_3.40
-9	a	a	X	_	_	0	_	_	Ref=LAM_3.40
-10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.40
-11	dán	dán	X	_	_	0	_	_	Ref=LAM_3.40
-12	an	an	X	_	_	0	_	_	Ref=LAM_3.40
-13	wò	wò	X	_	_	0	_	_	Ref=LAM_3.40|SpaceAfter=No
-14	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.40
-15	kí	kí	X	_	_	0	_	_	Ref=LAM_3.40
-16	a	a	X	_	_	0	_	_	Ref=LAM_3.40
-17	sì	sì	X	_	_	0	_	_	Ref=LAM_3.40
-18	tọ	tọ	X	_	_	0	_	_	Ref=LAM_3.40
-19	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.40
-20	lọ	lọ	X	_	_	0	_	_	Ref=LAM_3.40|SpaceAfter=No
-21	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.40
+# text_en = Let us search and try our ways, and turn again to the LORD.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=ye
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=be
+3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=let
+4	a	a	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=be
+5	yẹ	yẹ	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=worthy
+6	ọ̀nà	ọ̀nà	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=way
+7	wa	wa	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=our
+8	kí	kí	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=let
+9	a	a	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=be
+10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=and
+11	dán	dán	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=tempted
+12	an	an	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=him
+13	wò	wò	X	_	_	0	_	_	Ref=LAM_3.40|SpaceAfter=No|Gloss=behold
+14	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.40|Gloss=,
+15	kí	kí	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=let
+16	a	a	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=be
+17	sì	sì	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=and
+18	tọ	tọ	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=came
+19	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.40|Gloss=lord
+20	lọ	lọ	X	_	_	0	_	_	Ref=LAM_3.40|SpaceAfter=No|Gloss=go
+21	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.40|Gloss=.
 
 # sent_id = LAM_3.41
 # text = Ẹ jẹ́ kí a gbé ọkàn àti ọwọ́ wa sókè sí Ọlọ́run ní ọ̀run, kí a wí pé:
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=LAM_3.41
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.41
-3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.41
-4	a	a	X	_	_	0	_	_	Ref=LAM_3.41
-5	gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.41
-6	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.41
-7	àti	àti	X	_	_	0	_	_	Ref=LAM_3.41
-8	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LAM_3.41
-9	wa	wa	X	_	_	0	_	_	Ref=LAM_3.41
-10	sókè	sókè	X	_	_	0	_	_	Ref=LAM_3.41
-11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.41
-12	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LAM_3.41
-13	ní	ní	X	_	_	0	_	_	Ref=LAM_3.41
-14	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LAM_3.41|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.41
-16	kí	kí	X	_	_	0	_	_	Ref=LAM_3.41
-17	a	a	X	_	_	0	_	_	Ref=LAM_3.41
-18	wí	wí	X	_	_	0	_	_	Ref=LAM_3.41
-19	pé	pé	X	_	_	0	_	_	Ref=LAM_3.41|SpaceAfter=No
-20	:	:	PUNCT	_	_	0	punct	_	Ref=LAM_3.41
+# text_en = Let us lift up our heart with our hands unto God in the heavens.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=ye
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=be
+3	kí	kí	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=let
+4	a	a	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=be
+5	gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=dwell
+6	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=heart
+7	àti	àti	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=and
+8	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=hand
+9	wa	wa	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=our
+10	sókè	sókè	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=up
+11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=to
+12	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=god
+13	ní	ní	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=in
+14	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LAM_3.41|SpaceAfter=No|Gloss=heaven
+15	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.41|Gloss=,
+16	kí	kí	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=let
+17	a	a	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=be
+18	wí	wí	X	_	_	0	_	_	Ref=LAM_3.41|Gloss=said
+19	pé	pé	X	_	_	0	_	_	Ref=LAM_3.41|SpaceAfter=No|Gloss=saying
+20	:	:	PUNCT	_	_	0	punct	_	Ref=LAM_3.41|Gloss=:
 
 # sent_id = LAM_3.42
 # text = Àwa ti ṣẹ̀ a sì ti ṣọ̀tẹ̀ ìwọ kò sì fi ẹ̀ṣẹ̀ wa jìn wá.
-1	Àwa	àwa	X	_	_	0	_	_	Ref=LAM_3.42
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.42
-3	ṣẹ̀	ṣẹ̀	X	_	_	0	_	_	Ref=LAM_3.42
-4	a	a	X	_	_	0	_	_	Ref=LAM_3.42
-5	sì	sì	X	_	_	0	_	_	Ref=LAM_3.42
-6	ti	ti	X	_	_	0	_	_	Ref=LAM_3.42
-7	ṣọ̀tẹ̀	ṣọ̀tẹ̀	X	_	_	0	_	_	Ref=LAM_3.42
-8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.42
-9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.42
-10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.42
-11	fi	fi	X	_	_	0	_	_	Ref=LAM_3.42
-12	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=LAM_3.42
-13	wa	wa	X	_	_	0	_	_	Ref=LAM_3.42
-14	jìn	jìn	X	_	_	0	_	_	Ref=LAM_3.42
+# text_en = We have transgressed and have rebelled: thou hast not pardoned.
+1	Àwa	àwa	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=we
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=have
+3	ṣẹ̀	ṣẹ̀	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=sinned
+4	a	a	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=be
+5	sì	sì	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=and
+6	ti	ti	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=have
+7	ṣọ̀tẹ̀	ṣọ̀tẹ̀	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=rebelled
+8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=thou
+9	kò	kò	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=not
+10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=and
+11	fi	fi	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=with
+12	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=sin
+13	wa	wa	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=our
+14	jìn	jìn	X	_	_	0	_	_	Ref=LAM_3.42|Gloss=far
 15	wá	wá	X	_	_	0	_	_	Ref=LAM_3.42|SpaceAfter=No
 16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.42
 
 # sent_id = LAM_3.43
 # text = “Ìwọ fi ìbínú bo ara rẹ ìwọ sì ń lépa wa; ìwọ ń parun láì sí àánú.
-1	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.43|SpaceAfter=No
-2	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.43
-3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.43
-4	ìbínú	ìbínú	X	_	_	0	_	_	Ref=LAM_3.43
-5	bo	bo	X	_	_	0	_	_	Ref=LAM_3.43
-6	ara	ara	X	_	_	0	_	_	Ref=LAM_3.43
-7	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.43
-8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.43
-9	sì	sì	X	_	_	0	_	_	Ref=LAM_3.43
-10	ń	ń	X	_	_	0	_	_	Ref=LAM_3.43
-11	lépa	lépa	X	_	_	0	_	_	Ref=LAM_3.43
-12	wa	wa	X	_	_	0	_	_	Ref=LAM_3.43|SpaceAfter=No
-13	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.43
-14	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.43
-15	ń	ń	X	_	_	0	_	_	Ref=LAM_3.43
-16	parun	parun	X	_	_	0	_	_	Ref=LAM_3.43
-17	láì	láì	X	_	_	0	_	_	Ref=LAM_3.43
-18	sí	sí	X	_	_	0	_	_	Ref=LAM_3.43
-19	àánú	àánú	X	_	_	0	_	_	Ref=LAM_3.43|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.43
+# text_en = Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.43|SpaceAfter=No|Gloss=“
+2	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=thou
+3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=with
+4	ìbínú	ìbínú	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=wrath
+5	bo	bo	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=covered
+6	ara	ara	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=himself
+7	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=thy
+8	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=thou
+9	sì	sì	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=and
+10	ń	ń	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=that
+11	lépa	lépa	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=pursued
+12	wa	wa	X	_	_	0	_	_	Ref=LAM_3.43|SpaceAfter=No|Gloss=our
+13	;	;	PUNCT	_	_	0	punct	_	Ref=LAM_3.43|Gloss=;
+14	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=thou
+15	ń	ń	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=that
+16	parun	parun	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=destroyed
+17	láì	láì	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=not
+18	sí	sí	X	_	_	0	_	_	Ref=LAM_3.43|Gloss=to
+19	àánú	àánú	X	_	_	0	_	_	Ref=LAM_3.43|SpaceAfter=No|Gloss=mercy
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.43|Gloss=.
 
 # sent_id = LAM_3.44
 # text = Ìwọ ti fi ìkuukù bo ara rẹ pé kí àdúrà wa má ba à dé ọ̀dọ̀ rẹ.
-1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.44
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.44
-3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.44
-4	ìkuukù	ìkuukù	X	_	_	0	_	_	Ref=LAM_3.44
-5	bo	bo	X	_	_	0	_	_	Ref=LAM_3.44
-6	ara	ara	X	_	_	0	_	_	Ref=LAM_3.44
-7	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.44
-8	pé	pé	X	_	_	0	_	_	Ref=LAM_3.44
-9	kí	kí	X	_	_	0	_	_	Ref=LAM_3.44
-10	àdúrà	àdúrà	X	_	_	0	_	_	Ref=LAM_3.44
-11	wa	wa	X	_	_	0	_	_	Ref=LAM_3.44
-12	má	má	X	_	_	0	_	_	Ref=LAM_3.44
-13	ba	ba	X	_	_	0	_	_	Ref=LAM_3.44
-14	à	à	X	_	_	0	_	_	Ref=LAM_3.44
-15	dé	dé	X	_	_	0	_	_	Ref=LAM_3.44
-16	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LAM_3.44
-17	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.44|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.44
+# text_en = Thou hast covered thyself with a cloud, that our prayer should not pass through.
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=thou
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=have
+3	fi	fi	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=with
+4	ìkuukù	ìkuukù	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=null
+5	bo	bo	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=covered
+6	ara	ara	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=himself
+7	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=thy
+8	pé	pé	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=saying
+9	kí	kí	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=let
+10	àdúrà	àdúrà	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=prayer
+11	wa	wa	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=our
+12	má	má	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=not
+13	ba	ba	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=lest
+14	à	à	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=the
+15	dé	dé	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=come
+16	ọ̀dọ̀	ọ̀dọ̀	X	_	_	0	_	_	Ref=LAM_3.44|Gloss=from
+17	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.44|SpaceAfter=No|Gloss=thy
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.44|Gloss=.
 
 # sent_id = LAM_3.45
 # text = Ó ti sọ wá di èérí àti ààtàn láàrin orílẹ̀ èdè gbogbo.
-1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.45
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.45
-3	sọ	sọ	X	_	_	0	_	_	Ref=LAM_3.45
-4	wá	wá	X	_	_	0	_	_	Ref=LAM_3.45
-5	di	di	X	_	_	0	_	_	Ref=LAM_3.45
-6	èérí	èérí	X	_	_	0	_	_	Ref=LAM_3.45
-7	àti	àti	X	_	_	0	_	_	Ref=LAM_3.45
-8	ààtàn	ààtàn	X	_	_	0	_	_	Ref=LAM_3.45
-9	láàrin	láàrin	X	_	_	0	_	_	Ref=LAM_3.45
-10	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=LAM_3.45
-11	èdè	èdè	X	_	_	0	_	_	Ref=LAM_3.45
-12	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.45|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.45
+# text_en = Thou hast made us as the offscouring and refuse in the midst of the people.
+1	Ó	ó	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=he
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=have
+3	sọ	sọ	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=spake
+4	wá	wá	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=come
+5	di	di	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=be
+6	èérí	èérí	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=filthiness
+7	àti	àti	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=and
+8	ààtàn	ààtàn	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=dung
+9	láàrin	láàrin	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=among
+10	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=nations
+11	èdè	èdè	X	_	_	0	_	_	Ref=LAM_3.45|Gloss=nations
+12	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.45|SpaceAfter=No|Gloss=all
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.45|Gloss=.
 
 # sent_id = LAM_3.46
 # text = “Gbogbo àwọn ọ̀tá wa ti la ẹnu wọn gbòòrò sí wa.
-1	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.46|SpaceAfter=No
-2	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.46
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.46
-4	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=LAM_3.46
-5	wa	wa	X	_	_	0	_	_	Ref=LAM_3.46
-6	ti	ti	X	_	_	0	_	_	Ref=LAM_3.46
-7	la	la	X	_	_	0	_	_	Ref=LAM_3.46
-8	ẹnu	ẹnu	X	_	_	0	_	_	Ref=LAM_3.46
-9	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.46
-10	gbòòrò	gbòòrò	X	_	_	0	_	_	Ref=LAM_3.46
-11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.46
-12	wa	wa	X	_	_	0	_	_	Ref=LAM_3.46|SpaceAfter=No
+# text_en = All our enemies have opened their mouths against us.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.46|SpaceAfter=No|Gloss=“
+2	Gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=all
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=the
+4	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=enemies
+5	wa	wa	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=our
+6	ti	ti	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=have
+7	la	la	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=through
+8	ẹnu	ẹnu	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=mouth
+9	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=them
+10	gbòòrò	gbòòrò	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=wide
+11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.46|Gloss=to
+12	wa	wa	X	_	_	0	_	_	Ref=LAM_3.46|SpaceAfter=No|Gloss=our
 13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.46
 
 # sent_id = LAM_3.47
 # text = Àwa ti jìyà àti ìparun, nínú ìbẹ̀rù àti ewu.”
-1	Àwa	àwa	X	_	_	0	_	_	Ref=LAM_3.47
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.47
-3	jìyà	jìyà	X	_	_	0	_	_	Ref=LAM_3.47
-4	àti	àti	X	_	_	0	_	_	Ref=LAM_3.47
-5	ìparun	ìparun	X	_	_	0	_	_	Ref=LAM_3.47|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.47
-7	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.47
-8	ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=LAM_3.47
-9	àti	àti	X	_	_	0	_	_	Ref=LAM_3.47
+# text_en = Fear and a snare is come upon us, desolation and destruction.
+1	Àwa	àwa	X	_	_	0	_	_	Ref=LAM_3.47|Gloss=we
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.47|Gloss=have
+3	jìyà	jìyà	X	_	_	0	_	_	Ref=LAM_3.47|Gloss=suffer
+4	àti	àti	X	_	_	0	_	_	Ref=LAM_3.47|Gloss=and
+5	ìparun	ìparun	X	_	_	0	_	_	Ref=LAM_3.47|SpaceAfter=No|Gloss=destruction
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.47|Gloss=,
+7	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.47|Gloss=in
+8	ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=LAM_3.47|Gloss=fear
+9	àti	àti	X	_	_	0	_	_	Ref=LAM_3.47|Gloss=and
 10	ewu	ewu	X	_	_	0	_	_	Ref=LAM_3.47|SpaceAfter=No
 11	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.47|SpaceAfter=No
-12	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.47
+12	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.47|Gloss=.
 
 # sent_id = LAM_3.48
 # text = Omijé ń ṣàn ní ojú mi bí odò nítorí a pa àwọn ènìyàn mi run.
-1	Omijé	omijé	X	_	_	0	_	_	Ref=LAM_3.48
-2	ń	ń	X	_	_	0	_	_	Ref=LAM_3.48
-3	ṣàn	ṣàn	X	_	_	0	_	_	Ref=LAM_3.48
-4	ní	ní	X	_	_	0	_	_	Ref=LAM_3.48
-5	ojú	ojú	X	_	_	0	_	_	Ref=LAM_3.48
-6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.48
-7	bí	bí	X	_	_	0	_	_	Ref=LAM_3.48
-8	odò	odò	X	_	_	0	_	_	Ref=LAM_3.48
-9	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.48
-10	a	a	X	_	_	0	_	_	Ref=LAM_3.48
-11	pa	pa	X	_	_	0	_	_	Ref=LAM_3.48
-12	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.48
-13	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.48
-14	mi	mi	X	_	_	0	_	_	Ref=LAM_3.48
-15	run	run	X	_	_	0	_	_	Ref=LAM_3.48|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.48
+# text_en = Mine eye runneth down with rivers of water for the destruction of the daughter of my people.
+1	Omijé	omijé	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=tears
+2	ń	ń	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=that
+3	ṣàn	ṣàn	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=run
+4	ní	ní	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=in
+5	ojú	ojú	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=eyes
+6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=my
+7	bí	bí	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=as
+8	odò	odò	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=river
+9	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=for
+10	a	a	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=be
+11	pa	pa	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=keep
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=the
+13	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=people
+14	mi	mi	X	_	_	0	_	_	Ref=LAM_3.48|Gloss=my
+15	run	run	X	_	_	0	_	_	Ref=LAM_3.48|SpaceAfter=No|Gloss=destroy
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.48|Gloss=.
 
 # sent_id = LAM_3.49
 # text = Ojú mi kò dá fún omijé, láì sinmi,
-1	Ojú	ojú	X	_	_	0	_	_	Ref=LAM_3.49
-2	mi	mi	X	_	_	0	_	_	Ref=LAM_3.49
-3	kò	kò	X	_	_	0	_	_	Ref=LAM_3.49
-4	dá	dá	X	_	_	0	_	_	Ref=LAM_3.49
-5	fún	fún	X	_	_	0	_	_	Ref=LAM_3.49
-6	omijé	omijé	X	_	_	0	_	_	Ref=LAM_3.49|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.49
-8	láì	láì	X	_	_	0	_	_	Ref=LAM_3.49
-9	sinmi	sinmi	X	_	_	0	_	_	Ref=LAM_3.49|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.49
+# text_en = Mine eye trickleth down, and ceaseth not, without any intermission,
+1	Ojú	ojú	X	_	_	0	_	_	Ref=LAM_3.49|Gloss=eyes
+2	mi	mi	X	_	_	0	_	_	Ref=LAM_3.49|Gloss=my
+3	kò	kò	X	_	_	0	_	_	Ref=LAM_3.49|Gloss=not
+4	dá	dá	X	_	_	0	_	_	Ref=LAM_3.49|Gloss=made
+5	fún	fún	X	_	_	0	_	_	Ref=LAM_3.49|Gloss=unto
+6	omijé	omijé	X	_	_	0	_	_	Ref=LAM_3.49|SpaceAfter=No|Gloss=tears
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.49|Gloss=,
+8	láì	láì	X	_	_	0	_	_	Ref=LAM_3.49|Gloss=not
+9	sinmi	sinmi	X	_	_	0	_	_	Ref=LAM_3.49|SpaceAfter=No|Gloss=rest
+10	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.49|Gloss=,
 
 # sent_id = LAM_3.50
 # text = títí ìgbà tí Olúwa síjú wolẹ̀ láti òkè ọ̀run tí yóò sì rí i.
-1	títí	títí	X	_	_	0	_	_	Ref=LAM_3.50
-2	ìgbà	ìgbà	X	_	_	0	_	_	Ref=LAM_3.50
-3	tí	tí	X	_	_	0	_	_	Ref=LAM_3.50
-4	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.50
-5	síjú	síjú	X	_	_	0	_	_	Ref=LAM_3.50
-6	wolẹ̀	wolẹ̀	X	_	_	0	_	_	Ref=LAM_3.50
-7	láti	láti	X	_	_	0	_	_	Ref=LAM_3.50
-8	òkè	òkè	X	_	_	0	_	_	Ref=LAM_3.50
-9	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LAM_3.50
-10	tí	tí	X	_	_	0	_	_	Ref=LAM_3.50
-11	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.50
-12	sì	sì	X	_	_	0	_	_	Ref=LAM_3.50
-13	rí	rí	X	_	_	0	_	_	Ref=LAM_3.50
-14	i	i	X	_	_	0	_	_	Ref=LAM_3.50|SpaceAfter=No
-15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.50
+# text_en = Till the LORD look down, and behold from heaven.
+1	títí	títí	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=until
+2	ìgbà	ìgbà	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=time
+3	tí	tí	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=that
+4	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=lord
+5	síjú	síjú	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=look
+6	wolẹ̀	wolẹ̀	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=down
+7	láti	láti	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=to
+8	òkè	òkè	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=mount
+9	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=heaven
+10	tí	tí	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=that
+11	yóò	yóò	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=shall
+12	sì	sì	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=and
+13	rí	rí	X	_	_	0	_	_	Ref=LAM_3.50|Gloss=saw
+14	i	i	X	_	_	0	_	_	Ref=LAM_3.50|SpaceAfter=No|Gloss=him
+15	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.50|Gloss=.
 
 # sent_id = LAM_3.51
 # text = Ohun tí mo rí mú ìbẹ̀rù wá ọkàn mi nítorí gbogbo àwọn obìnrin ìlú mi.
-1	Ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.51
-2	tí	tí	X	_	_	0	_	_	Ref=LAM_3.51
-3	mo	mo	X	_	_	0	_	_	Ref=LAM_3.51
-4	rí	rí	X	_	_	0	_	_	Ref=LAM_3.51
-5	mú	mú	X	_	_	0	_	_	Ref=LAM_3.51
-6	ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=LAM_3.51
-7	wá	wá	X	_	_	0	_	_	Ref=LAM_3.51
-8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.51
-9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.51
-10	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.51
-11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.51
+# text_en = Mine eye affecteth mine heart because of all the daughters of my city.
+1	Ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=things
+2	tí	tí	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=that
+3	mo	mo	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=i
+4	rí	rí	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=saw
+5	mú	mú	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=brought
+6	ìbẹ̀rù	ìbẹ̀rù	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=fear
+7	wá	wá	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=come
+8	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=heart
+9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=my
+10	nítorí	nítorí	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=for
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=all
 12	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.51
-13	obìnrin	obìnrin	X	_	_	0	_	_	Ref=LAM_3.51
-14	ìlú	ìlú	X	_	_	0	_	_	Ref=LAM_3.51
-15	mi	mi	X	_	_	0	_	_	Ref=LAM_3.51|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.51
+13	obìnrin	obìnrin	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=woman
+14	ìlú	ìlú	X	_	_	0	_	_	Ref=LAM_3.51|Gloss=city
+15	mi	mi	X	_	_	0	_	_	Ref=LAM_3.51|SpaceAfter=No|Gloss=my
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.51|Gloss=.
 
 # sent_id = LAM_3.52
 # text = Àwọn tí ó jẹ́ ọ̀tá mi láìnídìí dẹ mí bí ẹyẹ.
+# text_en = Mine enemies chased me sore, like a bird, without cause.
 1	Àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.52
-2	tí	tí	X	_	_	0	_	_	Ref=LAM_3.52
-3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.52
-4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.52
-5	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=LAM_3.52
-6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.52
-7	láìnídìí	láìnídìí	X	_	_	0	_	_	Ref=LAM_3.52
-8	dẹ	dẹ	X	_	_	0	_	_	Ref=LAM_3.52
-9	mí	mí	X	_	_	0	_	_	Ref=LAM_3.52
-10	bí	bí	X	_	_	0	_	_	Ref=LAM_3.52
-11	ẹyẹ	ẹyẹ	X	_	_	0	_	_	Ref=LAM_3.52|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.52
+2	tí	tí	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=he
+4	jẹ́	jẹ́	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=be
+5	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=enemies
+6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=my
+7	láìnídìí	láìnídìí	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=cause
+8	dẹ	dẹ	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=incline
+9	mí	mí	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=me
+10	bí	bí	X	_	_	0	_	_	Ref=LAM_3.52|Gloss=as
+11	ẹyẹ	ẹyẹ	X	_	_	0	_	_	Ref=LAM_3.52|SpaceAfter=No|Gloss=fowls
+12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.52|Gloss=.
 
 # sent_id = LAM_3.53
 # text = Wọ́n gbìyànjú láti mú òpin dé bá ayé mi nínú ihò wọ́n sì ju òkúta lù mí.
-1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.53
+# text_en = They have cut off my life in the dungeon, and cast a stone upon me.
+1	Wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=they
 2	gbìyànjú	gbìyànjú	X	_	_	0	_	_	Ref=LAM_3.53
-3	láti	láti	X	_	_	0	_	_	Ref=LAM_3.53
-4	mú	mú	X	_	_	0	_	_	Ref=LAM_3.53
-5	òpin	òpin	X	_	_	0	_	_	Ref=LAM_3.53
-6	dé	dé	X	_	_	0	_	_	Ref=LAM_3.53
-7	bá	bá	X	_	_	0	_	_	Ref=LAM_3.53
-8	ayé	ayé	X	_	_	0	_	_	Ref=LAM_3.53
-9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.53
-10	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.53
-11	ihò	ihò	X	_	_	0	_	_	Ref=LAM_3.53
-12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.53
-13	sì	sì	X	_	_	0	_	_	Ref=LAM_3.53
-14	ju	ju	X	_	_	0	_	_	Ref=LAM_3.53
-15	òkúta	òkúta	X	_	_	0	_	_	Ref=LAM_3.53
-16	lù	lù	X	_	_	0	_	_	Ref=LAM_3.53
-17	mí	mí	X	_	_	0	_	_	Ref=LAM_3.53|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.53
+3	láti	láti	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=to
+4	mú	mú	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=brought
+5	òpin	òpin	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=end
+6	dé	dé	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=come
+7	bá	bá	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=if
+8	ayé	ayé	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=earth
+9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=my
+10	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=in
+11	ihò	ihò	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=cave
+12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=they
+13	sì	sì	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=and
+14	ju	ju	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=than
+15	òkúta	òkúta	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=stone
+16	lù	lù	X	_	_	0	_	_	Ref=LAM_3.53|Gloss=upon
+17	mí	mí	X	_	_	0	_	_	Ref=LAM_3.53|SpaceAfter=No|Gloss=me
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.53|Gloss=.
 
 # sent_id = LAM_3.54
 # text = Orí mi kún fún omi, mo sì rò pé ìgbẹ̀yìn dé.
-1	Orí	orí	X	_	_	0	_	_	Ref=LAM_3.54
-2	mi	mi	X	_	_	0	_	_	Ref=LAM_3.54
-3	kún	kún	X	_	_	0	_	_	Ref=LAM_3.54
-4	fún	fún	X	_	_	0	_	_	Ref=LAM_3.54
-5	omi	omi	X	_	_	0	_	_	Ref=LAM_3.54|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.54
-7	mo	mo	X	_	_	0	_	_	Ref=LAM_3.54
-8	sì	sì	X	_	_	0	_	_	Ref=LAM_3.54
-9	rò	rò	X	_	_	0	_	_	Ref=LAM_3.54
-10	pé	pé	X	_	_	0	_	_	Ref=LAM_3.54
-11	ìgbẹ̀yìn	ìgbẹ̀yìn	X	_	_	0	_	_	Ref=LAM_3.54
-12	dé	dé	X	_	_	0	_	_	Ref=LAM_3.54|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.54
+# text_en = Waters flowed over mine head; then I said, I am cut off.
+1	Orí	orí	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=head
+2	mi	mi	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=my
+3	kún	kún	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=full
+4	fún	fún	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=unto
+5	omi	omi	X	_	_	0	_	_	Ref=LAM_3.54|SpaceAfter=No|Gloss=water
+6	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.54|Gloss=,
+7	mo	mo	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=i
+8	sì	sì	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=and
+9	rò	rò	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=think
+10	pé	pé	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=saying
+11	ìgbẹ̀yìn	ìgbẹ̀yìn	X	_	_	0	_	_	Ref=LAM_3.54|Gloss=end
+12	dé	dé	X	_	_	0	_	_	Ref=LAM_3.54|SpaceAfter=No|Gloss=come
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.54|Gloss=.
 
 # sent_id = LAM_3.55
 # text = Mo pe orúkọ rẹ, Olúwa , láti ọ̀gbun ìsàlẹ̀ ihò.
-1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.55
-2	pe	pe	X	_	_	0	_	_	Ref=LAM_3.55
-3	orúkọ	orúkọ	X	_	_	0	_	_	Ref=LAM_3.55
-4	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.55|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.55
-6	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.55
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.55
-8	láti	láti	X	_	_	0	_	_	Ref=LAM_3.55
-9	ọ̀gbun	ọ̀gbun	X	_	_	0	_	_	Ref=LAM_3.55
-10	ìsàlẹ̀	ìsàlẹ̀	X	_	_	0	_	_	Ref=LAM_3.55
-11	ihò	ihò	X	_	_	0	_	_	Ref=LAM_3.55|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.55
+# text_en = I called upon thy name, O LORD, out of the low dungeon.
+1	Mo	mo	X	_	_	0	_	_	Ref=LAM_3.55|Gloss=i
+2	pe	pe	X	_	_	0	_	_	Ref=LAM_3.55|Gloss=called
+3	orúkọ	orúkọ	X	_	_	0	_	_	Ref=LAM_3.55|Gloss=name
+4	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.55|SpaceAfter=No|Gloss=thy
+5	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.55|Gloss=,
+6	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.55|Gloss=lord
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.55|Gloss=,
+8	láti	láti	X	_	_	0	_	_	Ref=LAM_3.55|Gloss=to
+9	ọ̀gbun	ọ̀gbun	X	_	_	0	_	_	Ref=LAM_3.55|Gloss=pit
+10	ìsàlẹ̀	ìsàlẹ̀	X	_	_	0	_	_	Ref=LAM_3.55|Gloss=bottom
+11	ihò	ihò	X	_	_	0	_	_	Ref=LAM_3.55|SpaceAfter=No|Gloss=cave
+12	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.55|Gloss=.
 
 # sent_id = LAM_3.56
 # text = Ìwọ gbọ́ ẹ̀bẹ̀ mi: “Má ṣe di etí rẹ sí igbe ẹ̀bẹ̀ mi fún ìtura.”
-1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.56
-2	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LAM_3.56
-3	ẹ̀bẹ̀	ẹ̀bẹ̀	X	_	_	0	_	_	Ref=LAM_3.56
-4	mi	mi	X	_	_	0	_	_	Ref=LAM_3.56|SpaceAfter=No
-5	:	:	PUNCT	_	_	0	punct	_	Ref=LAM_3.56
-6	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.56|SpaceAfter=No
-7	Má	má	X	_	_	0	_	_	Ref=LAM_3.56
-8	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.56
-9	di	di	X	_	_	0	_	_	Ref=LAM_3.56
-10	etí	etí	X	_	_	0	_	_	Ref=LAM_3.56
-11	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.56
-12	sí	sí	X	_	_	0	_	_	Ref=LAM_3.56
-13	igbe	igbe	X	_	_	0	_	_	Ref=LAM_3.56
-14	ẹ̀bẹ̀	ẹ̀bẹ̀	X	_	_	0	_	_	Ref=LAM_3.56
-15	mi	mi	X	_	_	0	_	_	Ref=LAM_3.56
-16	fún	fún	X	_	_	0	_	_	Ref=LAM_3.56
-17	ìtura	ìtura	X	_	_	0	_	_	Ref=LAM_3.56|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.56|SpaceAfter=No
-19	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.56
+# text_en = Thou hast heard my voice: hide not thine ear at my breathing, at my cry.
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=thou
+2	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=heard
+3	ẹ̀bẹ̀	ẹ̀bẹ̀	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=supplication
+4	mi	mi	X	_	_	0	_	_	Ref=LAM_3.56|SpaceAfter=No|Gloss=my
+5	:	:	PUNCT	_	_	0	punct	_	Ref=LAM_3.56|Gloss=:
+6	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.56|SpaceAfter=No|Gloss=“
+7	Má	má	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=not
+8	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=do
+9	di	di	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=be
+10	etí	etí	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=ears
+11	rẹ	rẹ	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=thy
+12	sí	sí	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=to
+13	igbe	igbe	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=cry
+14	ẹ̀bẹ̀	ẹ̀bẹ̀	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=supplication
+15	mi	mi	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=my
+16	fún	fún	X	_	_	0	_	_	Ref=LAM_3.56|Gloss=unto
+17	ìtura	ìtura	X	_	_	0	_	_	Ref=LAM_3.56|SpaceAfter=No|Gloss=pleasant
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.56|SpaceAfter=No|Gloss=.
+19	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.56|Gloss=.
 
 # sent_id = LAM_3.57
 # text = O wá tòsí nígbà tí mo ké pè ọ́, o sì wí pé, “Má se bẹ̀rù.”
-1	O	o	X	_	_	0	_	_	Ref=LAM_3.57
-2	wá	wá	X	_	_	0	_	_	Ref=LAM_3.57
-3	tòsí	tòsí	X	_	_	0	_	_	Ref=LAM_3.57
-4	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.57
-5	tí	tí	X	_	_	0	_	_	Ref=LAM_3.57
-6	mo	mo	X	_	_	0	_	_	Ref=LAM_3.57
-7	ké	ké	X	_	_	0	_	_	Ref=LAM_3.57
-8	pè	pè	X	_	_	0	_	_	Ref=LAM_3.57
-9	ọ́	ọ́	X	_	_	0	_	_	Ref=LAM_3.57|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.57
-11	o	o	X	_	_	0	_	_	Ref=LAM_3.57
-12	sì	sì	X	_	_	0	_	_	Ref=LAM_3.57
-13	wí	wí	X	_	_	0	_	_	Ref=LAM_3.57
-14	pé	pé	X	_	_	0	_	_	Ref=LAM_3.57|SpaceAfter=No
-15	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.57
-16	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.57|SpaceAfter=No
-17	Má	má	X	_	_	0	_	_	Ref=LAM_3.57
-18	se	se	X	_	_	0	_	_	Ref=LAM_3.57
-19	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=LAM_3.57|SpaceAfter=No
-20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.57|SpaceAfter=No
-21	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.57
+# text_en = Thou drewest near in the day that I called upon thee: thou saidst, Fear not.
+1	O	o	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=thou
+2	wá	wá	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=come
+3	tòsí	tòsí	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=near
+4	nígbà	nígbà	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=when
+5	tí	tí	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=that
+6	mo	mo	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=i
+7	ké	ké	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=cut
+8	pè	pè	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=called
+9	ọ́	ọ́	X	_	_	0	_	_	Ref=LAM_3.57|SpaceAfter=No|Gloss=thee
+10	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.57|Gloss=,
+11	o	o	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=thou
+12	sì	sì	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=and
+13	wí	wí	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=said
+14	pé	pé	X	_	_	0	_	_	Ref=LAM_3.57|SpaceAfter=No|Gloss=saying
+15	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.57|Gloss=,
+16	“	“	PUNCT	_	_	0	punct	_	Ref=LAM_3.57|SpaceAfter=No|Gloss=“
+17	Má	má	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=not
+18	se	se	X	_	_	0	_	_	Ref=LAM_3.57|Gloss=do
+19	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=LAM_3.57|SpaceAfter=No|Gloss=fear
+20	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.57|SpaceAfter=No|Gloss=.
+21	”	”	PUNCT	_	_	0	punct	_	Ref=LAM_3.57|Gloss=.
 
 # sent_id = LAM_3.58
 # text = Olúwa , ìwọ gba ẹjọ́ mi rò, o ra ẹ̀mí mi padà.
-1	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.58
-2	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.58
-3	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.58
-4	gba	gba	X	_	_	0	_	_	Ref=LAM_3.58
-5	ẹjọ́	ẹjọ́	X	_	_	0	_	_	Ref=LAM_3.58
-6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.58
-7	rò	rò	X	_	_	0	_	_	Ref=LAM_3.58|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.58
-9	o	o	X	_	_	0	_	_	Ref=LAM_3.58
-10	ra	ra	X	_	_	0	_	_	Ref=LAM_3.58
-11	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=LAM_3.58
-12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.58
-13	padà	padà	X	_	_	0	_	_	Ref=LAM_3.58|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.58
+# text_en = O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=lord
+2	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.58|Gloss=,
+3	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=thou
+4	gba	gba	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=receive
+5	ẹjọ́	ẹjọ́	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=matter
+6	mi	mi	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=my
+7	rò	rò	X	_	_	0	_	_	Ref=LAM_3.58|SpaceAfter=No|Gloss=think
+8	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.58|Gloss=,
+9	o	o	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=thou
+10	ra	ra	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=buy
+11	ẹ̀mí	ẹ̀mí	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=spirit
+12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.58|Gloss=my
+13	padà	padà	X	_	_	0	_	_	Ref=LAM_3.58|SpaceAfter=No|Gloss=return
+14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.58|Gloss=.
 
 # sent_id = LAM_3.59
 # text = O ti rí i, Olúwa , búburú tí a ṣe sí mi Gbé ẹjọ́ mi ró!
-1	O	o	X	_	_	0	_	_	Ref=LAM_3.59
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.59
-3	rí	rí	X	_	_	0	_	_	Ref=LAM_3.59
-4	i	i	X	_	_	0	_	_	Ref=LAM_3.59|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.59
-6	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.59
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.59
-8	búburú	búburú	X	_	_	0	_	_	Ref=LAM_3.59
-9	tí	tí	X	_	_	0	_	_	Ref=LAM_3.59
-10	a	a	X	_	_	0	_	_	Ref=LAM_3.59
-11	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.59
-12	sí	sí	X	_	_	0	_	_	Ref=LAM_3.59
-13	mi	mi	X	_	_	0	_	_	Ref=LAM_3.59
-14	Gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.59
-15	ẹjọ́	ẹjọ́	X	_	_	0	_	_	Ref=LAM_3.59
-16	mi	mi	X	_	_	0	_	_	Ref=LAM_3.59
-17	ró	ró	X	_	_	0	_	_	Ref=LAM_3.59|SpaceAfter=No
-18	!	!	PUNCT	_	_	0	punct	_	Ref=LAM_3.59
+# text_en = O LORD, thou hast seen my wrong: judge thou my cause.
+1	O	o	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=thou
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=have
+3	rí	rí	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=saw
+4	i	i	X	_	_	0	_	_	Ref=LAM_3.59|SpaceAfter=No|Gloss=him
+5	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.59|Gloss=,
+6	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=lord
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.59|Gloss=,
+8	búburú	búburú	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=evil
+9	tí	tí	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=that
+10	a	a	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=be
+11	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=do
+12	sí	sí	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=to
+13	mi	mi	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=my
+14	Gbé	gbé	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=dwell
+15	ẹjọ́	ẹjọ́	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=matter
+16	mi	mi	X	_	_	0	_	_	Ref=LAM_3.59|Gloss=my
+17	ró	ró	X	_	_	0	_	_	Ref=LAM_3.59|SpaceAfter=No|Gloss=up
+18	!	!	PUNCT	_	_	0	punct	_	Ref=LAM_3.59|Gloss=.
 
 # sent_id = LAM_3.60
 # text = Ìwọ ti rí ọ̀gbun ẹ̀san wọn, gbogbo ìmọ̀ wọn sí mi.
-1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.60
-2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.60
-3	rí	rí	X	_	_	0	_	_	Ref=LAM_3.60
-4	ọ̀gbun	ọ̀gbun	X	_	_	0	_	_	Ref=LAM_3.60
-5	ẹ̀san	ẹ̀san	X	_	_	0	_	_	Ref=LAM_3.60
-6	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.60|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.60
-8	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.60
-9	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=LAM_3.60
-10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.60
-11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.60
-12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.60|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.60
+# text_en = Thou hast seen all their vengeance and all their imaginations against me.
+1	Ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=thou
+2	ti	ti	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=have
+3	rí	rí	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=saw
+4	ọ̀gbun	ọ̀gbun	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=pit
+5	ẹ̀san	ẹ̀san	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=vengeance
+6	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.60|SpaceAfter=No|Gloss=them
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.60|Gloss=,
+8	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=all
+9	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=knowledge
+10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=them
+11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.60|Gloss=to
+12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.60|SpaceAfter=No|Gloss=my
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.60|Gloss=.
 
 # sent_id = LAM_3.61
 # text = Olúwa ìwọ ti gbọ́ ẹ̀gàn wọn àti ìmọ̀ búburú wọn sí mi—
-1	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.61
-2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.61
-3	ti	ti	X	_	_	0	_	_	Ref=LAM_3.61
-4	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LAM_3.61
-5	ẹ̀gàn	ẹ̀gàn	X	_	_	0	_	_	Ref=LAM_3.61
-6	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.61
-7	àti	àti	X	_	_	0	_	_	Ref=LAM_3.61
-8	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=LAM_3.61
-9	búburú	búburú	X	_	_	0	_	_	Ref=LAM_3.61
-10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.61
-11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.61
+# text_en = Thou hast heard their reproach, O LORD, and all their imaginations against me;
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=lord
+2	ìwọ	ìwọ	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=thou
+3	ti	ti	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=have
+4	gbọ́	gbọ́	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=heard
+5	ẹ̀gàn	ẹ̀gàn	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=reproach
+6	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=them
+7	àti	àti	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=and
+8	ìmọ̀	ìmọ̀	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=knowledge
+9	búburú	búburú	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=evil
+10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=them
+11	sí	sí	X	_	_	0	_	_	Ref=LAM_3.61|Gloss=to
 12	mi	mi	X	_	_	0	_	_	Ref=LAM_3.61|SpaceAfter=No
 13	—	—	PUNCT	_	_	0	punct	_	Ref=LAM_3.61
 
 # sent_id = LAM_3.62
 # text = Ohun tí àwọn ọ̀tá mi ń sọ sí mi ní gbogbo ọjọ́.
-1	Ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.62
-2	tí	tí	X	_	_	0	_	_	Ref=LAM_3.62
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.62
-4	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=LAM_3.62
-5	mi	mi	X	_	_	0	_	_	Ref=LAM_3.62
-6	ń	ń	X	_	_	0	_	_	Ref=LAM_3.62
-7	sọ	sọ	X	_	_	0	_	_	Ref=LAM_3.62
-8	sí	sí	X	_	_	0	_	_	Ref=LAM_3.62
-9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.62
-10	ní	ní	X	_	_	0	_	_	Ref=LAM_3.62
-11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.62
-12	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LAM_3.62|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.62
+# text_en = The lips of those that rose up against me, and their device against me all the day.
+1	Ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=things
+2	tí	tí	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=that
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=the
+4	ọ̀tá	ọ̀tá	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=enemies
+5	mi	mi	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=my
+6	ń	ń	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=that
+7	sọ	sọ	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=spake
+8	sí	sí	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=to
+9	mi	mi	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=my
+10	ní	ní	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=in
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=LAM_3.62|Gloss=all
+12	ọjọ́	ọjọ́	X	_	_	0	_	_	Ref=LAM_3.62|SpaceAfter=No|Gloss=day
+13	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.62|Gloss=.
 
 # sent_id = LAM_3.63
 # text = Wò wọ́n! Ní jíjòkòó tàbí ní dídìde, wọ́n ń ṣẹlẹ́yà mi nínú orin wọn.
-1	Wò	wò	X	_	_	0	_	_	Ref=LAM_3.63
-2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.63|SpaceAfter=No
-3	!	!	PUNCT	_	_	0	punct	_	Ref=LAM_3.63
-4	Ní	ní	X	_	_	0	_	_	Ref=LAM_3.63
-5	jíjòkòó	jíjòkòó	X	_	_	0	_	_	Ref=LAM_3.63
+# text_en = Behold their sitting down, and their rising up; I am their musick.
+1	Wò	wò	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=behold
+2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.63|SpaceAfter=No|Gloss=they
+3	!	!	PUNCT	_	_	0	punct	_	Ref=LAM_3.63|Gloss=.
+4	Ní	ní	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=in
+5	jíjòkòó	jíjòkòó	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=sitting
 6	tàbí	tàbí	X	_	_	0	_	_	Ref=LAM_3.63
-7	ní	ní	X	_	_	0	_	_	Ref=LAM_3.63
-8	dídìde	dídìde	X	_	_	0	_	_	Ref=LAM_3.63|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.63
-10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.63
-11	ń	ń	X	_	_	0	_	_	Ref=LAM_3.63
-12	ṣẹlẹ́yà	ṣẹlẹ́yà	X	_	_	0	_	_	Ref=LAM_3.63
-13	mi	mi	X	_	_	0	_	_	Ref=LAM_3.63
-14	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.63
-15	orin	orin	X	_	_	0	_	_	Ref=LAM_3.63
-16	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.63|SpaceAfter=No
-17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.63
+7	ní	ní	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=in
+8	dídìde	dídìde	X	_	_	0	_	_	Ref=LAM_3.63|SpaceAfter=No|Gloss=rising
+9	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.63|Gloss=,
+10	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=they
+11	ń	ń	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=that
+12	ṣẹlẹ́yà	ṣẹlẹ́yà	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=mock
+13	mi	mi	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=my
+14	nínú	nínú	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=in
+15	orin	orin	X	_	_	0	_	_	Ref=LAM_3.63|Gloss=song
+16	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.63|SpaceAfter=No|Gloss=them
+17	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.63|Gloss=.
 
 # sent_id = LAM_3.64
 # text = Olúwa san wọ́n lẹ́san ohun tí ó tọ́ sí wọn fún ohun tí ọwọ́ wọn ti ṣe.
-1	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.64
-2	san	san	X	_	_	0	_	_	Ref=LAM_3.64
-3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.64
-4	lẹ́san	lẹ́san	X	_	_	0	_	_	Ref=LAM_3.64
-5	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.64
-6	tí	tí	X	_	_	0	_	_	Ref=LAM_3.64
-7	ó	ó	X	_	_	0	_	_	Ref=LAM_3.64
-8	tọ́	tọ́	X	_	_	0	_	_	Ref=LAM_3.64
-9	sí	sí	X	_	_	0	_	_	Ref=LAM_3.64
-10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.64
-11	fún	fún	X	_	_	0	_	_	Ref=LAM_3.64
-12	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.64
-13	tí	tí	X	_	_	0	_	_	Ref=LAM_3.64
-14	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LAM_3.64
-15	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.64
-16	ti	ti	X	_	_	0	_	_	Ref=LAM_3.64
-17	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.64|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.64
+# text_en = Render unto them a recompence, O LORD, according to the work of their hands.
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=lord
+2	san	san	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=pay
+3	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=they
+4	lẹ́san	lẹ́san	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=recompence
+5	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=things
+6	tí	tí	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=that
+7	ó	ó	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=he
+8	tọ́	tọ́	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=right
+9	sí	sí	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=to
+10	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=them
+11	fún	fún	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=unto
+12	ohun	ohun	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=things
+13	tí	tí	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=that
+14	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=hand
+15	wọn	wọn	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=them
+16	ti	ti	X	_	_	0	_	_	Ref=LAM_3.64|Gloss=have
+17	ṣe	ṣe	X	_	_	0	_	_	Ref=LAM_3.64|SpaceAfter=No|Gloss=do
+18	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.64|Gloss=.
 
 # sent_id = LAM_3.65
 # text = Fi ìbòjú bò wọ́n ní ọkàn, kí o sì fi wọ́n ré.
-1	Fi	fi	X	_	_	0	_	_	Ref=LAM_3.65
-2	ìbòjú	ìbòjú	X	_	_	0	_	_	Ref=LAM_3.65
-3	bò	bò	X	_	_	0	_	_	Ref=LAM_3.65
-4	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.65
-5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.65
-6	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.65|SpaceAfter=No
-7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.65
-8	kí	kí	X	_	_	0	_	_	Ref=LAM_3.65
-9	o	o	X	_	_	0	_	_	Ref=LAM_3.65
-10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.65
-11	fi	fi	X	_	_	0	_	_	Ref=LAM_3.65
-12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.65
+# text_en = Give them sorrow of heart, thy curse unto them.
+1	Fi	fi	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=with
+2	ìbòjú	ìbòjú	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=vail
+3	bò	bò	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=covered
+4	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=they
+5	ní	ní	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=in
+6	ọkàn	ọkàn	X	_	_	0	_	_	Ref=LAM_3.65|SpaceAfter=No|Gloss=heart
+7	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.65|Gloss=,
+8	kí	kí	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=let
+9	o	o	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=thou
+10	sì	sì	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=and
+11	fi	fi	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=with
+12	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.65|Gloss=they
 13	ré	ré	X	_	_	0	_	_	Ref=LAM_3.65|SpaceAfter=No
 14	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.65
 
 # sent_id = LAM_3.66
 # text = Ni wọ́n lára kí o sì pa wọ́n run pẹ̀lú ìbínú, lábẹ́ ọ̀run Olúwa .
-1	Ni	ni	X	_	_	0	_	_	Ref=LAM_3.66
-2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.66
-3	lára	lára	X	_	_	0	_	_	Ref=LAM_3.66
-4	kí	kí	X	_	_	0	_	_	Ref=LAM_3.66
-5	o	o	X	_	_	0	_	_	Ref=LAM_3.66
-6	sì	sì	X	_	_	0	_	_	Ref=LAM_3.66
-7	pa	pa	X	_	_	0	_	_	Ref=LAM_3.66
-8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.66
-9	run	run	X	_	_	0	_	_	Ref=LAM_3.66
-10	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.66
-11	ìbínú	ìbínú	X	_	_	0	_	_	Ref=LAM_3.66|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.66
-13	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=LAM_3.66
-14	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LAM_3.66
-15	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.66
-16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.66
+# text_en = Persecute and destroy them in anger from under the heavens of the LORD.
+1	Ni	ni	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=is
+2	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=they
+3	lára	lára	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=of
+4	kí	kí	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=let
+5	o	o	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=thou
+6	sì	sì	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=and
+7	pa	pa	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=keep
+8	wọ́n	wọ́n	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=they
+9	run	run	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=destroy
+10	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=with
+11	ìbínú	ìbínú	X	_	_	0	_	_	Ref=LAM_3.66|SpaceAfter=No|Gloss=wrath
+12	,	,	PUNCT	_	_	0	punct	_	Ref=LAM_3.66|Gloss=,
+13	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=under
+14	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=heaven
+15	Olúwa	olúwa	X	_	_	0	_	_	Ref=LAM_3.66|Gloss=lord
+16	.	.	PUNCT	_	_	0	punct	_	Ref=LAM_3.66|Gloss=.
 

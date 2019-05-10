@@ -2,68 +2,71 @@
 # newdoc id = PS_134
 # sent_id = PS_134.1
 # text = Ẹ kíyèsí i, ẹ fi ìbùkún fún Olúwa , gbogbo ẹ̀yin ìránṣẹ́ Olúwa , tí ó dúró ní ilé Olúwa ní òru.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_134.1
-2	kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=PS_134.1
-3	i	i	X	_	_	0	_	_	Ref=PS_134.1|SpaceAfter=No
-4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.1
-5	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_134.1
-6	fi	fi	X	_	_	0	_	_	Ref=PS_134.1
-7	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=PS_134.1
-8	fún	fún	X	_	_	0	_	_	Ref=PS_134.1
-9	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.1
-10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.1
-11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_134.1
-12	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_134.1
-13	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PS_134.1
-14	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.1
-15	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.1
-16	tí	tí	X	_	_	0	_	_	Ref=PS_134.1
-17	ó	ó	X	_	_	0	_	_	Ref=PS_134.1
-18	dúró	dúró	X	_	_	0	_	_	Ref=PS_134.1
-19	ní	ní	X	_	_	0	_	_	Ref=PS_134.1
-20	ilé	ilé	X	_	_	0	_	_	Ref=PS_134.1
-21	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.1
-22	ní	ní	X	_	_	0	_	_	Ref=PS_134.1
-23	òru	òru	X	_	_	0	_	_	Ref=PS_134.1|SpaceAfter=No
-24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_134.1
+# text_en = Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_134.1|Gloss=ye
+2	kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=PS_134.1|Gloss=behold
+3	i	i	X	_	_	0	_	_	Ref=PS_134.1|SpaceAfter=No|Gloss=him
+4	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.1|Gloss=,
+5	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_134.1|Gloss=ye
+6	fi	fi	X	_	_	0	_	_	Ref=PS_134.1|Gloss=with
+7	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=PS_134.1|Gloss=blessed
+8	fún	fún	X	_	_	0	_	_	Ref=PS_134.1|Gloss=unto
+9	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.1|Gloss=lord
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.1|Gloss=,
+11	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_134.1|Gloss=all
+12	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_134.1|Gloss=ye
+13	ìránṣẹ́	ìránṣẹ́	X	_	_	0	_	_	Ref=PS_134.1|Gloss=servant
+14	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.1|Gloss=lord
+15	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.1|Gloss=,
+16	tí	tí	X	_	_	0	_	_	Ref=PS_134.1|Gloss=that
+17	ó	ó	X	_	_	0	_	_	Ref=PS_134.1|Gloss=he
+18	dúró	dúró	X	_	_	0	_	_	Ref=PS_134.1|Gloss=stood
+19	ní	ní	X	_	_	0	_	_	Ref=PS_134.1|Gloss=in
+20	ilé	ilé	X	_	_	0	_	_	Ref=PS_134.1|Gloss=house
+21	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.1|Gloss=lord
+22	ní	ní	X	_	_	0	_	_	Ref=PS_134.1|Gloss=in
+23	òru	òru	X	_	_	0	_	_	Ref=PS_134.1|SpaceAfter=No|Gloss=night
+24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_134.1|Gloss=.
 
 # sent_id = PS_134.2
 # text = Ẹ gbé ọwọ́ yín sókè sí ibi mímọ́, kí ẹsì fi ìbùkún fún Olúwa .
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_134.2
-2	gbé	gbé	X	_	_	0	_	_	Ref=PS_134.2
-3	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=PS_134.2
-4	yín	yín	X	_	_	0	_	_	Ref=PS_134.2
-5	sókè	sókè	X	_	_	0	_	_	Ref=PS_134.2
-6	sí	sí	X	_	_	0	_	_	Ref=PS_134.2
-7	ibi	ibi	X	_	_	0	_	_	Ref=PS_134.2
-8	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PS_134.2|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.2
-10	kí	kí	X	_	_	0	_	_	Ref=PS_134.2
-11	ẹsì	ẹsì	X	_	_	0	_	_	Ref=PS_134.2
-12	fi	fi	X	_	_	0	_	_	Ref=PS_134.2
-13	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=PS_134.2
-14	fún	fún	X	_	_	0	_	_	Ref=PS_134.2
-15	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.2
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_134.2
+# text_en = Lift up your hands in the sanctuary, and bless the LORD.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_134.2|Gloss=ye
+2	gbé	gbé	X	_	_	0	_	_	Ref=PS_134.2|Gloss=dwell
+3	ọwọ́	ọwọ́	X	_	_	0	_	_	Ref=PS_134.2|Gloss=hand
+4	yín	yín	X	_	_	0	_	_	Ref=PS_134.2|Gloss=you
+5	sókè	sókè	X	_	_	0	_	_	Ref=PS_134.2|Gloss=up
+6	sí	sí	X	_	_	0	_	_	Ref=PS_134.2|Gloss=to
+7	ibi	ibi	X	_	_	0	_	_	Ref=PS_134.2|Gloss=place
+8	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PS_134.2|SpaceAfter=No|Gloss=holy
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.2|Gloss=,
+10	kí	kí	X	_	_	0	_	_	Ref=PS_134.2|Gloss=let
+11	ẹsì	ẹsì	X	_	_	0	_	_	Ref=PS_134.2|Gloss=bellow
+12	fi	fi	X	_	_	0	_	_	Ref=PS_134.2|Gloss=with
+13	ìbùkún	ìbùkún	X	_	_	0	_	_	Ref=PS_134.2|Gloss=blessed
+14	fún	fún	X	_	_	0	_	_	Ref=PS_134.2|Gloss=unto
+15	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.2|Gloss=lord
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_134.2|Gloss=.
 
 # sent_id = PS_134.3
 # text = Olúwa tí ó dá ọ̀run Òun ayé, kí ó bùsí i fún ọ láti Síónì wá.
-1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.3
-2	tí	tí	X	_	_	0	_	_	Ref=PS_134.3
-3	ó	ó	X	_	_	0	_	_	Ref=PS_134.3
-4	dá	dá	X	_	_	0	_	_	Ref=PS_134.3
-5	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_134.3
-6	Òun	òun	X	_	_	0	_	_	Ref=PS_134.3
-7	ayé	ayé	X	_	_	0	_	_	Ref=PS_134.3|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.3
-9	kí	kí	X	_	_	0	_	_	Ref=PS_134.3
-10	ó	ó	X	_	_	0	_	_	Ref=PS_134.3
-11	bùsí	bùsí	X	_	_	0	_	_	Ref=PS_134.3
-12	i	i	X	_	_	0	_	_	Ref=PS_134.3
-13	fún	fún	X	_	_	0	_	_	Ref=PS_134.3
-14	ọ	ọ	X	_	_	0	_	_	Ref=PS_134.3
-15	láti	láti	X	_	_	0	_	_	Ref=PS_134.3
-16	Síónì	síónì	X	_	_	0	_	_	Ref=PS_134.3
+# text_en = The LORD that made heaven and earth bless thee out of Zion.
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_134.3|Gloss=lord
+2	tí	tí	X	_	_	0	_	_	Ref=PS_134.3|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PS_134.3|Gloss=he
+4	dá	dá	X	_	_	0	_	_	Ref=PS_134.3|Gloss=made
+5	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=PS_134.3|Gloss=heaven
+6	Òun	òun	X	_	_	0	_	_	Ref=PS_134.3|Gloss=he
+7	ayé	ayé	X	_	_	0	_	_	Ref=PS_134.3|SpaceAfter=No|Gloss=earth
+8	,	,	PUNCT	_	_	0	punct	_	Ref=PS_134.3|Gloss=,
+9	kí	kí	X	_	_	0	_	_	Ref=PS_134.3|Gloss=let
+10	ó	ó	X	_	_	0	_	_	Ref=PS_134.3|Gloss=he
+11	bùsí	bùsí	X	_	_	0	_	_	Ref=PS_134.3|Gloss=seed
+12	i	i	X	_	_	0	_	_	Ref=PS_134.3|Gloss=him
+13	fún	fún	X	_	_	0	_	_	Ref=PS_134.3|Gloss=unto
+14	ọ	ọ	X	_	_	0	_	_	Ref=PS_134.3|Gloss=thee
+15	láti	láti	X	_	_	0	_	_	Ref=PS_134.3|Gloss=to
+16	Síónì	síónì	X	_	_	0	_	_	Ref=PS_134.3|Gloss=zion
 17	wá	wá	X	_	_	0	_	_	Ref=PS_134.3|SpaceAfter=No
 18	.	.	PUNCT	_	_	0	punct	_	Ref=PS_134.3
 

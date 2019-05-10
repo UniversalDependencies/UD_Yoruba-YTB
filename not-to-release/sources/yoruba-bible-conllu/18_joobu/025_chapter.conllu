@@ -2,130 +2,136 @@
 # newdoc id = JOB_25
 # sent_id = JOB_25.1
 # text = Ígbà náà ní Bílídádì, ará Ṣúà, dáhùn wí pé:
-1	Ígbà	ígbà	X	_	_	0	_	_	Ref=JOB_25.1
-2	náà	náà	X	_	_	0	_	_	Ref=JOB_25.1
-3	ní	ní	X	_	_	0	_	_	Ref=JOB_25.1
-4	Bílídádì	Bílídádì	PROPN	_	_	0	_	_	Ref=JOB_25.1|SpaceAfter=No
-5	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.1
-6	ará	ará	X	_	_	0	_	_	Ref=JOB_25.1
-7	Ṣúà	ṣúà	X	_	_	0	_	_	Ref=JOB_25.1|SpaceAfter=No
-8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.1
-9	dáhùn	dáhùn	X	_	_	0	_	_	Ref=JOB_25.1
-10	wí	wí	X	_	_	0	_	_	Ref=JOB_25.1
-11	pé	pé	X	_	_	0	_	_	Ref=JOB_25.1|SpaceAfter=No
-12	:	:	PUNCT	_	_	0	punct	_	Ref=JOB_25.1
+# text_en = Then answered Bildad the Shuhite, and said,
+1	Ígbà	ígbà	X	_	_	0	_	_	Ref=JOB_25.1|Gloss=then
+2	náà	náà	X	_	_	0	_	_	Ref=JOB_25.1|Gloss=the
+3	ní	ní	X	_	_	0	_	_	Ref=JOB_25.1|Gloss=in
+4	Bílídádì	Bílídádì	PROPN	_	_	0	_	_	Ref=JOB_25.1|SpaceAfter=No|Gloss=bildad
+5	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.1|Gloss=,
+6	ará	ará	X	_	_	0	_	_	Ref=JOB_25.1|Gloss=brethren
+7	Ṣúà	ṣúà	X	_	_	0	_	_	Ref=JOB_25.1|SpaceAfter=No|Gloss=shuhite
+8	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.1|Gloss=,
+9	dáhùn	dáhùn	X	_	_	0	_	_	Ref=JOB_25.1|Gloss=answered
+10	wí	wí	X	_	_	0	_	_	Ref=JOB_25.1|Gloss=said
+11	pé	pé	X	_	_	0	_	_	Ref=JOB_25.1|SpaceAfter=No|Gloss=saying
+12	:	:	PUNCT	_	_	0	punct	_	Ref=JOB_25.1|Gloss=:
 
 # sent_id = JOB_25.2
 # text = “Ìjọba àti ẹ̀ru ḿbẹ lọ́dọ̀ Ọlọ́run rẹ̀, òun ní iṣe ìlàjà ní ibi gígagíga ọ̀run.
-1	“	“	PUNCT	_	_	0	punct	_	Ref=JOB_25.2|SpaceAfter=No
-2	Ìjọba	ìjọba	X	_	_	0	_	_	Ref=JOB_25.2
-3	àti	àti	X	_	_	0	_	_	Ref=JOB_25.2
-4	ẹ̀ru	ẹ̀ru	X	_	_	0	_	_	Ref=JOB_25.2
-5	ḿbẹ	ḿbẹ	X	_	_	0	_	_	Ref=JOB_25.2
-6	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=JOB_25.2
-7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_25.2
-8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_25.2|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.2
-10	òun	òun	X	_	_	0	_	_	Ref=JOB_25.2
-11	ní	ní	X	_	_	0	_	_	Ref=JOB_25.2
-12	iṣe	iṣe	X	_	_	0	_	_	Ref=JOB_25.2
-13	ìlàjà	ìlàjà	X	_	_	0	_	_	Ref=JOB_25.2
-14	ní	ní	X	_	_	0	_	_	Ref=JOB_25.2
-15	ibi	ibi	X	_	_	0	_	_	Ref=JOB_25.2
-16	gígagíga	gígagíga	X	_	_	0	_	_	Ref=JOB_25.2
-17	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=JOB_25.2|SpaceAfter=No
-18	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_25.2
+# text_en = Dominion and fear are with him, he maketh peace in his high places.
+1	“	“	PUNCT	_	_	0	punct	_	Ref=JOB_25.2|SpaceAfter=No|Gloss=“
+2	Ìjọba	ìjọba	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=kingdom
+3	àti	àti	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=and
+4	ẹ̀ru	ẹ̀ru	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=null
+5	ḿbẹ	ḿbẹ	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=null
+6	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=with
+7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=god
+8	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_25.2|SpaceAfter=No|Gloss=his
+9	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.2|Gloss=,
+10	òun	òun	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=he
+11	ní	ní	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=in
+12	iṣe	iṣe	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=govern
+13	ìlàjà	ìlàjà	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=reconciliation
+14	ní	ní	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=in
+15	ibi	ibi	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=place
+16	gígagíga	gígagíga	X	_	_	0	_	_	Ref=JOB_25.2|Gloss=places
+17	ọ̀run	ọ̀run	X	_	_	0	_	_	Ref=JOB_25.2|SpaceAfter=No|Gloss=heaven
+18	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_25.2|Gloss=.
 
 # sent_id = JOB_25.3
 # text = Àwọn ọmọ-ogun rẹ̀ ha ní ìyè bí, tàbí ara tani ìmọ́lẹ̀ rẹ̀ kò tàn sí?
-1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_25.3
-2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOB_25.3|SpaceAfter=No
-3	-	-	PUNCT	_	_	0	punct	_	Ref=JOB_25.3|SpaceAfter=No
-4	ogun	ogun	X	_	_	0	_	_	Ref=JOB_25.3
-5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_25.3
-6	ha	ha	X	_	_	0	_	_	Ref=JOB_25.3
-7	ní	ní	X	_	_	0	_	_	Ref=JOB_25.3
-8	ìyè	ìyè	X	_	_	0	_	_	Ref=JOB_25.3
-9	bí	bí	X	_	_	0	_	_	Ref=JOB_25.3|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.3
-11	tàbí	tàbí	X	_	_	0	_	_	Ref=JOB_25.3
-12	ara	ara	X	_	_	0	_	_	Ref=JOB_25.3
-13	tani	tani	X	_	_	0	_	_	Ref=JOB_25.3
-14	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_25.3
-15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_25.3
-16	kò	kò	X	_	_	0	_	_	Ref=JOB_25.3
-17	tàn	tàn	X	_	_	0	_	_	Ref=JOB_25.3
-18	sí	sí	X	_	_	0	_	_	Ref=JOB_25.3|SpaceAfter=No
-19	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_25.3
+# text_en = Is there any number of his armies? and upon whom doth not his light arise?
+1	Àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=the
+2	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOB_25.3|SpaceAfter=No|Gloss=them
+3	-	-	PUNCT	_	_	0	punct	_	Ref=JOB_25.3|SpaceAfter=No|Gloss=hosts
+4	ogun	ogun	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=his
+5	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=?
+6	ha	ha	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=in
+7	ní	ní	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=life
+8	ìyè	ìyè	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=as
+9	bí	bí	X	_	_	0	_	_	Ref=JOB_25.3|SpaceAfter=No|Gloss=,
+10	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.3|Gloss=or
+11	tàbí	tàbí	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=as
+12	ara	ara	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=himself
+13	tani	tani	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=who
+14	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=light
+15	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=his
+16	kò	kò	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=not
+17	tàn	tàn	X	_	_	0	_	_	Ref=JOB_25.3|Gloss=deceived
+18	sí	sí	X	_	_	0	_	_	Ref=JOB_25.3|SpaceAfter=No|Gloss=to
+19	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_25.3|Gloss=?
 
 # sent_id = JOB_25.4
 # text = Èé ha ti ṣe tí a ó fi dá ènìyàn láre lọ́dọ̀ Ọlọ́run? Tàbí ẹni tí a bí láti inú obìnrin wá yóò ha ṣe mọ́?
-1	Èé	èé	X	_	_	0	_	_	Ref=JOB_25.4
-2	ha	ha	X	_	_	0	_	_	Ref=JOB_25.4
-3	ti	ti	X	_	_	0	_	_	Ref=JOB_25.4
-4	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_25.4
-5	tí	tí	X	_	_	0	_	_	Ref=JOB_25.4
-6	a	a	X	_	_	0	_	_	Ref=JOB_25.4
-7	ó	ó	X	_	_	0	_	_	Ref=JOB_25.4
-8	fi	fi	X	_	_	0	_	_	Ref=JOB_25.4
-9	dá	dá	X	_	_	0	_	_	Ref=JOB_25.4
-10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_25.4
-11	láre	láre	X	_	_	0	_	_	Ref=JOB_25.4
-12	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=JOB_25.4
-13	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_25.4|SpaceAfter=No
-14	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_25.4
+# text_en = How then can man be justified with God? or how can he be clean that is born of a woman?
+1	Èé	èé	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=why
+2	ha	ha	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=?
+3	ti	ti	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=have
+4	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=do
+5	tí	tí	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=that
+6	a	a	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=be
+7	ó	ó	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=he
+8	fi	fi	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=with
+9	dá	dá	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=made
+10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=people
+11	láre	láre	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=justified
+12	lọ́dọ̀	lọ́dọ̀	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=with
+13	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=JOB_25.4|SpaceAfter=No|Gloss=god
+14	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_25.4|Gloss=?
 15	Tàbí	tàbí	X	_	_	0	_	_	Ref=JOB_25.4
-16	ẹni	ẹni	X	_	_	0	_	_	Ref=JOB_25.4
-17	tí	tí	X	_	_	0	_	_	Ref=JOB_25.4
-18	a	a	X	_	_	0	_	_	Ref=JOB_25.4
-19	bí	bí	X	_	_	0	_	_	Ref=JOB_25.4
-20	láti	láti	X	_	_	0	_	_	Ref=JOB_25.4
-21	inú	inú	X	_	_	0	_	_	Ref=JOB_25.4
-22	obìnrin	obìnrin	X	_	_	0	_	_	Ref=JOB_25.4
-23	wá	wá	X	_	_	0	_	_	Ref=JOB_25.4
-24	yóò	yóò	X	_	_	0	_	_	Ref=JOB_25.4
-25	ha	ha	X	_	_	0	_	_	Ref=JOB_25.4
-26	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_25.4
-27	mọ́	mọ́	X	_	_	0	_	_	Ref=JOB_25.4|SpaceAfter=No
-28	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_25.4
+16	ẹni	ẹni	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=that
+17	tí	tí	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=that
+18	a	a	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=be
+19	bí	bí	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=as
+20	láti	láti	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=to
+21	inú	inú	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=of
+22	obìnrin	obìnrin	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=woman
+23	wá	wá	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=come
+24	yóò	yóò	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=shall
+25	ha	ha	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=?
+26	ṣe	ṣe	X	_	_	0	_	_	Ref=JOB_25.4|Gloss=do
+27	mọ́	mọ́	X	_	_	0	_	_	Ref=JOB_25.4|SpaceAfter=No|Gloss=more
+28	?	?	PUNCT	_	_	0	punct	_	Ref=JOB_25.4|Gloss=?
 
 # sent_id = JOB_25.5
 # text = Kíyèsí i, òṣùpá kò sì lè í tàn ìmọ́lẹ̀, àní àwọn ìràwọ kò mọ́lẹ̀ ní ojú rẹ̀.
-1	Kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=JOB_25.5
-2	i	i	X	_	_	0	_	_	Ref=JOB_25.5|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.5
-4	òṣùpá	òṣùpá	X	_	_	0	_	_	Ref=JOB_25.5
-5	kò	kò	X	_	_	0	_	_	Ref=JOB_25.5
-6	sì	sì	X	_	_	0	_	_	Ref=JOB_25.5
-7	lè	lè	X	_	_	0	_	_	Ref=JOB_25.5
-8	í	í	X	_	_	0	_	_	Ref=JOB_25.5
-9	tàn	tàn	X	_	_	0	_	_	Ref=JOB_25.5
-10	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_25.5|SpaceAfter=No
-11	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.5
-12	àní	àní	X	_	_	0	_	_	Ref=JOB_25.5
-13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_25.5
-14	ìràwọ	ìràwọ	X	_	_	0	_	_	Ref=JOB_25.5
-15	kò	kò	X	_	_	0	_	_	Ref=JOB_25.5
-16	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_25.5
-17	ní	ní	X	_	_	0	_	_	Ref=JOB_25.5
-18	ojú	ojú	X	_	_	0	_	_	Ref=JOB_25.5
+# text_en = Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.
+1	Kíyèsí	kíyèsí	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=behold
+2	i	i	X	_	_	0	_	_	Ref=JOB_25.5|SpaceAfter=No|Gloss=him
+3	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.5|Gloss=,
+4	òṣùpá	òṣùpá	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=moon
+5	kò	kò	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=not
+6	sì	sì	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=and
+7	lè	lè	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=may
+8	í	í	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=was
+9	tàn	tàn	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=deceived
+10	ìmọ́lẹ̀	ìmọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_25.5|SpaceAfter=No|Gloss=light
+11	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.5|Gloss=,
+12	àní	àní	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=even
+13	àwọn	àwọn	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=the
+14	ìràwọ	ìràwọ	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=null
+15	kò	kò	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=not
+16	mọ́lẹ̀	mọ́lẹ̀	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=trodden
+17	ní	ní	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=in
+18	ojú	ojú	X	_	_	0	_	_	Ref=JOB_25.5|Gloss=eyes
 19	rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=JOB_25.5|SpaceAfter=No
 20	.	.	PUNCT	_	_	0	punct	_	Ref=JOB_25.5
 
 # sent_id = JOB_25.6
 # text = Áḿbọ̀torí ènìyàn tí iṣe ìdin, àti ọmọ ènìyàn tí iṣe kòkòrò!”
-1	Áḿbọ̀torí	áḿbọ̀torí	X	_	_	0	_	_	Ref=JOB_25.6
-2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_25.6
-3	tí	tí	X	_	_	0	_	_	Ref=JOB_25.6
-4	iṣe	iṣe	X	_	_	0	_	_	Ref=JOB_25.6
-5	ìdin	ìdin	X	_	_	0	_	_	Ref=JOB_25.6|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.6
-7	àti	àti	X	_	_	0	_	_	Ref=JOB_25.6
-8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOB_25.6
-9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_25.6
-10	tí	tí	X	_	_	0	_	_	Ref=JOB_25.6
-11	iṣe	iṣe	X	_	_	0	_	_	Ref=JOB_25.6
-12	kòkòrò	kòkòrò	X	_	_	0	_	_	Ref=JOB_25.6|SpaceAfter=No
-13	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_25.6|SpaceAfter=No
-14	”	”	PUNCT	_	_	0	punct	_	Ref=JOB_25.6
+# text_en = How much less man, that is a worm? and the son of man, which is a worm?
+1	Áḿbọ̀torí	áḿbọ̀torí	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=less
+2	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=people
+3	tí	tí	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=that
+4	iṣe	iṣe	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=govern
+5	ìdin	ìdin	X	_	_	0	_	_	Ref=JOB_25.6|SpaceAfter=No|Gloss=worm
+6	,	,	PUNCT	_	_	0	punct	_	Ref=JOB_25.6|Gloss=,
+7	àti	àti	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=and
+8	ọmọ	ọmọ	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=son
+9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=people
+10	tí	tí	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=that
+11	iṣe	iṣe	X	_	_	0	_	_	Ref=JOB_25.6|Gloss=govern
+12	kòkòrò	kòkòrò	X	_	_	0	_	_	Ref=JOB_25.6|SpaceAfter=No|Gloss=moth
+13	!	!	PUNCT	_	_	0	punct	_	Ref=JOB_25.6|SpaceAfter=No|Gloss=.
+14	”	”	PUNCT	_	_	0	punct	_	Ref=JOB_25.6|Gloss=.
 

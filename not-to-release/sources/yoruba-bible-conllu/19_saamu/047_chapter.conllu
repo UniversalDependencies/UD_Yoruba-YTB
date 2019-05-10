@@ -2,166 +2,175 @@
 # newdoc id = PS_47
 # sent_id = PS_47.1
 # text = Ẹ pàtẹ́wọ́, gbogbo ẹ̀yin ènìyàn ẹ hó sí Ọlọ́run pẹ̀lú orin ayọ̀ tó rinlẹ̀
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.1
-2	pàtẹ́wọ́	pàtẹ́wọ́	X	_	_	0	_	_	Ref=PS_47.1|SpaceAfter=No
-3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.1
-4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.1
-5	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_47.1
-6	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_47.1
-7	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.1
-8	hó	hó	X	_	_	0	_	_	Ref=PS_47.1
-9	sí	sí	X	_	_	0	_	_	Ref=PS_47.1
-10	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.1
-11	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_47.1
-12	orin	orin	X	_	_	0	_	_	Ref=PS_47.1
-13	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PS_47.1
-14	tó	tó	X	_	_	0	_	_	Ref=PS_47.1
-15	rinlẹ̀	rinlẹ̀	X	_	_	0	_	_	Ref=PS_47.1
+# text_en = O clap your hands, all ye people; shout unto God with the voice of triumph.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.1|Gloss=ye
+2	pàtẹ́wọ́	pàtẹ́wọ́	X	_	_	0	_	_	Ref=PS_47.1|SpaceAfter=No|Gloss=clap
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.1|Gloss=,
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.1|Gloss=all
+5	ẹ̀yin	ẹ̀yin	X	_	_	0	_	_	Ref=PS_47.1|Gloss=ye
+6	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_47.1|Gloss=people
+7	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.1|Gloss=ye
+8	hó	hó	X	_	_	0	_	_	Ref=PS_47.1|Gloss=shout
+9	sí	sí	X	_	_	0	_	_	Ref=PS_47.1|Gloss=to
+10	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.1|Gloss=god
+11	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_47.1|Gloss=with
+12	orin	orin	X	_	_	0	_	_	Ref=PS_47.1|Gloss=song
+13	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PS_47.1|Gloss=joy
+14	tó	tó	X	_	_	0	_	_	Ref=PS_47.1|Gloss=that
+15	rinlẹ̀	rinlẹ̀	X	_	_	0	_	_	Ref=PS_47.1|Gloss=triumph
 
 # sent_id = PS_47.2
 # text = Báwo ni Olúwa ọ̀gá ògo ti ni ẹ̀rù tó ọba ńlá lórí gbogbo ayé
-1	Báwo	báwo	X	_	_	0	_	_	Ref=PS_47.2
-2	ni	ni	X	_	_	0	_	_	Ref=PS_47.2
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_47.2
-4	ọ̀gá	ọ̀gá	X	_	_	0	_	_	Ref=PS_47.2
-5	ògo	ògo	X	_	_	0	_	_	Ref=PS_47.2
-6	ti	ti	X	_	_	0	_	_	Ref=PS_47.2
-7	ni	ni	X	_	_	0	_	_	Ref=PS_47.2
-8	ẹ̀rù	ẹ̀rù	X	_	_	0	_	_	Ref=PS_47.2
-9	tó	tó	X	_	_	0	_	_	Ref=PS_47.2
-10	ọba	ọba	X	_	_	0	_	_	Ref=PS_47.2
-11	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_47.2
-12	lórí	lórí	X	_	_	0	_	_	Ref=PS_47.2
-13	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.2
-14	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.2
+# text_en = For the LORD most high is terrible; he is a great King over all the earth.
+1	Báwo	báwo	X	_	_	0	_	_	Ref=PS_47.2|Gloss=how
+2	ni	ni	X	_	_	0	_	_	Ref=PS_47.2|Gloss=is
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_47.2|Gloss=lord
+4	ọ̀gá	ọ̀gá	X	_	_	0	_	_	Ref=PS_47.2|Gloss=master
+5	ògo	ògo	X	_	_	0	_	_	Ref=PS_47.2|Gloss=glory
+6	ti	ti	X	_	_	0	_	_	Ref=PS_47.2|Gloss=have
+7	ni	ni	X	_	_	0	_	_	Ref=PS_47.2|Gloss=is
+8	ẹ̀rù	ẹ̀rù	X	_	_	0	_	_	Ref=PS_47.2|Gloss=fear
+9	tó	tó	X	_	_	0	_	_	Ref=PS_47.2|Gloss=that
+10	ọba	ọba	X	_	_	0	_	_	Ref=PS_47.2|Gloss=king
+11	ńlá	ńlá	X	_	_	0	_	_	Ref=PS_47.2|Gloss=great
+12	lórí	lórí	X	_	_	0	_	_	Ref=PS_47.2|Gloss=upon
+13	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.2|Gloss=all
+14	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.2|Gloss=earth
 
 # sent_id = PS_47.3
 # text = Ó ṣẹ́ àwọn orílẹ̀ èdè lábẹ́ wa àwọn ènìyàn lábẹ́ ẹsẹ̀ wa
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_47.3
-2	ṣẹ́	ṣẹ́	X	_	_	0	_	_	Ref=PS_47.3
+# text_en = He shall subdue the people under us, and the nations under our feet.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_47.3|Gloss=he
+2	ṣẹ́	ṣẹ́	X	_	_	0	_	_	Ref=PS_47.3|Gloss=break
 3	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_47.3
-4	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_47.3
-5	èdè	èdè	X	_	_	0	_	_	Ref=PS_47.3
-6	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=PS_47.3
-7	wa	wa	X	_	_	0	_	_	Ref=PS_47.3
+4	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_47.3|Gloss=nations
+5	èdè	èdè	X	_	_	0	_	_	Ref=PS_47.3|Gloss=nations
+6	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=PS_47.3|Gloss=under
+7	wa	wa	X	_	_	0	_	_	Ref=PS_47.3|Gloss=our
 8	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_47.3
-9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_47.3
-10	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=PS_47.3
-11	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=PS_47.3
-12	wa	wa	X	_	_	0	_	_	Ref=PS_47.3
+9	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_47.3|Gloss=people
+10	lábẹ́	lábẹ́	X	_	_	0	_	_	Ref=PS_47.3|Gloss=under
+11	ẹsẹ̀	ẹsẹ̀	X	_	_	0	_	_	Ref=PS_47.3|Gloss=feet
+12	wa	wa	X	_	_	0	_	_	Ref=PS_47.3|Gloss=our
 
 # sent_id = PS_47.4
 # text = Ó mú ilẹ̀ ìní wa fún wa ọlá Jákọ́bù, ẹni tí ó fẹ́ wa
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_47.4
-2	mú	mú	X	_	_	0	_	_	Ref=PS_47.4
-3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=PS_47.4
-4	ìní	ìní	X	_	_	0	_	_	Ref=PS_47.4
-5	wa	wa	X	_	_	0	_	_	Ref=PS_47.4
-6	fún	fún	X	_	_	0	_	_	Ref=PS_47.4
-7	wa	wa	X	_	_	0	_	_	Ref=PS_47.4
-8	ọlá	ọlá	X	_	_	0	_	_	Ref=PS_47.4
-9	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=PS_47.4|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.4
-11	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_47.4
-12	tí	tí	X	_	_	0	_	_	Ref=PS_47.4
-13	ó	ó	X	_	_	0	_	_	Ref=PS_47.4
-14	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PS_47.4
-15	wa	wa	X	_	_	0	_	_	Ref=PS_47.4
+# text_en = He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_47.4|Gloss=he
+2	mú	mú	X	_	_	0	_	_	Ref=PS_47.4|Gloss=brought
+3	ilẹ̀	ilẹ̀	X	_	_	0	_	_	Ref=PS_47.4|Gloss=land
+4	ìní	ìní	X	_	_	0	_	_	Ref=PS_47.4|Gloss=inheritance
+5	wa	wa	X	_	_	0	_	_	Ref=PS_47.4|Gloss=our
+6	fún	fún	X	_	_	0	_	_	Ref=PS_47.4|Gloss=unto
+7	wa	wa	X	_	_	0	_	_	Ref=PS_47.4|Gloss=our
+8	ọlá	ọlá	X	_	_	0	_	_	Ref=PS_47.4|Gloss=honour
+9	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=PS_47.4|SpaceAfter=No|Gloss=jacob
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.4|Gloss=,
+11	ẹni	ẹni	X	_	_	0	_	_	Ref=PS_47.4|Gloss=that
+12	tí	tí	X	_	_	0	_	_	Ref=PS_47.4|Gloss=that
+13	ó	ó	X	_	_	0	_	_	Ref=PS_47.4|Gloss=he
+14	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PS_47.4|Gloss=would
+15	wa	wa	X	_	_	0	_	_	Ref=PS_47.4|Gloss=our
 
 # sent_id = PS_47.5
 # text = Ọlọ́run tó gòkè lọ tí òun tayọ̀ Olúwa ti òun ti àriwo ipè
-1	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.5
-2	tó	tó	X	_	_	0	_	_	Ref=PS_47.5
-3	gòkè	gòkè	X	_	_	0	_	_	Ref=PS_47.5
-4	lọ	lọ	X	_	_	0	_	_	Ref=PS_47.5
-5	tí	tí	X	_	_	0	_	_	Ref=PS_47.5
-6	òun	òun	X	_	_	0	_	_	Ref=PS_47.5
-7	tayọ̀	tayọ̀	X	_	_	0	_	_	Ref=PS_47.5
-8	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_47.5
-9	ti	ti	X	_	_	0	_	_	Ref=PS_47.5
-10	òun	òun	X	_	_	0	_	_	Ref=PS_47.5
-11	ti	ti	X	_	_	0	_	_	Ref=PS_47.5
-12	àriwo	àriwo	X	_	_	0	_	_	Ref=PS_47.5
-13	ipè	ipè	X	_	_	0	_	_	Ref=PS_47.5
+# text_en = God is gone up with a shout, the LORD with the sound of a trumpet.
+1	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.5|Gloss=god
+2	tó	tó	X	_	_	0	_	_	Ref=PS_47.5|Gloss=that
+3	gòkè	gòkè	X	_	_	0	_	_	Ref=PS_47.5|Gloss=up
+4	lọ	lọ	X	_	_	0	_	_	Ref=PS_47.5|Gloss=go
+5	tí	tí	X	_	_	0	_	_	Ref=PS_47.5|Gloss=that
+6	òun	òun	X	_	_	0	_	_	Ref=PS_47.5|Gloss=he
+7	tayọ̀	tayọ̀	X	_	_	0	_	_	Ref=PS_47.5|Gloss=excellent
+8	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_47.5|Gloss=lord
+9	ti	ti	X	_	_	0	_	_	Ref=PS_47.5|Gloss=have
+10	òun	òun	X	_	_	0	_	_	Ref=PS_47.5|Gloss=he
+11	ti	ti	X	_	_	0	_	_	Ref=PS_47.5|Gloss=have
+12	àriwo	àriwo	X	_	_	0	_	_	Ref=PS_47.5|Gloss=trumpet
+13	ipè	ipè	X	_	_	0	_	_	Ref=PS_47.5|Gloss=trumpets
 
 # sent_id = PS_47.6
 # text = Ẹ kọrin ìyìn sí Ọlọ́run, Ẹ kọrin ìyìn Ẹ kọrin ìyìn sí ọba wa, Ẹ kọrin ìyìn!
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6
-2	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6
-3	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6
-4	sí	sí	X	_	_	0	_	_	Ref=PS_47.6
-5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.6|SpaceAfter=No
-6	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.6
-7	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6
-8	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6
-9	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6
-10	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6
-11	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6
-12	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6
-13	sí	sí	X	_	_	0	_	_	Ref=PS_47.6
-14	ọba	ọba	X	_	_	0	_	_	Ref=PS_47.6
-15	wa	wa	X	_	_	0	_	_	Ref=PS_47.6|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.6
-17	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6
-18	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6
-19	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6|SpaceAfter=No
-20	!	!	PUNCT	_	_	0	punct	_	Ref=PS_47.6
+# text_en = Sing praises to God, sing praises: sing praises unto our King, sing praises.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6|Gloss=ye
+2	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6|Gloss=sing
+3	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6|Gloss=praise
+4	sí	sí	X	_	_	0	_	_	Ref=PS_47.6|Gloss=to
+5	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.6|SpaceAfter=No|Gloss=god
+6	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.6|Gloss=,
+7	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6|Gloss=ye
+8	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6|Gloss=sing
+9	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6|Gloss=praise
+10	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6|Gloss=ye
+11	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6|Gloss=sing
+12	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6|Gloss=praise
+13	sí	sí	X	_	_	0	_	_	Ref=PS_47.6|Gloss=to
+14	ọba	ọba	X	_	_	0	_	_	Ref=PS_47.6|Gloss=king
+15	wa	wa	X	_	_	0	_	_	Ref=PS_47.6|SpaceAfter=No|Gloss=our
+16	,	,	PUNCT	_	_	0	punct	_	Ref=PS_47.6|Gloss=,
+17	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.6|Gloss=ye
+18	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.6|Gloss=sing
+19	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.6|SpaceAfter=No|Gloss=praise
+20	!	!	PUNCT	_	_	0	punct	_	Ref=PS_47.6|Gloss=.
 
 # sent_id = PS_47.7
 # text = Nítorí Ọlọ́run ni ọba gbogbo ayé ẹ kọrin ìyìn pẹ̀lú Sáàmù!
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_47.7
-2	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.7
-3	ni	ni	X	_	_	0	_	_	Ref=PS_47.7
-4	ọba	ọba	X	_	_	0	_	_	Ref=PS_47.7
-5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.7
-6	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.7
-7	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.7
-8	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.7
-9	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.7
-10	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_47.7
-11	Sáàmù	Sáàmù	PROPN	_	_	0	_	_	Ref=PS_47.7|SpaceAfter=No
-12	!	!	PUNCT	_	_	0	punct	_	Ref=PS_47.7
+# text_en = For God is the King of all the earth: sing ye praises with understanding.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_47.7|Gloss=for
+2	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.7|Gloss=god
+3	ni	ni	X	_	_	0	_	_	Ref=PS_47.7|Gloss=is
+4	ọba	ọba	X	_	_	0	_	_	Ref=PS_47.7|Gloss=king
+5	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.7|Gloss=all
+6	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.7|Gloss=earth
+7	ẹ	ẹ	X	_	_	0	_	_	Ref=PS_47.7|Gloss=ye
+8	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_47.7|Gloss=sing
+9	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_47.7|Gloss=praise
+10	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_47.7|Gloss=with
+11	Sáàmù	Sáàmù	PROPN	_	_	0	_	_	Ref=PS_47.7|SpaceAfter=No|Gloss=hymns
+12	!	!	PUNCT	_	_	0	punct	_	Ref=PS_47.7|Gloss=.
 
 # sent_id = PS_47.8
 # text = Ọlọ́run jọba lórí gbogbo ayé; Ọlọ́run jókòó lórí ìtẹ́ ìwà mímọ́ Rẹ̀
-1	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.8
-2	jọba	jọba	X	_	_	0	_	_	Ref=PS_47.8
-3	lórí	lórí	X	_	_	0	_	_	Ref=PS_47.8
-4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.8
-5	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.8|SpaceAfter=No
-6	;	;	PUNCT	_	_	0	punct	_	Ref=PS_47.8
-7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.8
-8	jókòó	jókòó	X	_	_	0	_	_	Ref=PS_47.8
-9	lórí	lórí	X	_	_	0	_	_	Ref=PS_47.8
-10	ìtẹ́	ìtẹ́	X	_	_	0	_	_	Ref=PS_47.8
-11	ìwà	ìwà	X	_	_	0	_	_	Ref=PS_47.8
-12	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PS_47.8
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_47.8
+# text_en = God reigneth over the heathen: God sitteth upon the throne of his holiness.
+1	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.8|Gloss=god
+2	jọba	jọba	X	_	_	0	_	_	Ref=PS_47.8|Gloss=reigned
+3	lórí	lórí	X	_	_	0	_	_	Ref=PS_47.8|Gloss=upon
+4	gbogbo	gbogbo	X	_	_	0	_	_	Ref=PS_47.8|Gloss=all
+5	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.8|SpaceAfter=No|Gloss=earth
+6	;	;	PUNCT	_	_	0	punct	_	Ref=PS_47.8|Gloss=;
+7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.8|Gloss=god
+8	jókòó	jókòó	X	_	_	0	_	_	Ref=PS_47.8|Gloss=sat
+9	lórí	lórí	X	_	_	0	_	_	Ref=PS_47.8|Gloss=upon
+10	ìtẹ́	ìtẹ́	X	_	_	0	_	_	Ref=PS_47.8|Gloss=throne
+11	ìwà	ìwà	X	_	_	0	_	_	Ref=PS_47.8|Gloss=wickedness
+12	mímọ́	mímọ́	X	_	_	0	_	_	Ref=PS_47.8|Gloss=holy
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_47.8|Gloss=his
 
 # sent_id = PS_47.9
 # text = Àwọn aládé ayé kó ara wọn jọ gẹ́gẹ́ bí ènìyàn Ọlọ́run Ábúráhámù nítorí asà ayé ti Ọlọ́run ni òun ni ó ga jùlọ.
+# text_en = The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted.
 1	Àwọn	àwọn	X	_	_	0	_	_	Ref=PS_47.9
-2	aládé	aládé	X	_	_	0	_	_	Ref=PS_47.9
-3	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.9
-4	kó	kó	X	_	_	0	_	_	Ref=PS_47.9
-5	ara	ara	X	_	_	0	_	_	Ref=PS_47.9
-6	wọn	wọn	X	_	_	0	_	_	Ref=PS_47.9
-7	jọ	jọ	X	_	_	0	_	_	Ref=PS_47.9
-8	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=PS_47.9
-9	bí	bí	X	_	_	0	_	_	Ref=PS_47.9
-10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_47.9
-11	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.9
-12	Ábúráhámù	Ábúráhámù	PROPN	_	_	0	_	_	Ref=PS_47.9
-13	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_47.9
-14	asà	asà	X	_	_	0	_	_	Ref=PS_47.9
-15	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.9
-16	ti	ti	X	_	_	0	_	_	Ref=PS_47.9
-17	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.9
-18	ni	ni	X	_	_	0	_	_	Ref=PS_47.9
-19	òun	òun	X	_	_	0	_	_	Ref=PS_47.9
-20	ni	ni	X	_	_	0	_	_	Ref=PS_47.9
-21	ó	ó	X	_	_	0	_	_	Ref=PS_47.9
-22	ga	ga	X	_	_	0	_	_	Ref=PS_47.9
-23	jùlọ	jùlọ	X	_	_	0	_	_	Ref=PS_47.9|SpaceAfter=No
-24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_47.9
+2	aládé	aládé	X	_	_	0	_	_	Ref=PS_47.9|Gloss=princes
+3	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.9|Gloss=earth
+4	kó	kó	X	_	_	0	_	_	Ref=PS_47.9|Gloss=gather
+5	ara	ara	X	_	_	0	_	_	Ref=PS_47.9|Gloss=himself
+6	wọn	wọn	X	_	_	0	_	_	Ref=PS_47.9|Gloss=them
+7	jọ	jọ	X	_	_	0	_	_	Ref=PS_47.9|Gloss=together
+8	gẹ́gẹ́	gẹ́gẹ́	X	_	_	0	_	_	Ref=PS_47.9|Gloss=according
+9	bí	bí	X	_	_	0	_	_	Ref=PS_47.9|Gloss=as
+10	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_47.9|Gloss=people
+11	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.9|Gloss=god
+12	Ábúráhámù	Ábúráhámù	PROPN	_	_	0	_	_	Ref=PS_47.9|Gloss=abraham
+13	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_47.9|Gloss=for
+14	asà	asà	X	_	_	0	_	_	Ref=PS_47.9|Gloss=shield
+15	ayé	ayé	X	_	_	0	_	_	Ref=PS_47.9|Gloss=earth
+16	ti	ti	X	_	_	0	_	_	Ref=PS_47.9|Gloss=have
+17	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_47.9|Gloss=god
+18	ni	ni	X	_	_	0	_	_	Ref=PS_47.9|Gloss=is
+19	òun	òun	X	_	_	0	_	_	Ref=PS_47.9|Gloss=he
+20	ni	ni	X	_	_	0	_	_	Ref=PS_47.9|Gloss=is
+21	ó	ó	X	_	_	0	_	_	Ref=PS_47.9|Gloss=he
+22	ga	ga	X	_	_	0	_	_	Ref=PS_47.9|Gloss=exalted
+23	jùlọ	jùlọ	X	_	_	0	_	_	Ref=PS_47.9|SpaceAfter=No|Gloss=most
+24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_47.9|Gloss=.
 

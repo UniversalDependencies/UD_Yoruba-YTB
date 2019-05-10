@@ -2,407 +2,427 @@
 # newdoc id = PS_147
 # sent_id = PS_147.1
 # text = Ẹ fi ìyìn fún Olúwa nítorí ohun rere láti máa kọrin ìyìn sí Ọlọ́run wa, ó yẹ láti kọrin ìyìn síi.
-1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_147.1
-2	fi	fi	X	_	_	0	_	_	Ref=PS_147.1
-3	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.1
-4	fún	fún	X	_	_	0	_	_	Ref=PS_147.1
-5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.1
-6	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_147.1
-7	ohun	ohun	X	_	_	0	_	_	Ref=PS_147.1
-8	rere	rere	X	_	_	0	_	_	Ref=PS_147.1
-9	láti	láti	X	_	_	0	_	_	Ref=PS_147.1
-10	máa	máa	X	_	_	0	_	_	Ref=PS_147.1
-11	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_147.1
-12	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.1
-13	sí	sí	X	_	_	0	_	_	Ref=PS_147.1
-14	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_147.1
-15	wa	wa	X	_	_	0	_	_	Ref=PS_147.1|SpaceAfter=No
-16	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.1
-17	ó	ó	X	_	_	0	_	_	Ref=PS_147.1
-18	yẹ	yẹ	X	_	_	0	_	_	Ref=PS_147.1
-19	láti	láti	X	_	_	0	_	_	Ref=PS_147.1
-20	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_147.1
-21	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.1
-22	síi	síi	X	_	_	0	_	_	Ref=PS_147.1|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.1
+# text_en = Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.
+1	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_147.1|Gloss=ye
+2	fi	fi	X	_	_	0	_	_	Ref=PS_147.1|Gloss=with
+3	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.1|Gloss=praise
+4	fún	fún	X	_	_	0	_	_	Ref=PS_147.1|Gloss=unto
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.1|Gloss=lord
+6	nítorí	nítorí	X	_	_	0	_	_	Ref=PS_147.1|Gloss=for
+7	ohun	ohun	X	_	_	0	_	_	Ref=PS_147.1|Gloss=things
+8	rere	rere	X	_	_	0	_	_	Ref=PS_147.1|Gloss=good
+9	láti	láti	X	_	_	0	_	_	Ref=PS_147.1|Gloss=to
+10	máa	máa	X	_	_	0	_	_	Ref=PS_147.1|Gloss=be
+11	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_147.1|Gloss=sing
+12	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.1|Gloss=praise
+13	sí	sí	X	_	_	0	_	_	Ref=PS_147.1|Gloss=to
+14	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_147.1|Gloss=god
+15	wa	wa	X	_	_	0	_	_	Ref=PS_147.1|SpaceAfter=No|Gloss=our
+16	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.1|Gloss=,
+17	ó	ó	X	_	_	0	_	_	Ref=PS_147.1|Gloss=he
+18	yẹ	yẹ	X	_	_	0	_	_	Ref=PS_147.1|Gloss=worthy
+19	láti	láti	X	_	_	0	_	_	Ref=PS_147.1|Gloss=to
+20	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_147.1|Gloss=sing
+21	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.1|Gloss=praise
+22	síi	síi	X	_	_	0	_	_	Ref=PS_147.1|SpaceAfter=No|Gloss=him
+23	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.1|Gloss=.
 
 # sent_id = PS_147.2
 # text = Olúwa kọ́ Jérúsálẹ́mù; O ko àwọn Ísírẹ́lì tí a lé sọnù jọ.
-1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.2
-2	kọ́	kọ́	X	_	_	0	_	_	Ref=PS_147.2
-3	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_147.2|SpaceAfter=No
-4	;	;	PUNCT	_	_	0	punct	_	Ref=PS_147.2
-5	O	o	X	_	_	0	_	_	Ref=PS_147.2
-6	ko	ko	X	_	_	0	_	_	Ref=PS_147.2
-7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.2
-8	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_147.2
-9	tí	tí	X	_	_	0	_	_	Ref=PS_147.2
-10	a	a	X	_	_	0	_	_	Ref=PS_147.2
-11	lé	lé	X	_	_	0	_	_	Ref=PS_147.2
-12	sọnù	sọnù	X	_	_	0	_	_	Ref=PS_147.2
-13	jọ	jọ	X	_	_	0	_	_	Ref=PS_147.2|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.2
+# text_en = The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.2|Gloss=lord
+2	kọ́	kọ́	X	_	_	0	_	_	Ref=PS_147.2|Gloss=build
+3	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_147.2|SpaceAfter=No|Gloss=jerusalem
+4	;	;	PUNCT	_	_	0	punct	_	Ref=PS_147.2|Gloss=;
+5	O	o	X	_	_	0	_	_	Ref=PS_147.2|Gloss=thou
+6	ko	ko	X	_	_	0	_	_	Ref=PS_147.2|Gloss=not
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.2|Gloss=the
+8	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_147.2|Gloss=israel
+9	tí	tí	X	_	_	0	_	_	Ref=PS_147.2|Gloss=that
+10	a	a	X	_	_	0	_	_	Ref=PS_147.2|Gloss=be
+11	lé	lé	X	_	_	0	_	_	Ref=PS_147.2|Gloss=delivered
+12	sọnù	sọnù	X	_	_	0	_	_	Ref=PS_147.2|Gloss=lost
+13	jọ	jọ	X	_	_	0	_	_	Ref=PS_147.2|SpaceAfter=No|Gloss=together
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.2|Gloss=.
 
 # sent_id = PS_147.3
 # text = Ó wo àwọn tí ọkàn wọ́n bajẹ́ sàn ó sì di ọgbẹ́ wọn.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.3
-2	wo	wo	X	_	_	0	_	_	Ref=PS_147.3
-3	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.3
-4	tí	tí	X	_	_	0	_	_	Ref=PS_147.3
-5	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PS_147.3
-6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_147.3
-7	bajẹ́	bajẹ́	X	_	_	0	_	_	Ref=PS_147.3
-8	sàn	sàn	X	_	_	0	_	_	Ref=PS_147.3
-9	ó	ó	X	_	_	0	_	_	Ref=PS_147.3
-10	sì	sì	X	_	_	0	_	_	Ref=PS_147.3
-11	di	di	X	_	_	0	_	_	Ref=PS_147.3
-12	ọgbẹ́	ọgbẹ́	X	_	_	0	_	_	Ref=PS_147.3
-13	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.3|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.3
+# text_en = He healeth the broken in heart, and bindeth up their wounds.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.3|Gloss=he
+2	wo	wo	X	_	_	0	_	_	Ref=PS_147.3|Gloss=what
+3	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.3|Gloss=the
+4	tí	tí	X	_	_	0	_	_	Ref=PS_147.3|Gloss=that
+5	ọkàn	ọkàn	X	_	_	0	_	_	Ref=PS_147.3|Gloss=heart
+6	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_147.3|Gloss=they
+7	bajẹ́	bajẹ́	X	_	_	0	_	_	Ref=PS_147.3|Gloss=null
+8	sàn	sàn	X	_	_	0	_	_	Ref=PS_147.3|Gloss=better
+9	ó	ó	X	_	_	0	_	_	Ref=PS_147.3|Gloss=he
+10	sì	sì	X	_	_	0	_	_	Ref=PS_147.3|Gloss=and
+11	di	di	X	_	_	0	_	_	Ref=PS_147.3|Gloss=be
+12	ọgbẹ́	ọgbẹ́	X	_	_	0	_	_	Ref=PS_147.3|Gloss=wounds
+13	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.3|SpaceAfter=No|Gloss=them
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.3|Gloss=.
 
 # sent_id = PS_147.4
 # text = Ó ka iye àwọn ìràwọ̀ ó sì pe ọ̀kọ̀ọkan wọn ní orúkọ
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.4
-2	ka	ka	X	_	_	0	_	_	Ref=PS_147.4
-3	iye	iye	X	_	_	0	_	_	Ref=PS_147.4
+# text_en = He telleth the number of the stars; he calleth them all by their names.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.4|Gloss=he
+2	ka	ka	X	_	_	0	_	_	Ref=PS_147.4|Gloss=read
+3	iye	iye	X	_	_	0	_	_	Ref=PS_147.4|Gloss=number
 4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.4
-5	ìràwọ̀	ìràwọ̀	X	_	_	0	_	_	Ref=PS_147.4
-6	ó	ó	X	_	_	0	_	_	Ref=PS_147.4
-7	sì	sì	X	_	_	0	_	_	Ref=PS_147.4
-8	pe	pe	X	_	_	0	_	_	Ref=PS_147.4
+5	ìràwọ̀	ìràwọ̀	X	_	_	0	_	_	Ref=PS_147.4|Gloss=stars
+6	ó	ó	X	_	_	0	_	_	Ref=PS_147.4|Gloss=he
+7	sì	sì	X	_	_	0	_	_	Ref=PS_147.4|Gloss=and
+8	pe	pe	X	_	_	0	_	_	Ref=PS_147.4|Gloss=called
 9	ọ̀kọ̀ọkan	ọ̀kọ̀ọkan	X	_	_	0	_	_	Ref=PS_147.4
-10	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.4
-11	ní	ní	X	_	_	0	_	_	Ref=PS_147.4
-12	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PS_147.4
+10	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.4|Gloss=them
+11	ní	ní	X	_	_	0	_	_	Ref=PS_147.4|Gloss=in
+12	orúkọ	orúkọ	X	_	_	0	_	_	Ref=PS_147.4|Gloss=name
 
 # sent_id = PS_147.5
 # text = Títóbi ní Olúwa wa ó sì pọ̀ ní agbára òye Rẹ̀ kò sì ní òpin.
-1	Títóbi	títóbi	X	_	_	0	_	_	Ref=PS_147.5
-2	ní	ní	X	_	_	0	_	_	Ref=PS_147.5
-3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.5
-4	wa	wa	X	_	_	0	_	_	Ref=PS_147.5
-5	ó	ó	X	_	_	0	_	_	Ref=PS_147.5
-6	sì	sì	X	_	_	0	_	_	Ref=PS_147.5
-7	pọ̀	pọ̀	X	_	_	0	_	_	Ref=PS_147.5
-8	ní	ní	X	_	_	0	_	_	Ref=PS_147.5
-9	agbára	agbára	X	_	_	0	_	_	Ref=PS_147.5
-10	òye	òye	X	_	_	0	_	_	Ref=PS_147.5
-11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.5
-12	kò	kò	X	_	_	0	_	_	Ref=PS_147.5
-13	sì	sì	X	_	_	0	_	_	Ref=PS_147.5
-14	ní	ní	X	_	_	0	_	_	Ref=PS_147.5
-15	òpin	òpin	X	_	_	0	_	_	Ref=PS_147.5|SpaceAfter=No
-16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.5
+# text_en = Great is our Lord, and of great power: his understanding is infinite.
+1	Títóbi	títóbi	X	_	_	0	_	_	Ref=PS_147.5|Gloss=great
+2	ní	ní	X	_	_	0	_	_	Ref=PS_147.5|Gloss=in
+3	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.5|Gloss=lord
+4	wa	wa	X	_	_	0	_	_	Ref=PS_147.5|Gloss=our
+5	ó	ó	X	_	_	0	_	_	Ref=PS_147.5|Gloss=he
+6	sì	sì	X	_	_	0	_	_	Ref=PS_147.5|Gloss=and
+7	pọ̀	pọ̀	X	_	_	0	_	_	Ref=PS_147.5|Gloss=together
+8	ní	ní	X	_	_	0	_	_	Ref=PS_147.5|Gloss=in
+9	agbára	agbára	X	_	_	0	_	_	Ref=PS_147.5|Gloss=power
+10	òye	òye	X	_	_	0	_	_	Ref=PS_147.5|Gloss=understanding
+11	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.5|Gloss=his
+12	kò	kò	X	_	_	0	_	_	Ref=PS_147.5|Gloss=not
+13	sì	sì	X	_	_	0	_	_	Ref=PS_147.5|Gloss=and
+14	ní	ní	X	_	_	0	_	_	Ref=PS_147.5|Gloss=in
+15	òpin	òpin	X	_	_	0	_	_	Ref=PS_147.5|SpaceAfter=No|Gloss=end
+16	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.5|Gloss=.
 
 # sent_id = PS_147.6
 # text = Olúwa wa pẹ̀lú àwọn onírẹ̀lẹ̀ bẹ́ẹ̀ ni ó Rẹ̀ àwọn ènìyàn búburú sílẹ̀.
-1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.6
-2	wa	wa	X	_	_	0	_	_	Ref=PS_147.6
-3	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_147.6
-4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.6
-5	onírẹ̀lẹ̀	onírẹ̀lẹ̀	X	_	_	0	_	_	Ref=PS_147.6
-6	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=PS_147.6
-7	ni	ni	X	_	_	0	_	_	Ref=PS_147.6
-8	ó	ó	X	_	_	0	_	_	Ref=PS_147.6
-9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.6
-10	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.6
-11	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_147.6
-12	búburú	búburú	X	_	_	0	_	_	Ref=PS_147.6
-13	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=PS_147.6|SpaceAfter=No
-14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.6
+# text_en = The LORD lifteth up the meek: he casteth the wicked down to the ground.
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.6|Gloss=lord
+2	wa	wa	X	_	_	0	_	_	Ref=PS_147.6|Gloss=our
+3	pẹ̀lú	pẹ̀lú	X	_	_	0	_	_	Ref=PS_147.6|Gloss=with
+4	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.6|Gloss=the
+5	onírẹ̀lẹ̀	onírẹ̀lẹ̀	X	_	_	0	_	_	Ref=PS_147.6|Gloss=humble
+6	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=PS_147.6|Gloss=so
+7	ni	ni	X	_	_	0	_	_	Ref=PS_147.6|Gloss=is
+8	ó	ó	X	_	_	0	_	_	Ref=PS_147.6|Gloss=he
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.6|Gloss=his
+10	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.6|Gloss=the
+11	ènìyàn	ènìyàn	X	_	_	0	_	_	Ref=PS_147.6|Gloss=people
+12	búburú	búburú	X	_	_	0	_	_	Ref=PS_147.6|Gloss=evil
+13	sílẹ̀	sílẹ̀	X	_	_	0	_	_	Ref=PS_147.6|SpaceAfter=No|Gloss=left
+14	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.6|Gloss=.
 
 # sent_id = PS_147.7
 # text = Fi ọpẹ́ kọrin sí Olúwa fi ohun èlò orin olókùn yin Ọlọ́run.
-1	Fi	fi	X	_	_	0	_	_	Ref=PS_147.7
-2	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_147.7
-3	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_147.7
-4	sí	sí	X	_	_	0	_	_	Ref=PS_147.7
-5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.7
-6	fi	fi	X	_	_	0	_	_	Ref=PS_147.7
-7	ohun	ohun	X	_	_	0	_	_	Ref=PS_147.7
-8	èlò	èlò	X	_	_	0	_	_	Ref=PS_147.7
-9	orin	orin	X	_	_	0	_	_	Ref=PS_147.7
-10	olókùn	olókùn	X	_	_	0	_	_	Ref=PS_147.7
-11	yin	yin	X	_	_	0	_	_	Ref=PS_147.7
-12	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_147.7|SpaceAfter=No
-13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.7
+# text_en = Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:
+1	Fi	fi	X	_	_	0	_	_	Ref=PS_147.7|Gloss=with
+2	ọpẹ́	ọpẹ́	X	_	_	0	_	_	Ref=PS_147.7|Gloss=thanks
+3	kọrin	kọrin	X	_	_	0	_	_	Ref=PS_147.7|Gloss=sing
+4	sí	sí	X	_	_	0	_	_	Ref=PS_147.7|Gloss=to
+5	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.7|Gloss=lord
+6	fi	fi	X	_	_	0	_	_	Ref=PS_147.7|Gloss=with
+7	ohun	ohun	X	_	_	0	_	_	Ref=PS_147.7|Gloss=things
+8	èlò	èlò	X	_	_	0	_	_	Ref=PS_147.7|Gloss=vessels
+9	orin	orin	X	_	_	0	_	_	Ref=PS_147.7|Gloss=song
+10	olókùn	olókùn	X	_	_	0	_	_	Ref=PS_147.7|Gloss=twined
+11	yin	yin	X	_	_	0	_	_	Ref=PS_147.7|Gloss=you
+12	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_147.7|SpaceAfter=No|Gloss=god
+13	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.7|Gloss=.
 
 # sent_id = PS_147.8
 # text = Ó fi ìkuukù bo àwọ sánmọ̀ ó rọ òjò sí orílẹ̀ ayé ó mú kí koríko hù lórí àwọn òkè
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.8
-2	fi	fi	X	_	_	0	_	_	Ref=PS_147.8
-3	ìkuukù	ìkuukù	X	_	_	0	_	_	Ref=PS_147.8
-4	bo	bo	X	_	_	0	_	_	Ref=PS_147.8
-5	àwọ	àwọ	X	_	_	0	_	_	Ref=PS_147.8
-6	sánmọ̀	sánmọ̀	X	_	_	0	_	_	Ref=PS_147.8
-7	ó	ó	X	_	_	0	_	_	Ref=PS_147.8
-8	rọ	rọ	X	_	_	0	_	_	Ref=PS_147.8
-9	òjò	òjò	X	_	_	0	_	_	Ref=PS_147.8
-10	sí	sí	X	_	_	0	_	_	Ref=PS_147.8
-11	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_147.8
-12	ayé	ayé	X	_	_	0	_	_	Ref=PS_147.8
-13	ó	ó	X	_	_	0	_	_	Ref=PS_147.8
-14	mú	mú	X	_	_	0	_	_	Ref=PS_147.8
-15	kí	kí	X	_	_	0	_	_	Ref=PS_147.8
-16	koríko	koríko	X	_	_	0	_	_	Ref=PS_147.8
-17	hù	hù	X	_	_	0	_	_	Ref=PS_147.8
-18	lórí	lórí	X	_	_	0	_	_	Ref=PS_147.8
+# text_en = Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.8|Gloss=he
+2	fi	fi	X	_	_	0	_	_	Ref=PS_147.8|Gloss=with
+3	ìkuukù	ìkuukù	X	_	_	0	_	_	Ref=PS_147.8|Gloss=null
+4	bo	bo	X	_	_	0	_	_	Ref=PS_147.8|Gloss=covered
+5	àwọ	àwọ	X	_	_	0	_	_	Ref=PS_147.8|Gloss=the
+6	sánmọ̀	sánmọ̀	X	_	_	0	_	_	Ref=PS_147.8|Gloss=cloud
+7	ó	ó	X	_	_	0	_	_	Ref=PS_147.8|Gloss=he
+8	rọ	rọ	X	_	_	0	_	_	Ref=PS_147.8|Gloss=withered
+9	òjò	òjò	X	_	_	0	_	_	Ref=PS_147.8|Gloss=rain
+10	sí	sí	X	_	_	0	_	_	Ref=PS_147.8|Gloss=to
+11	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_147.8|Gloss=nations
+12	ayé	ayé	X	_	_	0	_	_	Ref=PS_147.8|Gloss=earth
+13	ó	ó	X	_	_	0	_	_	Ref=PS_147.8|Gloss=he
+14	mú	mú	X	_	_	0	_	_	Ref=PS_147.8|Gloss=brought
+15	kí	kí	X	_	_	0	_	_	Ref=PS_147.8|Gloss=let
+16	koríko	koríko	X	_	_	0	_	_	Ref=PS_147.8|Gloss=grass
+17	hù	hù	X	_	_	0	_	_	Ref=PS_147.8|Gloss=grow
+18	lórí	lórí	X	_	_	0	_	_	Ref=PS_147.8|Gloss=upon
 19	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.8
-20	òkè	òkè	X	_	_	0	_	_	Ref=PS_147.8
+20	òkè	òkè	X	_	_	0	_	_	Ref=PS_147.8|Gloss=mount
 
 # sent_id = PS_147.9
 # text = Ó pèṣè oúnjẹ fún àwọn ẹranko àti fún awọn ọmọ àdàbà ní ìgbà tí wọ́n bá ń ké.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.9
-2	pèṣè	pèṣè	X	_	_	0	_	_	Ref=PS_147.9
-3	oúnjẹ	oúnjẹ	X	_	_	0	_	_	Ref=PS_147.9
-4	fún	fún	X	_	_	0	_	_	Ref=PS_147.9
+# text_en = He giveth to the beast his food, and to the young ravens which cry.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.9|Gloss=he
+2	pèṣè	pèṣè	X	_	_	0	_	_	Ref=PS_147.9|Gloss=prepared
+3	oúnjẹ	oúnjẹ	X	_	_	0	_	_	Ref=PS_147.9|Gloss=bread
+4	fún	fún	X	_	_	0	_	_	Ref=PS_147.9|Gloss=unto
 5	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.9
-6	ẹranko	ẹranko	X	_	_	0	_	_	Ref=PS_147.9
-7	àti	àti	X	_	_	0	_	_	Ref=PS_147.9
-8	fún	fún	X	_	_	0	_	_	Ref=PS_147.9
-9	awọn	awọn	X	_	_	0	_	_	Ref=PS_147.9
-10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=PS_147.9
+6	ẹranko	ẹranko	X	_	_	0	_	_	Ref=PS_147.9|Gloss=beast
+7	àti	àti	X	_	_	0	_	_	Ref=PS_147.9|Gloss=and
+8	fún	fún	X	_	_	0	_	_	Ref=PS_147.9|Gloss=unto
+9	awọn	awọn	X	_	_	0	_	_	Ref=PS_147.9|Gloss=the
+10	ọmọ	ọmọ	X	_	_	0	_	_	Ref=PS_147.9|Gloss=son
 11	àdàbà	àdàbà	X	_	_	0	_	_	Ref=PS_147.9
-12	ní	ní	X	_	_	0	_	_	Ref=PS_147.9
-13	ìgbà	ìgbà	X	_	_	0	_	_	Ref=PS_147.9
-14	tí	tí	X	_	_	0	_	_	Ref=PS_147.9
-15	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_147.9
-16	bá	bá	X	_	_	0	_	_	Ref=PS_147.9
-17	ń	ń	X	_	_	0	_	_	Ref=PS_147.9
-18	ké	ké	X	_	_	0	_	_	Ref=PS_147.9|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.9
+12	ní	ní	X	_	_	0	_	_	Ref=PS_147.9|Gloss=in
+13	ìgbà	ìgbà	X	_	_	0	_	_	Ref=PS_147.9|Gloss=time
+14	tí	tí	X	_	_	0	_	_	Ref=PS_147.9|Gloss=that
+15	wọ́n	wọ́n	X	_	_	0	_	_	Ref=PS_147.9|Gloss=they
+16	bá	bá	X	_	_	0	_	_	Ref=PS_147.9|Gloss=if
+17	ń	ń	X	_	_	0	_	_	Ref=PS_147.9|Gloss=that
+18	ké	ké	X	_	_	0	_	_	Ref=PS_147.9|SpaceAfter=No|Gloss=cut
+19	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.9|Gloss=.
 
 # sent_id = PS_147.10
 # text = Òun kò ní inú dídùn nínú agbára ẹsin bẹ́ẹ̀ ni Òun kò ní ayọ̀ sí ẹ̀ṣẹ̀ ọkùnrin
-1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.10
-2	kò	kò	X	_	_	0	_	_	Ref=PS_147.10
-3	ní	ní	X	_	_	0	_	_	Ref=PS_147.10
-4	inú	inú	X	_	_	0	_	_	Ref=PS_147.10
-5	dídùn	dídùn	X	_	_	0	_	_	Ref=PS_147.10
-6	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.10
-7	agbára	agbára	X	_	_	0	_	_	Ref=PS_147.10
-8	ẹsin	ẹsin	X	_	_	0	_	_	Ref=PS_147.10
-9	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=PS_147.10
-10	ni	ni	X	_	_	0	_	_	Ref=PS_147.10
-11	Òun	òun	X	_	_	0	_	_	Ref=PS_147.10
-12	kò	kò	X	_	_	0	_	_	Ref=PS_147.10
-13	ní	ní	X	_	_	0	_	_	Ref=PS_147.10
-14	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PS_147.10
-15	sí	sí	X	_	_	0	_	_	Ref=PS_147.10
-16	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PS_147.10
-17	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=PS_147.10
+# text_en = He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.
+1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.10|Gloss=he
+2	kò	kò	X	_	_	0	_	_	Ref=PS_147.10|Gloss=not
+3	ní	ní	X	_	_	0	_	_	Ref=PS_147.10|Gloss=in
+4	inú	inú	X	_	_	0	_	_	Ref=PS_147.10|Gloss=of
+5	dídùn	dídùn	X	_	_	0	_	_	Ref=PS_147.10|Gloss=sweet
+6	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.10|Gloss=in
+7	agbára	agbára	X	_	_	0	_	_	Ref=PS_147.10|Gloss=power
+8	ẹsin	ẹsin	X	_	_	0	_	_	Ref=PS_147.10|Gloss=horses
+9	bẹ́ẹ̀	bẹ́ẹ̀	X	_	_	0	_	_	Ref=PS_147.10|Gloss=so
+10	ni	ni	X	_	_	0	_	_	Ref=PS_147.10|Gloss=is
+11	Òun	òun	X	_	_	0	_	_	Ref=PS_147.10|Gloss=he
+12	kò	kò	X	_	_	0	_	_	Ref=PS_147.10|Gloss=not
+13	ní	ní	X	_	_	0	_	_	Ref=PS_147.10|Gloss=in
+14	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PS_147.10|Gloss=joy
+15	sí	sí	X	_	_	0	_	_	Ref=PS_147.10|Gloss=to
+16	ẹ̀ṣẹ̀	ẹ̀ṣẹ̀	X	_	_	0	_	_	Ref=PS_147.10|Gloss=sin
+17	ọkùnrin	ọkùnrin	X	_	_	0	_	_	Ref=PS_147.10|Gloss=man
 
 # sent_id = PS_147.11
 # text = Olúwa ní ayọ̀ nínú àwọn tí ó bẹ̀rù Rẹ̀, sí àwọn tí ó ní ìrètí nínú àánú Rẹ̀.
-1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.11
-2	ní	ní	X	_	_	0	_	_	Ref=PS_147.11
-3	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PS_147.11
-4	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.11
-5	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.11
-6	tí	tí	X	_	_	0	_	_	Ref=PS_147.11
-7	ó	ó	X	_	_	0	_	_	Ref=PS_147.11
-8	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PS_147.11
-9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.11|SpaceAfter=No
-10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.11
-11	sí	sí	X	_	_	0	_	_	Ref=PS_147.11
-12	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.11
-13	tí	tí	X	_	_	0	_	_	Ref=PS_147.11
-14	ó	ó	X	_	_	0	_	_	Ref=PS_147.11
-15	ní	ní	X	_	_	0	_	_	Ref=PS_147.11
-16	ìrètí	ìrètí	X	_	_	0	_	_	Ref=PS_147.11
-17	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.11
-18	àánú	àánú	X	_	_	0	_	_	Ref=PS_147.11
-19	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.11|SpaceAfter=No
+# text_en = The LORD taketh pleasure in them that fear him, in those that hope in his mercy.
+1	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.11|Gloss=lord
+2	ní	ní	X	_	_	0	_	_	Ref=PS_147.11|Gloss=in
+3	ayọ̀	ayọ̀	X	_	_	0	_	_	Ref=PS_147.11|Gloss=joy
+4	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.11|Gloss=in
+5	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.11|Gloss=the
+6	tí	tí	X	_	_	0	_	_	Ref=PS_147.11|Gloss=that
+7	ó	ó	X	_	_	0	_	_	Ref=PS_147.11|Gloss=he
+8	bẹ̀rù	bẹ̀rù	X	_	_	0	_	_	Ref=PS_147.11|Gloss=fear
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.11|SpaceAfter=No|Gloss=his
+10	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.11|Gloss=,
+11	sí	sí	X	_	_	0	_	_	Ref=PS_147.11|Gloss=to
+12	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.11|Gloss=the
+13	tí	tí	X	_	_	0	_	_	Ref=PS_147.11|Gloss=that
+14	ó	ó	X	_	_	0	_	_	Ref=PS_147.11|Gloss=he
+15	ní	ní	X	_	_	0	_	_	Ref=PS_147.11|Gloss=in
+16	ìrètí	ìrètí	X	_	_	0	_	_	Ref=PS_147.11|Gloss=hope
+17	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.11|Gloss=in
+18	àánú	àánú	X	_	_	0	_	_	Ref=PS_147.11|Gloss=mercy
+19	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.11|SpaceAfter=No|Gloss=his
 20	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.11
 
 # sent_id = PS_147.12
 # text = Yin Olúwa , ìwọ Jérúsálẹ́mù yin Ọlọ́run Rẹ̀, ìwọ Síónì.
-1	Yin	yin	X	_	_	0	_	_	Ref=PS_147.12
-2	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.12
-3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.12
-4	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_147.12
-5	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_147.12
-6	yin	yin	X	_	_	0	_	_	Ref=PS_147.12
-7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_147.12
-8	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.12|SpaceAfter=No
-9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.12
-10	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_147.12
-11	Síónì	síónì	X	_	_	0	_	_	Ref=PS_147.12|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.12
+# text_en = Praise the LORD, O Jerusalem; praise thy God, O Zion.
+1	Yin	yin	X	_	_	0	_	_	Ref=PS_147.12|Gloss=you
+2	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.12|Gloss=lord
+3	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.12|Gloss=,
+4	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_147.12|Gloss=thou
+5	Jérúsálẹ́mù	Jérúsálẹ́mù	PROPN	_	_	0	_	_	Ref=PS_147.12|Gloss=jerusalem
+6	yin	yin	X	_	_	0	_	_	Ref=PS_147.12|Gloss=you
+7	Ọlọ́run	ọlọ́run	X	_	_	0	_	_	Ref=PS_147.12|Gloss=god
+8	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.12|SpaceAfter=No|Gloss=his
+9	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.12|Gloss=,
+10	ìwọ	ìwọ	X	_	_	0	_	_	Ref=PS_147.12|Gloss=thou
+11	Síónì	síónì	X	_	_	0	_	_	Ref=PS_147.12|SpaceAfter=No|Gloss=zion
+12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.12|Gloss=.
 
 # sent_id = PS_147.13
 # text = Nítorí tí ó ti mú ọ̀pá ìdábùú ìbodè Rẹ̀ lágbára; Òun sì ti bùkún fún àwọn ọmọ Rẹ̀ nínú Rẹ
-1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_147.13
-2	tí	tí	X	_	_	0	_	_	Ref=PS_147.13
-3	ó	ó	X	_	_	0	_	_	Ref=PS_147.13
-4	ti	ti	X	_	_	0	_	_	Ref=PS_147.13
-5	mú	mú	X	_	_	0	_	_	Ref=PS_147.13
-6	ọ̀pá	ọ̀pá	X	_	_	0	_	_	Ref=PS_147.13
-7	ìdábùú	ìdábùú	X	_	_	0	_	_	Ref=PS_147.13
-8	ìbodè	ìbodè	X	_	_	0	_	_	Ref=PS_147.13
-9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.13
-10	lágbára	lágbára	X	_	_	0	_	_	Ref=PS_147.13|SpaceAfter=No
-11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_147.13
-12	Òun	òun	X	_	_	0	_	_	Ref=PS_147.13
-13	sì	sì	X	_	_	0	_	_	Ref=PS_147.13
-14	ti	ti	X	_	_	0	_	_	Ref=PS_147.13
-15	bùkún	bùkún	X	_	_	0	_	_	Ref=PS_147.13
-16	fún	fún	X	_	_	0	_	_	Ref=PS_147.13
+# text_en = For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.
+1	Nítorí	nítorí	X	_	_	0	_	_	Ref=PS_147.13|Gloss=for
+2	tí	tí	X	_	_	0	_	_	Ref=PS_147.13|Gloss=that
+3	ó	ó	X	_	_	0	_	_	Ref=PS_147.13|Gloss=he
+4	ti	ti	X	_	_	0	_	_	Ref=PS_147.13|Gloss=have
+5	mú	mú	X	_	_	0	_	_	Ref=PS_147.13|Gloss=brought
+6	ọ̀pá	ọ̀pá	X	_	_	0	_	_	Ref=PS_147.13|Gloss=rod
+7	ìdábùú	ìdábùú	X	_	_	0	_	_	Ref=PS_147.13|Gloss=bars
+8	ìbodè	ìbodè	X	_	_	0	_	_	Ref=PS_147.13|Gloss=gate
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.13|Gloss=his
+10	lágbára	lágbára	X	_	_	0	_	_	Ref=PS_147.13|SpaceAfter=No|Gloss=strong
+11	;	;	PUNCT	_	_	0	punct	_	Ref=PS_147.13|Gloss=;
+12	Òun	òun	X	_	_	0	_	_	Ref=PS_147.13|Gloss=he
+13	sì	sì	X	_	_	0	_	_	Ref=PS_147.13|Gloss=and
+14	ti	ti	X	_	_	0	_	_	Ref=PS_147.13|Gloss=have
+15	bùkún	bùkún	X	_	_	0	_	_	Ref=PS_147.13|Gloss=blessed
+16	fún	fún	X	_	_	0	_	_	Ref=PS_147.13|Gloss=unto
 17	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.13
-18	ọmọ	ọmọ	X	_	_	0	_	_	Ref=PS_147.13
-19	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.13
-20	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.13
-21	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_147.13
+18	ọmọ	ọmọ	X	_	_	0	_	_	Ref=PS_147.13|Gloss=son
+19	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.13|Gloss=his
+20	nínú	nínú	X	_	_	0	_	_	Ref=PS_147.13|Gloss=in
+21	Rẹ	rẹ	X	_	_	0	_	_	Ref=PS_147.13|Gloss=thy
 
 # sent_id = PS_147.14
 # text = Òun jẹ́ kí àlàáfíà wà ní àwọn ẹnu ibodè Rẹ̀ òun sì fi jéró dáradára tẹ́ ọ lọ́rùn.
-1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.14
-2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PS_147.14
-3	kí	kí	X	_	_	0	_	_	Ref=PS_147.14
-4	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_147.14
-5	wà	wà	X	_	_	0	_	_	Ref=PS_147.14
-6	ní	ní	X	_	_	0	_	_	Ref=PS_147.14
-7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.14
-8	ẹnu	ẹnu	X	_	_	0	_	_	Ref=PS_147.14
-9	ibodè	ibodè	X	_	_	0	_	_	Ref=PS_147.14
-10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.14
-11	òun	òun	X	_	_	0	_	_	Ref=PS_147.14
-12	sì	sì	X	_	_	0	_	_	Ref=PS_147.14
-13	fi	fi	X	_	_	0	_	_	Ref=PS_147.14
-14	jéró	jéró	X	_	_	0	_	_	Ref=PS_147.14
-15	dáradára	dáradára	X	_	_	0	_	_	Ref=PS_147.14
-16	tẹ́	tẹ́	X	_	_	0	_	_	Ref=PS_147.14
-17	ọ	ọ	X	_	_	0	_	_	Ref=PS_147.14
-18	lọ́rùn	lọ́rùn	X	_	_	0	_	_	Ref=PS_147.14|SpaceAfter=No
-19	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.14
+# text_en = He maketh peace in thy borders, and filleth thee with the finest of the wheat.
+1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.14|Gloss=he
+2	jẹ́	jẹ́	X	_	_	0	_	_	Ref=PS_147.14|Gloss=be
+3	kí	kí	X	_	_	0	_	_	Ref=PS_147.14|Gloss=let
+4	àlàáfíà	àlàáfíà	X	_	_	0	_	_	Ref=PS_147.14|Gloss=peace
+5	wà	wà	X	_	_	0	_	_	Ref=PS_147.14|Gloss=was
+6	ní	ní	X	_	_	0	_	_	Ref=PS_147.14|Gloss=in
+7	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.14|Gloss=the
+8	ẹnu	ẹnu	X	_	_	0	_	_	Ref=PS_147.14|Gloss=mouth
+9	ibodè	ibodè	X	_	_	0	_	_	Ref=PS_147.14|Gloss=gate
+10	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.14|Gloss=his
+11	òun	òun	X	_	_	0	_	_	Ref=PS_147.14|Gloss=he
+12	sì	sì	X	_	_	0	_	_	Ref=PS_147.14|Gloss=and
+13	fi	fi	X	_	_	0	_	_	Ref=PS_147.14|Gloss=with
+14	jéró	jéró	X	_	_	0	_	_	Ref=PS_147.14|Gloss=wheat
+15	dáradára	dáradára	X	_	_	0	_	_	Ref=PS_147.14|Gloss=fine
+16	tẹ́	tẹ́	X	_	_	0	_	_	Ref=PS_147.14|Gloss=laid
+17	ọ	ọ	X	_	_	0	_	_	Ref=PS_147.14|Gloss=thee
+18	lọ́rùn	lọ́rùn	X	_	_	0	_	_	Ref=PS_147.14|SpaceAfter=No|Gloss=satisfied
+19	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.14|Gloss=.
 
 # sent_id = PS_147.15
 # text = Òun sì rán àṣẹ Rẹ̀ sí ayé ọ̀rọ̀ Rẹ̀ sáré tete.
-1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.15
-2	sì	sì	X	_	_	0	_	_	Ref=PS_147.15
-3	rán	rán	X	_	_	0	_	_	Ref=PS_147.15
-4	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=PS_147.15
-5	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.15
-6	sí	sí	X	_	_	0	_	_	Ref=PS_147.15
-7	ayé	ayé	X	_	_	0	_	_	Ref=PS_147.15
-8	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_147.15
-9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.15
-10	sáré	sáré	X	_	_	0	_	_	Ref=PS_147.15
-11	tete	tete	X	_	_	0	_	_	Ref=PS_147.15|SpaceAfter=No
-12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.15
+# text_en = He sendeth forth his commandment upon earth: his word runneth very swiftly.
+1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.15|Gloss=he
+2	sì	sì	X	_	_	0	_	_	Ref=PS_147.15|Gloss=and
+3	rán	rán	X	_	_	0	_	_	Ref=PS_147.15|Gloss=sent
+4	àṣẹ	àṣẹ	X	_	_	0	_	_	Ref=PS_147.15|Gloss=commandment
+5	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.15|Gloss=his
+6	sí	sí	X	_	_	0	_	_	Ref=PS_147.15|Gloss=to
+7	ayé	ayé	X	_	_	0	_	_	Ref=PS_147.15|Gloss=earth
+8	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_147.15|Gloss=word
+9	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.15|Gloss=his
+10	sáré	sáré	X	_	_	0	_	_	Ref=PS_147.15|Gloss=run
+11	tete	tete	X	_	_	0	_	_	Ref=PS_147.15|SpaceAfter=No|Gloss=swiftly
+12	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.15|Gloss=.
 
 # sent_id = PS_147.16
 # text = Ó fi sino fún ni bi irun àgùntàn ó sì fọ́n ìrì idídì ká bí eérú
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.16
-2	fi	fi	X	_	_	0	_	_	Ref=PS_147.16
-3	sino	sino	X	_	_	0	_	_	Ref=PS_147.16
-4	fún	fún	X	_	_	0	_	_	Ref=PS_147.16
-5	ni	ni	X	_	_	0	_	_	Ref=PS_147.16
-6	bi	bi	X	_	_	0	_	_	Ref=PS_147.16
-7	irun	irun	X	_	_	0	_	_	Ref=PS_147.16
-8	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=PS_147.16
-9	ó	ó	X	_	_	0	_	_	Ref=PS_147.16
-10	sì	sì	X	_	_	0	_	_	Ref=PS_147.16
-11	fọ́n	fọ́n	X	_	_	0	_	_	Ref=PS_147.16
-12	ìrì	ìrì	X	_	_	0	_	_	Ref=PS_147.16
-13	idídì	idídì	X	_	_	0	_	_	Ref=PS_147.16
-14	ká	ká	X	_	_	0	_	_	Ref=PS_147.16
-15	bí	bí	X	_	_	0	_	_	Ref=PS_147.16
-16	eérú	eérú	X	_	_	0	_	_	Ref=PS_147.16
+# text_en = He giveth snow like wool: he scattereth the hoarfrost like ashes.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.16|Gloss=he
+2	fi	fi	X	_	_	0	_	_	Ref=PS_147.16|Gloss=with
+3	sino	sino	X	_	_	0	_	_	Ref=PS_147.16|Gloss=snow
+4	fún	fún	X	_	_	0	_	_	Ref=PS_147.16|Gloss=unto
+5	ni	ni	X	_	_	0	_	_	Ref=PS_147.16|Gloss=is
+6	bi	bi	X	_	_	0	_	_	Ref=PS_147.16|Gloss=as
+7	irun	irun	X	_	_	0	_	_	Ref=PS_147.16|Gloss=hair
+8	àgùntàn	àgùntàn	X	_	_	0	_	_	Ref=PS_147.16|Gloss=sheep
+9	ó	ó	X	_	_	0	_	_	Ref=PS_147.16|Gloss=he
+10	sì	sì	X	_	_	0	_	_	Ref=PS_147.16|Gloss=and
+11	fọ́n	fọ́n	X	_	_	0	_	_	Ref=PS_147.16|Gloss=scattered
+12	ìrì	ìrì	X	_	_	0	_	_	Ref=PS_147.16|Gloss=dew
+13	idídì	idídì	X	_	_	0	_	_	Ref=PS_147.16|Gloss=hoarfrost
+14	ká	ká	X	_	_	0	_	_	Ref=PS_147.16|Gloss=about
+15	bí	bí	X	_	_	0	_	_	Ref=PS_147.16|Gloss=as
+16	eérú	eérú	X	_	_	0	_	_	Ref=PS_147.16|Gloss=ashes
 
 # sent_id = PS_147.17
 # text = Ó rọ òjò yìnyín Rẹ̀ bí òkúta wẹ́wẹ́ ta ni ó lè dúró níwájú òtútù Rẹ̀
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.17
-2	rọ	rọ	X	_	_	0	_	_	Ref=PS_147.17
-3	òjò	òjò	X	_	_	0	_	_	Ref=PS_147.17
-4	yìnyín	yìnyín	X	_	_	0	_	_	Ref=PS_147.17
-5	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.17
-6	bí	bí	X	_	_	0	_	_	Ref=PS_147.17
-7	òkúta	òkúta	X	_	_	0	_	_	Ref=PS_147.17
-8	wẹ́wẹ́	wẹ́wẹ́	X	_	_	0	_	_	Ref=PS_147.17
-9	ta	ta	X	_	_	0	_	_	Ref=PS_147.17
-10	ni	ni	X	_	_	0	_	_	Ref=PS_147.17
-11	ó	ó	X	_	_	0	_	_	Ref=PS_147.17
-12	lè	lè	X	_	_	0	_	_	Ref=PS_147.17
-13	dúró	dúró	X	_	_	0	_	_	Ref=PS_147.17
-14	níwájú	níwájú	X	_	_	0	_	_	Ref=PS_147.17
-15	òtútù	òtútù	X	_	_	0	_	_	Ref=PS_147.17
-16	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.17
+# text_en = He casteth forth his ice like morsels: who can stand before his cold?
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.17|Gloss=he
+2	rọ	rọ	X	_	_	0	_	_	Ref=PS_147.17|Gloss=withered
+3	òjò	òjò	X	_	_	0	_	_	Ref=PS_147.17|Gloss=rain
+4	yìnyín	yìnyín	X	_	_	0	_	_	Ref=PS_147.17|Gloss=hail
+5	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.17|Gloss=his
+6	bí	bí	X	_	_	0	_	_	Ref=PS_147.17|Gloss=as
+7	òkúta	òkúta	X	_	_	0	_	_	Ref=PS_147.17|Gloss=stone
+8	wẹ́wẹ́	wẹ́wẹ́	X	_	_	0	_	_	Ref=PS_147.17|Gloss=pieces
+9	ta	ta	X	_	_	0	_	_	Ref=PS_147.17|Gloss=who
+10	ni	ni	X	_	_	0	_	_	Ref=PS_147.17|Gloss=is
+11	ó	ó	X	_	_	0	_	_	Ref=PS_147.17|Gloss=he
+12	lè	lè	X	_	_	0	_	_	Ref=PS_147.17|Gloss=may
+13	dúró	dúró	X	_	_	0	_	_	Ref=PS_147.17|Gloss=stood
+14	níwájú	níwájú	X	_	_	0	_	_	Ref=PS_147.17|Gloss=before
+15	òtútù	òtútù	X	_	_	0	_	_	Ref=PS_147.17|Gloss=winter
+16	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.17|Gloss=his
 
 # sent_id = PS_147.18
 # text = Ó rán ọ̀rọ̀ Rẹ̀ jáde ó sì mú wọn yọ̀ ó mú kí afẹ́fẹ́ Rẹ̀ fẹ́ ó sì mú odò Rẹ̀ sàn.
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.18
-2	rán	rán	X	_	_	0	_	_	Ref=PS_147.18
-3	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_147.18
-4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.18
-5	jáde	jáde	X	_	_	0	_	_	Ref=PS_147.18
-6	ó	ó	X	_	_	0	_	_	Ref=PS_147.18
-7	sì	sì	X	_	_	0	_	_	Ref=PS_147.18
-8	mú	mú	X	_	_	0	_	_	Ref=PS_147.18
-9	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.18
-10	yọ̀	yọ̀	X	_	_	0	_	_	Ref=PS_147.18
-11	ó	ó	X	_	_	0	_	_	Ref=PS_147.18
-12	mú	mú	X	_	_	0	_	_	Ref=PS_147.18
-13	kí	kí	X	_	_	0	_	_	Ref=PS_147.18
-14	afẹ́fẹ́	afẹ́fẹ́	X	_	_	0	_	_	Ref=PS_147.18
-15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.18
-16	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PS_147.18
-17	ó	ó	X	_	_	0	_	_	Ref=PS_147.18
-18	sì	sì	X	_	_	0	_	_	Ref=PS_147.18
-19	mú	mú	X	_	_	0	_	_	Ref=PS_147.18
-20	odò	odò	X	_	_	0	_	_	Ref=PS_147.18
-21	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.18
-22	sàn	sàn	X	_	_	0	_	_	Ref=PS_147.18|SpaceAfter=No
-23	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.18
+# text_en = He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.18|Gloss=he
+2	rán	rán	X	_	_	0	_	_	Ref=PS_147.18|Gloss=sent
+3	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_147.18|Gloss=word
+4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.18|Gloss=his
+5	jáde	jáde	X	_	_	0	_	_	Ref=PS_147.18|Gloss=out
+6	ó	ó	X	_	_	0	_	_	Ref=PS_147.18|Gloss=he
+7	sì	sì	X	_	_	0	_	_	Ref=PS_147.18|Gloss=and
+8	mú	mú	X	_	_	0	_	_	Ref=PS_147.18|Gloss=brought
+9	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.18|Gloss=them
+10	yọ̀	yọ̀	X	_	_	0	_	_	Ref=PS_147.18|Gloss=rejoice
+11	ó	ó	X	_	_	0	_	_	Ref=PS_147.18|Gloss=he
+12	mú	mú	X	_	_	0	_	_	Ref=PS_147.18|Gloss=brought
+13	kí	kí	X	_	_	0	_	_	Ref=PS_147.18|Gloss=let
+14	afẹ́fẹ́	afẹ́fẹ́	X	_	_	0	_	_	Ref=PS_147.18|Gloss=wind
+15	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.18|Gloss=his
+16	fẹ́	fẹ́	X	_	_	0	_	_	Ref=PS_147.18|Gloss=would
+17	ó	ó	X	_	_	0	_	_	Ref=PS_147.18|Gloss=he
+18	sì	sì	X	_	_	0	_	_	Ref=PS_147.18|Gloss=and
+19	mú	mú	X	_	_	0	_	_	Ref=PS_147.18|Gloss=brought
+20	odò	odò	X	_	_	0	_	_	Ref=PS_147.18|Gloss=river
+21	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.18|Gloss=his
+22	sàn	sàn	X	_	_	0	_	_	Ref=PS_147.18|SpaceAfter=No|Gloss=better
+23	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.18|Gloss=.
 
 # sent_id = PS_147.19
 # text = Ó sọ ọ̀rọ̀ Rẹ̀ di mímọ̀ fún Jákọ́bù àwọn òfin àti ìlànà Rẹ̀ fún Ísírẹ́lì
-1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.19
-2	sọ	sọ	X	_	_	0	_	_	Ref=PS_147.19
-3	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_147.19
-4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.19
-5	di	di	X	_	_	0	_	_	Ref=PS_147.19
-6	mímọ̀	mímọ̀	X	_	_	0	_	_	Ref=PS_147.19
-7	fún	fún	X	_	_	0	_	_	Ref=PS_147.19
+# text_en = He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
+1	Ó	ó	X	_	_	0	_	_	Ref=PS_147.19|Gloss=he
+2	sọ	sọ	X	_	_	0	_	_	Ref=PS_147.19|Gloss=spake
+3	ọ̀rọ̀	ọ̀rọ̀	X	_	_	0	_	_	Ref=PS_147.19|Gloss=word
+4	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.19|Gloss=his
+5	di	di	X	_	_	0	_	_	Ref=PS_147.19|Gloss=be
+6	mímọ̀	mímọ̀	X	_	_	0	_	_	Ref=PS_147.19|Gloss=known
+7	fún	fún	X	_	_	0	_	_	Ref=PS_147.19|Gloss=unto
 8	Jákọ́bù	Jákọ́bù	PROPN	_	_	0	_	_	Ref=PS_147.19
-9	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.19
-10	òfin	òfin	X	_	_	0	_	_	Ref=PS_147.19
-11	àti	àti	X	_	_	0	_	_	Ref=PS_147.19
+9	àwọn	àwọn	X	_	_	0	_	_	Ref=PS_147.19|Gloss=the
+10	òfin	òfin	X	_	_	0	_	_	Ref=PS_147.19|Gloss=law
+11	àti	àti	X	_	_	0	_	_	Ref=PS_147.19|Gloss=and
 12	ìlànà	ìlànà	X	_	_	0	_	_	Ref=PS_147.19
-13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.19
-14	fún	fún	X	_	_	0	_	_	Ref=PS_147.19
-15	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_147.19
+13	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.19|Gloss=his
+14	fún	fún	X	_	_	0	_	_	Ref=PS_147.19|Gloss=unto
+15	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	0	_	_	Ref=PS_147.19|Gloss=israel
 
 # sent_id = PS_147.20
 # text = Òun kó tí ṣe irú èyí sí orílẹ̀ èdè kan rí, Bí ó ṣe ti ìdájọ́ Rẹ̀ wọn ko mọ òfin Rẹ̀. Ẹ fi ìyìn fún Olúwa .
-1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.20
-2	kó	kó	X	_	_	0	_	_	Ref=PS_147.20
-3	tí	tí	X	_	_	0	_	_	Ref=PS_147.20
-4	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_147.20
-5	irú	irú	X	_	_	0	_	_	Ref=PS_147.20
-6	èyí	èyí	X	_	_	0	_	_	Ref=PS_147.20
-7	sí	sí	X	_	_	0	_	_	Ref=PS_147.20
-8	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_147.20
-9	èdè	èdè	X	_	_	0	_	_	Ref=PS_147.20
-10	kan	kan	X	_	_	0	_	_	Ref=PS_147.20
-11	rí	rí	X	_	_	0	_	_	Ref=PS_147.20|SpaceAfter=No
-12	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.20
-13	Bí	bí	X	_	_	0	_	_	Ref=PS_147.20
-14	ó	ó	X	_	_	0	_	_	Ref=PS_147.20
-15	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_147.20
-16	ti	ti	X	_	_	0	_	_	Ref=PS_147.20
-17	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=PS_147.20
-18	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.20
-19	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.20
-20	ko	ko	X	_	_	0	_	_	Ref=PS_147.20
-21	mọ	mọ	X	_	_	0	_	_	Ref=PS_147.20
-22	òfin	òfin	X	_	_	0	_	_	Ref=PS_147.20
-23	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.20|SpaceAfter=No
-24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.20
-25	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_147.20
-26	fi	fi	X	_	_	0	_	_	Ref=PS_147.20
-27	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.20
-28	fún	fún	X	_	_	0	_	_	Ref=PS_147.20
-29	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.20
-30	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.20
+# text_en = He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD.
+1	Òun	òun	X	_	_	0	_	_	Ref=PS_147.20|Gloss=he
+2	kó	kó	X	_	_	0	_	_	Ref=PS_147.20|Gloss=gather
+3	tí	tí	X	_	_	0	_	_	Ref=PS_147.20|Gloss=that
+4	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_147.20|Gloss=do
+5	irú	irú	X	_	_	0	_	_	Ref=PS_147.20|Gloss=such
+6	èyí	èyí	X	_	_	0	_	_	Ref=PS_147.20|Gloss=this
+7	sí	sí	X	_	_	0	_	_	Ref=PS_147.20|Gloss=to
+8	orílẹ̀	orílẹ̀	X	_	_	0	_	_	Ref=PS_147.20|Gloss=nations
+9	èdè	èdè	X	_	_	0	_	_	Ref=PS_147.20|Gloss=nations
+10	kan	kan	X	_	_	0	_	_	Ref=PS_147.20|Gloss=a
+11	rí	rí	X	_	_	0	_	_	Ref=PS_147.20|SpaceAfter=No|Gloss=saw
+12	,	,	PUNCT	_	_	0	punct	_	Ref=PS_147.20|Gloss=,
+13	Bí	bí	X	_	_	0	_	_	Ref=PS_147.20|Gloss=as
+14	ó	ó	X	_	_	0	_	_	Ref=PS_147.20|Gloss=he
+15	ṣe	ṣe	X	_	_	0	_	_	Ref=PS_147.20|Gloss=do
+16	ti	ti	X	_	_	0	_	_	Ref=PS_147.20|Gloss=have
+17	ìdájọ́	ìdájọ́	X	_	_	0	_	_	Ref=PS_147.20|Gloss=judgment
+18	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.20|Gloss=his
+19	wọn	wọn	X	_	_	0	_	_	Ref=PS_147.20|Gloss=them
+20	ko	ko	X	_	_	0	_	_	Ref=PS_147.20|Gloss=not
+21	mọ	mọ	X	_	_	0	_	_	Ref=PS_147.20|Gloss=know
+22	òfin	òfin	X	_	_	0	_	_	Ref=PS_147.20|Gloss=law
+23	Rẹ̀	rẹ̀	X	_	_	0	_	_	Ref=PS_147.20|SpaceAfter=No|Gloss=his
+24	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.20|Gloss=.
+25	Ẹ	ẹ	X	_	_	0	_	_	Ref=PS_147.20|Gloss=ye
+26	fi	fi	X	_	_	0	_	_	Ref=PS_147.20|Gloss=with
+27	ìyìn	ìyìn	X	_	_	0	_	_	Ref=PS_147.20|Gloss=praise
+28	fún	fún	X	_	_	0	_	_	Ref=PS_147.20|Gloss=unto
+29	Olúwa	olúwa	X	_	_	0	_	_	Ref=PS_147.20|Gloss=lord
+30	.	.	PUNCT	_	_	0	punct	_	Ref=PS_147.20|Gloss=.
 
