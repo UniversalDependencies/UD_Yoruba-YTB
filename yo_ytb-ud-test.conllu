@@ -3407,11 +3407,11 @@
 5	bẹ	bẹ	VERB	_	_	0	root	_	Ref=MARK_5.12|Gloss=beg
 6	Jésù	Jésù	PROPN	_	_	5	obj	_	Ref=MARK_5.12|Gloss=jesus
 7	pé	pé	SCONJ	_	_	12	mark	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=that
-8	,	,	PUNCT	_	_	5	punct	_	Ref=MARK_5.12|Gloss=,
+8	,	,	PUNCT	_	_	12	punct	_	Ref=MARK_5.12|Gloss=,
 9	“	“	PUNCT	_	_	12	punct	_	Ref=MARK_5.12|SpaceAfter=No|Gloss=“
 10	Rán	rán	VERB	_	_	12	ccomp	_	Ref=MARK_5.12|Gloss=send
 11	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Ref=MARK_5.12|Gloss=us
-12	lọ	lọ	VERB	_	_	5	compound:svc	_	Ref=MARK_5.12|Gloss=go
+12	lọ	lọ	VERB	_	_	5	ccomp	_	Ref=MARK_5.12|Gloss=go
 13	sínú	sínú	ADP	_	_	15	case	_	Ref=MARK_5.12|Gloss=into
 14	àwọn	àwọn	DET	_	_	15	det	_	Ref=MARK_5.12|Gloss=the
 15	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	12	obl	_	Ref=MARK_5.12|Gloss=swine
@@ -3679,7 +3679,7 @@
 10	fún	fún	ADP	_	_	11	case	_	Ref=MARK_5.19|Gloss=unto
 11	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obl	_	Ref=MARK_5.19|Gloss=him
 12	pé	pé	SCONJ	_	_	15	mark	_	Ref=MARK_5.19|SpaceAfter=No|Gloss=saying
-13	,	,	PUNCT	_	_	9	punct	_	Ref=MARK_5.19|Gloss=,
+13	,	,	PUNCT	_	_	15	punct	_	Ref=MARK_5.19|Gloss=,
 14	“	“	PUNCT	_	_	15	punct	_	Ref=MARK_5.19|SpaceAfter=No|Gloss=“
 15	Lọ	lọ	VERB	_	_	9	ccomp	_	Ref=MARK_5.19|Gloss=go
 16	sí	sí	ADP	_	_	15	case	_	Ref=MARK_5.19|Gloss=to
