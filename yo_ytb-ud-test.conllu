@@ -4318,7 +4318,7 @@
 11	Kò	kò	PART	_	_	13	advmod	_	Ref=MARK_5.37|Gloss=not
 12	sì	sì	CCONJ	_	_	13	cc	_	Ref=MARK_5.37|Gloss=and
 13	jẹ́	jẹ́	VERB	_	_	6	conj	_	Ref=MARK_5.37|Gloss=let
-14	kí	kí	AUX	_	_	13	compound:prt	_	Ref=MARK_5.37|Gloss=
+14	kí	kí	AUX	_	_	13	aux	_	Ref=MARK_5.37|Gloss=
 15	ẹnikẹ́ni	ẹnikẹ́ni	PRON	_	PronType=Ind	16	nsubj	_	Ref=MARK_5.37|Gloss=whosoever
 16	tẹ̀lé	tẹ̀lé	VERB	_	_	13	ccomp	_	Ref=MARK_5.37|Gloss=follow
 17	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Ref=MARK_5.37|Gloss=him
@@ -4979,10 +4979,10 @@
 # text_en = Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 1	Bákan	Bákan	ADV	_	_	11	advmod	_	Ref=MATT_5.16|Gloss=Likewise
 2	náà	náà	ADV	_	_	1	compound	_	Ref=MATT_5.16|SpaceAfter=No|Gloss=
-3	,	,	PUNCT	_	_	6	punct	_	Ref=MATT_5.16|Gloss=,
-4	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Ref=MATT_5.16|Gloss=you
-5	jẹ́	jẹ́	VERB	_	_	6	ccomp	_	Ref=MATT_5.16|Gloss=let
-6	kí	kí	AUX	_	_	11	compound:prt	_	Ref=MATT_5.16|Gloss=
+3	,	,	PUNCT	_	_	5	punct	_	Ref=MATT_5.16|Gloss=,
+4	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Ref=MATT_5.16|Gloss=you
+5	jẹ́	jẹ́	VERB	_	_	11	ccomp	_	Ref=MATT_5.16|Gloss=let
+6	kí	kí	AUX	_	_	5	aux	_	Ref=MATT_5.16|Gloss=
 7	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	nsubj	_	Ref=MATT_5.16|Gloss=light
 8	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	nmod	_	Ref=MATT_5.16|Gloss=your
 9	kí	kí	AUX	_	_	11	aux	_	Ref=MATT_5.16|Gloss=let
