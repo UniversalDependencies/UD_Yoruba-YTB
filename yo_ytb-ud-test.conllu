@@ -3952,10 +3952,10 @@
 13-14	nìyìí	_	_	_	_	_	_	_	_
 13	ni	ni	PART	_	_	14	case	_	Ref=MARK_5.27|Gloss=is
 14	èyí	èyí	DET	_	_	12	det	_	Ref=MARK_5.27|Gloss=this
-15	tí	tí	PRON	_	PronType=Rel	18	nsubj	_	Ref=MARK_5.27|Gloss=that
-16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl	_	Ref=MARK_5.27|Gloss=she
-17	fi	fi	AUX	_	_	18	aux	_	Ref=MARK_5.27|Gloss=has
-18	wá	wá	VERB	_	_	12	acl	_	Ref=MARK_5.27|Gloss=come
+15	tí	tí	PRON	_	PronType=Rel	17	nsubj	_	Ref=MARK_5.27|Gloss=that
+16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	expl	_	Ref=MARK_5.27|Gloss=she
+17	fi	fi	VERB	_	_	12	acl	_	Ref=MARK_5.27|Gloss=has
+18	wá	wá	VERB	_	_	17	compound:svc	_	Ref=MARK_5.27|Gloss=come
 19	sẹ́yìn	sẹ́yìn	ADP	_	_	20	case	_	Ref=MARK_5.27|Gloss=behind
 20	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	18	obl	_	Ref=MARK_5.27|SpaceAfter=No|Gloss=him
 21	,	,	PUNCT	_	_	23	punct	_	Ref=MARK_5.27|Gloss=,
