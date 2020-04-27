@@ -55,7 +55,7 @@
 5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.3
 6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.3|SpaceAfter=No
 7	Jẹ́	jẹ́	VERB	_	_	12	ccomp	_	Gloss=let|Ref=GEN_1.3
-8	kí	kí	AUX	_	_	7	compound:prt	_	Gloss=|Ref=GEN_1.3
+8	kí	kí	AUX	_	_	7	aux	_	Gloss=|Ref=GEN_1.3
 9	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	12	nsubj	_	Gloss=light|Ref=GEN_1.3
 10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.3
 11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.3
@@ -126,7 +126,7 @@
 4	pé	pé	SCONJ	_	_	3	compound	_	Gloss=that|Ref=GEN_1.6
 5	“	“	PUNCT	_	_	11	punct	_	Gloss=“|Ref=GEN_1.6|SpaceAfter=No
 6	Jẹ́	jẹ́	VERB	_	_	11	ccomp	_	Gloss=let|Ref=GEN_1.6
-7	kí	kí	AUX	_	_	6	compound:prt	_	Gloss=X|Ref=GEN_1.6
+7	kí	kí	AUX	_	_	6	aux	_	Gloss=X|Ref=GEN_1.6
 8	òfurufú	òfurufú	NOUN	_	_	11	nsubj	_	Gloss=firmament|Ref=GEN_1.6
 9	kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.6
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	expl	_	Gloss=it|Ref=GEN_1.6
@@ -207,7 +207,7 @@
 5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.9
 6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.9|SpaceAfter=No
 7	Jẹ́	jẹ́	VERB	_	_	12	ccomp	_	Gloss=let|Ref=GEN_1.9
-8	kí	kí	AUX	_	_	7	compound:prt	_	Gloss=|Ref=GEN_1.9
+8	kí	kí	AUX	_	_	7	aux	_	Gloss=|Ref=GEN_1.9
 9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water|Ref=GEN_1.9
 10	abẹ́	abẹ́	ADP	_	_	11	case	_	Gloss=under|Ref=GEN_1.9
 11	ọ̀run	ọ̀run	NOUN	_	_	9	nmod	_	Gloss=heaven|Ref=GEN_1.9
@@ -270,7 +270,7 @@
 5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.11
 6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.11|SpaceAfter=No
 7	Jẹ́	jẹ́	VERB	_	_	12	ccomp	_	Gloss=let|Ref=GEN_1.11
-8	kí	kí	AUX	_	_	7	compound:prt	_	Gloss=|Ref=GEN_1.11
+8	kí	kí	AUX	_	_	7	aux	_	Gloss=|Ref=GEN_1.11
 9	ilẹ̀	ilẹ̀	NOUN	_	_	12	nsubj	_	Gloss=land|Ref=GEN_1.11
 10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.11
 11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=it|Ref=GEN_1.11
@@ -370,7 +370,7 @@
 4	pé	pé	SCONJ	_	_	3	compound	_	Gloss=that|Ref=GEN_1.14
 5	“	“	PUNCT	_	_	11	punct	_	Gloss=“|Ref=GEN_1.14|SpaceAfter=No
 6	Jẹ́	jẹ́	VERB	_	_	11	ccomp	_	Gloss=let|Ref=GEN_1.14
-7	kí	kí	AUX	_	_	6	compound:prt	_	Gloss=|Ref=GEN_1.14
+7	kí	kí	AUX	_	_	6	aux	_	Gloss=|Ref=GEN_1.14
 8	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	11	nsubj	_	Gloss=light|Ref=GEN_1.14
 9	kí	kí	AUX	_	_	11	aux	_	Gloss=let|Ref=GEN_1.14
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	expl	_	Gloss=it|Ref=GEN_1.14
@@ -538,7 +538,7 @@
 5	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=GEN_1.20
 6	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=GEN_1.20|SpaceAfter=No
 7	Jẹ́	jẹ́	VERB	_	_	12	ccomp	_	Gloss=be|Ref=GEN_1.20
-8	kí	kí	AUX	_	_	7	compound:prt	_	Gloss=let|Ref=GEN_1.20
+8	kí	kí	AUX	_	_	7	aux	_	Gloss=let|Ref=GEN_1.20
 9	omi	omi	NOUN	_	_	12	nsubj	_	Gloss=water|Ref=GEN_1.20
 10	kí	kí	AUX	_	_	12	aux	_	Gloss=let|Ref=GEN_1.20
 11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.20
@@ -763,7 +763,7 @@
 8	“	“	PUNCT	_	_	13	punct	_	Gloss=“|Ref=GEN_1.26|SpaceAfter=No
 9	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	13	nsubj	_	Gloss=ye|Ref=GEN_1.26
 10	jẹ́	jẹ́	VERB	_	_	13	ccomp	_	Gloss=be|Ref=GEN_1.26
-11	kí	kí	PART	_	_	10	compound:prt	_	Gloss=let|Ref=GEN_1.26
+11	kí	kí	PART	_	_	10	aux	_	Gloss=let|Ref=GEN_1.26
 12	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	expl	_	Gloss=be|Ref=GEN_1.26
 13	dá	dá	VERB	_	_	5	ccomp	_	Gloss=made|Ref=GEN_1.26
 14	ènìyàn	ènìyàn	NOUN	_	_	13	obj	_	Gloss=people|Ref=GEN_1.26
@@ -2164,7 +2164,7 @@
 18	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	23	cc	_	Gloss=but|Ref=JOHN_11.15
 19	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	23	discourse	_	Gloss=ye|Ref=JOHN_11.15
 20	jẹ́	jẹ́	VERB	_	_	23	ccomp	_	Gloss=be|Ref=JOHN_11.15
-21	kí	kí	AUX	_	_	20	compound:prt	_	Gloss=let|Ref=JOHN_11.15
+21	kí	kí	AUX	_	_	20	aux	_	Gloss=let|Ref=JOHN_11.15
 22	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	_	Gloss=be|Ref=JOHN_11.15
 23	lọ	lọ	VERB	_	_	3	parataxis	_	Gloss=go|Ref=JOHN_11.15
 24	sọ́dọ̀	sọ́dọ̀	ADP	_	_	25	case	_	Gloss=unto|Ref=JOHN_11.15
@@ -2199,7 +2199,7 @@
 23	,	,	PUNCT	_	_	29	punct	_	Gloss=,|Ref=JOHN_11.16
 24	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	29	discourse	_	Gloss=us|Ref=JOHN_11.16
 25	jẹ́	jẹ́	VERB	_	_	29	ccomp	_	Gloss=let|Ref=JOHN_11.16
-26	kí	kí	AUX	_	_	25	compound:prt	_	Gloss=let|Ref=JOHN_11.16
+26	kí	kí	AUX	_	_	25	aux	_	Gloss=let|Ref=JOHN_11.16
 27	àwa	àwa	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	29	nsubj	_	Gloss=we|Ref=JOHN_11.16
 28	náà	náà	ADV	_	_	29	advmod	_	Gloss=too|Ref=JOHN_11.16
 29	lọ	lọ	VERB	_	_	14	ccomp	_	Gloss=go|Ref=JOHN_11.16|SpaceAfter=No
@@ -3018,7 +3018,7 @@
 37	ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	39	nsubj	_	Gloss=ye|Ref=JOHN_11.44
 38	sì	sì	CCONJ	_	_	39	cc	_	Gloss=then|Ref=JOHN_11.44
 39	jẹ́	jẹ́	VERB	_	_	34	ccomp	_	Gloss=let|Ref=JOHN_11.44
-40	kí	kí	AUX	_	_	39	compound:prt	_	Gloss=|Ref=JOHN_11.44
+40	kí	kí	AUX	_	_	39	aux	_	Gloss=|Ref=JOHN_11.44
 41	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	Gloss=he|Ref=JOHN_11.44
 42	má	má	AUX	_	_	44	aux	_	Gloss=should|Ref=JOHN_11.44
 43	a	a	X	_	_	42	goeswith	_	Gloss=|Ref=JOHN_11.44
