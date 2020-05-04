@@ -1,6 +1,6 @@
 # Summary
 
-Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
+Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated natively in Universal Dependencies.
 
 # Introduction
 
@@ -30,7 +30,7 @@ Parts of the Yoruba Bible, hand-annotated natively in Universal Dependencies.
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: bible
+Genre: bible wiki
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
