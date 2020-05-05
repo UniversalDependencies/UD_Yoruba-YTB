@@ -9229,8 +9229,8 @@
 # newpar
 # sent_id = wiki0105
 # text = Robert Lavinsky, PhD, ti ṣọrẹ ibùdó dátà gbogbo àwọ àwòrán rẹ̀ ní mindat.org (ó tó bíi 29,000) àti gbogbo àwọn àwòrán láti ibi ojúewé ìtakùn rẹ̀ irocks.com fún Wikimedia Commons.
-1	Robert	Robert	NOUN	_	_	6	nsubj	_	_
-2	Lavinsky,	Lavinsky,	PUNCT	_	_	1	flat	_	_
+1	Robert	Robert	PROPN	_	_	6	nsubj	_	_
+2	Lavinsky,	Lavinsky,	PROPN	_	_	1	flat	_	_
 3	PhD	PhD	NOUN	_	_	1	flat	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
 5	ti	ti	AUX	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	aux	_	_
