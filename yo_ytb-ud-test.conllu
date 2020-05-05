@@ -7872,41 +7872,41 @@
 # newpar
 # sent_id = wiki0043
 # text = Níbẹ̀ lówà tó ti bẹ̀rẹ̀ sí ní ṣiṣẹ́ díèdíẹ̀ gẹ́gẹ́ bíi òṣèré ni Nollywood.
-1	Níbẹ̀	níbẹ̀	NOUN	_	_	5	nsubj	_	_
-2	lówà	lówà	AUX	_	_	5	aux	_	_
+1	Níbẹ̀	níbẹ̀	ADV	_	_	2	advmod	_	_
+2	lówà	lówà	VERB	_	_	0	root	_	_
 3	tó	tó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 4	ti	ti	AUX	_	_	5	aux	_	_
-5	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	_
+5	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	2	ccomp	_	_
 6	sí	sí	ADP	_	_	8	case	_	_
 7	ní	ní	ADP	_	_	8	case	_	_
 8	ṣiṣẹ́	ṣiṣẹ́	NOUN	_	_	5	obl	_	_
 9	díèdíẹ̀	díèdíẹ̀	VERB	_	_	5	ccomp	_	_
-10	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	14	case	_	_
-11	bíi	bíi	ADV	_	_	14	advmod	_	_
-12	òṣèré	òṣèré	ADV	_	_	14	advmod	_	_
+10	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	12	case	_	_
+11	bíi	bíi	ADP	_	_	12	case	_	_
+12	òṣèré	òṣèré	NOUN	_	_	9	obl	_	_
 13	ni	ni	PART	_	_	12	case	_	_
 14	Nollywood	Nollywood	NOUN	_	_	9	obl	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n\n
+15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0044
 # text = Nnaji bẹ̀rẹ̀ ìṣèré rẹ̀ láti ọmọdé ninu eré tẹlifísọ̀n Ripples nígbà tójẹ́ ọmọ ọdún 8.
-1	Nnaji	Nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-2	bẹ̀rẹ̀	bẹ̀rẹ̀	SCONJ	_	_	3	case	_	_
-3	ìṣèré	ìṣèré	NOUN	_	_	12	nsubj	_	_
+1	Nnaji	Nnaji	NOUN	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	_
+3	ìṣèré	ìṣèré	NOUN	_	_	2	obj	_	_
 4	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	láti	láti	ADP	_	_	6	case	_	_
-6	ọmọdé	ọmọdé	NOUN	_	_	12	nsubj	_	_
-7	ninu	ninu	NOUN	_	_	6	nmod	_	_
-8	eré	eré	ADJ	_	_	6	nmod	_	_
-9	tẹlifísọ̀n	tẹlifísọ̀n	ADV	_	_	12	advmod	_	_
-10	Ripples	Ripples	NOUN	_	_	12	nsubj	_	_
+6	ọmọdé	ọmọdé	NOUN	_	_	2	obl	_	_
+7	ninu	ninu	ADP	_	_	8	case	_	_
+8	eré	eré	NOUN	_	_	2	obl	_	_
+9	tẹlifísọ̀n	tẹlifísọ̀n	NOUN	_	_	8	nmod	_	_
+10	Ripples	Ripples	NOUN	_	_	9	nmod	_	_
 11	nígbà	nígbà	ADV	_	_	12	advmod	_	_
-12	tójẹ́	tójẹ́	VERB	_	_	0	root	_	_
+12	tójẹ́	tójẹ́	VERB	_	_	2	advcl	_	_
 13	ọmọ	ọmọ	NOUN	_	_	12	obj	_	_
 14	ọdún	ọdún	NOUN	_	_	13	nmod	_	_
-15	8	8	NUM	_	NumType=Card	12	obl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
+15	8	8	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0045
@@ -7957,31 +7957,31 @@
 # newpar
 # sent_id = wiki0047
 # text = Ni 1998 nígbà tójẹ́ ọmọ ọdún 19 wọn ṣe àmúhàn rẹ̀ sí àwọn olólùfẹ́ filmu ni Naijiria pẹ̀lú filmu tó ún jẹ́ Most Wanted.
-1	Ni	ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	1998	1998	NUM	_	NumType=Card	1	nmod	_	_
+1	Ni	ni	ADP	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	case	_	_
+2	1998	1998	NUM	_	NumType=Card	9	obl	_	_
 3	nígbà	nígbà	ADV	_	_	4	advmod	_	_
-4	tójẹ́	tójẹ́	VERB	_	_	0	root	_	_
+4	tójẹ́	tójẹ́	VERB	_	_	9	advcl	_	_
 5	ọmọ	ọmọ	NOUN	_	_	4	obj	_	_
 6	ọdún	ọdún	NOUN	_	_	5	nmod	_	_
-7	19	19	NUM	_	NumType=Card	9	mark	_	_
+7	19	19	NUM	_	NumType=Card	6	nummod	_	_
 8	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
-9	ṣe	ṣe	VERB	_	_	4	conj	_	_
+9	ṣe	ṣe	VERB	_	_	0	root	_	_
 10	àmúhàn	àmúhàn	VERB	_	_	9	compound:svc	_	_
 11	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 12	sí	sí	ADP	_	_	14	case	_	_
 13	àwọn	àwọn	DET	_	_	14	det	_	_
 14	olólùfẹ́	olólùfẹ́	NOUN	_	_	9	obl	_	_
-15	filmu	filmu	VERB	_	_	9	compound:svc	_	_
-16	ni	ni	PART	_	_	9	case	_	_
-17	Naijiria	Naijiria	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
-18	pẹ̀lú	pẹ̀lú	ADV	_	_	19	advmod	_	_
-19	filmu	filmu	VERB	_	_	9	compound:svc	_	_
+15	filmu	filmu	NOUN	_	_	14	nmod	_	_
+16	ni	ni	ADP	_	_	17	case	_	_
+17	Naijiria	Naijiria	PROPN	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nmod	_	_
+18	pẹ̀lú	pẹ̀lú	ADP	_	_	19	case	_	_
+19	filmu	filmu	NOUN	_	_	9	obl	_	_
 20	tó	tó	SCONJ	_	_	23	mark	_	_
 21	ún	ún	PRON	_	_	23	nsubj	_	_
 22	jẹ́	jẹ́	AUX	_	_	23	cop	_	_
-23	Most	Most	NOUN	_	_	19	obl	_	_
-24	Wanted	Wanted	NOUN	_	_	23	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	23	punct	_	SpacesAfter=\s\n\n
+23	Most	Most	NOUN	_	_	19	acl	_	_
+24	Wanted	Wanted	NOUN	_	_	23	flat	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\s\n\n
 
 # newpar
 # sent_id = wiki0048
@@ -8007,17 +8007,17 @@
 
 # sent_id = wiki0049
 # text = Ó ti kópa nínúu filmu tó tó 80 ni Nollywood.
-1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	ti	ti	AUX	_	_	4	aux	_	_
-3	kópa	kópa	X	_	_	4	punct	_	_
-4	nínúu	nínúu	VERB	_	_	0	root	_	_
-5	filmu	filmu	VERB	_	_	4	compound:svc	_	_
-6	tó	tó	ADV	_	_	10	case	_	_
-7	tó	tó	ADV	_	_	10	case	_	_
-8	80	80	NUM	_	NumType=Card	10	nsubj	_	_
-9	ni	ni	PART	_	_	8	case	_	_
-10	Nollywood	Nollywood	NOUN	_	_	4	obl	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ti	ti	AUX	_	_	3	aux	_	_
+3	kópa	kópa	VERB	_	_	0	root	_	_
+4	nínúu	nínúu	ADP	_	_	5	case	_	_
+5	filmu	filmu	NOUN	_	_	3	obl	_	_
+6	tó	tó	ADV	_	_	8	advmod	_	_
+7	tó	tó	ADV	_	_	6	fixed	_	_
+8	80	80	NUM	_	NumType=Card	5	nummod	_	_
+9	ni	ni	ADP	_	_	10	case	_	_
+10	Nollywood	Nollywood	NOUN	_	_	3	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0050
@@ -8063,11 +8063,11 @@
 39	nínú	nínú	ADP	_	_	41	case	_	_
 40	àwọn	àwọn	DET	_	_	41	det	_	_
 41	Ẹ̀bùn	Ẹ̀bùn	NOUN	_	_	34	obl	_	_
-42	Akadẹ́mì	Akadẹ́mì	CCONJ	_	_	34	punct	_	_
-43	Filmu	Filmu	NOUN	_	_	42	obj	_	_
+42	Akadẹ́mì	Akadẹ́mì	NOUN	_	_	41	nmod	_	_
+43	Filmu	Filmu	NOUN	_	_	42	nmod	_	_
 44	ilẹ̀	ilẹ̀	NOUN	_	_	43	nmod	_	_
 45	Áfríkà	Áfríkà	PROPN	_	_	44	nmod	_	SpaceAfter=No
-46	.	.	PUNCT	_	_	42	punct	_	SpacesAfter=\n\n
+46	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0051
@@ -8203,44 +8203,44 @@
 2	yìí	yìí	DET	_	_	1	det	_	_
 3	ń	ń	AUX	_	_	4	aux	_	_
 4	ṣojú	ṣojú	VERB	_	_	0	root	_	_
-5	Yorùbá	Yorùbá	ADP	_	_	7	case	_	_
+5	Yorùbá	Yorùbá	PROPN	_	_	4	obj	_	_
 6	níbi	níbi	ADP	_	_	7	case	_	_
 7	ìgbé	ìgbé	NOUN	_	_	4	obl	_	_
-8	lárugẹ	lárugẹ	ADJ	_	_	7	amod	_	_
-9	èdè	èdè	AUX	_	_	7	conj	_	SpaceAfter=No
+8	lárugẹ	lárugẹ	NOUN	_	_	7	nmod	_	_
+9	èdè	èdè	NOUN	_	_	8	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	àṣà	àṣà	NOUN	_	_	9	conj	_	_
 12	àti	àti	CCONJ	_	_	13	cc	_	_
-13	ìdàgbà	ìdàgbà	NOUN	_	_	11	conj	_	_
+13	ìdàgbà	ìdàgbà	NOUN	_	_	9	conj	_	_
 14	sókè	sókè	ADP	_	_	15	case	_	_
-15	ìṣèṣe	ìṣèṣe	NOUN	_	_	13	nmod	_	_
+15	ìṣèṣe	ìṣèṣe	NOUN	_	_	9	nmod	_	_
 16	Yorùbá	Yorùbá	PROPN	_	_	15	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0057
 # text = Alhaji Lukman Ẹ̀bùn Olóyèdé Ọláìyá tí gbogbo ènìyàn mọ̀ sí Igwe jẹ́ ọmọ orílẹ̀ èdè Nàìjíríà àti òṣèré sinimá àgbéléwò.
-1	Alhaji	Alhaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	_
-2	Lukman	Lukman	ADP	_	_	3	case	_	_
-3	Ẹ̀bùn	Ẹ̀bùn	NOUN	_	_	1	obl	_	_
-4	Olóyèdé	Olóyèdé	NOUN	_	_	3	nmod	_	_
-5	Ọláìyá	Ọláìyá	ADJ	_	_	9	punct	_	_
-6	tí	tí	PRON	_	PronType=Rel	8	nsubj	_	_
+1	Alhaji	Alhaji	PROPN	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+2	Lukman	Lukman	PROPN	_	_	1	flat	_	_
+3	Ẹ̀bùn	Ẹ̀bùn	PROPN	_	_	1	flat	_	_
+4	Olóyèdé	Olóyèdé	PROPN	_	_	1	flat	_	_
+5	Ọláìyá	Ọláìyá	PROPN	_	_	1	flat	_	_
+6	tí	tí	PRON	_	PronType=Rel	8	det	_	_
 7	gbogbo	gbogbo	DET	_	_	8	det	_	_
 8	ènìyàn	ènìyàn	NOUN	_	_	9	nsubj	_	_
-9	mọ̀	mọ̀	VERB	_	_	4	acl	_	_
+9	mọ̀	mọ̀	VERB	_	_	1	acl	_	_
 10	sí	sí	ADP	_	_	11	case	_	_
 11	Igwe	Igwe	NOUN	_	_	9	obl	_	_
 12	jẹ́	jẹ́	AUX	_	_	13	cop	_	_
-13	ọmọ	ọmọ	NOUN	_	_	9	conj	_	_
+13	ọmọ	ọmọ	NOUN	_	_	0	root	_	_
 14	orílẹ̀	orílẹ̀	ADP	_	_	15	case	_	_
 15	èdè	èdè	NOUN	_	_	13	nmod	_	_
 16	Nàìjíríà	Nàìjíríà	PROPN	_	_	15	nmod	_	_
 17	àti	àti	CCONJ	_	_	18	cc	_	_
-18	òṣèré	òṣèré	NOUN	_	_	16	conj	_	_
-19	sinimá	sinimá	ADP	_	_	20	case	_	_
-20	àgbéléwò	àgbéléwò	NOUN	_	_	18	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\s\n\n
+18	òṣèré	òṣèré	NOUN	_	_	13	conj	_	_
+19	sinimá	sinimá	NOUN	_	_	18	nmod	_	_
+20	àgbéléwò	àgbéléwò	NOUN	_	_	19	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\s\n\n
 
 # newpar
 # sent_id = wiki0058
