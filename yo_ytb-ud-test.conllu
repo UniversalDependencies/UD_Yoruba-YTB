@@ -8791,9 +8791,9 @@
 # newpar
 # sent_id = wiki0084
 # text = Ṣíṣàtúnṣe ojúewé yìí látọwọ́ àwọn oníṣe tuntun tàbí àwọn oníṣe aláìtíìforúkọsílẹ̀ jẹ́ tí tìpa lọ́wọ́lọ́wọ́.
-1	Ṣíṣàtúnṣe	Ṣíṣàtúnṣe	ADP	_	_	2	case	_	_
-2	ojúewé	ojúewé	NOUN	_	_	4	nsubj	_	_
-3	yìí	yìí	DET	_	_	4	cc	_	_
+1	Ṣíṣàtúnṣe	Ṣíṣàtúnṣe	NOUN	_	_	4	nsubj	_	_
+2	ojúewé	ojúewé	NOUN	_	_	1	nmod	_	_
+3	yìí	yìí	DET	_	_	2	det	_	_
 4	látọwọ́	látọwọ́	VERB	_	_	0	root	_	_
 5	àwọn	àwọn	DET	_	_	6	det	_	_
 6	oníṣe	oníṣe	NOUN	_	_	8	nsubj	_	_
@@ -8806,14 +8806,14 @@
 13	tí	tí	PRON	_	PronType=Rel	12	fixed	_	_
 14	tìpa	tìpa	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
 15	lọ́wọ́lọ́wọ́	lọ́wọ́lọ́wọ́	ADV	_	_	14	advmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n\n
+16	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0085
 # text = Ojúewé yìí lọ́wọ́lọ́wọ́ jẹ́ dídá àbò bò díẹ̀ nítoríẹ̀ àwọn oníṣe aforúkọsílẹ̀ tí wọ́n ti fẹsẹ̀múlẹ̀ nìkan ni wọ́n le ṣàtúnṣe rẹ̀.
 1	Ojúewé	Ojúewé	NOUN	_	_	5	nsubj	_	_
-2	yìí	yìí	DET	_	_	3	det	_	_
-3	lọ́wọ́lọ́wọ́	lọ́wọ́lọ́wọ́	ADP	_	_	5	case	_	_
+2	yìí	yìí	DET	_	_	1	det	_	_
+3	lọ́wọ́lọ́wọ́	lọ́wọ́lọ́wọ́	ADV	_	_	5	advmod	_	_
 4	jẹ́	jẹ́	AUX	_	_	5	aux	_	_
 5	dídá	dídá	VERB	_	_	0	root	_	_
 6	àbò	àbò	NOUN	_	_	9	nsubj	_	_
@@ -8850,23 +8850,23 @@
 # sent_id = wiki0087
 # text = Bó tilẹ jẹ́ pé ọ̀pọ̀ àwọn àyọkà ni wọ́n le jẹ́ títúnṣe látọwọ́ olúkúlùkù, àbò díẹ̀ pọndandan ní gbà míi láti dínà ìbàjẹ́ sí àwọn ojúewé tó gbajúmọ̀.
 1	Bó	Bó	SCONJ	_	_	12	mark	_	_
-2	tilẹ	tilẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
-3	jẹ́	jẹ́	AUX	_	_	4	cop	_	_
-4	pé	pé	SCONJ	_	_	12	mark	_	_
-5	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	12	punct	_	_
+2	tilẹ	tilẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	fixed	_	_
+3	jẹ́	jẹ́	AUX	_	_	1	fixed	_	_
+4	pé	pé	SCONJ	_	_	1	fixed	_	_
+5	ọ̀pọ̀	ọ̀pọ̀	NOUN	_	_	12	nsubj	_	_
 6	àwọn	àwọn	DET	_	_	7	det	_	_
-7	àyọkà	àyọkà	NOUN	_	_	12	nsubj	_	_
+7	àyọkà	àyọkà	NOUN	_	_	5	nmod	_	_
 8	ni	ni	PART	_	_	7	case	_	_
-9	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+9	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	expl	_	_
 10	le	lè	AUX	_	_	12	aux	_	_
 11	jẹ́	jẹ́	AUX	_	_	12	aux	_	_
-12	títúnṣe	títúnṣe	VERB	_	_	0	root	_	_
+12	títúnṣe	títúnṣe	VERB	_	_	18	advcl	_	_
 13	látọwọ́	látọwọ́	ADP	_	_	14	case	_	_
 14	olúkúlùkù	olúkúlùkù	NOUN	_	_	12	obl	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	_
+15	,	,	PUNCT	_	_	12	punct	_	_
 16	àbò	àbò	NOUN	_	_	18	nsubj	_	_
 17	díẹ̀	díẹ̀	ADV	_	_	18	advmod	_	_
-18	pọndandan	pọndandan	VERB	_	_	12	conj	_	_
+18	pọndandan	pọndandan	VERB	_	_	0	root	_	_
 19	ní	ní	ADP	_	_	20	case	_	_
 20	gbà	gbà	VERB	_	_	18	obl	_	_
 21	míi	míi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	obj	_	_
@@ -8878,7 +8878,7 @@
 27	ojúewé	ojúewé	NOUN	_	_	23	obl	_	_
 28	tó	tó	ADV	_	_	29	advmod	_	_
 29	gbajúmọ̀	gbajúmọ̀	VERB	_	_	23	compound:svc	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	23	punct	_	SpacesAfter=\n\n
+30	.	.	PUNCT	_	_	18	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0088
@@ -8894,29 +8894,29 @@
 
 # sent_id = wiki0089
 # text = Tí kò bá sí àkọsílẹ̀ abáramu nínú àkọọ́lẹ̀ àbò, ojúewé náà le ti jẹ́ yíyí nípò dà lẹ́yìn ìṣe àbò si.
-1	Tí	tí	PRON	_	PronType=Rel	17	nsubj	_	_
-2	kò	kò	PART	_	_	17	advmod	_	_
-3	bá	bá	SCONJ	_	_	17	mark	_	_
+1	Tí	tí	PRON	_	PronType=Rel	3	nsubj	_	_
+2	kò	kò	PART	_	_	3	advmod	_	_
+3	bá	bá	VERB	_	_	16	advcl	_	_
 4	sí	sí	ADP	_	_	5	case	_	_
-5	àkọsílẹ̀	àkọsílẹ̀	NOUN	_	_	17	obl	_	_
-6	abáramu	abáramu	NOUN	_	_	17	nsubj	_	_
+5	àkọsílẹ̀	àkọsílẹ̀	NOUN	_	_	3	obl	_	_
+6	abáramu	abáramu	NOUN	_	_	5	nmod	_	_
 7	nínú	nínú	ADP	_	_	8	case	_	_
-8	àkọọ́lẹ̀	àkọọ́lẹ̀	NOUN	_	_	6	nmod	_	_
+8	àkọọ́lẹ̀	àkọọ́lẹ̀	NOUN	_	_	3	obl	_	_
 9	àbò	àbò	NOUN	_	_	8	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	ojúewé	ojúewé	NOUN	_	_	17	nsubj	_	_
-12	náà	náà	DET	_	_	17	advmod	_	_
-13	le	le	AUX	_	_	17	nsubj	_	_
-14	ti	ti	AUX	_	_	17	aux	_	_
-15	jẹ́	jẹ́	AUX	_	_	17	aux	_	_
-16	yíyí	yíyí	AUX	_	_	17	aux	_	_
-17	nípò	nípò	VERB	_	_	0	root	_	_
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	ojúewé	ojúewé	NOUN	_	_	16	nsubj	_	_
+12	náà	náà	DET	_	_	11	det	_	_
+13	le	lè	AUX	_	_	16	aux	_	_
+14	ti	ti	AUX	_	_	16	aux	_	_
+15	jẹ́	jẹ́	AUX	_	_	16	aux	_	_
+16	yíyí	yíyí	VERB	_	_	0	root	_	_
+17	nípò	nípò	VERB	_	_	16	compound:svc	_	_
 18	dà	dà	NOUN	_	_	17	obj	_	_
 19	lẹ́yìn	lẹ́yìn	ADP	_	_	20	case	_	_
 20	ìṣe	ìṣe	NOUN	_	_	17	obl	_	_
 21	àbò	àbò	NOUN	_	_	20	nmod	_	_
 22	si	si	ADP	_	_	17	advmod	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	17	punct	_	SpacesAfter=\n\n
+23	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0090
@@ -9050,13 +9050,13 @@
 # sent_id = wiki0097
 # text = Alámùójútó kan yíò ṣe àtúnṣe náà fun yín.
 1	Alámùójútó	Alámùójútó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	kan	kan	NUM	_	NumType=Card	4	mark	_	_
-3	yíò	yíò	AUX	_	_	4	aux	_	_
+2	kan	kan	NUM	_	NumType=Card	1	nummod	_	_
+3	yíò	yió	AUX	_	_	4	aux	_	_
 4	ṣe	ṣe	VERB	_	_	0	root	_	_
 5	àtúnṣe	àtúnṣe	NOUN	_	_	4	obj	_	_
-6	náà	náà	ADV	_	_	4	advmod	_	_
-7	fun	fun	VERB	_	_	4	compound:svc	_	_
-8	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	4	obj	_	SpaceAfter=No
+6	náà	náà	DET	_	_	5	det	_	_
+7	fun	fun	ADP	_	_	8	case	_	_
+8	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	4	obl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\s\n\n
 
 # newpar
@@ -9082,17 +9082,17 @@
 # newpar
 # sent_id = wiki0099
 # text = Àdírẹ́ẹ̀sì e-mail yín kò ṣe dandan, ṣùgbọ́n yíò jẹ́ lílò fún ìtúntò ọ̀rọ̀ìpamọ́, tí ẹ bá gbàgbé ọ̀rọ̀ìpamọ́ yín.
-1	Àdírẹ́ẹ̀sì	Àdírẹ́ẹ̀sì	CCONJ	_	_	7	cc	_	_
-2	e	e	NOUN	_	_	7	nsubj	_	SpaceAfter=No
+1	Àdírẹ́ẹ̀sì	Àdírẹ́ẹ̀sì	NOUN	_	_	7	nsubj	_	_
+2	e	e	NOUN	_	_	1	nmod	_	SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	SpaceAfter=No
 4	mail	mail	NOUN	_	_	2	compound	_	_
-5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	nmod	_	_
+5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
 6	kò	kò	PART	_	_	7	advmod	_	_
 7	ṣe	ṣe	VERB	_	_	0	root	_	_
 8	dandan	dandan	NOUN	_	_	7	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	_
 10	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	13	cc	_	_
-11	yíò	yíò	AUX	_	_	13	nsubj	_	_
+11	yíò	yió	AUX	_	_	13	aux	_	_
 12	jẹ́	jẹ́	AUX	_	_	13	aux	_	_
 13	lílò	lílò	VERB	_	_	7	conj	_	_
 14	fún	fún	ADP	_	_	16	case	_	_
