@@ -9448,24 +9448,23 @@
 10	tósòro	tósòro	ADJ	_	_	9	amod	_	_
 11	pelu	pelu	ADP	_	_	12	case	_	_
 12	apá	apá	NOUN	_	_	9	nmod	_	_
-13	tíkòsi	tíkòsi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nmod	_	SpaceAfter=No
-14	´	´	SYM	_	_	13	goeswith	_	_
-15	tó	tó	ADV	_	_	17	advmod	_	_
-16	jé	jé	AUX	_	_	17	cop	_	_
-17	òdo	òdo	NOUN	_	_	12	acl	_	SpaceAfter=No
-18	;	;	PUNCT	_	_	26	punct	_	_
-19	eyun	eyun	ADV	_	_	26	advmod	_	_
-20	pé	pé	SCONJ	_	_	26	mark	_	_
-21	nọ́mbà	nọ́mbà	NOUN	_	_	26	nsubj	_	_
-22	gidi	gidi	ADJ	_	_	21	amod	_	_
-23	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	26	expl	_	_
-24	jẹ́	jẹ́	AUX	_	_	26	aux	_	_
-25	bakanna	bakanna	ADV	_	_	26	advmod	_	_
-26	mọ́	mọ́	VERB	_	_	9	conj	_	_
-27	nọ́mbà	nọ́mbà	NOUN	_	_	26	obj	_	_
-28	tósòro	tósòro	ADJ	_	_	27	amod	_	_
-29	a+0i	a+0i	NOUN	_	_	27	nmod	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+13	tíkòsi´	tíkòsi´	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nmod	_	_
+14	tó	tó	ADV	_	_	16	advmod	_	_
+15	jé	jé	AUX	_	_	16	cop	_	_
+16	òdo	òdo	NOUN	_	_	12	acl	_	SpaceAfter=No
+17	;	;	PUNCT	_	_	25	punct	_	_
+18	eyun	eyun	ADV	_	_	25	advmod	_	_
+19	pé	pé	SCONJ	_	_	25	mark	_	_
+20	nọ́mbà	nọ́mbà	NOUN	_	_	25	nsubj	_	_
+21	gidi	gidi	ADJ	_	_	20	amod	_	_
+22	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	expl	_	_
+23	jẹ́	jẹ́	AUX	_	_	25	aux	_	_
+24	bakanna	bakanna	ADV	_	_	25	advmod	_	_
+25	mọ́	mọ́	VERB	_	_	9	conj	_	_
+26	nọ́mbà	nọ́mbà	NOUN	_	_	25	obj	_	_
+27	tósòro	tósòro	ADJ	_	_	26	amod	_	_
+28	a+0i	a+0i	NOUN	_	_	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0116
