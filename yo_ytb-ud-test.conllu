@@ -7602,7 +7602,7 @@
 # newpar
 # sent_id = wiki0032
 # text = Orísìírísìí nǹkan ní wọ́n ń lò níbi ìsọmọlórúkọ bíi Oyin, Epo, Iṣu, Ẹja,
-1	Orísìírísìí	Orísìírísìí	DET	_	_	2	case	_	_
+1	Orísìírísìí	Orísìírísìí	DET	_	_	2	det	_	_
 2	nǹkan	nǹkan	NOUN	_	_	6	nsubj	_	_
 3	ní	ní	ADP	_	_	4	case	_	_
 4	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
@@ -7615,33 +7615,33 @@
 10	bíi	bíi	ADP	_	_	11	case	_	_
 11	Oyin	Oyin	NOUN	_	_	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	Epo	Epo	ADV	_	_	9	conj	_	SpaceAfter=No
+13	Epo	Epo	NOUN	_	_	11	conj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	Iṣu	Iṣu	NOUN	_	_	13	conj	_	SpaceAfter=No
+15	Iṣu	Iṣu	NOUN	_	_	11	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
-17	Ẹja	ẹja	ADV	_	_	15	advmod	_	SpaceAfter=No
+17	Ẹja	ẹja	NOUN	_	_	11	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	6	punct	_	_
 
 # sent_id = wiki0033
 # text = Iyọ̀, Omi, abbl láti jẹ́ kí ọmọ yìí mọ bí ayé se rí wọn yóò fí gbogbo ohun tí a kà sókè yìí tọ́ ọmọ lẹ́nu wò, wọ́n sì máa ń wọ́n omi sí ọmọ yìí lára tàbí kí wọ́n da omi sí orí páànù kí wọn ó wá jẹ́ kí ó kán si ọmọ yìí lára.
 1	Iyọ̀	Iyọ̀	NOUN	_	_	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	Omi	omi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
+3	Omi	omi	NOUN	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	abbl	abbl	NOUN	_	_	11	nsubj	_	_
-6	láti	láti	ADP	_	_	7	case	_	_
-7	jẹ́	jẹ́	PART	_	_	11	advmod	_	_
+5	abbl	abbl	NOUN	_	_	1	conj	_	_
+6	láti	láti	ADP	_	_	11	mark	_	_
+7	jẹ́	jẹ́	AUX	_	_	11	aux	_	_
 8	kí	kí	AUX	_	_	11	aux	_	_
 9	ọmọ	ọmọ	NOUN	_	_	11	nsubj	_	_
-10	yìí	yìí	DET	_	_	11	cc	_	_
+10	yìí	yìí	DET	_	_	9	det	_	_
 11	mọ	mọ	VERB	_	_	1	parataxis	_	_
-12	bí	bí	SCONJ	_	_	15	mark	_	_
-13	ayé	ayé	NOUN	_	_	15	nsubj	_	_
-14	se	se	VERB	_	_	15	aux	_	_
-15	rí	rí	VERB	_	_	11	ccomp	_	_
+12	bí	bí	SCONJ	_	_	14	mark	_	_
+13	ayé	ayé	NOUN	_	_	14	nsubj	_	_
+14	se	se	VERB	_	_	11	ccomp	_	_
+15	rí	rí	VERB	_	_	14	compound:svc	_	_
 16	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
 17	yóò	yóò	AUX	_	_	18	aux	_	_
-18	fí	fí	VERB	_	_	15	conj	_	_
+18	fí	fí	VERB	_	_	14	conj	_	_
 19	gbogbo	gbogbo	DET	_	_	20	det	_	_
 20	ohun	ohun	NOUN	_	_	18	obj	_	_
 21	tí	tí	PRON	_	PronType=Rel	23	nsubj	_	_
@@ -7676,7 +7676,7 @@
 50	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	52	nsubj	_	_
 51	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	52	expl	_	_
 52	wá	wá	VERB	_	_	48	ccomp	_	_
-53	jẹ́	jẹ́	VERB	_	_	56	punct	_	_
+53	jẹ́	jẹ́	AUX	_	_	56	aux	_	_
 54	kí	kí	AUX	_	_	56	aux	_	_
 55	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	56	nsubj	_	_
 56	kán	kán	VERB	_	_	52	conj	_	_
@@ -7684,7 +7684,7 @@
 58	ọmọ	ọmọ	NOUN	_	_	56	obl	_	_
 59	yìí	yìí	DET	_	_	58	det	_	_
 60	lára	lára	ADP	_	_	58	case	_	SpaceAfter=No
-61	.	.	PUNCT	_	_	52	punct	_	SpacesAfter=\n\n
+61	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0034
@@ -7711,7 +7711,7 @@
 # newpar
 # sent_id = wiki0035
 # text = Oríṣìíríṣìí nǹkan la fi ń sọmọ lórúkọ bíi OYIN, EPO, IYỌ, ẸJA, OMI abbl.
-1	Oríṣìíríṣìí	Oríṣìíríṣìí	DET	_	_	4	mark	_	_
+1	Oríṣìíríṣìí	Oríṣìíríṣìí	DET	_	_	2	det	_	_
 2	nǹkan	nǹkan	NOUN	_	_	4	nsubj	_	_
 3	la	la	ADV	_	_	4	advmod	_	_
 4	fi	fi	VERB	_	_	0	root	_	_
@@ -7720,23 +7720,23 @@
 7-8	lórúkọ	_	_	_	_	_	_	_	_
 7	ní	ní	ADP	_	_	8	case	_	_
 8	órúkọ	órúkọ	NOUN	_	_	6	obl	_	_
-9	bíi	bíi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
-10	OYIN,	OYIN,	PUNCT	_	_	13	punct	_	_
-11	EPO	Epo	ADV	_	_	13	advmod	_	SpaceAfter=No
+9	bíi	bíi	ADP	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	case	_	_
+10	OYIN,	OYIN,	NOUN	_	_	8	nmod	_	_
+11	EPO	Epo	NOUN	_	_	10	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	IYỌ	IYỌ	NOUN	_	_	4	obj	_	SpaceAfter=No
+13	IYỌ	IYỌ	NOUN	_	_	10	conj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	ẸJA	ẹja	ADV	_	_	13	conj	_	SpaceAfter=No
+15	ẸJA	ẹja	NOUN	_	_	10	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
-17	OMI	omi	NOUN	_	_	15	conj	_	_
-18	abbl	abbl	NOUN	_	_	17	nmod	_	SpaceAfter=No
+17	OMI	omi	NOUN	_	_	10	conj	_	_
+18	abbl	abbl	NOUN	_	_	10	conj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = wiki0036
 # text = Oríṣìíríṣìí nǹkan ló le yọrí sí orúkọ tí a sọ ọmọ.
 1	Oríṣìíríṣìí	Oríṣìíríṣìí	DET	_	_	2	det	_	_
-2	nǹkan	nǹkan	NOUN	_	_	5	nsubj	_	_
-3	ló	ló	AUX	_	_	5	aux	_	_
+2	nǹkan	nǹkan	NOUN	_	_	3	nsubj	_	_
+3	ló	ló	VERB	_	_	5	csubj	_	_
 4	le	lè	AUX	_	_	5	aux	_	_
 5	yọrí	yọrí	VERB	_	_	0	root	_	_
 6	sí	sí	ADP	_	_	7	case	_	_
