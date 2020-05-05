@@ -9487,12 +9487,11 @@
 16	3	3	NUM	_	NumType=Card	8	acl	_	_
 17	ati	ati	CCONJ	_	_	23	cc	_	_
 18	apá	apá	NOUN	_	_	23	nsubj	_	_
-19	tíkòsi	tíkòsi	ADJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	amod	_	SpaceAfter=No
-20	´	´	SYM	_	_	19	goeswith	_	_
-21	to	to	ADV	_	_	23	advmod	_	_
-22	jẹ	jẹ	AUX	_	_	23	cop	_	_
-23	2	2	NUM	_	NumType=Card	16	conj	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+19	tíkòsi´	tíkòsi´	ADJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	amod	_	_
+20	to	to	ADV	_	_	22	advmod	_	_
+21	jẹ	jẹ	AUX	_	_	22	cop	_	_
+22	2	2	NUM	_	NumType=Card	16	conj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = wiki0117
