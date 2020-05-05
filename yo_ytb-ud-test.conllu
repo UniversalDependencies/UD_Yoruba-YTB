@@ -9443,14 +9443,14 @@
 5	àwón	àwón	DET	_	_	6	det	_	_
 6	nọ́mbà	nọ́mbà	ADV	_	_	9	nsubj	_	_
 7	gidi	gidi	ADJ	_	_	6	amod	_	_
-8	je	je	AUX	_	_	9	cop	_	_
+8	je	jẹ́	AUX	_	_	9	cop	_	_
 9	nọ́mbà	nọ́mbà	ADV	_	_	3	ccomp	_	_
 10	tósòro	tósòro	ADJ	_	_	9	amod	_	_
 11	pelu	pelu	ADP	_	_	12	case	_	_
 12	apá	apá	NOUN	_	_	9	nmod	_	_
 13	tíkòsi´	tíkòsi´	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nmod	_	_
 14	tó	tó	ADV	_	_	16	advmod	_	_
-15	jé	jé	AUX	_	_	16	cop	_	_
+15	jé	jẹ́	AUX	_	_	16	cop	_	_
 16	òdo	òdo	NOUN	_	_	12	acl	_	SpaceAfter=No
 17	;	;	PUNCT	_	_	25	punct	_	_
 18	eyun	eyun	ADV	_	_	25	advmod	_	_
@@ -9475,7 +9475,7 @@
 4	3	3	NUM	_	NumType=Card	8	nsubj	_	_
 5	+	+	SYM	_	_	6	cc	_	_
 6	2i	2i	NUM	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	conj	_	_
-7	jé	jé	AUX	_	_	8	cop	_	_
+7	jé	jẹ́	AUX	_	_	8	cop	_	_
 8	nọ́mbà	nọ́mbà	NOUN	_	_	0	root	_	_
 9	tósòro	tósòro	ADJ	_	_	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	16	punct	_	_
@@ -9483,13 +9483,13 @@
 12	apá	apá	NOUN	_	_	16	nsubj	_	_
 13	gidi	gidi	ADJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	amod	_	_
 14	to	to	ADV	_	_	16	advmod	_	_
-15	jẹ	jẹ	AUX	_	_	16	cop	_	_
+15	jẹ	jẹ́	AUX	_	_	16	cop	_	_
 16	3	3	NUM	_	NumType=Card	8	acl	_	_
 17	ati	ati	CCONJ	_	_	22	cc	_	_
 18	apá	apá	NOUN	_	_	22	nsubj	_	_
 19	tíkòsi´	tíkòsi´	ADJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	amod	_	_
 20	to	to	ADV	_	_	22	advmod	_	_
-21	jẹ	jẹ	AUX	_	_	22	cop	_	_
+21	jẹ	jẹ́	AUX	_	_	22	cop	_	_
 22	2	2	NUM	_	NumType=Card	16	conj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
 
