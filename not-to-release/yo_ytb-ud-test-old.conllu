@@ -466,7 +466,7 @@
 27	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	Gloss=he|Ref=GEN_1.16
 28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=GEN_1.16
 29	dá	dá	VERB	_	_	2	parataxis	_	Gloss=made|Ref=GEN_1.16
-30	àwọn	à	DET	_	_	31	det	_	Gloss=the|Ref=GEN_1.16
+30	àwọn	àwọn	DET	_	_	31	det	_	Gloss=the|Ref=GEN_1.16
 31	ìràwọ̀	ìràwọ̀	NOUN	_	_	29	obj	_	Gloss=stars|Ref=GEN_1.16
 32	pẹ̀lú	pẹ̀lú	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=too|Ref=GEN_1.16
 33	.	.	PUNCT	_	_	29	punct	_	Gloss=.|Ref=GEN_1.16
@@ -2366,7 +2366,7 @@
 8	Mo	Mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=i|Ref=JOHN_11.24
 9	mọ̀	mọ̀	VERB	_	_	2	ccomp	_	Gloss=know|Ref=JOHN_11.24
 10	pé	pé	SCONJ	_	_	12	mark	_	Gloss=that|Ref=JOHN_11.24
-11	yóò	yóò	AUX	_	_	12	aux	_	Gloss=he-shall|Ref=JOHN_11.24
+11	yóò	yóò	AUX	_	_	12	aux	_	Gloss=shall|Ref=JOHN_11.24
 12	jíǹde	jíǹde	VERB	_	_	9	ccomp	_	Gloss=risen|Ref=JOHN_11.24
 13	ní	ní	ADP	_	_	14	case	_	Gloss=on|Ref=JOHN_11.24
 14	àjíǹde	àjíǹde	NOUN	_	_	12	obl	_	Gloss=resurrection|Ref=JOHN_11.24
@@ -2403,14 +2403,14 @@
 24	tilẹ̀	tilẹ̀	SCONJ	_	_	25	mark	_	Gloss=though|Ref=JOHN_11.25
 25	kú	kú	VERB	_	_	28	advcl	_	Gloss=die|Ref=JOHN_11.25|SpaceAfter=No
 26	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=JOHN_11.25
-27	yóò	yóò	AUX	_	_	28	aux	_	Gloss=he-shall|Ref=JOHN_11.25
+27	yóò	yóò	AUX	_	_	28	aux	_	Gloss=shall|Ref=JOHN_11.25
 28	yè	yè	VERB	_	_	10	parataxis	_	Gloss=live|Ref=JOHN_11.25|SpaceAfter=No
 29	:	:	PUNCT	_	_	2	punct	_	Gloss=:|Ref=JOHN_11.25
 
 # sent_id = JOHN_11.26
 # text = Ẹnikẹ́ni tí ó ń bẹ láàyè, tí ó sì gbà mí gbọ́, kì yóò kú láéláé ìwọ gbà èyí gbọ́?”
 # text_en = And whosoever liveth and believeth in me shall never die. Believest thou this?
-1	Ẹnikẹ́ni	ẹnikẹ́ni	ADJ	_	_	17	nsubj	_	Gloss=whosoever|Ref=JOHN_11.26
+1	Ẹnikẹ́ni	ẹnikẹ́ni	PRON	_	PronType=Ind	17	nsubj	_	Gloss=whosoever|Ref=JOHN_11.26
 2	tí	tí	PRON	_	PronType=Rel	5	nsubj	_	Gloss=that|Ref=JOHN_11.26
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=he|Ref=JOHN_11.26
 4	ń	ń	AUX	_	_	5	aux	_	Gloss=is|Ref=JOHN_11.26
@@ -2896,7 +2896,7 @@
 32	,	,	PUNCT	_	_	31	punct	_	Gloss=,|Ref=JOHN_11.41
 33	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	Gloss=i|Ref=JOHN_11.41
 34	dúpẹ́	dúpẹ́	VERB	_	_	27	ccomp	_	Gloss=thank|Ref=JOHN_11.41
-35	lọ́wọ́	lọ́wọ́	ADP	_	_	36	case	_	Gloss=present|Ref=JOHN_11.41
+35	lọ́wọ́	lọ́wọ́	ADP	_	_	36	case	_	Gloss=from|Ref=JOHN_11.41
 36	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	34	obl	_	Gloss=thy|Ref=JOHN_11.41
 37	nítorí	nítorí	SCONJ	_	_	40	mark	_	Gloss=for|Ref=JOHN_11.41
 38	tí	tí	PRON	_	PronType=Rel	37	fixed	_	Gloss=that|Ref=JOHN_11.41

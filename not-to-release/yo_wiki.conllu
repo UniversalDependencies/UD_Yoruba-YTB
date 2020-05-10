@@ -1,6 +1,6 @@
 # newdoc
 # newpar
-# sent_id = 1
+# sent_id = wiki0001
 # text = Ẹ̀gbà ọrùn bí ìbòju tí Benin jẹ́ ẹ̀gbà ọrùn tí wọ́n gbẹ́ lére tí ó sì jẹ́ àwòrán akọni obìrin tí a mọ̀ si ìyá wa Olorì Idia ti ọ̀rundún mẹ́rìndínlógún ṣẹ́yìn.
 1	Ẹ̀gbà	Ẹ̀gbà	NOUN	_	_	0	root	_	_
 2	ọrùn	ọrùn	NUM	_	NumType=Card	1	nmod	_	_
@@ -37,7 +37,7 @@
 33	.	.	PUNCT	_	_	27	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 2
+# sent_id = wiki0002
 # text = Ọmọ rẹ̀ Esigie tí ó jẹ́ ọba ti Benin maa ń wọ́ èyí tí ó jọọ́ fún àwọn ọmọ ogun ẹ̀yìn ìya olorì.
 1	Ọmọ	Ọmọ	NOUN	_	_	3	nsubj	_	_
 2	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
@@ -65,7 +65,7 @@
 24	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 3
+# sent_id = wiki0003
 # text = Ibojú yìí pé méjì tí ó jọ ara wọn: Ìkan wà ní Ilé ọnà ti a mọ̀ sí British Museum ní ìlú London tí ìkejì sì wà ní ilé ọnà tí a mọ̀ sí Metropolitan Museum of Art ní ìlú New York.
 1	Ibojú	Ibojú	NOUN	_	_	0	root	_	_
 2	yìí	yìí	DET	_	_	1	det	_	_
@@ -113,7 +113,7 @@
 44	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 4
+# sent_id = wiki0004
 # text = Àwọn àpẹẹrẹ rẹ̀ lórí àkọ́lé kan náà wà ní Seattle Art Museum àti Linden Museum, tí ìkan ná sì wà ní ilé ibi tí wọ́n kò gba òpò eniyan láyè láti wọ̀, gbogbo rẹ̀ ní wọ́n kó nígbà ìwádí lọ sí ìlú Benin ní ọdún 1897.
 1	Àwọn	Àwọn	DET	_	_	2	det	_	_
 2	àpẹẹrẹ	àpẹẹrẹ	NOUN	_	_	8	nsubj	_	_
@@ -166,7 +166,7 @@
 49	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 5
+# sent_id = wiki0005
 # text = Ìbojú yìí ti di àmì ìdánimọ̀ lóde òní ní orílẹ̀ èdè Nàìjíríà láti ìgbà ìpéjọ-pọ̀ kan tí a mọ̀ sí FESTAC 77 tí ó wáyé ní ọdún 1977.
 1	Ìbojú	Ìbojú	NOUN	_	_	4	nsubj	_	_
 2	yìí	yìí	DET	_	_	1	det	_	_
@@ -201,7 +201,7 @@
 31	1977	1977	NUM	_	NumType=Card	30	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	21	punct	_	SpacesAfter=\s\n
 
-# sent_id = 6
+# sent_id = wiki0006
 # text = Ìrísí àti Ìwúlò rẹ̀.
 1	Ìrísí	Ìrísí	NOUN	_	_	0	root	_	_
 2	àti	àti	CCONJ	_	_	3	cc	_	_
@@ -210,7 +210,7 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 7
+# sent_id = wiki0007
 # text = Bí ó tilẹ̀ jẹ́ wípé ó ní ìrísí èyí tí ó jọ Ìbojú Ìbílẹ̀ Aláwọ̀dúdú, ībòjú kékeré òhún tí kò gígùn rẹ̀ kò ju ìwòn 24cm lọ kìí ṣé fún wíwọ̀ sójú, Ọba lè wọ̀ọ́ sọ́rùn (tí ó sì maa bá mu) tàbí bi "ìlẹ̀kẹ̀ ìbàdí" (èyí tí ó sì maa bá ayẹyẹ tí ó fẹ́ sẹe mu).
 1	Bí	Bí	SCONJ	_	_	5	mark	_	_
 2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -281,7 +281,7 @@
 67	.	.	PUNCT	_	_	50	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 8
+# sent_id = wiki0008
 # text = Èyí tí ó wà ní ilé ọnà Met àti èyí tí ó wà ní ilé ọnà British fẹ́ jọ ara wọn, méjèèjì ni ó jẹ́ àwòràn Olorì Idia.
 1	Èyí	èyí	NOUN	_	_	0	root	_	_
 2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	_
@@ -315,7 +315,7 @@
 30	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 9
+# sent_id = wiki0009
 # text = Wọn dárà ìlẹ̀kẹ̀ si lórí, lọ́rùn, ègbẹ́ níwájú orí àti gbígbẹ́ èyí tí ó fàyè ọ̀nà méjì tí wọ́n lè fi ẹ̀gbà kọ́.
 1	Wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	dárà	dárà	VERB	_	_	0	root	_	_
@@ -345,7 +345,7 @@
 26	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 10
+# sent_id = wiki0010
 # text = Lóde òní àwọn ènìyàn máa ń gbé onírú irú àworan tí ó jọ́ọ níbi ayẹyẹ láti lé ẹbọra búrúkú, ṣùgbọ́n ní bí ọrundún mẹ́rìndínlógún sẹ́yìn, wọ́n lè maa lòó fún ayẹyẹ ìya ọba.
 1	Lóde	Lóde	NOUN	_	_	2	nsubj	_	_
 2	òní	òní	VERB	_	_	0	root	_	_
@@ -385,7 +385,7 @@
 36	.	.	PUNCT	_	_	34	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 11
+# sent_id = wiki0011
 # text = Ó dàbí wípé ní bí ìbẹ̀rẹ̀ ọrúndún mẹ́rìndínlógún sẹ́yìn ni wọ́n gbẹ́ àwọn Ìbòjú méjèèjì, bóya ní ọdún 1520, nígbà tí Olorì Idia, ìyá ọba Oba Esigie, jẹ́ aládájọ́ ní ilé ẹjọ́ ti Benin.
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	dàbí	dàbí	VERB	_	_	0	root	_	_
@@ -428,14 +428,14 @@
 39	.	.	PUNCT	_	_	17	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 12
+# sent_id = wiki0012
 # text = Akọni obìnrin.
 1	Akọni	Akọni	ADP	_	_	2	case	_	_
 2	obìnrin	obìnrin	NOUN	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 13
+# sent_id = wiki0013
 # text = Irú àwòrán yìí kò wọ́pọ̀ ní iṣẹ́ ọnà ilẹ̀ Benin, àti pé ipò Idia, tí iṣẹ̀ṣe àwọn Edo mọ̀ sí "obìnrin kan ṣoṣo tó lọ sógun", tí ó da yàtọ̀, tí wọ́n sí dá oyèIyoba tàbí Ìyá Olori ̀́n sílẹ̀ fun Ìwérí rẹ̀ jẹ́ ara irú irun tí wọ́n ń pè ní ẹnu àparò, tí a lè rí dáadára ní àfihàn orí edẹ Olorì Idia.
 1	Irú	irú	ADP	_	_	2	case	_	_
 2	àwòrán	àwòrán	NOUN	_	_	5	nsubj	_	_
@@ -512,7 +512,7 @@
 73	.	.	PUNCT	_	_	28	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 14
+# sent_id = wiki0014
 # text = Ìwérí rẹ̀ tí ó rẹwà àti ìlẹ̀kẹ̀ ọrùn rẹ̀ bí ìlẹ̀kẹ̀ roboto ("ọlà"), tí wọ́n fún ìya wa olorì láàfàní láti máa wọ̀, léyí tí ó jẹ́ pé olóyè ni ówà fún.
 1	Ìwérí	Ìwérí	NOUN	_	_	0	root	_	_
 2	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
@@ -555,7 +555,7 @@
 39	.	.	PUNCT	_	_	37	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 15
+# sent_id = wiki0015
 # text = Ìlẹ̀kẹ̀ pupa yìí àti aṣọ pupa, ti fìgbàkan wà fún àwọn olókìkí, tí wọ́n sì ti ri lóde òní gẹ́gẹ́ bi ara imùra ìbílẹ̀ ní Edo.
 1	Ìlẹ̀kẹ̀	Ìlẹ̀kẹ̀	ADP	_	_	2	case	_	_
 2	pupa	pupa	NOUN	_	_	0	root	_	_
@@ -588,7 +588,7 @@
 29	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 16
+# sent_id = wiki0016
 # text = Ní iwájú orí ìbòjú méjì yìí, ìlà mẹ́rin wà níbẹ̀, tí ó sì dúro ṣangílítí sí òkè ojú kànkan, irin méjì sì ṣe àpèjúwe ilà yìí.
 1	Ní	ní	ADP	_	_	3	case	_	_
 2	iwájú	iwájú	ADP	_	_	3	case	_	_
@@ -622,7 +622,7 @@
 30	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 17
+# sent_id = wiki0017
 # text = Irin ni wọ́n fi ṣe ibi ojú rẹ̀.
 1	Irin	Irin	NOUN	_	_	4	nsubj	_	_
 2	ni	ni	PART	_	_	1	case	_	_
@@ -635,7 +635,7 @@
 9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 18
+# sent_id = wiki0018
 # text = Àmì fún okùn òwò.
 1	Àmì	àmì	NOUN	_	_	0	root	_	_
 2	fún	fún	ADP	_	_	3	case	_	_
@@ -644,7 +644,7 @@
 5	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 19
+# sent_id = wiki0019
 # text = Ibi funfun ìwò ẹ̀fọ̀ tí wọ́n fi ṣe ìwòjú yìí jẹ́ àpẹẹrẹ òòṣà Olokun.
 1	Ibi	ibi	PRON	_	PronType=Ind	2	nsubj	_	_
 2	funfun	funfun	VERB	_	_	0	root	_	_
@@ -663,7 +663,7 @@
 15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 20
+# sent_id = wiki0020
 # text = Bí ó ṣe rí yìí, kò wọ́n nìkan nítórí wọ́n lọ ìwo ẹfọ̀ tí ó wúlò tí ó sì ṣeétà lówó gọbọhi, ṣùgbọ́n àwọ̀ rẹ̀ tún jẹ́ àpẹ́ẹrẹ òòṣà tí ó ní ṣ pẹ̀lú olá Oba Benin.
 1	Bí	Bí	PART	_	_	3	mark	_	_
 2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -707,7 +707,7 @@
 40	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 21
+# sent_id = wiki0021
 # text = Ihò tí ó wà ní ibi oun ẹ̀ṣọ́ rẹ̀ àti ibi ọrùn rẹ̀ jẹ́ àpẹẹrẹ ìlẹ̀kẹ̀ ọrùn tí àwọn ọkùnrin Àgùdà maa ń fi ṣẹ̀ṣọ́, tí ó sì jẹ́ wípé àwòrán mọ́kànlá bẹ́ẹ̀ wà ní ilé ọnà ìbòjú tí Bìrìtìkó àti pé mẹ́tàlá wà ní ilé ọnà Met tí ó ṣe àfihàn àwọn ọkùnrin Àgùdá tí wọ́n múra bí àwọn ènìyàn dúdú.
 1	Ihò	ihò	NOUN	_	_	15	nsubj	_	_
 2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	_
@@ -775,7 +775,7 @@
 64	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 22
+# sent_id = wiki0022
 # text = Orùn ìwòjú tí ó wà ní ilé ọnà Metropolitant (Met) jọ mọ́ èyí tí wọ́n fi àwọn ọkùnrin Àgùdà ṣẹ̀ṣọ́ rẹ̀ (ẹ̀gbẹ́ rẹ̀ ti bàjẹ́ díẹ̀), Bí ó tilẹ̀ jẹ́ pé, ọrùn ìwòjú èyí tí ó wà ní ilé ọnà Bìrìtìkó jẹ́ èyí tí wọ́n fi igi tàbí irin gbẹ́.
 1	Orùn	Orùn	NOUN	_	_	11	nsubj	_	_
 2	ìwòjú	ìwòjú	NOUN	_	_	1	nmod	_	_
@@ -836,7 +836,7 @@
 57	.	.	PUNCT	_	_	36	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 23
+# sent_id = wiki0023
 # text = Àwọn Àgùdà jẹ́ oníṣòwò pẹ̀lú àwọn Benin nígbàyẹn gẹ́gẹ́ bí wọ́n ti ṣàpèjúwe rẹ̀, ó jẹ́ àpẹrẹ́ àjọṣepọ̀ láàrin omi àti ilẹ̀.
 1	Àwọn	àwọn	DET	_	_	2	det	_	_
 2	Àgùdà	Àgùdà	PROPN	_	_	4	nsubj	_	_
@@ -864,7 +864,7 @@
 24	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 24
+# sent_id = wiki0024
 # text = Ẹ ti tẹ̀lé ìjápọ̀ mọ́ ojúewé tí kò sí.
 1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
 2	ti	ti	AUX	_	_	3	aux	_	_
@@ -878,7 +878,7 @@
 10	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 25
+# sent_id = wiki0025
 # text = Láti dá ojúewé yí ẹ bẹ̀rẹ̀ síní tẹ́kọ sí inú àpótí ìsàlẹ̀ yí (ẹ wo ojúewé ìrànlọ́wọ́ fun ẹ̀kúnrẹ́rẹ́ ).
 1	Láti	láti	CCONJ	_	_	2	cc	_	_
 2	dá	dá	VERB	_	_	0	root	_	_
@@ -904,7 +904,7 @@
 22	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 26
+# sent_id = wiki0026
 # text = T'óbá sepé àsìse ló gbé yin dé bi, ẹ kọn bọ́tìnì ìpadàsẹ́yìn.
 1	T'	T'	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 2	óbá	óbá	ADV	_	_	3	advmod	_	_
@@ -923,7 +923,7 @@
 15	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 27
+# sent_id = wiki0027
 # text = Orúkọ dàbí àmì ìdánimọ̀ tí a fi ń dá ẹnìkọ̀ọ̀kan mọ̀ orúkọ ló jẹ́ kí á dá Táyé mọ̀ yàtọ̀ sí Kẹ́hìndé, káàkiri àgbáyé ní a sì tí ń lo orúkọ, ní ọ̀pọ̀ ìgbà orúkọ sì máa ń fi bí ènìyàn ṣe jẹ́ láwùjọ hàn àti wí pe orúkọ ẹni le buyì fún ènìyàn láwùjọ.
 1-2	Orúkọ	_	_	_	_	_	_	_	_
 1	O	o	DET	_	_	2	det	_	_
@@ -995,7 +995,7 @@
 63	.	.	PUNCT	_	_	48	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 28
+# sent_id = wiki0028
 # text = Ìṣọmọlórúkọ láàárín àwọn Yorùbá dàbí ìgbà tí a ń ṣe ọdún ní torí pé tọmọ, taya, tẹbí, tará, tìyekan àti àwọn alábáse gbogbo ní yóò pésẹ̀ sí ibẹ̀.
 1-2	Ìṣọmọlórúkọ	_	_	_	_	_	_	_	_
 1	Ìṣọmọlí	Ìṣọmọlí	ADP	_	_	2	case	_	_
@@ -1034,7 +1034,7 @@
 34	.	.	PUNCT	_	_	31	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 29
+# sent_id = wiki0029
 # text = Láyé àtijọ́ ọjọ́ keje ní wọ́n máa ń sọ ọmọ obìnrin lórúkọ nígbà tí tọmọ kùnrin sì jẹ́ ọjọ́ kẹsàn-án èyí wà ní ìbámu pẹ̀lú èrò àti ìgbàgbọ́ wọn pé eegun méje ni obìnrin ní nígbà tí tọkùnrin jẹ́ mẹ́sàn-án.
 1	Láyé	Láyé	ADP	_	_	2	case	_	_
 2	àtijọ́	àtijọ́	NOUN	_	_	4	nsubj	_	_
@@ -1083,7 +1083,7 @@
 44	.	.	PUNCT	_	_	43	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 30
+# sent_id = wiki0030
 # text = ṣùgbọ́n lóde-òní ohun gbogbo ti yí padà àti obìnrin àti ọkùnrin ni wọ́n ń sọ lórúkọ lọ́jẹ́ kẹjọ.
 1	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	2	cc	_	_
 2	lóde	lóde	VERB	_	_	0	root	_	SpaceAfter=No
@@ -1110,7 +1110,7 @@
 22	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 31
+# sent_id = wiki0031
 # text = Bí a ṣe ń ṣe ìṣọmọlórúkọ yàtọ̀ láti idílẹ́ sí ìdílé ṣùgbọ́n ní ọjọ́ ìṣọmọlórúkọ yìí àgbà ilé lóbìnrin yóò gbé ọmọ yìí lọ́wọ́ yóò sì fí ẹsẹ̀ rẹ̀ tẹ ilẹ̀.
 1	Bí	bí	PART	_	_	3	mark	_	_
 2	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
@@ -1150,7 +1150,7 @@
 34	.	.	PUNCT	_	_	23	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 32
+# sent_id = wiki0032
 # text = Orísìírísìí nǹkan ní wọ́n ń lò níbi ìsọmọlórúkọ bíi Oyin, Epo, Iṣu, Ẹja,
 1	Orísìírísìí	Orísìírísìí	DET	_	_	2	case	_	_
 2	nǹkan	nǹkan	NOUN	_	_	6	nsubj	_	_
@@ -1172,7 +1172,7 @@
 17	Ẹja	ẹja	ADV	_	_	15	advmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 33
+# sent_id = wiki0033
 # text = Iyọ̀, Omi, abbl láti jẹ́ kí ọmọ yìí mọ bí ayé se rí wọn yóò fí gbogbo ohun tí a kà sókè yìí tọ́ ọmọ lẹ́nu wò, wọ́n sì máa ń wọ́n omi sí ọmọ yìí lára tàbí kí wọ́n da omi sí orí páànù kí wọn ó wá jẹ́ kí ó kán si ọmọ yìí lára.
 1	Iyọ̀	Iyọ̀	NOUN	_	_	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
@@ -1237,7 +1237,7 @@
 61	.	.	PUNCT	_	_	52	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 34
+# sent_id = wiki0034
 # text = Orúkọ dabí fèrèsé tí ó fi ÀṢÀ, Èsìn, Iṣé àti ìgbàgbọ́ àwọn Yorùbá hàn.
 1-2	Orúkọ	_	_	_	_	_	_	_	_
 1	O	o	DET	_	_	2	det	_	_
@@ -1259,7 +1259,7 @@
 17	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 35
+# sent_id = wiki0035
 # text = Oríṣìíríṣìí nǹkan la fi ń sọmọ lórúkọ bíi OYIN, EPO, IYỌ, ẸJA, OMI abbl.
 1	Oríṣìíríṣìí	Oríṣìíríṣìí	DET	_	_	4	mark	_	_
 2	nǹkan	nǹkan	NOUN	_	_	4	nsubj	_	_
@@ -1282,7 +1282,7 @@
 18	abbl	abbl	NOUN	_	_	17	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 36
+# sent_id = wiki0036
 # text = Oríṣìíríṣìí nǹkan ló le yọrí sí orúkọ tí a sọ ọmọ.
 1	Oríṣìíríṣìí	Oríṣìíríṣìí	DET	_	_	2	det	_	_
 2	nǹkan	nǹkan	NOUN	_	_	5	nsubj	_	_
@@ -1300,7 +1300,7 @@
 13	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 37
+# sent_id = wiki0037
 # text = Genevieve Nnaji ọjọ́ ìbí May 3, 1979 ní Mbaise, Ipinle Imo, jẹ́ òṣeré filmu ọmọ ilẹ̀ Nàìjíríà.
 1	Genevieve	Genevieve	NOUN	_	_	17	nsubj	_	_
 2	Nnaji	Nnaji	ADP	_	_	3	case	_	_
@@ -1325,7 +1325,7 @@
 21	.	.	PUNCT	_	_	17	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 38
+# sent_id = wiki0038
 # text = Ní 2005 ó gba Ẹ̀bùn Akadẹ́mì Filmu ilẹ̀ Áfríkà gẹ́gẹ́ bíi Òṣeré Obìnrin Dídárajùlọ.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	2005	2005	NUM	_	NumType=Card	4	nsubj	_	_
@@ -1344,7 +1344,7 @@
 15	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 39
+# sent_id = wiki0039
 # text = Ìgbà èwe: Ìlú Èkó ni Genevieve Nnaji ti dàgbà.
 1	Ìgbà	ìgbà	NOUN	_	_	7	nsubj	_	_
 2	èwe	èwe	NOUN	_	_	1	nmod	_	SpaceAfter=No
@@ -1359,7 +1359,7 @@
 11	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 40
+# sent_id = wiki0040
 # text = Ìkẹrin nínú àwọn ọmọ méjọ, ọ̀mọ̀wé ni àwọn òbí rẹ̀.
 1	Ìkẹrin	Ìkẹrin	NOUN	_	_	5	nsubj	_	_
 2	nínú	nínú	ADP	_	_	4	case	_	_
@@ -1375,7 +1375,7 @@
 12	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 41
+# sent_id = wiki0041
 # text = Bàbá rẹ̀ siṣẹ́ gẹ́gẹ́ bíi onímọ̀ iṣẹ́-ẹ̀rọ (engineer) nígbàtí ìyá rẹ̀ sì jẹ́ olùkọ́.
 1	Bàbá	Bàbá	NOUN	_	_	3	nsubj	_	_
 2	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
@@ -1397,7 +1397,7 @@
 18	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 42
+# sent_id = wiki0042
 # text = Ò lọ sí ilé ẹ̀kọ́ Methodist Girls College ní Yaba, lẹ́yìn rẹ̀ ó tẹrísí Yunifásítì ìlú Èkó.
 1	Ò	Ò	NOUN	_	_	2	nsubj	_	_
 2	lọ	lọ	VERB	_	_	0	root	_	_
@@ -1420,7 +1420,7 @@
 19	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 43
+# sent_id = wiki0043
 # text = Níbẹ̀ lówà tó ti bẹ̀rẹ̀ sí ní ṣiṣẹ́ díèdíẹ̀ gẹ́gẹ́ bíi òṣèré ni Nollywood.
 1	Níbẹ̀	níbẹ̀	NOUN	_	_	5	nsubj	_	_
 2	lówà	lówà	AUX	_	_	5	aux	_	_
@@ -1439,7 +1439,7 @@
 15	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 44
+# sent_id = wiki0044
 # text = Nnaji bẹ̀rẹ̀ ìṣèré rẹ̀ láti ọmọdé ninu eré tẹlifísọ̀n Ripples nígbà tójẹ́ ọmọ ọdún 8.
 1	Nnaji	Nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 2	bẹ̀rẹ̀	bẹ̀rẹ̀	SCONJ	_	_	3	case	_	_
@@ -1459,7 +1459,7 @@
 16	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 45
+# sent_id = wiki0045
 # text = Ó tún ṣe ìpolówó ọjà bíi méèló kan nínú èyí tó jẹ́ fún Pronto àti ọṣẹ ìfọsọ Omo.
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	tún	tún	ADV	_	_	3	advmod	_	_
@@ -1482,7 +1482,7 @@
 19	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 46
+# sent_id = wiki0046
 # text = Ní 2004 ó di aṣojú fún ọsẹ ìwẹ̀ Lux, ìbáṣe ìgbọ̀wọ́ tọ́ fa èrè ínlá wá fun.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	2004	2004	NUM	_	NumType=Card	4	nsubj	_	_
@@ -1505,7 +1505,7 @@
 19	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 47
+# sent_id = wiki0047
 # text = Ni 1998 nígbà tójẹ́ ọmọ ọdún 19 wọn ṣe àmúhàn rẹ̀ sí àwọn olólùfẹ́ filmu ni Naijiria pẹ̀lú filmu tó ún jẹ́ Most Wanted.
 1	Ni	ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	1998	1998	NUM	_	NumType=Card	1	nmod	_	_
@@ -1534,7 +1534,7 @@
 25	.	.	PUNCT	_	_	23	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 48
+# sent_id = wiki0048
 # text = Lẹ́yìn rẹ̀ ó tún ṣe àwọn filmu bíi Last Party, Mark of the Beast àti Ijele.
 1	Lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	_
 2	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -1555,7 +1555,7 @@
 17	Ijele	Ijele	NOUN	_	_	12	conj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 49
+# sent_id = wiki0049
 # text = Ó ti kópa nínúu filmu tó tó 80 ni Nollywood.
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	ti	ti	AUX	_	_	4	aux	_	_
@@ -1570,7 +1570,7 @@
 11	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 50
+# sent_id = wiki0050
 # text = Nnaji ti gba ọ̀pọ̀lọpọ̀ ẹ̀bùn fún iṣẹ́ rẹ̀ ìkan nínú wọn jẹ́ gẹ́gẹ́ bíi òṣèré obìnrin tó dára jùlọ fún 2001 ní City People Awards, ó sì tún gba ẹ̀yẹ gẹ́gẹ́ bíi Òṣèré Obìnrin Tódárajùlọ ní 2005 nínú àwọn Ẹ̀bùn Akadẹ́mì Filmu ilẹ̀ Áfríkà.
 1	Nnaji	Nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	ti	ti	AUX	_	_	3	aux	_	_
@@ -1620,7 +1620,7 @@
 46	.	.	PUNCT	_	_	42	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 51
+# sent_id = wiki0051
 # text = Ní 2004, ó tọwọ́bọ̀wé pẹ̀lú ilé ìṣẹ́ àwo-orin ilẹ̀ Ghana, EKB Records láti gbé àwo-orin àkọ́kọ́ rẹ̀ jáde tó ún jẹ́ One Logologo Line, àdàlú orin R&B, Hip-Hop àti Urban.
 1	Ní	ní	NOUN	_	_	5	nsubj	_	_
 2	2004	2004	NUM	_	NumType=Card	1	nmod	_	SpaceAfter=No
@@ -1664,7 +1664,7 @@
 40	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 52
+# sent_id = wiki0052
 # text = Ní 2008 ni ó ṣí ilé ìránsọ rẹ̀ tó ún jẹ́ "St.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	2008	2008	NUM	_	NumType=Card	5	obl	_	_
@@ -1681,7 +1681,7 @@
 13	St	St	NOUN	_	_	5	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 53
+# sent_id = wiki0053
 # text = Genevieve", èyí tó ún ṣọrẹ ìdámẹ́ẹ̀wá èrè rẹ̀.
 1	Genevieve	Genevieve	NOUN	_	_	6	nsubj	_	SpaceAfter=No
 2	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -1696,7 +1696,7 @@
 11	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 54
+# sent_id = wiki0054
 # text = Ní Nollywood, Genevieve Nnaji jẹ́ ọ̀kan nínú àwọn tí owó iṣẹ́ wọn pọ̀jùlọ.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	Nollywood,	nollywood,	NOUN	_	_	0	root	_	_
@@ -1714,7 +1714,7 @@
 14	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 55
+# sent_id = wiki0055
 # text = Ẹgbẹ́ Akọ́mọlédè àti àṣà Yorùbá jẹ́ àgbárí-jọ-pọ Àwọn olùkọ́ nílé ìwé alákọ̀ọ́bẹ̀rẹ̀, girama àti ilé ẹ̀kọ́ fásitì ti ìjọba pẹ̀lú aládàáni jákè jádò ilẹ̀ Nàjíríà.
 1	Ẹgbẹ́	ẹgbẹ́	NOUN	_	_	0	root	_	_
 2	Akọ́mọlédè	Akọ́mọlédè	NOUN	_	_	1	nmod	_	_
@@ -1747,7 +1747,7 @@
 29	.	.	PUNCT	_	_	21	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 56
+# sent_id = wiki0056
 # text = Ẹgbẹ́ yìí ń ṣojú Yorùbá níbi ìgbé lárugẹ èdè, àṣà àti ìdàgbà sókè ìṣèṣe Yorùbá.
 1	Ẹgbẹ́	ẹgbẹ́	NOUN	_	_	4	nsubj	_	_
 2	yìí	yìí	DET	_	_	1	det	_	_
@@ -1768,7 +1768,7 @@
 17	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 57
+# sent_id = wiki0057
 # text = Alhaji Lukman Ẹ̀bùn Olóyèdé Ọláìyá tí gbogbo ènìyàn mọ̀ sí Igwe jẹ́ ọmọ orílẹ̀ èdè Nàìjíríà àti òṣèré sinimá àgbéléwò.
 1	Alhaji	Alhaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	root	_	_
 2	Lukman	Lukman	ADP	_	_	3	case	_	_
@@ -1793,7 +1793,7 @@
 21	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 58
+# sent_id = wiki0058
 # text = Wọ́n bí Ẹ̀bùn Olóyèdé ní ilú Kẹ́nta, Òkè-Èjìgbò Abẹ́òkúta.
 1	Wọ́n	Wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 2	bí	bí	SCONJ	_	_	7	mark	_	_
@@ -1810,7 +1810,7 @@
 13	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 59
+# sent_id = wiki0059
 # text = Ètò ẹ̀kọ́ rẹ̀: Ọláìyá lọ sí ilé ìwé alákọ̀ọ́bọẹ̀rẹ̀ St.Judes ní ìlú Abẹòkúta ní ìpínlẹ̀ Ògùn, tí ó sì tún tè síwájú nínú ẹ̀kọ́ rẹ̀ ní ilé ìwé girama (Premier) ní Abẹ́òkúta.
 1	Ètò	Ètò	ADP	_	_	2	case	_	_
 2	ẹ̀kọ́	ẹ̀kọ́	NOUN	_	_	0	root	_	_
@@ -1850,7 +1850,7 @@
 36	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 60
+# sent_id = wiki0060
 # text = Lẹ́yìn tí ó parí èyí ni ó lọ kẹ́kọ̀ọ́ nípa ìbára ẹni sọọ̀rọ̀ ní ilé ẹ̀kọ́ gbogbo-nìṣe tí Moshood Abíọ́lá Òjéèrè ìpínlẹ̀ Ògùn.
 1	Lẹ́yìn	lẹ́yìn	ADP	_	_	4	mark	_	_
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	_
@@ -1880,7 +1880,7 @@
 26	.	.	PUNCT	_	_	19	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 61
+# sent_id = wiki0061
 # text = Iṣẹ́ rè gẹ́gẹ́ bí òṣèré: Ọláìyá dara pọ̀ mọ́ ẹgbẹ́ òṣèré Musibau Shodimú ní àsìkò ọdún 1970s tí ó wà ní Abẹ́òkúta nígbà náà.
 1	Iṣẹ́	iṣẹ́	NOUN	_	_	2	nsubj	_	_
 2	rè	rè	VERB	_	_	0	root	_	_
@@ -1910,7 +1910,7 @@
 26	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 62
+# sent_id = wiki0062
 # text = Ojúewé yìí ní ìpinu ọ̀nà ìṣiṣẹ́ kan Wikipedia nínú.
 1	Ojúewé	Ojúewé	NOUN	_	_	0	root	_	_
 2	yìí	yìí	DET	_	_	4	det	_	_
@@ -1924,7 +1924,7 @@
 10	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 63
+# sent_id = wiki0063
 # text = Ó jẹ́ èso ìfohùnṣọ̀kan, bẹ́ ẹ̀ sì ni ó jẹ́ gbígbàgbọ́ pé gbogbo àwọn oníṣe gbọ́dọ̀ tẹ̀lé wọn gbámúgbámú.
 1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	jẹ́	jẹ́	AUX	_	_	3	aux	_	_
@@ -1949,7 +1949,7 @@
 21	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 64
+# sent_id = wiki0064
 # text = Ẹ le ṣàtúnṣe àkóónú ojúewé náà sùgbọ́n ẹ jọ̀wọ́ ọ mọ́ ṣe ìyípadà ìpinu ọ̀nà ìṣiṣẹ́ kankan láì kọ́kọ́ filọ àwọn oníṣe yìókù.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	le	le	VERB	_	_	0	root	_	_
@@ -1977,7 +1977,7 @@
 24	.	.	PUNCT	_	_	20	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 65
+# sent_id = wiki0065
 # text = Ojú ewé yìí ní kúkurú: Ìmúlò àti ìtọ́nisọ́nà Wikipédíà jẹ́ Ojú ewé tó tọ́ka sí ìlànà tí a gbọ́dọ̀ tẹ̀lé ní àwùjọ Wikipédíà.
 1	Ojú	ojú	ADP	_	_	2	case	_	_
 2	ewé	ewé	NOUN	_	_	4	nsubj	_	_
@@ -2006,7 +2006,7 @@
 25	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 66
+# sent_id = wiki0066
 # text = Ìmúlò yìí ṣe àpèjúwe bí a ṣe lè máa mú ìdàgbàsókè bá àwọn Ìmúlò àti ìtọ́nisọ́nà Wikipédíà.
 1	Ìmúlò	Ìmúlò	NOUN	_	_	3	nsubj	_	_
 2	yìí	yìí	DET	_	_	3	det	_	_
@@ -2028,7 +2028,7 @@
 18	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 67
+# sent_id = wiki0067
 # text = Àwùjọ Wikipédíà ṣe Ìmúlò àti ìtọ́nisọ́nà yìí lati ṣe àpèjúwe ọ̀nàn tó dára jùlọ lati ṣàgbékalẹ́ ọ̀rọ̀, yanjú ìjà àti lati mú ìtẹ̀síwájú bá ìlépa wa fún ṣiṣẹda ìmọ ọfẹ.
 1	Àwùjọ	Àwùjọ	NOUN	_	_	3	nsubj	_	_
 2	Wikipédíà	Wikipédíà	ADV	_	_	3	advmod	_	_
@@ -2064,7 +2064,7 @@
 32	.	.	PUNCT	_	_	23	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 68
+# sent_id = wiki0068
 # text = Kò pọn dandan lati ka Ìmúlò àti ìtọ́nisọ́nà ojú ewé yìí lati bẹ̀ẹ̀rẹ̀ ṣíṣàtúnkọ.
 1	Kò	kò	PART	_	_	3	advmod	_	_
 2	pọn	pọn	PRON	_	PronType=Ind	3	nsubj	_	_
@@ -2083,7 +2083,7 @@
 15	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 69
+# sent_id = wiki0069
 # text = Orígun máàrún Wikipédíà ṣe àlàyé ránpẹ́ nípa ìlànà Wikipédíà.
 1	Orígun	Orígun	NOUN	_	_	4	nsubj	_	_
 2	máàrún	máàrún	NUM	_	NumType=Card	1	nmod	_	_
@@ -2097,7 +2097,7 @@
 10	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 70
+# sent_id = wiki0070
 # text = Bí ó ti lẹ̀ jẹ́ wípé Wikipédíà Kò ní gba lílé ati sáré òfin, àwọn ojú ewé Ìmúlò àti ìtọ́nisọ́nà ti ṣàgbékalẹ́ bí ohun gbogbo ṣe gbọ́dọ̀ máa lọ.
 1	Bí	Bí	SCONJ	_	_	6	mark	_	_
 2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
@@ -2132,7 +2132,7 @@
 31	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 71
+# sent_id = wiki0071
 # text = Ìmúlò ṣe àlàyé àwọn ìlànà tí alàtúnkọ gbọ́dọ̀ tẹ̀lé ní àwùjọ Wikipédíà.
 1	Ìmúlò	Ìmúlò	NOUN	_	_	2	nsubj	_	_
 2	ṣe	ṣe	VERB	_	_	0	root	_	_
@@ -2149,7 +2149,7 @@
 13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 72
+# sent_id = wiki0072
 # text = Bakan náà ni ìtọ́nisọ́nà ṣe àlàyé ọ̀nàn tí a yàn lááyò lati tẹ̀lé ìlànà yìí.
 1	Bakan	Bakan	NOUN	_	_	5	nsubj	_	_
 2	náà	náà	ADV	_	_	5	advmod	_	_
@@ -2169,7 +2169,7 @@
 16	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 73
+# sent_id = wiki0073
 # text = A gbọ́dọ̀ máa lo ìtọ́nisọ́nà pẹ̀lú láákáyè.
 1	A	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	gbọ́dọ̀	gbọ́dọ̀	VERB	_	_	0	root	_	_
@@ -2181,7 +2181,7 @@
 8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 74
+# sent_id = wiki0074
 # text = Àjọ kòsí fún èrè Wikimedia Foundation ni ó n se alàkóso Wikipédíà pẹ̀lú àwọn òfin kan (wo ibí fún àkójọ Ìmúlò).
 1	Àjọ	Àjọ	NOUN	_	_	9	nsubj	_	_
 2	kòsí	kòti	ADP	_	Typo=Yes	4	case	_	_
@@ -2209,7 +2209,7 @@
 24	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 75
+# sent_id = wiki0075
 # text = Tún wo Ipa Jimmy Wales ṣùgbọn, Wikipédíà ṣàkóso ara ẹ̀ nipase oníwé àwùjọ.
 1	Tún	tún	NOUN	_	_	2	nsubj	_	_
 2	wo	wo	VERB	_	_	0	root	_	_
@@ -2228,7 +2228,7 @@
 15	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 76
+# sent_id = wiki0076
 # text = Ìmúlò jẹ́ ohun tí gbogbo alàtúnkọ gbà.
 1	Ìmúlò	Ìmúlò	PART	_	_	3	cc	_	_
 2	jẹ́	jẹ́	AUX	_	_	3	cop	_	_
@@ -2239,7 +2239,7 @@
 7	gbà	gbà	VERB	_	_	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 77
+# sent_id = wiki0077
 # text = Osì tún se àpèjúwe ìlànà tí a gbọ́dọ̀ tẹ̀lé ní àwùjọ.
 1	Osì	Osì	CCONJ	_	_	3	cc	_	_
 2	tún	tún	ADV	_	_	3	advmod	_	_
@@ -2255,7 +2255,7 @@
 12	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 78
+# sent_id = wiki0078
 # text = Gbogbo ojú ewé ìmúlò wà ní Wikipédíà:
 1	Gbogbo	gbogbo	DET	_	_	2	det	_	_
 2	ojú	ojú	NOUN	_	_	5	nsubj	_	_
@@ -2266,7 +2266,7 @@
 7	Wikipédíà	Wikipédíà	NOUN	_	_	5	obl	_	SpaceAfter=No
 8	:	:	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 79
+# sent_id = wiki0079
 # text = Gbogbo ìmúlò àti ìtọ́nisọ́nà àti.
 1	Gbogbo	gbogbo	DET	_	_	2	det	_	_
 2	ìmúlò	ìmúlò	NOUN	_	_	0	root	_	_
@@ -2276,7 +2276,7 @@
 6	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 80
+# sent_id = wiki0080
 # text = Fún kúkurú ojúlówó àwọn ìmúlò, wo Wikipédíà:
 1	Fún	fún	NOUN	_	_	0	root	_	_
 2	kúkurú	kúkurú	ADP	_	_	3	case	_	_
@@ -2288,14 +2288,14 @@
 8	Wikipédíà	Wikipédíà	PROPN	_	_	1	conj	_	SpaceAfter=No
 9	:	:	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 81
+# sent_id = wiki0081
 # text = Àwọn ìmúlò.
 1	Àwọn	Àwọn	DET	_	_	2	det	_	_
 2	ìmúlò	ìmúlò	NOUN	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 82
+# sent_id = wiki0082
 # text = Wikipedia Yorùbá únlo àwọn ìpinu ọ̀nà ìṣiṣẹ́ tó wà fún Wikipedia èdè Gẹ̀ẹ́sì.
 1	Wikipedia	Wikipedia	NOUN	_	_	3	nsubj	_	_
 2	Yorùbá	Yorùbá	ADJ	_	_	1	nmod	_	_
@@ -2313,7 +2313,7 @@
 14	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 83
+# sent_id = wiki0083
 # text = Tí ẹ bá fẹ́ ẹ lè lọ sí ojúewé ọ̀rọ̀ rẹ̀ láti fọ̀rọ̀wérọ̀ nípa wọn tàbí dámọ̀ràn ìpínu ọ̀nà ìṣiṣẹ́ míràn.
 1	Tí	tí	SCONJ	_	_	7	mark	_	_
 2	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
@@ -2339,7 +2339,7 @@
 22	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 84
+# sent_id = wiki0084
 # text = Ṣíṣàtúnṣe ojúewé yìí látọwọ́ àwọn oníṣe tuntun tàbí àwọn oníṣe aláìtíìforúkọsílẹ̀ jẹ́ tí tìpa lọ́wọ́lọ́wọ́.
 1	Ṣíṣàtúnṣe	Ṣíṣàtúnṣe	ADP	_	_	2	case	_	_
 2	ojúewé	ojúewé	NOUN	_	_	4	nsubj	_	_
@@ -2359,7 +2359,7 @@
 16	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 85
+# sent_id = wiki0085
 # text = Ojúewé yìí lọ́wọ́lọ́wọ́ jẹ́ dídá àbò bò díẹ̀ nítoríẹ̀ àwọn oníṣe aforúkọsílẹ̀ tí wọ́n ti fẹsẹ̀múlẹ̀ nìkan ni wọ́n le ṣàtúnṣe rẹ̀.
 1	Ojúewé	Ojúewé	NOUN	_	_	5	nsubj	_	_
 2	yìí	yìí	DET	_	_	3	det	_	_
@@ -2386,7 +2386,7 @@
 23	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 86
+# sent_id = wiki0086
 # text = Kílódé tí ojúewé ṣe ní àbò?
 1	Kílódé	Kílódé	NOUN	_	_	0	root	_	_
 2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	_
@@ -2397,7 +2397,7 @@
 7	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 87
+# sent_id = wiki0087
 # text = Bó tilẹ jẹ́ pé ọ̀pọ̀ àwọn àyọkà ni wọ́n le jẹ́ títúnṣe látọwọ́ olúkúlùkù, àbò díẹ̀ pọndandan ní gbà míi láti dínà ìbàjẹ́ sí àwọn ojúewé tó gbajúmọ̀.
 1	Bó	Bó	SCONJ	_	_	12	mark	_	_
 2	tilẹ	tilẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
@@ -2431,7 +2431,7 @@
 30	.	.	PUNCT	_	_	23	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 88
+# sent_id = wiki0088
 # text = Ìdí fún àbò wà nínú àkọọ́lẹ̀ àbo.
 1	Ìdí	Ìdí	NOUN	_	_	4	nsubj	_	_
 2	fún	fún	ADP	_	_	3	case	_	_
@@ -2442,7 +2442,7 @@
 7	àbo	àbo	DET	_	_	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 89
+# sent_id = wiki0089
 # text = Tí kò bá sí àkọsílẹ̀ abáramu nínú àkọọ́lẹ̀ àbò, ojúewé náà le ti jẹ́ yíyí nípò dà lẹ́yìn ìṣe àbò si.
 1	Tí	tí	PRON	_	PronType=Rel	17	nsubj	_	_
 2	kò	kò	PART	_	_	17	advmod	_	_
@@ -2469,7 +2469,7 @@
 23	.	.	PUNCT	_	_	17	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 90
+# sent_id = wiki0090
 # text = Kíni mo le ṣe?
 1	Kíni	Kíni	PART	_	_	4	mark	_	_
 2	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
@@ -2478,7 +2478,7 @@
 5	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 91
+# sent_id = wiki0091
 # text = Tí ẹ bá ní àkópamọ́ oníṣe ẹ kọ́kọ́ wọlẹ́.
 1	Tí	tí	SCONJ	_	_	4	mark	_	_
 2	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
@@ -2492,7 +2492,7 @@
 10	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 92
+# sent_id = wiki0092
 # text = Tí ẹ kò bá ní àkópamọ́, ẹ le dá ìkan; lẹ́yìn ọjọ́ 4 àti àtúnṣe 10, ẹ ó le ṣàtúnṣe àwọn ojúewé àbò díẹ̀.
 1	Tí	tí	SCONJ	_	_	5	mark	_	_
 2	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
@@ -2524,7 +2524,7 @@
 28	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 93
+# sent_id = wiki0093
 # text = Ẹ sọ̀rọ̀ nípa ojúewé yìí pẹ̀lú àwọn ẹlòmíràn.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	sọ̀rọ̀	sọ̀rọ̀	VERB	_	_	0	root	_	_
@@ -2537,7 +2537,7 @@
 9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 94
+# sent_id = wiki0094
 # text = Ẹ tọrọ ìjáwọ́ àbò ojúewé náà.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	tọrọ	tọrọ	VERB	_	_	0	root	_	_
@@ -2548,7 +2548,7 @@
 7	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 95
+# sent_id = wiki0095
 # text = Ẹ ka bí ẹ ṣele bẹ̀rẹ̀ síní ṣàtúnṣe Wikipedia.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	ka	ka	VERB	_	_	0	root	_	_
@@ -2562,7 +2562,7 @@
 10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 96
+# sent_id = wiki0096
 # text = Tí ẹ bá ṣàkíyèsí àsìṣe tàbí ẹ ní àbá fún àtúnṣe, ẹ le tọrọ àtúnṣe, nípa títẹ klik sí àjápọ̀ ìsàlẹ̀, kí ẹ sì tẹ̀lẹ́ àwọn ìlànà ibẹ̀.
 1	Tí	tí	SCONJ	_	_	4	mark	_	_
 2	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
@@ -2597,7 +2597,7 @@
 31	ibẹ̀	ibẹ̀	NOUN	_	_	30	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
 
-# sent_id = 97
+# sent_id = wiki0097
 # text = Alámùójútó kan yíò ṣe àtúnṣe náà fun yín.
 1	Alámùójútó	Alámùójútó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	kan	kan	NUM	_	NumType=Card	4	mark	_	_
@@ -2610,7 +2610,7 @@
 9	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 98
+# sent_id = wiki0098
 # text = Ẹ jọ̀wọ́ ẹ kọ́kọ́ wọ ojúewé ìfọ̀rọ̀wérọ̀ àyọkà náà, bóyá ọ̀rọ̀ ùnlọ nípa rẹ̀.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	jọ̀wọ́	jọ̀wọ́	VERB	_	_	0	root	_	_
@@ -2630,7 +2630,7 @@
 16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 99
+# sent_id = wiki0099
 # text = Àdírẹ́ẹ̀sì e-mail yín kò ṣe dandan, ṣùgbọ́n yíò jẹ́ lílò fún ìtúntò ọ̀rọ̀ìpamọ́, tí ẹ bá gbàgbé ọ̀rọ̀ìpamọ́ yín.
 1	Àdírẹ́ẹ̀sì	Àdírẹ́ẹ̀sì	CCONJ	_	_	7	cc	_	_
 2	e	e	NOUN	_	_	7	nsubj	_	SpaceAfter=No
@@ -2658,7 +2658,7 @@
 24	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 100
+# sent_id = wiki0100
 # text = Ẹ tún le yàn láti jẹ́ kí àwọn míràn ó bá a yín pàdé pẹ̀lú e-mail láti inú àjápọ̀ lórí ojúewé oníṣe tàbí ọ̀rọ̀ yín.
 1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
 2	tún	tún	ADV	_	_	3	advmod	_	_
@@ -2690,7 +2690,7 @@
 28	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 101
+# sent_id = wiki0101
 # text = Àdírẹ́ẹ̀sì e-mail yín kò ní hàn síta nígbà tí àwọn oníṣe míràn bá a yín pàdé.
 1	Àdírẹ́ẹ̀sì	Àdírẹ́ẹ̀sì	CCONJ	_	_	7	cc	_	_
 2	e	e	NOUN	_	_	7	nsubj	_	SpaceAfter=No
@@ -2713,7 +2713,7 @@
 19	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 102
+# sent_id = wiki0102
 # text = Kò sì áwọ́n iyipada ni akókò yì ti o ba àwon ìlànà yí mu.
 1	Kò	kò	NOUN	_	_	3	nsubj	_	_
 2	sì	sì	CCONJ	_	_	3	cc	_	_
@@ -2732,7 +2732,7 @@
 15	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 103
+# sent_id = wiki0103
 # text = Lọ́wọ́lọ́wọ́ kò sí ìkọ̀ nínú ojúewé yìí.
 1	Lọ́wọ́lọ́wọ́	Lọ́wọ́lọ́wọ́	NOUN	_	_	3	nsubj	_	_
 2	kò	kò	PART	_	_	3	advmod	_	_
@@ -2744,7 +2744,7 @@
 8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 104
+# sent_id = wiki0104
 # text = Ẹ le wá àkọlé ojúewé yìí nínú àwọn ojúewé mìíràn, tàbí wá àwọn àkọọ́lẹ̀ tó bámu, sùgbọ́n ẹ kò ní àṣẹ láti ṣ'ẹ̀dá ojúewé yìí.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	le	le	VERB	_	_	0	root	_	_
@@ -2777,7 +2777,7 @@
 29	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 105
+# sent_id = wiki0105
 # text = Robert Lavinsky, PhD, ti ṣọrẹ ibùdó dátà gbogbo àwọ àwòrán rẹ̀ ní mindat.org (ó tó bíi 29,000) àti gbogbo àwọn àwòrán láti ibi ojúewé ìtakùn rẹ̀ irocks.com fún Wikimedia Commons.
 1	Robert	Robert	NOUN	_	_	6	nsubj	_	_
 2	Lavinsky,	Lavinsky,	PUNCT	_	_	6	punct	_	_
@@ -2816,7 +2816,7 @@
 35	Commons.	commons.	NOUN	_	_	28	nmod	_	SpacesAfter=\s\n\n
 
 # newpar
-# sent_id = 106
+# sent_id = wiki0106
 # text = Bákanáà ó tún ti ṣe ìfilọ̀ iye àwórán bíi 20,000 láti inú ìkápamọ́ rẹ̀ fún lílò bóbá ṣe yẹ.
 1	Bákanáà	Bákanáà	DET	_	_	5	nsubj	_	_
 2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -2842,7 +2842,7 @@
 22	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 107
+# sent_id = wiki0107
 # text = À únfẹ́ ìrànlọ́wọ́ láti ṣe ìyípadà ìjúwe gbogbo àwọn àwòrán náà, ṣíṣèyẹ̀wò wọn ní irocks.com bóyá àwòrán kan kò sí, àti láti rù wọ́n sókè sí Commons.
 1	À	à	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	únfẹ́	únfẹ́	VERB	_	_	0	root	_	_
@@ -2875,7 +2875,7 @@
 29	Commons.	commons.	NOUN	_	_	25	obl	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 108
+# sent_id = wiki0108
 # text = Ẹ le kà nípa bí ẹ ṣe le ràn wá lọ́wọ́ níbí.
 1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
 2	le	lè	AUX	_	_	3	aux	_	_
@@ -2892,7 +2892,7 @@
 13	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 109
+# sent_id = wiki0109
 # text = Àyọkà yìí tàbí apá rẹ̀ únfẹ́ àtúnṣe sí.
 1	Àyọkà	Àyọkà	NOUN	_	_	6	nsubj	_	_
 2	yìí	yìí	DET	_	_	1	det	_	_
@@ -2905,7 +2905,7 @@
 9	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 110
+# sent_id = wiki0110
 # text = Ẹ le fẹ̀ jù báyìí lọ tàbí kí ẹ ṣàtúnṣe rẹ̀ lọ́nà tí yíò mu kúnrẹ́rẹ́.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	le	le	VERB	_	_	0	root	_	_
@@ -2926,7 +2926,7 @@
 17	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 111
+# sent_id = wiki0111
 # text = Ẹ ran Wikipedia lọ́wọ́ láti fẹ̀ẹ́ jù báyìí lọ.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	ran	ran	VERB	_	_	0	root	_	_
@@ -2940,7 +2940,7 @@
 10	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 112
+# sent_id = wiki0112
 # text = Lát'ọwọ́ Wikipedia, ìwé ìmọ̀ ọ̀fẹ́.
 1	Lát'	Lát'	NOUN	_	_	0	root	_	SpaceAfter=No
 2	ọwọ́	ọwọ́	NOUN	_	_	1	nmod	_	_
@@ -2952,7 +2952,7 @@
 8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 113
+# sent_id = wiki0113
 # text = Ẹ wo Àwọn Ọ̀rọ̀ Àdéhùn Ìlò fún ẹ̀kúnrẹ́rẹ́.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	wo	wo	VERB	_	_	0	root	_	_
@@ -2965,7 +2965,7 @@
 9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 114
+# sent_id = wiki0114
 # text = Ní ayé àtijọ́ àwọn onímọ́ ìṣirò mọ nọ́mbà tóṣòro gẹ́gẹ́ bíi nọ́mbà tí kòsí.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	ayé	ayé	NOUN	_	_	7	obl	_	_
@@ -2984,7 +2984,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 115
+# sent_id = wiki0115
 # text = A lè sọ pé àwón nọ́mbà gidi je nọ́mbà tósòro pelu apá tíkòsi´ tó jé òdo; eyun pé nọ́mbà gidi a jẹ́ bakanna mọ́ nọ́mbà tósòro a+0i.
 1	A	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	lè	lè	AUX	_	_	3	aux	_	_
@@ -3018,7 +3018,7 @@
 30	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 116
+# sent_id = wiki0116
 # text = Fún àpẹrẹ, 3 + 2i jé nọ́mbà tósòro, pẹ̀lú apá gidi to jẹ 3 ati apá tíkòsi´ to jẹ 2.
 1	Fún	fún	ADP	_	_	2	case	_	_
 2	àpẹrẹ	àpẹrẹ	NOUN	_	_	0	root	_	SpaceAfter=No
@@ -3046,7 +3046,7 @@
 24	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 117
+# sent_id = wiki0117
 # text = Àwon nọ́mbà tósòro se ròpọ̀, yọkúrò, sọdipúpọ̀ tàbi sèpínpiń gẹ́gẹ́ bi a ti n se fun àwon nọ́mbà gidi, be ni wón sì ní ìdámọ̀ tó lẹ́wà mìíràn.
 1	Àwon	Àwon	NOUN	_	_	3	nsubj	_	_
 2	nọ́mbà	nọ́mbà	ADV	_	_	3	advmod	_	_
@@ -3082,7 +3082,7 @@
 32	.	.	PUNCT	_	_	27	punct	_	SpacesAfter=\n\n
 
 # newpar
-# sent_id = 118
+# sent_id = wiki0118
 # text = Fún àpẹrẹ, nọ́mbà gidi nìkan kò ní ojúùtú fún ìdọ́gba aljebra alápọ̀ọ́nlépúpọ̀ (polynomial) pẹ̀lú nọ́mbà àfise gidi (coefficient), sùgbọ̀n àwọn nọ́mbà tósòro ní.
 1	Fún	fún	ADP	_	_	2	case	_	_
 2	àpẹrẹ	àpẹrẹ	NOUN	_	_	8	nsubj	_	SpaceAfter=No
