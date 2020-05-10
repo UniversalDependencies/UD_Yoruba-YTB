@@ -3,36 +3,36 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Yoruba-YTB:
-commit bf29f7d4aab19113bb8e26301737792ede48b314
+commit 792e726aef16d3d4abb952a90abf8c110ca588c2
+Merge: d1e70d5 afa5313
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 21:48:01 2019 +0200
-Size: counted 2664 of 2664 words (nodes).
-Size: min(0, log((N/1000)**2)) = 1.95965750535629.
+Size: counted 8243 of 8243 words (nodes).
+Size: min(0, log((N/1000)**2)) = 4.21872871066218.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 465 out of 2664 total words have one or more features.
+Features: 1452 out of 8243 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
-Universal relations: 31 out of 37 found in the corpus.
+Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 507 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 2664 words.
-Genres: found 1 out of 17 known.
+Udapi: found 1653 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 8243 words.
+Genres: found 2 out of 17 known.
 validate.py --lang yo --max-err=10 UD_Yoruba-YTB/yo_ytb-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.141844740166088) = 0.0363704461964328
+(weight=0.256410256410256) * (score{size}=0.305361766614568) = 0.0782978888755301
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
+(weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.27680744428049) * (availability=1) * (validity=1) = 0.27680744428049
+(weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
+(TOTAL score=0.334388549672073) * (availability=1) * (validity=1) = 0.334388549672073
 STARS = 1.5
-UD_Yoruba-YTB	0.27680744428049	1.5
+UD_Yoruba-YTB	0.334388549672073	1.5
