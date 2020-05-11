@@ -3227,7 +3227,7 @@
 22	òkúta	òkúta	NOUN	_	_	21	obj	_	Ref=MARK_5.5|Gloss=stone
 23	ya	ya	VERB	_	_	21	compound:svc	_	Ref=MARK_5.5|Gloss=cut
 24	ara	ara	PRON	_	PronType=Emp	21	obj	_	Ref=MARK_5.5|Gloss=self
-25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Ref=MARK_5.5||Gloss=his|SpaceAfter=No
+25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Ref=MARK_5.5|Gloss=his|SpaceAfter=No
 26	.	.	PUNCT	_	_	21	punct	_	Ref=MARK_5.5
 
 # sent_id = MARK_5.6
@@ -4593,7 +4593,7 @@
 22	si	si	CCONJ	_	_	23	cc	_	Ref=MATT_5.1|Gloss=and
 23	tọ̀	tọ̀	VERB	_	_	15	ccomp	_	Ref=MATT_5.1|Gloss=came
 24	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	23	nmod	_	Ref=MATT_5.1|Gloss=him
-25	wá	wá	VERB	_	_	23	compound:svc	_	Ref=MATT_5.1|SpaceAfter=No||Gloss=come
+25	wá	wá	VERB	_	_	23	compound:svc	_	Ref=MATT_5.1|SpaceAfter=No|Gloss=come
 26	.	.	PUNCT	_	_	25	punct	_	Ref=MATT_5.1|Gloss=.
 
 # sent_id = MATT_5.2
