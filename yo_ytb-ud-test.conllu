@@ -3598,8 +3598,8 @@
 21	àìmọ́	àìmọ́	ADJ	_	_	19	amod	_	Ref=MARK_5.16|SpaceAfter=No|Gloss=unclean
 22	,	,	PUNCT	_	_	25	punct	_	Ref=MARK_5.16|Gloss=,
 23	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	Ref=MARK_5.16|Gloss=them
-24	si	sì	CCONJ	_	Typo=Yes	21	cc	_	Ref=MARK_5.16|Gloss=and
-25	sọ	sọ	VERB	_	_	24	conj	_	Ref=MARK_5.16|Gloss=spake
+24	si	sì	CCONJ	_	Typo=Yes	25	cc	_	Ref=MARK_5.16|Gloss=and
+25	sọ	sọ	VERB	_	_	21	conj	_	Ref=MARK_5.16|Gloss=spake
 26	nípa	nípa	ADP	_	_	27	case	_	Ref=MARK_5.16|Gloss=by
 27	agbo	agbo	NOUN	_	_	25	obl	_	Ref=MARK_5.16|Gloss=flock
 28	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	25	obj	_	Ref=MARK_5.16|Gloss=swine
@@ -6275,8 +6275,8 @@
 # sent_id = PS_131.3
 # text = Ísírẹ́lì, ìwọ ní ìrètí ní ti Olúwa láti ìsinsinyí lọ àti láéláé.
 # text_en = Let Israel hope in the LORD from henceforth and for ever.
-1	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	4	obl	_	Ref=PS_131.3|SpaceAfter=No|Gloss=israel
-2	,	,	PUNCT	_	_	4	punct	_	Ref=PS_131.3|Gloss=,
+1	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	4	vocative	_	Ref=PS_131.3|SpaceAfter=No|Gloss=israel
+2	,	,	PUNCT	_	_	1	punct	_	Ref=PS_131.3|Gloss=,
 3	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Ref=PS_131.3|Gloss=you
 4	ní	ní	VERB	_	_	0	root	_	Ref=PS_131.3|Gloss=have
 5	ìrètí	ìrètí	NOUN	_	_	4	obj	_	Ref=PS_131.3|Gloss=hope
@@ -6284,11 +6284,11 @@
 7	ti	ti	ADP	_	_	8	case	_	Ref=PS_131.3|Gloss=of
 8	Olúwa	Olúwa	PROPN	_	_	4	obl	_	Ref=PS_131.3|Gloss=lord
 9	láti	láti	ADP	_	_	10	case	_	Ref=PS_131.3|Gloss=to
-10	ìsinsinyí	ìsinsinyí	ADJ	_	_	4	amod	_	Ref=PS_131.3|Gloss=now
-11	lọ	lọ	VERB	_	_	4	ccomp	_	Ref=PS_131.3|Gloss=go
-12	àti	àti	CCONJ	_	_	11	cc	_	Ref=PS_131.3|Gloss=and
-13	láéláé	láéláé	ADJ	_	_	10	amod	_	Ref=PS_131.3|SpaceAfter=No|Gloss=eternal
-14	.	.	PUNCT	_	_	11	punct	_	Ref=PS_131.3|Gloss=.
+10	ìsinsinyí	ìsinsinyí	ADV	_	_	11	advmod	_	Ref=PS_131.3|Gloss=now
+11	lọ	lọ	VERB	_	_	4	advcl	_	Ref=PS_131.3|Gloss=go
+12	àti	àti	CCONJ	_	_	13	cc	_	Ref=PS_131.3|Gloss=and
+13	láéláé	láéláé	ADV	_	_	10	conj	_	Ref=PS_131.3|SpaceAfter=No|Gloss=eternal
+14	.	.	PUNCT	_	_	4	punct	_	Ref=PS_131.3|Gloss=.
 
 # source = Bibeli Mimọ, Sáàmù, Chapter 133
 # newdoc id = PS_133
