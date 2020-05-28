@@ -17,6 +17,8 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 
 # Changelog
 
+* 2020-11-15 v2.7
+  * The pluralizer _àwọn_ tagged with Number=Plur|PronType=Dem.
 * 2020-05-15 v2.6
   * Added 100 more sentences from the Bible and 118 sentences from Wikipedia.
 * 2018-11-15 v2.3
