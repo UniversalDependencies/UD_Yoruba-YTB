@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Yoruba-YTB:
-commit 792e726aef16d3d4abb952a90abf8c110ca588c2
-Merge: d1e70d5 afa5313
+commit a61020d68daf734687bbdf321ee3b644943752ed
+Merge: 7955578 af15576
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 8243 of 8243 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.21872871066218.
@@ -15,11 +15,11 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 1452 out of 8243 total words have one or more features.
+Features: 1569 out of 8243 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 1653 bugs.
+Udapi: found 1533 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 8243 words.
 Genres: found 2 out of 17 known.
 validate.py --lang yo --max-err=10 UD_Yoruba-YTB/yo_ytb-ud-test.conllu
