@@ -9,7 +9,7 @@
 4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=GEN_1.1
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
 8	ọ̀run	ọ̀run	NOUN	_	_	6	obj	_	Gloss=heaven|Ref=GEN_1.1
 9	àti	àti	CCONJ	_	_	10	cc	_	Gloss=and|Ref=GEN_1.1
 10	ayé	ayé	NOUN	_	_	8	conj	_	Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
@@ -133,13 +133,13 @@
 11	wà	wà	VERB	_	_	3	ccomp	_	Gloss=was|Ref=GEN_1.6
 12	ní	ní	ADP	_	_	15	case	_	Gloss=in|Ref=GEN_1.6
 13	àárin	àárin	ADP	_	_	15	case	_	Gloss=midst|Ref=GEN_1.6
-14	àwọn	àwọn	DET	_	_	15	det	_	Gloss=the|Ref=GEN_1.6
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Gloss=the|Ref=GEN_1.6
 15	omi	omi	NOUN	_	_	11	obl	_	Gloss=water|Ref=GEN_1.6
 16	láti	láti	ADP	_	_	17	mark	_	Gloss=to|Ref=GEN_1.6
 17	pààlà	pààlà	VERB	_	_	11	advcl	_	Gloss=demacate|Ref=GEN_1.6
 18	sí	sí	ADP	_	_	21	case	_	Gloss=to|Ref=GEN_1.6
 19	àárin	àárin	ADP	_	_	21	case	_	Gloss=midst|Ref=GEN_1.6
-20	àwọn	àwọn	PRON	_	PronType=Ind	21	det	_	Gloss=them|Ref=GEN_1.6
+20	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	21	det	_	Gloss=them|Ref=GEN_1.6
 21	omi	omi	NOUN	_	_	17	obl	_	Gloss=water|Ref=GEN_1.6|SpaceAfter=No
 22	.	.	PUNCT	_	_	11	punct	_	Gloss=.|Ref=GEN_1.6|SpaceAfter=No
 23	”	”	PUNCT	_	_	11	punct	_	Gloss=”|Ref=GEN_1.6
@@ -397,14 +397,14 @@
 31	àmì	àmì	NOUN	_	_	29	obj	_	Gloss=sign|Ref=GEN_1.14
 32	láti	láti	ADP	_	_	33	case	_	Gloss=to|Ref=GEN_1.14
 33	mọ	mọ	VERB	_	_	31	acl	_	Gloss=know|Ref=GEN_1.14
-34	àwọn	àwọn	DET	_	_	35	det	_	Gloss=them|Ref=GEN_1.14
+34	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	35	det	_	Gloss=them|Ref=GEN_1.14
 35	àsìkò	àsìkò	NOUN	_	_	33	obj	_	Gloss=time|Ref=GEN_1.14|SpaceAfter=No
 36	,	,	PUNCT	_	_	39	punct	_	Gloss=,|Ref=GEN_1.14
 37	àti	àti	CCONJ	_	_	39	cc	_	Gloss=and|Ref=GEN_1.14
-38	àwọn	àwọn	DET	_	_	39	det	_	Gloss=the|Ref=GEN_1.14
+38	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	39	det	_	Gloss=the|Ref=GEN_1.14
 39	ọjọ́	ọjọ́	NOUN	_	_	35	conj	_	Gloss=day|Ref=GEN_1.14
 40	àti	àti	CCONJ	_	_	42	cc	_	Gloss=and|Ref=GEN_1.14
-41	àwọn	àwọn	DET	_	_	42	det	_	Gloss=the|Ref=GEN_1.14
+41	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	42	det	_	Gloss=the|Ref=GEN_1.14
 42	ọdún	ọdún	NOUN	_	_	35	conj	_	Gloss=years|Ref=GEN_1.14|SpaceAfter=No
 43	,	,	PUNCT	_	_	3	punct	_	Gloss=,|Ref=GEN_1.14
 
@@ -466,7 +466,7 @@
 27	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	Gloss=he|Ref=GEN_1.16
 28	sì	sì	CCONJ	_	_	29	cc	_	Gloss=and|Ref=GEN_1.16
 29	dá	dá	VERB	_	_	2	parataxis	_	Gloss=made|Ref=GEN_1.16
-30	àwọn	àwọn	DET	_	_	31	det	_	Gloss=the|Ref=GEN_1.16
+30	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	31	det	_	Gloss=the|Ref=GEN_1.16
 31	ìràwọ̀	ìràwọ̀	NOUN	_	_	29	obj	_	Gloss=stars|Ref=GEN_1.16
 32	pẹ̀lú	pẹ̀lú	ADV	_	_	31	advmod	_	SpaceAfter=No|Gloss=too|Ref=GEN_1.16
 33	.	.	PUNCT	_	_	29	punct	_	Gloss=.|Ref=GEN_1.16
@@ -544,12 +544,12 @@
 11	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=GEN_1.20
 12	kún	kún	VERB	_	_	3	ccomp	_	Gloss=full|Ref=GEN_1.20
 13	fún	fún	ADP	_	_	15	case	_	Gloss=unto|Ref=GEN_1.20
-14	àwọn	àwọn	PRON	_	PronType=Ind	15	det	_	Gloss=them|Ref=GEN_1.20
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Gloss=them|Ref=GEN_1.20
 15	ohun	ohun	NOUN	_	_	12	obj	_	Gloss=things|Ref=GEN_1.20
 16	alààyè	alààyè	NOUN	_	_	15	nmod	_	Gloss=living|Ref=GEN_1.20|SpaceAfter=No
 17	,	,	PUNCT	_	_	25	punct	_	Gloss=,|Ref=GEN_1.20
 18	kí	kí	SCONJ	_	_	25	mark	_	Gloss=let|Ref=GEN_1.20
-19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the|Ref=GEN_1.20
+19	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	Gloss=the|Ref=GEN_1.20
 20	ẹyẹ	ẹyẹ	NOUN	_	_	25	nsubj	_	Gloss=birds|Ref=GEN_1.20
 21	kí	kí	AUX	_	_	25	aux	_	Gloss=let|Ref=GEN_1.20
 22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	expl	_	Gloss=it|Ref=GEN_1.20
@@ -568,7 +568,7 @@
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=GEN_1.21
 3	Ọlọ́run	ọlọ́run	NOUN	_	_	4	nsubj	_	Gloss=god|Ref=GEN_1.21
 4	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.21
-5	àwọn	àwọn	DET	_	_	6	det	_	Gloss=them|Ref=GEN_1.21
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Gloss=them|Ref=GEN_1.21
 6	ẹ̀dá	ẹ̀dá	NOUN	_	_	4	obj	_	Gloss=creature|Ref=GEN_1.21
 7	alààyè	alààyè	NOUN	_	_	6	nmod	_	Gloss=living|Ref=GEN_1.21
 8	ńlá	ńlá	ADJ	_	_	6	amod	_	Gloss=great|Ref=GEN_1.21|SpaceAfter=No
@@ -578,11 +578,11 @@
 12	inú	inú	ADP	_	_	13	case	_	Gloss=of|Ref=GEN_1.21
 13	òkun	òkun	NOUN	_	_	6	nmod	_	Gloss=sea|Ref=GEN_1.21|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=GEN_1.21
-15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the|Ref=GEN_1.21
+15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	Gloss=the|Ref=GEN_1.21
 16	ohun	ohun	NOUN	_	_	6	obj	_	Gloss=things|Ref=GEN_1.21
 17	ẹlẹ́mìí	ẹlẹ́mìí	NOUN	_	_	16	nmod	_	Gloss=breatheth|Ref=GEN_1.21
 18	àti	àti	CCONJ	_	_	20	cc	_	Gloss=and|Ref=GEN_1.21
-19	àwọn	àwọn	DET	_	_	20	det	_	Gloss=the|Ref=GEN_1.21
+19	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	Gloss=the|Ref=GEN_1.21
 20	ohun	ohun	NOUN	_	_	6	obj	_	Gloss=things|Ref=GEN_1.21
 21	tí	tí	PRON	_	PronType=Rel	23	nsubj	_	Gloss=that|Ref=GEN_1.21
 22	ń	ń	AUX	_	_	23	aux	_	Gloss=that|Ref=GEN_1.21
@@ -592,7 +592,7 @@
 26	tiwọn	tiwọn	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	25	obl	_	Gloss=their|Ref=GEN_1.21|SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	Gloss=,|Ref=GEN_1.21
 28	àti	àti	CCONJ	_	_	30	cc	_	Gloss=and|Ref=GEN_1.21
-29	àwọn	àwọn	DET	_	_	30	det	_	Gloss=the|Ref=GEN_1.21
+29	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	30	det	_	Gloss=the|Ref=GEN_1.21
 30	ẹyẹ	ẹyẹ	NOUN	_	_	6	conj	_	Gloss=birds|Ref=GEN_1.21
 31	abìyẹ́	abìyẹ́	NOUN	_	_	30	nmod	_	Gloss=feathered|Ref=GEN_1.21
 32	ní	ní	ADP	_	_	33	case	_	Gloss=in|Ref=GEN_1.21
@@ -642,7 +642,7 @@
 29	òkun	òkun	NOUN	_	_	28	nmod	_	Gloss=sea|Ref=GEN_1.22|SpaceAfter=No
 30	,	,	PUNCT	_	_	37	punct	_	Gloss=,|Ref=GEN_1.22
 31	kí	kí	AUX	_	_	37	aux	_	Gloss=let|Ref=GEN_1.22
-32	àwọn	àwọn	DET	_	_	33	det	_	Gloss=the|Ref=GEN_1.22
+32	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	33	det	_	Gloss=the|Ref=GEN_1.22
 33	ẹyẹ	ẹyẹ	NOUN	_	_	37	nsubj	_	Gloss=bird|Ref=GEN_1.22
 34	náà	náà	ADV	_	_	37	advmod	_	Gloss=too|Ref=GEN_1.22
 35	sì	sì	CCONJ	_	_	37	cc	_	Gloss=and|Ref=GEN_1.22
@@ -691,11 +691,11 @@
 19	ẹran	ẹran	NOUN	_	_	12	appos	_	Gloss=animal|Ref=GEN_1.24
 20	ọ̀sìn	ọ̀sìn	NOUN	_	_	19	nmod	_	Gloss=domestic|Ref=GEN_1.24|SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	Gloss=,|Ref=GEN_1.24
-22	àwọn	àwọn	PRON	_	_	23	det	_	Gloss=the|Ref=GEN_1.24
+22	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	23	det	_	Gloss=the|Ref=GEN_1.24
 23	ohun	ohun	NOUN	_	_	19	conj	_	Gloss=things|Ref=GEN_1.24
 24	afàyàfà	afàyàfà	NOUN	_	_	23	nmod	_	Gloss=creepeth|Ref=GEN_1.24
 25	àti	àti	CCONJ	_	_	27	cc	_	Gloss=and|Ref=GEN_1.24
-26	àwọn	àwọn	DET	_	_	27	det	_	Gloss=the|Ref=GEN_1.24
+26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	27	det	_	Gloss=the|Ref=GEN_1.24
 27	ẹran	ẹran	NOUN	_	_	19	conj	_	Gloss=animal|Ref=GEN_1.24
 28	inú	inú	ADP	_	_	29	case	_	Gloss=of|Ref=GEN_1.24
 29	igbó	igbó	NOUN	_	_	27	nmod	_	SpaceAfter=No|Gloss=bush|Ref=GEN_1.24
@@ -869,7 +869,7 @@
 12	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	appos	_	Gloss=he|Ref=JOHN_10.2
 13	ni	ni	PART	_	_	12	case	_	Gloss=is|Ref=JOHN_10.2
 14	olùṣọ́	olùṣọ́	NOUN	_	_	0	root	_	Gloss=shepherd|Ref=JOHN_10.2
-15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the|Ref=JOHN_10.2
+15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	Gloss=the|Ref=JOHN_10.2
 16	àgùntàn	àgùntàn	NOUN	_	_	14	nmod	_	Gloss=sheep|Ref=JOHN_10.2|SpaceAfter=No
 17	.	.	PUNCT	_	_	14	punct	_	Gloss=.|Ref=JOHN_10.2
 
@@ -884,7 +884,7 @@
 6	ìlẹ̀kùn	ìlẹ̀kùn	NOUN	_	_	5	obj	_	Gloss=door|Ref=JOHN_10.3
 7	fún	fún	ADP	_	_	1	case	_	SpaceAfter=No|Gloss=unto|Ref=JOHN_10.3
 8	;	;	PUNCT	_	_	11	punct	_	Gloss=;|Ref=JOHN_10.3
-9	àwọn	àwọn	DET	_	_	10	det	_	Gloss=the|Ref=JOHN_10.3
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Gloss=the|Ref=JOHN_10.3
 10	àgùntàn	àgùntàn	NOUN	_	_	11	nsubj	_	Gloss=sheep|Ref=JOHN_10.3
 11	gbọ́	gbọ́	VERB	_	_	5	conj	_	Gloss=heard|Ref=JOHN_10.3
 12	ohùn	ohùn	NOUN	_	_	11	obj	_	Gloss=voice|Ref=JOHN_10.3
@@ -893,7 +893,7 @@
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	Gloss=he|Ref=JOHN_10.3
 16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=then|Ref=JOHN_10.3
 17	pe	pe	VERB	_	_	5	conj	_	Gloss=called|Ref=JOHN_10.3
-18	àwọn	àwọn	DET	_	_	19	det	_	Gloss=the|Ref=JOHN_10.3
+18	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	19	det	_	Gloss=the|Ref=JOHN_10.3
 19	àgùntàn	àgùntàn	NOUN	_	_	17	obj	_	Gloss=sheep|Ref=JOHN_10.3
 20	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Gloss=his|Ref=JOHN_10.3
 21-22	lórúkọ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -918,7 +918,7 @@
 5	sì	sì	CCONJ	_	_	7	cc	_	Gloss=and|Ref=JOHN_10.4
 6	ti	ti	AUX	_	_	7	aux	_	Gloss=have|Ref=JOHN_10.4
 7	mú	mú	VERB	_	_	15	advcl	_	Gloss=brought|Ref=JOHN_10.4
-8	àwọn	àwọn	DET	_	_	9	det	_	Gloss=the|Ref=JOHN_10.4
+8	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	9	det	_	Gloss=the|Ref=JOHN_10.4
 9	àgùntàn	àgùntàn	NOUN	_	_	7	obj	_	Gloss=sheep|Ref=JOHN_10.4
 10	tirẹ̀	tirẹ̀	ADJ	_	_	9	amod	_	Gloss=his|Ref=JOHN_10.4
 11	jáde	jáde	VERB	_	_	7	compound:svc	_	Gloss=out|Ref=JOHN_10.4|SpaceAfter=No
@@ -927,7 +927,7 @@
 14	ṣíwájú	ṣíwájú	ADP	_	_	15	case	_	Gloss=before|Ref=JOHN_10.4
 15	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	0	root	_	Gloss=them|Ref=JOHN_10.4|SpaceAfter=No
 16	,	,	PUNCT	_	_	22	punct	_	Gloss=,|Ref=JOHN_10.4
-17	àwọn	àwọn	DET	_	_	18	det	_	Gloss=the|Ref=JOHN_10.4
+17	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	18	det	_	Gloss=the|Ref=JOHN_10.4
 18	àgùntàn	àgùntàn	NOUN	_	_	22	nsubj	_	Gloss=sheep|Ref=JOHN_10.4
 19	yóò	yóò	AUX	_	_	22	aux	_	Gloss=shall|Ref=JOHN_10.4
 20	sì	sì	CCONJ	_	_	22	cc	_	Gloss=and|Ref=JOHN_10.4
@@ -1026,7 +1026,7 @@
 20	Èmi	Èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	Gloss=i|Ref=JOHN_10.7
 21	ni	ni	PART	_	_	20	case	_	Gloss=is|Ref=JOHN_10.7
 22	ìlẹ̀kùn	ìlẹ̀kùn	NOUN	_	_	16	ccomp	_	Gloss=doors|Ref=JOHN_10.7
-23	àwọn	àwọn	DET	_	_	24	det	_	Gloss=the|Ref=JOHN_10.7
+23	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	24	det	_	Gloss=the|Ref=JOHN_10.7
 24	àgùntàn	àgùntàn	NOUN	_	_	22	nmod	_	Gloss=sheep|Ref=JOHN_10.7|SpaceAfter=No
 25	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.7
 
@@ -1047,7 +1047,7 @@
 12	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obl	_	Gloss=my|Ref=JOHN_10.8|SpaceAfter=No
 13	:	:	PUNCT	_	_	18	punct	_	Gloss=:|Ref=JOHN_10.8
 14	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	18	cc	_	Gloss=but|Ref=JOHN_10.8
-15	àwọn	àwọn	DET	_	_	16	det	_	Gloss=the|Ref=JOHN_10.8
+15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	Gloss=the|Ref=JOHN_10.8
 16	àgùntàn	àgùntàn	NOUN	_	_	18	nsubj	_	Gloss=sheep|Ref=JOHN_10.8
 17	kò	kò	PART	_	_	18	advmod	_	Gloss=not|Ref=JOHN_10.8
 18	gbọ́	gbọ́	VERB	_	_	1	conj	_	Gloss=heard|Ref=JOHN_10.8
@@ -1145,7 +1145,7 @@
 14	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Gloss=his|Ref=JOHN_10.11
 15	lélẹ̀	lélẹ̀	VERB	_	_	12	compound:svc	_	Gloss=laid|Ref=JOHN_10.11
 16	nítorí	nítorí	SCONJ	_	_	18	mark	_	Gloss=because|Ref=JOHN_10.11
-17	àwọn	àwọn	DET	_	_	18	det	_	Gloss=the|Ref=JOHN_10.11
+17	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	18	det	_	Gloss=the|Ref=JOHN_10.11
 18	àgùntàn	àgùntàn	NOUN	_	_	12	obl	_	Gloss=sheep|Ref=JOHN_10.11|SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=JOHN_10.11
 
@@ -1163,7 +1163,7 @@
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.12
 10	ẹni	ẹni	PRON	_	PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_10.12
 11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	Gloss=that|Ref=JOHN_10.12
-12	àwọn	àwọn	DET	_	_	13	det	_	Gloss=the|Ref=JOHN_10.12
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Gloss=the|Ref=JOHN_10.12
 13	àgùntàn	àgùntàn	NOUN	_	_	15	nsubj	_	Gloss=sheep|Ref=JOHN_10.12
 14	kìí	kìí	PART	_	_	15	mark	_	Gloss=was|Ref=JOHN_10.12
 15	ṣe	ṣe	VERB	_	_	10	acl	_	Gloss=do|Ref=JOHN_10.12
@@ -1204,7 +1204,7 @@
 10	kò	kò	PART	_	_	12	advmod	_	Gloss=did|Ref=JOHN_10.13
 11	sì	sì	CCONJ	_	_	12	cc	_	Gloss=not|Ref=JOHN_10.13
 12	náání	náání	VERB	_	_	8	conj	_	Gloss=care-for|Ref=JOHN_10.13
-13	àwọn	àwọn	DET	_	_	14	det	_	Gloss=the|Ref=JOHN_10.13
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	Gloss=the|Ref=JOHN_10.13
 14	àgùntàn	àgùntàn	NOUN	_	_	12	obj	_	Gloss=sheep|Ref=JOHN_10.13|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	Gloss=.|Ref=JOHN_10.13
 
@@ -1214,7 +1214,7 @@
 1	Èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=JOHN_10.16
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=JOHN_10.16
 3	ní	ní	VERB	_	_	0	root	_	Gloss=have|Ref=JOHN_10.16
-4	àwọn	àwọn	DET	_	_	5	det	_	Gloss=some|Ref=JOHN_10.16
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	Gloss=some|Ref=JOHN_10.16
 5	àgùntàn	àgùntàn	NOUN	_	_	3	obj	_	Gloss=sheep|Ref=JOHN_10.16
 6	mìíràn	mìíràn	ADJ	_	_	5	amod	_	Gloss=other|Ref=JOHN_10.16|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.16
@@ -1327,7 +1327,7 @@
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.19
 5	wà	wà	VERB	_	_	0	root	_	Gloss=was|Ref=JOHN_10.19
 6	láàrin	láàrin	ADP	_	_	8	case	_	Gloss=among|Ref=JOHN_10.19
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=JOHN_10.19
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=JOHN_10.19
 8	Júù	júù	PROPN	_	_	5	obl	_	Gloss=jews|Ref=JOHN_10.19
 9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=because|Ref=JOHN_10.19
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obl	_	Gloss=word|Ref=JOHN_10.19
@@ -1390,7 +1390,7 @@
 20	lè	lè	AUX	_	_	21	aux	_	Gloss=may|Ref=JOHN_10.21
 21	la	la	VERB	_	_	9	parataxis	_	Gloss=open|Ref=JOHN_10.21
 22	ojú	ojú	NOUN	_	_	21	obj	_	Gloss=eyes|Ref=JOHN_10.21
-23	àwọn	àwọn	DET	_	_	24	det	_	Gloss=the|Ref=JOHN_10.21
+23	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	24	det	_	Gloss=the|Ref=JOHN_10.21
 24	afọ́jú	afọ́jú	ADJ	_	_	22	nmod	_	Gloss=blind|Ref=JOHN_10.21
 25	bí	bí	SCONJ	_	_	21	mark	_	SpaceAfter=No|Gloss=not|Ref=JOHN_10.21
 26	?	?	PUNCT	_	_	21	punct	_	SpaceAfter=No|Gloss=?|Ref=JOHN_10.21
@@ -1432,7 +1432,7 @@
 # text_en = Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
 1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.24
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_10.24
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_10.24
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_10.24
 4	Júù	júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_10.24
 5	wá	wá	VERB	_	_	0	root	_	Gloss=come|Ref=JOHN_10.24
 6	dúró	dúró	VERB	_	_	5	compound:svc	_	Gloss=stood|Ref=JOHN_10.24
@@ -1525,7 +1525,7 @@
 8	kò	kò	PART	_	_	9	advmod	_	Gloss=not|Ref=JOHN_10.26
 9	sí	sí	VERB	_	_	4	xcomp	_	Gloss=is|Ref=JOHN_10.26
 10	nínú	nínú	ADP	_	_	12	case	_	Gloss=among|Ref=JOHN_10.26
-11	àwọn	àwọn	DET	_	_	12	det	_	Gloss=the|Ref=JOHN_10.26
+11	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	12	det	_	Gloss=the|Ref=JOHN_10.26
 12	àgùntàn	àgùntàn	NOUN	_	_	9	obl	_	Gloss=sheep|Ref=JOHN_10.26
 13	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nmod	_	Gloss=my|Ref=JOHN_10.26|SpaceAfter=No
 14	,	,	PUNCT	_	_	19	punct	_	Gloss=,|Ref=JOHN_10.26
@@ -1938,7 +1938,7 @@
 1	Nítorí	Nítorí	SCONJ	_	_	7	mark	_	Gloss=for|Ref=JOHN_11.3
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=the|Ref=JOHN_11.3|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=JOHN_11.3
-4	àwọn	àwọn	DET	_	_	5	det	_	Gloss=the|Ref=JOHN_11.3
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	Gloss=the|Ref=JOHN_11.3
 5	arákùnrin	arákùnrin	NOUN	_	_	7	nsubj	_	Gloss=brother|Ref=JOHN_11.3
 6	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his|Ref=JOHN_11.3
 7	ránsẹ́	ránsẹ́	NOUN	_	_	0	root	_	Gloss=sent|Ref=JOHN_11.3
@@ -2074,7 +2074,7 @@
 # text_en = Then said his disciples, Lord, if he sleep, he shall do well.
 1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	Gloss=for|Ref=JOHN_11.12
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_11.12
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=his|Ref=JOHN_11.12
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=his|Ref=JOHN_11.12
 4	ọmọ	ọmọ	NOUN	_	_	8	nsubj	_	Gloss=child|Ref=JOHN_11.12|SpaceAfter=No
 5	-	-	PUNCT	_	_	6	punct	_	Gloss=-|Ref=JOHN_11.12|SpaceAfter=No
 6	ẹ̀yìn	ẹ̀yìn	NOUN	_	_	4	compound	_	Gloss=back|Ref=JOHN_11.12
@@ -2189,7 +2189,7 @@
 13	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_11.16
 14	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.16
 15	fún	fún	ADP	_	_	17	case	_	Gloss=unto|Ref=JOHN_11.16
-16	àwọn	àwọn	DET	_	_	17	det	_	Gloss=the|Ref=JOHN_11.16
+16	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	17	det	_	Gloss=the|Ref=JOHN_11.16
 17	ọmọ	ọmọ	NOUN	_	_	14	obl	_	Gloss=son|Ref=JOHN_11.16|SpaceAfter=No
 18	-	-	PUNCT	_	_	19	punct	_	Gloss=the|Ref=JOHN_11.16|SpaceAfter=No
 19	ẹ̀yìn	ẹ̀yìn	NOUN	_	_	17	compound	_	Gloss=back|Ref=JOHN_11.16
@@ -2257,7 +2257,7 @@
 # text_en = And many of the Jews came to Martha and Mary, to comfort them concerning their brother.
 1	Ọ̀pọ̀	Ọ̀pọ̀	ADJ	_	_	6	nsubj	_	Gloss=many|Ref=JOHN_11.19
 2	nínú	nínú	ADP	_	_	4	case	_	Gloss=among|Ref=JOHN_11.19
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.19
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_11.19
 4	Júù	júù	PROPN	_	_	1	nmod	_	Gloss=jews|Ref=JOHN_11.19
 5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=then|Ref=JOHN_11.19
 6	wá	wá	VERB	_	_	0	root	_	Gloss=come|Ref=JOHN_11.19
@@ -2555,7 +2555,7 @@
 # text_en = The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.
 1	Nígbà	nígbà	ADV	_	_	19	advmod	_	Gloss=when|Ref=JOHN_11.31
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=|Ref=JOHN_11.31
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.31
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_11.31
 4	Júù	júù	PROPN	_	_	19	nsubj	_	Gloss=jews|Ref=JOHN_11.31
 5	tí	tí	PRON	_	PronType=Rel	7	nsubj	_	Gloss=that|Ref=JOHN_11.31
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	expl	_	Gloss=he|Ref=JOHN_11.31
@@ -2693,7 +2693,7 @@
 # text_en = Then said the Jews, Behold how he loved him!
 1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_11.36
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_11.36
-3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the|Ref=JOHN_11.36
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_11.36
 4	Júù	júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_11.36
 5	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_11.36
 6	pé	pé	SCONJ	_	_	5	compound	_	Gloss=that|Ref=JOHN_11.36|SpaceAfter=No
@@ -3033,7 +3033,7 @@
 2	náà	náà	PRON	_	_	1	fixed	_	Gloss=that|Ref=JOHN_11.45
 3	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=JOHN_11.45
 4	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	6	amod	_	Gloss=many|Ref=JOHN_11.45
-5	àwọn	àwọn	DET	_	_	6	det	_	Gloss=the|Ref=JOHN_11.45
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Gloss=the|Ref=JOHN_11.45
 6	Júù	júù	PROPN	_	_	21	nsubj	_	Gloss=jews|Ref=JOHN_11.45
 7	tí	tí	PRON	_	PronType=Rel	9	nsubj	_	Gloss=that|Ref=JOHN_11.45
 8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	expl	_	Gloss=has|Ref=JOHN_11.45
@@ -3059,12 +3059,12 @@
 # text = Ṣùgbọ́n àwọn ẹlòmíràn nínú wọn tọ àwọn Farisí lọ, wọ́n sì sọ fún wọn ohun tí Jésù ṣe.
 # text_en = But some of them went their ways to the Pharisees, and told them what things Jesus had done.
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	6	cc	_	Gloss=but|Ref=JOHN_11.46
-2	àwọn	àwọn	DET	_	_	3	det	_	Gloss=the|Ref=JOHN_11.46
+2	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	3	det	_	Gloss=the|Ref=JOHN_11.46
 3	ẹlòmíràn	ẹlòmíràn	ADJ	_	_	6	nsubj	_	Gloss=others|Ref=JOHN_11.46
 4	nínú	nínú	ADP	_	_	5	case	_	Gloss=in|Ref=JOHN_11.46
 5	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nmod	_	Gloss=them|Ref=JOHN_11.46
 6	tọ	tọ	VERB	_	_	0	root	_	Gloss=went|Ref=JOHN_11.46
-7	àwọn	àwọn	DET	_	_	8	det	_	Gloss=the|Ref=JOHN_11.46
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=JOHN_11.46
 8	Farisí	farisí	PROPN	_	_	6	obj	_	Gloss=pharisees|Ref=JOHN_11.46
 9	lọ	lọ	VERB	_	_	6	compound:svc	_	Gloss=go|Ref=JOHN_11.46|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_11.46
@@ -3092,7 +3092,7 @@
 6	ní	ní	ADP	_	_	7	case	_	Ref=MARK_5.1|Gloss=in
 7	ẹba	ẹ̀bá	ADP	_	Typo=Yes	8	obl	_	Ref=MARK_5.1|Gloss=beside
 8	ilẹ̀	ilẹ̀	NOUN	_	_	2	nmod	_	Ref=MARK_5.1|Gloss=land
-9	àwọn	àwọn	DET	_	_	10	det	_	Ref=MARK_5.1|Gloss=the
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Ref=MARK_5.1|Gloss=the
 10	ará	ará	NOUN	_	_	2	obl	_	Ref=MARK_5.1|Gloss=native
 11	Gádárà	Gádárà	PROPN	_	_	10	nmod	_	Ref=MARK_5.1|SpaceAfter=No|Gloss=gadarenes
 12	.	.	PUNCT	_	_	2	punct	_	Ref=MARK_5.1|Gloss=.
@@ -3207,11 +3207,11 @@
 2	-	-	PUNCT	_	_	3	punct	_	Ref=MARK_5.5|SpaceAfter=No
 3	tòru	tòru	NOUN	_	_	1	compound	_	Ref=MARK_5.5|Gloss=night
 4	láàrin	láàrin	ADP	_	_	6	case	_	Ref=MARK_5.5|Gloss=among
-5	àwọn	àwọn	DET	_	_	6	det	_	Ref=MARK_5.5|Gloss=the
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Ref=MARK_5.5|Gloss=the
 6	ibojì	ibojì	NOUN	_	_	15	obl	_	Ref=MARK_5.5|Gloss=sepulchre
 7	àti	àti	CCONJ	_	_	10	cc	_	Ref=MARK_5.5|Gloss=and
 8	ní	ní	ADP	_	_	15	case	_	Ref=MARK_5.5|Gloss=in
-9	àwọn	àwọn	DET	_	_	10	det	_	Ref=MARK_5.5|Gloss=the
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Ref=MARK_5.5|Gloss=the
 10	òkè	òkè	NOUN	_	_	15	nsubj	_	Ref=MARK_5.5|Gloss=mountain
 11	ni	ni	PART	_	_	10	case	_	Ref=MARK_5.5|Gloss=is
 12	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nmod	_	Ref=MARK_5.5|Gloss=he
@@ -3227,7 +3227,7 @@
 22	òkúta	òkúta	NOUN	_	_	21	obj	_	Ref=MARK_5.5|Gloss=stone
 23	ya	ya	VERB	_	_	21	compound:svc	_	Ref=MARK_5.5|Gloss=cut
 24	ara	ara	PRON	_	PronType=Emp	21	obj	_	Ref=MARK_5.5|Gloss=self
-25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Ref=MARK_5.5||Gloss=his|SpaceAfter=No
+25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Ref=MARK_5.5|Gloss=his|SpaceAfter=No
 26	.	.	PUNCT	_	_	21	punct	_	Ref=MARK_5.5
 
 # sent_id = MARK_5.6
@@ -3375,7 +3375,7 @@
 16	má	má	AUX	_	_	17	aux	_	Ref=MARK_5.10|Gloss=not
 17	ṣe	ṣe	VERB	_	_	12	conj	_	Ref=MARK_5.10|Gloss=do
 18	rán	rán	VERB	_	_	20	compound:svc	_	Ref=MARK_5.10|Gloss=sent
-19	àwọn	àwọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	20	det	_	Ref=MARK_5.10|Gloss=them
+19	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	Ref=MARK_5.10|Gloss=them
 20	jáde	jáde	VERB	_	_	17	compound:svc	_	Ref=MARK_5.10|Gloss=out
 21	kúrò	kúrò	ADP	_	_	23	case	_	Ref=MARK_5.10|Gloss=from
 22	ní	ní	ADP	_	_	23	case	_	Ref=MARK_5.10|Gloss=in
@@ -3413,7 +3413,7 @@
 11	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	Ref=MARK_5.12|Gloss=us
 12	lọ	lọ	VERB	_	_	5	ccomp	_	Ref=MARK_5.12|Gloss=go
 13	sínú	sínú	ADP	_	_	15	case	_	Ref=MARK_5.12|Gloss=into
-14	àwọn	àwọn	DET	_	_	15	det	_	Ref=MARK_5.12|Gloss=the
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Ref=MARK_5.12|Gloss=the
 15	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	12	obl	_	Ref=MARK_5.12|Gloss=swine
 16	wọnni	wọnni	DET	_	_	12	det	_	Ref=MARK_5.12|Gloss=those
 17	kí	kí	AUX	_	_	21	aux	_	Ref=MARK_5.12|Gloss=so
@@ -3435,7 +3435,7 @@
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Ref=MARK_5.13|Gloss=them
 4	láàyè	láàyè	VERB	_	_	2	compound:svc	_	Ref=MARK_5.13|SpaceAfter=No|Gloss=permission
 5	,	,	PUNCT	_	_	11	punct	_	Ref=MARK_5.13|Gloss=,
-6	àwọn	àwọn	DET	_	_	7	det	_	Ref=MARK_5.13|Gloss=the
+6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	Ref=MARK_5.13|Gloss=the
 7	ẹ̀mí	ẹ̀mí	NOUN	_	_	11	nsubj	_	Ref=MARK_5.13|Gloss=spirit
 8	àìmọ́	àìmọ́	ADJ	_	_	7	amod	_	Ref=MARK_5.13|Gloss=unclean
 9	náà	náà	DET	_	_	11	det	_	Ref=MARK_5.13|Gloss=the
@@ -3450,7 +3450,7 @@
 18	sì	sì	CCONJ	_	_	19	cc	_	Ref=MARK_5.13|Gloss=and
 19	wọ	wọ	VERB	_	_	11	ccomp	_	Ref=MARK_5.13|Gloss=enter
 20	inú	inú	ADP	_	_	22	case	_	Ref=MARK_5.13|Gloss=into
-21	àwọn	àwọn	DET	_	_	22	det	_	Ref=MARK_5.13|Gloss=the
+21	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	22	det	_	Ref=MARK_5.13|Gloss=the
 22	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	19	obl	_	Ref=MARK_5.13|Gloss=swine
 23	náà	náà	DET	_	_	24	det	_	Ref=MARK_5.13|Gloss=the
 24	lọ	lọ	VERB	_	_	19	compound:svc	_	Ref=MARK_5.13|SpaceAfter=No|Gloss=go
@@ -3494,7 +3494,7 @@
 6	sá	sá	VERB	_	_	0	root	_	Ref=MARK_5.14|Gloss=fled
 7	lọ	lọ	VERB	_	_	6	compound:svc	_	Ref=MARK_5.14|Gloss=go
 8	sí	sí	ADP	_	_	10	case	_	Ref=MARK_5.14|Gloss=to
-9	àwọn	àwọn	DET	_	_	10	det	_	Ref=MARK_5.14|Gloss=the
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Ref=MARK_5.14|Gloss=the
 10	ìlú	ìlú	NOUN	_	_	6	obl	_	Ref=MARK_5.14|Gloss=city
 11	ńlá	ńlá	ADJ	_	_	14	nsubj	_	Ref=MARK_5.14|Gloss=great
 12	àti	àti	CCONJ	_	_	13	cc	_	Ref=MARK_5.14|Gloss=and
@@ -3586,7 +3586,7 @@
 9	ròyìn	ròyìn	VERB	_	_	5	conj	_	Ref=MARK_5.16|Gloss=spread
 10	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	Ref=MARK_5.16|Gloss=it
 11	fún	fún	ADP	_	_	13	case	_	Ref=MARK_5.16|Gloss=unto
-12	àwọn	àwọn	DET	_	_	13	det	_	Ref=MARK_5.16
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Ref=MARK_5.16
 13	ènìyàn	ènìyàn	NOUN	_	_	9	obl	_	Ref=MARK_5.16|Gloss=people
 14	ohun	ohun	NOUN	_	_	9	obj	_	Ref=MARK_5.16|Gloss=things
 15	tí	tí	PRON	_	PronType=Rel	17	nsubj	_	Ref=MARK_5.16|Gloss=that
@@ -3598,8 +3598,8 @@
 21	àìmọ́	àìmọ́	ADJ	_	_	19	amod	_	Ref=MARK_5.16|SpaceAfter=No|Gloss=unclean
 22	,	,	PUNCT	_	_	25	punct	_	Ref=MARK_5.16|Gloss=,
 23	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	Ref=MARK_5.16|Gloss=them
-24	si	sì	CCONJ	_	Typo=Yes	21	cc	_	Ref=MARK_5.16|Gloss=and
-25	sọ	sọ	VERB	_	_	24	conj	_	Ref=MARK_5.16|Gloss=spake
+24	si	sì	CCONJ	_	Typo=Yes	25	cc	_	Ref=MARK_5.16|Gloss=and
+25	sọ	sọ	VERB	_	_	21	conj	_	Ref=MARK_5.16|Gloss=spake
 26	nípa	nípa	ADP	_	_	27	case	_	Ref=MARK_5.16|Gloss=by
 27	agbo	agbo	NOUN	_	_	25	obl	_	Ref=MARK_5.16|Gloss=flock
 28	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	25	obj	_	Ref=MARK_5.16|Gloss=swine
@@ -3613,7 +3613,7 @@
 1	Nígbà	nígbà	ADV	_	_	6	advmod	_	Ref=MARK_5.17|Gloss=when
 2	náà	náà	ADV	_	_	1	fixed	_	Ref=MARK_5.17|SpaceAfter=No|Gloss=
 3	,	,	PUNCT	_	_	6	punct	_	Ref=MARK_5.17|Gloss=,
-4	àwọn	àwọn	DET	_	_	5	det	_	Ref=MARK_5.17|Gloss=the
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	Ref=MARK_5.17|Gloss=the
 5	èrò	èrò	NOUN	_	_	6	nsubj	_	Ref=MARK_5.17|Gloss=people
 6	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Ref=MARK_5.17|Gloss=began
 7	sí	sí	ADP	_	_	9	case	_	Ref=MARK_5.17|Gloss=to
@@ -3625,7 +3625,7 @@
 13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Ref=MARK_5.17|Gloss=he
 14	fi	fi	VERB	_	_	6	advcl	_	Ref=MARK_5.17|Gloss=leave
 15	agbégbé	agbégbé	NOUN	_	_	14	obj	_	Ref=MARK_5.17|Gloss=area
-16	àwọn	àwọn	DET	_	_	17	det	_	Ref=MARK_5.17|Gloss=their
+16	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	17	det	_	Ref=MARK_5.17|Gloss=their
 17	sílẹ̀	sílẹ̀	VERB	_	_	14	compound:svc	_	Ref=MARK_5.17|SpaceAfter=No|Gloss=left
 18	.	.	PUNCT	_	_	6	punct	_	Ref=MARK_5.17|Gloss=.
 
@@ -3686,7 +3686,7 @@
 17	ilé	ilé	NOUN	_	_	16	conj	_	Ref=MARK_5.19|Gloss=house
 18	sí	sí	ADP	_	_	19	case	_	Ref=MARK_5.19|Gloss=to
 19	ọ̀dọ̀	ọ̀dọ̀	NOUN	_	_	17	obl	_	Ref=MARK_5.19|Gloss=place
-20	àwọn	àwọn	DET	_	_	21	det	_	Ref=MARK_5.19|Gloss=the
+20	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	21	det	_	Ref=MARK_5.19|Gloss=the
 21	ẹbí	ẹbí	NOUN	_	_	19	obj	_	Ref=MARK_5.19|Gloss=family
 22	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	21	nmod	_	Ref=MARK_5.19|SpaceAfter=No|Gloss=your
 23	,	,	PUNCT	_	_	27	punct	_	Ref=MARK_5.19|Gloss=,
@@ -3782,7 +3782,7 @@
 # text_en = And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
 1	Ọ̀kan	Ọ̀kan	NUM	_	NumType=Card	4	nummod	_	Ref=MARK_5.22|Gloss=one
 2	nínú	nínú	ADP	_	_	4	case	_	Ref=MARK_5.22|Gloss=in
-3	àwọn	àwọn	DET	_	_	4	det	_	Ref=MARK_5.22|Gloss=the
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Ref=MARK_5.22|Gloss=the
 4	olórí	olórí	NOUN	_	_	9	nsubj	_	Ref=MARK_5.22|Gloss=head
 5	sínágọ́gù	sínágọ́gù	NOUN	_	_	9	nmod	_	Ref=MARK_5.22|Gloss=synagogue
 6	tí	tí	PRON	_	PronType=Rel	9	obj	_	Ref=MARK_5.22|Gloss=that
@@ -3907,7 +3907,7 @@
 9	ìpọ́njú	ìpọ́njú	NOUN	_	_	8	obj	_	Ref=MARK_5.26|Gloss=affliction
 10	lọ́dọ̀	lọ́dọ̀	ADP	_	_	11	case	_	Ref=MARK_5.26|Gloss=with
 11	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	7	obl	_	Ref=MARK_5.26|Gloss=many
-12	àwọn	àwọn	DET	_	_	13	det	_	Ref=MARK_5.26|Gloss=the
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Ref=MARK_5.26|Gloss=the
 13	oníṣègùn	oníṣègùn	NOUN	_	_	11	nmod	_	Ref=MARK_5.26|SpaceAfter=No|Gloss=physicians
 14	,	,	PUNCT	_	_	21	punct	_	Ref=MARK_5.26|Gloss=,
 15	tí	tí	PRON	_	PronType=Rel	21	nsubj	_	Ref=MARK_5.26|Gloss=that
@@ -4230,7 +4230,7 @@
 8	náà	náà	DET	_	_	7	det	_	Ref=MARK_5.35|Gloss=the
 9	sọ̀rọ̀	sọ̀rọ̀	VERB	_	_	0	root	_	Ref=MARK_5.35|SpaceAfter=No|Gloss=speak
 10	,	,	PUNCT	_	_	13	punct	_	Ref=MARK_5.35|Gloss=,
-11	àwọn	àwọn	DET	_	_	12	det	_	Ref=MARK_5.35|Gloss=the
+11	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	12	det	_	Ref=MARK_5.35|Gloss=the
 12	ìránṣẹ́	ìránṣẹ́	NOUN	_	_	13	nsubj	_	Ref=MARK_5.35|Gloss=servant
 13	dé	dé	VERB	_	_	6	conj	_	Ref=MARK_5.35|Gloss=come
 14	láti	láti	ADP	_	_	15	case	_	Ref=MARK_5.35|Gloss=from
@@ -4383,7 +4383,7 @@
 7	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	obl	_	Ref=MARK_5.39|Gloss=he
 8	sì	sì	CCONJ	_	_	15	cc	_	Ref=MARK_5.39|Gloss=and
 9	bá	bá	VERB	_	_	15	ccomp	_	Ref=MARK_5.39|Gloss=if
-10	àwọn	àwọn	DET	_	_	11	det	_	Ref=MARK_5.39|Gloss=the
+10	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	11	det	_	Ref=MARK_5.39|Gloss=the
 11	ènìyàn	ènìyàn	NOUN	_	_	15	obl	_	Ref=MARK_5.39|Gloss=people
 12	sọ̀rọ̀	sọ̀rọ̀	VERB	_	_	15	compound:svc	_	Ref=MARK_5.39|SpaceAfter=No|Gloss=speak
 13	,	,	PUNCT	_	_	15	punct	_	Ref=MARK_5.39|Gloss=,
@@ -4447,7 +4447,7 @@
 24	náà	náà	DET	_	_	23	det	_	Ref=MARK_5.40|SpaceAfter=No|Gloss=the
 25	,	,	PUNCT	_	_	28	punct	_	Ref=MARK_5.40|Gloss=,
 26	àti	àti	CCONJ	_	_	28	cc	_	Ref=MARK_5.40|Gloss=and
-27	àwọn	àwọn	DET	_	_	28	det	_	Ref=MARK_5.40|Gloss=the
+27	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	28	det	_	Ref=MARK_5.40|Gloss=the
 28	ọmọ	ọmọ	NOUN	_	_	19	obj	_	Ref=MARK_5.40|Gloss=son
 29	ẹ̀yin	ẹ̀yin	NOUN	_	_	28	nmod	_	Ref=MARK_5.40|Gloss=ye
 30	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	29	nmod	_	Ref=MARK_5.40|Gloss=his
@@ -4523,7 +4523,7 @@
 20	ẹnú	ẹnú	NOUN	_	_	22	nsubj	_	Ref=MARK_5.42|Gloss=they
 21	sì	sì	CCONJ	_	_	22	cc	_	Ref=MARK_5.42|Gloss=and
 22	ya	ya	VERB	_	_	13	conj	_	Ref=MARK_5.42|Gloss=sanctify
-23	àwọn	àwọn	DET	_	_	24	det	_	Ref=MARK_5.42
+23	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	24	det	_	Ref=MARK_5.42
 24	òbí	òbí	NOUN	_	_	13	obj	_	Ref=MARK_5.42|Gloss=parents
 25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Ref=MARK_5.42|Gloss=her
 26	gidigidi	gidigidi	ADV	_	_	13	advmod	_	Ref=MARK_5.42|SpaceAfter=No|Gloss=very
@@ -4593,7 +4593,7 @@
 22	si	si	CCONJ	_	_	23	cc	_	Ref=MATT_5.1|Gloss=and
 23	tọ̀	tọ̀	VERB	_	_	15	ccomp	_	Ref=MATT_5.1|Gloss=came
 24	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	23	nmod	_	Ref=MATT_5.1|Gloss=him
-25	wá	wá	VERB	_	_	23	compound:svc	_	Ref=MATT_5.1|SpaceAfter=No||Gloss=come
+25	wá	wá	VERB	_	_	23	compound:svc	_	Ref=MATT_5.1|SpaceAfter=No|Gloss=come
 26	.	.	PUNCT	_	_	25	punct	_	Ref=MATT_5.1|Gloss=.
 
 # sent_id = MATT_5.2
@@ -4698,7 +4698,7 @@
 2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.7|SpaceAfter=No|Gloss=-
 3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.7|Gloss=unto
 4	ni	ni	PART	_	_	5	case	_	Ref=MATT_5.7|Gloss=is
-5	àwọn	àwọn	DET	_	_	6	det	_	Ref=MATT_5.7|Gloss=the
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Ref=MATT_5.7|Gloss=the
 6	aláàánú	aláàánú	NOUN	_	_	11	obl	_	Ref=MATT_5.7|SpaceAfter=No|Gloss=merciful
 7	,	,	PUNCT	_	_	11	punct	_	Ref=MATT_5.7|Gloss=,
 8	nítorí	nítorí	SCONJ	_	_	13	mark	_	Ref=MATT_5.7|Gloss=for
@@ -4716,7 +4716,7 @@
 2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=-
 3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.8|Gloss=unto
 4	ni	ni	PART	_	_	6	case	_	Ref=MATT_5.8|Gloss=is
-5	àwọn	àwọn	DET	_	_	6	det	_	Ref=MATT_5.8|Gloss=the
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Ref=MATT_5.8|Gloss=the
 6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	0	root	_	Ref=MATT_5.8|Gloss=meek
 7	mímọ́	mímọ́	ADJ	_	_	6	amod	_	Ref=MATT_5.8|SpaceAfter=No|Gloss=pure
 8	,	,	PUNCT	_	_	6	punct	_	Ref=MATT_5.8|Gloss=,
@@ -4734,7 +4734,7 @@
 2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.9|SpaceAfter=No|Gloss=-
 3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.9|Gloss=unto
 4	ni	ni	PART	_	_	6	case	_	Ref=MATT_5.9|Gloss=is
-5	àwọn	àwọn	DET	_	_	6	det	_	Ref=MATT_5.9|Gloss=the
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Ref=MATT_5.9|Gloss=the
 6	tonílàjà	tonílàjà	NOUN	_	_	15	obl	_	Ref=MATT_5.9|SpaceAfter=No|Gloss=peacemakers
 7	,	,	PUNCT	_	_	6	punct	_	Ref=MATT_5.9|Gloss=,
 8	nítorí	nítorí	SCONJ	_	_	15	mark	_	Ref=MATT_5.9|Gloss=for
@@ -4755,7 +4755,7 @@
 2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.10|SpaceAfter=No|Gloss=-
 3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.10|Gloss=unto
 4	ni	ni	PART	_	_	5	case	_	Ref=MATT_5.10|Gloss=is
-5	àwọn	àwọn	DET	_	_	6	det	_	Ref=MATT_5.10|Gloss=the
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Ref=MATT_5.10|Gloss=the
 6	ẹni	ẹni	PRON	_	PronType=Ind	1	obj	_	Ref=MATT_5.10|Gloss=someone
 7	tí	tí	PRON	_	PronType=Rel	6	fixed	_	Ref=MATT_5.10|Gloss=that
 8	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nmod	_	Ref=MATT_5.10|Gloss=we
@@ -4786,7 +4786,7 @@
 6	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	12	obl	_	Ref=MATT_5.11|Gloss=you
 7	nígbà	nígbà	ADV	_	_	12	advmod	_	Ref=MATT_5.11|Gloss=when
 8	tí	tí	PRON	_	PronType=Rel	7	fixed	_	Ref=MATT_5.11|Gloss=
-9	àwọn	àwọn	DET	_	_	10	det	_	Ref=MATT_5.11|Gloss=the
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Ref=MATT_5.11|Gloss=the
 10	ènìyàn	ènìyàn	NOUN	_	_	12	obl	_	Ref=MATT_5.11|Gloss=people
 11	bá	bá	SCONJ	_	_	12	mark	_	Ref=MATT_5.11|Gloss=if
 12	fi	fi	VERB	_	_	0	root	_	Ref=MATT_5.11|Gloss=with
@@ -4844,7 +4844,7 @@
 24	ṣe	ṣe	VERB	_	_	23	compound:svc	_	Ref=MATT_5.12|Gloss=do
 25	inúnibíni	inúnibíni	NOUN	_	_	24	obj	_	Ref=MATT_5.12|Gloss=persecution
 26	sí	sí	ADP	_	_	28	case	_	Ref=MATT_5.12|Gloss=to
-27	àwọn	àwọn	DET	_	_	28	det	_	Ref=MATT_5.12|Gloss=the
+27	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	28	det	_	Ref=MATT_5.12|Gloss=the
 28	wòlíì	wòlíì	NOUN	_	_	24	obl	_	Ref=MATT_5.12|Gloss=prophets
 29	tí	tí	PRON	_	PronType=Rel	31	nsubj	_	Ref=MATT_5.12|Gloss=that
 30	ń	ń	AUX	_	_	31	aux	_	Ref=MATT_5.12|Gloss=that
@@ -5032,7 +5032,7 @@
 10	láti	láti	ADP	_	_	12	case	_	Ref=MATT_5.17|Gloss=to
 11	pa	pa	VERB	_	_	12	compound:svc	_	Ref=MATT_5.17|Gloss=keep
 12	òfin	òfin	NOUN	_	_	9	obl	_	Ref=MATT_5.17|Gloss=law
-13	àwọn	àwọn	DET	_	_	14	det	_	Ref=MATT_5.17|Gloss=the
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	Ref=MATT_5.17|Gloss=the
 14	wòlíì	wòlíì	NOUN	_	_	15	obj	_	Ref=MATT_5.17|Gloss=prophets
 15	run	run	VERB	_	_	9	compound:svc	_	Ref=MATT_5.17|SpaceAfter=No|Gloss=destroy
 16	,	,	PUNCT	_	_	19	punct	_	Ref=MATT_5.17|Gloss=,
@@ -5183,11 +5183,11 @@
 14	bá	bá	SCONJ	_	_	15	mark	_	Ref=MATT_5.20|Gloss=if
 15	ju	ju	VERB	_	_	6	ccomp	_	Ref=MATT_5.20|Gloss=pass
 16	ti	ti	ADP	_	_	18	case	_	Ref=MATT_5.20|Gloss=of
-17	àwọn	àwọn	DET	_	_	18	det	_	Ref=MATT_5.20|Gloss=the
+17	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	18	det	_	Ref=MATT_5.20|Gloss=the
 18	Farisí	farisí	PROPN	_	_	15	obl	_	Ref=MATT_5.20|Gloss=pharisees
 19	àti	àti	CCONJ	_	_	24	cc	_	Ref=MATT_5.20|Gloss=and
 20	ti	ti	ADP	_	_	24	case	_	Ref=MATT_5.20|Gloss=of
-21	àwọn	àwọn	DET	_	_	22	det	_	Ref=MATT_5.20|Gloss=the
+21	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	22	det	_	Ref=MATT_5.20|Gloss=the
 22	olùkọ́	olùkọ́	NOUN	_	_	24	nsubj	_	Ref=MATT_5.20|Gloss=master
 23	òfin	òfin	NOUN	_	_	24	nmod	_	Ref=MATT_5.20|Gloss=law
 24	lọ	lọ	VERB	_	_	15	compound:svc	_	Ref=MATT_5.20|SpaceAfter=No|Gloss=go
@@ -5214,7 +5214,7 @@
 7	ti	ti	AUX	_	_	8	aux	_	Ref=MATT_5.21|Gloss=have
 8	wí	wí	VERB	_	_	4	ccomp	_	Ref=MATT_5.21|Gloss=said
 9	fún	fún	ADP	_	_	11	case	_	Ref=MATT_5.21|Gloss=unto
-10	àwọn	àwọn	DET	_	_	11	det	_	Ref=MATT_5.21|Gloss=the
+10	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	11	det	_	Ref=MATT_5.21|Gloss=the
 11	ará	ará	NOUN	_	_	8	obl	_	Ref=MATT_5.21|Gloss=brethren
 12	ìgbàanì	ìgbàanì	ADJ	_	_	19	amod	_	Ref=MATT_5.21|Gloss=ancient
 13	pé	pé	SCONJ	_	_	19	mark	_	Ref=MATT_5.21|SpaceAfter=No|Gloss=that
@@ -5432,7 +5432,7 @@
 44	fá	fá	VERB	_	_	34	conj	_	Ref=MATT_5.25|Gloss=drag
 45	ọ	ọ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	44	nsubj	_	Ref=MATT_5.25|Gloss=you
 46	lé	lé	VERB	_	_	42	compound:svc	_	Ref=MATT_5.25|Gloss=delivered
-47	àwọn	àwọn	DET	_	_	46	det	_	Ref=MATT_5.25|Gloss=the
+47	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	46	det	_	Ref=MATT_5.25|Gloss=the
 48	ẹ̀sọ́	ẹ̀sọ́	NOUN	_	_	44	obj	_	Ref=MATT_5.25|Gloss=guard
 49-50	lọ́wọ́	_	_	_	_	_	_	_	SpaceAfter=No
 49	ní	ní	ADP	_	_	50	case	_	Ref=MARK_5.4|Gloss=in
@@ -5707,7 +5707,7 @@
 7	ti	ti	AUX	_	_	8	aux	_	Ref=MATT_5.33|Gloss=have
 8	wí	wí	VERB	_	_	4	ccomp	_	Ref=MATT_5.33|Gloss=said
 9	fún	fún	ADP	_	_	11	case	_	Ref=MATT_5.33|Gloss=unto
-10	àwọn	àwọn	DET	_	_	11	det	_	Ref=MATT_5.33|Gloss=the
+10	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	11	det	_	Ref=MATT_5.33|Gloss=the
 11	ará	ará	NOUN	_	_	8	obl	_	Ref=MATT_5.33|Gloss=brethren
 12	ìgbàani	ìgbàani	ADJ	_	_	11	amod	_	Ref=MATT_5.33|Gloss=ancient
 13	pé	pé	SCONJ	_	_	4	mark	_	Ref=MATT_5.33|SpaceAfter=No|Gloss=that
@@ -6035,7 +6035,7 @@
 7	,	,	PUNCT	_	_	9	punct	_	Ref=MATT_5.44|Gloss=,
 8	ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	Ref=MATT_5.44|Gloss=you
 9	fẹ́ràn	fẹ́ràn	VERB	_	_	3	ccomp	_	Ref=MATT_5.44|Gloss=love
-10	àwọn	àwọn	DET	_	_	11	det	_	Ref=MATT_5.44|Gloss=the
+10	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	11	det	_	Ref=MATT_5.44|Gloss=the
 11	ọ̀ta	ọ̀ta	NOUN	_	_	9	obj	_	Ref=MATT_5.44|Gloss=enemies
 12	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	11	nmod	_	Ref=MATT_5.44|Gloss=you
 13	kí	kí	SCONJ	_	_	16	mark	_	Ref=MATT_5.44|Gloss=let
@@ -6043,7 +6043,7 @@
 15	sì	sì	CCONJ	_	_	16	cc	_	Ref=MATT_5.44|Gloss=and
 16	gbàdúrà	gbàdúrà	VERB	_	_	9	ccomp	_	Ref=MATT_5.44|Gloss=pray
 17	fún	fún	ADP	_	_	19	case	_	Ref=MATT_5.44|Gloss=unto
-18	àwọn	àwọn	DET	_	_	19	det	_	Ref=MATT_5.44|Gloss=the
+18	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	19	det	_	Ref=MATT_5.44|Gloss=the
 19	tí	tí	PRON	_	PronType=Rel	16	obl	_	Ref=MATT_5.44|Gloss=that
 20	ń	ń	AUX	_	_	21	aux	_	Ref=MATT_5.44|Gloss=is
 21	ṣe	ṣe	VERB	_	_	16	acl	_	Ref=MATT_5.44|Gloss=do
@@ -6086,11 +6086,11 @@
 28	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	Ref=MATT_5.45|Gloss=he
 29	rọ̀jò	rọ̀jò	VERB	_	_	19	conj	_	Ref=MATT_5.45|Gloss=rained
 30	fún	fún	ADP	_	_	32	case	_	Ref=MATT_5.45|Gloss=unto
-31	àwọn	àwọn	DET	_	_	32	det	_	Ref=MATT_5.45|Gloss=the
+31	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	32	det	_	Ref=MATT_5.45|Gloss=the
 32	olódodo	olódodo	NOUN	_	_	29	obl	_	Ref=MATT_5.45|Gloss=righteous
 33	àti	àti	CCONJ	_	_	36	cc	_	Ref=MATT_5.45|Gloss=and
 34	fún	fún	ADP	_	_	36	case	_	Ref=MATT_5.45|Gloss=unto
-35	àwọn	àwọn	DET	_	_	36	det	_	Ref=MATT_5.45|Gloss=the
+35	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	36	det	_	Ref=MATT_5.45|Gloss=the
 36	aláìṣòdodo	aláìṣòdodo	NOUN	_	_	29	conj	_	Ref=MATT_5.45|SpaceAfter=No|Gloss=unrighteous
 37	.	.	PUNCT	_	_	10	punct	_	Ref=MATT_5.45|Gloss=.
 
@@ -6137,7 +6137,7 @@
 6	jẹ́	jẹ́	AUX	_	_	10	aux	_	Ref=MATT_5.47|Gloss=be
 7	pé	pé	SCONJ	_	_	10	mark	_	Ref=MATT_5.47|Gloss=that
 8	kìkì	kìkì	ADJ	_	_	9	amod	_	Ref=MATT_5.47|Gloss=only
-9	àwọn	àwọn	DET	_	_	10	det	_	Ref=MATT_5.47|Gloss=the
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Ref=MATT_5.47|Gloss=the
 10	arákùnrin	arákùnrin	NOUN	_	_	0	root	_	Ref=MATT_5.47|Gloss=brother
 11	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	10	nmod	_	Ref=MATT_5.47|Gloss=your
 12	nìkan	nìkan	ADV	_	_	22	advmod	_	Ref=MATT_5.47|Gloss=only
@@ -6152,7 +6152,7 @@
 21	ń	ń	AUX	_	_	22	aux	_	Ref=MATT_5.47|Gloss=is
 22	ṣe	ṣe	VERB	_	_	8	parataxis	_	Ref=MATT_5.47|Gloss=do
 23	ju	ju	VERB	_	_	22	compound:svc	_	Ref=MATT_5.47|Gloss=pass
-24	àwọn	àwọn	DET	_	_	25	det	_	Ref=MATT_5.47|Gloss=the
+24	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	25	det	_	Ref=MATT_5.47|Gloss=the
 25	mìíràn	mìíràn	ADJ	_	_	22	amod	_	Ref=MATT_5.47|SpaceAfter=No|Gloss=other
 26	?	?	PUNCT	_	_	22	punct	_	Ref=MATT_5.47|Gloss=?
 27	Àwọn	àwọn	DET	_	_	28	det	_	Ref=MATT_5.47|Gloss=the
@@ -6275,8 +6275,8 @@
 # sent_id = PS_131.3
 # text = Ísírẹ́lì, ìwọ ní ìrètí ní ti Olúwa láti ìsinsinyí lọ àti láéláé.
 # text_en = Let Israel hope in the LORD from henceforth and for ever.
-1	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	4	obl	_	Ref=PS_131.3|SpaceAfter=No|Gloss=israel
-2	,	,	PUNCT	_	_	4	punct	_	Ref=PS_131.3|Gloss=,
+1	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	4	vocative	_	Ref=PS_131.3|SpaceAfter=No|Gloss=israel
+2	,	,	PUNCT	_	_	1	punct	_	Ref=PS_131.3|Gloss=,
 3	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Ref=PS_131.3|Gloss=you
 4	ní	ní	VERB	_	_	0	root	_	Ref=PS_131.3|Gloss=have
 5	ìrètí	ìrètí	NOUN	_	_	4	obj	_	Ref=PS_131.3|Gloss=hope
@@ -6284,11 +6284,11 @@
 7	ti	ti	ADP	_	_	8	case	_	Ref=PS_131.3|Gloss=of
 8	Olúwa	Olúwa	PROPN	_	_	4	obl	_	Ref=PS_131.3|Gloss=lord
 9	láti	láti	ADP	_	_	10	case	_	Ref=PS_131.3|Gloss=to
-10	ìsinsinyí	ìsinsinyí	ADJ	_	_	4	amod	_	Ref=PS_131.3|Gloss=now
-11	lọ	lọ	VERB	_	_	4	ccomp	_	Ref=PS_131.3|Gloss=go
-12	àti	àti	CCONJ	_	_	11	cc	_	Ref=PS_131.3|Gloss=and
-13	láéláé	láéláé	ADJ	_	_	10	amod	_	Ref=PS_131.3|SpaceAfter=No|Gloss=eternal
-14	.	.	PUNCT	_	_	11	punct	_	Ref=PS_131.3|Gloss=.
+10	ìsinsinyí	ìsinsinyí	ADV	_	_	11	advmod	_	Ref=PS_131.3|Gloss=now
+11	lọ	lọ	VERB	_	_	4	advcl	_	Ref=PS_131.3|Gloss=go
+12	àti	àti	CCONJ	_	_	13	cc	_	Ref=PS_131.3|Gloss=and
+13	láéláé	láéláé	ADV	_	_	10	conj	_	Ref=PS_131.3|SpaceAfter=No|Gloss=eternal
+14	.	.	PUNCT	_	_	4	punct	_	Ref=PS_131.3|Gloss=.
 
 # source = Bibeli Mimọ, Sáàmù, Chapter 133
 # newdoc id = PS_133
@@ -6306,7 +6306,7 @@
 9	dùn	dùn	ADJ	_	_	5	amod	_	Ref=PS_133.1|Gloss=glad
 10	tó	tó	ADV	_	_	9	advmod	_	Ref=PS_133.1|Gloss=much
 11	fún	fún	ADP	_	_	12	case	_	Ref=PS_133.1|Gloss=unto
-12	àwọn	àwọn	DET	_	_	13	det	_	Ref=PS_133.1|Gloss=the
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Ref=PS_133.1|Gloss=the
 13	ará	ará	NOUN	_	_	10	obl	_	Ref=PS_133.1|Gloss=brethren
 14	láti	láti	ADP	_	_	16	case	_	Ref=PS_133.1|Gloss=to
 15	máa	máa	AUX	_	_	16	aux	_	Ref=PS_133.1|Gloss=be
@@ -6506,7 +6506,7 @@
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
 16	jọọ́	jọọ́	VERB	_	_	13	acl	_	_
 17	fún	fún	ADP	_	_	19	case	_	_
-18	àwọn	àwọn	DET	_	_	19	det	_	_
+18	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	19	det	_	_
 19	ọmọ	ọmọ	NOUN	_	_	16	obl	_	_
 20	ogun	ogun	NOUN	_	_	19	nmod	_	_
 21	ẹ̀yìn	ẹ̀yìn	ADP	_	_	22	case	_	_
@@ -6799,7 +6799,7 @@
 # text = Lóde òní àwọn ènìyàn máa ń gbé onírú irú àworan tí ó jọ́ọ níbi ayẹyẹ láti lé ẹbọra búrúkú, ṣùgbọ́n ní bí ọrundún mẹ́rìndínlógún sẹ́yìn, wọ́n lè maa lòó fún ayẹyẹ ìya ọba.
 1	Lóde	Lóde	NOUN	_	_	2	nsubj	_	_
 2	òní	òní	VERB	_	_	0	root	_	_
-3	àwọn	àwọn	DET	_	_	4	det	_	_
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	_
 4	ènìyàn	ènìyàn	NOUN	_	_	7	nsubj	_	_
 5	máa	máa	AUX	_	_	7	aux	_	_
 6	ń	ń	AUX	_	_	7	aux	_	_
@@ -6849,7 +6849,7 @@
 10	ni	ni	PART	_	_	11	case	_	_
 11	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
 12	gbẹ́	gbẹ́	VERB	_	_	3	obl	_	_
-13	àwọn	àwọn	DET	_	_	14	det	_	_
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	_
 14	Ìbòjú	Ìbòjú	NOUN	_	_	17	nsubj	_	_
 15	méjèèjì	méjèèjì	PROPN	_	_	14	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
@@ -6905,7 +6905,7 @@
 16	,	,	PUNCT	_	_	18	punct	_	_
 17	tí	tí	PRON	_	PronType=Rel	18	nsubj	_	_
 18	iṣẹ̀ṣe	iṣẹ̀ṣe	VERB	_	_	15	conj	_	_
-19	àwọn	àwọn	DET	_	_	20	det	_	_
+19	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	_
 20	Edo	Edo	NOUN	_	_	21	nsubj	_	_
 21	mọ̀	mọ̀	VERB	_	_	18	xcomp	_	_
 22	sí	sí	ADP	_	_	25	case	_	_
@@ -7018,7 +7018,7 @@
 9	fìgbàkan	fìgbàkan	VERB	_	_	5	conj	_	_
 10	wà	wà	VERB	_	_	9	ccomp	_	_
 11	fún	fún	ADP	_	_	13	case	_	_
-12	àwọn	àwọn	DET	_	_	13	det	_	_
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	_
 13	olókìkí	olókìkí	NOUN	_	_	10	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	tí	tí	PRON	_	PronType=Rel	16	det	_	_
@@ -7177,7 +7177,7 @@
 16	ìlẹ̀kẹ̀	ìlẹ̀kẹ̀	NOUN	_	_	15	obj	_	_
 17	ọrùn	ọrùn	NOUN	_	_	16	nmod	_	_
 18	tí	tí	PRON	_	PronType=Rel	24	obj	_	_
-19	àwọn	àwọn	DET	_	_	20	det	_	_
+19	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	_
 20	ọkùnrin	ọkùnrin	NOUN	_	_	24	nsubj	_	_
 21	Àgùdà	Àgùdà	PROPN	_	_	20	nmod	_	_
 22	maa	máa	AUX	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	aux	_	_
@@ -7212,14 +7212,14 @@
 51	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	52	expl	_	_
 52	ṣe	ṣe	VERB	_	_	49	acl	_	_
 53	àfihàn	àfihàn	NOUN	_	_	52	obj	_	_
-54	àwọn	àwọn	DET	_	_	55	det	_	_
+54	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	55	det	_	_
 55	ọkùnrin	ọkùnrin	NOUN	_	_	53	nmod	_	_
 56	Àgùdá	Àgùdá	ADJ	_	_	55	nmod	_	_
 57	tí	tí	PRON	_	PronType=Rel	59	nsubj	_	_
 58	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	59	nsubj	_	_
 59	múra	múra	VERB	_	_	56	acl	_	_
 60	bí	bí	SCONJ	_	_	62	case	_	_
-61	àwọn	àwọn	DET	_	_	62	det	_	_
+61	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	62	det	_	_
 62	ènìyàn	ènìyàn	NOUN	_	_	59	obj	_	_
 63	dúdú	dúdú	ADJ	_	_	62	amod	_	SpaceAfter=No
 64	.	.	PUNCT	_	_	15	punct	_	SpacesAfter=\n\n
@@ -7245,7 +7245,7 @@
 16	tí	tí	PRON	_	PronType=Rel	18	nsubj	_	_
 17	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	expl	_	_
 18	fi	fi	VERB	_	_	14	conj	_	_
-19	àwọn	àwọn	DET	_	_	20	det	_	_
+19	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	_
 20	ọkùnrin	ọkùnrin	NOUN	_	_	22	nsubj	_	_
 21	Àgùdà	Àgùdà	ADV	_	_	20	nmod	_	_
 22	ṣẹ̀ṣọ́	ṣẹ̀ṣọ́	VERB	_	_	18	xcomp	_	_
@@ -7293,7 +7293,7 @@
 3	jẹ́	jẹ́	AUX	_	_	4	aux	_	_
 4	oníṣòwò	oníṣòwò	VERB	_	_	0	root	_	_
 5	pẹ̀lú	pẹ̀lú	ADV	_	_	7	case	_	_
-6	àwọn	àwọn	DET	_	_	7	det	_	_
+6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	_
 7	Benin	Benin	NOUN	_	_	4	obj	_	_
 8	nígbàyẹn	nígbàyẹn	ADV	_	_	13	advmod	_	_
 9	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	13	advmod	_	_
@@ -7451,7 +7451,7 @@
 1	Ìṣọmọlí	Ìṣọmọlí	ADP	_	_	2	case	_	_
 2	órúkọ	órúkọ	NOUN	_	_	6	nsubj	_	_
 3	láàárín	láàárín	ADP	_	NumType=Card	5	case	_	_
-4	àwọn	àwọn	DET	_	_	5	det	_	_
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	_
 5	Yorùbá	Yorùbá	PROPN	_	_	6	nsubj	_	_
 6	dàbí	dàbí	VERB	_	_	0	root	_	_
 7	ìgbà	ìgbà	NOUN	_	_	6	obj	_	_
@@ -7473,7 +7473,7 @@
 23	,	,	PUNCT	_	_	24	punct	_	_
 24	tìyekan	tìyekan	NOUN	_	_	20	conj	_	_
 25	àti	àti	CCONJ	_	_	27	cc	_	_
-26	àwọn	àwọn	DET	_	_	27	det	_	_
+26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	27	det	_	_
 27	alábáse	alábáse	NOUN	_	_	20	conj	_	_
 28	gbogbo	gbogbo	DET	_	_	27	det	_	_
 29	ní	ní	PART	_	_	20	case	_	_
@@ -7703,7 +7703,7 @@
 11	Iṣé	Iṣé	NOUN	_	_	7	conj	_	_
 12	àti	àti	CCONJ	_	_	13	cc	_	_
 13	ìgbàgbọ́	ìgbàgbọ́	NOUN	_	_	11	conj	_	_
-14	àwọn	àwọn	DET	_	_	15	det	_	_
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	_
 15	Yorùbá	Yorùbá	PROPN	_	_	16	nsubj	_	_
 16	hàn	hàn	VERB	_	_	13	acl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
@@ -7813,13 +7813,13 @@
 # text = Ìkẹrin nínú àwọn ọmọ méjọ, ọ̀mọ̀wé ni àwọn òbí rẹ̀.
 1	Ìkẹrin	Ìkẹrin	NOUN	_	_	5	nsubj	_	_
 2	nínú	nínú	ADP	_	_	4	case	_	_
-3	àwọn	àwọn	DET	_	_	4	det	_	_
+3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	_
 4	ọmọ	ọmọ	NOUN	_	_	1	nmod	_	_
 5	méjọ	méjọ	ADV	_	_	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	ọ̀mọ̀wé	ọ̀mọ̀wé	NOUN	_	_	5	conj	_	_
 8	ni	ni	PART	_	_	10	case	_	_
-9	àwọn	àwọn	DET	_	_	10	det	_	_
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	_
 10	òbí	òbí	NOUN	_	_	7	nmod	_	_
 11	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\s\n\n
@@ -7969,7 +7969,7 @@
 10	àmúhàn	àmúhàn	VERB	_	_	9	compound:svc	_	_
 11	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 12	sí	sí	ADP	_	_	14	case	_	_
-13	àwọn	àwọn	DET	_	_	14	det	_	_
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	_
 14	olólùfẹ́	olólùfẹ́	NOUN	_	_	9	obl	_	_
 15	filmu	filmu	NOUN	_	_	14	nmod	_	_
 16	ni	ni	ADP	_	_	17	case	_	_
@@ -7991,7 +7991,7 @@
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 4	tún	tún	ADV	_	_	5	advmod	_	_
 5	ṣe	ṣe	VERB	_	_	0	root	_	_
-6	àwọn	àwọn	DET	_	_	7	det	_	_
+6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	_
 7	filmu	filmu	NOUN	_	_	5	obj	_	_
 8	bíi	bíi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
 9	Last	Last	NOUN	_	_	5	obj	_	_
@@ -8061,7 +8061,7 @@
 37	ní	ní	ADP	_	_	38	case	_	_
 38	2005	2005	NUM	_	NumType=Card	34	obl	_	_
 39	nínú	nínú	ADP	_	_	41	case	_	_
-40	àwọn	àwọn	DET	_	_	41	det	_	_
+40	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	41	det	_	_
 41	Ẹ̀bùn	Ẹ̀bùn	NOUN	_	_	34	obl	_	_
 42	Akadẹ́mì	Akadẹ́mì	NOUN	_	_	41	nmod	_	_
 43	Filmu	Filmu	NOUN	_	_	42	nmod	_	_
@@ -8155,7 +8155,7 @@
 5	jẹ́	jẹ́	VERB	_	_	2	advcl	_	_
 6	ọ̀kan	ọ̀kan	NOUN	_	_	5	obj	_	_
 7	nínú	nínú	ADP	_	_	9	case	_	_
-8	àwọn	àwọn	DET	_	_	9	det	_	_
+8	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	9	det	_	_
 9	tí	tí	PRON	_	PronType=Rel	5	obl	_	_
 10	owó	owó	ADV	_	_	13	advmod	_	_
 11	iṣẹ́	iṣẹ́	NOUN	_	_	13	nsubj	_	_
@@ -8390,7 +8390,7 @@
 12	gbígbàgbọ́	gbígbàgbọ́	VERB	_	_	3	conj	_	_
 13	pé	pé	SCONJ	_	_	16	mark	_	_
 14	gbogbo	gbogbo	DET	_	_	16	det	_	_
-15	àwọn	àwọn	DET	_	_	16	det	_	_
+15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	_
 16	oníṣe	oníṣe	NOUN	_	_	12	obj	_	_
 17	gbọ́dọ̀	gbọ́dọ̀	ADV	_	_	18	advmod	_	_
 18	tẹ̀lé	tẹ̀lé	VERB	_	_	16	conj	_	_
@@ -8421,7 +8421,7 @@
 18	láì	láì	CCONJ	_	_	20	cc	_	_
 19	kọ́kọ́	kọ́kọ́	NOUN	_	_	20	nsubj	_	_
 20	filọ	filọ	VERB	_	_	14	parataxis	_	_
-21	àwọn	àwọn	DET	_	_	22	det	_	_
+21	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	22	det	_	_
 22	oníṣe	oníṣe	NOUN	_	_	20	obj	_	_
 23	yìókù	yìókù	PROPN	_	_	22	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	20	punct	_	SpacesAfter=\n\n
@@ -8470,7 +8470,7 @@
 10	mú	mú	VERB	_	_	7	xcomp	_	_
 11	ìdàgbàsókè	ìdàgbàsókè	NOUN	_	_	10	obj	_	_
 12	bá	bá	SCONJ	_	_	14	mark	_	_
-13	àwọn	àwọn	DET	_	_	14	det	_	_
+13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	_
 14	Ìmúlò	Ìmúlò	NOUN	_	_	11	nmod	_	_
 15	àti	àti	CCONJ	_	_	16	cc	_	_
 16	ìtọ́nisọ́nà	ìtọ́nisọ́nà	NOUN	_	_	14	conj	_	_
@@ -8564,7 +8564,7 @@
 13	sáré	sáré	ADP	_	_	14	case	_	_
 14	òfin	òfin	NOUN	_	_	10	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	6	punct	_	_
-16	àwọn	àwọn	DET	_	_	17	det	_	_
+16	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	17	det	_	_
 17	ojú	ojú	NOUN	_	_	23	nsubj	_	_
 18	ewé	ewé	NOUN	_	_	17	nmod	_	_
 19	Ìmúlò	Ìmúlò	NOUN	_	_	17	nmod	_	_
@@ -8587,7 +8587,7 @@
 1	Ìmúlò	Ìmúlò	NOUN	_	_	2	nsubj	_	_
 2	ṣe	ṣe	VERB	_	_	0	root	_	_
 3	àlàyé	àlàyé	NOUN	_	_	2	obj	_	_
-4	àwọn	àwọn	DET	_	_	5	det	_	_
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	_
 5	ìlànà	ìlànà	NOUN	_	_	3	nmod	_	_
 6	tí	tí	PRON	_	PronType=Rel	8	nsubj	_	_
 7	alàtúnkọ	alàtúnkọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	expl	_	_
@@ -8646,7 +8646,7 @@
 11	alàkóso	alàkóso	NOUN	_	_	10	obj	_	_
 12	Wikipédíà	Wikipédíà	NOUN	_	_	11	nmod	_	_
 13	pẹ̀lú	pẹ̀lú	ADV	_	_	15	advmod	_	_
-14	àwọn	àwọn	DET	_	_	15	det	_	_
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	_
 15	òfin	òfin	NOUN	_	_	11	nmod	_	_
 16	kan	kan	NUM	_	NumType=Card	15	nmod	_	_
 17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
@@ -8731,7 +8731,7 @@
 1	Fún	fún	NOUN	_	_	0	root	_	_
 2	kúkurú	kúkurú	ADP	_	_	3	case	_	_
 3	ojúlówó	ojúlówó	NOUN	_	_	1	nmod	_	_
-4	àwọn	àwọn	DET	_	_	5	det	_	_
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	_
 5	ìmúlò	ìmúlò	NOUN	_	_	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	wo	wo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
@@ -8750,7 +8750,7 @@
 1	Wikipedia	Wikipedia	NOUN	_	_	3	nsubj	_	_
 2	Yorùbá	Yorùbá	ADJ	_	_	1	nmod	_	_
 3	únlo	únlo	VERB	_	_	0	root	_	_
-4	àwọn	àwọn	DET	_	_	5	det	_	_
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	_
 5	ìpinu	ìpinu	NOUN	_	_	3	obj	_	_
 6	ọ̀nà	ọ̀nà	ADV	_	_	7	case	_	_
 7	ìṣiṣẹ́	ìṣiṣẹ́	NOUN	_	_	5	nmod	_	_
@@ -8795,11 +8795,11 @@
 2	ojúewé	ojúewé	NOUN	_	_	1	nmod	_	_
 3	yìí	yìí	DET	_	_	2	det	_	_
 4	látọwọ́	látọwọ́	VERB	_	_	0	root	_	_
-5	àwọn	àwọn	DET	_	_	6	det	_	_
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	_
 6	oníṣe	oníṣe	NOUN	_	_	8	nsubj	_	_
 7	tuntun	tuntun	ADV	_	_	8	advmod	_	_
 8	tàbí	tàbí	VERB	_	_	4	parataxis	_	_
-9	àwọn	àwọn	DET	_	_	10	det	_	_
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	_
 10	oníṣe	oníṣe	NOUN	_	_	8	obj	_	_
 11	aláìtíìforúkọsílẹ̀	aláìtíìforúkọsílẹ̀	NOUN	_	_	10	nmod	_	_
 12	jẹ́	jẹ́	AUX	_	_	14	cop	_	_
@@ -8820,7 +8820,7 @@
 7	bò	bò	ADP	_	_	8	case	_	_
 8	díẹ̀	díẹ̀	NOUN	_	_	6	nmod	_	_
 9	nítoríẹ̀	nítoríẹ̀	VERB	_	_	5	conj	_	_
-10	àwọn	àwọn	DET	_	_	11	det	_	_
+10	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	11	det	_	_
 11	oníṣe	oníṣe	NOUN	_	_	9	obj	_	_
 12	aforúkọsílẹ̀	aforúkọsílẹ̀	NOUN	_	_	11	nmod	_	_
 13	tí	tí	PRON	_	PronType=Rel	16	nsubj	_	_
@@ -8854,7 +8854,7 @@
 3	jẹ́	jẹ́	AUX	_	_	1	fixed	_	_
 4	pé	pé	SCONJ	_	_	1	fixed	_	_
 5	ọ̀pọ̀	ọ̀pọ̀	NOUN	_	_	12	nsubj	_	_
-6	àwọn	àwọn	DET	_	_	7	det	_	_
+6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	_
 7	àyọkà	àyọkà	NOUN	_	_	5	nmod	_	_
 8	ni	ni	PART	_	_	7	case	_	_
 9	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	expl	_	_
@@ -8874,7 +8874,7 @@
 23	dínà	dínà	VERB	_	_	18	parataxis	_	_
 24	ìbàjẹ́	ìbàjẹ́	NOUN	_	_	23	obj	_	_
 25	sí	sí	ADP	_	_	27	case	_	_
-26	àwọn	àwọn	DET	_	_	27	det	_	_
+26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	27	det	_	_
 27	ojúewé	ojúewé	NOUN	_	_	23	obl	_	_
 28	tó	tó	ADV	_	_	29	advmod	_	_
 29	gbajúmọ̀	gbajúmọ̀	VERB	_	_	23	compound:svc	_	SpaceAfter=No
@@ -8967,7 +8967,7 @@
 21	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	expl	_	_
 22	le	le	VERB	_	_	14	conj	_	_
 23	ṣàtúnṣe	ṣàtúnṣe	VERB	_	_	22	compound:svc	_	_
-24	àwọn	àwọn	DET	_	_	25	det	_	_
+24	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	25	det	_	_
 25	ojúewé	ojúewé	NOUN	_	_	23	obj	_	_
 26	àbò	àbò	ADP	_	_	27	case	_	_
 27	díẹ̀	díẹ̀	NOUN	_	_	25	nmod	_	SpaceAfter=No
@@ -8982,7 +8982,7 @@
 4	ojúewé	ojúewé	NOUN	_	_	2	obl	_	_
 5	yìí	yìí	DET	_	_	4	det	_	_
 6	pẹ̀lú	pẹ̀lú	ADV	_	_	8	advmod	_	_
-7	àwọn	àwọn	DET	_	_	8	det	_	_
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	_
 8	ẹlòmíràn	ẹlòmíràn	ADJ	_	_	4	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
 
@@ -9042,7 +9042,7 @@
 26	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	28	nsubj	_	_
 27	sì	sì	CCONJ	_	_	28	cc	_	_
 28	tẹ̀lẹ́	tẹ̀lẹ́	VERB	_	_	15	conj	_	_
-29	àwọn	àwọn	DET	_	_	30	det	_	_
+29	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	30	det	_	_
 30	ìlànà	ìlànà	NOUN	_	_	28	obj	_	_
 31	ibẹ̀	ibẹ̀	NOUN	_	_	30	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n
@@ -9117,7 +9117,7 @@
 5	láti	láti	ADP	_	_	6	case	_	_
 6	jẹ́	jẹ́	VERB	_	_	3	advcl	_	_
 7	kí	kí	AUX	_	_	9	aux	_	_
-8	àwọn	àwọn	DET	_	_	9	det	_	_
+8	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	9	det	_	_
 9	míràn	míràn	ADJ	_	_	6	obj	_	_
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 11	bá	bá	SCONJ	_	_	14	mark	_	_
@@ -9153,7 +9153,7 @@
 9	síta	síta	ADV	_	_	7	advmod	_	_
 10	nígbà	nígbà	ADV	_	_	18	advmod	_	_
 11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	_
-12	àwọn	àwọn	DET	_	_	13	det	_	_
+12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	_
 13	oníṣe	oníṣe	NOUN	_	_	18	nsubj	_	_
 14	míràn	míràn	ADJ	_	_	13	amod	_	_
 15	bá	bá	SCONJ	_	_	18	mark	_	_
@@ -9203,13 +9203,13 @@
 5	ojúewé	ojúewé	NOUN	_	_	2	obl	_	_
 6	yìí	yìí	DET	_	_	5	det	_	_
 7	nínú	nínú	ADP	_	_	9	case	_	_
-8	àwọn	àwọn	DET	_	_	9	det	_	_
+8	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	9	det	_	_
 9	ojúewé	ojúewé	NOUN	_	_	2	obl	_	_
 10	mìíràn	mìíràn	ADJ	_	_	9	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	tàbí	tàbí	PRON	_	_	13	nsubj	_	_
 13	wá	wá	VERB	_	_	2	conj	_	_
-14	àwọn	àwọn	DET	_	_	15	det	_	_
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	_
 15	àkọọ́lẹ̀	àkọọ́lẹ̀	NOUN	_	_	13	obj	_	_
 16	tó	tó	ADV	_	_	17	advmod	_	_
 17	bámu	bámu	VERB	_	_	13	compound:svc	_	SpaceAfter=No
@@ -9253,7 +9253,7 @@
 22	)	)	PUNCT	_	_	26	punct	_	_
 23	àti	àti	CCONJ	_	_	26	cc	_	_
 24	gbogbo	gbogbo	DET	_	_	26	det	_	_
-25	àwọn	àwọn	DET	_	_	26	det	_	_
+25	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	26	det	_	_
 26	àwòrán	àwòrán	NOUN	_	_	18	conj	_	_
 27	láti	láti	ADP	_	_	28	case	_	_
 28	ibi	ibi	NOUN	_	_	26	nmod	_	_
@@ -9302,7 +9302,7 @@
 6	ìyípadà	ìyípadà	NOUN	_	_	5	compound	_	_
 7	ìjúwe	ìjúwe	NOUN	_	_	5	obj	_	_
 8	gbogbo	gbogbo	DET	_	_	10	det	_	_
-9	àwọn	àwọn	DET	_	_	10	det	_	_
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	_
 10	àwòrán	àwòrán	NOUN	_	_	7	nmod	_	_
 11	náà	náà	ADV	_	_	5	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
@@ -9420,7 +9420,7 @@
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	ayé	ayé	NOUN	_	_	7	obl	_	_
 3	àtijọ́	àtijọ́	NOUN	_	_	2	nmod	_	_
-4	àwọn	àwọn	DET	_	_	5	det	_	_
+4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	_
 5	onímọ́	onímọ́	NOUN	_	_	7	nsubj	_	_
 6	ìṣirò	ìṣirò	NOUN	_	_	5	nmod	_	_
 7	mọ	mọ	VERB	_	_	0	root	_	_
@@ -9557,7 +9557,7 @@
 23	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	29	punct	_	_
 25	sùgbọ̀n	sùgbọ̀n	CCONJ	_	_	29	cc	_	_
-26	àwọn	àwọn	DET	_	_	27	det	_	_
+26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	27	det	_	_
 27	nọ́mbà	nọ́mbà	NOUN	_	_	29	nsubj	_	_
 28	tósòro	tósòro	ADJ	_	_	27	amod	_	_
 29	ní	ní	VERB	_	_	8	conj	_	SpaceAfter=No
