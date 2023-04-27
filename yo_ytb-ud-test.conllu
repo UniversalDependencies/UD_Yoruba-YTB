@@ -3020,8 +3020,8 @@
 39	jẹ́	jẹ́	VERB	_	_	34	ccomp	_	Gloss=let|Ref=JOHN_11.44
 40	kí	kí	AUX	_	_	39	aux	_	Gloss=|Ref=JOHN_11.44
 41	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	Gloss=he|Ref=JOHN_11.44
-42	má	má	AUX	_	_	44	aux	_	Gloss=should|Ref=JOHN_11.44
-43	a	a	X	_	_	42	goeswith	_	Gloss=|Ref=JOHN_11.44
+42	má	máa	AUX	_	Typo=Yes	44	aux	_	CorrectForm=máa|Gloss=should|Ref=JOHN_11.44
+43	a	_	X	_	_	42	goeswith	_	Gloss=|Ref=JOHN_11.44
 44	lọ	lọ	VERB	_	_	39	ccomp	_	Gloss=go|Ref=JOHN_11.44|SpaceAfter=No
 45	!	!	PUNCT	_	_	34	punct	_	Gloss=.|Ref=JOHN_11.44|SpaceAfter=No
 46	”	”	PUNCT	_	_	34	punct	_	Gloss=”|Ref=JOHN_11.44
@@ -3418,8 +3418,8 @@
 16	wọnni	wọnni	DET	_	_	12	det	_	Gloss=those|Ref=MARK_5.12
 17	kí	kí	AUX	_	_	21	aux	_	Gloss=so|Ref=MARK_5.12
 18	awa	awa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=we|Ref=MARK_5.12
-19	le	lè	AUX	_	Typo=Yes	21	aux	_	Gloss=can|Ref=MARK_5.12
-20	è	è	X	_	Typo=Yes	19	goeswith	_	Gloss=|Ref=MARK_5.12
+19	le	lè	AUX	_	Typo=Yes	21	aux	_	CorrectForm=leè|Gloss=can|Ref=MARK_5.12
+20	è	_	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.12
 21	wọ	wọ	VERB	_	_	16	xcomp	_	Gloss=enter|Ref=MARK_5.12
 22	inú	inú	ADP	_	_	23	case	_	Gloss=into|Ref=MARK_5.12
 23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	Gloss=them|Ref=MARK_5.12
@@ -3989,8 +3989,8 @@
 11	Bí	Bí	SCONJ	_	_	17	mark	_	Gloss=if|Ref=MARK_5.28
 12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	Gloss=i|Ref=MARK_5.28
 13	bá	bá	SCONJ	_	_	17	mark	_	Gloss=if|Ref=MARK_5.28
-14	ṣá	ṣá	ADV	_	_	17	advmod	_	Gloss=may|Ref=MARK_5.28
-15	à	à	X	_	_	14	goeswith	_	Gloss=|Ref=MARK_5.28
+14	ṣá	ṣáà	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=ṣáà|Gloss=may|Ref=MARK_5.28
+15	à	_	X	_	_	14	goeswith	_	Gloss=|Ref=MARK_5.28
 16	lè	lè	AUX	_	_	17	aux	_	Gloss=can|Ref=MARK_5.28
 17	fi	fi	VERB	_	_	4	conj	_	Gloss=use|Ref=MARK_5.28
 18	ọwọ́	ọwọ́	NOUN	_	_	17	obj	_	Gloss=hand|Ref=MARK_5.28
@@ -4201,8 +4201,8 @@
 16	ara	ara	NOUN	_	_	17	obj	_	Gloss=body|Ref=MARK_5.33
 17	dá	dá	VERB	_	_	14	compound:svc	_	Gloss=heal|Ref=MARK_5.34|SpaceAfter=No
 18	:	:	PUNCT	_	_	21	punct	_	Gloss=:|Ref=MARK_5.34
-19	Má	má	AUX	_	_	21	aux	_	Gloss=may|Ref=MARK_5.34
-20	a	a	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.34
+19	Má	máa	AUX	_	Typo=Yes	21	aux	_	CorrectForm=Máa|Gloss=may|Ref=MARK_5.34
+20	a	_	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.34
 21	lọ	lọ	VERB	_	_	17	parataxis	_	Gloss=go|Ref=MARK_5.34
 22	ní	ní	ADP	_	_	23	case	_	Gloss=in|Ref=MARK_5.34
 23	àlàáfíà	àlàáfíà	NOUN	_	_	21	obl	_	Gloss=peace|Ref=MARK_5.34|SpaceAfter=No
@@ -4293,8 +4293,8 @@
 16	Má	má	AUX	_	_	17	aux	_	Gloss=not|Ref=MARK_5.36
 17	bẹ̀rù	bẹ̀rù	VERB	_	_	10	ccomp	_	Gloss=fear|Ref=MARK_5.36|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=,|Ref=MARK_5.36
-19	sá	sá	ADV	_	_	17	advmod	_	Gloss=just|Ref=MARK_5.36
-20	à	à	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.36
+19	sá	sáà	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=sáà|Gloss=just|Ref=MARK_5.36
+20	à	_	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.36
 21	gbà	gbà	VERB	_	_	19	acl	_	Gloss=accept|Ref=MARK_5.36
 22	mí	mí	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	Gloss=me|Ref=MARK_5.36
 23	gbọ́	gbọ́	VERB	_	_	21	compound:svc	_	Gloss=heard|Ref=MARK_5.36
@@ -8381,8 +8381,8 @@
 3	èso	èso	VERB	_	_	0	root	_	_
 4	ìfohùnṣọ̀kan	ìfohùnṣọ̀kan	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	12	punct	_	_
-6	bẹ́	bẹ́	NOUN	_	_	12	discourse	_	_
-7	ẹ̀	ẹ̀	X	_	_	6	goeswith	_	_
+6	bẹ́	bẹ́ẹ̀	NOUN	_	Typo=Yes	12	discourse	_	CorrectForm=bẹ́ẹ̀
+7	ẹ̀	_	X	_	_	6	goeswith	_	_
 8	sì	sì	CCONJ	_	_	12	cc	_	_
 9	ni	ni	PART	_	_	10	case	_	_
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
