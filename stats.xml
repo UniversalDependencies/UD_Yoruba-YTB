@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>318</sentences><tokens>8198</tokens><words>8243</words><fused>43</fused></test>
   </size>
-  <lemmas unique="1356" /><!-- ,, ., ó, tí, sì, ní, àwọn, pé, fún, ni, rẹ̀, ṣe, ti, sí, kí -->
+  <lemmas unique="1355" /><!-- ,, ., ó, tí, sì, ní, àwọn, pé, fún, ni, rẹ̀, ṣe, ti, sí, kí -->
   <forms unique="1361" /><!-- ,, ., ó, tí, sì, ní, àwọn, pé, fún, ni, rẹ̀, ti, ṣe, sí, kí -->
   <fusions unique="23" /><!-- orúkọ, lórúkọ, sílẹ̀, lọ́wọ́, ìṣọmọlórúkọ, lára, pànìyàn, sílé, fọwọ́, gbàágbọ́, láradá, lógo, lókúta, lóró, lẹ́nu -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -31,7 +31,7 @@
     <tag name="SCONJ">348</tag><!-- pé, bí, nítorí, bá, kí, tilẹ̀, tó, tí, baà, ìbáṣe -->
     <tag name="SYM">1</tag><!-- + -->
     <tag name="VERB">1220</tag><!-- ṣe, wí, fi, lọ, wà, wá, rí, ní, dá, gbọ́ -->
-    <tag name="X">9</tag><!-- ha, a, à, è, ẹ̀ -->
+    <tag name="X">9</tag><!-- _, ha -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="17">
@@ -51,7 +51,7 @@
     <feat name="PronType" value="Int" upos="PRON">9</feat><!-- kí, Ta, kín, méje, èwo, èéṣe -->
     <feat name="PronType" value="Prs" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">1008</feat><!-- ó, rẹ̀, wọn, a, ẹ, wọ́n, yín, ìwọ, mi, èmi -->
     <feat name="PronType" value="Rel" upos="PRON">237</feat><!-- tí, ti, ohunkóhun, bi -->
-    <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB,X">32</feat><!-- ní, rẹ, si, sí, ti, tí, Bétanì, ayọ, ba, bi -->
+    <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB">36</feat><!-- má, ní, rẹ, si, sí, ti, tí, Bétanì, ayọ, ba -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="34">
