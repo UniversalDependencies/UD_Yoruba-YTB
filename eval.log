@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Yoruba-YTB:
-commit 529e117c578f580581a2503a25de69c8cf6159e1
+commit 71e93062d2ae3f84f54a04cea661c43b6e9bdc02
+Merge: d092c9b 528532b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat May 14 15:37:43 2022 +0200
 Size: counted 8243 of 8243 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.21872871066218.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,7 +15,7 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 1569 out of 8243 total words have one or more features.
+Features: 1573 out of 8243 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
@@ -24,30 +24,19 @@ Udapi:
 Udapi: found 1533 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 8243 words.
 Genres: found 2 out of 17 known.
-validate.py --lang yo --max-err=10 UD_Yoruba-YTB/yo_ytb-ud-test.conllu
-[Line 3023 Sent JOHN_11.44 Node 42]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
-[Line 3024 Sent JOHN_11.44 Node 43]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 3422 Sent MARK_5.12 Node 20]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 3422 Sent MARK_5.12 Node 20]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 3992 Sent MARK_5.28 Node 14]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
-[Line 3993 Sent MARK_5.28 Node 15]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 4204 Sent MARK_5.34 Node 19]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
-[Line 4205 Sent MARK_5.34 Node 20]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
-[Line 4296 Sent MARK_5.36 Node 19]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
-...suppressing further errors regarding Morpho
-[Line 6472 Sent wiki0001 Node 18]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [14, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 6595 Sent wiki0004 Node 28]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [25, 26]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 6696 Sent wiki0007 Node 32]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [28, 30]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 6707 Sent wiki0007 Node 43]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [40, 41]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 6722 Sent wiki0007 Node 58]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [55, 56]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 6792 Sent wiki0009 Node 23]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [20, 21]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 6851 Sent wiki0011 Node 12]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [8, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 6946 Sent wiki0013 Node 57]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [54, 55]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 7034 Sent wiki0015 Node 25]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [23, 24]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang yo --max-err=10 UD_Yoruba-YTB/yo_ytb-ud-test.conllu
+[Line 6472 Sent wiki0001 Node 18]: [L3 Syntax too-many-subjects] Multiple subjects [14, 15] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6595 Sent wiki0004 Node 28]: [L3 Syntax too-many-subjects] Multiple subjects [25, 26] not subtyped as ':outer'.
+[Line 6696 Sent wiki0007 Node 32]: [L3 Syntax too-many-subjects] Multiple subjects [28, 30] not subtyped as ':outer'.
+[Line 6707 Sent wiki0007 Node 43]: [L3 Syntax too-many-subjects] Multiple subjects [40, 41] not subtyped as ':outer'.
+[Line 6722 Sent wiki0007 Node 58]: [L3 Syntax too-many-subjects] Multiple subjects [55, 56] not subtyped as ':outer'.
+[Line 6792 Sent wiki0009 Node 23]: [L3 Syntax too-many-subjects] Multiple subjects [20, 21] not subtyped as ':outer'.
+[Line 6851 Sent wiki0011 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [8, 11] not subtyped as ':outer'.
+[Line 6946 Sent wiki0013 Node 57]: [L3 Syntax too-many-subjects] Multiple subjects [54, 55] not subtyped as ':outer'.
+[Line 7034 Sent wiki0015 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [23, 24] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-Morpho errors: 12
 Syntax errors: 42
-*** FAILED *** with 54 errors
+*** FAILED *** with 42 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.3) = 0.0230769230769231
