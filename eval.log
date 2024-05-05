@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Yoruba-YTB:
-commit de49ae02b94a840ce057941f4fcf651e019c73f3
+commit 8e37cdd5dee2deff8dbb4cdd79fca75e31ecbb04
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 12:34:34 2023 +0200
+Date:   Mon Nov 6 13:14:44 2023 +0100
 Size: counted 8243 of 8243 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.21872871066218.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -34,6 +34,7 @@ Genres: found 2 out of 17 known.
 [Line 6851 Sent wiki0011 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [8, 11] not subtyped as ':outer'.
 [Line 6946 Sent wiki0013 Node 57]: [L3 Syntax too-many-subjects] Multiple subjects [54, 55] not subtyped as ':outer'.
 [Line 7034 Sent wiki0015 Node 25]: [L3 Syntax too-many-subjects] Multiple subjects [23, 24] not subtyped as ':outer'.
+[Line 7052 Sent wiki0016 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [8, 9] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 42
 *** FAILED *** with 42 errors
