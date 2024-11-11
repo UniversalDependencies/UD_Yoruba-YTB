@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Yoruba-YTB:
-commit 8e37cdd5dee2deff8dbb4cdd79fca75e31ecbb04
+commit 4eba7bdee0d34f9be1f70dbb91e0ef719bf009c5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 13:14:44 2023 +0100
+Date:   Sun May 5 13:40:52 2024 +0200
 Size: counted 8243 of 8243 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.21872871066218.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,9 @@ Udapi: found 1533 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 8243 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang yo --max-err=10 UD_Yoruba-YTB/yo_ytb-ud-test.conllu
+[Line 3423 Sent MARK_5.12 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:wọnni:det --> 21:wọ:xcomp)
+[Line 3649 Sent MARK_5.18 Node 14]: [L3 Warning leaf-det] 'det' not expected to have children (14:náà:det --> 15:tí:nsubj)
+[Line 6139 Sent MATT_5.47 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:àwọn:det --> 8:kìkì:amod)
 [Line 6472 Sent wiki0001 Node 18]: [L3 Syntax too-many-subjects] Multiple subjects [14, 15] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 6595 Sent wiki0004 Node 28]: [L3 Syntax too-many-subjects] Multiple subjects [25, 26] not subtyped as ':outer'.
 [Line 6696 Sent wiki0007 Node 32]: [L3 Syntax too-many-subjects] Multiple subjects [28, 30] not subtyped as ':outer'.
@@ -37,6 +40,7 @@ Genres: found 2 out of 17 known.
 [Line 7052 Sent wiki0016 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [8, 9] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 42
+Warnings: 3
 *** FAILED *** with 42 errors
 Exit code: 1
 Validity: 0.01
