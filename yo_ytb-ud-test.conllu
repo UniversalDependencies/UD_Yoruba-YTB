@@ -3420,7 +3420,7 @@
 18	awa	awa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=we|Ref=MARK_5.12
 19	le	lè	AUX	_	Typo=Yes	21	aux	_	CorrectForm=leè|Gloss=can|Ref=MARK_5.12
 20	è	_	X	_	_	19	goeswith	_	Gloss=|Ref=MARK_5.12
-21	wọ	wọ	VERB	_	_	16	xcomp	_	Gloss=enter|Ref=MARK_5.12
+21	wọ	wọ	VERB	_	_	12	xcomp	_	Gloss=enter|Ref=MARK_5.12
 22	inú	inú	ADP	_	_	23	case	_	Gloss=into|Ref=MARK_5.12
 23	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	Gloss=them|Ref=MARK_5.12
 24	lọ	lọ	ADV	_	_	21	compound:svc	_	Gloss=go|Ref=MARK_5.12|SpaceAfter=No
@@ -3646,11 +3646,11 @@
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=MARK_5.18
 13	ọkùnrin	ọkùnrin	NOUN	_	_	22	nsubj	_	Gloss=man|Ref=MARK_5.18
 14	náà	náà	DET	_	_	13	det	_	Gloss=the|Ref=MARK_5.18
-15	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that|Ref=MARK_5.18
-16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	nmod	_	Gloss=he|Ref=MARK_5.18
+15	tí	tí	PRON	_	PronType=Rel	18	nsubj	_	Gloss=that|Ref=MARK_5.18
+16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nmod	_	Gloss=he|Ref=MARK_5.18
 17	ti	ti	AUX	_	_	18	aux	_	Gloss=have|Ref=MARK_5.18
-18	ní	ní	VERB	_	_	19	acl	_	Gloss=had|Ref=MARK_5.18
-19	ẹ̀mí	ẹ̀mí	NOUN	_	_	22	obl	_	Gloss=spirit|Ref=MARK_5.18
+18	ní	ní	VERB	_	_	13	acl	_	Gloss=had|Ref=MARK_5.18
+19	ẹ̀mí	ẹ̀mí	NOUN	_	_	18	obj	_	Gloss=spirit|Ref=MARK_5.18
 20	àìmọ́	àìmọ́	ADJ	_	_	19	amod	_	Gloss=unclean|Ref=MARK_5.18
 21	tẹ̀lẹ̀	tẹ́lẹ̀	ADV	_	Typo=Yes	22	advmod	_	Gloss=before|Ref=MARK_5.18
 22	bẹ̀	bẹ̀	VERB	_	_	5	parataxis	_	Gloss=beg|Ref=MARK_5.18
@@ -6136,7 +6136,7 @@
 5	sì	sì	CCONJ	_	_	10	cc	_	Gloss=and|Ref=MATT_5.47
 6	jẹ́	jẹ́	AUX	_	_	10	aux	_	Gloss=be|Ref=MATT_5.47
 7	pé	pé	SCONJ	_	_	10	mark	_	Gloss=that|Ref=MATT_5.47
-8	kìkì	kìkì	ADJ	_	_	9	amod	_	Gloss=only|Ref=MATT_5.47
+8	kìkì	kìkì	ADJ	_	_	10	amod	_	Gloss=only|Ref=MATT_5.47
 9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Gloss=the|Ref=MATT_5.47
 10	arákùnrin	arákùnrin	NOUN	_	_	0	root	_	Gloss=brother|Ref=MATT_5.47
 11	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	10	nmod	_	Gloss=your|Ref=MATT_5.47
