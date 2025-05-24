@@ -6859,13 +6859,13 @@
 18	ní	ní	ADP	_	_	19	case	_	_
 19	ọdún	ọdún	NOUN	_	_	17	obl	_	_
 20	1520	1520	NUM	_	NumType=Card	19	nmod	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	25	punct	_	_
-22	nígbà	nígbà	ADV	_	_	25	advmod	_	_
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	nígbà	nígbà	ADV	_	_	24	advmod	_	_
 23	tí	tí	PRON	_	PronType=Rel	22	fixed	_	_
 24	Olorì	Olori	PROPN	_	_	17	conj	_	_
 25	Idia	Idia	PROPN	_	_	24	flat	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
-27	ìyá	ìyá	NOUN	_	_	25	conj	_	_
+27	ìyá	ìyá	NOUN	_	_	24	conj	_	_
 28	ọba	ọba	NOUN	_	_	33	nsubj	_	_
 29	Oba	Oba	PROPN	_	_	28	nmod	_	_
 30	Esigie	Esigie	PROPN	_	_	29	flat	_	SpaceAfter=No
@@ -7033,7 +7033,7 @@
 21	òní	òní	VERB	_	_	20	compound:svc	_	_
 22	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	25	advmod	_	_
 23	bi	bi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
-24	ara	ara	PRON	_	PronType=Emp	25	nsubj	_	_
+24	ara	ara	PRON	_	PronType=Emp	23	nmod	_	_
 25	imùra	imùra	VERB	_	_	20	conj	_	_
 26	ìbílẹ̀	ìbílẹ̀	NOUN	_	_	25	obj	_	_
 27	ní	ní	ADP	_	_	28	case	_	_
@@ -7810,7 +7810,7 @@
 # text_en = Childhood: Genevieve Nnaji grew up in Lagos.
 1	Ìgbà	ìgbà	NOUN	_	_	0	root	_	_
 2	èwe	èwe	NOUN	_	_	1	nmod	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	7	punct	_	_
+3	:	:	PUNCT	_	_	10	punct	_	_
 4	Ìlú	ìlú	NOUN	_	_	5	nmod	_	_
 5	Èkó	Èkó	PROPN	_	_	10	obl	_	_
 6	ni	ni	PART	_	_	7	case	_	_
