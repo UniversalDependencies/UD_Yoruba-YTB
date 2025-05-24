@@ -6662,6 +6662,7 @@
 # newpar
 # sent_id = wiki0007
 # text = Bí ó tilẹ̀ jẹ́ wípé ó ní ìrísí èyí tí ó jọ Ìbojú Ìbílẹ̀ Aláwọ̀dúdú, ībòjú kékeré òhún tí kò gígùn rẹ̀ kò ju ìwòn 24cm lọ kìí ṣé fún wíwọ̀ sójú, Ọba lè wọ̀ọ́ sọ́rùn (tí ó sì maa bá mu) tàbí bi "ìlẹ̀kẹ̀ ìbàdí" (èyí tí ó sì maa bá ayẹyẹ tí ó fẹ́ sẹe mu).
+# text_en = Although it has a similar appearance to the Traditional Black Mask, the small mask, which is no more than 24cm long, is not intended for covering the face. The King can wear it around his neck (which is usually appropriate) or as a "waistband" (which is usually appropriate for the occasion).
 1	Bí	Bí	SCONJ	_	_	5	mark	_	_
 2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	tilẹ̀	tilẹ̀	SCONJ	_	_	5	mark	_	_
@@ -6678,23 +6679,23 @@
 14	Ìbílẹ̀	Ìbílẹ̀	ADP	_	_	15	case	_	_
 15	Aláwọ̀dúdú	Aláwọ̀dúdú	NOUN	_	_	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
-17	ībòjú	ībòjú	ADJ	_	_	5	conj	_	_
-18	kékeré	kékeré	ADV	_	_	19	case	_	_
+17	ībòjú	ībòjú	NOUN	_	_	5	conj	_	_
+18	kékeré	kékeré	ADJ	_	_	17	amod	_	_
 19	òhún	òhún	NOUN	_	_	17	nmod	_	_
 20	tí	tí	PRON	_	PronType=Rel	22	nsubj	_	_
 21	kò	kò	PART	_	_	22	advmod	_	_
-22	gígùn	gígùn	ADJ	_	_	19	acl	_	_
+22	gígùn	gígùn	ADJ	_	_	19	acl	_	Gloss=long
 23	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
 24	kò	kò	PART	_	_	25	advmod	_	_
-25	ju	ju	VERB	_	_	22	conj	_	_
-26	ìwòn	ìwòn	NOUN	_	_	25	obj	_	_
+25	ju	ju	VERB	_	_	22	conj	_	Gloss=throw
+26	ìwòn	ìwòn	NOUN	_	_	25	obj	_	Gloss=size
 27	24cm	24cm	NOUN	_	_	26	nmod	_	_
-28	lọ	lọ	VERB	_	_	32	nsubj	_	_
-29	kìí	kìí	PART	_	_	32	mark	_	_
-30	ṣé	ṣé	ADJ	_	_	32	nsubj	_	_
-31	fún	fún	ADP	_	_	32	case	_	_
-32	wíwọ̀	wíwọ̀	VERB	_	_	25	compound:svc	_	_
-33	sójú	sójú	ADV	_	_	37	advmod	_	SpaceAfter=No
+28	lọ	lọ	VERB	_	_	27	acl	_	Gloss=go
+29	kìí	kìí	PART	_	_	28	mark	_	_
+30	ṣé	ṣé	VERB	_	_	28	compound:svc	_	Gloss=do
+31	fún	fún	ADP	_	_	32	case	_	Gloss=for
+32	wíwọ̀	wíwọ̀	VERB	_	_	30	compound:svc	_	_
+33	sójú	sójú	ADV	_	_	37	advmod	_	Gloss=represent|SpaceAfter=No
 34	,	,	PUNCT	_	_	37	punct	_	_
 35	Ọba	Ọba	NOUN	_	_	37	nsubj	_	_
 36	lè	lè	AUX	_	_	37	aux	_	_
@@ -6837,21 +6838,22 @@
 # newpar
 # sent_id = wiki0011
 # text = Ó dàbí wípé ní bí ìbẹ̀rẹ̀ ọrúndún mẹ́rìndínlógún sẹ́yìn ni wọ́n gbẹ́ àwọn Ìbòjú méjèèjì, bóya ní ọdún 1520, nígbà tí Olorì Idia, ìyá ọba Oba Esigie, jẹ́ aládájọ́ ní ilé ẹjọ́ ti Benin.
-1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+# text_en = It seems that the two Masks were carved around the beginning of the sixteenth century, perhaps in 1520, when Olori Idia, the mother of Oba Esigie, was a judge in the court of Benin.
+1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	dàbí	dàbí	VERB	_	_	0	root	_	_
 3	wípé	wípé	VERB	_	_	2	compound:svc	_	_
 4	ní	ní	ADP	_	_	12	case	_	_
 5	bí	bí	SCONJ	_	_	12	mark	_	_
-6	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	8	nsubj	_	_
+6	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	12	obl	_	Gloss=beginning
 7	ọrúndún	ọrúndún	NOUN	_	_	6	nmod	_	_
-8	mẹ́rìndínlógún	mẹ́rìndínlógún	ADJ	_	_	12	nsubj	_	_
+8	mẹ́rìndínlógún	mẹ́rìndínlógún	ADJ	_	_	7	amod	_	Gloss=sixteen
 9	sẹ́yìn	sẹ́yìn	ADV	_	_	12	advmod	_	_
 10	ni	ni	PART	_	_	11	case	_	_
 11	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
 12	gbẹ́	gbẹ́	VERB	_	_	3	obl	_	_
 13	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	14	det	_	_
-14	Ìbòjú	Ìbòjú	NOUN	_	_	17	nsubj	_	_
-15	méjèèjì	méjèèjì	PROPN	_	_	14	nmod	_	SpaceAfter=No
+14	Ìbòjú	ìbòjú	NOUN	_	_	17	nsubj	_	_
+15	méjèèjì	méjèèjì	ADJ	_	_	14	amod	_	Gloss=both|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	bóya	bóya	VERB	_	_	12	ccomp	_	_
 18	ní	ní	ADP	_	_	19	case	_	_
@@ -6860,13 +6862,13 @@
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	nígbà	nígbà	ADV	_	_	25	advmod	_	_
 23	tí	tí	PRON	_	PronType=Rel	22	fixed	_	_
-24	Olorì	Olori	PART	_	_	25	case	_	_
-25	Idia	Idia	ADJ	_	_	17	conj	_	SpaceAfter=No
+24	Olorì	Olori	PROPN	_	_	17	conj	_	_
+25	Idia	Idia	PROPN	_	_	24	flat	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
 27	ìyá	ìyá	NOUN	_	_	25	conj	_	_
 28	ọba	ọba	NOUN	_	_	33	nsubj	_	_
-29	Oba	Oba	ADP	_	_	30	case	_	_
-30	Esigie	Esigie	NOUN	_	_	28	nmod	_	SpaceAfter=No
+29	Oba	Oba	PROPN	_	_	28	nmod	_	_
+30	Esigie	Esigie	PROPN	_	_	29	flat	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	33	punct	_	_
 32	jẹ́	jẹ́	AUX	_	_	33	cop	_	_
 33	aládájọ́	aládájọ́	NOUN	_	_	27	nmod	_	_
@@ -7007,39 +7009,41 @@
 # newpar
 # sent_id = wiki0015
 # text = Ìlẹ̀kẹ̀ pupa yìí àti aṣọ pupa, ti fìgbàkan wà fún àwọn olókìkí, tí wọ́n sì ti ri lóde òní gẹ́gẹ́ bi ara imùra ìbílẹ̀ ní Edo.
-1	Ìlẹ̀kẹ̀	Ìlẹ̀kẹ̀	ADP	_	_	2	case	_	_
-2	pupa	pupa	NOUN	_	_	0	root	_	_
-3	yìí	yìí	DET	_	_	5	det	_	_
-4	àti	àti	CCONJ	_	_	5	cc	_	_
-5	aṣọ	aṣọ	NOUN	_	_	2	conj	_	_
-6	pupa	pupa	ADV	_	_	5	advmod	_	SpaceAfter=No
+# text_en = This red necklace and red robe, once reserved for the elite, are now seen as part of traditional Edo attire.
+1	Ìlẹ̀kẹ̀	ìlẹ̀kẹ̀	NOUN	_	_	20	nsubj	_	Gloss=coral
+2	pupa	pupa	ADJ	_	_	1	amod	_	Gloss=red
+3	yìí	yìí	DET	_	_	1	det	_	Gloss=this
+4	àti	àti	CCONJ	_	_	5	cc	_	Gloss=and
+5	aṣọ	aṣọ	NOUN	_	_	1	conj	_	Gloss=cloth
+6	pupa	pupa	ADJ	_	_	5	amod	_	Gloss=red|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	ti	ti	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-9	fìgbàkan	fìgbàkan	VERB	_	_	5	conj	_	_
+9	fìgbàkan	fìgbàkan	VERB	_	_	1	acl	_	_
 10	wà	wà	VERB	_	_	9	ccomp	_	_
 11	fún	fún	ADP	_	_	13	case	_	_
 12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	_
 13	olókìkí	olókìkí	NOUN	_	_	10	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	tí	tí	PRON	_	PronType=Rel	16	det	_	_
-16	wọ́n	wọ́n	PRON	_	_	20	nsubj	_	_
+16	wọ́n	wọ́n	PRON	_	_	20	expl	_	_
 17	sì	sì	CCONJ	_	_	20	cc	_	_
 18	ti	ti	AUX	_	_	20	aux	_	_
 19	ri	ri	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	obl	_	_
-20	lóde	lóde	VERB	_	_	10	conj	_	_
+20	lóde	lóde	VERB	_	_	0	root	_	_
 21	òní	òní	VERB	_	_	20	compound:svc	_	_
 22	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	25	advmod	_	_
 23	bi	bi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
 24	ara	ara	PRON	_	PronType=Emp	25	nsubj	_	_
-25	imùra	imùra	VERB	_	_	10	conj	_	_
+25	imùra	imùra	VERB	_	_	20	conj	_	_
 26	ìbílẹ̀	ìbílẹ̀	NOUN	_	_	25	obj	_	_
 27	ní	ní	ADP	_	_	28	case	_	_
 28	Edo	Edo	NOUN	_	_	25	obl	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	10	punct	_	_
+29	.	.	PUNCT	_	_	20	punct	_	_
 
 # newpar
 # sent_id = wiki0016
 # text = Ní iwájú orí ìbòjú méjì yìí, ìlà mẹ́rin wà níbẹ̀, tí ó sì dúro ṣangílítí sí òkè ojú kànkan, irin méjì sì ṣe àpèjúwe ilà yìí.
+# text_en = On the front of these two masks, there are four lines, which run diagonally across each eye, and two iron bars represent these lines.
 1	Ní	ní	ADP	_	_	3	case	_	_
 2	iwájú	iwájú	ADP	_	_	3	case	_	_
 3	orí	orí	NOUN	_	_	0	root	_	_
@@ -7048,7 +7052,7 @@
 6	yìí	yìí	DET	_	_	5	det	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	ìlà	ìlà	NOUN	_	_	10	nsubj	_	_
-9	mẹ́rin	mẹ́rin	NUM	_	NumType=Card	10	nsubj	_	_
+9	mẹ́rin	mẹ́rin	NUM	_	NumType=Card	8	nummod	_	Gloss=four
 10	wà	wà	VERB	_	_	6	conj	_	_
 11	níbẹ̀	níbẹ̀	ADV	_	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	_
@@ -7074,9 +7078,10 @@
 # newpar
 # sent_id = wiki0017
 # text = Irin ni wọ́n fi ṣe ibi ojú rẹ̀.
-1	Irin	Irin	NOUN	_	_	4	nsubj	_	_
+# text_en = Their eyes were made of metal.
+1	Irin	irin	NOUN	_	_	4	nsubj	_	_
 2	ni	ni	PART	_	_	1	case	_	_
-3	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+3	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
 4	fi	fi	VERB	_	_	0	root	_	_
 5	ṣe	ṣe	VERB	_	_	4	compound:svc	_	_
 6	ibi	ibi	NOUN	_	_	5	obj	_	_
@@ -7159,6 +7164,7 @@
 # newpar
 # sent_id = wiki0021
 # text = Ihò tí ó wà ní ibi oun ẹ̀ṣọ́ rẹ̀ àti ibi ọrùn rẹ̀ jẹ́ àpẹẹrẹ ìlẹ̀kẹ̀ ọrùn tí àwọn ọkùnrin Àgùdà maa ń fi ṣẹ̀ṣọ́, tí ó sì jẹ́ wípé àwòrán mọ́kànlá bẹ́ẹ̀ wà ní ilé ọnà ìbòjú tí Bìrìtìkó àti pé mẹ́tàlá wà ní ilé ọnà Met tí ó ṣe àfihàn àwọn ọkùnrin Àgùdá tí wọ́n múra bí àwọn ènìyàn dúdú.
+# text_en = The holes in his armor and his neck are examples of the necklaces worn by African men, and there are eleven such paintings in the British Museum and thirteen in the Met that depict African men dressed as black people.
 1	Ihò	ihò	NOUN	_	_	15	nsubj	_	_
 2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	_
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
@@ -7191,23 +7197,23 @@
 30	jẹ́	jẹ́	AUX	_	_	31	aux	_	_
 31	wípé	wípé	VERB	_	_	24	ccomp	_	_
 32	àwòrán	àwòrán	NOUN	_	_	35	nsubj	_	_
-33	mọ́kànlá	mọ́kànlá	ADJ	_	_	32	amod	_	_
+33	mọ́kànlá	mọ́kànlá	NUM	_	NumType=Card	32	nummod	_	Gloss=eleven
 34	bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	35	advmod	_	_
 35	wà	wà	VERB	_	_	31	conj	_	_
 36	ní	ní	ADP	_	_	37	case	_	_
-37	ilé	ilé	NOUN	_	_	35	obl	_	_
+37	ilé	ilé	NOUN	_	_	35	obl	_	Gloss=house
 38	ọnà	ọnà	NOUN	_	_	37	nmod	_	_
-39	ìbòjú	ìbòjú	ADJ	_	_	35	obj	_	_
-40	tí	tí	PRON	_	PronType=Rel	45	nsubj	_	_
-41	Bìrìtìkó	Bìrìtìkó	ADJ	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	45	advmod	_	_
+39	ìbòjú	ìbòjú	ADJ	_	_	37	amod	_	_
+40	tí	tí	PRON	_	PronType=Rel	41	nsubj	_	_
+41	Bìrìtìkó	Bìrìtìkó	ADJ	_	_	37	acl	_	_
 42	àti	àti	CCONJ	_	_	45	cc	_	_
 43	pé	pé	SCONJ	_	_	45	mark	_	_
-44	mẹ́tàlá	mẹ́tàlá	ADJ	_	_	45	nsubj	_	_
+44	mẹ́tàlá	mẹ́tàlá	NUM	_	NumType=Card	45	nsubj	_	Gloss=thirteen
 45	wà	wà	VERB	_	_	39	acl	_	_
 46	ní	ní	ADP	_	_	48	case	_	_
 47	ilé	ilé	ADP	_	_	48	case	_	_
 48	ọnà	ọnà	NOUN	_	_	45	obl	_	_
-49	Met	Met	NOUN	_	_	48	nmod	_	_
+49	Met	Met	PROPN	_	_	48	nmod	_	_
 50	tí	tí	PRON	_	PronType=Rel	52	nsubj	_	_
 51	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	52	expl	_	_
 52	ṣe	ṣe	VERB	_	_	49	acl	_	_
@@ -7375,6 +7381,7 @@
 # newpar
 # sent_id = wiki0027
 # text = Orúkọ dàbí àmì ìdánimọ̀ tí a fi ń dá ẹnìkọ̀ọ̀kan mọ̀ orúkọ ló jẹ́ kí á dá Táyé mọ̀ yàtọ̀ sí Kẹ́hìndé, káàkiri àgbáyé ní a sì tí ń lo orúkọ, ní ọ̀pọ̀ ìgbà orúkọ sì máa ń fi bí ènìyàn ṣe jẹ́ láwùjọ hàn àti wí pe orúkọ ẹni le buyì fún ènìyàn láwùjọ.
+# text_en = A name is like a sign of identity that identifies an individual. A name is what distinguishes a person from a stranger. Names are used all over the world, and in many cases, names reflect a person's social status and can be a source of pride for a person in society.
 1-2	Orúkọ	_	_	_	_	_	_	_	_
 1	O	o	DET	_	_	2	det	_	_
 2	órúkọ	órúkọ	NOUN	_	_	3	nsubj	_	_
@@ -7394,7 +7401,7 @@
 15	ló	ló	ADV	_	_	19	advmod	_	_
 16	jẹ́	jẹ́	AUX	_	_	19	aux	_	_
 17	kí	kí	AUX	_	_	19	aux	_	_
-18	á	á	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+18	á	á	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	expl	_	_
 19	dá	dá	VERB	_	_	8	compound:svc	_	_
 20	Táyé	Táyé	NOUN	_	_	19	obj	_	_
 21	mọ̀	mọ̀	ADJ	_	_	20	amod	_	_
@@ -7407,7 +7414,7 @@
 28	ní	ní	ADP	_	_	29	case	_	_
 29	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	33	nsubj	_	_
 30	sì	sì	CCONJ	_	_	33	cc	_	_
-31	tí	tí	PRON	_	PronType=Rel	33	nsubj	_	_
+31	tí	tí	PRON	_	PronType=Rel	33	expl	_	_
 32	ń	ń	AUX	_	_	33	aux	_	_
 33	lo	lo	VERB	_	_	27	conj	_	_
 34-35	orúkọ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -7447,12 +7454,13 @@
 # newpar
 # sent_id = wiki0028
 # text = Ìṣọmọlórúkọ láàárín àwọn Yorùbá dàbí ìgbà tí a ń ṣe ọdún ní torí pé tọmọ, taya, tẹbí, tará, tìyekan àti àwọn alábáse gbogbo ní yóò pésẹ̀ sí ibẹ̀.
+# text_en = The naming ceremony among the Yoruba is like a celebration of a new year because all relatives, friends, relatives, relatives, and relatives will be present.
 1-2	Ìṣọmọlórúkọ	_	_	_	_	_	_	_	_
-1	Ìṣọmọlí	Ìṣọmọlí	ADP	_	_	2	case	_	_
+1	Ìṣọmọlí	ìṣọmọlí	ADP	_	_	2	case	_	_
 2	órúkọ	órúkọ	NOUN	_	_	6	nsubj	_	_
 3	láàárín	láàárín	ADP	_	NumType=Card	5	case	_	_
 4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	_
-5	Yorùbá	Yorùbá	PROPN	_	_	6	nsubj	_	_
+5	Yorùbá	Yorùbá	PROPN	_	_	6	obl	_	_
 6	dàbí	dàbí	VERB	_	_	0	root	_	_
 7	ìgbà	ìgbà	NOUN	_	_	6	obj	_	_
 8	tí	tí	PRON	_	PronType=Rel	11	nsubj	_	_
@@ -7486,7 +7494,8 @@
 # newpar
 # sent_id = wiki0029
 # text = Láyé àtijọ́ ọjọ́ keje ní wọ́n máa ń sọ ọmọ obìnrin lórúkọ nígbà tí tọmọ kùnrin sì jẹ́ ọjọ́ kẹsàn-án èyí wà ní ìbámu pẹ̀lú èrò àti ìgbàgbọ́ wọn pé eegun méje ni obìnrin ní nígbà tí tọkùnrin jẹ́ mẹ́sàn-án.
-1	Láyé	Láyé	ADP	_	_	2	case	_	_
+# text_en = In ancient times, girls were named on the seventh day and boys on the ninth day, in accordance with their belief that women had seven bones while men had nine.
+1	Láyé	láyé	ADP	_	_	2	case	_	_
 2	àtijọ́	àtijọ́	NOUN	_	_	4	nsubj	_	_
 3	ọjọ́	ọjọ́	NOUN	_	_	2	nmod	_	_
 4	keje	keje	VERB	_	_	0	root	_	_
@@ -7520,8 +7529,8 @@
 31	ìgbàgbọ́	ìgbàgbọ́	NOUN	_	_	29	conj	_	_
 32	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	34	nsubj	_	_
 33	pé	pé	SCONJ	_	_	34	mark	_	_
-34	eegun	eegun	VERB	_	_	31	acl	_	_
-35	méje	méje	PRON	_	PronType=Int	43	nsubj	_	_
+34	eegun	eegun	NOUN	_	_	31	acl	_	_
+35	méje	méje	NUM	_	NumType=Card	34	nummod	_	_
 36	ni	ni	PART	_	_	35	case	_	_
 37	obìnrin	obìnrin	NOUN	_	_	43	nsubj	_	_
 38	ní	ní	ADP	_	_	41	case	_	_
@@ -7602,10 +7611,11 @@
 # newpar
 # sent_id = wiki0032
 # text = Orísìírísìí nǹkan ní wọ́n ń lò níbi ìsọmọlórúkọ bíi Oyin, Epo, Iṣu, Ẹja,
-1	Orísìírísìí	Orísìírísìí	DET	_	_	2	det	_	_
+# text_en = Various things are used in naming ceremonies such as Honey, Oil, Isu, Fish,
+1	Orísìírísìí	orísìírísìí	DET	_	_	2	det	_	_
 2	nǹkan	nǹkan	NOUN	_	_	6	nsubj	_	_
 3	ní	ní	ADP	_	_	4	case	_	_
-4	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+4	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	expl	_	_
 5	ń	ń	AUX	_	_	6	aux	_	_
 6	lò	lò	VERB	_	_	0	root	_	_
 7	níbi	níbi	ADV	_	_	8	advmod	_	_
@@ -7752,27 +7762,28 @@
 # newpar
 # sent_id = wiki0037
 # text = Genevieve Nnaji ọjọ́ ìbí May 3, 1979 ní Mbaise, Ipinle Imo, jẹ́ òṣeré filmu ọmọ ilẹ̀ Nàìjíríà.
-1	Genevieve	Genevieve	NOUN	_	_	17	nsubj	_	_
-2	Nnaji	Nnaji	ADP	_	_	3	case	_	_
+# text_en = Genevieve Nnaji, born May 3, 1979 in Mbaise, Imo State, is a Nigerian film actress.
+1	Genevieve	Genevieve	PROPN	_	_	17	nsubj	_	_
+2	Nnaji	Nnaji	PROPN	_	_	1	flat	_	_
 3	ọjọ́	ọjọ́	NOUN	_	_	1	nmod	_	_
 4	ìbí	ìbí	ADP	_	_	5	case	_	_
-5	May	May	NOUN	_	_	1	nmod	_	_
+5	May	May	NOUN	_	_	3	nmod	_	_
 6	3	3	NUM	_	NumType=Card	5	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
-8	1979	1979	NUM	_	NumType=Card	1	conj	_	_
+8	1979	1979	NUM	_	NumType=Card	5	nmod	_	_
 9	ní	ní	ADP	_	_	10	case	_	_
-10	Mbaise	Mbaise	NOUN	_	_	8	nmod	_	SpaceAfter=No
+10	Mbaise	Mbaise	NOUN	_	_	3	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
-12	Ipinle	Ipinle	NOUN	_	_	17	nsubj	_	_
-13	Imo	Imo	DET	_	_	12	det	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	17	punct	_	_
-15	jẹ́	jẹ́	AUX	_	_	17	aux	_	_
-16	òṣeré	òṣeré	ADV	_	_	17	advmod	_	_
-17	filmu	filmu	VERB	_	_	0	root	_	_
-18	ọmọ	ọmọ	NOUN	_	_	17	obj	_	_
+12	Ipinle	ipinle	NOUN	_	_	10	nmod	_	_
+13	Imo	Imo	PROPN	_	_	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	3	punct	_	_
+15	jẹ́	jẹ́	AUX	_	_	16	cop	_	_
+16	òṣeré	òṣeré	NOUN	_	_	0	root	_	_
+17	filmu	filmu	NOUN	_	_	16	nmod	_	_
+18	ọmọ	ọmọ	NOUN	_	_	16	nmod	_	_
 19	ilẹ̀	ilẹ̀	NOUN	_	_	18	nmod	_	_
 20	Nàìjíríà	Nàìjíríà	PROPN	_	_	19	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	17	punct	_	_
+21	.	.	PUNCT	_	_	16	punct	_	_
 
 # newpar
 # sent_id = wiki0038
@@ -7796,17 +7807,18 @@
 # newpar
 # sent_id = wiki0039
 # text = Ìgbà èwe: Ìlú Èkó ni Genevieve Nnaji ti dàgbà.
-1	Ìgbà	ìgbà	NOUN	_	_	7	nsubj	_	_
+# text_en = Childhood: Genevieve Nnaji grew up in Lagos.
+1	Ìgbà	ìgbà	NOUN	_	_	0	root	_	_
 2	èwe	èwe	NOUN	_	_	1	nmod	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	4	punct	_	_
-4	Ìlú	ìlú	ADJ	_	_	7	advcl	_	_
-5	Èkó	Èkó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+3	:	:	PUNCT	_	_	7	punct	_	_
+4	Ìlú	ìlú	NOUN	_	_	5	nmod	_	_
+5	Èkó	Èkó	PROPN	_	_	10	obl	_	_
 6	ni	ni	PART	_	_	7	case	_	_
-7	Genevieve	Genevieve	VERB	_	_	0	root	_	_
-8	Nnaji	Nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	_
+7	Genevieve	Genevieve	PROPN	_	_	10	nsubj	_	_
+8	Nnaji	Nnaji	PROPN	_	_	7	flat	_	_
 9	ti	ti	ADP	_	_	10	case	_	_
-10	dàgbà	dàgbà	NOUN	_	_	8	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	_	_
+10	dàgbà	dàgbà	NOUN	_	_	1	parataxis	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 # newpar
 # sent_id = wiki0040
@@ -8022,6 +8034,7 @@
 # newpar
 # sent_id = wiki0050
 # text = Nnaji ti gba ọ̀pọ̀lọpọ̀ ẹ̀bùn fún iṣẹ́ rẹ̀ ìkan nínú wọn jẹ́ gẹ́gẹ́ bíi òṣèré obìnrin tó dára jùlọ fún 2001 ní City People Awards, ó sì tún gba ẹ̀yẹ gẹ́gẹ́ bíi Òṣèré Obìnrin Tódárajùlọ ní 2005 nínú àwọn Ẹ̀bùn Akadẹ́mì Filmu ilẹ̀ Áfríkà.
+# text_en = Nnaji has won numerous awards for her work, including Best Actress at the 2001 City People Awards, and Best Actress at the 2005 African Film Academy Awards.
 1	Nnaji	Nnaji	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	ti	ti	AUX	_	_	3	aux	_	_
 3	gba	gba	VERB	_	_	0	root	_	_
@@ -8038,8 +8051,8 @@
 14	bíi	bíi	VERB	_	_	3	parataxis	_	_
 15	òṣèré	òṣèré	NOUN	_	_	19	nsubj	_	_
 16	obìnrin	obìnrin	NOUN	_	_	15	nmod	_	_
-17	tó	tó	ADV	_	_	19	advmod	_	_
-18	dára	dára	ADJ	_	_	19	nsubj	_	_
+17	tó	tó	ADV	_	_	18	advmod	_	_
+18	dára	dára	ADJ	_	_	16	amod	_	_
 19	jùlọ	jùlọ	VERB	_	_	14	conj	_	_
 20	fún	fún	ADP	_	_	21	case	_	_
 21	2001	2001	NUM	_	NumType=Card	19	obl	_	_
@@ -8072,9 +8085,10 @@
 # newpar
 # sent_id = wiki0051
 # text = Ní 2004, ó tọwọ́bọ̀wé pẹ̀lú ilé ìṣẹ́ àwo-orin ilẹ̀ Ghana, EKB Records láti gbé àwo-orin àkọ́kọ́ rẹ̀ jáde tó ún jẹ́ One Logologo Line, àdàlú orin R&B, Hip-Hop àti Urban.
-1	Ní	ní	NOUN	_	_	5	nsubj	_	_
-2	2004	2004	NUM	_	NumType=Card	1	nmod	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
+# text_en = In 2004, he signed with Ghanaian record label EKB Records to release his debut album, One Logologo Line, a mix of R&B, Hip-Hop and Urban music.
+1	Ní	ní	ADP	_	_	2	case	_	_
+2	2004	2004	NUM	_	NumType=Card	5	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
 4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 5	tọwọ́bọ̀wé	tọwọ́bọ̀wé	VERB	_	_	0	root	_	_
 6	pẹ̀lú	pẹ̀lú	ADV	_	_	7	advmod	_	_
@@ -8115,7 +8129,8 @@
 
 # newpar
 # sent_id = wiki0052
-# text = Ní 2008 ni ó ṣí ilé ìránsọ rẹ̀ tó ún jẹ́ "St.
+# text = Ní 2008 ni ó ṣí ilé ìránsọ rẹ̀ tó ún jẹ́ "St. Genevieve", èyí tó ún ṣọrẹ ìdámẹ́ẹ̀wá èrè rẹ̀.
+# text_en = In 2008, he opened his own church, "St. Genevieve", to which he donates a tenth of his profits.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	2008	2008	NUM	_	NumType=Card	5	obl	_	_
 3	ni	ni	PART	_	_	2	case	_	_
@@ -8130,20 +8145,17 @@
 12	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
 13	St	St	NOUN	_	_	5	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
-
-# sent_id = wiki0053
-# text = Genevieve", èyí tó ún ṣọrẹ ìdámẹ́ẹ̀wá èrè rẹ̀.
-1	Genevieve	Genevieve	NOUN	_	_	6	nsubj	_	SpaceAfter=No
-2	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	6	punct	_	_
-4	èyí	èyí	PRON	_	PronType=Dem	6	nsubj	_	_
-5	tó	tó	ADV	_	_	6	advmod	_	_
-6	ún	ún	VERB	_	_	0	root	_	_
-7	ṣọrẹ	ṣọrẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	6	obj	_	_
-8	ìdámẹ́ẹ̀wá	ìdámẹ́ẹ̀wá	ADP	_	_	9	case	_	_
-9	èrè	èrè	NOUN	_	_	7	nmod	_	_
-10	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	_
+15	Genevieve	Genevieve	PROPN	_	_	13	flat	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	13	punct	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	èyí	èyí	PRON	_	PronType=Dem	20	nsubj	_	_
+19	tó	tó	ADV	_	_	20	advmod	_	_
+20	ún	ún	VERB	_	_	13	acl	_	_
+21	ṣọrẹ	ṣọrẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	20	obj	_	_
+22	ìdámẹ́ẹ̀wá	ìdámẹ́ẹ̀wá	ADP	_	_	23	case	_	_
+23	èrè	èrè	NOUN	_	_	21	nmod	_	_
+24	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	23	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	5	punct	_	_
 
 # newpar
 # sent_id = wiki0054
@@ -8245,18 +8257,19 @@
 # newpar
 # sent_id = wiki0058
 # text = Wọ́n bí Ẹ̀bùn Olóyèdé ní ilú Kẹ́nta, Òkè-Èjìgbò Abẹ́òkúta.
-1	Wọ́n	Wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
-2	bí	bí	SCONJ	_	_	7	mark	_	_
-3	Ẹ̀bùn	Ẹ̀bùn	NOUN	_	_	7	nsubj	_	_
-4	Olóyèdé	Olóyèdé	NOUN	_	_	3	nmod	_	_
-5	ní	ní	ADP	_	_	6	case	_	_
-6	ilú	ilú	NOUN	_	_	3	nmod	_	_
-7	Kẹ́nta	Kẹ́nta	ADV	_	_	0	root	_	SpaceAfter=No
+# text_en = Ebun Oloyede was born in Kenta, Upper Ejigbo, Abeokuta.
+1	Wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+2	bí	bí	SCONJ	_	_	3	case	_	_
+3	Ẹ̀bùn	Ẹ̀bùn	PROPN	_	_	7	obl	_	_
+4	Olóyèdé	Olóyèdé	PROPN	_	_	3	flat	_	_
+5	ní	ní	ADP	_	_	7	case	_	_
+6	ilú	ilú	NOUN	_	_	7	nmod	_	_
+7	Kẹ́nta	Kẹ́nta	PROPN	_	_	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	Òkè	òkè	NOUN	_	_	7	conj	_	SpaceAfter=No
 10	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	Èjìgbò	Èjìgbò	NOUN	_	_	9	compound	_	_
-12	Abẹ́òkúta	Abẹ́òkúta	NOUN	_	_	9	nmod	_	SpaceAfter=No
+11	Èjìgbò	Èjìgbò	PROPN	_	_	9	compound	_	_
+12	Abẹ́òkúta	Abẹ́òkúta	PROPN	_	_	9	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	_
 
 # newpar
@@ -8332,14 +8345,15 @@
 # newpar
 # sent_id = wiki0061
 # text = Iṣẹ́ rè gẹ́gẹ́ bí òṣèré: Ọláìyá dara pọ̀ mọ́ ẹgbẹ́ òṣèré Musibau Shodimú ní àsìkò ọdún 1970s tí ó wà ní Abẹ́òkúta nígbà náà.
+# text_en = Her career as an actress: Olayya joined the Musibau Shodimú acting group in the 1970s, which was then based in Abeokuta.
 1	Iṣẹ́	iṣẹ́	NOUN	_	_	2	nsubj	_	_
 2	rè	rè	VERB	_	_	0	root	_	_
-3	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	8	advmod	_	_
-4	bí	bí	SCONJ	_	_	8	mark	_	_
-5	òṣèré	òṣèré	NOUN	_	_	8	nsubj	_	SpaceAfter=No
+3	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	2	advmod	_	_
+4	bí	bí	SCONJ	_	_	5	case	_	_
+5	òṣèré	òṣèré	NOUN	_	_	2	obl	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	8	punct	_	_
 7	Ọláìyá	Ọláìyá	PROPN	_	_	8	nsubj	_	_
-8	dara	dara	VERB	_	_	2	conj	_	_
+8	dara	dara	VERB	_	_	2	parataxis	_	_
 9	pọ̀	pọ̀	VERB	_	_	8	compound:svc	_	_
 10	mọ́	mọ́	NOUN	_	_	9	obj	_	_
 11	ẹgbẹ́	ẹgbẹ́	ADP	_	_	12	case	_	_
@@ -8401,6 +8415,7 @@
 # newpar
 # sent_id = wiki0064
 # text = Ẹ le ṣàtúnṣe àkóónú ojúewé náà sùgbọ́n ẹ jọ̀wọ́ ọ mọ́ ṣe ìyípadà ìpinu ọ̀nà ìṣiṣẹ́ kankan láì kọ́kọ́ filọ àwọn oníṣe yìókù.
+# text_en = You can edit the content of the page but please do not make any operational changes without first informing other users.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	le	le	VERB	_	_	0	root	_	_
 3	ṣàtúnṣe	ṣàtúnṣe	NOUN	_	_	2	obj	_	_
@@ -8419,7 +8434,7 @@
 16	ìṣiṣẹ́	ìṣiṣẹ́	NOUN	_	_	15	nmod	_	_
 17	kankan	kankan	NUM	_	NumType=Card	20	nsubj	_	_
 18	láì	láì	CCONJ	_	_	20	cc	_	_
-19	kọ́kọ́	kọ́kọ́	NOUN	_	_	20	nsubj	_	_
+19	kọ́kọ́	kọ́kọ́	NOUN	_	_	20	obl	_	_
 20	filọ	filọ	VERB	_	_	14	parataxis	_	_
 21	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	22	det	_	_
 22	oníṣe	oníṣe	NOUN	_	_	20	obj	_	_
@@ -8535,9 +8550,10 @@
 # newpar
 # sent_id = wiki0069
 # text = Orígun máàrún Wikipédíà ṣe àlàyé ránpẹ́ nípa ìlànà Wikipédíà.
-1	Orígun	Orígun	NOUN	_	_	4	nsubj	_	_
+# text_en = The five pillars of Wikipedia provide a brief explanation of Wikipedia's policies.
+1	Orígun	orígun	NOUN	_	_	4	nsubj	_	_
 2	máàrún	máàrún	NUM	_	NumType=Card	1	nmod	_	_
-3	Wikipédíà	Wikipédíà	PROPN	_	_	4	nsubj	_	_
+3	Wikipédíà	Wikipédíà	PROPN	_	_	1	nmod	_	_
 4	ṣe	ṣe	VERB	_	_	0	root	_	_
 5	àlàyé	àlàyé	NOUN	_	_	4	obj	_	_
 6	ránpẹ́	ránpẹ́	NOUN	_	_	5	nmod	_	_
