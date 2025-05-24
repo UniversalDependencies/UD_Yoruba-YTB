@@ -8601,7 +8601,8 @@
 # newpar
 # sent_id = wiki0072
 # text = Bakan náà ni ìtọ́nisọ́nà ṣe àlàyé ọ̀nàn tí a yàn lááyò lati tẹ̀lé ìlànà yìí.
-1	Bakan	Bakan	NOUN	_	_	5	nsubj	_	_
+# text_en = The guidance also explains the preferred method for following this principle.
+1	Bakan	bakan	NOUN	_	_	5	obl	_	_
 2	náà	náà	ADV	_	_	5	advmod	_	_
 3	ni	ni	PART	_	_	2	case	_	_
 4	ìtọ́nisọ́nà	ìtọ́nisọ́nà	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
@@ -8633,29 +8634,30 @@
 # newpar
 # sent_id = wiki0074
 # text = Àjọ kòsí fún èrè Wikimedia Foundation ni ó n se alàkóso Wikipédíà pẹ̀lú àwọn òfin kan (wo ibí fún àkójọ Ìmúlò).
-1	Àjọ	Àjọ	NOUN	_	_	9	nsubj	_	_
+# text_en = Wikipedia is managed by the non-profit organization Wikimedia Foundation, with certain rules (see here for the Terms of Use).
+1	Àjọ	àjọ	NOUN	_	_	9	nsubj	_	_
 2	kòsí	kòti	ADP	_	Typo=Yes	4	case	_	_
 3	fún	fún	ADP	_	_	4	case	_	_
 4	èrè	èrè	NOUN	_	_	1	nmod	_	_
-5	Wikimedia	Wikimedia	ADJ	_	_	9	advmod	_	_
-6	Foundation	Foundation	ADV	_	_	5	advmod	_	_
+5	Wikimedia	Wikimedia	PROPN	_	_	1	nmod	_	_
+6	Foundation	Foundation	PROPN	_	_	5	flat	_	_
 7	ni	ni	PART	_	_	5	case	_	_
-8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
 9	n	n	VERB	_	_	0	root	_	_
 10	se	ṣe	VERB	_	_	9	compound:svc	_	_
 11	alàkóso	alàkóso	NOUN	_	_	10	obj	_	_
-12	Wikipédíà	Wikipédíà	NOUN	_	_	11	nmod	_	_
+12	Wikipédíà	Wikipédíà	PROPN	_	_	11	nmod	_	_
 13	pẹ̀lú	pẹ̀lú	ADV	_	_	15	advmod	_	_
 14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	_
 15	òfin	òfin	NOUN	_	_	11	nmod	_	_
 16	kan	kan	NUM	_	NumType=Card	15	nmod	_	_
 17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-18	wo	wo	VERB	_	_	10	compound:svc	_	_
+18	wo	wo	VERB	_	_	10	parataxis	_	_
 19	ibí	ibí	NOUN	_	_	18	obj	_	_
 20	fún	fún	ADP	_	_	21	case	_	_
 21	àkójọ	àkójọ	NOUN	_	_	19	nmod	_	_
 22	Ìmúlò	Ìmúlò	NOUN	_	_	21	nmod	_	SpaceAfter=No
-23	)	)	PUNCT	_	_	10	punct	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	9	punct	_	_
 
 # newpar
@@ -8838,8 +8840,9 @@
 # newpar
 # sent_id = wiki0086
 # text = Kílódé tí ojúewé ṣe ní àbò?
-1	Kílódé	Kílódé	NOUN	_	_	0	root	_	_
-2	tí	tí	PRON	_	PronType=Rel	4	nsubj	_	_
+# text_en = Why is the website secure?
+1	Kílódé	kílódé	NOUN	_	_	0	root	_	_
+2	tí	tí	PRON	_	PronType=Rel	3	det	_	_
 3	ojúewé	ojúewé	NOUN	_	_	4	nsubj	_	_
 4	ṣe	ṣe	VERB	_	_	1	acl	_	_
 5	ní	ní	ADP	_	_	6	case	_	_
@@ -8849,7 +8852,7 @@
 # newpar
 # sent_id = wiki0087
 # text = Bó tilẹ jẹ́ pé ọ̀pọ̀ àwọn àyọkà ni wọ́n le jẹ́ títúnṣe látọwọ́ olúkúlùkù, àbò díẹ̀ pọndandan ní gbà míi láti dínà ìbàjẹ́ sí àwọn ojúewé tó gbajúmọ̀.
-1	Bó	Bó	SCONJ	_	_	12	mark	_	_
+1	Bó	bó	SCONJ	_	_	12	mark	_	_
 2	tilẹ	tilẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	fixed	_	_
 3	jẹ́	jẹ́	AUX	_	_	1	fixed	_	_
 4	pé	pé	SCONJ	_	_	1	fixed	_	_
@@ -9165,12 +9168,13 @@
 # newpar
 # sent_id = wiki0102
 # text = Kò sì áwọ́n iyipada ni akókò yì ti o ba àwon ìlànà yí mu.
+# text_en = There are no changes at this time that are consistent with these principles.
 1	Kò	kò	NOUN	_	_	3	nsubj	_	_
 2	sì	sì	CCONJ	_	_	3	cc	_	_
 3	áwọ́n	áwọ́n	VERB	_	_	0	root	_	_
 4	iyipada	iyipada	NOUN	_	_	3	obj	_	_
 5	ni	ni	PART	_	_	6	case	_	_
-6	akókò	akókò	NOUN	_	_	11	nsubj	_	_
+6	akókò	akókò	NOUN	_	_	11	obl	_	_
 7	yì	yì	CCONJ	_	_	11	cc	_	_
 8	ti	ti	AUX	_	_	11	aux	_	_
 9	o	o	NOUN	_	_	11	nsubj	_	_
@@ -9268,7 +9272,8 @@
 # newpar
 # sent_id = wiki0106
 # text = Bákanáà ó tún ti ṣe ìfilọ̀ iye àwórán bíi 20,000 láti inú ìkápamọ́ rẹ̀ fún lílò bóbá ṣe yẹ.
-1	Bákanáà	Bákanáà	DET	_	_	5	nsubj	_	_
+# text_en = He has also made available about 20,000 images from his archive for appropriate use.
+1	Bákanáà	bákanáà	DET	_	_	2	det	_	_
 2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	tún	tún	ADV	_	_	5	advmod	_	_
 4	ti	ti	AUX	_	_	5	aux	_	_
