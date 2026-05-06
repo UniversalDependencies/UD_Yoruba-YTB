@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Yoruba-YTB:
-commit d821b79dda129922f99e6fd4ae8bf0943e8e858c
-Merge: dfa68b3 cdb855d
+commit 699644ac0a7f8c3672524623711849222a27a213
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 21:02:59 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'yo_ytb'
 Language code (from CoNLL-U file name) = 'yo'
@@ -25,31 +25,42 @@ Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang yo --max-err=10 UD_Yoruba-YTB/yo_ytb-ud-test.conllu
-[Line 9 Sent GEN_1.1]: [L3 Warning pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 45 Sent GEN_1.2]: [L3 Warning pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 281 Sent GEN_1.11]: [L3 Warning pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 567 Sent GEN_1.21]: [L3 Warning fixed-without-extpos] Fixed expression 'Nítorí náà' does not have the 'ExtPos' feature
-[Line 568 Sent GEN_1.21]: [L3 Warning pron-det-without-prontype] The word 'náà' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 572 Sent GEN_1.21]: [L3 Syntax too-many-objects] Multiple direct objects [16, 20] ('ohun', 'ohun') under the predicate 'ẹ̀dá'.
-[Line 625 Sent GEN_1.22]: [L3 Warning pron-det-without-prontype] The word 'Ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 631 Sent GEN_1.22]: [L3 Warning pron-det-without-prontype] The word 'ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 638 Sent GEN_1.22]: [L3 Warning pron-det-without-prontype] The word 'ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 727 Sent GEN_1.25]: [L3 Warning pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 732 Sent GEN_1.25]: [L3 Warning pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 1619 Sent JOHN_10.32]: [L3 Syntax too-many-objects] Multiple direct objects [9, 15] ('iṣẹ́', 'yín') under the predicate 'fi'.
-[Line 1657 Sent JOHN_10.33]: [L3 Syntax too-many-objects] Multiple direct objects [13, 15] ('ọ́', 'òkúta') under the predicate 'sọ'.
-[Line 3226 Sent MARK_5.5]: [L3 Syntax too-many-objects] Multiple direct objects [22, 24] ('òkúta', 'ara') under the predicate 'fi'.
-[Line 3543 Sent MARK_5.15]: [L3 Syntax too-many-objects] Multiple direct objects [10, 13] ('ọkùnrin', 'ẹni') under the predicate 'rí'.
-[Line 3586 Sent MARK_5.16]: [L3 Syntax too-many-objects] Multiple direct objects [10, 14] ('rẹ̀', 'ohun') under the predicate 'ròyìn'.
-[Line 3833 Sent MARK_5.23]: [L3 Syntax too-many-objects] Multiple direct objects [21, 24] ('ọwọ́', 'e') under the predicate 'fi'.
-[Line 3944 Sent MARK_5.27]: [L3 Syntax too-many-objects] Multiple direct objects [6, 12] ('iṣẹ́', 'ìdí') under the predicate 'gburo'.
-[Line 4069 Sent MARK_5.30]: [L3 Syntax too-many-objects] Multiple direct objects [30, 32] ('ọwọ́', 'aṣọ') under the predicate 'fi'.
-[Line 4110 Sent MARK_5.31]: [L3 Syntax too-many-objects] Multiple direct objects [32, 34] ('ọwọ́', 'ọ́') under the predicate 'fi'.
-...suppressing further errors regarding Syntax
-Syntax errors: 29
-Warnings: 330
-*** FAILED *** with 29 errors
+[Line 9 Sent GEN_1.1]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 45 Sent GEN_1.2]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 281 Sent GEN_1.11]: [L3 WARNING pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 567 Sent GEN_1.21]: [L3 WARNING fixed-without-extpos] Fixed expression 'Nítorí náà' does not have the 'ExtPos' feature
+[Line 568 Sent GEN_1.21]: [L3 WARNING pron-det-without-prontype] The word 'náà' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 572 Sent GEN_1.21]: [L3 SYNTAX too-many-objects] Multiple direct objects [16, 20] ('ohun', 'ohun') under the predicate 'ẹ̀dá'.
+[Line 625 Sent GEN_1.22]: [L3 WARNING pron-det-without-prontype] The word 'Ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 631 Sent GEN_1.22]: [L3 WARNING pron-det-without-prontype] The word 'ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 638 Sent GEN_1.22]: [L3 WARNING pron-det-without-prontype] The word 'ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 727 Sent GEN_1.25]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 732 Sent GEN_1.25]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 756 Sent GEN_1.26]: [L3 WARNING fixed-without-extpos] Fixed expression 'Lẹ́yìn náà' does not have the 'ExtPos' feature
+[Line 797 Sent GEN_1.26]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 826 Sent JOHN_10.1]: [L3 WARNING fixed-without-extpos] Fixed expression 'Ẹni tí' does not have the 'ExtPos' feature
+[Line 859 Sent JOHN_10.2]: [L3 WARNING fixed-without-extpos] Fixed expression 'ẹni tí' does not have the 'ExtPos' feature
+[Line 914 Sent JOHN_10.4]: [L3 WARNING fixed-without-extpos] Fixed expression 'Nígbà tí' does not have the 'ExtPos' feature
+[Line 939 Sent JOHN_10.4]: [L3 WARNING fixed-without-extpos] Fixed expression 'nítorí tí' does not have the 'ExtPos' feature
+[Line 965 Sent JOHN_10.5]: [L3 WARNING fixed-without-extpos] Fixed expression 'nítorí tí' does not have the 'ExtPos' feature
+[Line 1007 Sent JOHN_10.7]: [L3 WARNING fixed-without-extpos] Fixed expression 'Nítorí náà' does not have the 'ExtPos' feature
+[Line 1164 Sent JOHN_10.12]: [L3 WARNING fixed-without-extpos] Fixed expression 'ẹni tí' does not have the 'ExtPos' feature
+[Line 1198 Sent JOHN_10.13]: [L3 WARNING fixed-without-extpos] Fixed expression 'nítorí tí' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 1619 Sent JOHN_10.32]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 15] ('iṣẹ́', 'yín') under the predicate 'fi'.
+[Line 1657 Sent JOHN_10.33]: [L3 SYNTAX too-many-objects] Multiple direct objects [13, 15] ('ọ́', 'òkúta') under the predicate 'sọ'.
+[Line 3093 Sent MARK_5.1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'ilẹ̀') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3226 Sent MARK_5.5]: [L3 SYNTAX too-many-objects] Multiple direct objects [22, 24] ('òkúta', 'ara') under the predicate 'fi'.
+[Line 3543 Sent MARK_5.15]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 13] ('ọkùnrin', 'ẹni') under the predicate 'rí'.
+[Line 3586 Sent MARK_5.16]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 14] ('rẹ̀', 'ohun') under the predicate 'ròyìn'.
+[Line 3833 Sent MARK_5.23]: [L3 SYNTAX too-many-objects] Multiple direct objects [21, 24] ('ọwọ́', 'e') under the predicate 'fi'.
+[Line 3934 Sent MARK_5.26]: [L3 SYNTAX obl-should-be-nmod] The parent (node [32] 'ó') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3944 Sent MARK_5.27]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 12] ('iṣẹ́', 'ìdí') under the predicate 'gburo'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 310
+SYNTAX errors: 47
+*** FAILED *** with 47 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
