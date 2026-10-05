@@ -3090,7 +3090,7 @@
 4	apákejì	apákejì	NOUN	_	_	2	obl	_	Gloss=other-side|Ref=MARK_5.1
 5	adágún	adágún	NOUN	_	_	4	nmod	_	Gloss=pool|Ref=MARK_5.1
 6	ní	ní	ADP	_	_	7	case	_	Gloss=in|Ref=MARK_5.1
-7	ẹba	ẹ̀bá	ADP	_	Typo=Yes	8	obl	_	Gloss=beside|Ref=MARK_5.1
+7	ẹba	ẹ̀bá	ADP	_	Typo=Yes	8	nmod	_	Gloss=beside|Ref=MARK_5.1
 8	ilẹ̀	ilẹ̀	NOUN	_	_	2	nmod	_	Gloss=land|Ref=MARK_5.1
 9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Gloss=the|Ref=MARK_5.1
 10	ará	ará	NOUN	_	_	2	obl	_	Gloss=native|Ref=MARK_5.1
@@ -3889,7 +3889,7 @@
 15	ẹ̀jẹ̀	ẹ̀jẹ̀	NOUN	_	_	14	nmod	_	Gloss=blood|Ref=MARK_5.25
 16	fún	fún	ADP	_	_	17	case	_	Gloss=unto|Ref=MARK_5.25
 17	odidi	odidi	ADJ	_	_	18	amod	_	Gloss=the|Ref=MARK_5.25
-18	ọdún	ọdún	NOUN	_	_	14	obl	_	Gloss=years|Ref=MARK_5.25
+18	ọdún	ọdún	NOUN	_	_	14	nmod	_	Gloss=years|Ref=MARK_5.25
 19	méjìlá	méjìlá	ADJ	_	_	17	amod	_	Gloss=twelve|Ref=MARK_5.25|SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=MARK_5.25
 
@@ -3931,7 +3931,7 @@
 33	ń	ń	AUX	_	_	34	aux	_	Gloss=is|Ref=MARK_5.26
 34	burú	burú	VERB	_	_	30	conj	_	Gloss=wicket|Ref=MARK_5.26
 35	sí	sí	ADP	_	_	36	case	_	Gloss=to|Ref=MARK_5.26
-36	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	32	obl	_	Gloss=him|Ref=MARK_5.26|SpaceAfter=No
+36	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	32	nmod	_	Gloss=him|Ref=MARK_5.26|SpaceAfter=No
 37	.	.	PUNCT	_	_	24	punct	_	Gloss=.|Ref=MARK_5.26
 
 # sent_id = MARK_5.27
@@ -4358,13 +4358,13 @@
 16	Ilé	ilé	NOUN	_	_	17	nsubj	_	Gloss=house|Ref=MARK_5.38
 17	kún	kún	VERB	_	_	14	conj	_	Gloss=full|Ref=MARK_5.38
 18	fún	fún	ADP	_	_	20	case	_	Gloss=of|Ref=MARK_5.38
-19	àwọn	àwọn	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	20	obl	_	Gloss=them|Ref=MARK_5.38
+19	àwọn	àwọn	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	20	nmod	_	Gloss=them|Ref=MARK_5.38
 20	tí	tí	PRON	_	PronType=Rel	22	nmod	_	Gloss=that|Ref=MARK_5.38
 21	ń	ń	AUX	_	_	22	aux	_	Gloss=is|Ref=MARK_5.38
 22	sọkún	sọkún	VERB	_	_	17	ccomp	_	Gloss=weep|Ref=MARK_5.38|SpaceAfter=No
 23	,	,	PUNCT	_	_	28	punct	_	Gloss=,|Ref=MARK_5.38
 24	àti	àti	CCONJ	_	_	28	cc	_	Gloss=and|Ref=MARK_5.38
-25	àwọn	àwọn	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	26	obl	_	Gloss=the|Ref=MARK_5.38
+25	àwọn	àwọn	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	26	nmod	_	Gloss=the|Ref=MARK_5.38
 26	tí	tí	PRON	_	PronType=Rel	28	nsubj	_	Gloss=that|Ref=MARK_5.38
 27	ń	ń	AUX	_	_	28	aux	_	Gloss=that|Ref=MARK_5.38
 28	pohùnréré	pohùnréré	VERB	_	_	22	conj	_	Gloss=wailing|Ref=MARK_5.38
@@ -4558,10 +4558,10 @@
 24	kí	kí	SCONJ	_	_	25	case	_	Gloss=let|Ref=MARK_5.43
 25	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	obl	_	Gloss=they|Ref=MARK_5.43
 26	fún	fún	VERB	_	_	27	ccomp	_	Gloss=give|Ref=MARK_5.43
-27	ọmọbìnrin	ọmọbìnrin	NOUN	_	_	25	obl	_	Gloss=daughter|Ref=MARK_5.43
+27	ọmọbìnrin	ọmọbìnrin	NOUN	_	_	25	nmod	_	Gloss=daughter|Ref=MARK_5.43
 28	náà	náà	DET	_	_	27	nmod	_	Gloss=the|Ref=MARK_5.43
 29	ní	ní	ADP	_	_	30	case	_	Gloss=in|Ref=MARK_5.43
-30	oúnjẹ	oúnjẹ	NOUN	_	_	27	obl	_	Gloss=food|Ref=MARK_5.43|SpaceAfter=No
+30	oúnjẹ	oúnjẹ	NOUN	_	_	27	nmod	_	Gloss=food|Ref=MARK_5.43|SpaceAfter=No
 31	.	.	PUNCT	_	_	25	punct	_	Gloss=.|Ref=MARK_5.43
 
 # source = Bibeli Mimọ, Mátíù, Chapter 5
@@ -4771,7 +4771,7 @@
 18	nítorí	nítorí	SCONJ	_	_	19	case	_	Gloss=for|Ref=MATT_5.10
 19	tiwọn	tiwọn	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	17	obl	_	Gloss=their|Ref=MATT_5.10
 20	ní	ní	ADP	_	_	21	case	_	Gloss=in|Ref=MATT_5.10
-21	ìjọba	ìjọba	NOUN	_	_	19	obl	_	Gloss=kingdom|Ref=MATT_5.10
+21	ìjọba	ìjọba	NOUN	_	_	19	nmod	_	Gloss=kingdom|Ref=MATT_5.10
 22	ọ̀run	ọ̀run	NOUN	_	_	21	nmod	_	Gloss=heaven|Ref=MATT_5.10|SpaceAfter=No
 23	.	.	PUNCT	_	_	17	punct	_	Gloss=.|Ref=MATT_5.10
 
@@ -4807,12 +4807,12 @@
 27	ètè	ètè	NOUN	_	_	26	obj	_	Gloss=lips|Ref=MATT_5.11
 28	èké	èké	NOUN	_	_	27	nmod	_	Gloss=false|Ref=MATT_5.11
 29	sọ̀rọ̀	sọ̀rọ̀	VERB	_	_	30	compound:svc	_	Gloss=speak|Ref=MATT_5.11
-30	búburú	búburú	NOUN	_	_	27	obl	_	Gloss=evil|Ref=MATT_5.11
+30	búburú	búburú	NOUN	_	_	27	nmod	_	Gloss=evil|Ref=MATT_5.11
 31	gbogbo	gbogbo	DET	_	_	30	det	_	Gloss=all|Ref=MATT_5.11
 32	sí	sí	ADP	_	_	33	case	_	Gloss=to|Ref=MATT_5.11
-33	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	27	obl	_	Gloss=you|Ref=MATT_5.11
+33	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	27	nmod	_	Gloss=you|Ref=MATT_5.11
 34	nítorí	nítorí	SCONJ	_	_	35	case	_	Gloss=n=because|Ref=MATT_5.11
-35	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	27	obl	_	Gloss=me|Ref=MATT_5.11|SpaceAfter=No
+35	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	27	nmod	_	Gloss=me|Ref=MATT_5.11|SpaceAfter=No
 36	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=MATT_5.11
 
 # sent_id = MATT_5.12
@@ -5090,7 +5090,7 @@
 32	tó	tó	ADV	_	_	33	advmod	_	Gloss=that|Ref=MATT_5.18
 33	wà	wà	VERB	_	_	31	acl	_	Gloss=was|Ref=MATT_5.18
 34	nínú	nínú	ADP	_	_	36	case	_	Gloss=in|Ref=MATT_5.18
-35	ìwé	ìwé	NOUN	_	_	36	obl	_	Gloss=book|Ref=MATT_5.18
+35	ìwé	ìwé	NOUN	_	_	36	nmod	_	Gloss=book|Ref=MATT_5.18
 36	ofin	ofin	NOUN	_	_	33	nmod	_	Gloss=laws|Ref=MATT_5.18
 37	títí	títí	ADP	_	_	41	case	_	Gloss=until|Ref=MATT_5.18
 38	gbogbo	gbogbo	DET	_	_	39	det	_	Gloss=all|Ref=MATT_5.18
@@ -5352,7 +5352,7 @@
 4	sí	sí	ADP	_	_	5	case	_	Gloss=to|Ref=MATT_5.24
 5	ilẹ̀	ilẹ̀	NOUN	_	_	1	obj	_	Gloss=ground|Ref=MATT_5.24
 6	níwájú	níwájú	ADP	_	_	7	case	_	Gloss=before|Ref=MATT_5.24
-7	pẹpẹ	pẹpẹ	NOUN	_	_	5	obl	_	Gloss=altar|Ref=MATT_5.24|SpaceAfter=No
+7	pẹpẹ	pẹpẹ	NOUN	_	_	5	nmod	_	Gloss=altar|Ref=MATT_5.24|SpaceAfter=No
 8	.	.	PUNCT	_	_	10	punct	_	Gloss=.|Ref=MATT_5.24
 9	Ìwọ	Ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Gloss=you|Ref=MATT_5.24
 10	kọ́kọ́	kọ́kọ́	ADV	_	_	5	advmod	_	Gloss=first|Ref=MATT_5.24
@@ -5690,7 +5690,7 @@
 35	sí	sí	ADP	_	_	36	case	_	Gloss=to|Ref=MATT_5.32
 36	ilẹ̀	ilẹ̀	NOUN	_	_	34	obl	_	Gloss=ground|Ref=MATT_5.32
 37	ní	ní	ADP	_	_	38	case	_	Gloss=in|Ref=MATT_5.32
-38	ìyàwó	ìyàwó	NOUN	_	_	36	obl	_	Gloss=wife|Ref=MATT_5.32
+38	ìyàwó	ìyàwó	NOUN	_	_	36	nmod	_	Gloss=wife|Ref=MATT_5.32
 39	ṣe	ṣe	VERB	_	_	38	nmod	_	Gloss=do|Ref=MATT_5.32
 40	àgbèrè	àgbèrè	NOUN	_	_	39	obj	_	Gloss=fornication|Ref=MATT_5.32|SpaceAfter=No
 41	.	.	PUNCT	_	_	30	punct	_	Gloss=.|Ref=MATT_5.32
@@ -5992,7 +5992,7 @@
 17	fẹ́	fẹ́	VERB	_	_	6	conj	_	Gloss=want|Ref=MATT_5.42
 18	ya	ya	VERB	_	_	17	compound:svc	_	Gloss=sanctify|Ref=MATT_5.42
 19	láti	láti	ADP	_	_	21	case	_	Gloss=to|Ref=MATT_5.42
-20	lọ́wọ́	ọwọ́	NOUN	_	Typo=Yes	21	obl	_	Gloss=hand|Ref=MATT_5.42
+20	lọ́wọ́	ọwọ́	NOUN	_	Typo=Yes	21	nmod	_	Gloss=hand|Ref=MATT_5.42
 21	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	17	nmod	_	Gloss=your|Ref=MATT_5.42|SpaceAfter=No
 22	.	.	PUNCT	_	_	6	punct	_	Gloss=.|Ref=MATT_5.42
 
@@ -6772,7 +6772,7 @@
 2	dárà	dárà	VERB	_	_	0	root	_	_
 3	ìlẹ̀kẹ̀	ìlẹ̀kẹ̀	NOUN	_	_	2	obl	_	_
 4	si	si	ADP	_	_	5	case	_	_
-5	lórí	lórí	ADP	_	_	3	obl	_	SpaceAfter=No
+5	lórí	lórí	ADP	_	_	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	lọ́rùn	lọ́rùn	ADV	_	_	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
@@ -6873,7 +6873,7 @@
 32	jẹ́	jẹ́	AUX	_	_	33	cop	_	_
 33	aládájọ́	aládájọ́	NOUN	_	_	27	nmod	_	_
 34	ní	ní	ADP	_	_	35	case	_	_
-35	ilé	ilé	NOUN	_	_	33	obl	_	_
+35	ilé	ilé	NOUN	_	_	33	nmod	_	_
 36	ẹjọ́	ẹjọ́	NOUN	_	_	35	nmod	_	_
 37	ti	ti	ADP	_	_	38	case	_	_
 38	Benin	Benin	NOUN	_	_	33	nmod	_	SpaceAfter=No
@@ -7260,7 +7260,7 @@
 25	ẹ̀gbẹ́	ẹ̀gbẹ́	NOUN	_	_	22	obl	_	_
 26	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	25	nmod	_	_
 27	ti	ti	ADP	_	_	28	case	_	_
-28	bàjẹ́	bàjẹ́	NOUN	_	_	25	obl	_	_
+28	bàjẹ́	bàjẹ́	NOUN	_	_	25	nmod	_	_
 29	díẹ̀	díẹ̀	NOUN	_	_	28	nmod	_	SpaceAfter=No
 30	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	49	punct	_	_
@@ -9242,7 +9242,7 @@
 24	láti	láti	ADP	_	_	25	case	_	_
 25	ṣ'	ṣ'	NOUN	_	_	23	nmod	_	SpaceAfter=No
 26	ẹ̀dá	ẹ̀dá	ADP	_	_	27	case	_	_
-27	ojúewé	ojúewé	NOUN	_	_	23	obl	_	_
+27	ojúewé	ojúewé	NOUN	_	_	23	nmod	_	_
 28	yìí	yìí	DET	_	_	27	det	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -9282,7 +9282,7 @@
 31	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	30	nmod	_	_
 32	irocks.com	irocks.com	NOUN	_	_	28	obj	_	_
 33	fún	fún	ADP	_	_	34	case	_	_
-34	Wikimedia	Wikimedia	NOUN	_	_	28	obl	_	_
+34	Wikimedia	Wikimedia	NOUN	_	_	28	nmod	_	_
 35	Commons.	commons.	NOUN	_	_	28	nmod	_	_
 
 # newpar
