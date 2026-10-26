@@ -1293,7 +1293,7 @@
 8	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	10	cc	_	Gloss=but|Ref=JOHN_10.18
 9	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=i|Ref=JOHN_10.18
 10	fi	fi	VERB	_	_	3	conj	_	Gloss=give|Ref=JOHN_10.18
-11	í	í	PRON	_	_	10	obj	_	Gloss=it|Ref=JOHN_10.18
+11	í	í	PRON	_	Person=3|PronType=Prs	10	obj	_	Gloss=it|Ref=JOHN_10.18
 12	lélẹ̀	lélẹ̀	ADV	_	_	10	advmod	_	Gloss=laid|Ref=JOHN_10.18|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=JOHN_10.18
 14	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	Gloss=i|Ref=JOHN_10.18
@@ -1921,7 +1921,7 @@
 25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Gloss=her|Ref=JOHN_11.2
 26	ni	ni	PART	_	_	24	case	_	Gloss=is|Ref=JOHN_11.2
 27	Lásárù	Lásárù	PROPN	_	_	24	flat	_	Gloss=lazarus|Ref=JOHN_11.2
-28	í	í	PRON	_	_	29	expl	_	Gloss=is|Ref=JOHN_11.2
+28	í	í	PRON	_	Person=3|PronType=Prs	29	expl	_	Gloss=is|Ref=JOHN_11.2
 29	ṣe	ṣe	VERB	_	_	17	xcomp	_	Gloss=be|Ref=JOHN_11.2|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=,|Ref=JOHN_11.2
 31	ara	ara	PRON	_	PronType=Emp	27	appos	_	Gloss=body|Ref=JOHN_11.2
