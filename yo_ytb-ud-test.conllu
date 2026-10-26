@@ -6599,7 +6599,7 @@
 32	láti	láti	ADP	_	_	33	case	_	_
 33	wọ̀	wọ̀	VERB	_	_	28	obl	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	21	punct	_	_
-35	gbogbo	gbogbo	DET	_	_	36	det	_	_
+35	gbogbo	gbogbo	DET	_	PronType=Tot	36	det	_	_
 36	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
 37	ní	ní	VERB	_	_	21	conj	_	_
 38	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	39	nsubj	_	_
@@ -7483,7 +7483,7 @@
 25	àti	àti	CCONJ	_	_	27	cc	_	_
 26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	27	det	_	_
 27	alábáse	alábáse	NOUN	_	_	20	conj	_	_
-28	gbogbo	gbogbo	DET	_	_	27	det	_	_
+28	gbogbo	gbogbo	DET	_	PronType=Tot	27	det	_	_
 29	ní	ní	PART	_	_	20	case	_	_
 30	yóò	yóò	AUX	_	_	31	aux	_	_
 31	pésẹ̀	pésẹ̀	VERB	_	_	16	parataxis	_	_
@@ -7549,7 +7549,7 @@
 3	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
 4	òní	òní	ADP	_	_	5	case	_	_
 5	ohun	ohun	NOUN	_	_	8	nsubj	_	_
-6	gbogbo	gbogbo	DET	_	_	5	det	_	_
+6	gbogbo	gbogbo	DET	_	PronType=Tot	5	det	_	_
 7	ti	ti	AUX	_	_	8	aux	_	_
 8	yí	yí	VERB	_	_	2	ccomp	_	_
 9	padà	padà	ADV	_	_	8	advmod	_	_
@@ -7652,7 +7652,7 @@
 16	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
 17	yóò	yóò	AUX	_	_	18	aux	_	_
 18	fí	fí	VERB	_	_	14	conj	_	_
-19	gbogbo	gbogbo	DET	_	_	20	det	_	_
+19	gbogbo	gbogbo	DET	_	PronType=Tot	20	det	_	_
 20	ohun	ohun	NOUN	_	_	18	obj	_	_
 21	tí	tí	PRON	_	PronType=Rel	23	nsubj	_	_
 22	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	expl	_	_
@@ -8238,7 +8238,7 @@
 4	Olóyèdé	Olóyèdé	PROPN	_	_	1	flat	_	_
 5	Ọláìyá	Ọláìyá	PROPN	_	_	1	flat	_	_
 6	tí	tí	PRON	_	PronType=Rel	8	det	_	_
-7	gbogbo	gbogbo	DET	_	_	8	det	_	_
+7	gbogbo	gbogbo	DET	_	PronType=Tot	8	det	_	_
 8	ènìyàn	ènìyàn	NOUN	_	_	9	nsubj	_	_
 9	mọ̀	mọ̀	VERB	_	_	1	acl	_	_
 10	sí	sí	ADP	_	_	11	case	_	_
@@ -8331,7 +8331,7 @@
 14	ní	ní	ADP	_	_	15	case	_	_
 15	ilé	ilé	NOUN	_	_	4	obl	_	_
 16	ẹ̀kọ́	ẹ̀kọ́	NOUN	_	_	19	nsubj	_	_
-17	gbogbo	gbogbo	DET	_	_	16	det	_	SpaceAfter=No
+17	gbogbo	gbogbo	DET	_	PronType=Tot	16	det	_	SpaceAfter=No
 18	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
 19	nìṣe	nìṣe	VERB	_	_	4	parataxis	_	_
 20	tí	tí	PRON	_	PronType=Rel	19	obj	_	_
@@ -8403,7 +8403,7 @@
 11	jẹ́	jẹ́	AUX	_	_	12	aux	_	_
 12	gbígbàgbọ́	gbígbàgbọ́	VERB	_	_	3	conj	_	_
 13	pé	pé	SCONJ	_	_	16	mark	_	_
-14	gbogbo	gbogbo	DET	_	_	16	det	_	_
+14	gbogbo	gbogbo	DET	_	PronType=Tot	16	det	_	_
 15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	_
 16	oníṣe	oníṣe	NOUN	_	_	12	obj	_	_
 17	gbọ́dọ̀	gbọ́dọ̀	ADV	_	_	18	advmod	_	_
@@ -8590,7 +8590,7 @@
 23	ṣàgbékalẹ́	ṣàgbékalẹ́	VERB	_	_	0	root	_	_
 24	bí	bí	SCONJ	_	_	27	mark	_	_
 25	ohun	ohun	NOUN	_	_	27	nsubj	_	_
-26	gbogbo	gbogbo	DET	_	_	27	det	_	_
+26	gbogbo	gbogbo	DET	_	PronType=Tot	27	det	_	_
 27	ṣe	ṣe	VERB	_	_	23	ccomp	_	_
 28	gbọ́dọ̀	gbọ́dọ̀	NOUN	_	_	27	obj	_	_
 29	máa	máa	AUX	_	_	30	aux	_	_
@@ -8702,7 +8702,7 @@
 2	jẹ́	jẹ́	AUX	_	_	3	cop	_	_
 3	ohun	ohun	NOUN	_	_	0	root	_	_
 4	tí	tí	PRON	_	PronType=Rel	6	nsubj	_	_
-5	gbogbo	gbogbo	DET	_	_	6	det	_	_
+5	gbogbo	gbogbo	DET	_	PronType=Tot	6	det	_	_
 6	alàtúnkọ	alàtúnkọ	NOUN	_	_	3	nmod	_	_
 7	gbà	gbà	VERB	_	_	6	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
@@ -8725,7 +8725,7 @@
 # newpar
 # sent_id = wiki0078
 # text = Gbogbo ojú ewé ìmúlò wà ní Wikipédíà:
-1	Gbogbo	gbogbo	DET	_	_	2	det	_	_
+1	Gbogbo	gbogbo	DET	_	PronType=Tot	2	det	_	_
 2	ojú	ojú	NOUN	_	_	4	nsubj	_	_
 3	ewé	ewé	NOUN	_	_	2	nmod	_	_
 4	ìmúlò	ìmúlò	VERB	_	_	0	root	_	_
@@ -8736,7 +8736,7 @@
 
 # sent_id = wiki0079
 # text = Gbogbo ìmúlò àti ìtọ́nisọ́nà àti.
-1	Gbogbo	gbogbo	DET	_	_	2	det	_	_
+1	Gbogbo	gbogbo	DET	_	PronType=Tot	2	det	_	_
 2	ìmúlò	ìmúlò	NOUN	_	_	0	root	_	_
 3	àti	àti	CCONJ	_	_	4	cc	_	_
 4	ìtọ́nisọ́nà	ìtọ́nisọ́nà	NOUN	_	_	2	conj	_	_
@@ -9257,7 +9257,7 @@
 6	ṣọrẹ	ṣọrẹ	VERB	_	_	0	root	_	_
 7	ibùdó	ibùdó	NOUN	_	_	8	nsubj	_	_
 8	dátà	dátà	VERB	_	_	6	ccomp	_	_
-9	gbogbo	gbogbo	DET	_	_	10	det	_	_
+9	gbogbo	gbogbo	DET	_	PronType=Tot	10	det	_	_
 10	àwọ	àwọ	NOUN	_	_	8	obj	_	_
 11	àwòrán	àwòrán	NOUN	_	_	10	nmod	_	_
 12	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
@@ -9272,7 +9272,7 @@
 21	000	000	NUM	_	NumType=Card	18	conj	_	SpaceAfter=No
 22	)	)	PUNCT	_	_	26	punct	_	_
 23	àti	àti	CCONJ	_	_	26	cc	_	_
-24	gbogbo	gbogbo	DET	_	_	26	det	_	_
+24	gbogbo	gbogbo	DET	_	PronType=Tot	26	det	_	_
 25	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	26	det	_	_
 26	àwòrán	àwòrán	NOUN	_	_	18	conj	_	_
 27	láti	láti	ADP	_	_	28	case	_	_
@@ -9322,7 +9322,7 @@
 5	ṣe	ṣe	VERB	_	_	2	parataxis	_	_
 6	ìyípadà	ìyípadà	NOUN	_	_	5	compound	_	_
 7	ìjúwe	ìjúwe	NOUN	_	_	5	obj	_	_
-8	gbogbo	gbogbo	DET	_	_	10	det	_	_
+8	gbogbo	gbogbo	DET	_	PronType=Tot	10	det	_	_
 9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	_
 10	àwòrán	àwòrán	NOUN	_	_	7	nmod	_	_
 11	náà	náà	ADV	_	_	5	advmod	_	SpaceAfter=No
