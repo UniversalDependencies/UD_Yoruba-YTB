@@ -38,14 +38,14 @@
     <feat name="Case" value="Acc" upos="ADJ,ADP,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">218</feat><!-- wọn, mi, ẹ, i, wọ́n, ọ́, ọ, mí, wa, bíi -->
     <feat name="Case" value="Gen" upos="PRON">233</feat><!-- rẹ̀, yín, rẹ, un, tirẹ̀, á, òun, tiwọn, ọ, ú -->
     <feat name="Case" value="Nom" upos="AUX,NOUN,PRON,PROPN">554</feat><!-- ó, a, wọn, wọ́n, ìwọ, ẹ, èmi, ẹ̀yin, mo, òun -->
-    <feat name="Number" value="Plur" upos="AUX,DET,PRON,PROPN">453</feat><!-- àwọn, wọn, ẹ, a, wọ́n, yín, ẹ̀yin, wa, tiwọn, àwa -->
+    <feat name="Number" value="Plur" upos="AUX,DET,PRON,PROPN">471</feat><!-- àwọn, wọn, ẹ, a, wọ́n, yín, ẹ̀yin, wa, tiwọn, àwa -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">672</feat><!-- ó, rẹ̀, ìwọ, mi, èmi, rẹ, un, i, mo, òun -->
     <feat name="NumType" value="Card" upos="ADP,NUM">78</feat><!-- kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520 -->
     <feat name="NumType" value="Ord" upos="ADJ">8</feat><!-- kẹrin, Benin, kejì, kárùn-ún, kìn-ín-ní, lóbìnrin, ún -->
     <feat name="Person" value="1" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">191</feat><!-- a, mi, èmi, mo, mí, wa, bíi, àwa, Nnaji, gidi -->
     <feat name="Person" value="2" upos="PRON">218</feat><!-- ẹ, yín, ìwọ, rẹ, ẹ̀yin, ọ, ọ́, alàtúnkọ, jọ, mọ -->
     <feat name="Person" value="3" upos="AUX,PRON">603</feat><!-- ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">231</feat><!-- àwọn, náà, yìí, èyí, wọ̀nyí -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">249</feat><!-- àwọn, náà, yìí, èyí, wọ̀nyí -->
     <feat name="PronType" value="Emp" upos="PRON">15</feat><!-- ara -->
     <feat name="PronType" value="Ind" upos="ADV,CCONJ,PRON">55</feat><!-- ẹni, ẹnikẹ́ni, àwọn, ẹnì, Ibi, nìkan, pọn, Àti, àworan, ẹnikẹni -->
     <feat name="PronType" value="Int" upos="PRON">8</feat><!-- kí, Ta, kín, èwo, èéṣe -->

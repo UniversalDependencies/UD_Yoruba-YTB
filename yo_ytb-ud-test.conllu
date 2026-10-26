@@ -1368,7 +1368,7 @@
 # sent_id = JOHN_10.21
 # text = Àwọn mìíràn wí pé, “Ìwọ̀nyí kìí ṣe ọ̀rọ̀ ẹni tí ó ní ẹ̀mí èṣù. Ẹ̀mi èṣù lè la ojú àwọn afọ́jú bí?”
 # text_en = Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?
-1	Àwọn	àwọn	DET	_	_	3	nsubj	_	Gloss=the|Ref=JOHN_10.21
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	3	nsubj	_	Gloss=the|Ref=JOHN_10.21
 2	mìíràn	mìíràn	ADJ	_	_	1	amod	_	Gloss=other|Ref=JOHN_10.21
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=JOHN_10.21
 4	pé	pé	SCONJ	_	_	3	compound	_	Gloss=that|Ref=JOHN_10.21|SpaceAfter=No
@@ -1588,7 +1588,7 @@
 # sent_id = JOHN_10.31
 # text = Àwọn Júù sì tún he òkúta, láti sọ lù ú.
 # text_en = Then the Jews took up stones again to stone him.
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.31
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=JOHN_10.31
 2	Júù	Júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_10.31
 3	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and|Ref=JOHN_10.31
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.31
@@ -1643,7 +1643,7 @@
 # sent_id = JOHN_10.33
 # text = Àwọn Júù sì dá a lóhùn pé, “Àwa kò sọ ọ́ lókúta nítorí iṣẹ́ rere, ṣùgbọ́n nítorí ọ̀rọ̀-ọ̀dì: àti nítorí ìwọ tí í ṣe ènìyàn ń fi ara rẹ pe Ọlọ́run.”
 # text_en = The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.
-1	Àwọn	àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.33
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=JOHN_10.33
 2	Júù	Júù	PROPN	_	_	4	nsubj	_	Gloss=jews|Ref=JOHN_10.33
 3	sì	sì	CCONJ	_	_	4	cc	_	Gloss=then|Ref=JOHN_10.33
 4	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=JOHN_10.33
@@ -1813,7 +1813,7 @@
 # sent_id = JOHN_10.41
 # text = Àwọn ènìyàn púpọ̀ sì wá sọ́dọ̀ rẹ̀, wọ́n sì wí pé, “Jòhánù kò ṣe iṣẹ́ àmì kan: Ṣùgbọ́n òtítọ́ ni ohun gbogbo tí Jòhánù sọ nípa ti ọkùnrin yìí.”
 # text_en = And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.41
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=JOHN_10.41
 2	ènìyàn	ènìyàn	NOUN	_	_	5	nsubj	_	Gloss=people|Ref=JOHN_10.41
 3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many|Ref=JOHN_10.41
 4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=then|Ref=JOHN_10.41
@@ -1852,7 +1852,7 @@
 # sent_id = JOHN_10.42
 # text = Àwọn ènìyàn púpọ̀ níbẹ̀ sì gbàágbọ́.
 # text_en = And many believed on him there.
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=JOHN_10.42
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=JOHN_10.42
 2	ènìyàn	ènìyàn	NOUN	_	_	6	nsubj	_	Gloss=people|Ref=JOHN_10.42
 3	púpọ̀	púpọ̀	ADJ	_	_	2	amod	_	Gloss=many|Ref=JOHN_10.42
 4	níbẹ̀	níbẹ̀	ADV	_	_	6	advmod	_	Gloss=there|Ref=JOHN_10.42
@@ -3400,7 +3400,7 @@
 # sent_id = MARK_5.12
 # text = Àwọn ẹ̀mí àìmọ́ náà bẹ Jésù pé, “Rán wa lọ sínú àwọn ẹlẹ́dẹ̀ wọnni kí awa le è wọ inú wọn lọ.”
 # text_en = And all the devils besought him, saying, Send us into the swine, that we may enter into them.
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.12
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.12
 2	ẹ̀mí	ẹ̀mí	NOUN	_	_	5	nsubj	_	Gloss=spirit|Ref=MARK_5.12
 3	àìmọ́	àìmọ́	ADJ	_	_	2	amod	_	Gloss=unclean|Ref=MARK_5.12
 4	náà	náà	DET	_	PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.12
@@ -3486,7 +3486,7 @@
 # sent_id = MARK_5.14
 # text = Àwọn olùtọ́jú ẹran wọ̀nyí sì sá lọ sí àwọn ìlú ńlá àti ìlú kéékèèkéé, wọ́n sì ń tan ìròyìn náà ká bí wọ́n ti ń sáré. Àwọn ènìyàn sì tú jáde láti fojú gán-án-ní ohun náà tí ó sẹlẹ̀.
 # text_en = And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.14
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.14
 2	olùtọ́jú	olùtọ́jú	NOUN	_	_	6	nsubj	_	Gloss=porters|Ref=MARK_5.14
 3	ẹran	ẹran	NOUN	_	_	6	nmod	_	Gloss=animal|Ref=MARK_5.14
 4	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	3	det	_	Gloss=these|Ref=MARK_5.14
@@ -3514,7 +3514,7 @@
 26	ń	ń	AUX	_	_	27	aux	_	Gloss=is|Ref=MARK_5.14
 27	sáré	sáré	VERB	_	_	19	ccomp	_	Gloss=run|Ref=MARK_5.14|SpaceAfter=No
 28	.	.	PUNCT	_	_	33	punct	_	Gloss=.|Ref=MARK_5.14
-29	Àwọn	àwọn	DET	_	_	30	det	_	Gloss=the|Ref=MARK_5.14
+29	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	30	det	_	Gloss=the|Ref=MARK_5.14
 30	ènìyàn	ènìyàn	NOUN	_	_	33	nsubj	_	Gloss=people|Ref=MARK_5.14
 31	sì	sì	CCONJ	_	_	33	cc	_	Gloss=and|Ref=MARK_5.14
 32	tú	tú	VERB	_	_	33	ccomp	_	Gloss=troop|Ref=MARK_5.14
@@ -3575,7 +3575,7 @@
 # sent_id = MARK_5.16
 # text = Àwọn tí ìṣẹ̀lẹ̀ yìí ṣojú wọn sì ń ròyìn rẹ̀ fún àwọn ènìyàn ohun tí ó sẹlẹ̀ sí ọkùnrin ẹlẹ́mí àìmọ́, wọn si sọ nípa agbo ẹlẹ́dẹ̀ náà pẹ̀lú.
 # text_en = And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.
-1	Àwọn	Àwọn	DET	_	_	3	det	_	Gloss=those|Ref=MARK_5.16
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	3	det	_	Gloss=those|Ref=MARK_5.16
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.16
 3	ìṣẹ̀lẹ̀	ìṣẹ̀lẹ̀	NOUN	_	_	0	root	_	Gloss=happening|Ref=MARK_5.16
 4	yìí	yìí	DET	_	PronType=Dem	5	det	_	Gloss=this|Ref=MARK_5.16
@@ -4077,7 +4077,7 @@
 # sent_id = MARK_5.31
 # text = Àwọn ọmọ-ẹ̀yìn rẹ̀ wí fún un pé, “Ìwọ rí ọ̀pọ̀ ènìyàn tí ó rọ̀gbà yí ọ ká, ìwọ́ sì tún ń bèèrè ẹni tí ó fi ọwọ́ kàn ọ́?”
 # text_en = And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?
-1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.31
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.31
 2	ọmọ	ọmọ	NOUN	_	_	6	nsubj	_	Gloss=child|Ref=MARK_5.31|SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	Gloss=-|Ref=MARK_5.31|SpaceAfter=No
 4	ẹ̀yìn	ẹ̀yìn	NOUN	_	_	2	compound	_	Gloss=back|Ref=MARK_5.31
@@ -4585,7 +4585,7 @@
 14	sì	sì	CCONJ	_	_	15	cc	_	Gloss=and|Ref=MATT_5.1
 15	jókòó	jókòó	VERB	_	_	12	conj	_	Gloss=sat|Ref=MATT_5.1|SpaceAfter=No
 16	.	.	PUNCT	_	_	23	punct	_	Gloss=.|Ref=MATT_5.1
-17	Àwọn	àwọn	DET	_	_	18	det	_	Gloss=the|Ref=MATT_5.1
+17	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	18	det	_	Gloss=the|Ref=MATT_5.1
 18	ọmọ	ọmọ	NOUN	_	_	25	nsubj	_	Gloss=son|Ref=MATT_5.1|SpaceAfter=No
 19	-	-	PUNCT	_	_	20	punct	_	Ref=MATT_5.1|SpaceAfter=No
 20	ẹ̀yìn	ẹ̀yìn	NOUN	_	_	18	compound	_	Ref=MATT_5.1
@@ -6114,7 +6114,7 @@
 15	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	16	obj	_	Gloss=you|Ref=MATT_5.46
 16	ní	ní	VERB	_	_	4	conj	_	Gloss=have|Ref=MATT_5.46|SpaceAfter=No
 17	?	?	PUNCT	_	_	4	punct	_	Gloss=?|Ref=MATT_5.46
-18	Àwọn	àwọn	DET	_	_	19	det	_	Gloss=the|Ref=MATT_5.46
+18	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	19	det	_	Gloss=the|Ref=MATT_5.46
 19	agbowó	agbowó	NOUN	_	_	25	nsubj	_	Gloss=publicans|Ref=MATT_5.46|SpaceAfter=No
 20	-	-	PUNCT	_	_	21	punct	_	Gloss=-|Ref=MATT_5.46|SpaceAfter=No
 21	òde	òde	NOUN	_	_	19	nsubj	_	Gloss=outside|Ref=MATT_5.46
@@ -6155,7 +6155,7 @@
 24	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	25	det	_	Gloss=the|Ref=MATT_5.47
 25	mìíràn	mìíràn	ADJ	_	_	22	amod	_	Gloss=other|Ref=MATT_5.47|SpaceAfter=No
 26	?	?	PUNCT	_	_	22	punct	_	Gloss=?|Ref=MATT_5.47
-27	Àwọn	àwọn	DET	_	_	28	det	_	Gloss=the|Ref=MATT_5.47
+27	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	28	det	_	Gloss=the|Ref=MATT_5.47
 28	abọ̀rìṣà	abọ̀rìṣà	NOUN	_	_	32	nsubj	_	Gloss=idolaters|Ref=MATT_5.47
 29	kò	kò	PART	_	_	32	advmod	_	Gloss=not|Ref=MATT_5.47
 30	ha	ha	X	_	_	29	discourse	_	Gloss=?|Ref=MATT_5.47
@@ -6565,7 +6565,7 @@
 # newpar
 # sent_id = wiki0004
 # text = Àwọn àpẹẹrẹ rẹ̀ lórí àkọ́lé kan náà wà ní Seattle Art Museum àti Linden Museum, tí ìkan ná sì wà ní ilé ibi tí wọ́n kò gba òpò eniyan láyè láti wọ̀, gbogbo rẹ̀ ní wọ́n kó nígbà ìwádí lọ sí ìlú Benin ní ọdún 1897.
-1	Àwọn	Àwọn	DET	_	_	2	det	_	_
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	_
 2	àpẹẹrẹ	àpẹẹrẹ	NOUN	_	_	8	nsubj	_	_
 3	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	lórí	lórí	ADP	_	_	5	case	_	_
@@ -7294,7 +7294,7 @@
 # newpar
 # sent_id = wiki0023
 # text = Àwọn Àgùdà jẹ́ oníṣòwò pẹ̀lú àwọn Benin nígbàyẹn gẹ́gẹ́ bí wọ́n ti ṣàpèjúwe rẹ̀, ó jẹ́ àpẹrẹ́ àjọṣepọ̀ láàrin omi àti ilẹ̀.
-1	Àwọn	àwọn	DET	_	_	2	det	_	_
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	_
 2	Àgùdà	Àgùdà	PROPN	_	_	4	nsubj	_	_
 3	jẹ́	jẹ́	AUX	_	_	4	aux	_	_
 4	oníṣòwò	oníṣòwò	VERB	_	_	0	root	_	_
@@ -8187,7 +8187,7 @@
 7	àgbárí-	àgbárí-	PUNCT	_	_	9	punct	_	SpaceAfter=No
 8	jọ-	jọ-	PUNCT	_	_	9	punct	_	SpaceAfter=No
 9	pọ	pọ	VERB	_	_	4	acl	_	_
-10	Àwọn	àwọn	DET	_	_	11	det	_	_
+10	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	11	det	_	_
 11	olùkọ́	olùkọ́	NOUN	_	_	9	obj	_	_
 12	nílé	nílé	ADP	_	_	13	case	_	_
 13	ìwé	ìwé	NOUN	_	_	11	nmod	_	_
@@ -8758,7 +8758,7 @@
 
 # sent_id = wiki0081
 # text = Àwọn ìmúlò.
-1	Àwọn	Àwọn	DET	_	_	2	det	_	_
+1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	_
 2	ìmúlò	ìmúlò	NOUN	_	_	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -9427,7 +9427,7 @@
 # text = Ẹ wo Àwọn Ọ̀rọ̀ Àdéhùn Ìlò fún ẹ̀kúnrẹ́rẹ́.
 1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	wo	wo	VERB	_	_	0	root	_	_
-3	Àwọn	à	DET	_	_	4	det	_	_
+3	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	_
 4	Ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	2	obj	_	_
 5	Àdéhùn	Àdéhùn	NOUN	_	_	4	nmod	_	_
 6	Ìlò	Ìlò	NOUN	_	_	5	nmod	_	_
