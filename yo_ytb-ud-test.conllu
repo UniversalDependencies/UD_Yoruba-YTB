@@ -988,7 +988,7 @@
 11	ohun	ohun	NOUN	_	_	10	nmod	_	Gloss=things|Ref=JOHN_10.6
 12	tí	tí	PRON	_	PronType=Rel	11	acl	_	Gloss=that|Ref=JOHN_10.6
 13	nǹkan	nǹkan	NOUN	_	_	12	nsubj	_	Gloss=things|Ref=JOHN_10.6
-14	wọ̀nyí	wọ̀nyí	DET	_	_	13	det	_	Gloss=these|Ref=JOHN_10.6
+14	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	13	det	_	Gloss=these|Ref=JOHN_10.6
 15	jẹ́	jẹ́	AUX	_	_	12	cop	_	Gloss=be|Ref=JOHN_10.6
 16	tí	tí	PRON	_	PronType=Rel	19	obj	_	Gloss=that|Ref=JOHN_10.6
 17	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Gloss=he|Ref=JOHN_10.6
@@ -1331,7 +1331,7 @@
 8	Júù	júù	PROPN	_	_	5	obl	_	Gloss=jews|Ref=JOHN_10.19
 9	nítorí	nítorí	SCONJ	_	_	10	case	_	Gloss=because|Ref=JOHN_10.19
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	5	obl	_	Gloss=word|Ref=JOHN_10.19
-11	wọ̀nyí	wọ̀nyí	DET	_	_	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
+11	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	10	det	_	Gloss=these|Ref=JOHN_10.19|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|Ref=JOHN_10.19
 
 # sent_id = JOHN_10.20
@@ -1629,7 +1629,7 @@
 23	èwo	èwo	PRON	_	PronType=Int	29	obl	_	Gloss=what|Ref=JOHN_10.32
 24	nínú	nínú	ADP	_	_	25	case	_	Gloss=in|Ref=JOHN_10.32
 25	iṣẹ́	iṣẹ́	NOUN	_	_	23	nmod	_	Gloss=work|Ref=JOHN_10.32
-26	wọ̀nyí	wọ̀nyí	DET	_	_	25	det	_	Gloss=these|Ref=JOHN_10.32
+26	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	25	det	_	Gloss=these|Ref=JOHN_10.32
 27	ni	ni	PART	_	_	23	case	_	Gloss=is|Ref=JOHN_10.32
 28	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	29	nsubj	_	Gloss=you|Ref=JOHN_10.32
 29	ṣe	ṣe	VERB	_	_	13	parataxis	_	Gloss=do|Ref=JOHN_10.32
@@ -2030,7 +2030,7 @@
 # text = Nǹkan wọ̀nyí ni ó sọ: lẹ́yìn èyí nì ó sì wí fún wọn pé, “Lásárù ọ̀rẹ́ wa sùn; ṣùgbọ́n èmi ń lọ kí èmi kí ó lè jí i dìde nínú orun rẹ̀.”
 # text_en = These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.
 1	Nǹkan	Nǹkan	NOUN	_	_	5	obj	_	Gloss=things|Ref=JOHN_11.11
-2	wọ̀nyí	wọ̀nyí	DET	_	_	1	det	_	Gloss=these|Ref=JOHN_11.11
+2	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	1	det	_	Gloss=these|Ref=JOHN_11.11
 3	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=JOHN_11.11
 4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|Ref=JOHN_11.11
 5	sọ	sọ	VERB	_	_	0	root	_	Gloss=spake|Ref=JOHN_11.11|SpaceAfter=No
@@ -3489,7 +3489,7 @@
 1	Àwọn	Àwọn	DET	_	_	2	det	_	Gloss=the|Ref=MARK_5.14
 2	olùtọ́jú	olùtọ́jú	NOUN	_	_	6	nsubj	_	Gloss=porters|Ref=MARK_5.14
 3	ẹran	ẹran	NOUN	_	_	6	nmod	_	Gloss=animal|Ref=MARK_5.14
-4	wọ̀nyí	wọ̀nyí	DET	_	_	3	det	_	Gloss=these|Ref=MARK_5.14
+4	wọ̀nyí	wọ̀nyí	DET	_	PronType=Dem	3	det	_	Gloss=these|Ref=MARK_5.14
 5	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and|Ref=MARK_5.14
 6	sá	sá	VERB	_	_	0	root	_	Gloss=fled|Ref=MARK_5.14
 7	lọ	lọ	VERB	_	_	6	compound:svc	_	Gloss=go|Ref=MARK_5.14
