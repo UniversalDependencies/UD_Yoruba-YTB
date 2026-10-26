@@ -3139,7 +3139,7 @@
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=MARK_5.3
 8	kò	kò	PART	_	_	9	advmod	_	Gloss=not|Ref=MARK_5.3
 9	sí	sí	VERB	_	_	4	advcl	_	Gloss=is|Ref=MARK_5.3
-10	ẹni	ẹni	PRON	_	PronType=Ind	9	obj	_	Gloss=that|Ref=MARK_5.3
+10	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	9	obj	_	Gloss=that|Ref=MARK_5.3
 11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	Gloss=that|Ref=MARK_5.3
 12	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Gloss=he|Ref=MARK_5.3
 13	lè	lè	AUX	_	_	14	aux	_	Gloss=may|Ref=MARK_5.3
@@ -3544,7 +3544,7 @@
 10	ọkùnrin	ọkùnrin	NOUN	_	_	9	obj	_	Gloss=man|Ref=MARK_5.15
 11	náà	náà	DET	_	PronType=Dem	10	det	_	Gloss=the|Ref=MARK_5.15|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=MARK_5.15
-13	ẹni	ẹni	PRON	_	PronType=Ind	9	obj	_	Gloss=that|Ref=MARK_5.15
+13	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	9	obj	_	Gloss=that|Ref=MARK_5.15
 14	tí	tí	PRON	_	PronType=Rel	13	fixed	_	Gloss=that|Ref=MARK_5.15
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	expl	_	Gloss=he|Ref=MARK_5.15
 16	ní	ní	VERB	_	_	13	acl	_	Gloss=in|Ref=MARK_5.15
@@ -4104,7 +4104,7 @@
 25	tún	tún	ADV	_	_	27	advmod	_	Gloss=again|Ref=MARK_5.31
 26	ń	ń	AUX	_	_	27	aux	_	Gloss=is|Ref=MARK_5.31
 27	bèèrè	bèèrè	VERB	_	_	13	conj	_	Gloss=ask|Ref=MARK_5.31
-28	ẹni	ẹni	PRON	_	PronType=Ind	27	obj	_	Gloss=someone|Ref=MARK_5.31
+28	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	27	obj	_	Gloss=someone|Ref=MARK_5.31
 29	tí	tí	PRON	_	PronType=Rel	28	fixed	_	Gloss=that|Ref=MARK_5.31
 30	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	31	expl	_	Gloss=he|Ref=MARK_5.31
 31	fi	fi	VERB	_	_	28	acl	_	Gloss=use|Ref=MARK_5.31
@@ -4756,7 +4756,7 @@
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.10
 4	ni	ni	PART	_	_	5	case	_	Gloss=is|Ref=MATT_5.10
 5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Gloss=the|Ref=MATT_5.10
-6	ẹni	ẹni	PRON	_	PronType=Ind	1	obj	_	Gloss=someone|Ref=MATT_5.10
+6	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	1	obj	_	Gloss=someone|Ref=MATT_5.10
 7	tí	tí	PRON	_	PronType=Rel	6	fixed	_	Gloss=that|Ref=MATT_5.10
 8	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nmod	_	Gloss=we|Ref=MATT_5.10
 9	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=MATT_5.10
