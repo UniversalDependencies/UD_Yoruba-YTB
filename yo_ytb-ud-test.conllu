@@ -823,7 +823,7 @@
 8	fún	fún	ADP	_	_	9	case	_	Gloss=unto|Ref=JOHN_10.1
 9	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	obl	_	Gloss=you|Ref=JOHN_10.1|SpaceAfter=No
 10	,	,	PUNCT	_	_	35	punct	_	Gloss=,|Ref=JOHN_10.1
-11	Ẹni	Ẹni	PRON	_	PronType=Ind	35	nsubj	_	Gloss=someone|Ref=JOHN_10.1
+11	Ẹni	Ẹni	PRON	_	ExtPos=PRON|PronType=Ind	35	nsubj	_	Gloss=someone|Ref=JOHN_10.1
 12	tí	tí	PRON	_	PronType=Rel	11	fixed	_	Gloss=that|Ref=JOHN_10.1
 13	kò	kò	PART	_	_	15	advmod	_	Gloss=not|Ref=JOHN_10.1
 14	bá	bá	SCONJ	_	_	15	mark	_	Gloss=if|Ref=JOHN_10.1
@@ -856,7 +856,7 @@
 # text = Ṣùgbọ́n ẹni tí ó bá ti ẹnu-ọ̀nà wọlé, Òun ni olùṣọ́ àwọn àgùntàn.
 # text_en = But he that entereth in by the door is the shepherd of the sheep.
 1	Ṣùgbọ́n	Ṣùgbọ́n	CCONJ	_	_	14	cc	_	Gloss=but|Ref=JOHN_10.2
-2	ẹni	ẹni	PRON	_	PronType=Ind	14	nsubj	_	Gloss=someone|Ref=JOHN_10.2
+2	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	14	nsubj	_	Gloss=someone|Ref=JOHN_10.2
 3	tí	tí	PRON	_	PronType=Rel	2	fixed	_	Gloss=that|Ref=JOHN_10.2
 4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=he|Ref=JOHN_10.2
 5	bá	bá	SCONJ	_	_	10	mark	_	Gloss=if|Ref=JOHN_10.2
@@ -1560,7 +1560,7 @@
 17	kò	kò	PART	_	_	19	advmod	_	Gloss=not|Ref=JOHN_10.29
 18	sì	sì	CCONJ	_	_	19	cc	_	Gloss=and|Ref=JOHN_10.29
 19	sí	sí	VERB	_	_	11	parataxis	_	Gloss=to|Ref=JOHN_10.29
-20	ẹni	ẹni	PRON	_	PronType=Ind	19	nsubj	_	Gloss=who|Ref=JOHN_10.29
+20	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	19	nsubj	_	Gloss=who|Ref=JOHN_10.29
 21	tí	tí	PRON	_	PronType=Rel	20	fixed	_	Gloss=that|Ref=JOHN_10.29
 22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	expl	_	Gloss=he|Ref=JOHN_10.29
 23	lè	lè	AUX	_	_	24	aux	_	Gloss=may|Ref=JOHN_10.29
@@ -2390,7 +2390,7 @@
 11	àti	àti	CCONJ	_	_	12	cc	_	Gloss=and|Ref=JOHN_11.25
 12	ìyè	ìyè	NOUN	_	_	10	conj	_	Gloss=life|Ref=JOHN_11.25|SpaceAfter=No
 13	:	:	PUNCT	_	_	28	punct	_	Gloss=:|Ref=JOHN_11.25
-14	ẹni	ẹni	PRON	_	PronType=Ind	28	nsubj	_	Gloss=someone|Ref=JOHN_11.25
+14	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	28	nsubj	_	Gloss=someone|Ref=JOHN_11.25
 15	tí	tí	PRON	_	PronType=Rel	14	fixed	_	Gloss=that|Ref=JOHN_11.25
 16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl	_	Gloss=he|Ref=JOHN_11.25
 17	bá	bá	SCONJ	_	_	18	mark	_	Gloss=if|Ref=JOHN_11.25
@@ -2979,7 +2979,7 @@
 # sent_id = JOHN_11.44
 # text = Ẹni tí ó kú náà sì jáde wá, tí a fi aṣọ òkú dì tọwọ́ tẹsẹ̀ a sì fi gèlè dì í lójú. Jésù wí fún wọn pé, “Ẹ tú u, ẹ sì jẹ́ kí ó má a lọ!”
 # text_en = And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
-1	Ẹni	ẹni	PRON	_	PronType=Ind	7	nsubj	_	Gloss=someone|Ref=JOHN_11.44
+1	Ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	7	nsubj	_	Gloss=someone|Ref=JOHN_11.44
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=JOHN_11.44
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl	_	Gloss=has|Ref=JOHN_11.44
 4	kú	kú	VERB	_	_	1	acl	_	Gloss=die|Ref=JOHN_11.44
@@ -3896,7 +3896,7 @@
 # sent_id = MARK_5.26
 # text = Ẹni tí ojú rẹ̀ sì ti rí ọ̀pọ̀lọpọ̀ ìpọ́njú lọ́dọ̀ ọ̀pọ̀ àwọn oníṣègùn, tí ó sì ti ná gbogbo ohun tí ó ní, síbẹ̀ kàkà kí ó san, ó ń burú sí i.
 # text_en = And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,
-1	Ẹni	ẹni	PRON	_	PronType=Ind	7	nsubj	_	Gloss=someone|Ref=MARK_5.26
+1	Ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	7	nsubj	_	Gloss=someone|Ref=MARK_5.26
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.26
 3	ojú	ojú	NOUN	_	_	7	obl	_	Gloss=eyes|Ref=MARK_5.26
 4	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Gloss=his|Ref=MARK_5.26
@@ -4966,7 +4966,7 @@
 30	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	29	obj	_	Gloss=light|Ref=MATT_5.15
 31	fún	fún	ADP	_	_	32	case	_	Gloss=for|Ref=MATT_5.15
 32	gbogbo	gbogbo	DET	_	PronType=Tot	33	det	_	Gloss=all|Ref=MATT_5.15
-33	ẹni	ẹni	PRON	_	PronType=Ind	25	nsubj	_	Gloss=that|Ref=MATT_5.15
+33	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	25	nsubj	_	Gloss=that|Ref=MATT_5.15
 34	tí	tí	PRON	_	PronType=Rel	33	fixed	_	Gloss=that|Ref=MATT_5.15
 35	ń	ń	AUX	_	_	36	aux	_	Gloss=is|Ref=MATT_5.15
 36	bẹ	bẹ	VERB	_	_	33	acl	_	Gloss=present|Ref=MATT_5.15
@@ -5895,7 +5895,7 @@
 14	ibi	ibi	ADJ	_	_	13	amod	_	Gloss=evil|Ref=MATT_5.39|SpaceAfter=No
 15	.	.	PUNCT	_	_	11	punct	_	Gloss=.|Ref=MATT_5.39
 16	Bí	Bí	SCONJ	_	_	17	case	_	Gloss=if|Ref=MATT_5.39
-17	ẹnì	ẹnì	PRON	_	PronType=Ind	20	nsubj	_	Gloss=someone|Ref=MATT_5.39
+17	ẹnì	ẹnì	PRON	_	ExtPos=PRON|PronType=Ind	20	nsubj	_	Gloss=someone|Ref=MATT_5.39
 18	kan	kan	NUM	_	NumType=Card	17	fixed	_	Gloss=a|Ref=MATT_5.39
 19	bá	bá	SCONJ	_	_	20	mark	_	Gloss=if|Ref=MATT_5.39
 20	gbá	gbá	VERB	_	_	11	parataxis	_	Gloss=hold|Ref=MATT_5.39
@@ -5918,7 +5918,7 @@
 # text = Bí ẹnì kan bá fẹ́ gbé ọ lọ sílé ẹjọ́, tí ó sì fẹ́ gba ẹ̀wù àwọ̀tẹ́lẹ̀, jọ̀wọ́ agbádá rẹ fún un pẹ̀lú.
 # text_en = And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also.
 1	Bí	bí	SCONJ	_	_	5	mark	_	Gloss=as|Ref=MATT_5.40
-2	ẹnì	ẹnì	PRON	_	PronType=Ind	5	nsubj	_	Gloss=someone|Ref=MATT_5.40
+2	ẹnì	ẹnì	PRON	_	ExtPos=PRON|PronType=Ind	5	nsubj	_	Gloss=someone|Ref=MATT_5.40
 3	kan	kan	NUM	_	NumType=Card	2	fixed	_	Gloss=a|Ref=MATT_5.40
 4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if|Ref=MATT_5.40
 5	fẹ́	fẹ́	VERB	_	_	0	root	_	Gloss=would|Ref=MATT_5.40
@@ -5950,7 +5950,7 @@
 # text = Bí ẹni kan bá fẹ́ fi agbára mú ọ rìn ibùsọ̀ kan, bá a lọ ní ibùsọ̀ méjì.
 # text_en = And whosoever shall compel thee to go a mile, go with him twain.
 1	Bí	bí	SCONJ	_	_	5	mark	_	Gloss=as|Ref=MATT_5.41
-2	ẹni	ẹni	PRON	_	PronType=Ind	5	nsubj	_	Gloss=someone|Ref=MATT_5.41
+2	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	5	nsubj	_	Gloss=someone|Ref=MATT_5.41
 3	kan	kan	NUM	_	NumType=Card	2	fixed	_	Gloss=a|Ref=MATT_5.41
 4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if|Ref=MATT_5.41
 5	fẹ́	fẹ́	VERB	_	_	0	root	_	Gloss=love|Ref=MATT_5.41
