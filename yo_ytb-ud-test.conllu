@@ -753,7 +753,7 @@
 # sent_id = GEN_1.26
 # text = Lẹ́yìn náà ni Ọlọ́run wí pé, “Ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa, gẹ́gẹ́ bí àwa ti rí, kí wọn kí ó jọba lórí ẹja òkun, ẹyẹ ojú ọ̀run, ohun ọ̀sìn, gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀.”
 # text_en = And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
-1	Lẹ́yìn	lẹ́yìn	ADP	_	_	5	case	_	Gloss=after|Ref=GEN_1.26
+1	Lẹ́yìn	lẹ́yìn	ADP	_	ExtPos=ADP	5	case	_	Gloss=after|Ref=GEN_1.26
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=th|Ref=GEN_1.26
 3	ni	ni	PART	_	_	4	case	_	Gloss=is|Ref=GEN_1.26
 4	Ọlọ́run	ọlọ́run	NOUN	_	_	5	nsubj	_	Gloss=god|Ref=GEN_1.26
