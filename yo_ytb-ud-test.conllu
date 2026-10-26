@@ -7383,7 +7383,7 @@
 # text = Orúkọ dàbí àmì ìdánimọ̀ tí a fi ń dá ẹnìkọ̀ọ̀kan mọ̀ orúkọ ló jẹ́ kí á dá Táyé mọ̀ yàtọ̀ sí Kẹ́hìndé, káàkiri àgbáyé ní a sì tí ń lo orúkọ, ní ọ̀pọ̀ ìgbà orúkọ sì máa ń fi bí ènìyàn ṣe jẹ́ láwùjọ hàn àti wí pe orúkọ ẹni le buyì fún ènìyàn láwùjọ.
 # text_en = A name is like a sign of identity that identifies an individual. A name is what distinguishes a person from a stranger. Names are used all over the world, and in many cases, names reflect a person's social status and can be a source of pride for a person in society.
 1-2	Orúkọ	_	_	_	_	_	_	_	_
-1	O	o	DET	_	_	2	det	_	_
+1	O	o	DET	_	PronType=Ind	2	det	_	_
 2	órúkọ	órúkọ	NOUN	_	_	3	nsubj	_	_
 3	dàbí	dàbí	VERB	_	_	0	root	_	_
 4	àmì	àmì	NOUN	_	_	3	obj	_	_
@@ -7396,7 +7396,7 @@
 11	ẹnìkọ̀ọ̀kan	ẹnìkọ̀ọ̀kan	NOUN	_	_	19	nsubj	_	_
 12	mọ̀	mọ̀	ADP	_	_	14	case	_	_
 13-14	orúkọ	_	_	_	_	_	_	_	_
-13	o	o	DET	_	_	14	det	_	_
+13	o	o	DET	_	PronType=Ind	14	det	_	_
 14	órúkọ	órúkọ	NOUN	_	_	11	nmod	_	_
 15	ló	ló	ADV	_	_	19	advmod	_	_
 16	jẹ́	jẹ́	AUX	_	_	19	aux	_	_
@@ -7418,14 +7418,14 @@
 32	ń	ń	AUX	_	_	33	aux	_	_
 33	lo	lo	VERB	_	_	27	conj	_	_
 34-35	orúkọ	_	_	_	_	_	_	_	SpaceAfter=No
-34	o	o	DET	_	_	35	det	_	_
+34	o	o	DET	_	PronType=Ind	35	det	_	_
 35	órúkọ	órúkọ	NOUN	_	_	33	obj	_	_
 36	,	,	PUNCT	_	_	33	punct	_	_
 37	ní	ní	ADP	_	_	38	case	_	_
 38	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	33	obl	_	_
 39	ìgbà	ìgbà	NOUN	_	_	38	nmod	_	_
 40-41	orúkọ	_	_	_	_	_	_	_	_
-40	o	o	DET	_	_	41	det	_	_
+40	o	o	DET	_	PronType=Ind	41	det	_	_
 41	órúkọ	órúkọ	NOUN	_	_	45	nsubj	_	_
 42	sì	sì	CCONJ	_	_	45	cc	_	_
 43	máa	máa	AUX	_	_	45	aux	_	_
@@ -7441,7 +7441,7 @@
 53	wí	wí	VERB	_	_	50	conj	_	_
 54	pe	pe	NOUN	_	_	53	obj	_	_
 55-56	orúkọ	_	_	_	_	_	_	_	_
-55	o	o	DET	_	_	56	det	_	_
+55	o	o	DET	_	PronType=Ind	56	det	_	_
 56	órúkọ	órúkọ	NOUN	_	_	54	nmod	_	_
 57	ẹni	ẹni	PRON	_	PronType=Ind	56	nmod	_	_
 58	le	le	VERB	_	_	57	acl	_	_
@@ -7700,7 +7700,7 @@
 # sent_id = wiki0034
 # text = Orúkọ dabí fèrèsé tí ó fi ÀṢÀ, Èsìn, Iṣé àti ìgbàgbọ́ àwọn Yorùbá hàn.
 1-2	Orúkọ	_	_	_	_	_	_	_	_
-1	O	o	DET	_	_	2	det	_	_
+1	O	o	DET	_	PronType=Ind	2	det	_	_
 2	órúkọ	órúkọ	NOUN	_	_	4	nsubj	_	_
 3	dabí	dabí	ADV	_	_	4	advmod	_	_
 4	fèrèsé	fèrèsé	VERB	_	_	0	root	_	_

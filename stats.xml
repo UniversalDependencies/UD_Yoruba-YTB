@@ -52,7 +52,7 @@
     <feat name="Person" value="3" upos="AUX,PRON">603</feat><!-- ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á -->
     <feat name="PronType" value="Dem" upos="DET,PRON">249</feat><!-- àwọn, náà, yìí, èyí, wọ̀nyí -->
     <feat name="PronType" value="Emp" upos="PRON">15</feat><!-- ara -->
-    <feat name="PronType" value="Ind" upos="ADV,CCONJ,PRON">55</feat><!-- ẹni, ẹnikẹ́ni, àwọn, ẹnì, Ibi, nìkan, pọn, Àti, àworan, ẹnikẹni -->
+    <feat name="PronType" value="Ind" upos="ADV,CCONJ,DET,PRON">61</feat><!-- ẹni, ẹnikẹ́ni, o, àwọn, ẹnì, Ibi, nìkan, pọn, Àti, àworan -->
     <feat name="PronType" value="Int" upos="PRON">8</feat><!-- kí, Ta, kín, èwo, èéṣe -->
     <feat name="PronType" value="Prs" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">1012</feat><!-- ó, rẹ̀, wọn, ẹ, a, wọ́n, yín, ìwọ, mi, èmi -->
     <feat name="PronType" value="Rel" upos="PRON">238</feat><!-- tí, ti, ohunkóhun, bi -->
