@@ -1161,7 +1161,7 @@
 7	olùṣọ́	olùṣọ́	NOUN	_	_	6	xcomp	_	Gloss=shepherd|Ref=JOHN_10.12
 8	àgùntàn	àgùntàn	NOUN	_	_	7	nmod	_	Gloss=sheep|Ref=JOHN_10.12|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=JOHN_10.12
-10	ẹni	ẹni	PRON	_	PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_10.12
+10	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_10.12
 11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	Gloss=that|Ref=JOHN_10.12
 12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Gloss=the|Ref=JOHN_10.12
 13	àgùntàn	àgùntàn	NOUN	_	_	15	nsubj	_	Gloss=sheep|Ref=JOHN_10.12
@@ -1355,7 +1355,7 @@
 16	sì	sì	CCONJ	_	_	17	cc	_	Gloss=and|Ref=JOHN_10.20
 17	dàrú	dàrú	VERB	_	_	10	conj	_	Gloss=troubled|Ref=JOHN_10.20|SpaceAfter=No
 18	;	;	PUNCT	_	_	22	punct	_	Gloss=;|Ref=JOHN_10.20
-19	èéṣe	èéṣe	PRON	_	PronType=Int	22	obl	_	Gloss=why|Ref=JOHN_10.20
+19	èéṣe	èéṣe	PRON	_	ExtPos=PRON|PronType=Int	22	obl	_	Gloss=why|Ref=JOHN_10.20
 20	tí	tí	PRON	_	PronType=Rel	19	fixed	_	Gloss=that|Ref=JOHN_10.20
 21	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	22	nsubj	_	Gloss=ye|Ref=JOHN_10.20
 22	fi	fi	VERB	_	_	10	parataxis	_	Gloss=do|Ref=JOHN_10.20
@@ -1544,7 +1544,7 @@
 1	Baba	Baba	NOUN	_	_	11	nsubj	_	Gloss=father|Ref=JOHN_10.29
 2	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Gloss=my|Ref=JOHN_10.29|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=JOHN_10.29
-4	ẹni	ẹni	PRON	_	PronType=Ind	1	appos	_	Gloss=he|Ref=JOHN_10.29
+4	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	1	appos	_	Gloss=he|Ref=JOHN_10.29
 5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	Gloss=that|Ref=JOHN_10.29
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	expl	_	Gloss=he|Ref=JOHN_10.29
 7	fi	fi	VERB	_	_	4	acl	_	Gloss=give|Ref=JOHN_10.29
@@ -1898,7 +1898,7 @@
 2	Màríà	Màríà	PROPN	_	_	0	root	_	Gloss=mary|Ref=JOHN_11.2
 3	náà	náà	DET	_	PronType=Dem	2	det	_	Gloss=the|Ref=JOHN_11.2
 4	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=JOHN_11.2
-5	ẹni	ẹni	PRON	_	PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_11.2
+5	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	2	appos	_	Gloss=someone|Ref=JOHN_11.2
 6	tí	tí	PRON	_	PronType=Rel	5	fixed	_	Gloss=that|Ref=JOHN_11.2
 7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	expl	_	Gloss=she|Ref=JOHN_11.2
 8	fi	fi	VERB	_	_	5	acl	_	Gloss=with|Ref=JOHN_11.2
@@ -2179,7 +2179,7 @@
 3	náà	náà	PRON	_	PronType=Dem	2	fixed	_	Gloss=that|Ref=JOHN_11.16
 4	Tómásì	tómásì	PROPN	_	_	14	nsubj	_	Gloss=thomas|Ref=JOHN_11.16|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_11.16
-6	ẹni	ẹni	PRON	_	PronType=Ind	4	appos	_	Gloss=someone|Ref=JOHN_11.16
+6	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	4	appos	_	Gloss=someone|Ref=JOHN_11.16
 7	tí	tí	PRON	_	PronType=Rel	6	fixed	_	Gloss=that|Ref=JOHN_11.16
 8	à	à	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	Gloss=we|Ref=JOHN_11.16
 9	ń	ń	AUX	_	_	10	aux	_	Gloss=is|Ref=JOHN_11.16
@@ -2461,7 +2461,7 @@
 21	Ọmọ	Ọmọ	NOUN	_	_	19	appos	_	Gloss=son|Ref=JOHN_11.27
 22	Ọlọ́run	Ọlọ́run	NOUN	_	_	21	nmod	_	Gloss=god|Ref=JOHN_11.27|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=,|Ref=JOHN_11.27
-24	ẹni	ẹni	PRON	_	PronType=Ind	19	appos	_	Gloss=someone|Ref=JOHN_11.27
+24	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	19	appos	_	Gloss=someone|Ref=JOHN_11.27
 25	tí	tí	PRON	_	PronType=Rel	24	fixed	_	Gloss=that|Ref=JOHN_11.27
 26	ń	ń	AUX	_	_	27	aux	_	Gloss=is|Ref=JOHN_11.27
 27	bọ̀	bọ̀	VERB	_	_	24	acl	_	Gloss=come|Ref=JOHN_11.27
@@ -2726,7 +2726,7 @@
 10	Ọkùnrin	Ọkùnrin	NOUN	_	_	22	nsubj	_	Gloss=man|Ref=JOHN_11.37
 11	yìí	yìí	DET	_	PronType=Dem	10	det	_	Gloss=this|Ref=JOHN_11.37|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_11.37
-13	ẹni	ẹni	PRON	_	PronType=Ind	10	appos	_	Gloss=someone|Ref=JOHN_11.37
+13	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	10	appos	_	Gloss=someone|Ref=JOHN_11.37
 14	tí	tí	PRON	_	PronType=Rel	13	fixed	_	Gloss=that|Ref=JOHN_11.37
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	expl	_	Gloss=he|Ref=JOHN_11.37
 16	la	la	VERB	_	_	13	acl	_	Gloss=open|Ref=JOHN_11.37
@@ -5391,7 +5391,7 @@
 5	làjà	làjà	VERB	_	_	0	root	_	Gloss=reconcile|Ref=MATT_5.25
 6	kánkán	kánkán	ADV	_	_	5	advmod	_	Gloss=quickly|Ref=MATT_5.25|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=,|Ref=MATT_5.25
-8	ẹni	ẹni	PRON	_	PronType=Ind	5	obl	_	Gloss=person|Ref=MATT_5.25
+8	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	5	obl	_	Gloss=person|Ref=MATT_5.25
 9	tí	tí	PRON	_	PronType=Rel	8	fixed	_	Gloss=that|Ref=MATT_5.25
 10	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=MATT_5.25
 11	ń	ń	AUX	_	_	12	aux	_	Gloss=is|Ref=MATT_5.25
@@ -5986,7 +5986,7 @@
 11	ṣe	ṣe	VERB	_	_	6	conj	_	Gloss=do|Ref=MATT_5.42
 12	kọ̀	kọ̀	VERB	_	_	14	compound:svc	_	Gloss=forsaken|Ref=MATT_5.42
 13	fún	fún	ADP	_	_	14	case	_	Gloss=unto|Ref=MATT_5.42
-14	ẹni	ẹni	PRON	_	PronType=Ind	6	obl	_	Gloss=person|Ref=MATT_5.42
+14	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	6	obl	_	Gloss=person|Ref=MATT_5.42
 15	tí	tí	PRON	_	PronType=Rel	14	fixed	_	Gloss=that|Ref=MATT_5.42
 16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	expl	_	Gloss=he|Ref=MATT_5.42
 17	fẹ́	fẹ́	VERB	_	_	6	conj	_	Gloss=want|Ref=MATT_5.42
