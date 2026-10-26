@@ -34,7 +34,7 @@
     <tag name="X">9</tag><!-- _, ha -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="17">
+  <feats unique="18">
     <feat name="Case" value="Acc" upos="ADJ,ADP,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">218</feat><!-- wọn, mi, ẹ, i, wọ́n, ọ́, ọ, mí, wa, bíi -->
     <feat name="Case" value="Gen" upos="PRON">233</feat><!-- rẹ̀, yín, rẹ, un, tirẹ̀, á, òun, tiwọn, ọ, ú -->
     <feat name="Case" value="Nom" upos="AUX,NOUN,PRON,PROPN">554</feat><!-- ó, a, wọn, wọ́n, ìwọ, ẹ, èmi, ẹ̀yin, mo, òun -->
@@ -51,6 +51,7 @@
     <feat name="PronType" value="Int" upos="PRON">8</feat><!-- kí, Ta, kín, èwo, èéṣe -->
     <feat name="PronType" value="Prs" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">1005</feat><!-- ó, rẹ̀, wọn, a, ẹ, wọ́n, yín, ìwọ, mi, èmi -->
     <feat name="PronType" value="Rel" upos="PRON">237</feat><!-- tí, ti, ohunkóhun, bi -->
+    <feat name="PronType" value="Tot" upos="DET">21</feat><!-- gbogbo -->
     <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB">36</feat><!-- má, ní, rẹ, si, sí, ti, tí, Bétanì, ayọ, ba -->
   </feats>
   <!-- Statistics of universal dependency relations. -->

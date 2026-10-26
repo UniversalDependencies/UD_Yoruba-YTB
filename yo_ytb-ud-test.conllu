@@ -6,7 +6,7 @@
 1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
 3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
-4	gbogbo	gbogbo	DET	_	_	5	det	_	Gloss=all|Ref=GEN_1.1
+4	gbogbo	gbogbo	DET	_	PronType=Tot	5	det	_	Gloss=all|Ref=GEN_1.1
 5	Ọlọ́run	ọlọ́run	NOUN	_	_	6	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.1
 7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	8	det	_	Gloss=the|Ref=GEN_1.1
@@ -42,7 +42,7 @@
 22	rábàbà	rábàbà	VERB	_	_	3	acl	_	Gloss=sweeping|Ref=GEN_1.2
 23	lójú	lójú	ADP	_	_	24	case	_	Gloss=sight|Ref=GEN_1.2
 24	omi	omi	NOUN	_	_	22	obl	_	Gloss=water|Ref=GEN_1.2
-25	gbogbo	gbogbo	DET	_	_	24	det	_	Gloss=all|Ref=GEN_1.2|SpaceAfter=No
+25	gbogbo	gbogbo	DET	_	PronType=Tot	24	det	_	Gloss=all|Ref=GEN_1.2|SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=GEN_1.2
 
 # sent_id = GEN_1.3
@@ -724,12 +724,12 @@
 7	àti	àti	CCONJ	_	_	8	cc	_	Gloss=and|Ref=GEN_1.25
 8	ẹran	ẹran	NOUN	_	_	4	conj	_	Gloss=animal|Ref=GEN_1.25
 9	ọ̀sìn	ọ̀sìn	NOUN	_	_	8	nmod	_	Gloss=domestic|Ref=GEN_1.25
-10	gbogbo	gbogbo	DET	_	_	8	det	_	Gloss=all|Ref=GEN_1.25
+10	gbogbo	gbogbo	DET	_	PronType=Tot	8	det	_	Gloss=all|Ref=GEN_1.25
 11	ní	ní	ADP	_	_	13	case	_	Gloss=in|Ref=GEN_1.25
 12	irú	irú	ADJ	_	_	13	amod	_	Gloss=such|Ref=GEN_1.25
 13	tirẹ̀	tirẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Gloss=its|Ref=GEN_1.25
 14	àti	àti	CCONJ	_	_	16	cc	_	Gloss=and|Ref=GEN_1.25
-15	gbogbo	gbogbo	DET	_	_	16	det	_	Gloss=all|Ref=GEN_1.25
+15	gbogbo	gbogbo	DET	_	PronType=Tot	16	det	_	Gloss=all|Ref=GEN_1.25
 16	ohun	ohun	NOUN	_	_	4	conj	_	Gloss=things|Ref=GEN_1.25
 17	alààyè	alààyè	NOUN	_	_	16	nmod	_	Gloss=living|Ref=GEN_1.25
 18	tí	tí	PRON	_	PronType=Rel	20	nsubj	_	Gloss=that|Ref=GEN_1.25
@@ -794,12 +794,12 @@
 39	ohun	ohun	NOUN	_	_	32	conj	_	Gloss=things|Ref=GEN_1.26
 40	ọ̀sìn	ọ̀sìn	NOUN	_	_	39	nmod	_	Gloss=cattle|Ref=GEN_1.26|SpaceAfter=No
 41	,	,	PUNCT	_	_	43	punct	_	Gloss=,|Ref=GEN_1.26
-42	gbogbo	gbogbo	DET	_	_	43	det	_	Gloss=all|Ref=GEN_1.26
+42	gbogbo	gbogbo	DET	_	PronType=Tot	43	det	_	Gloss=all|Ref=GEN_1.26
 43	ilẹ̀	ilẹ̀	NOUN	_	_	32	conj	_	Gloss=land|Ref=GEN_1.26
 44	àti	àti	CCONJ	_	_	46	cc	_	Gloss=and|Ref=GEN_1.26
 45	lórí	lórí	ADP	_	_	46	case	_	Gloss=upon|Ref=GEN_1.26
 46	ohun	ohun	NOUN	_	_	32	conj	_	Gloss=things|Ref=GEN_1.26
-47	gbogbo	gbogbo	DET	_	_	46	det	_	Gloss=all|Ref=GEN_1.26
+47	gbogbo	gbogbo	DET	_	PronType=Tot	46	det	_	Gloss=all|Ref=GEN_1.26
 48	tí	tí	PRON	_	PronType=Rel	50	nsubj	_	Gloss=that|Ref=GEN_1.26
 49	ń	ń	AUX	_	_	50	aux	_	Gloss=is|Ref=GEN_1.26
 50	rìn	rìn	VERB	_	_	46	acl	_	Gloss=walk|Ref=GEN_1.26
@@ -1037,7 +1037,7 @@
 2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=JOHN_10.8
 3	ọlọ́sà	ọlọ́sà	NOUN	_	_	1	conj	_	Gloss=robbers|Ref=JOHN_10.8
 4	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=JOHN_10.8
-5	gbogbo	gbogbo	DET	_	_	6	det	_	Gloss=all|Ref=JOHN_10.8
+5	gbogbo	gbogbo	DET	_	PronType=Tot	6	det	_	Gloss=all|Ref=JOHN_10.8
 6	àwọn	àwọn	PRON	_	PronType=Ind	1	nsubj	_	Gloss=the|Ref=JOHN_10.8
 7	tí	tí	PRON	_	PronType=Rel	10	nsubj	_	Gloss=that|Ref=JOHN_10.8
 8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	expl	_	Gloss=they|Ref=JOHN_10.8
@@ -1553,7 +1553,7 @@
 10	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl	_	Gloss=me|Ref=JOHN_10.29
 11	pọ̀	pọ̀	ADJ	_	_	0	root	_	Gloss=more|Ref=JOHN_10.29
 12	ju	ju	VERB	_	_	14	ccomp	_	Gloss=than|Ref=JOHN_10.29
-13	gbogbo	gbogbo	DET	_	_	14	det	_	Gloss=all|Ref=JOHN_10.29
+13	gbogbo	gbogbo	DET	_	PronType=Tot	14	det	_	Gloss=all|Ref=JOHN_10.29
 14	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obl	_	Gloss=them|Ref=JOHN_10.29
 15	lọ	lọ	ADV	_	_	12	compound:svc	_	Gloss=go|Ref=JOHN_10.29|SpaceAfter=No
 16	;	;	PUNCT	_	_	19	punct	_	Gloss=;|Ref=JOHN_10.29
@@ -1838,7 +1838,7 @@
 23	òtítọ́	òtítọ́	NOUN	_	_	17	conj	_	Gloss=truth|Ref=JOHN_10.41
 24	ni	ni	PART	_	_	23	case	_	Gloss=is|Ref=JOHN_10.41
 25	ohun	ohun	NOUN	_	_	23	nsubj	_	Gloss=thing|Ref=JOHN_10.41
-26	gbogbo	gbogbo	DET	_	_	25	det	_	Gloss=all|Ref=JOHN_10.41
+26	gbogbo	gbogbo	DET	_	PronType=Tot	25	det	_	Gloss=all|Ref=JOHN_10.41
 27	tí	tí	PRON	_	PronType=Rel	29	obj	_	Gloss=that|Ref=JOHN_10.41
 28	Jòhánù	Jòhánù	PROPN	_	_	29	nsubj	_	Gloss=john|Ref=JOHN_10.41
 29	sọ	sọ	VERB	_	_	25	acl	_	Gloss=spake|Ref=JOHN_10.41
@@ -2921,7 +2921,7 @@
 11	ti	ti	PRON	_	_	12	nmod	_	Gloss=of|Ref=JOHN_11.42
 12	èmi	èmi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obl	_	Gloss=i|Ref=JOHN_11.42
 13	nígbà	nígbà	ADV	_	_	10	advmod	_	Gloss=when|Ref=JOHN_11.42
-14	gbogbo	gbogbo	DET	_	_	13	fixed	_	Gloss=all|Ref=JOHN_11.42|SpaceAfter=No
+14	gbogbo	gbogbo	DET	_	PronType=Tot	13	fixed	_	Gloss=all|Ref=JOHN_11.42|SpaceAfter=No
 15	:	:	PUNCT	_	_	26	punct	_	Gloss=:|Ref=JOHN_11.42
 16	ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	26	cc	_	Gloss=but|Ref=JOHN_11.42
 17	nítorí	nítorí	SCONJ	_	_	18	case	_	Gloss=for|Ref=JOHN_11.42
@@ -3745,7 +3745,7 @@
 24	Ẹnu	ẹnu	NOUN	_	_	26	nsubj	_	Gloss=mouth|Ref=MARK_5.20
 25	sì	sì	CCONJ	_	_	26	cc	_	Gloss=and|Ref=MARK_5.20
 26	ya	ya	VERB	_	_	20	ccomp	_	Gloss=tear|Ref=MARK_5.20
-27	gbogbo	gbogbo	DET	_	_	28	det	_	Gloss=all|Ref=MARK_5.20
+27	gbogbo	gbogbo	DET	_	PronType=Tot	28	det	_	Gloss=all|Ref=MARK_5.20
 28	ènìyàn	ènìyàn	NOUN	_	_	26	obj	_	Gloss=people|Ref=MARK_5.20|SpaceAfter=No
 29	.	.	PUNCT	_	_	26	punct	_	Gloss=.|Ref=MARK_5.20
 
@@ -3915,7 +3915,7 @@
 17	sì	sì	CCONJ	_	_	21	cc	_	Gloss=and|Ref=MARK_5.26
 18	ti	ti	AUX	_	_	21	aux	_	Gloss=have|Ref=MARK_5.26
 19	ná	ná	VERB	_	_	21	advcl	_	Gloss=spent|Ref=MARK_5.26
-20	gbogbo	gbogbo	DET	_	_	21	det	_	Gloss=all|Ref=MARK_5.26
+20	gbogbo	gbogbo	DET	_	PronType=Tot	21	det	_	Gloss=all|Ref=MARK_5.26
 21	ohun	ohun	NOUN	_	_	13	nmod	_	Gloss=things|Ref=MARK_5.26
 22	tí	tí	PRON	_	PronType=Rel	24	nsubj	_	Gloss=that|Ref=MARK_5.26
 23	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	expl	_	Gloss=he|Ref=MARK_5.26
@@ -4350,7 +4350,7 @@
 8	rí	rí	VERB	_	_	0	root	_	Gloss=saw|Ref=MARK_5.38
 9	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Gloss=it|Ref=MARK_5.38
 10	pé	pé	SCONJ	_	_	14	mark	_	Gloss=that|Ref=MARK_5.38
-11	gbogbo	gbogbo	DET	_	_	12	det	_	Gloss=all|Ref=MARK_5.38
+11	gbogbo	gbogbo	DET	_	PronType=Tot	12	det	_	Gloss=all|Ref=MARK_5.38
 12	nǹkan	nǹkan	NOUN	_	_	14	nsubj	_	Gloss=things|Ref=MARK_5.38
 13	ti	ti	AUX	_	_	14	aux	_	Gloss=have|Ref=MARK_5.38
 14	dàrú	dàrú	VERB	_	_	9	acl	_	Gloss=scattered|Ref=MARK_5.38|SpaceAfter=No
@@ -4430,7 +4430,7 @@
 8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=he|Ref=MARK_5.40
 9	sọ	sọ	VERB	_	_	5	conj	_	Gloss=spake|Ref=MARK_5.40
 10	fún	fún	ADP	_	_	12	case	_	Gloss=unto|Ref=MARK_5.40
-11	gbogbo	gbogbo	DET	_	_	12	det	_	Gloss=all|Ref=MARK_5.40
+11	gbogbo	gbogbo	DET	_	PronType=Tot	12	det	_	Gloss=all|Ref=MARK_5.40
 12	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obl	_	Gloss=them|Ref=MARK_5.40
 13	láti	láti	ADP	_	_	14	case	_	Gloss=to|Ref=MARK_5.40
 14	bọ́	bọ́	VERB	_	_	9	ccomp	_	Gloss=go|Ref=MARK_5.40
@@ -4808,7 +4808,7 @@
 28	èké	èké	NOUN	_	_	27	nmod	_	Gloss=false|Ref=MATT_5.11
 29	sọ̀rọ̀	sọ̀rọ̀	VERB	_	_	30	compound:svc	_	Gloss=speak|Ref=MATT_5.11
 30	búburú	búburú	NOUN	_	_	27	nmod	_	Gloss=evil|Ref=MATT_5.11
-31	gbogbo	gbogbo	DET	_	_	30	det	_	Gloss=all|Ref=MATT_5.11
+31	gbogbo	gbogbo	DET	_	PronType=Tot	30	det	_	Gloss=all|Ref=MATT_5.11
 32	sí	sí	ADP	_	_	33	case	_	Gloss=to|Ref=MATT_5.11
 33	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	27	nmod	_	Gloss=you|Ref=MATT_5.11
 34	nítorí	nítorí	SCONJ	_	_	35	case	_	Gloss=n=because|Ref=MATT_5.11
@@ -4965,7 +4965,7 @@
 29	tan	tan	VERB	_	_	25	conj	_	Gloss=light|Ref=MATT_5.15
 30	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	29	obj	_	Gloss=light|Ref=MATT_5.15
 31	fún	fún	ADP	_	_	32	case	_	Gloss=for|Ref=MATT_5.15
-32	gbogbo	gbogbo	DET	_	_	33	det	_	Gloss=all|Ref=MATT_5.15
+32	gbogbo	gbogbo	DET	_	PronType=Tot	33	det	_	Gloss=all|Ref=MATT_5.15
 33	ẹni	ẹni	PRON	_	PronType=Ind	25	nsubj	_	Gloss=that|Ref=MATT_5.15
 34	tí	tí	PRON	_	PronType=Rel	33	fixed	_	Gloss=that|Ref=MATT_5.15
 35	ń	ń	AUX	_	_	36	aux	_	Gloss=is|Ref=MATT_5.15
@@ -5085,7 +5085,7 @@
 27	parẹ́	parẹ́	VERB	_	_	21	compound:svc	_	Gloss=disappear|Ref=MATT_5.18
 28	kúrò	kúrò	ADP	_	_	31	case	_	Gloss=from|Ref=MATT_5.18
 29	nínú	nínú	ADP	_	_	31	case	_	Gloss=in|Ref=MATT_5.18
-30	gbogbo	gbogbo	DET	_	_	31	det	_	Gloss=all|Ref=MATT_5.18
+30	gbogbo	gbogbo	DET	_	PronType=Tot	31	det	_	Gloss=all|Ref=MATT_5.18
 31	òfin	òfin	NOUN	_	_	27	obl	_	Gloss=law|Ref=MATT_5.18
 32	tó	tó	ADV	_	_	33	advmod	_	Gloss=that|Ref=MATT_5.18
 33	wà	wà	VERB	_	_	31	acl	_	Gloss=was|Ref=MATT_5.18
@@ -5093,7 +5093,7 @@
 35	ìwé	ìwé	NOUN	_	_	36	nmod	_	Gloss=book|Ref=MATT_5.18
 36	ofin	ofin	NOUN	_	_	33	nmod	_	Gloss=laws|Ref=MATT_5.18
 37	títí	títí	ADP	_	_	41	case	_	Gloss=until|Ref=MATT_5.18
-38	gbogbo	gbogbo	DET	_	_	39	det	_	Gloss=all|Ref=MATT_5.18
+38	gbogbo	gbogbo	DET	_	PronType=Tot	39	det	_	Gloss=all|Ref=MATT_5.18
 39	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	Gloss=it|Ref=MATT_5.18
 40	yóò	yóò	AUX	_	_	41	aux	_	Gloss=shall|Ref=MATT_5.18
 41	fi	fi	VERB	_	_	33	conj	_	Gloss=use|Ref=MATT_5.18
@@ -5565,7 +5565,7 @@
 31	kí	kí	SCONJ	_	_	33	mark	_	Gloss=let|Ref=MATT_5.29
 32	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	33	expl	_	Gloss=we|Ref=MATT_5.29
 33	gbé	gbé	VERB	_	_	22	conj	_	Gloss=carry|Ref=MATT_5.29
-34	gbogbo	gbogbo	DET	_	_	35	det	_	Gloss=all|Ref=MATT_5.29
+34	gbogbo	gbogbo	DET	_	PronType=Tot	35	det	_	Gloss=all|Ref=MATT_5.29
 35	ara	ara	NOUN	_	_	33	obj	_	Gloss=body|Ref=MATT_5.29
 36	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	35	nmod	_	Gloss=thy|Ref=MATT_5.29
 37	jù	jù	VERB	_	_	33	compound:svc	_	Gloss=cast|Ref=MATT_5.29
@@ -5607,7 +5607,7 @@
 27	ṣègbé	ṣègbé	VERB	_	_	21	ccomp	_	Gloss=perish|Ref=MATT_5.30
 28	ju	ju	VERB	_	_	27	compound:svc	_	Gloss=than|Ref=MATT_5.30
 29	kí	kí	SCONJ	_	_	28	mark	_	Gloss=let|Ref=MATT_5.30
-30	gbogbo	gbogbo	DET	_	_	31	det	_	Gloss=all|Ref=MATT_5.30
+30	gbogbo	gbogbo	DET	_	PronType=Tot	31	det	_	Gloss=all|Ref=MATT_5.30
 31	ara	ara	NOUN	_	_	33	nsubj	_	Gloss=body|Ref=MATT_5.30
 32	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	31	nmod	_	Gloss=your|Ref=MATT_5.30
 33	lọ	lọ	VERB	_	_	27	ccomp	_	Gloss=pass|Ref=MATT_5.30
@@ -6389,7 +6389,7 @@
 8	fún	fún	ADP	_	_	9	case	_	Gloss=unto|Ref=PS_134.1
 9	Olúwa	Olúwa	PROPN	_	_	6	obl	_	Gloss=lord|Ref=PS_134.1
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=PS_134.1
-11	gbogbo	gbogbo	DET	_	_	12	det	_	Gloss=all|Ref=PS_134.1
+11	gbogbo	gbogbo	DET	_	PronType=Tot	12	det	_	Gloss=all|Ref=PS_134.1
 12	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	14	nsubj	_	Gloss=you|Ref=PS_134.1
 13	ìránṣẹ́	ìránṣẹ́	NOUN	_	_	14	obj	_	Gloss=servant|Ref=PS_134.1
 14	Olúwa	Olúwa	PROPN	_	_	6	nmod	_	Gloss=lord|Ref=PS_134.1
