@@ -564,7 +564,7 @@
 # sent_id = GEN_1.21
 # text = Nítorí náà Ọlọ́run dá àwọn ẹ̀dá alààyè ńlá-ńlá sí inú òkun, àwọn ohun ẹlẹ́mìí àti àwọn ohun tí ń rìn ní onírúurú tiwọn, àti àwọn ẹyẹ abìyẹ́ ní onírúurú tiwọn. Ọlọ́run sì rí i pé ó dára.
 # text_en = And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
-1	Nítorí	nítorí	SCONJ	_	_	4	mark	_	Gloss=for|Ref=GEN_1.21
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	4	mark	_	Gloss=for|Ref=GEN_1.21
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=GEN_1.21
 3	Ọlọ́run	ọlọ́run	NOUN	_	_	4	nsubj	_	Gloss=god|Ref=GEN_1.21
 4	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.21
@@ -936,7 +936,7 @@
 23	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	22	obl	_	Gloss=him|Ref=JOHN_10.4
 24	lẹ́yìn	lẹ́yìn	ADP	_	_	23	case	_	Gloss=after|Ref=JOHN_10.4|SpaceAfter=No
 25	:	:	PUNCT	_	_	29	punct	_	Gloss=:|Ref=JOHN_10.4
-26	nítorí	nítorí	SCONJ	_	_	29	mark	_	Gloss=for|Ref=JOHN_10.4
+26	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	29	mark	_	Gloss=for|Ref=JOHN_10.4
 27	tí	tí	PRON	_	PronType=Rel	26	fixed	_	Gloss=that|Ref=JOHN_10.4
 28	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	Gloss=they|Ref=JOHN_10.4
 29	mọ	mọ	VERB	_	_	22	advcl	_	Gloss=know|Ref=JOHN_10.4
@@ -962,7 +962,7 @@
 13	lọ́dọ̀	lọ́dọ̀	ADP	_	_	14	case	_	Gloss=with|Ref=JOHN_10.5
 14	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	obl	_	Gloss=his|Ref=JOHN_10.5|SpaceAfter=No
 15	:	:	PUNCT	_	_	20	punct	_	Gloss=:|Ref=JOHN_10.5
-16	nítorí	nítorí	SCONJ	_	_	20	mark	_	Gloss=for|Ref=JOHN_10.5
+16	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	20	mark	_	Gloss=for|Ref=JOHN_10.5
 17	tí	tí	PRON	_	PronType=Rel	16	fixed	_	Gloss=that|Ref=JOHN_10.5
 18	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	Gloss=them|Ref=JOHN_10.5
 19	kò	kò	PART	_	_	20	advmod	_	Gloss=not|Ref=JOHN_10.5
@@ -1004,7 +1004,7 @@
 # sent_id = JOHN_10.7
 # text = Nítorí náà Jésù tún wí fún wọn pé, “Lóòótọ́, lóòótọ́ ni mo wí fún yín, Èmi ni ìlẹ̀kùn àwọn àgùntàn.
 # text_en = Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.7
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_10.7
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=the|Ref=JOHN_10.7
 3	Jésù	Jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=JOHN_10.7
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.7
@@ -1195,7 +1195,7 @@
 1	Òun	Òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=JOHN_10.13
 2	sá	sá	VERB	_	_	0	root	_	Gloss=fled|Ref=JOHN_10.13
 3	lọ	lọ	VERB	_	_	2	compound:svc	_	Gloss=go|Ref=JOHN_10.13
-4	nítorí	nítorí	SCONJ	_	_	8	mark	_	Gloss=because|Ref=JOHN_10.13
+4	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	8	mark	_	Gloss=because|Ref=JOHN_10.13
 5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	Gloss=that|Ref=JOHN_10.13
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he|Ref=JOHN_10.13
 7	jẹ́	jẹ́	AUX	_	_	8	cop	_	Gloss=be|Ref=JOHN_10.13
@@ -1255,7 +1255,7 @@
 # sent_id = JOHN_10.17
 # text = Nítorí náà ni Baba mi ṣe fẹ́ràn mi, nítorí tí mo fi ẹ̀mí mi lélẹ̀, kí èmi lè tún gbà á.
 # text_en = Therefore doth my Father love me, because I lay down my life, that I might take it again.
-1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=JOHN_10.17
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=JOHN_10.17
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_10.17
 3	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=JOHN_10.17
 4	Baba	Baba	NOUN	_	_	6	nsubj	_	Gloss=father|Ref=JOHN_10.17
@@ -1264,7 +1264,7 @@
 7	fẹ́ràn	fẹ́ràn	VERB	_	_	6	compound:svc	_	Gloss=love|Ref=JOHN_10.17
 8	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	Gloss=me|Ref=JOHN_10.17|SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_10.17
-10	nítorí	nítorí	SCONJ	_	_	13	mark	_	Gloss=for|Ref=JOHN_10.17
+10	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	13	mark	_	Gloss=for|Ref=JOHN_10.17
 11	tí	tí	PRON	_	PronType=Rel	10	fixed	_	Gloss=that|Ref=JOHN_10.17
 12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Gloss=i|Ref=JOHN_10.17
 13	fi	fi	VERB	_	_	6	advcl	_	Gloss=gave|Ref=JOHN_10.17
@@ -1321,7 +1321,7 @@
 # sent_id = JOHN_10.19
 # text = Nítorí náà ìyapa tún wà láàrin àwọn Júù nítorí ọ̀rọ̀ wọ̀nyí.
 # text_en = There was a division therefore again among the Jews for these sayings.
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.19
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_10.19
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=that|Ref=JOHN_10.19
 3	ìyapa	ìyapa	NOUN	_	_	5	nsubj	_	Gloss=separation|Ref=JOHN_10.19
 4	tún	tún	ADV	_	_	5	advmod	_	Gloss=again|Ref=JOHN_10.19
@@ -1430,7 +1430,7 @@
 # sent_id = JOHN_10.24
 # text = Nítorí náà àwọn Júù wá dúró yí i ká, wọ́n sì wí fún un pé, “Ìwọ ó ti mú wa ṣe iyèméjì pẹ́ tó? Bí ìwọ bá ni Kírísítì náà, wí fún wa gbangba.”
 # text_en = Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_10.24
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_10.24
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_10.24
 3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_10.24
 4	Júù	júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_10.24
@@ -1935,7 +1935,7 @@
 # sent_id = JOHN_11.3
 # text = Nítorí náà, àwọn arákùnrin rẹ̀ ránsẹ́ sí i, wí pé, “Olúwa, wò ó, ara ẹni tí ìwọ fẹ́ràn kò dá.”
 # text_en = Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.
-1	Nítorí	Nítorí	SCONJ	_	_	7	mark	_	Gloss=for|Ref=JOHN_11.3
+1	Nítorí	Nítorí	SCONJ	_	ExtPos=SCONJ	7	mark	_	Gloss=for|Ref=JOHN_11.3
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=the|Ref=JOHN_11.3|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=JOHN_11.3
 4	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	5	det	_	Gloss=the|Ref=JOHN_11.3
@@ -2016,7 +2016,7 @@
 9	yóò	yóò	AUX	_	_	10	aux	_	Gloss=shall|Ref=JOHN_11.10
 10	kọsẹ̀	kọsẹ̀	VERB	_	_	0	root	_	Gloss=stumble|Ref=JOHN_11.10|SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=JOHN_11.10
-12	nítorí	nítorí	SCONJ	_	_	15	mark	_	Gloss=for|Ref=JOHN_11.10
+12	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	15	mark	_	Gloss=for|Ref=JOHN_11.10
 13	tí	tí	PRON	_	PronType=Rel	12	fixed	_	Gloss=that|Ref=JOHN_11.10
 14	kò	kò	PART	_	_	15	advmod	_	Gloss=not|Ref=JOHN_11.10
 15	sí	sí	VERB	_	_	10	advcl	_	Gloss=is|Ref=JOHN_11.10
@@ -2072,7 +2072,7 @@
 # sent_id = JOHN_11.12
 # text = Nítorí náà àwọn ọmọ-ẹ̀yìn rẹ̀ wí fún un pé, “Olúwa, bí ó bá se pé ó sùn, yóò sàn.”
 # text_en = Then said his disciples, Lord, if he sleep, he shall do well.
-1	Nítorí	Nítorí	SCONJ	_	_	8	mark	_	Gloss=for|Ref=JOHN_11.12
+1	Nítorí	Nítorí	SCONJ	_	ExtPos=SCONJ	8	mark	_	Gloss=for|Ref=JOHN_11.12
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_11.12
 3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=his|Ref=JOHN_11.12
 4	ọmọ	ọmọ	NOUN	_	_	8	nsubj	_	Gloss=child|Ref=JOHN_11.12|SpaceAfter=No
@@ -2175,7 +2175,7 @@
 # text = “Nítorí náà Tómásì, ẹni tí à ń pè ní Dídímù, wí fún àwọn ọmọ-ẹ̀yìn ẹgbẹ́ rẹ̀ pé, Ẹ jẹ́ kí àwa náà lọ, kí a lè bá a kú pẹ̀lú.”
 # text_en = Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.
 1	“	“	PUNCT	_	_	14	punct	_	Gloss=“|Ref=JOHN_11.16|SpaceAfter=No
-2	Nítorí	nítorí	SCONJ	_	_	14	mark	_	Gloss=for|Ref=JOHN_11.16
+2	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	14	mark	_	Gloss=for|Ref=JOHN_11.16
 3	náà	náà	PRON	_	PronType=Dem	2	fixed	_	Gloss=that|Ref=JOHN_11.16
 4	Tómásì	tómásì	PROPN	_	_	14	nsubj	_	Gloss=thomas|Ref=JOHN_11.16|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=JOHN_11.16
@@ -2217,7 +2217,7 @@
 # sent_id = JOHN_11.17
 # text = Nítorí náà nígbà tí Jésù dé, ó rí i pé a ti tẹ́ ẹ sínú ibojì ní ijọ́ mẹ́rin ná,
 # text_en = Then when Jesus came, he found that he had lain in the grave four days already.
-1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=JOHN_11.17
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=JOHN_11.17
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_11.17
 3	nígbà	nígbà	ADV	_	_	6	advmod	_	Gloss=when|Ref=JOHN_11.17
 4	tí	tí	PRON	_	PronType=Rel	3	fixed	_	Gloss=|Ref=JOHN_11.17
@@ -2278,7 +2278,7 @@
 # sent_id = JOHN_11.20
 # text = Nítorí náà, nígbà tí Mátà gbọ́ pé Jésù ń bọ̀ wá, ó jáde lọ pàdé rẹ̀: ṣùgbọ́n Màríà jòkó nínú ilé.
 # text_en = Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.
-1	Nítorí	nítorí	SCONJ	_	_	15	mark	_	Gloss=for|Ref=JOHN_11.20
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	15	mark	_	Gloss=for|Ref=JOHN_11.20
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_11.20|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,|Ref=JOHN_11.20
 4	nígbà	nígbà	ADV	_	_	7	advmod	_	Gloss=when|Ref=JOHN_11.20
@@ -2691,7 +2691,7 @@
 # sent_id = JOHN_11.36
 # text = Nítorí náà àwọn Júù wí pé, “Sá wò ó bí ó ti fẹ́ràn rẹ̀ tó!”
 # text_en = Then said the Jews, Behold how he loved him!
-1	Nítorí	nítorí	SCONJ	_	_	5	mark	_	Gloss=for|Ref=JOHN_11.36
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	5	mark	_	Gloss=for|Ref=JOHN_11.36
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_11.36
 3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=JOHN_11.36
 4	Júù	júù	PROPN	_	_	5	nsubj	_	Gloss=jews|Ref=JOHN_11.36
@@ -2815,7 +2815,7 @@
 33	nísinsin	nísinsin	ADV	_	_	32	advmod	_	Gloss=now|Ref=JOHN_11.39
 34	yìí	yìí	DET	_	PronType=Dem	33	det	_	Gloss=this|Ref=JOHN_11.39|SpaceAfter=No
 35	:	:	PUNCT	_	_	39	punct	_	Gloss=:|Ref=JOHN_11.39
-36	nítorí	nítorí	SCONJ	_	_	39	mark	_	Gloss=because|Ref=JOHN_11.39
+36	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	39	mark	_	Gloss=because|Ref=JOHN_11.39
 37	pé	pé	SCONJ	_	_	36	fixed	_	Gloss=|Ref=JOHN_11.39
 38	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	39	nsubj	_	Gloss=it|Ref=JOHN_11.39
 39	di	di	VERB	_	_	32	advcl	_	Gloss=be|Ref=JOHN_11.39
@@ -2898,7 +2898,7 @@
 34	dúpẹ́	dúpẹ́	VERB	_	_	27	ccomp	_	Gloss=thank|Ref=JOHN_11.41
 35	lọ́wọ́	lọ́wọ́	ADP	_	_	36	case	_	Gloss=from|Ref=JOHN_11.41
 36	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	34	obl	_	Gloss=thy|Ref=JOHN_11.41
-37	nítorí	nítorí	SCONJ	_	_	40	mark	_	Gloss=for|Ref=JOHN_11.41
+37	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	40	mark	_	Gloss=for|Ref=JOHN_11.41
 38	tí	tí	PRON	_	PronType=Rel	37	fixed	_	Gloss=that|Ref=JOHN_11.41
 39	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	40	nsubj	_	Gloss=thou|Ref=JOHN_11.41
 40	gbọ́	gbọ́	VERB	_	_	34	advcl	_	Gloss=heard|Ref=JOHN_11.41
@@ -3029,7 +3029,7 @@
 # sent_id = JOHN_11.45
 # text = Nítorí náà ni ọ̀pọ̀ àwọn Júù tí ó wá sọ́dọ̀ Màríà, tí wọ́n rí ohun tí Jésù ṣe, ṣe gbà á gbọ́.
 # text_en = Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.
-1	Nítorí	nítorí	SCONJ	_	_	21	mark	_	Gloss=for|Ref=JOHN_11.45
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	21	mark	_	Gloss=for|Ref=JOHN_11.45
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=JOHN_11.45
 3	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=JOHN_11.45
 4	ọ̀pọ̀	ọ̀pọ̀	ADJ	_	_	6	amod	_	Gloss=many|Ref=JOHN_11.45
@@ -3158,7 +3158,7 @@
 # sent_id = MARK_5.4
 # text = Nítorí pé nígbà púpọ̀ ni wọn ti ń fi ṣẹ́kẹ́sẹkẹ̀ dè é lọ́wọ́ àti ẹṣẹ̀, tí ó sì ń já a dànù kúrò ni ẹṣẹ rẹ. Kò sí ẹnìkan tí ó ní agbára láti káwọ́ rẹ̀.
 # text_en = Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him.
-1	Nítorí	Nítorí	SCONJ	_	_	9	mark	_	Gloss=for|Ref=MARK_5.4
+1	Nítorí	Nítorí	SCONJ	_	ExtPos=SCONJ	9	mark	_	Gloss=for|Ref=MARK_5.4
 2	pé	pé	SCONJ	_	_	1	fixed	_	Gloss=saying|Ref=MARK_5.4
 3	nígbà	nígbà	ADV	_	_	9	advmod	_	Gloss=when|Ref=MARK_5.4
 4	púpọ̀	púpọ̀	ADJ	_	_	3	fixed	_	Gloss=many|Ref=MARK_5.4
@@ -3299,7 +3299,7 @@
 # sent_id = MARK_5.8
 # text = Nítorí tí Ó wí fún un pé, “Jáde kúrò lára ọkùnrin náà, ìwọ ẹ̀mí àìmọ́!”
 # text_en = For he said unto him, Come out of the man, thou unclean spirit.
-1	Nítorí	nítorí	SCONJ	_	_	4	mark	_	Gloss=for|Ref=MARK_5.8
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	4	mark	_	Gloss=for|Ref=MARK_5.8
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.8
 3	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|Ref=MARK_5.8
 4	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MARK_5.8
@@ -3719,7 +3719,7 @@
 # sent_id = MARK_5.20
 # text = Nítorí naà, ọkùnrin yìí padà lọ, ó bẹ̀rẹ̀ sí ròyìn ní Dekapolisi nípa ohun ńlá tí Jésù ṣe fún un. Ẹnu sì ya gbogbo ènìyàn.
 # text_en = And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.
-1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=MARK_5.20
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=MARK_5.20
 2	naà	naà	PRON	_	_	1	fixed	_	Gloss=the|Ref=MARK_5.20|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MARK_5.20
 4	ọkùnrin	ọkùnrin	NOUN	_	_	6	nsubj	_	Gloss=man|Ref=MARK_5.20
@@ -3976,7 +3976,7 @@
 # sent_id = MARK_5.28
 # text = Nítorí ti ó rò ní ọkàn rẹ̀ pé, “Bí mo bá ṣá à lè fi ọwọ́ kan aṣọ rẹ̀, ara mi yóò dá.”
 # text_en = For she said, If I may touch but his clothes, I shall be whole.
-1	Nítorí	Nítorí	SCONJ	_	_	4	mark	_	Gloss=because|Ref=MARK_5.28
+1	Nítorí	Nítorí	SCONJ	_	ExtPos=SCONJ	4	mark	_	Gloss=because|Ref=MARK_5.28
 2	ti	tí	PRON	_	PronType=Rel|Typo=Yes	1	fixed	_	Gloss=|Ref=MARK_5.28
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=she|Ref=MARK_5.28
 4	rò	rò	VERB	_	_	0	root	_	Gloss=think|Ref=MARK_5.28
@@ -4763,7 +4763,7 @@
 10	inúnibíni	inúnibíni	NOUN	_	_	6	nmod	_	Gloss=persecuted|Ref=MATT_5.10
 11	sí	sí	ADP	_	_	10	case	_	Gloss=to|Ref=MATT_5.10|SpaceAfter=No
 12	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=MATT_5.10
-13	nítorí	nítorí	SCONJ	_	_	17	mark	_	Gloss=for|Ref=MATT_5.10
+13	nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	17	mark	_	Gloss=for|Ref=MATT_5.10
 14	tí	tí	PRON	_	PronType=Rel	13	fixed	_	Gloss=that|Ref=MATT_5.10
 15	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	Gloss=they|Ref=MATT_5.10
 16	jẹ́	jẹ́	AUX	_	_	17	cop	_	Gloss=be|Ref=MATT_5.10
@@ -5310,7 +5310,7 @@
 # text = “Nítorí náà, nígbà tí ìwọ bá ń mú ẹ̀bùn rẹ wá ṣíwájú pẹpẹ, bí ìwọ bá sì rántí níbẹ̀ pé arákùnrin rẹ̀ ni ohùn kan nínú sí ọ.
 # text_en = Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 1	“	“	PUNCT	_	_	10	punct	_	Gloss=“|Ref=MATT_5.23|SpaceAfter=No
-2	Nítorí	nítorí	SCONJ	_	_	10	mark	_	Gloss=for|Ref=MATT_5.23
+2	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	10	mark	_	Gloss=for|Ref=MATT_5.23
 3	náà	náà	PRON	_	PronType=Dem	2	fixed	_	Gloss=that|Ref=MATT_5.23|SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	Gloss=,|Ref=MATT_5.23
 5	nígbà	nígbà	ADV	_	_	10	advmod	_	Gloss=when|Ref=MATT_5.23
@@ -6168,7 +6168,7 @@
 # sent_id = MATT_5.48
 # text = Nítorí náà, ẹ jẹ́ pípé, gẹ́gẹ́ bí Baba yín tí ń bẹ ní ọ̀run ṣe jẹ́ pípé.
 # text_en = Be ye therefore perfect, even as your Father which is in heaven is perfect.
-1	Nítorí	nítorí	SCONJ	_	_	6	mark	_	Gloss=for|Ref=MATT_5.48
+1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=MATT_5.48
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=MATT_5.48|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MATT_5.48
 4	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	Gloss=ye|Ref=MATT_5.48
@@ -6995,7 +6995,7 @@
 27	máa	máa	AUX	_	_	28	aux	_	_
 28	wọ̀	wọ̀	VERB	_	_	24	advcl	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	35	punct	_	_
-30	léyí	léyí	SCONJ	_	_	35	mark	_	_
+30	léyí	léyí	SCONJ	_	ExtPos=SCONJ	35	mark	_	_
 31	tí	tí	PRON	_	PronType=Rel	30	fixed	_	_
 32	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	35	nsubj	_	_
 33	jẹ́	jẹ́	AUX	_	_	35	cop	_	_
@@ -8315,7 +8315,7 @@
 # newpar
 # sent_id = wiki0060
 # text = Lẹ́yìn tí ó parí èyí ni ó lọ kẹ́kọ̀ọ́ nípa ìbára ẹni sọọ̀rọ̀ ní ilé ẹ̀kọ́ gbogbo-nìṣe tí Moshood Abíọ́lá Òjéèrè ìpínlẹ̀ Ògùn.
-1	Lẹ́yìn	lẹ́yìn	ADP	_	_	4	mark	_	_
+1	Lẹ́yìn	lẹ́yìn	ADP	_	ExtPos=SCONJ	4	mark	_	_
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	_
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	parí	parí	VERB	_	_	0	root	_	_
@@ -8785,7 +8785,7 @@
 # text = Tí ẹ bá fẹ́ ẹ lè lọ sí ojúewé ọ̀rọ̀ rẹ̀ láti fọ̀rọ̀wérọ̀ nípa wọn tàbí dámọ̀ràn ìpínu ọ̀nà ìṣiṣẹ́ míràn.
 1	Tí	tí	SCONJ	_	_	7	mark	_	_
 2	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
-3	bá	bá	SCONJ	_	_	7	mark	_	_
+3	bá	bá	SCONJ	_	ExtPos=SCONJ	7	mark	_	_
 4	fẹ́	fẹ́	VERB	_	_	3	fixed	_	_
 5	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	expl	_	_
 6	lè	lè	AUX	_	_	7	aux	_	_
@@ -8868,7 +8868,7 @@
 # newpar
 # sent_id = wiki0087
 # text = Bó tilẹ jẹ́ pé ọ̀pọ̀ àwọn àyọkà ni wọ́n le jẹ́ títúnṣe látọwọ́ olúkúlùkù, àbò díẹ̀ pọndandan ní gbà míi láti dínà ìbàjẹ́ sí àwọn ojúewé tó gbajúmọ̀.
-1	Bó	bó	SCONJ	_	_	12	mark	_	_
+1	Bó	bó	SCONJ	_	ExtPos=SCONJ	12	mark	_	_
 2	tilẹ	tilẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	fixed	_	_
 3	jẹ́	jẹ́	AUX	_	_	1	fixed	_	_
 4	pé	pé	SCONJ	_	_	1	fixed	_	_
