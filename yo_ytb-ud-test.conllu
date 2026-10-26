@@ -1378,7 +1378,7 @@
 8	kìí	kìí	PART	_	_	9	mark	_	Gloss=was|Ref=JOHN_10.21
 9	ṣe	ṣe	VERB	_	_	3	ccomp	_	Gloss=do|Ref=JOHN_10.21
 10	ọ̀rọ̀	ọ̀rọ̀	NOUN	_	_	9	xcomp	_	Gloss=word|Ref=JOHN_10.21
-11	ẹni	ẹni	PRON	_	PronType=Ind	10	nmod	_	Gloss=someone|Ref=JOHN_10.21
+11	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	10	nmod	_	Gloss=someone|Ref=JOHN_10.21
 12	tí	tí	PRON	_	PronType=Rel	11	fixed	_	Gloss=that|Ref=JOHN_10.21
 13	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	expl	_	Gloss=he|Ref=JOHN_10.21
 14	ní	ní	VERB	_	_	11	acl	_	Gloss=have|Ref=JOHN_10.21
@@ -1925,7 +1925,7 @@
 29	ṣe	ṣe	VERB	_	_	17	xcomp	_	Gloss=be|Ref=JOHN_11.2|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=,|Ref=JOHN_11.2
 31	ara	ara	PRON	_	PronType=Emp	27	appos	_	Gloss=body|Ref=JOHN_11.2
-32	ẹni	ẹni	PRON	_	PronType=Ind	31	nmod	_	Gloss=someone|Ref=JOHN_11.2
+32	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	31	nmod	_	Gloss=someone|Ref=JOHN_11.2
 33	tí	tí	PRON	_	PronType=Rel	32	fixed	_	Gloss=that|Ref=JOHN_11.2
 34	kò	kò	PART	_	_	35	advmod	_	Gloss=not|Ref=JOHN_11.2
 35	dá	dá	ADJ	_	_	32	acl	_	Gloss=healthy|Ref=JOHN_11.2|SpaceAfter=No
@@ -1955,7 +1955,7 @@
 18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=he|Ref=JOHN_11.3|SpaceAfter=No
 19	,	,	PUNCT	_	_	26	punct	_	Gloss=,|Ref=JOHN_11.3
 20	ara	ara	PRON	_	PronType=Emp	26	nsubj	_	Gloss=body|Ref=JOHN_11.3
-21	ẹni	ẹni	PRON	_	PronType=Ind	20	nmod	_	Gloss=someone|Ref=JOHN_11.3
+21	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	20	nmod	_	Gloss=someone|Ref=JOHN_11.3
 22	tí	tí	PRON	_	PronType=Rel	21	fixed	_	Gloss=that|Ref=JOHN_11.3
 23	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	_	Gloss=thou|Ref=JOHN_11.3
 24	fẹ́ràn	fẹ́ràn	VERB	_	_	21	acl	_	Gloss=love|Ref=JOHN_11.3
@@ -2795,7 +2795,7 @@
 13	Màtá	màtá	PROPN	_	_	21	nsubj	_	Gloss=martha|Ref=JOHN_11.39|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=JOHN_11.39
 15	arábìnrin	arábìnrin	NOUN	_	_	13	appos	_	Gloss=sister|Ref=JOHN_11.39
-16	ẹni	ẹni	PRON	_	PronType=Ind	15	nmod	_	Gloss=someone|Ref=JOHN_11.39
+16	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	15	nmod	_	Gloss=someone|Ref=JOHN_11.39
 17	tí	tí	PRON	_	PronType=Rel	16	fixed	_	Gloss=that|Ref=JOHN_11.39
 18	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	expl	_	Gloss=he|Ref=JOHN_11.39
 19	kú	kú	VERB	_	_	16	acl	_	Gloss=die|Ref=JOHN_11.39
