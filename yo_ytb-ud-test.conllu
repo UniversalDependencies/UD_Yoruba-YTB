@@ -8629,7 +8629,7 @@
 5	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do
 6	àlàyé	àlàyé	NOUN	_	_	5	obj	_	Gloss=explanation
 7	ọ̀nàn	ọ̀nàn	NOUN	_	_	6	nmod	_	Gloss=method
-8	tí	tí	PRON	_	PronType=Rel	13	obl	_	Gloss=that
+8	tí	tí	PRON	_	PronType=Rel	13	nmod	_	Gloss=that
 9	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	Gloss=we
 10	yàn	yàn	VERB	_	_	7	acl	_	Gloss=choose
 11	lááyò	lááyò	NOUN	_	_	10	obl	_	Gloss=choice
@@ -8822,7 +8822,7 @@
 3	yìí	yìí	DET	_	PronType=Dem	2	det	_	Gloss=this
 4	látọwọ́	látọwọ́	VERB	_	_	0	root	_	Gloss=by
 5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Gloss=the
-6	oníṣe	oníṣe	NOUN	_	_	8	nsubj	_	Gloss=user
+6	oníṣe	oníṣe	NOUN	_	_	4	obl	_	Gloss=user
 7	tuntun	tuntun	ADJ	_	_	6	amod	_	Gloss=new
 8	tàbí	tàbí	CCONJ	_	_	10	cc	_	Gloss=or
 9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Gloss=the
