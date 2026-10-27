@@ -44,18 +44,18 @@
     <feat name="ExtPos" value="DET" upos="DET">3</feat><!-- náà, Àwọn -->
     <feat name="ExtPos" value="PRON" upos="PRON">29</feat><!-- ẹni, ẹnì, èéṣe -->
     <feat name="ExtPos" value="SCONJ" upos="ADP,SCONJ">30</feat><!-- nítorí, Bó, Lẹ́yìn, bá, léyí -->
-    <feat name="Number" value="Plur" upos="AUX,DET,PRON,PROPN">471</feat><!-- àwọn, wọn, ẹ, a, wọ́n, yín, ẹ̀yin, wa, tiwọn, àwa -->
+    <feat name="Number" value="Plur" upos="AUX,DET,PRON,PROPN">479</feat><!-- àwọn, wọn, wọ́n, ẹ, a, yín, ẹ̀yin, wa, tiwọn, àwa -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">672</feat><!-- ó, rẹ̀, ìwọ, mi, èmi, rẹ, un, i, mo, òun -->
     <feat name="NumType" value="Card" upos="ADP,NUM">78</feat><!-- kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520 -->
     <feat name="NumType" value="Ord" upos="ADJ">8</feat><!-- kẹrin, Benin, kejì, kárùn-ún, kìn-ín-ní, lóbìnrin, ún -->
     <feat name="Person" value="1" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">191</feat><!-- a, mi, èmi, mo, mí, wa, bíi, àwa, Nnaji, gidi -->
     <feat name="Person" value="2" upos="PRON">218</feat><!-- ẹ, yín, ìwọ, rẹ, ẹ̀yin, ọ, ọ́, alàtúnkọ, jọ, mọ -->
-    <feat name="Person" value="3" upos="AUX,PRON">607</feat><!-- ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á -->
+    <feat name="Person" value="3" upos="AUX,PRON">615</feat><!-- ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á -->
     <feat name="PronType" value="Dem" upos="DET,PRON">249</feat><!-- àwọn, náà, yìí, èyí, wọ̀nyí -->
     <feat name="PronType" value="Emp" upos="PRON">15</feat><!-- ara -->
     <feat name="PronType" value="Ind" upos="ADV,CCONJ,DET,PRON">61</feat><!-- ẹni, ẹnikẹ́ni, o, àwọn, ẹnì, Ibi, nìkan, pọn, Àti, àworan -->
     <feat name="PronType" value="Int" upos="PRON">8</feat><!-- kí, Ta, kín, èwo, èéṣe -->
-    <feat name="PronType" value="Prs" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">1016</feat><!-- ó, rẹ̀, wọn, ẹ, a, wọ́n, yín, ìwọ, mi, èmi -->
+    <feat name="PronType" value="Prs" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">1024</feat><!-- ó, rẹ̀, wọn, ẹ, a, wọ́n, yín, ìwọ, mi, èmi -->
     <feat name="PronType" value="Rel" upos="PRON">239</feat><!-- tí, ti, ohunkóhun, bi -->
     <feat name="PronType" value="Tot" upos="DET">35</feat><!-- gbogbo -->
     <feat name="Typo" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,PART,PRON,PROPN,SCONJ,VERB">36</feat><!-- má, ní, rẹ, si, sí, ti, tí, Bétanì, ayọ, ba -->

@@ -2665,7 +2665,7 @@
 13	sí	sí	ADP	_	_	7	case	_	Gloss=to|Ref=JOHN_11.34|SpaceAfter=No
 14	?	?	PUNCT	_	_	10	punct	_	Gloss=?|Ref=JOHN_11.34|SpaceAfter=No
 15	”	”	PUNCT	_	_	10	punct	_	Gloss=”|Ref=JOHN_11.34
-16	Wọ́n	Wọ́n	PRON	_	_	18	nsubj	_	Gloss=they|Ref=JOHN_11.34
+16	Wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	18	nsubj	_	Gloss=they|Ref=JOHN_11.34
 17	sì	sì	CCONJ	_	_	18	cc	_	Gloss=then|Ref=JOHN_11.34
 18	wí	wí	VERB	_	_	3	parataxis	_	Gloss=said|Ref=JOHN_11.34
 19	fún	fún	ADP	_	_	20	case	_	Gloss=unto|Ref=JOHN_11.34
@@ -3042,7 +3042,7 @@
 11	Màríà	màríà	PROPN	_	_	9	obl	_	Gloss=mary|Ref=JOHN_11.45|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=,|Ref=JOHN_11.45
 13	tí	tí	PRON	_	PronType=Rel	15	nsubj	_	Gloss=that|Ref=JOHN_11.45
-14	wọ́n	wọ́n	PRON	_	_	15	expl	_	Gloss=they|Ref=JOHN_11.45
+14	wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	15	expl	_	Gloss=they|Ref=JOHN_11.45
 15	rí	rí	VERB	_	_	9	conj	_	Gloss=saw|Ref=JOHN_11.45
 16	ohun	ohun	NOUN	_	_	15	obj	_	Gloss=thing|Ref=JOHN_11.45
 17	tí	tí	PRON	_	PronType=Rel	19	obj	_	Gloss=that|Ref=JOHN_11.45
@@ -3068,7 +3068,7 @@
 8	Farisí	farisí	PROPN	_	_	6	obj	_	Gloss=pharisees|Ref=JOHN_11.46
 9	lọ	lọ	VERB	_	_	6	compound:svc	_	Gloss=go|Ref=JOHN_11.46|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_11.46
-11	wọ́n	wọ́n	PRON	_	_	13	nsubj	_	Gloss=they|Ref=JOHN_11.46
+11	wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	13	nsubj	_	Gloss=they|Ref=JOHN_11.46
 12	sì	sì	CCONJ	_	_	13	cc	_	Gloss=then|Ref=JOHN_11.46
 13	sọ	sọ	VERB	_	_	6	conj	_	Gloss=spake|Ref=JOHN_11.46
 14	fún	fún	ADP	_	_	15	case	_	Gloss=unto|Ref=JOHN_11.46
@@ -3539,7 +3539,7 @@
 5	sọ́dọ̀	sọ́dọ̀	ADP	_	_	6	case	_	Gloss=unto|Ref=MARK_5.15
 6	Jésù	Jésù	PROPN	_	_	4	obl	_	Gloss=jesus|Ref=MARK_5.15|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=MARK_5.15
-8	wọ́n	wọ́n	PRON	_	_	9	nsubj	_	Gloss=they|Ref=MARK_5.15
+8	wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	9	nsubj	_	Gloss=they|Ref=MARK_5.15
 9	rí	rí	VERB	_	_	4	conj	_	Gloss=saw|Ref=MARK_5.15
 10	ọkùnrin	ọkùnrin	NOUN	_	_	9	obj	_	Gloss=man|Ref=MARK_5.15
 11	náà	náà	DET	_	PronType=Dem	10	det	_	Gloss=the|Ref=MARK_5.15|SpaceAfter=No
@@ -6926,7 +6926,7 @@
 35	yàtọ̀	yàtọ̀	ADV	_	_	34	advmod	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	40	punct	_	_
 37	tí	tí	PRON	_	PronType=Rel	40	nsubj	_	_
-38	wọ́n	wọ́n	PRON	_	_	40	expl	_	_
+38	wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	40	expl	_	_
 39	sí	sí	ADP	_	_	40	case	_	_
 40	dá	dá	VERB	_	_	35	conj	_	_
 41	oyèIyoba	oyèIyoba	NOUN	_	_	40	obj	_	_
@@ -6985,7 +6985,7 @@
 17	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	24	punct	_	_
 19	tí	tí	PRON	_	PronType=Rel	20	det	_	_
-20	wọ́n	wọ́n	PRON	_	_	24	nsubj	_	_
+20	wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
 21	fún	fún	ADP	_	_	22	case	_	_
 22	ìya	ìya	NOUN	_	_	24	obl	_	_
 23	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	22	nmod	_	_
@@ -7025,7 +7025,7 @@
 13	olókìkí	olókìkí	NOUN	_	_	10	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	tí	tí	PRON	_	PronType=Rel	16	det	_	_
-16	wọ́n	wọ́n	PRON	_	_	20	expl	_	_
+16	wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	20	expl	_	_
 17	sì	sì	CCONJ	_	_	20	cc	_	_
 18	ti	ti	AUX	_	_	20	aux	_	_
 19	ri	ri	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	obl	_	_
@@ -7664,7 +7664,7 @@
 28	lẹ́nu	lẹ́nu	NOUN	_	_	27	nmod	_	_
 29	wò	wò	VERB	_	_	26	ccomp	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	35	punct	_	_
-31	wọ́n	wọ́n	PRON	_	_	35	nsubj	_	_
+31	wọ́n	wọ́n	PRON	_	Number=Plur|Person=3|PronType=Prs	35	nsubj	_	_
 32	sì	sì	CCONJ	_	_	35	cc	_	_
 33	máa	máa	AUX	_	_	35	aux	_	_
 34	ń	ń	AUX	_	_	35	aux	_	_
