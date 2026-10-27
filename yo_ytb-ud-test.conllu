@@ -3735,10 +3735,10 @@
 14	Dekapolisi	Dekapolisi	PROPN	_	_	13	obj	_	Gloss=decapolis|Ref=MARK_5.20
 15	nípa	nípa	ADP	_	_	16	case	_	Gloss=about|Ref=MARK_5.20
 16	ohun	ohun	NOUN	_	_	13	obl	_	Gloss=things|Ref=MARK_5.20
-17	ńlá	ńlá	ADJ	_	_	16	nmod	_	Gloss=great|Ref=MARK_5.20
-18	tí	tí	PRON	_	PronType=Rel	17	fixed	_	Gloss=that|Ref=MARK_5.20
+17	ńlá	ńlá	ADJ	_	_	16	amod	_	Gloss=great|Ref=MARK_5.20
+18	tí	tí	PRON	_	PronType=Rel	20	obj	_	Gloss=that|Ref=MARK_5.20
 19	Jésù	jésù	PROPN	_	_	20	nsubj	_	Gloss=jesus|Ref=MARK_5.20
-20	ṣe	ṣe	VERB	_	_	17	acl	_	Gloss=do|Ref=MARK_5.20
+20	ṣe	ṣe	VERB	_	_	16	acl	_	Gloss=do|Ref=MARK_5.20
 21	fún	fún	ADP	_	_	22	case	_	Gloss=unto|Ref=MARK_5.20
 22	un	un	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	20	obl	_	Gloss=him|Ref=MARK_5.20|SpaceAfter=No
 23	.	.	PUNCT	_	_	26	punct	_	Gloss=.|Ref=MARK_5.20
@@ -3944,7 +3944,7 @@
 5	gburo	gburo	VERB	_	_	0	root	_	Gloss=hear|Ref=MARK_5.27
 6	iṣẹ́	iṣẹ́	NOUN	_	_	5	obj	_	Gloss=work|Ref=MARK_5.27
 7	ìyanu	ìyanu	NOUN	_	_	6	nmod	_	Gloss=wonders|Ref=MARK_5.27
-8	tí	tí	PRON	_	PronType=Rel	7	fixed	_	Gloss=that|Ref=MARK_5.27
+8	tí	tí	PRON	_	PronType=Rel	10	obj	_	Gloss=that|Ref=MARK_5.27
 9	Jésù	jésù	PROPN	_	_	10	nsubj	_	Gloss=jesus|Ref=MARK_5.27
 10	ṣe	ṣe	VERB	_	_	7	acl	_	Gloss=do|Ref=MARK_5.27|SpaceAfter=No
 11	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MARK_5.27
@@ -5111,12 +5111,12 @@
 4	bá	bá	SCONJ	_	_	5	mark	_	Gloss=if|Ref=MATT_5.19
 5	rú	rú	VERB	_	_	0	root	_	Gloss=break|Ref=MATT_5.19
 6	òfin	òfin	NOUN	_	_	5	obj	_	Gloss=law|Ref=MATT_5.19
-7	tí	tí	PRON	_	PronType=Rel	6	fixed	_	Gloss=that|Ref=MATT_5.19
-8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he|Ref=MATT_5.19
+7	tí	tí	PRON	_	PronType=Rel	12	nsubj	_	Gloss=that|Ref=MATT_5.19
+8	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl	_	Gloss=he|Ref=MATT_5.19
 9	tilẹ̀	tilẹ̀	SCONJ	_	_	12	mark	_	Gloss=though|Ref=MATT_5.19
 10	kéré	kéré	ADJ	_	_	12	amod	_	Gloss=least|Ref=MATT_5.19
 11	jù	jù	ADJ	_	_	12	amod	_	Gloss=better|Ref=MATT_5.19
-12	lọ	lọ	ADJ	_	_	6	compound	_	Gloss=|Ref=MATT_5.19|SpaceAfter=No
+12	lọ	lọ	ADJ	_	_	6	acl	_	Gloss=|Ref=MATT_5.19|SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	Gloss=,|Ref=MATT_5.19
 14	tí	tí	PRON	_	PronType=Rel	17	nsubj	_	Gloss=that|Ref=MATT_5.19
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	expl	_	Gloss=he|Ref=MATT_5.19
@@ -5167,7 +5167,7 @@
 # sent_id = MATT_5.20
 # text = Nítorì náà ni mọ ti wí fún yín pé àfi bí òdodo yín bá ju ti àwọn Farisí àti ti àwọn olùkọ́ òfin lọ, dájúdájú ẹ̀yin kì yóò le wọ ìjọba ọ̀run.
 # text_en = For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
-1	Nítorì	Nítorì	CCONJ	_	_	6	cc	_	Gloss=for|Ref=MATT_5.20
+1	Nítorì	nítorì	CCONJ	_	ExtPos=CCONJ	6	cc	_	Gloss=for|Ref=MATT_5.20
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=the|Ref=MATT_5.20
 3	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=MATT_5.20
 4	mọ	mọ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Gloss=i|Ref=MATT_5.20
@@ -6452,29 +6452,30 @@
 # newpar
 # sent_id = wiki0001
 # text = Ẹ̀gbà ọrùn bí ìbòju tí Benin jẹ́ ẹ̀gbà ọrùn tí wọ́n gbẹ́ lére tí ó sì jẹ́ àwòrán akọni obìrin tí a mọ̀ si ìyá wa Olorì Idia ti ọ̀rundún mẹ́rìndínlógún ṣẹ́yìn.
-1	Ẹ̀gbà	Ẹ̀gbà	NOUN	_	_	0	root	_	_
-2	ọrùn	ọrùn	NUM	_	NumType=Card	1	nmod	_	_
-3	bí	bí	SCONJ	_	_	4	case	_	_
-4	ìbòju	ìbòju	NOUN	_	_	2	nmod	_	_
-5	tí	tí	PRON	_	PronType=Rel	4	fixed	_	_
-6	Benin	Benin	NUM	_	NumType=Card	4	acl	_	_
-7	jẹ́	jẹ́	AUX	_	_	8	cop	_	_
-8	ẹ̀gbà	ẹ̀gbà	NOUN	_	_	6	conj	_	_
-9	ọrùn	ọrùn	NOUN	_	_	8	nmod	_	_
-10	tí	tí	PRON	_	PronType=Rel	12	nsubj	_	_
-11	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	expl	_	_
-12	gbẹ́	gbẹ́	VERB	_	_	9	acl	_	_
-13	lére	lére	VERB	_	_	12	obj	_	_
-14	tí	tí	PRON	_	PronType=Rel	18	nsubj	_	_
-15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl	_	_
-16	sì	sì	CCONJ	_	_	18	cc	_	_
-17	jẹ́	jẹ́	AUX	_	_	18	cop	_	_
-18	àwòrán	àwòrán	NOUN	_	_	13	acl	_	_
-19	akọni	akọni	ADP	_	_	20	case	_	_
-20	obìrin	obìrin	NOUN	_	_	18	nmod	_	_
-21	tí	tí	PRON	_	PronType=Rel	20	fixed	_	_
-22	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	_	_
-23	mọ̀	mọ̀	VERB	_	_	20	acl	_	_
+# text_en = The Benin mask-pendant is a carved ornament depicting a heroic woman—known as our mother, Queen Idia—from the sixteenth century.
+1	Ẹ̀gbà	ẹ̀gbà	NOUN	_	_	0	root	_	Gloss=bracelet
+2	ọrùn	ọrùn	NOUN	_	_	1	nmod	_	Gloss=neck
+3	bí	bí	SCONJ	_	_	4	case	_	Gloss=like
+4	ìbòju	ìbòju	NOUN	_	_	2	nmod	_	Gloss=mask
+5	tí	tí	PRON	_	PronType=Rel	6	nsubj	_	Gloss=that
+6	Benin	Benin	PROPN	_	_	4	acl	_	Gloss=Benin
+7	jẹ́	jẹ́	AUX	_	_	8	cop	_	Gloss=be
+8	ẹ̀gbà	ẹ̀gbà	NOUN	_	_	6	conj	_	Gloss=bracelet
+9	ọrùn	ọrùn	NOUN	_	_	8	nmod	_	Gloss=neck
+10	tí	tí	PRON	_	PronType=Rel	12	nsubj	_	Gloss=that
+11	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	expl	_	Gloss=they
+12	gbẹ́	gbẹ́	VERB	_	_	8	acl	_	Gloss=carve
+13	lére	lére	VERB	_	_	12	compound:svc	_	Gloss=carve
+14	tí	tí	PRON	_	PronType=Rel	18	nsubj	_	Gloss=that
+15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	expl	_	Gloss=it
+16	sì	sì	CCONJ	_	_	18	cc	_	Gloss=and
+17	jẹ́	jẹ́	AUX	_	_	18	cop	_	Gloss=be
+18	àwòrán	àwòrán	NOUN	_	_	13	acl	_	Gloss=image
+19	akọni	akọni	ADJ	_	_	20	amod	_	Gloss=heroic
+20	obìrin	obìrin	NOUN	_	_	18	nmod	_	Gloss=woman
+21	tí	tí	PRON	_	PronType=Rel	23	obj	_	Gloss=that
+22	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	_	Gloss=we
+23	mọ̀	mọ̀	VERB	_	_	20	acl	_	Gloss=know
 24	si	si	ADP	_	_	25	case	_	_
 25	ìyá	ìyá	NOUN	_	_	18	obl	_	_
 26	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	27	nsubj	_	_
@@ -6517,7 +6518,8 @@
 # newpar
 # sent_id = wiki0003
 # text = Ibojú yìí pé méjì tí ó jọ ara wọn: Ìkan wà ní Ilé ọnà ti a mọ̀ sí British Museum ní ìlú London tí ìkejì sì wà ní ilé ọnà tí a mọ̀ sí Metropolitan Museum of Art ní ìlú New York.
-1	Ibojú	Ibojú	NOUN	_	_	0	root	_	_
+# text_en = There are two identical versions of this mask: one is in the British Museum in London, and the other is in the Metropolitan Museum of Art in New York.
+1	Ibojú	ibojú	NOUN	_	_	0	root	_	_
 2	yìí	yìí	DET	_	PronType=Dem	1	det	_	_
 3	pé	pé	SCONJ	_	_	4	mark	_	_
 4	méjì	méjì	NUM	_	NumType=Card	1	nmod	_	_
@@ -6527,7 +6529,7 @@
 8	ara	ara	PRON	_	PronType=Emp	7	obl	_	_
 9	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	nmod	_	SpaceAfter=No
 10	:	:	PUNCT	_	_	12	punct	_	_
-11	Ìkan	Ìkan	ADV	_	_	12	advmod	_	_
+11	Ìkan	ìkan	ADV	_	_	12	advmod	_	_
 12	wà	wà	VERB	_	_	7	conj	_	_
 13	ní	ní	ADP	_	_	15	case	_	_
 14	Ilé	ilé	ADP	_	_	15	case	_	_
@@ -6538,15 +6540,15 @@
 19	sí	sí	ADP	_	_	20	case	_	_
 20	British	British	NOUN	_	_	12	obl	_	_
 21	Museum	Museum	NOUN	_	_	20	nmod	_	_
-22	ní	ní	ADP	_	_	23	case	_	_
-23	ìlú	ìlú	NOUN	_	_	21	nmod	_	_
-24	London	London	NUM	_	NumType=Card	21	nmod	_	_
-25	tí	tí	PRON	_	PronType=Rel	24	fixed	_	_
-26	ìkejì	ìkeji	PART	_	_	28	nsubj	_	_
-27	sì	sì	CCONJ	_	_	28	cc	_	_
-28	wà	wà	VERB	_	_	24	acl	_	_
-29	ní	ní	ADP	_	_	30	case	_	_
-30	ilé	ilé	NOUN	_	_	28	obl	_	_
+22	ní	ní	ADP	_	_	23	case	_	Gloss=in
+23	ìlú	ìlú	NOUN	_	_	21	nmod	_	Gloss=town
+24	London	London	PROPN	_	_	23	nmod	_	Gloss=London
+25	tí	tí	PRON	_	PronType=Rel	28	nsubj	_	Gloss=that
+26	ìkejì	ìkeji	ADJ	_	_	25	amod	_	Gloss=second
+27	sì	sì	CCONJ	_	_	28	cc	_	Gloss=and
+28	wà	wà	VERB	_	_	12	conj	_	Gloss=be
+29	ní	ní	ADP	_	_	30	case	_	Gloss=in
+30	ilé	ilé	NOUN	_	_	28	obl	_	Gloss=home
 31	ọnà	ọnà	NOUN	_	_	30	nmod	_	_
 32	tí	tí	PRON	_	PronType=Rel	34	nsubj	_	_
 33	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	34	expl	_	_
@@ -6556,11 +6558,11 @@
 37	Museum	Museum	NOUN	_	_	34	obl	_	_
 38	of	of	NOUN	_	_	37	nmod	_	_
 39	Art	Art	NOUN	_	_	38	nmod	_	_
-40	ní	ní	ADP	_	_	41	case	_	_
-41	ìlú	ìlú	NOUN	_	_	38	nmod	_	_
-42	New	New	NOUN	_	_	38	nmod	_	_
-43	York	York	NOUN	_	_	42	nmod	_	SpaceAfter=No
-44	.	.	PUNCT	_	_	1	punct	_	_
+40	ní	ní	ADP	_	_	41	case	_	Gloss=in
+41	ìlú	ìlú	NOUN	_	_	37	nmod	_	Gloss=town
+42	New	New	PROPN	_	_	41	nmod	_	Gloss=New
+43	York	York	PROPN	_	_	42	flat	_	Gloss=York|SpaceAfter=No
+44	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0004
@@ -6618,6 +6620,7 @@
 # newpar
 # sent_id = wiki0005
 # text = Ìbojú yìí ti di àmì ìdánimọ̀ lóde òní ní orílẹ̀ èdè Nàìjíríà láti ìgbà ìpéjọ-pọ̀ kan tí a mọ̀ sí FESTAC 77 tí ó wáyé ní ọdún 1977.
+# text_en = This mask has become a symbol of identity in Nigeria today, dating back to an event known as FESTAC 77, which took place in 1977.
 1	Ìbojú	Ìbojú	NOUN	_	_	4	nsubj	_	_
 2	yìí	yìí	DET	_	PronType=Dem	1	det	_	_
 3	ti	ti	AUX	_	_	4	aux	_	_
@@ -6626,30 +6629,29 @@
 6	ìdánimọ̀	ìdánimọ̀	ADJ	_	_	5	amod	_	_
 7	lóde	lóde	VERB	_	_	5	acl	_	_
 8	òní	òní	NOUN	_	_	7	obj	_	_
-9	ní	ní	ADP	_	_	10	case	_	_
-10	orílẹ̀	orílẹ̀	NOUN	_	_	7	obl	_	_
-11	èdè	èdè	NOUN	_	_	10	nmod	_	_
-12	Nàìjíríà	Nàìjíríà	PROPN	_	_	14	nsubj	_	_
-13	láti	láti	ADP	_	_	14	case	_	_
-14	ìgbà	ìgbà	NOUN	_	_	7	conj	_	_
-15	ìpéjọ	ìpéjọ	NOUN	_	_	14	nmod	_	SpaceAfter=No
-16	-	-	PUNCT	_	_	17	punct	_	SpaceAfter=No
-17	pọ̀	pọ̀	ADJ	_	_	14	conj	_	_
-18	kan	kan	NUM	_	NumType=Card	17	nmod	_	_
-19	tí	tí	PRON	_	PronType=Rel	18	fixed	_	_
-20	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	_
-21	mọ̀	mọ̀	VERB	_	_	18	acl	_	_
-22	sí	sí	ADP	_	_	24	case	_	_
-23	FESTA	Festa	ADP	_	_	24	case	_	SpaceAfter=No
-24	C	C	NOUN	_	_	21	obl	_	_
-25	77	77	NUM	_	NumType=Card	21	obj	_	_
-26	tí	tí	PRON	_	PronType=Rel	28	nsubj	_	_
-27	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	28	expl	_	_
-28	wáyé	wáyé	VERB	_	_	25	acl	_	_
-29	ní	ní	ADP	_	_	30	case	_	_
-30	ọdún	ọdún	NOUN	_	_	28	obl	_	_
-31	1977	1977	NUM	_	NumType=Card	30	nmod	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	21	punct	_	_
+9	ní	ní	ADP	_	_	10	case	_	Gloss=in
+10	orílẹ̀	orílẹ̀	NOUN	_	_	7	obl	_	Gloss=nation
+11	èdè	èdè	NOUN	_	_	10	nmod	_	Gloss=language
+12	Nàìjíríà	Nàìjíríà	PROPN	_	_	11	nmod	_	Gloss=Nigeria
+13	láti	láti	ADP	_	_	14	case	_	Gloss=from
+14	ìgbà	ìgbà	NOUN	_	_	7	conj	_	Gloss=time
+15	ìpéjọ	ìpéjọ	NOUN	_	_	14	nmod	_	Gloss=gathering|SpaceAfter=No
+16	-	-	PUNCT	_	_	17	punct	_	Gloss=-|SpaceAfter=No
+17	pọ̀	pọ̀	ADJ	_	_	15	appos	_	Gloss=many
+18	kan	kan	VERB	_	_	17	compound	_	Gloss=affect
+19	tí	tí	PRON	_	PronType=Rel	21	obj	_	Gloss=that
+20	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	Gloss=we
+21	mọ̀	mọ̀	VERB	_	_	18	acl	_	Gloss=know
+22	sí	sí	ADP	_	_	23	case	_	Gloss=as
+23	FESTAC	FESTAC	PROPN	_	_	21	obl	_	Gloss=FESTAC
+24	77	77	NUM	_	NumType=Card	23	nmod	_	Gloss=77
+25	tí	tí	PRON	_	PronType=Rel	27	nsubj	_	Gloss=that
+26	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	27	expl	_	Gloss=it
+27	wáyé	wáyé	VERB	_	_	23	acl	_	Gloss=take.place
+28	ní	ní	ADP	_	_	29	case	_	Gloss=in
+29	ọdún	ọdún	NOUN	_	_	27	obl	_	Gloss=year
+30	1977	1977	NUM	_	NumType=Card	29	nmod	_	Gloss=1977|SpaceAfter=No
+31	.	.	PUNCT	_	_	21	punct	_	Gloss=.
 
 # sent_id = wiki0006
 # text = Ìrísí àti Ìwúlò rẹ̀.
@@ -7745,8 +7747,9 @@
 
 # sent_id = wiki0036
 # text = Oríṣìíríṣìí nǹkan ló le yọrí sí orúkọ tí a sọ ọmọ.
-1	Oríṣìíríṣìí	oríṣìíríṣìí	DET	_	PronType=Ind	2	det	_	_
-2	nǹkan	nǹkan	NOUN	_	_	3	nsubj	_	_
+# text_en = Various factors can influence the name given to a child.
+1	Oríṣìíríṣìí	oríṣìíríṣìí	DET	_	PronType=Ind	2	det	_	Gloss=various
+2	nǹkan	nǹkan	NOUN	_	_	3	nsubj	_	Gloss=thing
 3	ló	ló	VERB	_	_	5	csubj	_	_
 4	le	lè	AUX	_	_	5	aux	_	_
 5	yọrí	yọrí	VERB	_	_	0	root	_	_
@@ -7754,11 +7757,11 @@
 7-8	orúkọ	_	_	_	_	_	_	_	_
 7	o	o	NOUN	_	_	5	obl	_	_
 8	órúkọ	órúkọ	NOUN	_	_	7	nmod	_	_
-9	tí	tí	PRON	_	PronType=Rel	8	fixed	_	_
-10	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
-11	sọ	sọ	VERB	_	_	8	acl	_	_
-12	ọmọ	ọmọ	NOUN	_	_	11	obj	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	5	punct	_	_
+9	tí	tí	PRON	_	PronType=Rel	11	xcomp	_	Gloss=that
+10	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	Gloss=we
+11	sọ	sọ	VERB	_	_	8	acl	_	Gloss=name
+12	ọmọ	ọmọ	NOUN	_	_	11	obj	_	Gloss=child|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0037
@@ -8619,22 +8622,22 @@
 # sent_id = wiki0072
 # text = Bakan náà ni ìtọ́nisọ́nà ṣe àlàyé ọ̀nàn tí a yàn lááyò lati tẹ̀lé ìlànà yìí.
 # text_en = The guidance also explains the preferred method for following this principle.
-1	Bakan	bakan	NOUN	_	_	5	obl	_	_
-2	náà	náà	ADV	_	_	5	advmod	_	_
-3	ni	ni	PART	_	_	2	case	_	_
-4	ìtọ́nisọ́nà	ìtọ́nisọ́nà	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-5	ṣe	ṣe	VERB	_	_	0	root	_	_
-6	àlàyé	àlàyé	NOUN	_	_	5	obj	_	_
-7	ọ̀nàn	ọ̀nàn	NOUN	_	_	6	nmod	_	_
-8	tí	tí	PRON	_	PronType=Rel	7	fixed	_	_
-9	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
-10	yàn	yàn	VERB	_	_	7	acl	_	_
-11	lááyò	lááyò	ADP	_	_	13	case	_	_
-12	lati	lati	ADP	_	_	13	case	_	_
-13	tẹ̀lé	tẹ̀lé	NOUN	_	_	5	obl	_	_
-14	ìlànà	ìlànà	NOUN	_	_	13	nmod	_	_
-15	yìí	yìí	DET	_	PronType=Dem	14	det	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	5	punct	_	_
+1	Bakan	bakan	NOUN	_	_	5	obl	_	Gloss=likewise
+2	náà	náà	ADV	_	_	5	advmod	_	Gloss=that
+3	ni	ni	PART	_	_	2	case	_	Gloss=in
+4	ìtọ́nisọ́nà	ìtọ́nisọ́nà	NOUN	_	_	5	nsubj	_	Gloss=guidance
+5	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do
+6	àlàyé	àlàyé	NOUN	_	_	5	obj	_	Gloss=explanation
+7	ọ̀nàn	ọ̀nàn	NOUN	_	_	6	nmod	_	Gloss=method
+8	tí	tí	PRON	_	PronType=Rel	13	obl	_	Gloss=that
+9	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	Gloss=we
+10	yàn	yàn	VERB	_	_	7	acl	_	Gloss=choose
+11	lááyò	lááyò	NOUN	_	_	10	obl	_	Gloss=choice
+12	lati	lati	ADP	_	_	13	case	_	Gloss=from
+13	tẹ̀lé	tẹ̀lé	NOUN	_	_	11	nmod	_	Gloss=follow
+14	ìlànà	ìlànà	NOUN	_	_	13	nmod	_	Gloss=procedure
+15	yìí	yìí	DET	_	PronType=Dem	14	det	_	Gloss=this|SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0073
@@ -8712,18 +8715,19 @@
 
 # sent_id = wiki0077
 # text = Osì tún se àpèjúwe ìlànà tí a gbọ́dọ̀ tẹ̀lé ní àwùjọ.
-1	Osì	Osì	CCONJ	_	_	3	cc	_	_
-2	tún	tún	ADV	_	_	3	advmod	_	_
-3	se	ṣe	VERB	_	_	0	root	_	_
-4	àpèjúwe	àpèjúwe	NOUN	_	_	3	obj	_	_
-5	ìlànà	ìlànà	NOUN	_	_	4	nmod	_	_
-6	tí	tí	PRON	_	PronType=Rel	5	fixed	_	_
-7	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
-8	gbọ́dọ̀	gbọ́dọ̀	VERB	_	_	5	acl	_	_
-9	tẹ̀lé	tẹ̀lé	NOUN	_	_	8	obj	_	_
-10	ní	ní	ADP	_	_	11	case	_	_
-11	àwùjọ	àwùjọ	NOUN	_	_	8	obl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
+# text_en = It also describes the guidelines that must be followed within the community.
+1	Osì	osì	CCONJ	_	_	3	cc	_	Gloss=and
+2	tún	tún	ADV	_	_	3	advmod	_	Gloss=also
+3	se	ṣe	VERB	_	_	0	root	_	Gloss=do
+4	àpèjúwe	àpèjúwe	NOUN	_	_	3	obj	_	Gloss=description
+5	ìlànà	ìlànà	NOUN	_	_	4	nmod	_	Gloss=procedure
+6	tí	tí	PRON	_	PronType=Rel	9	nmod	_	Gloss=that
+7	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	Gloss=we
+8	gbọ́dọ̀	gbọ́dọ̀	VERB	_	_	5	acl	_	Gloss=must
+9	tẹ̀lé	tẹ̀lé	NOUN	_	_	8	obj	_	Gloss=follow
+10	ní	ní	ADP	_	_	11	case	_	Gloss=in
+11	àwùjọ	àwùjọ	NOUN	_	_	8	obl	_	Gloss=community|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0078
@@ -8812,22 +8816,23 @@
 # newpar
 # sent_id = wiki0084
 # text = Ṣíṣàtúnṣe ojúewé yìí látọwọ́ àwọn oníṣe tuntun tàbí àwọn oníṣe aláìtíìforúkọsílẹ̀ jẹ́ tí tìpa lọ́wọ́lọ́wọ́.
-1	Ṣíṣàtúnṣe	Ṣíṣàtúnṣe	NOUN	_	_	4	nsubj	_	_
-2	ojúewé	ojúewé	NOUN	_	_	1	nmod	_	_
-3	yìí	yìí	DET	_	PronType=Dem	2	det	_	_
-4	látọwọ́	látọwọ́	VERB	_	_	0	root	_	_
-5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	_
-6	oníṣe	oníṣe	NOUN	_	_	8	nsubj	_	_
-7	tuntun	tuntun	ADV	_	_	8	advmod	_	_
-8	tàbí	tàbí	VERB	_	_	4	parataxis	_	_
-9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	_
-10	oníṣe	oníṣe	NOUN	_	_	8	obj	_	_
-11	aláìtíìforúkọsílẹ̀	aláìtíìforúkọsílẹ̀	NOUN	_	_	10	nmod	_	_
-12	jẹ́	jẹ́	AUX	_	_	14	cop	_	_
-13	tí	tí	PRON	_	PronType=Rel	12	fixed	_	_
-14	tìpa	tìpa	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
-15	lọ́wọ́lọ́wọ́	lọ́wọ́lọ́wọ́	ADV	_	_	14	advmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	4	punct	_	_
+# text_en = Editing of this page by new or unregistered users is currently restricted.
+1	Ṣíṣàtúnṣe	ṣíṣàtúnṣe	NOUN	_	_	4	nsubj	_	Gloss=editing
+2	ojúewé	ojúewé	NOUN	_	_	1	nmod	_	Gloss=page
+3	yìí	yìí	DET	_	PronType=Dem	2	det	_	Gloss=this
+4	látọwọ́	látọwọ́	VERB	_	_	0	root	_	Gloss=by
+5	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Gloss=the
+6	oníṣe	oníṣe	NOUN	_	_	8	nsubj	_	Gloss=user
+7	tuntun	tuntun	ADJ	_	_	6	amod	_	Gloss=new
+8	tàbí	tàbí	CCONJ	_	_	10	cc	_	Gloss=or
+9	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	10	det	_	Gloss=the
+10	oníṣe	oníṣe	NOUN	_	_	6	conj	_	Gloss=user
+11	aláìtíìforúkọsílẹ̀	aláìtíìforúkọsílẹ̀	ADJ	_	_	10	amod	_	Gloss=unregistered
+12	jẹ́	jẹ́	AUX	_	_	14	cop	_	Gloss=be
+13	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that
+14	tìpa	tìpa	ADJ	_	_	4	advcl	_	Gloss=restricted
+15	lọ́wọ́lọ́wọ́	lọ́wọ́lọ́wọ́	ADV	_	_	14	advmod	_	Gloss=currently|SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0085
