@@ -8871,6 +8871,7 @@
 # newpar
 # sent_id = wiki0087
 # text = Bó tilẹ jẹ́ pé ọ̀pọ̀ àwọn àyọkà ni wọ́n le jẹ́ títúnṣe látọwọ́ olúkúlùkù, àbò díẹ̀ pọndandan ní gbà míi láti dínà ìbàjẹ́ sí àwọn ojúewé tó gbajúmọ̀.
+# text_en = Although many articles can be edited by anyone, some level of protection is occasionally necessary to prevent damage to popular pages.
 1	Bó	bó	SCONJ	_	ExtPos=SCONJ	12	mark	_	_
 2	tilẹ	tilẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	fixed	_	_
 3	jẹ́	jẹ́	AUX	_	_	1	fixed	_	_
@@ -8905,14 +8906,15 @@
 # newpar
 # sent_id = wiki0088
 # text = Ìdí fún àbò wà nínú àkọọ́lẹ̀ àbo.
-1	Ìdí	Ìdí	NOUN	_	_	4	nsubj	_	_
-2	fún	fún	ADP	_	_	3	case	_	_
-3	àbò	àbò	NOUN	_	_	1	nmod	_	_
-4	wà	wà	VERB	_	_	0	root	_	_
-5	nínú	nínú	ADP	_	_	6	case	_	_
-6	àkọọ́lẹ̀	àkọọ́lẹ̀	NOUN	_	_	4	obl	_	_
-7	àbo	àbo	DET	_	_	6	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+# text_en = The reason for the protection is contained in the protection record.
+1	Ìdí	ìdí	NOUN	_	_	4	nsubj	_	Gloss=reason
+2	fún	fún	ADP	_	_	3	case	_	Gloss=for
+3	àbò	àbò	NOUN	_	_	1	nmod	_	Gloss=protection
+4	wà	wà	VERB	_	_	0	root	_	Gloss=is
+5	nínú	nínú	ADP	_	_	6	case	_	Gloss=in
+6	àkọọ́lẹ̀	àkọọ́lẹ̀	NOUN	_	_	4	obl	_	Gloss=record
+7	àbo	àbò	NOUN	_	_	6	nmod	_	Gloss=protection|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = wiki0089
 # text = Tí kò bá sí àkọsílẹ̀ abáramu nínú àkọọ́lẹ̀ àbò, ojúewé náà le ti jẹ́ yíyí nípò dà lẹ́yìn ìṣe àbò si.
