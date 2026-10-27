@@ -8639,14 +8639,15 @@
 # newpar
 # sent_id = wiki0073
 # text = A gbọ́dọ̀ máa lo ìtọ́nisọ́nà pẹ̀lú láákáyè.
-1	A	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+# text_en = We must use guidance with good judgment.
+1	A	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Gloss=we
 2	gbọ́dọ̀	gbọ́dọ̀	VERB	_	_	0	root	_	_
-3	máa	máa	AUX	_	_	7	aux	_	_
-4	lo	lo	DET	_	_	5	det	_	_
-5	ìtọ́nisọ́nà	ìtọ́nisọ́nà	NOUN	_	_	7	nsubj	_	_
-6	pẹ̀lú	pẹ̀lú	ADV	_	_	7	advmod	_	_
-7	láákáyè	láákáyè	VERB	_	_	2	conj	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
+3	máa	máa	AUX	_	_	4	aux	_	_
+4	lo	lo	VERB	_	_	2	conj	_	Gloss=use
+5	ìtọ́nisọ́nà	ìtọ́nisọ́nà	NOUN	_	_	4	obj	_	Gloss=guidance
+6	pẹ̀lú	pẹ̀lú	ADV	_	_	7	advmod	_	Gloss=with
+7	láákáyè	láákáyè	VERB	_	_	4	obl	_	Gloss=common.sense|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0074
