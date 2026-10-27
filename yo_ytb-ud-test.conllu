@@ -1915,7 +1915,7 @@
 19	orí	orí	NOUN	_	_	18	nmod	_	Gloss=head|Ref=JOHN_11.2
 20	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Gloss=her|Ref=JOHN_11.2
 21	nù	nù	VERB	_	_	17	compound:svc	_	Gloss=cast|Ref=JOHN_11.2
-22	ún	ún	PRON	_	_	21	obj	_	Gloss=fifth|Ref=JOHN_11.2|SpaceAfter=No
+22	ún	ún	PRON	_	Person=3|PronType=Prs	21	obj	_	Gloss=fifth|Ref=JOHN_11.2|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=,|Ref=JOHN_11.2
 24	arákùnrin	arákùnrin	NOUN	_	_	29	nsubj	_	Gloss=brother|Ref=JOHN_11.2
 25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Gloss=her|Ref=JOHN_11.2
@@ -7989,7 +7989,7 @@
 18	pẹ̀lú	pẹ̀lú	ADP	_	_	19	case	_	_
 19	filmu	filmu	NOUN	_	_	9	obl	_	_
 20	tó	tó	SCONJ	_	_	23	mark	_	_
-21	ún	ún	PRON	_	_	23	nsubj	_	_
+21	ún	ún	PRON	_	Person=3|PronType=Prs	23	nsubj	_	_
 22	jẹ́	jẹ́	AUX	_	_	23	cop	_	_
 23	Most	Most	NOUN	_	_	19	acl	_	_
 24	Wanted	Wanted	NOUN	_	_	23	flat	_	SpaceAfter=No
@@ -8111,7 +8111,7 @@
 23	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	22	nmod	_	_
 24	jáde	jáde	VERB	_	_	18	compound:svc	_	_
 25	tó	tó	SCONJ	_	_	28	mark	_	_
-26	ún	ún	PRON	_	_	28	nsubj	_	_
+26	ún	ún	PRON	_	Person=3|PronType=Prs	28	nsubj	_	_
 27	jẹ́	jẹ́	AUX	_	_	28	cop	_	_
 28	One	One	NOUN	_	_	24	obj	_	_
 29	Logologo	Logologo	ADJ	_	_	28	amod	_	_
