@@ -3457,7 +3457,7 @@
 25	.	.	PUNCT	_	_	27	punct	_	Gloss=.|Ref=MARK_5.13
 26	Agbo	agbo	NOUN	_	_	27	nmod	_	Gloss=flock|Ref=MARK_5.13
 27	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	35	nsubj	_	Gloss=swine|Ref=MARK_5.13
-28	náà	náà	DET	_	PronType=Dem	35	det	_	Gloss=the|Ref=MARK_5.13
+28	náà	náà	DET	_	ExtPos=DET|PronType=Dem	35	det	_	Gloss=the|Ref=MARK_5.13
 29	tí	tí	PRON	_	PronType=Rel	28	fixed	_	Gloss=that|Ref=MARK_5.13
 30	ó	ó	AUX	_	_	35	aux	_	Gloss=is|Ref=MARK_5.13
 31	tó	tó	ADP	_	_	35	case	_	Gloss=about|Ref=MARK_5.13
@@ -3523,7 +3523,7 @@
 35	fojú	fojú	VERB	_	_	33	xcomp	_	Gloss=witness|Ref=MARK_5.14
 36	gán-án-ní	gán-án-ní	ADV	_	_	35	compound	_	Gloss=|Ref=MARK_5.14
 37	ohun	ohun	NOUN	_	_	35	conj	_	Gloss=things|Ref=MARK_5.14
-38	náà	náà	DET	_	PronType=Dem	37	nmod	_	Gloss=the|Ref=MARK_5.14
+38	náà	náà	DET	_	ExtPos=DET|PronType=Dem	37	nmod	_	Gloss=the|Ref=MARK_5.14
 39	tí	tí	PRON	_	PronType=Rel	38	fixed	_	Gloss=that|Ref=MARK_5.14
 40	ó	ó	AUX	_	_	41	aux	_	Gloss=has|Ref=MARK_5.14
 41	sẹlẹ̀	sẹlẹ̀	VERB	_	_	38	acl	_	Gloss=happened|Ref=MARK_5.14|SpaceAfter=No
@@ -3575,7 +3575,7 @@
 # sent_id = MARK_5.16
 # text = Àwọn tí ìṣẹ̀lẹ̀ yìí ṣojú wọn sì ń ròyìn rẹ̀ fún àwọn ènìyàn ohun tí ó sẹlẹ̀ sí ọkùnrin ẹlẹ́mí àìmọ́, wọn si sọ nípa agbo ẹlẹ́dẹ̀ náà pẹ̀lú.
 # text_en = And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.
-1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	3	det	_	Gloss=those|Ref=MARK_5.16
+1	Àwọn	àwọn	DET	_	ExtPos=DET|Number=Plur|PronType=Dem	3	det	_	Gloss=those|Ref=MARK_5.16
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.16
 3	ìṣẹ̀lẹ̀	ìṣẹ̀lẹ̀	NOUN	_	_	0	root	_	Gloss=happening|Ref=MARK_5.16
 4	yìí	yìí	DET	_	PronType=Dem	5	det	_	Gloss=this|Ref=MARK_5.16
