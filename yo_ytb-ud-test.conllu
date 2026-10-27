@@ -9371,6 +9371,7 @@
 # newpar
 # sent_id = wiki0109
 # text = Àyọkà yìí tàbí apá rẹ̀ únfẹ́ àtúnṣe sí.
+# text_en = This article or a section of it requires revision.
 1	Àyọkà	Àyọkà	NOUN	_	_	6	nsubj	_	_
 2	yìí	yìí	DET	_	PronType=Dem	1	det	_	_
 3	tàbí	tàbí	CCONJ	_	_	4	cc	_	_
@@ -9384,11 +9385,12 @@
 # newpar
 # sent_id = wiki0110
 # text = Ẹ le fẹ̀ jù báyìí lọ tàbí kí ẹ ṣàtúnṣe rẹ̀ lọ́nà tí yíò mu kúnrẹ́rẹ́.
-1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
-2	le	le	VERB	_	_	0	root	_	_
-3	fẹ̀	fẹ̀	ADP	_	_	4	case	_	_
-4	jù	jù	NOUN	_	_	2	obl	_	_
-5	báyìí	báyìí	DET	_	_	4	nmod	_	_
+# text_en = You can expand upon this or revise it to make it more comprehensive.
+1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you
+2	le	le	VERB	_	_	0	root	_	Gloss=can
+3	fẹ̀	fẹ̀	VERB	_	_	2	compound:svc	_	Gloss=expand
+4	jù	jù	NOUN	_	_	2	obl	_	Gloss=further
+5	báyìí	báyìí	PRON	_	PronType=Dem	4	nmod	_	Gloss=this
 6	lọ	lọ	VERB	_	_	2	compound:svc	_	_
 7	tàbí	tàbí	VERB	_	_	2	conj	_	_
 8	kí	kí	SCONJ	_	_	10	mark	_	_
@@ -9405,16 +9407,17 @@
 # newpar
 # sent_id = wiki0111
 # text = Ẹ ran Wikipedia lọ́wọ́ láti fẹ̀ẹ́ jù báyìí lọ.
-1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
-2	ran	ran	VERB	_	_	0	root	_	_
-3	Wikipedia	Wikipedia	NOUN	_	_	2	obj	_	_
+# text_en = Help Wikipedia grow even further.
+1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you
+2	ran	ran	VERB	_	_	0	root	_	Gloss=help
+3	Wikipedia	Wikipedia	PROPN	_	_	2	obj	_	Gloss=Wikipedia
 4	lọ́wọ́	lọ́wọ́	ADP	_	_	6	case	_	_
 5	láti	láti	ADP	_	_	6	case	_	_
 6	fẹ̀ẹ́	fẹ̀ẹ́	NOUN	_	_	3	nmod	_	_
-7	jù	jù	PROPN	_	_	6	nmod	_	_
-8	báyìí	báyìí	DET	_	_	3	det	_	_
-9	lọ	lọ	VERB	_	_	2	compound:svc	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+7	jù	jù	ADJ	_	_	6	nmod	_	Gloss=further
+8	báyìí	báyìí	PRON	_	PronType=Dem	3	det	_	Gloss=this
+9	lọ	lọ	VERB	_	_	2	compound:svc	_	Gloss=go|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0112
