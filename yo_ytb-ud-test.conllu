@@ -9467,23 +9467,24 @@
 # newpar
 # sent_id = wiki0115
 # text = A lè sọ pé àwón nọ́mbà gidi je nọ́mbà tósòro pelu apá tíkòsi´ tó jé òdo; eyun pé nọ́mbà gidi a jẹ́ bakanna mọ́ nọ́mbà tósòro a+0i.
-1	A	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-2	lè	lè	AUX	_	_	3	aux	_	_
-3	sọ	sọ	VERB	_	_	0	root	_	_
-4	pé	pé	SCONJ	_	_	9	mark	_	_
-5	àwón	àwón	DET	_	_	6	det	_	_
-6	nọ́mbà	nọ́mbà	ADV	_	_	9	nsubj	_	_
-7	gidi	gidi	ADJ	_	_	6	amod	_	_
-8	je	jẹ́	AUX	_	_	9	cop	_	_
-9	nọ́mbà	nọ́mbà	ADV	_	_	3	ccomp	_	_
-10	tósòro	tósòro	ADJ	_	_	9	amod	_	_
-11	pelu	pelu	ADP	_	_	12	case	_	_
-12	apá	apá	NOUN	_	_	9	nmod	_	_
-13	tíkòsi´	tíkòsi´	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nmod	_	_
-14	tó	tó	ADV	_	_	16	advmod	_	_
-15	jé	jẹ́	AUX	_	_	16	cop	_	_
-16	òdo	òdo	NOUN	_	_	12	acl	_	SpaceAfter=No
-17	;	;	PUNCT	_	_	25	punct	_	_
+# text_en = We can say that real numbers are complex numbers with an imaginary part equal to zero; that is, a real number is equivalent to a complex number of the form a + 0i.
+1	A	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we
+2	lè	lè	AUX	_	_	3	aux	_	Gloss=can
+3	sọ	sọ	VERB	_	_	0	root	_	Gloss=say
+4	pé	pé	SCONJ	_	_	9	mark	_	Gloss=that
+5	àwón	àwọn	DET	_	Number=Plur|PronType=Dem	6	det	_	Gloss=the
+6	nọ́mbà	nọ́mbà	ADV	_	_	9	nsubj	_	Gloss=number
+7	gidi	gidi	ADJ	_	_	6	amod	_	Gloss=real
+8	je	jẹ́	AUX	_	_	9	cop	_	Gloss=be
+9	nọ́mbà	nọ́mbà	ADV	_	_	3	ccomp	_	Gloss=number
+10	tósòro	tósòro	ADJ	_	_	9	amod	_	Gloss=complex
+11	pelu	pelu	ADP	_	_	12	case	_	Gloss=with
+12	apá	apá	NOUN	_	_	9	nmod	_	Gloss=part
+13	tíkòsi´	tíkòsi´	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	nmod	_	Gloss=imaginary
+14	tó	tó	ADV	_	_	16	advmod	_	Gloss=which
+15	jé	jẹ́	AUX	_	_	16	cop	_	Gloss=be
+16	òdo	òdo	NOUN	_	_	12	acl	_	Gloss=zero|SpaceAfter=No
+17	;	;	PUNCT	_	_	25	punct	_	Gloss=;
 18	eyun	eyun	ADV	_	_	25	advmod	_	_
 19	pé	pé	SCONJ	_	_	25	mark	_	_
 20	nọ́mbà	nọ́mbà	NOUN	_	_	25	nsubj	_	_
@@ -9500,6 +9501,7 @@
 # newpar
 # sent_id = wiki0116
 # text = Fún àpẹrẹ, 3 + 2i jé nọ́mbà tósòro, pẹ̀lú apá gidi to jẹ 3 ati apá tíkòsi´ to jẹ 2.
+# text_en = For example, 3 + 2i is a complex number, with a real part of 3 and an imaginary part of 2.
 1	Fún	fún	ADP	_	_	2	case	_	_
 2	àpẹrẹ	àpẹrẹ	NOUN	_	_	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -9527,17 +9529,18 @@
 # newpar
 # sent_id = wiki0117
 # text = Àwon nọ́mbà tósòro se ròpọ̀, yọkúrò, sọdipúpọ̀ tàbi sèpínpiń gẹ́gẹ́ bi a ti n se fun àwon nọ́mbà gidi, be ni wón sì ní ìdámọ̀ tó lẹ́wà mìíràn.
-1	Àwon	Àwon	DET	_	_	2	det	_	_
-2	nọ́mbà	nọ́mbà	NOUN	_	_	4	nsubj	_	_
-3	tósòro	tósòro	ADJ	_	_	2	amod	_	_
-4	se	se	VERB	_	_	0	root	_	_
-5	ròpọ̀	ròpọ̀	NOUN	_	_	4	obj	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	yọkúrò	yọkúrò	NOUN	_	_	5	conj	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	sọdipúpọ̀	sọdipúpọ̀	NOUN	_	_	5	conj	_	_
-10	tàbi	tàbi	CCONJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	cc	_	_
-11	sèpínpiń	sèpínpiń	NOUN	_	_	5	conj	_	_
+# text_en = These numbers are difficult to add, subtract, multiply, or divide in the same way one does with real numbers, yet they possess another beautiful characteristic.
+1	Àwon	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=these
+2	nọ́mbà	nọ́mbà	NOUN	_	_	4	nsubj	_	Gloss=number
+3	tósòro	tósòro	ADJ	_	_	2	amod	_	Gloss=complex
+4	se	se	VERB	_	_	0	root	_	Gloss=difficult
+5	ròpọ̀	ròpọ̀	NOUN	_	_	4	obj	_	Gloss=add|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+7	yọkúrò	yọkúrò	NOUN	_	_	5	conj	_	Gloss=subtract|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+9	sọdipúpọ̀	sọdipúpọ̀	NOUN	_	_	5	conj	_	Gloss=multiply
+10	tàbi	tàbi	CCONJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	cc	_	Gloss=or
+11	sèpínpiń	sèpínpiń	NOUN	_	_	5	conj	_	Gloss=divide
 12	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	17	advmod	_	_
 13	bi	bi	ADV	_	_	17	advmod	_	_
 14	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
@@ -9545,9 +9548,9 @@
 16	n	n	ADV	_	_	17	advmod	_	_
 17	se	ṣe	VERB	_	_	4	advcl	_	_
 18	fun	fun	ADP	_	_	20	case	_	_
-19	àwon	àwon	ADP	_	_	20	case	_	_
-20	nọ́mbà	nọ́mbà	NOUN	_	_	17	obl	_	_
-21	gidi	gidi	ADJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	20	amod	_	SpaceAfter=No
+19	àwon	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	Gloss=the
+20	nọ́mbà	nọ́mbà	NOUN	_	_	17	obl	_	Gloss=number
+21	gidi	gidi	ADJ	_	_	20	amod	_	Gloss=real|SpaceAfter=No
 22	,	,	PUNCT	_	_	27	punct	_	_
 23	be	be	ADV	_	_	27	advmod	_	_
 24	ni	ni	PART	_	_	23	case	_	_
