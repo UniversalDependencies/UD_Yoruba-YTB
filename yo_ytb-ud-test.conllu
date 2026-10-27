@@ -8681,21 +8681,22 @@
 # newpar
 # sent_id = wiki0075
 # text = Tún wo Ipa Jimmy Wales ṣùgbọn, Wikipédíà ṣàkóso ara ẹ̀ nipase oníwé àwùjọ.
-1	Tún	tún	NOUN	_	_	2	nsubj	_	_
-2	wo	wo	VERB	_	_	0	root	_	_
-3	Ipa	Ipa	ADP	_	_	4	case	_	_
-4	Jimmy	Jimmy	NOUN	_	_	2	obl	_	_
-5	Wales	Wales	NOUN	_	_	4	nmod	_	_
-6	ṣùgbọn	ṣùgbọn	DET	_	_	5	det	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
-8	Wikipédíà	Wikipédíà	ADV	_	_	9	advmod	_	_
-9	ṣàkóso	ṣàkóso	VERB	_	_	2	conj	_	_
-10	ara	ara	PRON	_	PronType=Emp	9	obj	_	_
-11	ẹ̀	ẹ̀	NOUN	_	_	10	nmod	_	_
-12	nipase	nipase	ADP	_	_	13	case	_	_
-13	oníwé	oníwé	NOUN	_	_	9	obl	_	_
-14	àwùjọ	àwùjọ	NOUN	_	_	13	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	_
+# text_en = While Jimmy Wales played a role, Wikipedia governs itself through its community.
+1	Tún	tún	ADV	_	_	2	advmod	_	Gloss=again
+2	wo	wo	VERB	_	_	0	root	_	Gloss=see
+3	Ipa	ipa	NOUN	_	_	2	obj	_	Gloss=impact
+4	Jimmy	Jimmy	PROPN	_	_	3	nmod	_	Gloss=Jimmy
+5	Wales	Wales	PROPN	_	_	4	flat	_	Gloss=Wales
+6	ṣùgbọn	ṣùgbọn	CCONJ	_	_	2	cc	_	Gloss=but|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	Gloss=,
+8	Wikipédíà	Wikipédíà	PROPN	_	_	9	nsubj	_	Gloss=Wikipedia
+9	ṣàkóso	ṣàkóso	VERB	_	_	2	conj	_	Gloss=administration
+10	ara	ara	PRON	_	PronType=Emp	9	obj	_	Gloss=itself
+11	ẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Typo=Yes	10	nmod	_	CorrectForm=rẹ̀|Gloss=his
+12	nipase	nipase	ADP	_	_	13	case	_	Gloss=through
+13	oníwé	oníwé	NOUN	_	_	9	obl	_	Gloss=editor
+14	àwùjọ	àwùjọ	NOUN	_	_	13	nmod	_	Gloss=community|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0076
