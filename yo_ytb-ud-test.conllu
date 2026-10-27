@@ -3720,7 +3720,7 @@
 # text = Nítorí naà, ọkùnrin yìí padà lọ, ó bẹ̀rẹ̀ sí ròyìn ní Dekapolisi nípa ohun ńlá tí Jésù ṣe fún un. Ẹnu sì ya gbogbo ènìyàn.
 # text_en = And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.
 1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=MARK_5.20
-2	naà	naà	PRON	_	_	1	fixed	_	Gloss=the|Ref=MARK_5.20|SpaceAfter=No
+2	naà	naà	PRON	_	PronType=Dem	1	fixed	_	Gloss=the|Ref=MARK_5.20|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MARK_5.20
 4	ọkùnrin	ọkùnrin	NOUN	_	_	6	nsubj	_	Gloss=man|Ref=MARK_5.20
 5	yìí	yìí	DET	_	PronType=Dem	6	det	_	Gloss=this|Ref=MARK_5.20
