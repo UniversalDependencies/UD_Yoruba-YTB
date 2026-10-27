@@ -9295,18 +9295,18 @@
 # sent_id = wiki0106
 # text = Bákanáà ó tún ti ṣe ìfilọ̀ iye àwórán bíi 20,000 láti inú ìkápamọ́ rẹ̀ fún lílò bóbá ṣe yẹ.
 # text_en = He has also made available about 20,000 images from his archive for appropriate use.
-1	Bákanáà	bákanáà	DET	_	_	2	det	_	_
-2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-3	tún	tún	ADV	_	_	5	advmod	_	_
-4	ti	ti	AUX	_	_	5	aux	_	_
-5	ṣe	ṣe	VERB	_	_	0	root	_	_
-6	ìfilọ̀	ìfilọ̀	NOUN	_	_	5	obj	_	_
-7	iye	iye	ADP	_	_	8	case	_	_
-8	àwórán	àwórán	NOUN	_	_	5	obl	_	_
-9	bíi	bíi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	nmod	_	_
-10	20	20	NUM	_	NumType=Card	5	compound:svc	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	SpaceAfter=No
-12	000	000	NUM	_	NumType=Card	5	obj	_	_
+1	Bákanáà	bákanáà	ADV	_	_	5	advmod	_	Gloss=likewise
+2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he
+3	tún	tún	ADV	_	_	5	advmod	_	Gloss=again
+4	ti	ti	AUX	_	_	5	aux	_	Gloss=has
+5	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=make
+6	ìfilọ̀	ìfilọ̀	NOUN	_	_	5	obj	_	Gloss=proposal
+7	iye	iye	ADP	_	_	8	case	_	Gloss=number
+8	àwórán	àwórán	NOUN	_	_	5	obl	_	Gloss=image
+9	bíi	bíi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	nmod	_	Gloss=about
+10	20	20	NUM	_	NumType=Card	8	nummod	_	Gloss=20|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	Gloss=,|SpaceAfter=No
+12	000	000	NUM	_	NumType=Card	10	flat	_	Gloss=000
 13	láti	láti	ADP	_	_	15	case	_	_
 14	inú	inú	ADP	_	_	15	case	_	_
 15	ìkápamọ́	ìkápamọ́	NOUN	_	_	5	obl	_	_
