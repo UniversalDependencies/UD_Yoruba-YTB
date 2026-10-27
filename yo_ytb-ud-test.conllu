@@ -9447,6 +9447,7 @@
 # newpar
 # sent_id = wiki0114
 # text = Ní ayé àtijọ́ àwọn onímọ́ ìṣirò mọ nọ́mbà tóṣòro gẹ́gẹ́ bíi nọ́mbà tí kòsí.
+# text_en = In ancient times, mathematicians regarded problematic numbers as non-existent.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	ayé	ayé	NOUN	_	_	7	obl	_	_
 3	àtijọ́	àtijọ́	NOUN	_	_	2	nmod	_	_
@@ -9456,12 +9457,12 @@
 7	mọ	mọ	VERB	_	_	0	root	_	_
 8	nọ́mbà	nọ́mbà	NOUN	_	_	7	obj	_	_
 9	tóṣòro	tóṣòro	ADJ	_	_	8	amod	_	_
-10	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	12	advmod	_	_
-11	bíi	bíi	SCONJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	case	_	_
-12	nọ́mbà	nọ́mbà	NOUN	_	_	7	obl	_	_
-13	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	_
-14	kòsí	kòsí	PRON	_	_	12	acl	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	7	punct	_	_
+10	gẹ́gẹ́	gẹ́gẹ́	ADV	_	_	12	advmod	_	Gloss=exactly
+11	bíi	bíi	SCONJ	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	12	case	_	Gloss=like
+12	nọ́mbà	nọ́mbà	NOUN	_	_	7	obl	_	Gloss=number
+13	tí	tí	PRON	_	PronType=Rel	14	nsubj	_	Gloss=that
+14	kòsí	kòsí	ADJ	_	_	12	acl	_	Gloss=not.available|SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0115
