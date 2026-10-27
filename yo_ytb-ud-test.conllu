@@ -5523,7 +5523,7 @@
 20	a	a	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Gloss=her|Ref=MATT_5.28
 21	ṣe	ṣe	VERB	_	_	19	compound:svc	_	Gloss=do|Ref=MATT_5.28
 22	panṣágà	panṣágà	NOUN	_	_	21	obj	_	Gloss=adultery|Ref=MATT_5.28
-23	ná	náà	DET	_	Typo=Yes	22	det	_	Gloss=the|Ref=MATT_5.28
+23	ná	náà	DET	_	PronType=Dem|Typo=Yes	22	det	_	Gloss=the|Ref=MATT_5.28
 24	ní	ní	ADP	_	_	25	case	_	Gloss=in|Ref=MATT_5.28
 25	ọkàn	ọkàn	NOUN	_	_	21	obl	_	Gloss=heart|Ref=MATT_5.28
 26	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	25	nmod	_	Gloss=his|Ref=MATT_5.28|SpaceAfter=No
@@ -5842,7 +5842,7 @@
 20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	expl	_	Gloss=it|Ref=MATT_5.37
 21	ba	ba	VERB	_	_	22	compound:svc	_	Gloss=may|Ref=MATT_5.37
 22	ju	ju	VERB	_	_	0	root	_	Gloss=pass|Ref=MATT_5.37
-23	ìwọ̀nyí	ìwọ̀nyí	DET	_	_	22	ccomp	_	Gloss=these|Ref=MATT_5.37
+23	ìwọ̀nyí	ìwọ̀nyí	DET	_	Number=Plur|PronType=Dem	22	ccomp	_	Gloss=these|Ref=MATT_5.37
 24	lọ	lọ	VERB	_	_	23	compound:svc	_	Gloss=go|Ref=MATT_5.37|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=,|Ref=MATT_5.37
 26	wá	wá	VERB	_	_	23	conj	_	Gloss=come|Ref=MATT_5.37
@@ -7362,6 +7362,7 @@
 # newpar
 # sent_id = wiki0026
 # text = T'óbá sepé àsìse ló gbé yin dé bi, ẹ kọn bọ́tìnì ìpadàsẹ́yìn.
+# text_en = If it was a mistake that brought you here, click the back button.
 1	T'	T'	NOUN	_	_	3	nsubj	_	SpaceAfter=No
 2	óbá	óbá	ADV	_	_	3	advmod	_	_
 3	sepé	sepé	VERB	_	_	0	root	_	_
@@ -7371,12 +7372,12 @@
 7	yin	yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_
 8	dé	dé	VERB	_	_	6	compound:svc	_	_
 9	bi	bi	ADV	_	_	6	advmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_
-12	kọn	kọn	DET	_	_	9	conj	_	_
-13	bọ́tìnì	bọ́tìnì	CCONJ	_	_	14	cc	_	_
-14	ìpadàsẹ́yìn	ìpadàsẹ́yìn	NOUN	_	_	12	obj	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	3	punct	_	_
+10	,	,	PUNCT	_	_	12	punct	_	Gloss=,
+11	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	Gloss=you
+12	kọn	kọn	VERB	_	_	9	conj	_	Gloss=press
+13	bọ́tìnì	bọ́tìnì	NOUN	_	_	12	obj	_	Gloss=button
+14	ìpadàsẹ́yìn	ìpadàsẹ́yìn	NOUN	_	_	13	nmod	_	Gloss=back|SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0027
