@@ -9221,7 +9221,8 @@
 # newpar
 # sent_id = wiki0104
 # text = Ẹ le wá àkọlé ojúewé yìí nínú àwọn ojúewé mìíràn, tàbí wá àwọn àkọọ́lẹ̀ tó bámu, sùgbọ́n ẹ kò ní àṣẹ láti ṣ'ẹ̀dá ojúewé yìí.
-1	Ẹ	Ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+# text_en = You may search for this page title in other pages, or search for related logs, but you do not have permission to create this page.
+1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you
 2	le	le	VERB	_	_	0	root	_	_
 3	wá	wá	VERB	_	_	2	compound:svc	_	_
 4	àkọlé	àkọlé	ADP	_	_	5	case	_	_
@@ -9231,16 +9232,16 @@
 8	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	9	det	_	_
 9	ojúewé	ojúewé	NOUN	_	_	2	obl	_	_
 10	mìíràn	mìíràn	ADJ	_	_	9	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	tàbí	tàbí	PRON	_	_	13	nsubj	_	_
-13	wá	wá	VERB	_	_	2	conj	_	_
-14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	_
-15	àkọọ́lẹ̀	àkọọ́lẹ̀	NOUN	_	_	13	obj	_	_
-16	tó	tó	ADV	_	_	17	advmod	_	_
-17	bámu	bámu	VERB	_	_	13	compound:svc	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	22	punct	_	_
-19	sùgbọ́n	sùgbọ́n	CCONJ	_	_	22	cc	_	_
-20	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	22	nsubj	_	_
+11	,	,	PUNCT	_	_	13	punct	_	Gloss=,
+12	tàbí	tàbí	CCONJ	_	_	13	cc	_	Gloss=or
+13	wá	wá	VERB	_	_	2	conj	_	Gloss=find
+14	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	15	det	_	Gloss=them
+15	àkọọ́lẹ̀	àkọọ́lẹ̀	NOUN	_	_	13	obj	_	Gloss=record
+16	tó	tó	ADV	_	_	17	advmod	_	Gloss=durable
+17	bámu	bámu	VERB	_	_	13	compound:svc	_	Gloss=fit|SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	Gloss=,
+19	sùgbọ́n	sùgbọ́n	CCONJ	_	_	22	cc	_	Gloss=but
+20	ẹ	ẹ	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	22	nsubj	_	Gloss=you
 21	kò	kò	PART	_	_	22	advmod	_	_
 22	ní	ní	VERB	_	_	2	conj	_	_
 23	àṣẹ	àṣẹ	NOUN	_	_	22	obj	_	_
