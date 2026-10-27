@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>317</sentences><tokens>8198</tokens><words>8243</words><fused>43</fused></test>
   </size>
-  <lemmas unique="1355" /><!-- ,, ., ó, tí, sì, ní, àwọn, pé, fún, ni, rẹ̀, ṣe, ti, sí, kí -->
+  <lemmas unique="1354" /><!-- ,, ., ó, tí, sì, ní, àwọn, pé, fún, ni, rẹ̀, ṣe, ti, sí, kí -->
   <forms unique="1361" /><!-- ,, ., ó, tí, sì, ní, àwọn, pé, fún, ni, rẹ̀, ti, ṣe, sí, kí -->
   <fusions unique="23" /><!-- orúkọ, lórúkọ, sílẹ̀, lọ́wọ́, ìṣọmọlórúkọ, lára, pànìyàn, sílé, fọwọ́, gbàágbọ́, láradá, lógo, lókúta, lóró, lẹ́nu -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -19,10 +19,10 @@
     <tag name="ADP">692</tag><!-- ní, fún, sí, láti, nínú, ti, inú, kúrò, lẹ́yìn, nípa -->
     <tag name="ADV">324</tag><!-- nígbà, náà, bẹ́ẹ̀, tó, tún, pẹ̀lú, gẹ́gẹ́, níbẹ̀, ká, lóòótọ́ -->
     <tag name="AUX">401</tag><!-- ń, ti, jẹ́, kí, lè, yóò, máa, má, ó, ní -->
-    <tag name="CCONJ">348</tag><!-- sì, àti, ṣùgbọ́n, tàbí, Olorì, ati, sùgbọ́n, tí, òun, Akadẹ́mì -->
-    <tag name="DET">278</tag><!-- àwọn, yìí, náà, gbogbo, o, wọ̀nyí, Oríṣìíríṣìí, báyìí, bákanáà, kọn -->
+    <tag name="CCONJ">347</tag><!-- sì, àti, ṣùgbọ́n, tàbí, Olorì, ati, sùgbọ́n, tí, òun, Akadẹ́mì -->
+    <tag name="DET">277</tag><!-- àwọn, yìí, náà, gbogbo, o, wọ̀nyí, oríṣìíríṣìí, báyìí, bákanáà, lo -->
     <tag name="INTJ">1</tag><!-- Kíyèsí -->
-    <tag name="NOUN">1511</tag><!-- ọlọ́run, ènìyàn, ohun, ọmọ, ilẹ̀, ilé, ọ̀run, ojú, ojúewé, àgùntàn -->
+    <tag name="NOUN">1512</tag><!-- ọlọ́run, ènìyàn, ohun, ọmọ, ilẹ̀, ilé, ọ̀run, ojú, ojúewé, àgùntàn -->
     <tag name="NUM">78</tag><!-- kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520 -->
     <tag name="PART">189</tag><!-- ni, kò, kìí, kì, kọ́, í, bí, Kíni, hàn, ki -->
     <tag name="PRON">1354</tag><!-- ó, tí, rẹ̀, wọn, ẹ, a, wọ́n, yín, ẹni, ìwọ -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">1114</tag><!-- ,, ., “, ”, :, -, ?, (, ;, ) -->
     <tag name="SCONJ">348</tag><!-- pé, bí, nítorí, bá, kí, tilẹ̀, tó, tí, baà, ìbáṣe -->
     <tag name="SYM">1</tag><!-- + -->
-    <tag name="VERB">1218</tag><!-- ṣe, wí, fi, lọ, wà, wá, rí, ní, dá, gbọ́ -->
+    <tag name="VERB">1219</tag><!-- ṣe, wí, fi, lọ, wà, wá, rí, ní, dá, gbọ́ -->
     <tag name="X">9</tag><!-- _, ha -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -44,16 +44,16 @@
     <feat name="ExtPos" value="DET" upos="DET">3</feat><!-- náà, Àwọn -->
     <feat name="ExtPos" value="PRON" upos="PRON">29</feat><!-- ẹni, ẹnì, èéṣe -->
     <feat name="ExtPos" value="SCONJ" upos="ADP,SCONJ">30</feat><!-- nítorí, Bó, Lẹ́yìn, bá, léyí -->
-    <feat name="Number" value="Plur" upos="AUX,DET,PRON,PROPN">479</feat><!-- àwọn, wọn, wọ́n, ẹ, a, yín, ẹ̀yin, wa, tiwọn, àwa -->
+    <feat name="Number" value="Plur" upos="AUX,DET,PRON,PROPN">481</feat><!-- àwọn, wọn, wọ́n, ẹ, a, yín, ẹ̀yin, wa, tiwọn, àwa -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">673</feat><!-- ó, rẹ̀, ìwọ, mi, èmi, rẹ, un, i, mo, òun -->
     <feat name="NumType" value="Card" upos="ADP,NUM">78</feat><!-- kan, méjì, 3, 000, 2004, 2005, mẹ́rin, Ọ̀kan, 10, 1520 -->
     <feat name="NumType" value="Ord" upos="ADJ">8</feat><!-- kẹrin, Benin, kejì, kárùn-ún, kìn-ín-ní, lóbìnrin, ún -->
     <feat name="Person" value="1" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">191</feat><!-- a, mi, èmi, mo, mí, wa, bíi, àwa, Nnaji, gidi -->
     <feat name="Person" value="2" upos="PRON">218</feat><!-- ẹ, yín, ìwọ, rẹ, ẹ̀yin, ọ, ọ́, alàtúnkọ, jọ, mọ -->
     <feat name="Person" value="3" upos="AUX,PRON">616</feat><!-- ó, rẹ̀, wọn, wọ́n, un, i, òun, a, tirẹ̀, á -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">249</feat><!-- àwọn, náà, yìí, èyí, wọ̀nyí -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">254</feat><!-- àwọn, náà, yìí, èyí, wọ̀nyí, naà, ná, wọnni, ìwọ̀nyí -->
     <feat name="PronType" value="Emp" upos="PRON">15</feat><!-- ara -->
-    <feat name="PronType" value="Ind" upos="ADV,CCONJ,DET,PRON">61</feat><!-- ẹni, ẹnikẹ́ni, o, àwọn, ẹnì, Ibi, nìkan, pọn, Àti, àworan -->
+    <feat name="PronType" value="Ind" upos="ADV,CCONJ,DET,PRON">64</feat><!-- ẹni, ẹnikẹ́ni, o, àwọn, Oríṣìíríṣìí, ẹnì, Ibi, Orísìírísìí, nìkan, pọn -->
     <feat name="PronType" value="Int" upos="PRON">8</feat><!-- kí, Ta, kín, èwo, èéṣe -->
     <feat name="PronType" value="Prs" upos="ADJ,ADP,AUX,CCONJ,NOUN,NUM,PRON,PROPN,SCONJ">1025</feat><!-- ó, rẹ̀, wọn, ẹ, a, wọ́n, yín, ìwọ, mi, èmi -->
     <feat name="PronType" value="Rel" upos="PRON">239</feat><!-- tí, ti, ohunkóhun, bi -->
@@ -69,7 +69,7 @@
     <dep name="appos">21</dep>
     <dep name="aux">349</dep>
     <dep name="case">782</dep>
-    <dep name="cc">350</dep>
+    <dep name="cc">349</dep>
     <dep name="ccomp">194</dep>
     <dep name="compound">77</dep>
     <dep name="compound:prt">17</dep>
@@ -85,7 +85,7 @@
     <dep name="goeswith">6</dep>
     <dep name="iobj">2</dep>
     <dep name="mark">309</dep>
-    <dep name="nmod">659</dep>
+    <dep name="nmod">660</dep>
     <dep name="nsubj">944</dep>
     <dep name="nummod">27</dep>
     <dep name="obj">534</dep>
