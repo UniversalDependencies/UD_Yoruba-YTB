@@ -3941,14 +3941,14 @@
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.27
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=she|Ref=MARK_5.27
 4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and|Ref=MARK_5.27
-5	gburo	gburo	VERB	_	_	0	root	_	Gloss=hear|Ref=MARK_5.27
+5	gburo	gburo	VERB	_	_	12	advcl	_	Gloss=hear|Ref=MARK_5.27
 6	iṣẹ́	iṣẹ́	NOUN	_	_	5	obj	_	Gloss=work|Ref=MARK_5.27
 7	ìyanu	ìyanu	NOUN	_	_	6	nmod	_	Gloss=wonders|Ref=MARK_5.27
 8	tí	tí	PRON	_	PronType=Rel	10	obj	_	Gloss=that|Ref=MARK_5.27
 9	Jésù	jésù	PROPN	_	_	10	nsubj	_	Gloss=jesus|Ref=MARK_5.27
 10	ṣe	ṣe	VERB	_	_	7	acl	_	Gloss=do|Ref=MARK_5.27|SpaceAfter=No
 11	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MARK_5.27
-12	ìdí	ìdí	NOUN	_	_	5	obj	_	Gloss=reason|Ref=MARK_5.27
+12	ìdí	ìdí	NOUN	_	_	0	root	_	Gloss=reason|Ref=MARK_5.27
 13-14	nìyìí	_	_	_	_	_	_	_	_
 13	ni	ni	PART	_	_	14	case	_	Gloss=is|Ref=MARK_5.27
 14	èyí	èyí	DET	_	PronType=Dem	12	det	_	Gloss=this|Ref=MARK_5.27
@@ -3971,7 +3971,7 @@
 30	kan	kan	VERB	_	_	29	compound:svc	_	Gloss=touch|Ref=MARK_5.27
 31	aṣọ	aṣọ	NOUN	_	_	29	obj	_	Gloss=garments|Ref=MARK_5.27
 32	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	31	nmod	_	Gloss=his|Ref=MARK_5.27|SpaceAfter=No
-33	.	.	PUNCT	_	_	5	punct	_	Ref=MARK_5.27
+33	.	.	PUNCT	_	_	12	punct	_	Ref=MARK_5.27
 
 # sent_id = MARK_5.28
 # text = Nítorí ti ó rò ní ọkàn rẹ̀ pé, “Bí mo bá ṣá à lè fi ọwọ́ kan aṣọ rẹ̀, ara mi yóò dá.”
@@ -4069,7 +4069,7 @@
 29	fi	fi	VERB	_	_	23	ccomp	_	Gloss=with|Ref=MARK_5.30
 30	ọwọ́	ọwọ́	NOUN	_	_	29	obj	_	Gloss=hand|Ref=MARK_5.30
 31	kan	kan	VERB	_	_	30	compound:svc	_	Gloss=touch|Ref=MARK_5.30
-32	aṣọ	aṣọ	NOUN	_	_	29	obj	_	Gloss=garments|Ref=MARK_5.30
+32	aṣọ	aṣọ	NOUN	_	_	31	obj	_	Gloss=garments|Ref=MARK_5.30
 33	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	32	nmod	_	Gloss=my|Ref=MARK_5.30|SpaceAfter=No
 34	?	?	PUNCT	_	_	29	punct	_	Gloss=?|Ref=MARK_5.30|SpaceAfter=No
 35	”	”	PUNCT	_	_	29	punct	_	Gloss=.|Ref=MARK_5.30
@@ -4110,7 +4110,7 @@
 31	fi	fi	VERB	_	_	28	acl	_	Gloss=use|Ref=MARK_5.31
 32	ọwọ́	ọwọ́	NOUN	_	_	31	obj	_	Gloss=hand|Ref=MARK_5.31
 33	kàn	kàn	VERB	_	_	31	compound:svc	_	Gloss=touched|Ref=MARK_5.31
-34	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	31	obj	_	Gloss=you|Ref=MARK_5.31|SpaceAfter=No
+34	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	33	obj	_	Gloss=you|Ref=MARK_5.31|SpaceAfter=No
 35	?	?	PUNCT	_	_	13	punct	_	Gloss=?|Ref=MARK_5.31|SpaceAfter=No
 36	”	”	PUNCT	_	_	13	punct	_	Gloss=”|Ref=MARK_5.31
 
@@ -4134,7 +4134,7 @@
 15	fi	fi	VERB	_	_	9	conj	_	Gloss=use|Ref=MARK_5.32
 16	ọwọ́	ọwọ́	NOUN	_	_	15	obj	_	Gloss=hand|Ref=MARK_5.32
 17	kan	kan	VERB	_	_	16	compound:svc	_	Gloss=touched|Ref=MARK_5.32
-18	òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	obj	_	Gloss=him|Ref=MARK_5.32|SpaceAfter=No
+18	òun	òun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=him|Ref=MARK_5.32|SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=MARK_5.32
 
 # sent_id = MARK_5.33
