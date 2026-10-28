@@ -7969,7 +7969,7 @@
 15	èrè	èrè	NOUN	_	_	14	obj	_	Gloss=profit
 16	ínlá	ínlá	ADJ	_	_	15	amod	_	Gloss=huge
 17	wá	wá	VERB	_	_	14	compound:svc	_	Gloss=come
-18	fun	fun	ADP	_	_	18	obl	_	Gloss=for|SpaceAfter=No
+18	fun	fun	ADP	_	_	17	obl	_	Gloss=for|SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # newpar
@@ -8018,7 +8018,7 @@
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	Mark	mark	NOUN	_	Foreign=Yes	10	conj	_	Lang=en
 13	of	of	ADP	_	Foreign=Yes	15	case	_	Lang=en
-14	the	the	DET	_	Foreign=Yes	15	det	_	Lang=en
+14	the	the	DET	_	Foreign=Yes|PronType=Art	15	det	_	Lang=en
 15	Beast	beast	NOUN	_	Foreign=Yes	12	nmod	_	Lang=en
 16	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and
 17	Ijele	Ijele	PROPN	_	_	10	conj	_	Gloss=Ijele|SpaceAfter=No
