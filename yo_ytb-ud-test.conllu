@@ -7927,29 +7927,31 @@
 # newpar
 # sent_id = wiki0045
 # text = Ó tún ṣe ìpolówó ọjà bíi méèló kan nínú èyí tó jẹ́ fún Pronto àti ọṣẹ ìfọsọ Omo.
-1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	tún	tún	ADV	_	_	3	advmod	_	_
-3	ṣe	ṣe	VERB	_	_	0	root	_	_
-4	ìpolówó	ìpolówó	NOUN	_	_	3	obj	_	_
-5	ọjà	ọjà	NOUN	_	_	4	nmod	_	_
+# text_en = He also did a few commercials, including ones for Pronto and Omo laundry detergent.
+1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
+2	tún	tún	ADV	_	_	3	advmod	_	Gloss=also
+3	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do
+4	ìpolówó	ìpolówó	NOUN	_	_	3	obj	_	Gloss=advertisment
+5	ọjà	ọjà	NOUN	_	_	4	nmod	_	Gloss=product
 6	bíi	bíi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 7	méèló	méèló	VERB	_	_	3	compound:svc	_	_
-8	kan	kan	NUM	_	NumType=Card	3	obj	_	_
-9	nínú	nínú	ADP	_	_	10	case	_	_
-10	èyí	èyí	PRON	_	PronType=Dem	3	obl	_	_
-11	tó	tó	SCONJ	_	_	14	case	_	_
-12	jẹ́	jẹ́	AUX	_	_	14	cop	_	_
-13	fún	fún	ADP	_	_	14	case	_	_
-14	Pronto	Pronto	NOUN	_	_	3	obl	_	_
+8	kan	kan	NUM	_	NumType=Card	14	nsubj	_	Gloss=one
+9	nínú	nínú	ADP	_	_	10	case	_	Gloss=of
+10	èyí	èyí	PRON	_	PronType=Dem	8	nmod	_	Gloss=those
+11	tó	tó	SCONJ	_	_	14	case	_	Gloss=that
+12	jẹ́	jẹ́	AUX	_	_	14	cop	_	Gloss=be
+13	fún	fún	ADP	_	_	14	case	_	Gloss=for
+14	Pronto	Pronto	PROPN	_	_	4	acl	_	Gloss=Pronto
 15	àti	àti	CCONJ	_	_	16	cc	_	_
 16	ọṣẹ	ọṣẹ	NOUN	_	_	14	conj	_	_
 17	ìfọsọ	ìfọsọ	NOUN	_	_	16	nmod	_	_
-18	Omo	Omo	ADJ	_	_	17	amod	_	SpaceAfter=No
+18	Omo	Omo	PROPN	_	_	17	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
 
 # newpar
 # sent_id = wiki0046
 # text = Ní 2004 ó di aṣojú fún ọsẹ ìwẹ̀ Lux, ìbáṣe ìgbọ̀wọ́ tọ́ fa èrè ínlá wá fun.
+# text_en = In 2004, she became a brand ambassador for Lux soap—a sponsorship deal that brought her significant earnings.
 1	Ní	ní	ADP	_	_	2	case	_	_
 2	2004	2004	NUM	_	NumType=Card	4	nsubj	_	_
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
@@ -7960,15 +7962,15 @@
 8	ìwẹ̀	ìwẹ̀	ADP	_	_	9	case	_	_
 9	Lux	Lux	NOUN	_	_	4	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	_
-11	ìbáṣe	ìbáṣe	SCONJ	_	_	14	mark	_	_
-12	ìgbọ̀wọ́	ìgbọ̀wọ́	NOUN	_	_	14	nsubj	_	_
-13	tọ́	tọ́	ADV	_	_	14	advmod	_	_
-14	fa	fa	VERB	_	_	4	conj	_	_
-15	èrè	èrè	NOUN	_	_	14	obj	_	_
-16	ínlá	ínlá	ADJ	_	_	15	amod	_	_
-17	wá	wá	VERB	_	_	14	compound:svc	_	_
-18	fun	fun	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	obj	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	4	punct	_	_
+11	ìbáṣe	ìbáṣe	SCONJ	_	_	14	mark	_	Gloss=relationship
+12	ìgbọ̀wọ́	ìgbọ̀wọ́	NOUN	_	_	14	nsubj	_	Gloss=guarantee
+13	tọ́	tọ́	ADV	_	_	14	advmod	_	Gloss=durable
+14	fa	fa	VERB	_	_	4	conj	_	Gloss=bring
+15	èrè	èrè	NOUN	_	_	14	obj	_	Gloss=profit
+16	ínlá	ínlá	ADJ	_	_	15	amod	_	Gloss=huge
+17	wá	wá	VERB	_	_	14	compound:svc	_	Gloss=come
+18	fun	fun	ADP	_	_	18	obl	_	Gloss=for|SpaceAfter=No
+19	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # newpar
 # sent_id = wiki0047
@@ -8002,24 +8004,25 @@
 # newpar
 # sent_id = wiki0048
 # text = Lẹ́yìn rẹ̀ ó tún ṣe àwọn filmu bíi Last Party, Mark of the Beast àti Ijele.
-1	Lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	_
-2	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
-4	tún	tún	ADV	_	_	5	advmod	_	_
-5	ṣe	ṣe	VERB	_	_	0	root	_	_
-6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	_
-7	filmu	filmu	NOUN	_	_	5	obj	_	_
-8	bíi	bíi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
-9	Last	Last	NOUN	_	_	5	obj	_	_
-10	Party	Party	NOUN	_	_	9	nmod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	5	punct	_	_
-12	Mark	Mark	NOUN	_	_	5	obj	_	_
-13	of	of	NOUN	_	_	12	nmod	_	_
-14	the	the	ADP	_	_	15	case	_	_
-15	Beast	Beast	NOUN	_	_	12	nmod	_	_
-16	àti	àti	CCONJ	_	_	17	cc	_	_
-17	Ijele	Ijele	NOUN	_	_	12	conj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	5	punct	_	_
+# text_en = After that, he also made films such as Last Party, Mark of the Beast, and Ijele.
+1	Lẹ́yìn	lẹ́yìn	ADP	_	_	2	case	_	Gloss=after
+2	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=he
+4	tún	tún	ADV	_	_	5	advmod	_	Gloss=also
+5	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=make
+6	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	7	det	_	Gloss=them
+7	filmu	filmu	NOUN	_	_	5	obj	_	Gloss=film
+8	bíi	bíi	ADP	_	_	9	case	_	Gloss=such.as
+9	Last	last	ADJ	_	Foreign=Yes	10	amod	_	Lang=en
+10	Party	party	NOUN	_	Foreign=Yes	7	appos	_	Lang=en|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Mark	mark	NOUN	_	Foreign=Yes	10	conj	_	Lang=en
+13	of	of	ADP	_	Foreign=Yes	15	case	_	Lang=en
+14	the	the	DET	_	Foreign=Yes	15	det	_	Lang=en
+15	Beast	beast	NOUN	_	Foreign=Yes	12	nmod	_	Lang=en
+16	àti	àti	CCONJ	_	_	17	cc	_	Gloss=and
+17	Ijele	Ijele	PROPN	_	_	10	conj	_	Gloss=Ijele|SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = wiki0049
 # text = Ó ti kópa nínúu filmu tó tó 80 ni Nollywood.
@@ -8319,32 +8322,33 @@
 # newpar
 # sent_id = wiki0060
 # text = Lẹ́yìn tí ó parí èyí ni ó lọ kẹ́kọ̀ọ́ nípa ìbára ẹni sọọ̀rọ̀ ní ilé ẹ̀kọ́ gbogbo-nìṣe tí Moshood Abíọ́lá Òjéèrè ìpínlẹ̀ Ògùn.
-1	Lẹ́yìn	lẹ́yìn	ADP	_	ExtPos=SCONJ	4	mark	_	_
-2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	_
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	parí	parí	VERB	_	_	0	root	_	_
-5	èyí	èyí	PRON	_	PronType=Dem	4	obj	_	_
+# text_en = After completing this, he went on to study communication at the Moshood Abiola Polytechnic in Ojere, Ogun State.
+1	Lẹ́yìn	lẹ́yìn	ADP	_	ExtPos=SCONJ	4	mark	_	Gloss=after
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he
+4	parí	parí	VERB	_	_	0	root	_	Gloss=finish
+5	èyí	èyí	PRON	_	PronType=Dem	4	obj	_	Gloss=this
 6	ni	ni	PART	_	_	4	case	_	_
-7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	lọ	lọ	VERB	_	_	4	compound:svc	_	_
-9	kẹ́kọ̀ọ́	kẹ́kọ̀ọ́	NOUN	_	_	4	obj	_	_
-10	nípa	nípa	ADP	_	_	11	case	_	_
-11	ìbára	ìbára	NOUN	_	_	4	obl	_	_
-12	ẹni	ẹni	PRON	_	PronType=Ind	11	nmod	_	_
-13	sọọ̀rọ̀	sọọ̀rọ̀	ADP	_	_	15	case	_	_
+7	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Gloss=he
+8	lọ	lọ	VERB	_	_	4	compound:svc	_	Gloss=go
+9	kẹ́kọ̀ọ́	kẹ́kọ̀ọ́	NOUN	_	_	8	obj	_	Gloss=study
+10	nípa	nípa	ADP	_	_	11	case	_	Gloss=regarding
+11	ìbára	ìbára	NOUN	_	_	9	nmod	_	Gloss=interaction
+12	ẹni	ẹni	PRON	_	PronType=Ind	11	nmod	_	Gloss=person
+13	sọọ̀rọ̀	sọọ̀rọ̀	NOUN	_	_	11	nmod	_	Gloss=communication
 14	ní	ní	ADP	_	_	15	case	_	_
-15	ilé	ilé	NOUN	_	_	4	obl	_	_
+15	ilé	ilé	NOUN	_	_	8	obl	_	_
 16	ẹ̀kọ́	ẹ̀kọ́	NOUN	_	_	19	nsubj	_	_
 17	gbogbo	gbogbo	DET	_	PronType=Tot	16	det	_	SpaceAfter=No
 18	-	-	PUNCT	_	_	19	punct	_	SpaceAfter=No
-19	nìṣe	nìṣe	VERB	_	_	4	parataxis	_	_
+19	nìṣe	nìṣe	VERB	_	_	8	parataxis	_	_
 20	tí	tí	PRON	_	PronType=Rel	19	obj	_	_
 21	Moshood	Moshood	NOUN	_	_	20	nmod	_	_
 22	Abíọ́lá	Abíọ́lá	NOUN	_	_	21	nmod	_	_
 23	Òjéèrè	Òjéèrè	ADP	_	_	24	case	_	_
 24	ìpínlẹ̀	ìpínlẹ̀	NOUN	_	_	21	nmod	_	_
 25	Ògùn	Ògùn	NOUN	_	_	24	nmod	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	19	punct	_	_
+26	.	.	PUNCT	_	_	8	punct	_	_
 
 # newpar
 # sent_id = wiki0061
