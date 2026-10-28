@@ -579,11 +579,11 @@
 13	òkun	òkun	NOUN	_	_	6	nmod	_	Gloss=sea|Ref=GEN_1.21|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=GEN_1.21
 15	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	16	det	_	Gloss=the|Ref=GEN_1.21
-16	ohun	ohun	NOUN	_	_	6	obj	_	Gloss=things|Ref=GEN_1.21
+16	ohun	ohun	NOUN	_	_	6	appos	_	Gloss=things|Ref=GEN_1.21
 17	ẹlẹ́mìí	ẹlẹ́mìí	NOUN	_	_	16	nmod	_	Gloss=breatheth|Ref=GEN_1.21
 18	àti	àti	CCONJ	_	_	20	cc	_	Gloss=and|Ref=GEN_1.21
 19	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	20	det	_	Gloss=the|Ref=GEN_1.21
-20	ohun	ohun	NOUN	_	_	6	obj	_	Gloss=things|Ref=GEN_1.21
+20	ohun	ohun	NOUN	_	_	16	conj	_	Gloss=things|Ref=GEN_1.21
 21	tí	tí	PRON	_	PronType=Rel	23	nsubj	_	Gloss=that|Ref=GEN_1.21
 22	ń	ń	AUX	_	_	23	aux	_	Gloss=that|Ref=GEN_1.21
 23	rìn	rìn	VERB	_	_	20	acl	_	Gloss=walk|Ref=GEN_1.21
@@ -1611,14 +1611,14 @@
 5	pé	pé	SCONJ	_	_	13	mark	_	Gloss=that|Ref=JOHN_10.32|SpaceAfter=No
 6	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=JOHN_10.32
 7	“	“	PUNCT	_	_	13	punct	_	Gloss=“|Ref=JOHN_10.32|SpaceAfter=No
-8	Ọ̀pọ̀lọpọ̀	Ọ̀pọ̀lọpọ̀	ADJ	_	_	9	amod	_	Gloss=many|Ref=JOHN_10.32
+8	Ọ̀pọ̀lọpọ̀	ọ̀pọ̀lọpọ̀	ADJ	_	_	9	amod	_	Gloss=many|Ref=JOHN_10.32
 9	iṣẹ́	iṣẹ́	NOUN	_	_	13	obj	_	Gloss=work|Ref=JOHN_10.32
 10	rere	rere	ADJ	_	_	9	amod	_	Gloss=good|Ref=JOHN_10.32
 11	ni	ni	PART	_	_	9	case	_	Gloss=is|Ref=JOHN_10.32
 12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Gloss=i|Ref=JOHN_10.32
 13	fi	fi	VERB	_	_	2	ccomp	_	Gloss=with|Ref=JOHN_10.32
 14	hàn	hàn	VERB	_	_	13	compound:svc	_	Gloss=show|Ref=JOHN_10.32
-15	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	13	obj	_	Gloss=you|Ref=JOHN_10.32
+15	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	14	obj	_	Gloss=you|Ref=JOHN_10.32
 16	láti	láti	ADP	_	_	18	case	_	Gloss=from|Ref=JOHN_10.32
 17	ọ̀dọ̀	ọ̀dọ̀	ADP	_	_	18	case	_	Gloss=from|Ref=JOHN_10.32
 18	Baba	Baba	NOUN	_	_	20	obl	_	Gloss=father|Ref=JOHN_10.32
@@ -1658,7 +1658,7 @@
 13	ọ́	ọ́	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	12	obj	_	Gloss=him|Ref=JOHN_10.33
 14-15	lókúta	_	_	_	_	_	_	_	_
 14	ní	ní	ADP	_	_	15	case	_	Gloss=with|Ref=JOHN_10.33
-15	òkúta	òkúta	NOUN	_	_	12	obj	_	Gloss=stone|Ref=JOHN_10.33
+15	òkúta	òkúta	NOUN	_	_	12	obl	_	Gloss=stone|Ref=JOHN_10.33
 16	nítorí	nítorí	SCONJ	_	_	17	case	_	Gloss=for|Ref=JOHN_10.33
 17	iṣẹ́	iṣẹ́	NOUN	_	_	12	obl	_	Gloss=work|Ref=JOHN_10.33
 18	rere	rere	ADJ	_	_	17	amod	_	Gloss=good|Ref=JOHN_10.33|SpaceAfter=No
@@ -3226,7 +3226,7 @@
 21	fi	fi	VERB	_	_	15	conj	_	Gloss=use|Ref=MARK_5.5
 22	òkúta	òkúta	NOUN	_	_	21	obj	_	Gloss=stone|Ref=MARK_5.5
 23	ya	ya	VERB	_	_	21	compound:svc	_	Gloss=cut|Ref=MARK_5.5
-24	ara	ara	PRON	_	PronType=Emp	21	obj	_	Gloss=self|Ref=MARK_5.5
+24	ara	ara	PRON	_	PronType=Emp	23	obj	_	Gloss=self|Ref=MARK_5.5
 25	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Gloss=his|Ref=MARK_5.5|SpaceAfter=No
 26	.	.	PUNCT	_	_	21	punct	_	Ref=MARK_5.5
 
@@ -3543,8 +3543,8 @@
 9	rí	rí	VERB	_	_	4	conj	_	Gloss=saw|Ref=MARK_5.15
 10	ọkùnrin	ọkùnrin	NOUN	_	_	9	obj	_	Gloss=man|Ref=MARK_5.15
 11	náà	náà	DET	_	PronType=Dem	10	det	_	Gloss=the|Ref=MARK_5.15|SpaceAfter=No
-12	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=MARK_5.15
-13	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	9	obj	_	Gloss=that|Ref=MARK_5.15
+12	,	,	PUNCT	_	_	16	punct	_	Gloss=,|Ref=MARK_5.15
+13	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	16	nsubj	_	Gloss=that|Ref=MARK_5.15
 14	tí	tí	PRON	_	PronType=Rel	13	fixed	_	Gloss=that|Ref=MARK_5.15
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	expl	_	Gloss=he|Ref=MARK_5.15
 16	ní	ní	VERB	_	_	13	acl	_	Gloss=in|Ref=MARK_5.15
@@ -3588,7 +3588,7 @@
 11	fún	fún	ADP	_	_	13	case	_	Gloss=unto|Ref=MARK_5.16
 12	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	13	det	_	Ref=MARK_5.16
 13	ènìyàn	ènìyàn	NOUN	_	_	9	obl	_	Gloss=people|Ref=MARK_5.16
-14	ohun	ohun	NOUN	_	_	9	obj	_	Gloss=things|Ref=MARK_5.16
+14	ohun	ohun	NOUN	_	_	13	nmod	_	Gloss=things|Ref=MARK_5.16
 15	tí	tí	PRON	_	PronType=Rel	17	nsubj	_	Gloss=that|Ref=MARK_5.16
 16	ó	ó	AUX	_	_	17	aux	_	Gloss=has|Ref=MARK_5.16
 17	sẹlẹ̀	sẹlẹ̀	VERB	_	_	14	acl	_	Gloss=happened|Ref=MARK_5.16
@@ -3834,7 +3834,7 @@
 21	ọwọ́	ọwọ́	NOUN	_	_	20	obj	_	Gloss=hand|Ref=MARK_5.23
 22	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	21	nmod	_	Gloss=your|Ref=MARK_5.23
 23	lé	lé	ADP	_	_	24	case	_	Gloss=on|Ref=MARK_5.23
-24	e	e	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	20	obj	_	Gloss=her|Ref=MARK_5.23|SpaceAfter=No
+24	e	e	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	20	obl	_	Gloss=her|Ref=MARK_5.23|SpaceAfter=No
 25	,	,	PUNCT	_	_	30	punct	_	Gloss=,|Ref=MARK_5.23
 26	kí	kí	SCONJ	_	_	30	mark	_	Gloss=so|Ref=MARK_5.23
 27	ara	ara	PRON	_	PronType=Emp	30	nsubj	_	Gloss=self|Ref=MARK_5.23
