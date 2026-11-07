@@ -3158,6 +3158,7 @@
 # sent_id = MARK_5.1
 # text = Wọn lọ si apákejì adágún ní ẹba ilẹ̀ àwọn ará Gádárà.
 # text_en = And they came over unto the other side of the sea, into the country of the Gadarenes.
+# parallel_id = bible/mark-5-1
 1	Wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Gloss=them|Ref=MARK_5.1
 2	lọ	lọ	VERB	_	_	0	root	_	Gloss=go|Ref=MARK_5.1
 3	si	sí	ADP	_	Typo=Yes	4	case	_	Gloss=to|Ref=MARK_5.1
@@ -3174,6 +3175,7 @@
 # sent_id = MARK_5.2
 # text = Bí Jésù sì ti ń ti inú ọkọ̀ ojú omi jáde. Ọkùnrin kan tí ó ní ẹ̀mí àìmọ́ jáde ti ibojì wá pàdé rẹ̀.
 # text_en = And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,
+# parallel_id = bible/mark-5-2
 1	Bí	bí	SCONJ	_	_	11	mark	_	Gloss=as|Ref=MARK_5.2
 2	Jésù	Jésù	PROPN	_	_	11	nsubj	_	Gloss=jesus|Ref=MARK_5.2
 3	sì	sì	CCONJ	_	_	11	cc	_	Gloss=and|Ref=MARK_5.2
@@ -3204,6 +3206,7 @@
 # sent_id = MARK_5.3
 # text = Ọkùnrin yìí ń gbé nínú ìbojì, kò sí ẹni tí ó lè dè é mọ́, kódà ẹ̀wọ̀n kò le dè é.
 # text_en = Who had his dwelling among the tombs; and no man could bind him, no, not with chains:
+# parallel_id = bible/mark-5-3
 1	Ọkùnrin	ọkùnrin	NOUN	_	_	4	nsubj	_	Gloss=man|Ref=MARK_5.3
 2	yìí	yìí	DET	_	PronType=Dem	1	det	_	Gloss=this|Ref=MARK_5.3
 3	ń	ń	AUX	_	_	4	aux	_	Gloss=is|Ref=MARK_5.3
@@ -3232,6 +3235,7 @@
 # sent_id = MARK_5.4
 # text = Nítorí pé nígbà púpọ̀ ni wọn ti ń fi ṣẹ́kẹ́sẹkẹ̀ dè é lọ́wọ́ àti ẹṣẹ̀, tí ó sì ń já a dànù kúrò ni ẹṣẹ rẹ. Kò sí ẹnìkan tí ó ní agbára láti káwọ́ rẹ̀.
 # text_en = Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him.
+# parallel_id = bible/mark-5-4
 1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	9	mark	_	Gloss=for|Ref=MARK_5.4
 2	pé	pé	SCONJ	_	_	1	fixed	_	Gloss=saying|Ref=MARK_5.4
 3	nígbà	nígbà	ADV	_	ExtPos=ADV	9	advmod	_	Gloss=when|Ref=MARK_5.4
@@ -3277,6 +3281,7 @@
 # sent_id = MARK_5.5
 # text = Tọ̀sán-tòru láàrin àwọn ibojì àti ní àwọn òkè ni ó máa ń kígbe rara tí ó sì ń fi òkúta ya ara rẹ̀.
 # text_en = And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.
+# parallel_id = bible/mark-5-5
 1	Tọ̀sán	tọ̀sán	NOUN	_	_	6	nsubj	_	Gloss=day|Ref=MARK_5.5|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Ref=MARK_5.5|SpaceAfter=No
 3	tòru	tòru	NOUN	_	_	1	compound	_	Gloss=night|Ref=MARK_5.5
@@ -3307,6 +3312,7 @@
 # sent_id = MARK_5.6
 # text = Nígbà tí ó sì rí Jésù látòkèrè, ó sí sáré lọ láti pàdé rẹ̀. Ó sì wólẹ̀ níwájú rẹ̀.
 # text_en = But when he saw Jesus afar off, he ran and worshipped him,
+# parallel_id = bible/mark-5-6
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	5	advmod	_	Gloss=when|Ref=MARK_5.6
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.6
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|Ref=MARK_5.6
@@ -3333,6 +3339,7 @@
 # sent_id = MARK_5.7
 # text = Ó sì kígbe ní ohùn rara wí pé, “Kí ni ṣe tèmi tìrẹ, Jésù Ọmọ Ọlọ́run Ọ̀ga Ògo? Mo fi Ọlọ́run bẹ̀ ọ́ má ṣe dá mi lóró.”
 # text_en = And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not.
+# parallel_id = bible/mark-5-7
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|Ref=MARK_5.7
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=MARK_5.7
 3	kígbe	kígbe	VERB	_	_	0	root	_	Gloss=cried|Ref=MARK_5.7
@@ -3373,6 +3380,7 @@
 # sent_id = MARK_5.8
 # text = Nítorí tí Ó wí fún un pé, “Jáde kúrò lára ọkùnrin náà, ìwọ ẹ̀mí àìmọ́!”
 # text_en = For he said unto him, Come out of the man, thou unclean spirit.
+# parallel_id = bible/mark-5-8
 1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	4	mark	_	Gloss=for|Ref=MARK_5.8
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.8
 3	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|Ref=MARK_5.8
@@ -3397,6 +3405,7 @@
 # sent_id = MARK_5.9
 # text = Jésù sì bi í léèrè pé, “Kí ni orúkọ rẹ?” Ẹ̀mí àìmọ́ náà sì dáhùn wí pé, “Líjíọ́nì, nítorí àwa pọ̀.”
 # text_en = And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many.
+# parallel_id = bible/mark-5-9
 1	Jésù	jésù	PROPN	_	_	3	nsubj	_	Gloss=jesus|Ref=MARK_5.9
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=MARK_5.9
 3	bi	bi	VERB	_	_	0	root	_	Gloss=ask|Ref=MARK_5.9
@@ -3431,6 +3440,7 @@
 # sent_id = MARK_5.10
 # text = Nígbà náà ni ẹ̀mí àìmọ́ náà bẹ̀rẹ̀ sí í bẹ Jésù gidigidi, kí ó má ṣe rán àwọn jáde kúrò ní agbègbè náà.
 # text_en = And he besought him much that he would not send them away out of the country.
+# parallel_id = bible/mark-5-10
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	5	advmod	_	Gloss=then|Ref=MARK_5.10
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=|Ref=MARK_5.10
 3	ni	ni	PART	_	_	4	case	_	Gloss=is|Ref=MARK_5.10
@@ -3460,6 +3470,7 @@
 # sent_id = MARK_5.11
 # text = Agbo ẹlẹ́dẹ̀ ńlá kan sì ń jẹ lẹ́bàá òké.
 # text_en = Now there was there nigh unto the mountains a great herd of swine feeding.
+# parallel_id = bible/mark-5-11
 1	Agbo	agbo	NOUN	_	_	2	nmod	_	Gloss=flock|Ref=MARK_5.11
 2	ẹlẹ́dẹ̀	ẹlẹ́dẹ̀	NOUN	_	_	7	nsubj	_	Gloss=swine|Ref=MARK_5.11
 3	ńlá	ńlá	ADJ	_	_	2	amod	_	Gloss=great|Ref=MARK_5.11
@@ -3474,6 +3485,7 @@
 # sent_id = MARK_5.12
 # text = Àwọn ẹ̀mí àìmọ́ náà bẹ Jésù pé, “Rán wa lọ sínú àwọn ẹlẹ́dẹ̀ wọnni kí awa le è wọ inú wọn lọ.”
 # text_en = And all the devils besought him, saying, Send us into the swine, that we may enter into them.
+# parallel_id = bible/mark-5-12
 1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.12
 2	ẹ̀mí	ẹ̀mí	NOUN	_	_	5	nsubj	_	Gloss=spirit|Ref=MARK_5.12
 3	àìmọ́	àìmọ́	ADJ	_	_	2	amod	_	Gloss=unclean|Ref=MARK_5.12
@@ -3504,6 +3516,7 @@
 # sent_id = MARK_5.13
 # text = Jésù fún wọn láàyè, àwọn ẹ̀mí àìmọ́ náà sì jáde kúrò lára ọkùnrin náà, wọ́n sì wọ inú àwọn ẹlẹ́dẹ̀ náà lọ. Agbo ẹlẹ́dẹ̀ náà tí ó tó ìwọ̀n ẹgbàá sì túká lọ́gán, wọ́n sì sáré lọ ní gẹ̀rẹ́gẹ̀rẹ́ òkè rọ́ sínú òkun, wọ́n sì ṣègbé.
 # text_en = And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.
+# parallel_id = bible/mark-5-13
 1	Jésù	jésù	PROPN	_	_	2	nsubj	_	Gloss=jesus|Ref=MARK_5.13
 2	fún	fún	VERB	_	_	0	root	_	Gloss=gave|Ref=MARK_5.13
 3	wọn	wọn	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=them|Ref=MARK_5.13
@@ -3560,6 +3573,7 @@
 # sent_id = MARK_5.14
 # text = Àwọn olùtọ́jú ẹran wọ̀nyí sì sá lọ sí àwọn ìlú ńlá àti ìlú kéékèèkéé, wọ́n sì ń tan ìròyìn náà ká bí wọ́n ti ń sáré. Àwọn ènìyàn sì tú jáde láti fojú gán-án-ní ohun náà tí ó sẹlẹ̀.
 # text_en = And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.
+# parallel_id = bible/mark-5-14
 1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.14
 2	olùtọ́jú	olùtọ́jú	NOUN	_	_	6	nsubj	_	Gloss=porters|Ref=MARK_5.14
 3	ẹran	ẹran	NOUN	_	_	6	nmod	_	Gloss=animal|Ref=MARK_5.14
@@ -3606,6 +3620,7 @@
 # sent_id = MARK_5.15
 # text = Nígbà tí wọ́n péjọ sọ́dọ̀ Jésù, wọ́n rí ọkùnrin náà, ẹni tí ó ní ẹ̀mí-èṣù, tí ó jokòó níbẹ̀, ó wọ aṣọ iye rẹ sì bọ̀ sípọ, ẹ̀rù sì bà wọ́n.
 # text_en = And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.
+# parallel_id = bible/mark-5-15
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	4	advmod	_	Gloss=when|Ref=MARK_5.15
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.15
 3	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they|Ref=MARK_5.15
@@ -3649,6 +3664,7 @@
 # sent_id = MARK_5.16
 # text = Àwọn tí ìṣẹ̀lẹ̀ yìí ṣojú wọn sì ń ròyìn rẹ̀ fún àwọn ènìyàn ohun tí ó sẹlẹ̀ sí ọkùnrin ẹlẹ́mí àìmọ́, wọn si sọ nípa agbo ẹlẹ́dẹ̀ náà pẹ̀lú.
 # text_en = And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.
+# parallel_id = bible/mark-5-16
 1	Àwọn	àwọn	DET	_	ExtPos=DET|Number=Plur|PronType=Dem	3	det	_	Gloss=those|Ref=MARK_5.16
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.16
 3	ìṣẹ̀lẹ̀	ìṣẹ̀lẹ̀	NOUN	_	_	0	root	_	Gloss=happening|Ref=MARK_5.16
@@ -3684,6 +3700,7 @@
 # sent_id = MARK_5.17
 # text = Nígbà náà, àwọn èrò bẹ̀rẹ̀ sí ní bẹ Jésù pé kí ó fi agbégbé àwọn sílẹ̀.
 # text_en = And they began to pray him to depart out of their coasts.
+# parallel_id = bible/mark-5-17
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	6	advmod	_	Gloss=when|Ref=MARK_5.17
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=|Ref=MARK_5.17|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MARK_5.17
@@ -3706,6 +3723,7 @@
 # sent_id = MARK_5.18
 # text = Bí Jésù ti ń wọ inú ọkọ̀ ojú-omi lọ, ọkùnrin náà tí ó ti ní ẹ̀mí àìmọ́ tẹ̀lẹ̀ bẹ̀ Ẹ́ pé kí òun lè bá a lọ.
 # text_en = And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.
+# parallel_id = bible/mark-5-18
 1	Bí	bí	SCONJ	_	_	5	mark	_	Gloss=as|Ref=MARK_5.18
 2	Jésù	jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=MARK_5.18
 3	ti	ti	AUX	_	_	5	aux	_	Gloss=have|Ref=MARK_5.18
@@ -3741,6 +3759,7 @@
 # sent_id = MARK_5.19
 # text = Jésù kò gbà fún un, ṣùgbọ́n ó wí fún un pé, “Lọ sí ilé sí ọ̀dọ̀ àwọn ẹbí rẹ, kí o sì sọ fún wọn bí Ọlọ́run ti ṣe ohun ńlá fún ọ, àti bí ó sì ti ṣàánú fún ọ.”
 # text_en = Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.
+# parallel_id = bible/mark-5-19
 1	Jésù	jésù	PROPN	_	_	3	nsubj	_	Gloss=jesus|Ref=MARK_5.19
 2	kò	kò	PART	_	_	3	advmod	_	Gloss=not|Ref=MARK_5.19
 3	gbà	gbà	VERB	_	_	0	root	_	Gloss=accept|Ref=MARK_5.19
@@ -3793,6 +3812,7 @@
 # sent_id = MARK_5.20
 # text = Nítorí naà, ọkùnrin yìí padà lọ, ó bẹ̀rẹ̀ sí ròyìn ní Dekapolisi nípa ohun ńlá tí Jésù ṣe fún un. Ẹnu sì ya gbogbo ènìyàn.
 # text_en = And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.
+# parallel_id = bible/mark-5-20
 1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=MARK_5.20
 2	naà	naà	PRON	_	PronType=Dem	1	fixed	_	Gloss=the|Ref=MARK_5.20|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MARK_5.20
@@ -3826,6 +3846,7 @@
 # sent_id = MARK_5.21
 # text = Nígbà tí Jésù sì ti inú ọkọ̀ rékọjá sí apá kejì òkun, ọ̀pọ̀ ìjọ ènìyàn péjọ yí i ká ní etí òkun.
 # text_en = And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.
+# parallel_id = bible/mark-5-21
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	8	advmod	_	Gloss=when|Ref=MARK_5.21
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.21
 3	Jésù	jésù	PROPN	_	_	8	nsubj	_	Gloss=jesus|Ref=MARK_5.21
@@ -3854,6 +3875,7 @@
 # sent_id = MARK_5.22
 # text = Ọ̀kan nínú àwọn olórí sínágọ́gù tí à ń pè ni Jáírù wá sọ́dọ̀ Jésù, nígbà tí ó sì rí i, ó wólẹ̀ níwájú rẹ̀.
 # text_en = And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
+# parallel_id = bible/mark-5-22
 1	Ọ̀kan	ọ̀kan	NUM	_	NumType=Card	4	nummod	_	Gloss=one|Ref=MARK_5.22
 2	nínú	nínú	ADP	_	_	4	case	_	Gloss=in|Ref=MARK_5.22
 3	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	4	det	_	Gloss=the|Ref=MARK_5.22
@@ -3885,6 +3907,7 @@
 # sent_id = MARK_5.23
 # text = Ó sì bẹ̀ ẹ́ gidigidi pé, “Ọmọbìnrin mi wà lójú ikú, mo bẹ̀ ọ́, wá fi ọwọ́ rẹ lé e, kí ara rẹ̀ lè dá, kí ó sì yè.”
 # text_en = And besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live.
+# parallel_id = bible/mark-5-23
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|Ref=MARK_5.23
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=MARK_5.23
 3	bẹ̀	bẹ̀	VERB	_	_	0	root	_	Gloss=beg|Ref=MARK_5.23
@@ -3926,6 +3949,7 @@
 # sent_id = MARK_5.24
 # text = Jésù sì ń bá a lọ. Ọ̀pọ̀ ìjọ ènìyàn sì ń tọ̀ Ọ́ lẹ́yìn.
 # text_en = And Jesus went with him; and much people followed him, and thronged him.
+# parallel_id = bible/mark-5-24
 1	Jésù	jésù	PROPN	_	_	6	nsubj	_	Gloss=jesus|Ref=MARK_5.24
 2	sì	sì	CCONJ	_	_	6	cc	_	Gloss=and|Ref=MARK_5.24
 3	ń	ń	AUX	_	_	6	aux	_	Gloss=is|Ref=MARK_5.24
@@ -3946,6 +3970,7 @@
 # sent_id = MARK_5.25
 # text = Obìnrin kan sì wà láàrin ọ̀pọ̀ ènìyàn náà, tí ó ti ní ìsun ẹ̀jẹ̀ fún odidi ọdún méjìlá.
 # text_en = And a certain woman, which had an issue of blood twelve years,
+# parallel_id = bible/mark-5-25
 1	Obìnrin	obìnrin	NOUN	_	_	4	nsubj	_	Gloss=woman|Ref=MARK_5.25
 2	kan	kan	NUM	_	NumType=Card	1	nmod	_	Gloss=a|Ref=MARK_5.25
 3	sì	sì	CCONJ	_	_	4	cc	_	Gloss=and|Ref=MARK_5.25
@@ -3970,6 +3995,7 @@
 # sent_id = MARK_5.26
 # text = Ẹni tí ojú rẹ̀ sì ti rí ọ̀pọ̀lọpọ̀ ìpọ́njú lọ́dọ̀ ọ̀pọ̀ àwọn oníṣègùn, tí ó sì ti ná gbogbo ohun tí ó ní, síbẹ̀ kàkà kí ó san, ó ń burú sí i.
 # text_en = And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,
+# parallel_id = bible/mark-5-26
 1	Ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	7	nsubj	_	Gloss=someone|Ref=MARK_5.26
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.26
 3	ojú	ojú	NOUN	_	_	7	obl	_	Gloss=eyes|Ref=MARK_5.26
@@ -4011,6 +4037,7 @@
 # sent_id = MARK_5.27
 # text = Nígbà tí ó sì gburo iṣẹ́ ìyanu tí Jésù ṣe, ìdí nìyìí tí ó fi wá sẹ́yìn rẹ̀, láàrin ọ̀pọ̀ ènìyàn, ó sì fọwọ́ kan aṣọ rẹ̀.
 # text_en = When she had heard of Jesus, came in the press behind, and touched his garment.
+# parallel_id = bible/mark-5-27
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	5	advmod	_	Gloss=when|Ref=MARK_5.27
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.27
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=she|Ref=MARK_5.27
@@ -4050,6 +4077,7 @@
 # sent_id = MARK_5.28
 # text = Nítorí ti ó rò ní ọkàn rẹ̀ pé, “Bí mo bá ṣá à lè fi ọwọ́ kan aṣọ rẹ̀, ara mi yóò dá.”
 # text_en = For she said, If I may touch but his clothes, I shall be whole.
+# parallel_id = bible/mark-5-28
 1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	4	mark	_	Gloss=because|Ref=MARK_5.28
 2	ti	tí	PRON	_	PronType=Rel|Typo=Yes	1	fixed	_	Gloss=|Ref=MARK_5.28
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=she|Ref=MARK_5.28
@@ -4082,6 +4110,7 @@
 # sent_id = MARK_5.29
 # text = Ìsun ẹ̀jẹ̀ rẹ sì gbẹ lẹṣẹkẹṣẹ, òun sì mọ̀ lára rẹ̀ pé, a mú òun láradá kúrò nínú àrùn náà.
 # text_en = And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague.
+# parallel_id = bible/mark-5-29
 1	Ìsun	ìsun	NOUN	_	_	2	nmod	_	Gloss=issue|Ref=MARK_5.29
 2	ẹ̀jẹ̀	ẹ̀jẹ̀	NOUN	_	_	5	nsubj	_	Gloss=blood|Ref=MARK_5.29
 3	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Gloss=her|Ref=MARK_5.29
@@ -4112,6 +4141,7 @@
 # sent_id = MARK_5.30
 # text = Lọ́gán, Jésù sì mọ̀ nínú ara rẹ̀ pé agbára jáde lára òun. Ó yípadà láàrin ọ̀pọ̀ ènìyàn, ó sì béèrè, “Ta ni ó fi ọwọ́ kan aṣọ mi?”
 # text_en = And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?
+# parallel_id = bible/mark-5-30
 1	Lọ́gán	lọ́gán	ADV	_	_	5	advmod	_	Gloss=immediately|Ref=MARK_5.30|SpaceAfter=No
 2	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MARK_5.30
 3	Jésù	jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=MARK_5.30
@@ -4151,6 +4181,7 @@
 # sent_id = MARK_5.31
 # text = Àwọn ọmọ-ẹ̀yìn rẹ̀ wí fún un pé, “Ìwọ rí ọ̀pọ̀ ènìyàn tí ó rọ̀gbà yí ọ ká, ìwọ́ sì tún ń bèèrè ẹni tí ó fi ọwọ́ kàn ọ́?”
 # text_en = And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?
+# parallel_id = bible/mark-5-31
 1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	2	det	_	Gloss=the|Ref=MARK_5.31
 2	ọmọ	ọmọ	NOUN	_	_	6	nsubj	_	Gloss=child|Ref=MARK_5.31|SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	Gloss=-|Ref=MARK_5.31|SpaceAfter=No
@@ -4191,6 +4222,7 @@
 # sent_id = MARK_5.32
 # text = Ṣíbẹ̀, Jésù bẹ̀rẹ̀ sí wò yíká láti rí ẹni náà, tí ó fi ọwọ́ kan òun.
 # text_en = And he looked round about to see her that had done this thing.
+# parallel_id = bible/mark-5-32
 1	Ṣíbẹ̀	ṣíbẹ̀	ADV	_	_	4	advmod	_	Gloss=yet|Ref=MARK_5.32|SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	Gloss=,|Ref=MARK_5.32
 3	Jésù	jésù	PROPN	_	_	4	nsubj	_	Gloss=jesus|Ref=MARK_5.32
@@ -4214,6 +4246,7 @@
 # sent_id = MARK_5.33
 # text = Nígbà náà, obìnrin náà kún fún ìbẹ̀rù àti ìwárìrì nítorí ó ti mọ ohun tí ó ṣẹlẹ̀ lára òun. Ó sì kúnlẹ̀ níwájú rẹ̀, ó sì sọ ohun tí òun ti ṣe.
 # text_en = But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.
+# parallel_id = bible/mark-5-33
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	6	advmod	_	Gloss=then|Ref=MARK_5.33
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=|Ref=MARK_5.33|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MARK_5.33
@@ -4256,6 +4289,7 @@
 # sent_id = MARK_5.34
 # text = Jésù sì wí fún un pé, “Ọmọbìnrin, ìgbàgbọ́ rẹ mú ọ lára dá: Má a lọ ní àlàáfíà, ìwọ sì ti sàn nínú àrùn rẹ.”
 # text_en = And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.
+# parallel_id = bible/mark-5-34
 1	Jésù	jésù	PROPN	_	_	3	nsubj	_	Gloss=jesus|Ref=MARK_5.34
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=MARK_5.34
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MARK_5.34
@@ -4294,6 +4328,7 @@
 # sent_id = MARK_5.35
 # text = Bí Jésù sì ti ń ba obìnrin náà sọ̀rọ̀, àwọn ìránṣẹ́ dé láti ilé Jáírù olorí sínágọ́gù wá, wọ́n wí fún un pé, ọmọbìnrin rẹ ti kú, àti pé kí wọn má ṣe yọ Jésù lẹ́nu láti wá, nítorí ó ti pẹ́ jù.
 # text_en = While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead: why troublest thou the Master any further?
+# parallel_id = bible/mark-5-35
 1	Bí	bí	SCONJ	_	_	9	mark	_	Gloss=as|Ref=MARK_5.35
 2	Jésù	Jésù	PROPN	_	_	9	nsubj	_	Gloss=jesus|Ref=MARK_5.35
 3	sì	sì	CCONJ	_	_	9	cc	_	Gloss=and|Ref=MARK_5.35
@@ -4349,6 +4384,7 @@
 # sent_id = MARK_5.36
 # text = Ṣùgbọ́n bi Jésù ti gbọ́ ọ̀rọ̀ náà, ó wí fún Jáírù pé, “Má bẹ̀rù, sá à gbà mí gbọ́ nìkan.”
 # text_en = As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.
+# parallel_id = bible/mark-5-36
 1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	5	cc	_	Gloss=but|Ref=MARK_5.36
 2	bi	bí	SCONJ	_	Typo=Yes	5	mark	_	Gloss=as|Ref=MARK_5.36
 3	Jésù	jésù	PROPN	_	_	5	nsubj	_	Gloss=jesus|Ref=MARK_5.36
@@ -4379,6 +4415,7 @@
 # sent_id = MARK_5.37
 # text = Nígbà náà, Jésù dá ọ̀pọ̀ ènìyàn náà dúró. Kò sì jẹ́ kí ẹnikẹ́ni tẹ̀lé òun lẹ́yìn lọ ilé Jáírù, bí kò ṣe Pétérù, Jákọ́bù àti Jòhánù.
 # text_en = And he suffered no man to follow him, save Peter, and James, and John the brother of James.
+# parallel_id = bible/mark-5-37
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	5	advmod	_	Gloss=when|Ref=MARK_5.37
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=|Ref=MARK_5.37|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MARK_5.37
@@ -4414,6 +4451,7 @@
 # sent_id = MARK_5.38
 # text = Nígbà tí wọ́n dé ibẹ̀, Jésù rí i pé gbogbo nǹkan ti dàrú. Ilé kún fún àwọn tí ń sọkún, àti àwọn tí ń pohùnréré ẹkún.
 # text_en = And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.
+# parallel_id = bible/mark-5-38
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	4	advmod	_	Gloss=when|Ref=MARK_5.38
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=|Ref=MARK_5.38
 3	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=they|Ref=MARK_5.38
@@ -4448,6 +4486,7 @@
 # sent_id = MARK_5.39
 # text = Ó wọ inú ilé lọ, Ó sì bá àwọn ènìyàn sọ̀rọ̀, ó béèrè pé, “Èéṣe tí ẹ̀yin fi ń sọkún tí ẹ sì ń pohunréré ẹkún? Ọmọbìnrin náà kò kú, ó sùn lásán ni.”
 # text_en = And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.
+# parallel_id = bible/mark-5-39
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=MARK_5.39
 2	wọ	wọ	VERB	_	_	0	root	_	Gloss=go|Ref=MARK_5.39
 3	inú	inú	ADP	_	_	4	case	_	Gloss=inside|Ref=MARK_5.39
@@ -4494,6 +4533,7 @@
 # sent_id = MARK_5.40
 # text = Wọ́n sì fi í rẹ́rín. Ṣùgbọ́n ó sọ fún gbogbo wọn láti bọ́ síta, ó mú baba àti ìyá ọmọ náà, àti àwọn ọmọ ẹ̀yin rẹ̀ mẹ́ta. Ó sì wọ inú yàrá tí ọmọbìnrin náà gbé dùbúlẹ̀ sí.
 # text_en = And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.
+# parallel_id = bible/mark-5-40
 1	Wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=they|Ref=MARK_5.40
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=MARK_5.40
 3	fi	fi	VERB	_	_	5	ccomp	_	Gloss=use|Ref=MARK_5.40
@@ -4543,6 +4583,7 @@
 # sent_id = MARK_5.41
 # text = Ó gba a ní ọwọ́ mú, ó sì wí pé, “Tàlítà kúùmì” (tí ó túmọ̀ sí, ọmọdébìnrin, díde dúró).
 # text_en = And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.
+# parallel_id = bible/mark-5-41
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Ref=MARK_5.41
 2	gba	gbá	VERB	_	_	0	root	_	Gloss=receive|Ref=MARK_5.41
 3	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	obj	_	Gloss=be|Ref=MARK_5.41
@@ -4575,6 +4616,7 @@
 # sent_id = MARK_5.42
 # text = Lẹ́sẹ̀kan-náà, ọmọbìnrin náà sì dìde. Ó sì ń rìn, ẹ̀rù sì ba wọn, ẹnú sì ya àwọn òbí rẹ̀ gidigidi.
 # text_en = And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment.
+# parallel_id = bible/mark-5-42
 1	Lẹ́sẹ̀kan	lẹ́sẹ̀kan	ADJ	_	_	8	amod	_	Gloss=immediate|Ref=MARK_5.42|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=the|Ref=MARK_5.42|SpaceAfter=No
 3	náà	náà	ADV	_	_	1	compound	_	Gloss=the|Ref=MARK_5.42|SpaceAfter=No
@@ -4606,6 +4648,7 @@
 # sent_id = MARK_5.43
 # text = Jésù sì kìlọ̀ fún wọn gidigidi pé kí wọn má ṣe sọ ohun tí ó ti ṣẹlẹ̀. Ó sì wí fún wọn kí wọn fún ọmọbìnrin náà ní oúnjẹ.
 # text_en = And he charged them straitly that no man should know it; and commanded that something should be given her to eat.
+# parallel_id = bible/mark-5-43
 1	Jésù	jésù	PROPN	_	_	3	nsubj	_	Gloss=jesus|Ref=MARK_5.43
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=MARK_5.43
 3	kìlọ̀	kìlọ̀	VERB	_	_	0	root	_	Gloss=charged|Ref=MARK_5.43
