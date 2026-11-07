@@ -3,6 +3,7 @@
 # sent_id = GEN_1.1
 # text = Ní ìbẹ̀rẹ̀ ohun gbogbo Ọlọ́run dá àwọn ọ̀run àti ayé.
 # text_en = In the beginning God created the heaven and the earth.
+# parallel_id = bible/gen-1-1
 1	Ní	ní	ADP	_	_	2	case	_	Gloss=in|Ref=GEN_1.1
 2	ìbẹ̀rẹ̀	ìbẹ̀rẹ̀	NOUN	_	_	6	obl	_	Gloss=beginning|Ref=GEN_1.1
 3	ohun	ohun	NOUN	_	_	5	nmod	_	Gloss=things|Ref=GEN_1.1
@@ -18,6 +19,7 @@
 # sent_id = GEN_1.2
 # text = Ayé sì wà ní rúdurùdu, ó sì ṣófo, òkùnkùn sì wà lójú ibú omi, Ẹ̀mí Ọlọ́run sì ń rábàbà lójú omi gbogbo.
 # text_en = And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+# parallel_id = bible/gen-1-2
 1	Ayé	ayé	NOUN	_	_	3	nsubj	_	Gloss=earth|Ref=GEN_1.2
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.2
 3	wà	wà	VERB	_	_	0	root	_	Gloss=was|Ref=GEN_1.2
@@ -48,6 +50,7 @@
 # sent_id = GEN_1.3
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí ìmọ́lẹ̀ kí ó wà,” ìmọ́lẹ̀ sì wà.
 # text_en = And God said, Let there be light: and there was light.
+# parallel_id = bible/gen-1-3
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.3
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.3
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.3
@@ -70,6 +73,7 @@
 # sent_id = GEN_1.4
 # text = Ọlọ́run rí i pé ìmọ́lẹ̀ náà dára, ó sì ya ìmọ́lẹ̀ náà sọ́tọ̀ kúrò lára òkùnkùn.
 # text_en = And God saw the light, that it was good: and God divided the light from the darkness.
+# parallel_id = bible/gen-1-4
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.4
 2	rí	rí	VERB	_	_	0	root	_	Gloss=saw|Ref=GEN_1.4
 3	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=it|Ref=GEN_1.4
@@ -92,6 +96,7 @@
 # sent_id = GEN_1.5
 # text = Ọlọ́run sì pe ìmọ́lẹ̀ náà ní “Ọ̀sán” àti òkùnkùn ní “Òru.” Àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kìn-ín-ní.
 # text_en = And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+# parallel_id = bible/gen-1-5
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.5
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.5
 3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.5
@@ -120,6 +125,7 @@
 # sent_id = GEN_1.6
 # text = Ọlọ́run sì wí pé “Jẹ́ kí òfurufú kí ó wà ní àárin àwọn omi láti pààlà sí àárin àwọn omi.”
 # text_en = And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+# parallel_id = bible/gen-1-6
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.6
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.6
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.6
@@ -147,6 +153,7 @@
 # sent_id = GEN_1.7
 # text = Ọlọ́run sì dá òfurufú láti ya omi tí ó wà ní òkè òfurufú kúrò lára omi tí ó wà ní orí ilẹ̀. Ó sì rí bẹ́ẹ̀.
 # text_en = And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
+# parallel_id = bible/gen-1-7
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.7
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.7
 3	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.7
@@ -179,6 +186,7 @@
 # sent_id = GEN_1.8
 # text = Ọlọ́run sì pe òfúrufú ní “Ọ̀run,” àsálẹ́ àti òwúrọ̀ sì jẹ́ ọjọ́ kejì.
 # text_en = And God called the firmament Heaven. And the evening and the morning were the second day.
+# parallel_id = bible/gen-1-8
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.8
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.8
 3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.8
@@ -200,6 +208,7 @@
 # sent_id = GEN_1.9
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí omi abẹ́ ọ̀run wọ́ papọ̀ sí ojúkan, kí ilẹ̀ gbígbẹ sì farahàn.” Ó sì rí bẹ́ẹ̀.
 # text_en = And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
+# parallel_id = bible/gen-1-9
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.9
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.9
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.9
@@ -232,6 +241,7 @@
 # sent_id = GEN_1.10
 # text = Ọlọ́run sì pe ilẹ̀ gbígbẹ náà ní “Ilẹ̀” àti àpapọ̀ omi ní “Òkun:” Ọlórun sì rí i wí pé ó dára.
 # text_en = And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.
+# parallel_id = bible/gen-1-10
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.10
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.10
 3	pe	pe	VERB	_	_	0	root	_	Gloss=called|Ref=GEN_1.10
@@ -263,6 +273,7 @@
 # sent_id = GEN_1.11
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí ilẹ̀ kí ó hu ọ̀gbìn: ewéko tí yóò máa mú èṣo wá àti igi tí yóò máa so èṣo ní irú tirẹ̀, tí ó ní irúgbìn nínú.” Ó sì rí bẹ́ẹ̀.
 # text_en = And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
+# parallel_id = bible/gen-1-11
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.11
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.11
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.11
@@ -311,6 +322,7 @@
 # sent_id = GEN_1.12
 # text = Ilẹ̀ sì hù ọ̀gbìn: ewéko tí ó ń so èṣo ní irú tirẹ̀, àti igi tí ń so èṣo, tí ó ní irúgbìn nínú ní irú tirẹ̀. Ọlọ́run sì ri pé ó dára.
 # text_en = And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
+# parallel_id = bible/gen-1-12
 1	Ilẹ̀	ilẹ̀	NOUN	_	_	3	nsubj	_	Gloss=land|Ref=GEN_1.12
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.12
 3	hù	hu	VERB	_	_	0	root	_	Gloss=grow|Ref=GEN_1.12
@@ -353,6 +365,7 @@
 # sent_id = GEN_1.13
 # text = Àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kẹta.
 # text_en = And the evening and the morning were the third day.
+# parallel_id = bible/gen-1-13
 1	Àsálẹ́	àsálẹ́	NOUN	_	_	5	nsubj	_	Gloss=evening|Ref=GEN_1.13
 2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.13
 3	òwúrọ̀	òwúrọ̀	NOUN	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.13
@@ -364,6 +377,7 @@
 # sent_id = GEN_1.14
 # text = Ọlọ́run sì wí pé “Jẹ́ kí ìmọ́lẹ̀ kí ó wà ní ojú ọ̀run, làti pààlà sí àárin ọ̀sán àti òru, kí wọn ó sì máa wà fún àmì láti mọ àwọn àsìkò, àti àwọn ọjọ́ àti àwọn ọdún,
 # text_en = And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+# parallel_id = bible/gen-1-14
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.14
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.14
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.14
@@ -411,6 +425,7 @@
 # sent_id = GEN_1.15
 # text = Kí wọn ó jẹ́ ìmọ́lẹ̀ ní ojú ọ̀run, láti tan ìmọ́lẹ̀ sí orí ilẹ̀.” Ó sì rí bẹ́ẹ̀.
 # text_en = And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
+# parallel_id = bible/gen-1-15
 1	Kí	kí	AUX	_	_	5	aux	_	Gloss=let|Ref=GEN_1.15
 2	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Gloss=them|Ref=GEN_1.15
 3	ó	ó	AUX	_	_	5	aux	_	Gloss=should|Ref=GEN_1.15
@@ -437,6 +452,7 @@
 # sent_id = GEN_1.16
 # text = Ọlọ́run dá ìmọ́lẹ̀ ńlá-ńlá méjì, ìmọ́lẹ̀ tí ó tóbi láti ṣe àkóso ọ̀sán àti ìmọ́lẹ̀ tí ó kéré láti ṣe àkóso òru. Ó sì dá àwọn ìràwọ̀ pẹ̀lú.
 # text_en = And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
+# parallel_id = bible/gen-1-16
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.16
 2	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.16
 3	ìmọ́lẹ̀	ìmọ́lẹ̀	NOUN	_	_	2	obj	_	Gloss=light|Ref=GEN_1.16
@@ -474,6 +490,7 @@
 # sent_id = GEN_1.17
 # text = Ọlọ́run sì ṣe wọ́n lọ́jọ̀ sí ojú ọ̀run láti máa tan ìmọ́lẹ̀ si orí ilẹ̀,
 # text_en = And God set them in the firmament of the heaven to give light upon the earth,
+# parallel_id = bible/gen-1-17
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.17
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.17
 3	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=GEN_1.17
@@ -494,6 +511,7 @@
 # sent_id = GEN_1.18
 # text = láti ṣàkóso ọ̀sán àti òru àti láti pààlà sí àárin ìmọ́lẹ̀ àti òkùnkùn: Ọlọ́run sì rí i pé ó dára.
 # text_en = And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
+# parallel_id = bible/gen-1-18
 1	láti	láti	ADP	_	_	2	case	_	Gloss=to|Ref=GEN_1.18
 2	ṣàkóso	ṣàkóso	VERB	_	_	0	root	_	Gloss=rule|Ref=GEN_1.18
 3	ọ̀sán	ọ̀sán	NOUN	_	_	2	obj	_	Gloss=day|Ref=GEN_1.18
@@ -520,6 +538,7 @@
 # sent_id = GEN_1.19
 # text = Àsálẹ́ àti òwúrọ jẹ́ ọjọ́ kẹrin.
 # text_en = And the evening and the morning were the fourth day.
+# parallel_id = bible/gen-1-19
 1	Àsálẹ́	àsálẹ́	NOUN	_	_	5	nsubj	_	Gloss=evening|Ref=GEN_1.19
 2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.19
 3	òwúrọ	òwúrọ	NOUN	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.19
@@ -531,6 +550,7 @@
 # sent_id = GEN_1.20
 # text = Ọlọ́run sì wí pé, “Jẹ́ kí omi kí ó kún fún àwọn ohun alààyè, kí àwọn ẹyẹ kí ó sì máa fò ní òfurufú.”
 # text_en = And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.
+# parallel_id = bible/gen-1-20
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.20
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.20
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.20
@@ -564,6 +584,7 @@
 # sent_id = GEN_1.21
 # text = Nítorí náà Ọlọ́run dá àwọn ẹ̀dá alààyè ńlá-ńlá sí inú òkun, àwọn ohun ẹlẹ́mìí àti àwọn ohun tí ń rìn ní onírúurú tiwọn, àti àwọn ẹyẹ abìyẹ́ ní onírúurú tiwọn. Ọlọ́run sì rí i pé ó dára.
 # text_en = And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.
+# parallel_id = bible/gen-1-21
 1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	4	mark	_	Gloss=for|Ref=GEN_1.21
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=GEN_1.21
 3	Ọlọ́run	ọlọ́run	NOUN	_	_	4	nsubj	_	Gloss=god|Ref=GEN_1.21
@@ -611,6 +632,7 @@
 # sent_id = GEN_1.22
 # text = Ọlọ́run súre fún wọn, ó sì wí pé, “Ẹ máa bí sí i, ẹ sì máa pọ̀ sí i, ẹ kún inú omi òkun, kí àwọn ẹyẹ náà sì máa pọ̀ sí i ní orí ilẹ̀.”
 # text_en = And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
+# parallel_id = bible/gen-1-22
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	2	nsubj	_	Gloss=god|Ref=GEN_1.22
 2	súre	súre	VERB	_	_	0	root	_	Gloss=blessed|Ref=GEN_1.22
 3	fún	fún	ADP	_	_	4	case	_	Gloss=for|Ref=GEN_1.22
@@ -659,6 +681,7 @@
 # sent_id = GEN_1.23
 # text = Àsálẹ́ àti òwúrọ̀ jẹ́ ọjọ́ kárùn-ún.
 # text_en = And the evening and the morning were the fifth day.
+# parallel_id = bible/gen-1-23
 1	Àsálẹ́	àsálẹ́	NOUN	_	_	5	nsubj	_	Gloss=evening|Ref=GEN_1.23
 2	àti	àti	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.23
 3	òwúrọ̀	òwúrọ̀	NOUN	_	_	1	conj	_	Gloss=morning|Ref=GEN_1.23
@@ -670,6 +693,7 @@
 # sent_id = GEN_1.24
 # text = Ọlọ́run sì wí pé, “Kí ilẹ̀ kí ó mú ohun alààyè jáde ní onírúurú wọn: ẹran ọ̀sìn, àwọn ohun afàyàfà àti àwọn ẹran inú igbó, ọ̀kọ̀ọ̀kan ní irú tirẹ̀.” Ó sì rí bẹ́ẹ̀.
 # text_en = And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
+# parallel_id = bible/gen-1-24
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.24
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=GEN_1.24
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=GEN_1.24
@@ -715,6 +739,7 @@
 # sent_id = GEN_1.25
 # text = Ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀. Ọlọ́run sì rí i pé ó dára.
 # text_en = And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.
+# parallel_id = bible/gen-1-25
 1	Ọlọ́run	ọlọ́run	NOUN	_	_	3	nsubj	_	Gloss=god|Ref=GEN_1.25
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=then|Ref=GEN_1.25
 3	dá	dá	VERB	_	_	0	root	_	Gloss=made|Ref=GEN_1.25
@@ -753,6 +778,7 @@
 # sent_id = GEN_1.26
 # text = Lẹ́yìn náà ni Ọlọ́run wí pé, “Ẹ jẹ́ kí a dá ènìyàn ní àwòrán ara wa, gẹ́gẹ́ bí àwa ti rí, kí wọn kí ó jọba lórí ẹja òkun, ẹyẹ ojú ọ̀run, ohun ọ̀sìn, gbogbo ilẹ̀ àti lórí ohun gbogbo tí ń rìn lórí ilẹ̀.”
 # text_en = And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
+# parallel_id = bible/gen-1-26
 1	Lẹ́yìn	lẹ́yìn	ADP	_	ExtPos=ADP	5	case	_	Gloss=after|Ref=GEN_1.26
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=th|Ref=GEN_1.26
 3	ni	ni	PART	_	_	4	case	_	Gloss=is|Ref=GEN_1.26
