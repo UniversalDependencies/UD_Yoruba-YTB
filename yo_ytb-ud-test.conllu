@@ -4712,6 +4712,7 @@
 # sent_id = MATT_5.1
 # text = Nígbà tí ó rí ọ̀pọ̀ ènìyàn, ó gun orí òkè lọ ó sì jókòó. Àwọn ọmọ-ẹ̀yìn rẹ̀ si tọ̀ ọ́ wá.
 # text_en = And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
+# parallel_id = bible/matt-5-1
 1	Nígbà	nígbà	ADV	_	ExtPos=ADV	4	advmod	_	Gloss=when|Ref=MATT_5.1
 2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=|Ref=MATT_5.1
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=he|Ref=MATT_5.1
@@ -4742,6 +4743,7 @@
 # sent_id = MATT_5.2
 # text = Ó sì bẹ̀rẹ̀ sí kọ́ wọn wí pé:
 # text_en = And he opened his mouth, and taught them, saying,
+# parallel_id = bible/matt-5-2
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he|Ref=MATT_5.2
 2	sì	sì	CCONJ	_	_	3	cc	_	Gloss=and|Ref=MATT_5.2
 3	bẹ̀rẹ̀	bẹ̀rẹ̀	VERB	_	_	0	root	_	Gloss=began|Ref=MATT_5.2
@@ -4755,6 +4757,7 @@
 # sent_id = MATT_5.3
 # text = “Alábùkún-fún ni àwọn òtòsì ní ẹ̀mí, nítorí tiwọn ni ìjọba ọ̀run.
 # text_en = Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+# parallel_id = bible/matt-5-3
 1	“	“	PUNCT	_	_	2	punct	_	Gloss=“|Ref=MATT_5.3|SpaceAfter=No
 2	Alábùkún	alábùkún	ADJ	_	_	7	nsubj	_	Gloss=blessed|Ref=MATT_5.3|SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	Gloss=-|Ref=MATT_5.3|SpaceAfter=No
@@ -4775,6 +4778,7 @@
 # sent_id = MATT_5.4
 # text = Alábùkún-fún ni àwọn tí ń ṣọ̀fọ̀, nítorí a ó tù wọ́n nínú.
 # text_en = Blessed are they that mourn: for they shall be comforted.
+# parallel_id = bible/matt-5-4
 1	Alábùkún	alábùkún	ADJ	_	_	8	nsubj	_	Gloss=blessed|Ref=MATT_5.4|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=the|Ref=MATT_5.4|SpaceAfter=No
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.4
@@ -4795,6 +4799,7 @@
 # sent_id = MATT_5.5
 # text = Alábùkún-fún ni àwọn ọlọ́kàn tútù, nítorí wọn yóò jogún ayé.
 # text_en = Blessed are the meek: for they shall inherit the earth.
+# parallel_id = bible/matt-5-5
 1	Alábùkún	alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.5|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=the|Ref=MATT_5.5|SpaceAfter=No
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.5
@@ -4813,6 +4818,7 @@
 # sent_id = MATT_5.6
 # text = Alábùkún fún ni àwọn tí ebi ń pa tí òùngbẹ ń gbẹ́ nítorí òdodo, nítorí wọn yóò yó.
 # text_en = Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+# parallel_id = bible/matt-5-6
 1	Alábùkún	alábùkún	ADJ	_	_	8	nsubj	_	Gloss=blessed|Ref=MATT_5.6
 2	fún	fún	ADP	_	_	1	case	_	Gloss=unto|Ref=MATT_5.6
 3	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=MATT_5.6
@@ -4837,6 +4843,7 @@
 # sent_id = MATT_5.7
 # text = Alábùkún-fún ni àwọn aláàánú, nítorí wọn yóò rí àánú gbà.
 # text_en = Blessed are the merciful: for they shall obtain mercy.
+# parallel_id = bible/matt-5-7
 1	Alábùkún	alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.7|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=-|Ref=MATT_5.7|SpaceAfter=No
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.7
@@ -4855,6 +4862,7 @@
 # sent_id = MATT_5.8
 # text = Alábùkún-fún ni àwọn ọlọ́kàn mímọ́, nítorí wọn yóò rí Ọlọ́run.
 # text_en = Blessed are the pure in heart: for they shall see God.
+# parallel_id = bible/matt-5-8
 1	Alábùkún	alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.8|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=-|Ref=MATT_5.8|SpaceAfter=No
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.8
@@ -4873,6 +4881,7 @@
 # sent_id = MATT_5.9
 # text = Alábùkún-fún ni àwọn tonílàjà, nítorí ọmọ Ọlọ́run ni a ó máa pè wọ́n.
 # text_en = Blessed are the peacemakers: for they shall be called the children of God.
+# parallel_id = bible/matt-5-9
 1	Alábùkún	alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.9|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=-|Ref=MATT_5.9|SpaceAfter=No
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.9
@@ -4894,6 +4903,7 @@
 # sent_id = MATT_5.10
 # text = Alábùkún-fún ni àwọn ẹni tí a ṣe inúnibíni sí, nítorí tí wọ́n jẹ́ olódodo nítorí tiwọn ní ìjọba ọ̀run.
 # text_en = Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
+# parallel_id = bible/matt-5-10
 1	Alábùkún	alábùkún	ADJ	_	_	9	nsubj	_	Gloss=blessed|Ref=MATT_5.10|SpaceAfter=No
 2	-	-	PUNCT	_	_	3	punct	_	Gloss=-|Ref=MATT_5.10|SpaceAfter=No
 3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.10
@@ -4921,6 +4931,7 @@
 # sent_id = MATT_5.11
 # text = “Alábùkún-fún ni ẹ̀yin nígbà tí àwọn ènìyàn bá fi àbùkù kàn yín tí wọn bá ṣe inúnibíni sí yín, ti wọn fi ètè èké sọ̀rọ̀ búburú gbogbo sí yín nítorí mi.
 # text_en = Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
+# parallel_id = bible/matt-5-11
 1	“	“	PUNCT	_	_	12	punct	_	Gloss=“|Ref=MATT_5.11|SpaceAfter=No
 2	Alábùkún	alábùkún	ADJ	_	_	12	nsubj	_	Gloss=blessed|Ref=MATT_5.11|SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	Gloss=-|Ref=MATT_5.11|SpaceAfter=No
@@ -4961,6 +4972,7 @@
 # sent_id = MATT_5.12
 # text = Ẹ yọ̀, kí ẹ̀yin sì fò fún ayọ, nítorí ńlá ni èrè yín ní ọ̀run, nítorí bẹ́ẹ̀ ni wọ́n ṣe ṣe inúnibíni sí àwọn wòlíì tí ń bẹ ṣáájú yín.
 # text_en = Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
+# parallel_id = bible/matt-5-12
 1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|Ref=MATT_5.12
 2	yọ̀	yọ̀	VERB	_	_	0	root	_	Gloss=rejoice|Ref=MATT_5.12|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,|Ref=MATT_5.12
@@ -4999,6 +5011,7 @@
 # sent_id = MATT_5.13
 # text = “Ẹ̀yin ni iyọ̀ ayé. Ṣùgbọ́n bí iyọ̀ bá di òbu kí ni a ó fi mú un dùn? Kò tún wúlò fún ohunkóhun mọ́, bí kò ṣe pé kí a dà á nù, kí ó sì di ohun tí ènìyàn ń fi ẹsẹ̀ tẹ̀ mọ́lẹ̀.
 # text_en = Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
+# parallel_id = bible/matt-5-13
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.13|SpaceAfter=No
 2	Ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.13
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=MATT_5.13
@@ -5056,6 +5069,7 @@
 # sent_id = MATT_5.14
 # text = “Ẹyin ni ìmọ́lẹ̀ ayé. Ìlú tí a tẹ̀dó sórí òkè kò lè fara sin.
 # text_en = Ye are the light of the world. A city that is set on an hill cannot be hid.
+# parallel_id = bible/matt-5-14
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.14|SpaceAfter=No
 2	Ẹyin	ẹyin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.14
 3	ni	ni	PART	_	_	2	case	_	Gloss=is|Ref=MATT_5.14
@@ -5077,6 +5091,7 @@
 # sent_id = MATT_5.15
 # text = Bẹ́ẹ̀ ni a kì í tan fìtílà tán, kí a sì gbé e sí abẹ́ òṣùnwọ̀n; bí kò ṣe sí orí ọ̀pá fìtílà, a sì tan ìmọ́lẹ̀ fún gbogbo ẹni tí ń bẹ nínú ilé.
 # text_en = Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.
+# parallel_id = bible/matt-5-15
 1	Bẹ́ẹ̀	bẹ́ẹ̀	ADV	_	_	6	advmod	_	Gloss=yes|Ref=MATT_5.15
 2	ni	ni	PART	_	_	6	compound	_	Gloss=|Ref=MATT_5.15
 3	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Gloss=we|Ref=MATT_5.15
@@ -5120,6 +5135,7 @@
 # sent_id = MATT_5.16
 # text = Bákan náà, ẹ jẹ́ kí ìmọ́lẹ̀ yín kí ó mọ́lẹ níwájú ènìyàn, kí wọ́n lè máa rí iṣẹ́ rere yín, kí wọn lè máa yin baba yín tí ń bẹ ní ọ̀run lógo.
 # text_en = Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+# parallel_id = bible/matt-5-16
 1	Bákan	bákan	ADV	_	_	11	advmod	_	Gloss=Likewise|Ref=MATT_5.16
 2	náà	náà	ADV	_	_	1	compound	_	Gloss=|Ref=MATT_5.16|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MATT_5.16
@@ -5163,6 +5179,7 @@
 # sent_id = MATT_5.17
 # text = “Ẹ má se rò pé, èmí wá láti pa òfin àwọn wòlíì run, èmi kò wá láti pa wọn rẹ́, bí kò ṣe láti mú wọn ṣẹ.
 # text_en = Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
+# parallel_id = bible/matt-5-17
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.17|SpaceAfter=No
 2	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=ye|Ref=MATT_5.17
 3	má	má	AUX	_	_	4	aux	_	Gloss=not|Ref=MATT_5.17
@@ -5199,6 +5216,7 @@
 # sent_id = MATT_5.18
 # text = Lóòótọ́ ni mo wí fún un yín, títí ọ̀run òun ayé yóò fi kọjá, àmì kínkínní tí a fi gègé ṣe kan kì yóò parẹ́ kúrò nínú gbogbo òfin tó wà nínú ìwé ofin títí gbogbo rẹ̀ yóò fi wá sí ìmúṣẹ.
 # text_en = For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
+# parallel_id = bible/matt-5-18
 1	Lóòótọ́	lóòótọ́	ADV	_	_	4	advmod	_	Gloss=verily|Ref=MATT_5.18
 2	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=MATT_5.18
 3	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=i|Ref=MATT_5.18
@@ -5248,6 +5266,7 @@
 # sent_id = MATT_5.19
 # text = Ẹnikẹ́ni ti ó bá rú òfin tí ó tilẹ̀ kéré jù lọ, tí ó sì kọ́ ẹlòmíràn láti ṣe bẹ́ẹ̀, òun ni yóò kéré jù lọ ní ìjọba ọ̀run, ṣùgbọ́n ẹni tí ó bá ń sewọn, tí ó sì ń kọ́ wọn, ni yóò jẹ́ ẹni ńlá ní ìjọba ọ̀run.
 # text_en = Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
+# parallel_id = bible/matt-5-19
 1	Ẹnikẹ́ni	ẹnikẹ́ni	PRON	_	PronType=Ind	5	nsubj	_	Gloss=whosoever|Ref=MATT_5.19
 2	ti	tí	PRON	_	PronType=Rel	5	nmod	_	Gloss=have|Ref=MATT_5.19
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=he|Ref=MATT_5.19
@@ -5310,6 +5329,7 @@
 # sent_id = MATT_5.20
 # text = Nítorì náà ni mọ ti wí fún yín pé àfi bí òdodo yín bá ju ti àwọn Farisí àti ti àwọn olùkọ́ òfin lọ, dájúdájú ẹ̀yin kì yóò le wọ ìjọba ọ̀run.
 # text_en = For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
+# parallel_id = bible/matt-5-20
 1	Nítorì	nítorì	CCONJ	_	ExtPos=CCONJ	6	cc	_	Gloss=for|Ref=MATT_5.20
 2	náà	náà	ADV	_	_	1	fixed	_	Gloss=the|Ref=MATT_5.20
 3	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=MATT_5.20
@@ -5348,6 +5368,7 @@
 # sent_id = MATT_5.21
 # text = “Ẹ̀yin ti gbọ́ bí a ti wí fún àwọn ará ìgbàanì pé, ‘Ìwọ kò gbọdọ̀ pànìyàn, ẹnikẹni tí ó bá pànìyàn yóò wà nínú ewu ìdájọ́.’
 # text_en = Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
+# parallel_id = bible/matt-5-21
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.21|SpaceAfter=No
 2	Ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.21
 3	ti	ti	AUX	_	_	4	aux	_	Gloss=have|Ref=MATT_5.21
@@ -5388,6 +5409,7 @@
 # sent_id = MATT_5.22
 # text = Ṣùgbọ́n èmi wí fún un yín pé, ẹnikẹ́ni tí ó bínú sí arákùnrin rẹ̀ yóò wà nínú ewu ìdájọ́. Ẹnikẹ́ni ti ó ba wí fun arakùnrin rẹ̀ pé, ‘Ráákà’ yóò fara hàn níwájú Sahẹ́ńdìrì; ṣùgbọ́n ẹni tí ó bá wí pé ‘Ìwọ wèrè!’ yóò wà nínú ewu iná ọ̀run àpáàdì.
 # text_en = But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
+# parallel_id = bible/matt-5-22
 1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Gloss=but|Ref=MATT_5.22
 2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=MATT_5.22
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MATT_5.22
@@ -5452,6 +5474,7 @@
 # sent_id = MATT_5.23
 # text = “Nítorí náà, nígbà tí ìwọ bá ń mú ẹ̀bùn rẹ wá ṣíwájú pẹpẹ, bí ìwọ bá sì rántí níbẹ̀ pé arákùnrin rẹ̀ ni ohùn kan nínú sí ọ.
 # text_en = Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
+# parallel_id = bible/matt-5-23
 1	“	“	PUNCT	_	_	10	punct	_	Gloss=“|Ref=MATT_5.23|SpaceAfter=No
 2	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	10	mark	_	Gloss=for|Ref=MATT_5.23
 3	náà	náà	PRON	_	PronType=Dem	2	fixed	_	Gloss=that|Ref=MATT_5.23|SpaceAfter=No
@@ -5488,6 +5511,7 @@
 # sent_id = MATT_5.24
 # text = Fi ẹ̀bùn rẹ sílẹ̀ níwájú pẹpẹ. Ìwọ kọ́kọ́ lọ ṣe ìlàjà láàrin ìwọ àti arákùnrin rẹ̀ na. Lẹ́yìn náà, wá kí ó sì fi ẹ̀bùn rẹ sílẹ̀.
 # text_en = Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
+# parallel_id = bible/matt-5-24
 1	Fi	fi	VERB	_	_	0	root	_	Gloss=with|Ref=MATT_5.24
 2	ẹ̀bùn	ẹ̀bùn	NOUN	_	_	7	nsubj	_	Gloss=gift|Ref=MATT_5.24
 3	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=thy|Ref=MATT_5.24
@@ -5527,6 +5551,7 @@
 # sent_id = MATT_5.25
 # text = “Bá ọ̀tá rẹ làjà kánkán, ẹni tí ó ń gbé ọ lọ sílé ẹjọ́. Ṣe é nígbà ti ó wà ní ọ̀nà pẹ̀lú rẹ, bí bẹ́ẹ̀ kọ́ yóò fà ọ́ lé onídajọ lọ́wọ́, onídájọ́ yóò sí fá ọ lé àwọn ẹ̀sọ́ lọ́wọ́, wọ́n a sì sọ ọ́ sínú túbú.
 # text_en = Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
+# parallel_id = bible/matt-5-25
 1	“	“	PUNCT	_	_	5	punct	_	Gloss=“|Ref=MATT_5.25|SpaceAfter=No
 2	Bá	bá	ADP	_	_	3	case	_	Gloss=with|Ref=MATT_5.25
 3	ọ̀tá	ọ̀tá	NOUN	_	_	5	nsubj	_	Gloss=enemies|Ref=MATT_5.25
@@ -5593,6 +5618,7 @@
 # sent_id = MATT_5.26
 # text = Lóòótọ ni mo wí fún ọ, ìwọ kì yóò jáde kúrò níbẹ̀ títítí ìwọ yóò fi san ẹyọ owó kan tí ó kù.
 # text_en = Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
+# parallel_id = bible/matt-5-26
 1	Lóòótọ	lóòótọ	ADV	_	_	4	advmod	_	Gloss=verily|Ref=MATT_5.26
 2	ni	ni	PART	_	_	1	case	_	Gloss=is|Ref=MATT_5.26
 3	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=i|Ref=MATT_5.26
@@ -5622,6 +5648,7 @@
 # sent_id = MATT_5.27
 # text = “Ẹ̀yin ti gbọ́ bí òfin ti wí pé, ‘Ìwọ kò gbọdọ̀ ṣe panṣágà.’
 # text_en = Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
+# parallel_id = bible/matt-5-27
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.27|SpaceAfter=No
 2	Ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.27
 3	ti	ti	AUX	_	_	4	aux	_	Gloss=that|Ref=MATT_5.27
@@ -5644,6 +5671,7 @@
 # sent_id = MATT_5.28
 # text = Ṣùgbọ́n mo wí fún yín pé, ẹnikẹ́ni tí ó bá wo obìrinrin kan ní ìwòkuwò, ti bà a ṣe panṣágà ná ní ọkàn rẹ̀.
 # text_en = But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
+# parallel_id = bible/matt-5-28
 1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Gloss=but|Ref=MATT_5.28
 2	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=MATT_5.28
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MATT_5.28
@@ -5675,6 +5703,7 @@
 # sent_id = MATT_5.29
 # text = Bí ojú rẹ ọ̀tún bá mú ọ dẹ́sẹ̀, yọ ọ́ jáde, kí ó sì sọ ọ́ nù. Ó sàn kí ẹ̀ya ara rẹ kan ṣègbé, ju kí a gbé gbogbo ara rẹ jù sínú iná ọ̀run àpáàdì.
 # text_en = And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
+# parallel_id = bible/matt-5-29
 1	Bí	bí	SCONJ	_	_	2	case	_	Gloss=as|Ref=MATT_5.29
 2	ojú	ojú	NOUN	_	_	6	nsubj	_	Gloss=eyes|Ref=MATT_5.29
 3	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|Ref=MATT_5.29
@@ -5721,6 +5750,7 @@
 # sent_id = MATT_5.30
 # text = Bí ọwọ́ rẹ ọ̀tún bá mú ọ dẹ́ṣẹ̀ gé e kúrò, kí ó sì sọ ọ́ nù. Ó sàn kí ẹ̀ya ara rẹ kan ṣègbé ju kí gbogbo ara rẹ lọ sínú iná ọ̀run àpáàdì.
 # text_en = And if thy right hand offend thee, cut if off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
+# parallel_id = bible/matt-5-30
 1	Bí	bí	SCONJ	_	_	2	case	_	Gloss=as|Ref=MATT_5.30
 2	ọwọ́	ọwọ́	NOUN	_	_	6	nsubj	_	Gloss=hand|Ref=MATT_5.30
 3	rẹ	rẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|Ref=MATT_5.30
@@ -5763,6 +5793,7 @@
 # sent_id = MATT_5.31
 # text = “A ti wí pẹ̀lú pé, ‘Ẹnikẹ́ni tí ó bá kọ aya rẹ̀ sílẹ̀ gbọdọ̀ fún un ní ìwé-ẹ̀rí ìkọ̀sílẹ̀.’
 # text_en = It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:
+# parallel_id = bible/matt-5-31
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.31|SpaceAfter=No
 2	A	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	Gloss=we|Ref=MATT_5.31
 3	ti	ti	AUX	_	_	4	aux	_	Gloss=have|Ref=MATT_5.31
@@ -5795,6 +5826,7 @@
 # sent_id = MATT_5.32
 # text = Ṣùgbọ́n mo wí fún yín pé, ẹnikẹ́ni tí ó bá kọ aya rẹ̀, àfi nítorí àgbèrè, mú un se àgbèrè, ẹnikẹ́ni tí ó bá sì fẹ́ obìnrin tí a kọ̀ sílẹ̀ ní ìyàwó ṣe àgbèrè.
 # text_en = But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
+# parallel_id = bible/matt-5-32
 1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Gloss=but|Ref=MATT_5.32
 2	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=MATT_5.32
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MATT_5.32
@@ -5841,6 +5873,7 @@
 # sent_id = MATT_5.33
 # text = “Ẹ̀yin ti gbọ́ bí a ti wí fún àwọn ará ìgbàani pé; ‘Ìwọ kò gbọdọ̀ búrá èké bí kò ṣe pé kí ìwọ kí ó mú ìbúra rẹ̀ sí Olúwa ṣẹ.’
 # text_en = Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
+# parallel_id = bible/matt-5-33
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.33|SpaceAfter=No
 2	Ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.33
 3	ti	ti	AUX	_	_	4	aux	_	Gloss=have|Ref=MATT_5.33
@@ -5881,6 +5914,7 @@
 # sent_id = MATT_5.34
 # text = Ṣùgbọ́n èmi wí fún yín, Ẹ má ṣe búra rárá,: ìbáà ṣe ìfi-ọ̀run-búra, nítorí ìtẹ́ Ọlọ́run ni.
 # text_en = But I say unto you, Swear not at all; neither by heaven; for it is God's throne:
+# parallel_id = bible/matt-5-34
 1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Gloss=but|Ref=MATT_5.34
 2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=MATT_5.34
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MATT_5.34
@@ -5911,6 +5945,7 @@
 # sent_id = MATT_5.35
 # text = Tàbí ìfi-ayé-búra, nítorí àpótí ìtìsẹ̀ Ọlọ́run ni; tàbí Jerúsálémù, nítorí olórí ìlú Ọba Ńlá ni.
 # text_en = Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.
+# parallel_id = bible/matt-5-35
 1	Tàbí	tàbí	CCONJ	_	_	2	cc	_	Gloss=nor|Ref=MATT_5.35
 2	ìfi	ìfi	NOUN	_	_	0	root	_	Gloss=using|Ref=MATT_5.35|SpaceAfter=No
 3	-	-	PUNCT	_	_	4	punct	_	Gloss=-|Ref=MATT_5.35|SpaceAfter=No
@@ -5938,6 +5973,7 @@
 # sent_id = MATT_5.36
 # text = Má ṣe fi orí rẹ búra, nítorí ìwọ kò lè sọ irun ẹyọ kan di funfun tàbí di dúdú.
 # text_en = Neither shalt thou swear by thy head, because thou canst not make one hair white or black.
+# parallel_id = bible/matt-5-36
 1	Má	má	AUX	_	_	2	aux	_	Gloss=not|Ref=MATT_5.36
 2	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=do|Ref=MATT_5.36
 3	fi	fi	VERB	_	_	4	compound:svc	_	Gloss=use|Ref=MATT_5.36
@@ -5963,6 +5999,7 @@
 # sent_id = MATT_5.37
 # text = Ẹ jẹ́ kí bẹ́ẹ̀ ni yín jẹ́ bẹ́ẹ̀ ni àti bẹ́ẹ̀ kọ́ yín jẹ́ bẹ́ẹ̀ kọ́, ohunkóhun tí ó ba ju ìwọ̀nyí lọ, wá láti ọ̀dọ̀ ẹni ibi.
 # text_en = But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
+# parallel_id = bible/matt-5-37
 1	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|Ref=MATT_5.37
 2	jẹ́	jẹ́	VERB	_	_	0	root	_	Gloss=let|Ref=MATT_5.37
 3	kí	kí	AUX	_	_	2	aux	_	Gloss=-|Ref=MATT_5.37
@@ -5998,6 +6035,7 @@
 # sent_id = MATT_5.38
 # text = “Ẹ̀yin tí gbọ́ bí òfin tí wí pé, ‘Ojú fún ojú àti eyín fún eyín.’
 # text_en = Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:
+# parallel_id = bible/matt-5-38
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.38|SpaceAfter=No
 2	Ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.38
 3	tí	ti	AUX	_	Typo=Yes	4	aux	_	Gloss=have|Ref=MATT_5.38
@@ -6022,6 +6060,7 @@
 # sent_id = MATT_5.39
 # text = Ṣùgbọ́n èmi wí fún yín pé, ‘Ẹ má ṣe tako ẹni ibi. Bí ẹnì kan bá gbá ọ lẹ́rẹ̀kẹ́ ọ̀tún, yí ẹ̀rẹ̀kẹ́ òsì sí olúwa rẹ̀ pẹ̀lú.
 # text_en = But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.
+# parallel_id = bible/matt-5-39
 1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Gloss=but|Ref=MATT_5.39
 2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=MATT_5.39
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MATT_5.39
@@ -6060,6 +6099,7 @@
 # sent_id = MATT_5.40
 # text = Bí ẹnì kan bá fẹ́ gbé ọ lọ sílé ẹjọ́, tí ó sì fẹ́ gba ẹ̀wù àwọ̀tẹ́lẹ̀, jọ̀wọ́ agbádá rẹ fún un pẹ̀lú.
 # text_en = And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also.
+# parallel_id = bible/matt-5-40
 1	Bí	bí	SCONJ	_	_	5	mark	_	Gloss=as|Ref=MATT_5.40
 2	ẹnì	ẹnì	PRON	_	ExtPos=PRON|PronType=Ind	5	nsubj	_	Gloss=someone|Ref=MATT_5.40
 3	kan	kan	NUM	_	NumType=Card	2	fixed	_	Gloss=a|Ref=MATT_5.40
@@ -6092,6 +6132,7 @@
 # sent_id = MATT_5.41
 # text = Bí ẹni kan bá fẹ́ fi agbára mú ọ rìn ibùsọ̀ kan, bá a lọ ní ibùsọ̀ méjì.
 # text_en = And whosoever shall compel thee to go a mile, go with him twain.
+# parallel_id = bible/matt-5-41
 1	Bí	bí	SCONJ	_	_	5	mark	_	Gloss=as|Ref=MATT_5.41
 2	ẹni	ẹni	PRON	_	ExtPos=PRON|PronType=Ind	5	nsubj	_	Gloss=someone|Ref=MATT_5.41
 3	kan	kan	NUM	_	NumType=Card	2	fixed	_	Gloss=a|Ref=MATT_5.41
@@ -6116,6 +6157,7 @@
 # sent_id = MATT_5.42
 # text = Fi fún àwọn tí ó béèrè lọ́wọ́ rẹ, má ṣe kọ̀ fún ẹni tí ó fẹ́ ya láti lọ́wọ́ rẹ.
 # text_en = Give to him that asketh thee, and from him that would borrow of thee turn not thou away.
+# parallel_id = bible/matt-5-42
 1	Fi	fi	VERB	_	_	6	ccomp	_	Gloss=use|Ref=MATT_5.42
 2	fún	fún	ADP	_	_	6	case	_	Gloss=unto|Ref=MATT_5.42
 3	àwọn	àwọn	PRON	_	PronType=Ind	6	nsubj	_	Gloss=the|Ref=MATT_5.42
@@ -6142,6 +6184,7 @@
 # sent_id = MATT_5.43
 # text = “Ẹ̀yin ti gbọ́ bí òfin ti wí pé, ‘Fẹ́ràn aládúgbo rẹ, kí ìwọ sì kórírà ọ̀ta rẹ̀.’
 # text_en = Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
+# parallel_id = bible/matt-5-43
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=“|Ref=MATT_5.43|SpaceAfter=No
 2	Ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.43
 3	ti	ti	AUX	_	_	4	aux	_	Gloss=have|Ref=MATT_5.43
@@ -6169,6 +6212,7 @@
 # sent_id = MATT_5.44
 # text = Ṣùgbọ́n èmi wí fún yín pé, ẹ fẹ́ràn àwọn ọ̀ta yín kí ẹ sì gbàdúrà fún àwọn tí ń ṣe inúnibíni sí yín,
 # text_en = But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
+# parallel_id = bible/matt-5-44
 1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Gloss=but|Ref=MATT_5.44
 2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=MATT_5.44
 3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MATT_5.44
@@ -6198,6 +6242,7 @@
 # sent_id = MATT_5.45
 # text = Kí ẹ̀yin lè jẹ́ ọmọ Baba yín bi ń bẹ ní ọ̀run. Ó mú kí oòrùn rẹ̀ ràn sára ènìyàn búburú àti ènìyàn rere, ó rọ̀jò fún àwọn olódodo àti fún àwọn aláìṣòdodo.
 # text_en = That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
+# parallel_id = bible/matt-5-45
 1	Kí	kí	AUX	_	_	5	aux	_	Gloss=let|Ref=MATT_5.45
 2	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Gloss=you|Ref=MATT_5.45
 3	lè	lè	AUX	_	_	5	aux	_	Gloss=may|Ref=MATT_5.45
@@ -6240,6 +6285,7 @@
 # sent_id = MATT_5.46
 # text = Bí ẹ̀yin bá fẹ́ràn àwọn tí ó fẹ́ràn yín nìkan, èrè kí ni ẹ̀yin ní? Àwọn agbowó-òde kò ha ń ṣe bẹ́ẹ̀ gẹ́gẹ́?
 # text_en = For if ye love them which love you, what reward have ye? do not even the publicans the same?
+# parallel_id = bible/matt-5-46
 1	Bí	bí	SCONJ	_	_	4	mark	_	Gloss=if|Ref=MATT_5.46
 2	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=MATT_5.46
 3	bá	bá	SCONJ	_	_	4	mark	_	Gloss=if|Ref=MATT_5.46
@@ -6272,6 +6318,7 @@
 # sent_id = MATT_5.47
 # text = Àti bí ó bá sì jẹ́ pé kìkì àwọn arákùnrin yín nìkan ni ẹ̀yin ń kí, kín ni ẹ̀yin ń ṣe ju àwọn mìíràn? Àwọn abọ̀rìṣà kò ha ń ṣe bẹ́ẹ̀ bí?
 # text_en = And if ye salute your brethren only, what do ye more than others? do not even the publicans so?
+# parallel_id = bible/matt-5-47
 1	Àti	àti	CCONJ	_	PronType=Ind	10	cc	_	Gloss=and|Ref=MATT_5.47
 2	bí	bí	SCONJ	_	_	10	mark	_	Gloss=as|Ref=MATT_5.47
 3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Gloss=it|Ref=MATT_5.47
@@ -6311,6 +6358,7 @@
 # sent_id = MATT_5.48
 # text = Nítorí náà, ẹ jẹ́ pípé, gẹ́gẹ́ bí Baba yín tí ń bẹ ní ọ̀run ṣe jẹ́ pípé.
 # text_en = Be ye therefore perfect, even as your Father which is in heaven is perfect.
+# parallel_id = bible/matt-5-48
 1	Nítorí	nítorí	SCONJ	_	ExtPos=SCONJ	6	mark	_	Gloss=for|Ref=MATT_5.48
 2	náà	náà	PRON	_	PronType=Dem	1	fixed	_	Gloss=that|Ref=MATT_5.48|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	Gloss=,|Ref=MATT_5.48
