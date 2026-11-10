@@ -49,7 +49,7 @@ Parts of the Yoruba Bible and of the Yoruba edition of Wikipedia, hand-annotated
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
-Parallel: no
+Parallel: bible
 Genre: bible wiki
 Lemmas: manual native
 UPOS: manual native
