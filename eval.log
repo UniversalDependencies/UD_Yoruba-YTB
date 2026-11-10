@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Yoruba-YTB:
-commit 699644ac0a7f8c3672524623711849222a27a213
+commit 681088ed310ddfc4b4543489543e32ff446fc580
+Merge: d07fe63 6c8a79b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 21:02:59 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'yo_ytb'
 Language code (from CoNLL-U file name) = 'yo'
 Found the following data files: yo_ytb-ud-test.conllu
-Size: counted 8243 of 8243 words (nodes).
-Size: min(0, log((N/1000)**2)) = 4.21872871066218.
+Size: counted 8242 of 8242 words (nodes).
+Size: min(0, log((N/1000)**2)) = 4.21848606583325.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,57 +19,21 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 1572 out of 8243 total words have one or more features.
+Features: 1827 out of 8242 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang yo --max-err=10 UD_Yoruba-YTB/yo_ytb-ud-test.conllu
-[Line 9 Sent GEN_1.1]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 45 Sent GEN_1.2]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 281 Sent GEN_1.11]: [L3 WARNING pron-det-without-prontype] The word 'tí' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 567 Sent GEN_1.21]: [L3 WARNING fixed-without-extpos] Fixed expression 'Nítorí náà' does not have the 'ExtPos' feature
-[Line 568 Sent GEN_1.21]: [L3 WARNING pron-det-without-prontype] The word 'náà' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 572 Sent GEN_1.21]: [L3 SYNTAX too-many-objects] Multiple direct objects [16, 20] ('ohun', 'ohun') under the predicate 'ẹ̀dá'.
-[Line 625 Sent GEN_1.22]: [L3 WARNING pron-det-without-prontype] The word 'Ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 631 Sent GEN_1.22]: [L3 WARNING pron-det-without-prontype] The word 'ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 638 Sent GEN_1.22]: [L3 WARNING pron-det-without-prontype] The word 'ẹ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 727 Sent GEN_1.25]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 732 Sent GEN_1.25]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 756 Sent GEN_1.26]: [L3 WARNING fixed-without-extpos] Fixed expression 'Lẹ́yìn náà' does not have the 'ExtPos' feature
-[Line 797 Sent GEN_1.26]: [L3 WARNING pron-det-without-prontype] The word 'gbogbo' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further messages regarding WARNING/MORPHO
-[Line 826 Sent JOHN_10.1]: [L3 WARNING fixed-without-extpos] Fixed expression 'Ẹni tí' does not have the 'ExtPos' feature
-[Line 859 Sent JOHN_10.2]: [L3 WARNING fixed-without-extpos] Fixed expression 'ẹni tí' does not have the 'ExtPos' feature
-[Line 914 Sent JOHN_10.4]: [L3 WARNING fixed-without-extpos] Fixed expression 'Nígbà tí' does not have the 'ExtPos' feature
-[Line 939 Sent JOHN_10.4]: [L3 WARNING fixed-without-extpos] Fixed expression 'nítorí tí' does not have the 'ExtPos' feature
-[Line 965 Sent JOHN_10.5]: [L3 WARNING fixed-without-extpos] Fixed expression 'nítorí tí' does not have the 'ExtPos' feature
-[Line 1007 Sent JOHN_10.7]: [L3 WARNING fixed-without-extpos] Fixed expression 'Nítorí náà' does not have the 'ExtPos' feature
-[Line 1164 Sent JOHN_10.12]: [L3 WARNING fixed-without-extpos] Fixed expression 'ẹni tí' does not have the 'ExtPos' feature
-[Line 1198 Sent JOHN_10.13]: [L3 WARNING fixed-without-extpos] Fixed expression 'nítorí tí' does not have the 'ExtPos' feature
-...suppressing further messages regarding WARNING/SYNTAX
-[Line 1619 Sent JOHN_10.32]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 15] ('iṣẹ́', 'yín') under the predicate 'fi'.
-[Line 1657 Sent JOHN_10.33]: [L3 SYNTAX too-many-objects] Multiple direct objects [13, 15] ('ọ́', 'òkúta') under the predicate 'sọ'.
-[Line 3093 Sent MARK_5.1]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'ilẹ̀') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3226 Sent MARK_5.5]: [L3 SYNTAX too-many-objects] Multiple direct objects [22, 24] ('òkúta', 'ara') under the predicate 'fi'.
-[Line 3543 Sent MARK_5.15]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 13] ('ọkùnrin', 'ẹni') under the predicate 'rí'.
-[Line 3586 Sent MARK_5.16]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 14] ('rẹ̀', 'ohun') under the predicate 'ròyìn'.
-[Line 3833 Sent MARK_5.23]: [L3 SYNTAX too-many-objects] Multiple direct objects [21, 24] ('ọwọ́', 'e') under the predicate 'fi'.
-[Line 3934 Sent MARK_5.26]: [L3 SYNTAX obl-should-be-nmod] The parent (node [32] 'ó') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3944 Sent MARK_5.27]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 12] ('iṣẹ́', 'ìdí') under the predicate 'gburo'.
-...suppressing further messages regarding ERROR/SYNTAX
-Warnings: 310
-SYNTAX errors: 47
-*** FAILED *** with 47 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
-(weight=0.37037037037037) * (score{size}=0.305361766614568) = 0.113096950597988
+(weight=0.37037037037037) * (score{size}=0.30534420339619) = 0.113090445702293
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
 (weight=0.111111111111111) * (score{udeprels}=0.864864864864865) = 0.0960960960960961
-(TOTAL score=0.477835022002726) * (availability=1) * (validity=0.01) = 0.00477835022002726
-STARS = 0
-UD_Yoruba-YTB	0.00477835022002726	0
+(TOTAL score=0.477828517107031) * (availability=1) * (validity=1) = 0.477828517107031
+STARS = 2.5
+UD_Yoruba-YTB	0.477828517107031	2.5
